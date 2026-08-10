@@ -20,4 +20,4 @@
 **We live on our boat and sail the Arctic.**
 ==========
 
-JOIN THE ARCTIC SUPPORT CREW
+[JOIN THE ARCTIC SUPPORT CREW](https://www.alluringarctic.com/support)

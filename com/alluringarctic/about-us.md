@@ -43,7 +43,7 @@ Sohvi's first real sailing experience was on one of our first dates. It was a wi
 
 Juho had long dreamed of accessing some of of the Norway's skiable mountains using a boat. In 2018 we sailed *Sylvia* to northern Norway. There we spent two years sailing, skiing and hiking. *Sylvia* was a Beneteau Idylle 11.50, a stock fibreglass boat that held up surprisingly well even through the winters at 70 degrees north.
 
-We also sailed *Sylvia* to Svalbard, where we took part in our first real natural science project, sampling snow for persistent organic pollutants. See more projects here.
+We also sailed *Sylvia* to Svalbard, where we took part in our first real natural science project, sampling snow for persistent organic pollutants. [See more projects here.](https://www.alluringarctic.com/science)
 
 During COVID we sailed Sylvia to Sweden and sold her. We started hunting for our next boat while simultaneously looking after our friends' twin-engine trawler/sailboat *Arktika*. We took *Arktika* from Norway via the Faroes to Iceland and got to know the local boatyards quite intimately as we spent a lot of time sorting out technical issues.
 
@@ -55,7 +55,7 @@ In 2024 we sailed the Northwest Passage from Alaska to Greenland, by far our big
 
 We overwintered in Greenland in 2024–2025, letting *Lumi* freeze into the ice in a remote bay and spending 180 days locked in. In Greenland we adopted our Greenland dog Nova. She was supposed to be our polar bear watch during overwintering but instead of sleeping outside on the ice she ended up snuggling at our feet.
 
-Here is the plan for 2026.
+[Here is the plan for 2026.](https://www.alluringarctic.com/next-mission)
 
 ---
 

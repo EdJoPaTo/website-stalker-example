@@ -3,6 +3,26 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+### New experimental platform ###
+
+For everyone who enjoys experimenting and trying out new things, we have made a new platform available: [htttps://experiments.hetzner.com](https://experiments.hetzner.com/)
+
+The platform itself, as well as the experimental offerings provided through it, are at an early stage of development and are intentionally not held to the same standards as our other products. They are prototypes, experiments, and features that allow us to push boundaries and explore new possibilities. In short:
+
+* Free during the experimental phase
+* Neither the platform nor the offerings are production-ready
+* Limited web interface
+
+One offering currently available is:
+
+* Inference — For developers testing AI inference through an API: open models, API use cases, and platform stability.
+
+However, the available software may change at any time, depending on what we are currently testing.
+
+Your feedback also directly helps shape future product decisions — so you're not just testing with us, you're helping shape what comes next.
+
+Have fun trying things out and experimenting!
+
 ### New Cloud server plan in EU: CPX12 ###
 
 Due to popular demand, the “Regular Performance” cloud server CPX12 with 1 vCPU, 2 GB RAM, and 40 GB disk space is now also available in our European locations (FSN1, HEL1, and NBG1).
