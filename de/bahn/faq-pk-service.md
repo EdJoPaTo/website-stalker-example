@@ -2415,10 +2415,10 @@ DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/for-which-products-can-i-redeem-db-gift-vouchers)
 
- Was ändert sich an den Freifahrtprämien Flex?
+ Was hat sich an den Freifahrtprämien Flex geändert?
 ----------
 
-Die benötigten Punkte der Gutscheine für die Freifahrten Flex erhöhen sich wie folgt:
+Die benötigten Punkte der Gutscheine für die Freifahrten Flex sind nun wie folgt:
 
 * 2. Klasse, einfache Fahrt - 2.500 Prämienpunkte
 * 1. Klasse, einfache Fahrt - 3.500 Prämienpunkte
@@ -2427,17 +2427,17 @@ Die benötigten Punkte der Gutscheine für die Freifahrten Flex erhöhen sich wi
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-flex)
 
- Ändern sich noch bei weiteren Prämien die Punktehöhen?
+ Haben sich noch bei weiteren Prämien die Punktehöhen geändert?
 ----------
 
 Bei allen weiteren Bahnprämien, wie Sitzplatzreservierungen, 1. Klasse Upgrades und Reisegutscheinen bleibt die aktuelle Punktehöhe bestehen. Auch die Sach-, Partner- und Spendenprämien sind nicht betroffen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-weitere-praemien)
 
- Für welche Freifahrtprämien wird es zukünftig verschiedene Punktehöhen geben?
+ Für welche Freifahrtprämien gibt es verschiedene Punktehöhen?
 ----------
 
-Für folgende Freifahrtprämien wird es verschiedene Punktehöhen geben:
+Für folgende Freifahrtprämien gibt es verschiedene Punktehöhen:
 
 * Freifahrt 2. Klasse (750-2.000 Prämienpunkte)
 * Freifahrt 1. Klasse (1.250-2.500 Prämienpunkte)
@@ -2446,20 +2446,20 @@ Für folgende Freifahrtprämien wird es verschiedene Punktehöhen geben:
 * Mitfahr-Freifahrt 2. Klasse (750-2.000 Prämienpunkte)
 * Mitfahr-Freifahrt 1. Klasse (1.250-2.500 Prämienpunkte)
 
-Mit den neuen Punktestufen in 250er Schritten können nationale Freifahrten künftig auch für Verbindungen eingelöst werden, für die bisher keine Freifahrten für 1.000 Punkte verfügbar waren.
+Mit den neuen Punktestufen in 250er Schritten können nationale Freifahrten auch für Verbindungen eingelöst werden, für die vorher keine Freifahrten für 1.000 Punkte verfügbar waren.
 
-Die beiden höchsten Preisstufen gelten ausschließlich für nationale Verbindungen, auf denen bislang grundsätzlich keine Freifahrten angeboten wurden. Dadurch wird das Angebot erweitert und die Einlösung von Punkten auf zusätzlichen Verbindungen ermöglicht.
+Die beiden höchsten Preisstufen gelten ausschließlich für nationale Verbindungen, auf denen früher grundsätzlich keine Freifahrten angeboten wurden. Dadurch wird das Angebot erweitert und die Einlösung von Punkten auf zusätzlichen Verbindungen ermöglicht.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-welche)
 
- Was ändert sich bei den nationalen Freifahrtprämien?
+ Was hat sich bei den nationalen Freifahrtprämien geändert?
 ----------
 
 Alle nationalen Freifahrten können in einer Buchung frei nach Klasse und Hin- und/oder Rückfahrt ausgewählt werden (äquivalent zur normalen Ticketbuchung).
 
 Außerdem gibt es Freifahrten schon ab 750 Prämienpunkten – abhängig von Strecke, Buchungszeitpunkt und weiteren Faktoren.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-was-aendert-sich)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-was-hat-sich-geaendert)
 
  Wie sammle ich BahnBonus Punkte?
 ----------
