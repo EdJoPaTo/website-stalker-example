@@ -24,9 +24,12 @@ Wählen Sie Ihre DB Lounge für detaillierte Informationen
 * [Springe zu: DB Lounge Nürnberg](https://www.bahn.de/service/zug/db-lounge#nuernberg)
 * [Springe zu: DB Lounge Stuttgart](https://www.bahn.de/service/zug/db-lounge#stuttgart)
 
+Allgemeine Informationen
+----------
+
 * [Springe zu: Zutritt, Ausstattung und Gastronomie](https://www.bahn.de/service/zug/db-lounge#zutritt)
 
-DB Lounges - Zutritt, Ausstattung und Gastronomie
+DB Lounges – Zutritt, Ausstattung und Gastronomie
 ----------
 
 ###  DB Lounge Bereiche  ###
@@ -47,7 +50,7 @@ Zutritt in die DB Lounges erhalten
 * BahnCard 100 1. Klasse Inhaberinnen und Inhaber und eine Person in Ihrer Begleitung\*
 * Reisende mit einem tagesaktuellen DB Fernverkehrsticket 1. Klasse im Tarif Flexpreis
 
-In unseren DB Lounges gilt eine allgemeine Ticketpflicht (tagesaktuelle Fahrkarte für den Fernverkehr der DB). Die Legitimationskontrolle erfolgt durch das elektronische Lesegerät per Scanner oder durch die Mitarbeitenden am Empfang. Für die Zutrittskontrolle legen Sie einfach Ihre Fahrkarte oder den Code aus Ihrer BahnBonus App auf den Scanner oder ziehen Sie Ihre BahnCard durch den Kartenschlitz. Als BahnBonus Statuskund:in sowie als Begleitperson halten Sie bitte zur Legitimation zusätzlich Ihr DB Fernverkehrsticket bereit.
+In unseren DB Lounges gilt eine allgemeine Ticketpflicht (tagesaktuelle Fahrkarte für den Fernverkehr der DB). Die Legitimationskontrolle erfolgt durch das elektronische Lesegerät per Scanner oder durch die Mitarbeitenden am Empfang. Für die Zutrittskontrolle legen Sie einfach Ihre Fahrkarte oder den Code aus Ihrer BahnBonus App auf den Scanner oder ziehen Sie Ihre BahnCard durch den Kartenschlitz. Als BahnBonus Statuskundin oder Statuskunde sowie als Begleitperson halten Sie bitte zur Legitimation zusätzlich Ihr DB Fernverkehrsticket bereit.
 
 Zu den Premium Bereichen der DB Lounges Berlin, Mannheim, München, Köln, Hamburg, Hannover und Frankfurt Hbf haben ausschließlich Statuskundinnen und -kunden mit gültigem Statuslevel Platin in Verbindung mit einem DB Fernverkehrsticket, Inhaberinnen und Inhaber einer BahnCard 100 1. Klasse sowie Reisende mit einer Fernverkehrsfahrkarte 1. Klasse im Tarif Flexpreis (ausgenommen sind Fahrkarten mit Start und Ziel innerhalb der Gebiete der jeweiligen Verkehrsverbünde) Zutritt.
 

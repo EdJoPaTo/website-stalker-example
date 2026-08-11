@@ -62,6 +62,7 @@ Zudem erhalten Sie das Formular auch beim Servicepersonal im Zug, an der DB Info
 * [Fahrgastrechte-Formular aufrufen (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
 
 In 3 Schritten per Fahrgastrechte-Formular zur Entschädigung:
+----------
 
 ###  1. Formular ausfüllen  ###
 
