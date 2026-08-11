@@ -1497,6 +1497,32 @@ Falls Sie mit Ihrem DB Kundenkonto eingeloggt sind, aber Ihnen Kiana unter "Hilf
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana)
 
+ Bei welchen Anliegen hilft der Chatbot Kiana auf bahn.de?
+----------
+
+Der KI-gestützte Chatbot Kiana auf bahn.de unterstützt Sie bei Fragen rund um die Deutsche Bahn. Dazu gehören unter anderem Verbindungs- und Fahrplanauskünfte, Echtzeit-Informationen zu Zügen, Informationen zu Bahnhöfen sowie Antworten auf häufige Fragen zu Angeboten und Services der Deutschen Bahn.
+
+Aktuell befindet sich Kiana in einer Testphase. Daher kann der Chatbot noch nicht alle Anliegen bearbeiten. Kiana kann derzeit keine Buchungen, Umbuchungen oder Stornierungen durchführen und hat **keinen Zugriff auf** Ihr DB Kundenkonto. Kiana kann daher keine Anliegen zu Ihren gebuchten Tickets oder Aufträgen bearbeiten.
+
+Wenn Kiana Ihr Anliegen nicht lösen kann, verweist der Chatbot auf passende Kontaktformulare oder Servicenummern des Kundenservice der Deutschen Bahn.
+
+Da Kiana ein KI-gestützter Chatbot ist, können vereinzelt fehlerhafte oder unvollständige Antworten auftreten. Die bereitgestellten Informationen dienen daher als Orientierungshilfe und stellen keine rechtsverbindliche Auskunft dar. Die Funktionen von Kiana werden während der Testphase kontinuierlich weiterentwickelt und optimiert.
+
+* [Zur Hilfe & Kontakt-Seite](https://www.bahn.de/hilfe)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-anliegen)
+
+ Kann ich über den Chatbot Kiana direkt mit dem Kundenservice chatten?
+----------
+
+Nein. Kiana ist ein KI-basierter Chatbot, der automatisiert Antworten auf Ihre Fragen bereitstellt. Eine direkte Kommunikation mit oder Weiterleitung an Mitarbeitende unseres Kundenservices ist über Kiana nicht möglich.
+
+Wenn Ihr Anliegen eine persönliche Prüfung oder Bearbeitung durch den Kundenservice der Deutschen Bahn erfordert, verweist Kiana auf die passenden Kontaktmöglichkeiten, beispielsweise ein Kontaktformular oder eine Telefonnummer.
+
+* [Zur Hilfe & Kontakt-Seite](https://www.bahn.de/hilfe)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-kundenservice)
+
  Are there different age rules for children?
 ----------
 
