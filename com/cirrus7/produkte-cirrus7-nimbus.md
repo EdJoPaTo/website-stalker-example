@@ -388,7 +388,7 @@ cirrus nimbus
 
   * KeinePatriot P300 128GB (49,00 €)Patriot P300 256GB (79,00 €)Patriot P300 512GB (109,00 €)
 
-  * Samsung SSD 990 Pro 1TB (269,00 €)Samsung SSD 990 Pro 2TB (389,00 €)Samsung SSD 990 Pro 4TB (609,00 €)
+  * Samsung SSD 990 Pro 1TB (269,00 €)Samsung SSD 990 Pro 2TB (399,00 €)Samsung SSD 990 Pro 4TB (699,00 €)
 
   ##### SSD #####
 
