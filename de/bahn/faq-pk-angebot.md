@@ -2018,7 +2018,7 @@ Sie finden Ihre BahnCard 100 als digitales Ticket im Bereich "Reisen" oder direk
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard100-wo)
 
- Wie lassen sich mit dem (Super) Sparpreis Europa die Bahnsteigsperren an den Bahnhöfen in den Niederlanden öffnen?
+ Wie lassen sich die Bahnsteigsperren an den Bahnhöfen in den Niederlanden öffnen?
 ----------
 
 Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ticket, um bei geschlossener Bahnsteigsperre den Bahnhof zu verlassen oder zu betreten. Einfach den viereckigen Barcode an die beleuchtete Fläche vor der Sperre halten und schon öffnet sich der Durchgang. Falls Sie Ihr Online-Ticket auf einem mobilen Endgerät vorzeigen und in diesem Endgerät Ihre Kreditkarte hinterlegt haben, empfehlen wir, NFC zu deaktivieren, um eine unbeabsichtigte Abbuchung zu vermeiden.

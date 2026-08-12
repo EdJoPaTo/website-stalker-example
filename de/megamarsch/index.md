@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### hamburg bei nacht ###
+### berlin bei nacht ###
 
-###  08.-09. August 2026 ###
+### 29. - 30. August 2026 ###
 
 ### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/hamburg-bei-nacht)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/berlin)
 
 [Location](https://www.megamarsch.de/ostsee)
 
