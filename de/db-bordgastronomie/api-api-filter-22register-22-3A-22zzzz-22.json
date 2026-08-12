@@ -2800,6 +2800,7 @@
 					"img_bg_alt": "Kindermenü-Snackbox mit DB-Spielzeugfiguren.",
 					"img_bg_alt_en": "Kids' menu snack box with DB toy figures.",
 					"img_bg_alt_fr": "Menu enfant avec boîte à goûter et figurines DB.",
+					"img_bg_anchor": "left",
 					"img_bg_mobile": "banner-img_bg_mobile-5.jpg",
 					"legal_text_type": "kinderwelt",
 					"target_url": null
