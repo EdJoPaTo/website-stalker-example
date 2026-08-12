@@ -34,17 +34,23 @@ Der ICE 3neo ist seit Ende 2022 mit zahlreichen Neuerungen und mehr Komfort für
 
 [Mehr zum ICE 3neo erfahren](https://www.bahn.de/service/ueber-uns/zugtypen/ice-3neo)
 
-### ICE T: der Kurvenspezialist ###
-
-Der ICE T fährt 7-teilig und erlaubt einen Blick zum Lokführer.
-
-[Mehr zum ICE T erfahren](https://www.bahn.de/service/ueber-uns/zugtypen/ice-t)
-
 ### ICE 4: das neue Rückgrat ###
 
 Mehr Komfort, mehr Service, mehr Umweltschutz: Das bietet der ICE 4.
 
 [Mehr zum ICE 4 erfahren](https://www.bahn.de/service/ueber-uns/zugtypen/ice-4)
+
+###  ICE L: modern, komfortabel und barrierefrei ###
+
+Unter dem Namen „ICE L“ werden die neuen Züge ab 2025 unsere Fahrzeugflotte erweitern und die alten Intercity-1-Züge ablösen.
+
+[Zum ICE L](https://www.bahn.de/service/ueber-uns/zugtypen/ICE-L)
+
+### ICE T: der Kurvenspezialist ###
+
+Der ICE T fährt 7-teilig und erlaubt einen Blick zum Lokführer.
+
+[Mehr zum ICE T erfahren](https://www.bahn.de/service/ueber-uns/zugtypen/ice-t)
 
 ### Intercity 1: der Reisezugklassiker ###
 
@@ -63,12 +69,6 @@ Die Intercity-Generation mit zwei Ebenen zum Wohlfühlen.
 Weniger Zwischenhalte sorgen für eine entspannte Reiseatmosphäre.
 
 [Mehr zum ICE Sprinter erfahren](https://www.bahn.de/service/ueber-uns/zugtypen/ice-sprinter)
-
-### ICE L ###
-
-Unter dem Namen „ICE L“ werden die neuen Züge ab 2025 unsere Fahrzeugflotte erweitern und die alten Intercity-1-Züge ablösen.
-
-[Zum ICE L](https://www.bahn.de/service/ueber-uns/zugtypen/ICE-L)
 
 ### DB Sylt Shuttle ###
 

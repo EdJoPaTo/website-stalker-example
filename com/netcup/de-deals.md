@@ -5,6 +5,107 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter\>](https://www.netcup.com/de/deals#newsletter)
 
+Preisoptimierte vServer Tarife
+----------
+
+Unsere vServer Lite Tarife sind **dauerhaft preisoptimiert** und bieten ein **besonders attraktives Preis-Leistungs-Verhältnis** – ohne Abstriche in Stabilität und Zuverlässigkeit. Ideal für Anwendungen mit moderatem Traffic und preisbewusste Workloads.
+
+VPS Lite 1 G12s
+
+* 2 vCore (x86)
+
+* 4 GB RAM
+
+* 80 GB SSD
+
+* Traffic inklusive
+
+* Snapshots (Copy-On-Write)
+
+* Remote-Konsole uvm...
+
+ Details \>
+
+monatlich nur
+
+4,88 €
+
+(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-1-g12s-6m)
+
+VPS Lite 2 G12s
+
+* 4 vCore (x86)
+
+* 8 GB RAM
+
+* 160 GB SSD
+
+* Traffic inklusive
+
+* Snapshots (Copy-On-Write)
+
+* Remote-Konsole uvm...
+
+ Details \>
+
+monatlich nur
+
+7,92 €
+
+(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-2-g12s-3m)
+
+VPS Lite 3 G12s
+
+* 8 vCore (x86)
+
+* 16 GB RAM
+
+* 320 GB SSD
+
+* Traffic inklusive
+
+* Snapshots (Copy-On-Write)
+
+* Remote-Konsole uvm...
+
+ Details \>
+
+monatlich nur
+
+13,89 €
+
+(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-3-g12s-2m)
+
+VPS Lite 4 G12s
+
+* 16 vCore (x86)
+
+* 32 GB RAM
+
+* 640 GB SSD
+
+* Traffic inklusive
+
+* Snapshots (Copy-On-Write)
+
+* Remote-Konsole uvm...
+
+ Details \>
+
+monatlich nur
+
+25,72 €
+
+(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-4-g12s-1m)
+
 Bleibe auf dem Laufenden
 ----------
 
