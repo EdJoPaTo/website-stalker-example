@@ -13,7 +13,7 @@ Framework Laptop 13 ​
 
 [9% off AI 300 Series Starting at €959.00 was: €1,059](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
-[13% off Ultra Series 1 Starting at €899.00 was: €1,029](/de/en/products/laptop13-diy-intel-ultra-1/configuration/new)
+[Ultra Series 1 Out of stock](#)
 
 [View product details](/de/en/laptop13?slug=laptop13-diy-amd-ai300&tab=specs)
 
