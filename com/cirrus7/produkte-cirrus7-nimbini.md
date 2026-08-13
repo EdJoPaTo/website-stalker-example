@@ -130,7 +130,7 @@ cirrus nimbini v4 - Pro Edition
 
   SATA Slot 1
 
-  * KeineCrucial BX500 240GB (69,00 €)Crucial BX500 500GB (109,00 €)Crucial BX500 1TB (149,00 €)Crucial BX500 2TB (259,00 €)Crucial BX500 4TB (459,00 €)
+  * KeineCrucial BX500 240GB (99,00 €)Crucial BX500 500GB (149,00 €)Crucial BX500 1TB (199,00 €)Crucial BX500 2TB (299,00 €)Crucial BX500 4TB (599,00 €)
 
   ##### VESA Wand- und Bildschirmhalterung #####
 
