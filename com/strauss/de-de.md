@@ -445,41 +445,43 @@ Stick: Direkteinstickung
 *
 *
 
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
-
- Set-Highlight
+ % Angebote des Monats %
 ---
 
- Set-Highlight
+ % Angebote des Monats %
 ---
 
- SET: 2x Short e.s.motion 2020 Inkl. Gratis Artikel
----
-
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
-
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0025?variantId=061e10e5-46a9-47e8-82bc-1e97d6259ef7)
-
- Strauss Aktionssets
----
-
- Strauss Aktionssets
----
-
- Spar
-Deals!
+ Bis zu
+\-54%
 ----------
 
 ---
 
- Farben + Größen flexibel zusammenstellen & kräftig sparen.
+ Gültig bis 31.08.2026 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
+
+[](https://www.strauss.com/de/de/angebote-des-monats/)
+
+ % Sparen im Set %
 ---
 
-[alle Aktionssets entdecken](https://www.strauss.com/de/de/flexible-sets/)
+ % Sparen im Set %
+---
 
-[alle Aktionssets entdecken](https://www.strauss.com/de/de/flexible-sets/)
+ SET: 2x Oberteil + 1x Hose e.s.trail
+---
 
-[](https://www.strauss.com/de/de/flexible-sets/)
+[für Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0056?variantId=13622c56-7b36-4fb8-9d44-93318c7e9e4f)
+
+[für Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0057?variantId=e16b45eb-c48f-4287-9d7d-92c6487fea00)
+
+[für Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0056?variantId=13622c56-7b36-4fb8-9d44-93318c7e9e4f)
+
+[für Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0057?variantId=e16b45eb-c48f-4287-9d7d-92c6487fea00)
+
+*
+*
 
 [Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/)
 
