@@ -1,3 +1,11 @@
+NEU
+
+[UGREEN Nexode Pro Honkai: Star Rail Edition Powerbank (10.000 mAh, 55 W, integriertes USB-C-Kabel)](https://de.ugreen.com/products/nexode-pro-honkai-star-rail-edition-powerbank-10000mah-55w)
+
+ No reviews
+
+ NEU
+
 [UGREEN MagFlow Air Powerbank-Bundle (10.000 mAh + 5.000 mAh, Qi2 15 W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-bundle-10000mah-5000mah-qi2-15w)
 
  No reviews
@@ -22,6 +30,8 @@
 
 [UGREEN MagFlow Air Magnetische Powerbank (5000mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-5000mah-qi2-15w)
 
+ NEU
+
 [UGREEN MagFlow Air magnetische Powerbank (10000 mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-slim-powerbank-10000mah-qi2-15w)
 
 [UGREEN Powerbank (10000mAh, 55W, integriertem Kabel, AirPyra)](https://de.ugreen.com/products/powerbank-10000mah-55w-integriertem-kabel-airpyra)
@@ -33,5 +43,3 @@
 [UGREEN Nexode Magnetische Kabellose Powerbank (10000mAh, 15W, MagSafe-kompatibel)](https://de.ugreen.com/products/nexode-magnetische-kabellose-powerbank-10000mah-15w-magsafe)
 
 [UGREEN Nexode Powerbank (20000mAh, 130W, integriertem Kabel)](https://de.ugreen.com/products/nexode-powerbank-20000mah-130w-integriertem-kabel)
-
-[UGREEN MagFlow Magnetische Kabellose Powerbank (10000mAh, Qi2 25W, MagSafe-kompatibel)](https://de.ugreen.com/products/magflow-magnetische-powerbank-10000mah-25w)

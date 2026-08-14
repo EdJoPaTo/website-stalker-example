@@ -4,8 +4,6 @@
 
 [UGREEN Nexode X USB-C Ladegerät (100W, 3-Port , GaN)](https://de.ugreen.com/products/35038)
 
-[UGREEN Set-Angebot: 65W 3-Ports Ladegerät + 60W USB-C Kabel (1M )](https://de.ugreen.com/products/uno-65w-gan-ladegerat-schwarz-sets)
-
 [UGREEN Uno Ladegerät 65W](https://de.ugreen.com/products/uno-65w-ladegeraet-schwarz)
 
 [UGREEN Nexode Schnellladegerät (35W, 2-Port, GaN)](https://de.ugreen.com/products/15539)
@@ -23,3 +21,5 @@
  1 review
 
 [UGREEN Set-Angebot: 100W 4-Ports Ladegerät + 60W USB-C Kabel\*2 (1M )](https://de.ugreen.com/products/ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel)
+
+[UGREEN 65W USB-C GaN Ladegerät + 60W USB-C Ladekabel\*2](https://de.ugreen.com/products/ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2)
