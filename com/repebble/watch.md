@@ -36,7 +36,7 @@ I want one!
 
 $225
 
-Some colors in stock - ships immediately
+In stock - ships within 48 hours
 
 I want one!
 
