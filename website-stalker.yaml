@@ -316,7 +316,7 @@ sites:
       - html_url_canonicalize
       - html_markdownify
       - regex_replace:
-          pattern: '[\s\n]*\d+ reviews'
+          pattern: '[\s\n]*(No|\d+) reviews?'
           replace: ''
 
   - url:

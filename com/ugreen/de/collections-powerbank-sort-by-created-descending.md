@@ -2,25 +2,17 @@ NEU
 
 [UGREEN Nexode Pro Honkai: Star Rail Edition Powerbank (10.000 mAh, 55 W, integriertes USB-C-Kabel)](https://de.ugreen.com/products/nexode-pro-honkai-star-rail-edition-powerbank-10000mah-55w)
 
- No reviews
-
  NEU
 
 [UGREEN MagFlow Air Powerbank-Bundle (10.000 mAh + 5.000 mAh, Qi2 15 W)](https://de.ugreen.com/products/magflow-air-magnetische-powerbank-bundle-10000mah-5000mah-qi2-15w)
-
- No reviews
 
  NEU
 
 [[NEU] UGREEN x Honkai: Star Rail Magnetische Powerbank (10.000mAh, 30W, Qi2 15W)](https://de.ugreen.com/products/honkai-star-rail-magnetische-powerbank-10000mah-30w)
 
- 1 review
-
  NEU
 
 [UGREEN Zapix Wireless Magnetische Powerbank (MagSafe,10000mAh, Qi2 15W, 30W USB-C Kabel )](https://de.ugreen.com/products/10000mah-magnetische-powerbank-fur-iphone-12-17)
-
- No reviews
 
  NEU
 
