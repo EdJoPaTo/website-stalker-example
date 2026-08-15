@@ -6,6 +6,14 @@
 		<description></description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Jegliches Audio von Webcams in Wireplumber deaktivieren</title>
+			<link>https://edjopato.de/post/2026/08/15-wireplumber-disable-webcam-audio/</link>
+			<pubDate>Sat, 15 Aug 2026 21:37:00 +0200</pubDate>
+			<content:encoded><![CDATA[2026-08-15
+
+Jegliches Audio von Webcams in Wireplumber deaktivieren]]></content:encoded>
+		</item>
+		<item>
 			<title>Video kürzen mit ffmpeg</title>
 			<link>https://edjopato.de/post/2026/06/28-ffmpeg-shorten-from-to/</link>
 			<pubDate>Sun, 28 Jun 2026 15:15:00 +0200</pubDate>
@@ -396,14 +404,6 @@ Raspberry Pi 4 als Hauptgerät]]></content:encoded>
 			<content:encoded><![CDATA[2021-04-07
 
 Mal eben Videos und Sound bearbeiten]]></content:encoded>
-		</item>
-		<item>
-			<title>Schnelle Suche in und nach Dateien in *nix Systemen</title>
-			<link>https://edjopato.de/post/2021/04/07-fd-ripgrep/</link>
-			<pubDate>Wed, 7 Apr 2021 20:30:00 +0200</pubDate>
-			<content:encoded><![CDATA[2021-04-07
-
-Schnelle Suche in und nach Dateien in *nix Systemen]]></content:encoded>
 		</item>
 	</channel>
 </rss>
