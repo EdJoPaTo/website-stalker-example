@@ -50,6 +50,7 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Apostrophe**Edit Markdown in style](Apostrophe/)
 * [**Audio Sharing**Share your computer audio](AudioSharing/)
 * [**Authenticator**Generate two-factor codes](Authenticator/)
+* [**Bazaar**Discover and install apps](Bazaar/)
 * [**Biblioteca**Read GNOME documentation offline](Biblioteca/)
 * [**Binary**Convert numbers between bases](Binary/)
 * [**Blanket**Listen to ambient sounds](Blanket/)
