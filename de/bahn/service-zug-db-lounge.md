@@ -50,13 +50,18 @@ Zutritt in die DB Lounges erhalten
 * BahnCard 100 1. Klasse Inhaberinnen und Inhaber und eine Person in Ihrer Begleitung\*
 * Reisende mit einem tagesaktuellen DB Fernverkehrsticket 1. Klasse im Tarif Flexpreis
 
-In unseren DB Lounges gilt eine allgemeine Ticketpflicht (tagesaktuelle Fahrkarte für den Fernverkehr der DB). Die Legitimationskontrolle erfolgt durch das elektronische Lesegerät per Scanner oder durch die Mitarbeitenden am Empfang. Für die Zutrittskontrolle legen Sie einfach Ihre Fahrkarte oder den Code aus Ihrer BahnBonus App auf den Scanner oder ziehen Sie Ihre BahnCard durch den Kartenschlitz. Als BahnBonus Statuskundin oder Statuskunde sowie als Begleitperson halten Sie bitte zur Legitimation zusätzlich Ihr DB Fernverkehrsticket bereit.
+In unseren DB Lounges gilt eine allgemeine Ticketpflicht (tagesaktuelle Fahrkarte für den Fernverkehr der DB). Die Legitimationskontrolle erfolgt durch das elektronische Lesegerät per Scanner oder durch die Mitarbeitenden am Empfang. Für die Zutrittskontrolle legen Sie einfach Ihre Fahrkarte oder den Code aus Ihrer BahnBonus App auf den Scanner oder ziehen Sie Ihre BahnCard durch den Kartenschlitz. Für Stauskundinnen und -kunden setzt sich die Zutrittsberechtigung aus dem BahnBonus Status und einem gültigen DB Fernverkehrsticket zusammen. Die Ticketprüfung erfolgt in vielen Fällen automatisch beim Scan Ihres QR-Codes in der BahnBonus App. Wenn kein DB Fernverkehrsticket im Kundenkonto hinterlegt ist, erfolgt eine manuelle Kontrolle des DB Fernverkehrstickets durch die Mitarbeitenden am Empfang\*\*.
+
+Als Begleitperson halten Sie bitte zur Legitimation Ihr DB Fernverkehrsticket bereit.
 
 Zu den Premium Bereichen der DB Lounges Berlin, Mannheim, München, Köln, Hamburg, Hannover und Frankfurt Hbf haben ausschließlich Statuskundinnen und -kunden mit gültigem Statuslevel Platin in Verbindung mit einem DB Fernverkehrsticket, Inhaberinnen und Inhaber einer BahnCard 100 1. Klasse sowie Reisende mit einer Fernverkehrsfahrkarte 1. Klasse im Tarif Flexpreis (ausgenommen sind Fahrkarten mit Start und Ziel innerhalb der Gebiete der jeweiligen Verkehrsverbünde) Zutritt.
 
 Die Mitarbeitenden der DB Lounges geben Ihnen hierzu gerne weiterführende Informationen. Weitere Informationen zur Zugangsregelung entnehmen Sie bitte auch unseren Nutzungsbestimmungen.
 
 \* In Verbindung mit der Vorlage einer Fahrkarte, die zur tagesaktuellen Nutzung des Fernverkehrs der Deutschen Bahn berechtigt. im Premium Bereich ist die Mitnahme von Begleitpersonen grundsätzlich nicht möglich.
+
+**\*\*Hinweis zum Datenschutz:**
+Es wird ausschließlich geprüft, ob ein gültiges Fernverkehrsticket vorliegt. Ticketdetails werden nicht angezeigt oder weitergegeben.
 
 ###  Ausstattung / Kostenfreies WLAN  ###
 
