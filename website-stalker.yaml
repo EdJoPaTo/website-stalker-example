@@ -394,8 +394,6 @@ sites:
           #secondary_choice_dropdown_4,
           #secondary_choice_dropdown_5,
           img, picture, svg, script, noscript, style, .material-icons, #snackbar-template-container
-      # - html_prettify
-      - debug_files: /tmp/website-stalker-debug
       - css_tag_replace:
           selector: select
           replace: ul
