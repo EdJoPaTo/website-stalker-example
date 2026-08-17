@@ -138,6 +138,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly BLU H&T Display ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-h-t-display-zb)
 * [Shelly BLU Wall Switch 4](https://kb.shelly.cloud/knowledge-base/shelly-blu-wall-switch-4)
 * [Shelly BLU Wall Switch 4 ZB DK](https://kb.shelly.cloud/knowledge-base/shelly-blu-wall-switch-4-zb-dk)
+* [Shelly BLU Wall Switch 4 ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-wall-switch-4-zb)
 * [Shelly BLU TRV](https://kb.shelly.cloud/knowledge-base/shelly-blu-trv)
 * [Shelly BLU Distance](https://kb.shelly.cloud/knowledge-base/shelly-blu-distance)
 
