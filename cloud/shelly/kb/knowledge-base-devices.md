@@ -73,6 +73,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [The Pill by Shelly](https://kb.shelly.cloud/knowledge-base/the-pill-by-shelly)
 * [Shelly Mini Gen3 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen3-devices)
 * [Enabling Matter support on Shelly Gen3 and newer devices](https://kb.shelly.cloud/knowledge-base/setting-up-gen3-devices-via-matter)
+* [Shelly BLU Gateway Gen3](https://kb.shelly.cloud/knowledge-base/shelly-blu-gateway-gen3)
 
 [Shelly Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-gen4-devices)
 * [Shelly 1 Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1-gen4)
@@ -121,7 +122,6 @@ Learn everything you need about Shelly devices – features, applications and sp
 
 [Shelly BLE devices](https://kb.shelly.cloud/knowledge-base/shelly-ble-devices)
 * [Shelly BLU Gateway](https://kb.shelly.cloud/knowledge-base/shellyblu-gateway)
-* [Shelly BLU Gateway Gen3](https://kb.shelly.cloud/knowledge-base/shelly-blu-gateway-gen3)
 * [Shelly BLU Button1](https://kb.shelly.cloud/knowledge-base/shellyblu-button1)
 * [Shelly BLU Button Tough 1](https://kb.shelly.cloud/knowledge-base/shelly-blu-button-tough-1)
 * [Shelly BLU Button Tough 1 ZB](https://kb.shelly.cloud/knowledge-base/shelly-blu-button-tough-1-zb)
