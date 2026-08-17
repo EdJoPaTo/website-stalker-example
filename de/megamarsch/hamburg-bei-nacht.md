@@ -98,6 +98,10 @@ Booklet
 
 [](https://www.columbiasportswear.de/DE/c/technology-insectshield?icsa=s26&icst=inseason&prid=insecshield&icpa=homepage&icid=hero&crid=xgender&icca=image)
 
+Weitere Sponsoren und Partner
+
+To play, press and hold the enter key. To stop, release the enter key.
+
 [PARTNER WERDEN](mailto:info@megamarsch.de?subject=Erstkontakt%20%20Partner%20%22_%22)
 
 ### Highlights
