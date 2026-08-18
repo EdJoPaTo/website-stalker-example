@@ -41,7 +41,7 @@ Every part is replaceable with just the one tool that comes in the box.
 
 ##### Storage #####
 
-Never worry about running out of space. With standard M.2 SSDs, you can swap out your storage for for high-capacity drives up to 8TB.
+Never worry about running out of space. With standard M.2 SSDs, you can swap out your storage for high-capacity drives up to 8TB.
 
 ##### Memory #####
 
