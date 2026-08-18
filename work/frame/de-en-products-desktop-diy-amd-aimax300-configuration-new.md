@@ -286,11 +286,19 @@ Quick select
 * Plastic - Translucent Green
 * Plastic - Translucent Pink
 
- USB-A (2nd Gen)
+ USB-A (2nd Gen)  New colors available
 
-[Details](/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=1456&helpable_type=variant)
+[Details](/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=401&helpable_type=product)
 
  \+€10
+
+* Choose color
+* Aluminum - Silver
+* Plastic - Black
+* Plastic - Lavender
+* Plastic - Sage
+* Plastic - Bubblegum
+* Plastic - Gray
 
  MicroSD (2nd Gen)
 
