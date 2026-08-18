@@ -17798,7 +17798,7 @@ Ausgewählte Agenturen erheben keinen Aufpreis in Höhe von 2 Euro. Eine Auflist
 4 Personen: 130 Euro
 5 Personen: 138 Euro
 
-[Ticket auswählen](https://www.next-bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKSONH00013C213)
+[Ticket auswählen](https://www.bahn.de/buchung/intern/start#?so=Dresden%20Hbf&zo=Wroclaw%20Glowny)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-dresden-wroclaw)
 
