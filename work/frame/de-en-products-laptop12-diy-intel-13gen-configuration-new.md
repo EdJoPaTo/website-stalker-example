@@ -7,6 +7,10 @@ Framework Laptop 12
 
 [Pre-built Ready to use with OS pre-installed. Available in Black.](/de/en/products/laptop12-intel-13gen/configuration/new)
 
+[Pre-order Series 3 Starting at €619.00](/de/en/products/laptop12-diy-intel-series3/configuration/new)
+
+[5% off 13th Gen Starting at €539.00 was: €569](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
+
 [View product details](/de/en/laptop12?slug=laptop12-diy-intel-13gen&tab=specs)
 
 Ordering more than 1 computer?
@@ -60,13 +64,13 @@ Color
 
 System
 
-* System, i3-1315U  €569
+* System, i3-1315U  €539
 
   * Up to 4.5GHz, 2+4 cores
 
    
 
-* System, i5-1334U  €739
+* System, i5-1334U  €659
 
   * Up to 4.6GHz, 2+8 cores
 
@@ -126,25 +130,25 @@ Operating System
 
 Keyboard
 
-* Keyboard, German - Gray
-* Keyboard, International English - Gray
-* Keyboard, British English - Gray
-* Keyboard, US English - Gray
-* Keyboard, US English - Lavender
-* Keyboard, French Canadian - Gray
-* Keyboard, Spanish (Spain) - Gray
-* Keyboard, Spanish (Latin America) - Gray
-* Keyboard, French - Gray
-* Keyboard, Italian - Gray
-* Keyboard, Belgian - Gray
-* Keyboard, Korean - Gray
-* Keyboard, Traditional Chinese (Cangjie & Zhuyin) - Gray
-* Keyboard, Swedish/Finnish - Gray
-* Keyboard, Danish - Gray
-* Keyboard, Hungarian - Gray
-* Keyboard, Slovenian - Gray
-* Keyboard, Czech/Slovak - Gray
-* Keyboard, Portuguese - Gray
+* Keyboard, German - Gray (1st Gen)
+* Keyboard, International English - Gray (1st Gen)
+* Keyboard, British English - Gray (1st Gen)
+* Keyboard, US English - Gray (1st Gen)
+* Keyboard, US English - Lavender (1st Gen)
+* Keyboard, French Canadian - Gray (1st Gen)
+* Keyboard, Spanish (Spain) - Gray (1st Gen)
+* Keyboard, Spanish (Latin America) - Gray (1st Gen)
+* Keyboard, French - Gray (1st Gen)
+* Keyboard, Italian - Gray (1st Gen)
+* Keyboard, Belgian - Gray (1st Gen)
+* Keyboard, Korean - Gray (1st Gen)
+* Keyboard, Traditional Chinese (Cangjie & Zhuyin) - Gray (1st Gen)
+* Keyboard, Swedish/Finnish - Gray (1st Gen)
+* Keyboard, Danish - Gray (1st Gen)
+* Keyboard, Hungarian - Gray (1st Gen)
+* Keyboard, Slovenian - Gray (1st Gen)
+* Keyboard, Czech/Slovak - Gray (1st Gen)
+* Keyboard, Portuguese - Gray (1st Gen)
 
 **Power Adapter**
 
@@ -222,11 +226,19 @@ Quick select
 * Plastic - Translucent Green
 * Plastic - Translucent Pink
 
- USB-A (2nd Gen)
+ USB-A (2nd Gen)  New colors available
 
-[Details](/de/en/products/laptop12-diy-intel-13gen/help?helpable_id=1456&helpable_type=variant)
+[Details](/de/en/products/laptop12-diy-intel-13gen/help?helpable_id=401&helpable_type=product)
 
  \+€10
+
+* Choose color
+* Aluminum - Silver
+* Plastic - Black
+* Plastic - Lavender
+* Plastic - Sage
+* Plastic - Bubblegum
+* Plastic - Gray
 
  HDMI (3rd Gen)
 

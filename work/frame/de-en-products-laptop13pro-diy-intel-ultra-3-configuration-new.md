@@ -231,15 +231,20 @@ Quick select
 * Plastic - Translucent Black
 * Plastic - Translucent Pink
 
- USB-A (2nd Gen)
+ USB-A (2nd Gen)  New colors available
 
 [Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=401&helpable_type=product)
 
  \+€10
 
 * Choose color
+* Plastic - Black
 * Aluminum - Graphite
+* Plastic - Lavender
 * Aluminum - Silver
+* Plastic - Sage
+* Plastic - Bubblegum
+* Plastic - Gray
 
  HDMI (3rd Gen)
 
