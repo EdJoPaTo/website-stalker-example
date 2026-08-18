@@ -3716,13 +3716,6 @@ Bis 10 Minuten nach Abfahrt des Zuges (z.B. ICE, IC/EC) können Sie jedoch ein T
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-noch-im-zug-ein-ticket-kaufen)
 
- Kann ich PayPal für Zahlungen im Fahrkartenshop verwenden?
-----------
-
-Nein, für Zahlungen im Fahrkartenshop können Sie PayPal nicht nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-paypal-fuer-zahlungen-im-fahrkartenshop-verwenden)
-
  Kann ich Bahnprämien auch verschenken?
 ----------
 
@@ -6355,13 +6348,6 @@ Das WLAN in der 1.Klasse ist so eingerichtet, dass Sie kostenlos und zuverlässi
 Das WLAN in der 2.Klasse ist so dimensioniert, dass Sie kostenlos surfen, mailen und chatten können. Auch VPN-Verbindungen sind hier möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mit-dem-wlan-angebot-in-der-2-klasse-alles-moeglich)
-
- Was ist PayPal?
-----------
-
-PayPal garantiert Ihnen eine sichere Bezahlung bahn.de. Loggen Sie sich bei PayPal ein und bestätigen die Zahlung. Ihre Bankverbindung oder Kreditkartennummer ist in Ihrem PayPal- Konto hinterlegt und die Daten werden dadurch bei der Zahlung nicht übertragen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-paypal)
 
  Was ist der Vorteil von Passkeys?
 ----------

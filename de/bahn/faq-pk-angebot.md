@@ -9719,6 +9719,78 @@ Nein. Um Fahrräder und Scooter direkt über den DB Navigator buchen zu können,
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-db-konto-im-navigator-buchen)
 
+ Wie funktioniert die Aktion mit PayPal und DB?
+----------
+
+Wenn Sie Ihre Bahnfahrt mit PayPal bezahlen, erhalten Sie 5 % des Ticketpreises zurück, maximal bis zu 5 Euro.
+
+Diese Aktion ist nur in der PayPal-App verfügbar. Starten Sie die Teilnahme über die Aktionskachel in der PayPal-App und folgen Sie den Anweisungen. Nur dann wird der Ticket-Kauf für das Cashback in der PayPal-App berücksichtigt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/paypal-cashback-aktion)
+
+ Wann findet die Paypal-Aktion statt?
+----------
+
+Die Aktion läuft vom 17. August bis 13. September 2026 – solange der Vorrat reicht.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/paypal-cashback-aktion-wann)
+
+ Für welche Bahnangebote kann ich die PayPal-Aktion nutzen?
+----------
+
+Die Aktion gilt für Online-Tickets, die Sie im Aktionszeitraum auf bahn.de buchen und mit PayPal bezahlen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/paypal-cashback-angebote)
+
+ Gibt es weitere Bedingungen zur PayPal-Aktion?
+----------
+
+Ja. Es gelten die vollständigen PayPal-Teilnahmebedingungen.
+
+* [Zu den Teilnahmebedinungen auf der PayPal Website](http://www.paypal.com/de/campaign/db-cashback/terms)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/paypal-cashback-bedingungen)
+
+ An wen wende ich mich, wenn ich weitere Fragen rund um die PayPal-Aktion habe?
+----------
+
+Bei weiteren Fragen zur PayPal-Aktion wenden Sie sich bitte an den PayPal Kundenservice.
+
+* [Zu den Kontaktmöglichkeiten auf der PayPal Website](https://www.paypal.com/de/cshelp/contact-us)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/paypal-cashback-kontakt)
+
+ Brauche ich ein PayPal Konto, um das PayPal-Cashback zu erhalten?
+----------
+
+Ja, für die Teilnahme benötigen Sie ein PayPal Konto und die PayPal App.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/paypal-cashback-konto)
+
+ Welchen Rabatt erhalte ich mit der der PayPal-Aktion Cashback?
+----------
+
+* Sie erhalten 5 % Cashback auf den Ticketpreis (Endpreis laut Deutsche Bahn Rechnung, nach Abzug möglicher Rabatte wie BahnCard etc.). Ausgezahlt in Form von PayPal-Punkten (Reward-Points).
+* Der Cashback ist auf maximal 5 Euro pro Transaktion begrenzt.
+* Mehrfachteilnahmen sind möglich, insgesamt jedoch bis zu einem Cashback-Wert von maximal 5 Euro pro Person über den gesamten Aktionszeitraum.
+
+Mehr Informationen zu den PayPal-Punkten (Reward Points) finden Sie in der Rewards-Programm-Vereinbarung.
+
+* [Vereinbarung für das PayPal Rewards-Programm](https://www.paypal.com/de/legalhub/paypal/pp-rewards-program-tnc?locale.x=de_DE)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/paypal-cashback-rabatt)
+
+ Kann ich das Cashback behalten, wenn ich mein Bahnticket aus der PayPal-Aktion storniere?
+----------
+
+Nein. Wenn Sie Ihr Bahnticket aus der PayPal-Aktion stornieren und/oder eine Rückerstattung erhalten, verlieren Sie den Anspruch auf das Cashback.
+
+Ihr bereits erhaltenes Cashback wird von Ihrem Konto wieder abgezogen. Mehr Informationen dazu, wie Cashback-Punkte verdient werden, finden Sie in der "Vereinbarung für das PayPal Rewards-Programm".
+
+* [Zur Vereinbarung für das PayPal Rewards-Programm](https://www.paypal.com/de/legalhub/paypal/pp-rewards-program-tnc?locale.x=de_DE)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/paypal-cashback-storno)
+
  Wie entferne ich die PayPal-Einzugsermächtigung für die Nutzung der Sharing-Dienste?
 ----------
 
