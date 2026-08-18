@@ -6210,17 +6210,6 @@ Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.b
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-hab-kein-smartphone-kann-ich-die-digitale-bc-trotzdem-nutzen)
 
- Ich habe bereits ein DB Kundenkonto, aber meine BahnCard 25/50 wird nicht angezeigt. Was muss ich tun?
-----------
-
-Loggen Sie sich bitte in Ihr DB Kundenkonto ein. Gehen Sie im Bereich "BahnCards oder BahnBonus Cards übertragen" vor und fügen Sie Ihre BahnCard 25/50 nachträglich hinzu. Sie benötigen dafür einmalig eine PIN, die Sie im Dialogfeld anfordern können.
-
-Benötigen Sie Unterstützung bei der Nutzung der digitalen BahnCard 25/50? Weitere Informationen finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Zum Login](https://www.bahn.de/link_bc-selfservices)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-bereits-ein-kundenkonto-aber-meine-bahncard-wird-nicht-angezeigt)
-
  Ich habe bereits Guthaben, dieses wird mir allerdings nicht zum Entwerten angeboten?
 ----------
 
