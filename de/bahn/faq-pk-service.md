@@ -2367,14 +2367,6 @@ Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/faltbarer-rollstuhl)
 
- How fast is the wifi on the train?
-----------
-
-The wifi speed depends on the connection between the trains and mobile networks, as well as the number of fellow passengers who are online on the train at the same time. In addition, the wifi speed varies depending on the technology of the device and which mobile networks our system can access along the route. The speed may be lower than what you are used to at home.
-Please refrain from bandwidth-intensive applications (e.g. app updates, downloads, high-definition films from the internet, operating system updates) as far as possible, as this improves the online experience for both you and your fellow passengers.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fast-wifi)
-
  Es kommt zu einem Fehler beim Hinzufügen eines Tickets in die App DB Navigator. Was kann ich tun?
 ----------
 
