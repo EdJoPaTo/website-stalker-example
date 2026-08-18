@@ -4855,7 +4855,7 @@ Die Anmeldung einer Hilfeleistung erfolgt nicht automatisch mit der Buchung Ihre
 Als Reisender im Rollstuhl ist es wichtig, dass Sie prüfen,
 
 * ob das Gleis barrierefrei erreichbar ist
-  (Informationen über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten finden Sie auf [bahnhof.de](https://www.bahn.de/faq/pk/www.bahnhof.de))
+  (Informationen über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten finden Sie auf [www.bahnhof.de/](https://www.bahnhof.de/))
 * ob der Einstieg in den Zug selbständig erfolgen kann oder eine Hilfeleistung durch das Zugpersonal erfolgt,
 * ob der Einstieg in den Zug nur mit Hilfe durch das Bahnhofspersonal möglich ist.
   (Informationen über die Ein- und Ausstiegssituation in den Zug finden Sie auf bahn.de oder im DB Navigator in den Verbindungsdetails unter "Fahrtinformationen".)
@@ -4864,7 +4864,7 @@ Als Reisender im Rollstuhl ist es wichtig, dass Sie prüfen,
 
 Alternativ können Sie für die Anmeldung Ihrer Reise und Ihres Unterstützungsbedarfs das barrierefreie Online-Formular unter msz.bahnhof.de nutzen. **Wichtig:** Wenn Sie das Online-Formular nutzen, dann geben Sie uns bitte in allen Anmeldungen unter der abschließenden Frage "Gibt es noch etwas Wichtiges, das Sie uns mitteilen möchten?" an, dass Sie in einer Gruppe reisen und die Anzahl der mitreisenden Personen.
 
-[Hier gelangen Sie zum Mobilitätsservice Online](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmsz.bahnhof.de%2F&data=05%7C02%7Cangelika.fehrer%40deutschebahn.com%7C8deb8946a9c047178cbf08deab6677bb%7Ca1a72d9c49e64f6d9af65aafa1183bfd%7C0%7C0%7C639136653734967703%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=T4XA2xEtwfNPs1ElWfVQNrghu3%2FbbHNwFkocFH99n9w%3D&reserved=0)
+[Hier kommen Sie zum Mobilitätsservice Online](https://msz.bahnhof.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisender-rollstuhl-mit-weiteren-reisenden-rollstuhl)
 
