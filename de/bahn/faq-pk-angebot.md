@@ -3165,7 +3165,7 @@ Sie können den Super Sparpreis Last Minute vom 9. Mai bis 13. September 2026 an
 
 Sollte Ihr Ticket an sich intakt sein, die Chipkarte aber gesperrt oder das Ticket nicht lesbar ist, dann nutzen Sie bitte unser Kontaktformular.
 
-* [Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/abo-technischer-support)
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_chipkarte_papierticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chipkarte-gesperrt)
 
