@@ -15,6 +15,44 @@ info
 
 Not all Shelly devices receive the same firmware updates. See [Firmware Update Policy](/gen2/General/FirmwareUpdatePolicy) for details.
 
+Unreleased
+----------
+
+**Available as `2.0.1-beta1`**
+
+### Fixed ###
+
+* [Authentication](/gen2/General/Authentication): Echo digest `algorithm` only when the challenge carried it
+* [Authentication](/gen2/General/Authentication): Fix digest nonce table slot leak on TTL expiry
+* [BLE](/gen2/ComponentsAndServices/BLE): Bound the scan manager's pending result queue
+* [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4): Do not reject transition duration of 0
+* dns-sd: Ignore mDNS packets from own MAC addresses
+* [Eth](/gen2/ComponentsAndServices/Eth): Increase ESP32 EMAC `emac_rx` task stack size
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Close idle non-WebSocket connections to bound main-queue pressure
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Do not hold the connection lock across the TCPIP close
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Do not post main-queue callbacks for idle connections
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Honour quoted-strings when splitting header params
+* [Light](/gen2/ComponentsAndServices/Light): Fix inconsistent `tag` on delayed status changes
+* [Matter](/gen2/ComponentsAndServices/Matter): Fix monotonic-clock abort
+* [OperationalCounters](/gen2/ComponentsAndServices/Switch): Fix [Switch](/gen2/ComponentsAndServices/Switch) status changes when counters are enabled/disabled
+* [OperationalCounters](/gen2/ComponentsAndServices/Switch): Fix missing reset timestamps in notifications
+* [PlusUni](/gen2/Devices/Gen2/ShellyPlusUni): Add missing `io` field to `OneWireScan` response
+* [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon): Fix reporting of DS18B20 negative temperature values
+* [ProEM](/gen2/Devices/Gen2/ShellyProEM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM): Feed WDT during data-file directory scans
+* [RPC](/gen2/General/RPCChannels): Fix `udp_in` channel type
+* [Sensor Add-on](/gen2/Addons/ShellySensorAddon): Fix trailing chars in `SensorAddon.AddPeripheral` error
+* [Webhook](/gen2/ComponentsAndServices/Webhook): Bump eJS varcount on battery-operated devices
+
+### Local web ###
+
+### Fixed ###
+
+* Fix incorrect device profile change warning
+* Fix missing global WebUI timeout when device goes offline
+* Fix static IP checkbox resetting after reboot
+* Fix TLS configuration file uploads
+* [Pro4PM](/gen2/Devices/Gen2/ShellyPro4PM): Fix freezing Device UI page
+
 [2.0.0] 2026-07-13
 ----------
 
