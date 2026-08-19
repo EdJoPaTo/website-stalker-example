@@ -2036,7 +2036,7 @@ Ein Wechsel des Internetbrowsers oder der Wechsel zwischen App- und Web-Version 
 
 Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den von Ihnen gewählten Verifizierungsdienstleister für weitere Unterstützung:
 
-* [Häufige Fragen und Antworten zu Tink](https://tink.com/de/privatkunden-faq/)
+* [Häufige Fragen und Antworten zu Tink](https://tink.com/de/)
 * [Verimi Hilfe- und Kontaktseite](https://verimi.de/faq/?question=122169&title=deutsche-bahn-db-hilfebereich-zur-nutzung-von-verimi)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bankdaten-nicht-bestaetigen)
@@ -18821,7 +18821,9 @@ Ihre Abonummer können Sie folgendermaßen finden:
 * auf Ihrem Handyticket unterhalb des QR-Codes in der Zeile "Auftrags-Nr." oder oder "Auftrags-/Abonummer"
 * bei einer Chipkarte oder Papierticket im Begleitbrief
 * auf Ihrem Kontoauszug im Verwendungszweck der Lastschrift
-* im Aboportal: Melden Sie sich auf [bahn.de/aboportal](https://www.bahn.de/faq/pk/bahn.de/aboportal) mit dem bahn.de Kundenkonto an, mit dem Sie bei der Bestellung des Abos angemeldet waren.
+* im Aboportal: Melden Sie sich auf bahn.de/aboportal mit dem bahn.de Kundenkonto an, mit dem Sie bei der Bestellung des Abos angemeldet waren.
+
+* [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-abonummer)
 

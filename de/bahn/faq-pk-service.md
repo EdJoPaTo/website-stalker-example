@@ -2077,10 +2077,12 @@ Die Mobilitätsservice-Zentrale sucht gemeinsam mit Ihnen nach einer für Sie pa
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkarte-gebucht-ohne-bestaetigte-hilfeleistung)
 
- Kann ich in meinem Kundenkonto Fahrkarten stornieren beziehungsweise erstatten lassen?
+ Kann ich in meinem DB Kundenkonto Fahrkarten stornieren beziehungsweise erstatten lassen?
 ----------
 
-Sofern Sie beim Kauf der Fahrkarte im DB Navigator oder auf bahn.de/int.bahn.de eingeloggt waren, können Sie die Stornierung oder Erstattung auch über Ihr DB Kundenkonto beantragen. Rufen Sie dazu das digitale Ticket über die Buchungsrückschau ("Meine letzten Buchungen") auf. Mehr Informationen zu Erstattung und Stornierung finden Sie in unseren [Beförderungsbedingungen](https://next.bahn/agb)
+Sofern Sie beim Kauf der Fahrkarte im DB Navigator oder auf bahn.de/int.bahn.de eingeloggt waren, können Sie die Stornierung oder Erstattung auch über Ihr DB Kundenkonto beantragen. Rufen Sie dazu das digitale Ticket über die Buchungsrückschau ("Meine letzten Buchungen") auf. Mehr Informationen zu Erstattung und Stornierung finden Sie in unseren Beförderungsbedingungen
+
+* [Zu den Beförderungsbedingungen](https://www.bahn.de/agb)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkarten-stornieren-erstatten-lassen)
 
