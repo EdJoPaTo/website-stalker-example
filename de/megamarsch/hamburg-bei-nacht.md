@@ -118,15 +118,15 @@ es schaffen! ####
 
 [JETZT TICKET SICHERN!](https://megamarsch-hamburg-bei-nacht-2027-50km.eventbrite.de)
 
-HOF 2 HAMBURG FINISHER .1
+1. Hamburg b.N. hall\_of\_fame\_vorlage\_pokale
 
-HOF 2 HAMBURG FINISHER .2
+2. Hamburg bei nacht hall\_of\_fame\_vorlage\_lokalmatador\_page-0001
 
-HoF 2 Hambug matador des .1
+2. Hambueg bei Nacht hall\_of\_fame\_vorlage\_50km\_page-0010
 
-HOF 2 HAMBURG FINISHER .1
+1. Hamburg b.N. hall\_of\_fame\_vorlage\_pokale
 
-1/15
+1/13
 
 Funktionsshirt
 ----------
