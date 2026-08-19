@@ -119,7 +119,7 @@ Wir übernehmen die Administration Ihres Storage Share Servers. Mit unserem hoch
 
 Unsere Storage Share wird auf Servern in Falkenstein gehostet. Ein DSGVO-konformer Betrieb Ihrer Storage Share ist somit gewährleistet. Ein Vertrag zur Auftragsverarbeitung (AV-Vertrag) nach Art. 28 DSGVO kann online abgeschlossen werden.
 
-[Zu den Tarifen](https://www.hetzner.com/storage/storage-share#pricing)
+[Zu den Tarifen](https://www.hetzner.com/storage/storage-share/#pricing)
 
 Häufig gestellte Fragen
 ----------
