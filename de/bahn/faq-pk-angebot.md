@@ -12198,11 +12198,6 @@ Den Bestellschein finden Sie weiter unten.
 * VVS-JugendTicketBW Studierende an Hochschule ohne Soli
 * VVS-JugendTicketBW FSJ, Bufdi etc.
 
- Wie viel kostet das AzubiAbo Westfalen?
-----------
-
-Das AzubiAbo Westfalen kostet **66,40** **Euro** je Monat.
-
  Für wen ist das AzubiAbo Westfalen geeignet?
 ----------
 

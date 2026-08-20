@@ -411,18 +411,6 @@ amp, loudspeaker
 
 updated 2019-10-04
 
-[Build a replacement for your old Squeezebox](https://www.hifiberry.com/docs/projects/build-a-replacement-for-your-old-squeezebox/)
-
-dac, hifiberryos
-
-updated 2020-02-24
-
-[Build a multi-channel Digital Audio Workstation (DAW)](https://www.hifiberry.com/docs/projects/build-a-multi-channel-digital-audio-workstation-daw/)
-
-adc, configuration, dac, daw, linux, multichannel, open-source
-
-updated 2025-03-14
-
 [Swedish Style Home speaker](https://www.hifiberry.com/docs/projects/swedish-style-home-speaker/)
 
 other
@@ -476,6 +464,18 @@ updated 2019-10-29
 other
 
 updated 2019-10-29
+
+[Build a replacement for your old Squeezebox](https://www.hifiberry.com/docs/projects/build-a-replacement-for-your-old-squeezebox/)
+
+dac, hifiberryos
+
+updated 2020-02-24
+
+[Build a multi-channel Digital Audio Workstation (DAW)](https://www.hifiberry.com/docs/projects/build-a-multi-channel-digital-audio-workstation-daw/)
+
+adc, configuration, dac, daw, linux, multichannel, open-source
+
+updated 2025-03-14
 
 [Raspberry PI as Headless Spotify Connect Player](https://www.hifiberry.com/docs/projects/raspberry-pi-as-headless-spotify-connect-player/)
 
