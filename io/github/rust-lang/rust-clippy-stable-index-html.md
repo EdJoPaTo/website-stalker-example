@@ -449,6 +449,17 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+builtin_type_shadow)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/misc_early/mod.rs)
 
+by\_ref\_peekable\_peek
+
+suspicious warn
+----------
+
+Applicability: MaybeIncorrect
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+by_ref_peekable_peek)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
+
 byte\_char\_slices
 
 style warn
@@ -701,6 +712,17 @@ Applicability: MachineApplicable
 Added in: 1.37.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+checked_conversions)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/checked_conversions.rs)
+
+chunks\_exact\_to\_as\_chunks
+
+style warn
+----------
+
+Applicability: Unspecified
+
+Added in: 1.93.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+chunks_exact_to_as_chunks)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
 clear\_with\_drain
 
@@ -1378,7 +1400,7 @@ double\_must\_use
 style warn
 ----------
 
-Applicability: Unspecified
+Applicability: MachineApplicable
 
 Added in: 1.40.0
 
@@ -1540,7 +1562,7 @@ Added in: 1.77.0
 
 empty\_enums
 
-pedantic allow
+nursery allow
 ----------
 
 Applicability: Unspecified
@@ -1873,7 +1895,7 @@ extra\_unused\_type\_parameters
 complexity warn
 ----------
 
-Applicability: MachineApplicable
+Applicability: MaybeIncorrect
 
 Added in: 1.69.0
 
@@ -2088,6 +2110,17 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+for_kv_map)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/loops/mod.rs)
 
+for\_unbounded\_range
+
+suspicious warn
+----------
+
+Applicability: MaybeIncorrect
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+for_unbounded_range)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/loops/mod.rs)
+
 forget\_non\_drop
 
 suspicious warn
@@ -2145,14 +2178,14 @@ Added in: 1.73.0
 
 from\_iter\_instead\_of\_collect
 
-pedantic allow
+deprecated none
 ----------
 
-Applicability: MaybeIncorrect
+Applicability: Unspecified
 
-Added in: 1.49.0
+Deprecated in: 1.98.0
 
-[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+from_iter_instead_of_collect)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+from_iter_instead_of_collect)
 
 from\_over\_into
 
@@ -3683,6 +3716,17 @@ Added in: 1.77.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_is_variant_and)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
+manual\_isolate\_lowest\_one
+
+complexity warn
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_isolate_lowest_one)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/operators/mod.rs)
+
 manual\_let\_else
 
 pedantic allow
@@ -3811,7 +3855,7 @@ complexity warn
 
 Applicability: MachineApplicable
 
-Added in: 1.95.0
+Added in: 1.96.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_option_zip)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
@@ -3833,7 +3877,7 @@ complexity warn
 
 Applicability: MachineApplicable
 
-Added in: 1.95.0
+Added in: 1.96.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_pop_if)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_pop_if.rs)
 
@@ -4133,6 +4177,17 @@ Applicability: MachineApplicable
 Added in: 1.47.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+map_identity)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
+
+map\_or\_identity
+
+complexity warn
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.97.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+map_or_identity)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
 map\_unwrap\_or
 
@@ -8107,7 +8162,7 @@ Added in: pre 1.29.0
 
 unnecessary\_get\_then\_check
 
-suspicious warn
+complexity warn
 ----------
 
 Applicability: MaybeIncorrect
@@ -8347,6 +8402,17 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unnecessary_unwrap)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unwrap.rs)
 
+unnecessary\_unwrap\_unchecked
+
+complexity warn
+----------
+
+Applicability: MaybeIncorrect
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unnecessary_unwrap_unchecked)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
+
 unnecessary\_wraps
 
 pedantic allow
@@ -8511,6 +8577,17 @@ Applicability: Unspecified
 Added in: 1.54.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unused_async)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unused_async.rs)
+
+unused\_async\_trait\_impl
+
+pedantic allow
+----------
+
+Applicability: MaybeIncorrect
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unused_async_trait_impl)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unused_async.rs)
 
 unused\_collect
 
@@ -8995,6 +9072,17 @@ Applicability: Unspecified
 Added in: 1.42.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+wildcard_in_or_patterns)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/matches/mod.rs)
+
+with\_capacity\_zero
+
+pedantic allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+with_capacity_zero)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/with_capacity_zero.rs)
 
 write\_literal
 
