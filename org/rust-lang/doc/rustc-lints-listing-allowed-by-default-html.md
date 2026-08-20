@@ -564,20 +564,55 @@ note: the lint level is defined here
 
 ### Explanation ###
 
-If a `struct` contains a reference, such as `&'a T`, the compiler
-requires that `T` outlives the lifetime `'a`. This historically
-required writing an explicit lifetime bound to indicate this
-requirement. However, this can be overly explicit, causing clutter and
-unnecessary complexity. The language was changed to automatically
-infer the bound if it is not specified. Specifically, if the struct
-contains a reference, directly or indirectly, to `T` with lifetime`'x`, then it will infer that `T: 'x` is a requirement.
-
-This lint is “allow” by default because it can be noisy for existing
-code that already had these requirements. This is a stylistic choice,
-as it is still valid to explicitly state the bound. It also has some
-false positives that can cause confusion.
+If a struct, enum or union contains a reference, such as `&'a T`,
+the compiler requires that `T` outlives the lifetime `'a`.
+This historically required writing an explicit lifetime bound to indicate this requirement.
+However, this can be overly explicit, causing clutter and unnecessary complexity.
+The language was changed to automatically infer some classes of lifetime bounds
+if they are not specified.
+Specifically, if a struct, enum or union contains a reference, directly or indirectly,
+to `T` with lifetime `'x` and `'x` refers to a lifetime parameter,
+then it will infer that `T: 'x` is a requirement.
 
 See [RFC 2093](https://github.com/rust-lang/rfcs/blob/master/text/2093-infer-outlives.md) for more details.
+
+>
+>
+> Warning
+>
+>
+>
+> Implicit lifetime bounds are not semantically equivalent to explicit ones since the latter
+> may affect the implicit lifetime bound of trait object types that are passed as arguments
+> to the overarching struct, enum or union.
+> Rephrased, they participate in [trait object lifetime defaulting](https://doc.rust-lang.org/reference/lifetime-elision.html#default-trait-object-lifetimes).
+>
+>
+>
+> Consider the following piece of code where removing bound `T: 'a` would lead to a lifetime
+> error in function `scope`:
+>
+>
+>
+> ```
+> struct Ref<'a, T: ?Sized + 'a>(&'a T);
+>
+> fn scope() {
+>     let buf = String::new();
+>     let str = buf.as_str();
+>     render(Ref(&str));
+> }
+>
+> fn render(_: Ref<dyn std::fmt::Display>) {}
+> ```
+>
+>
+>
+> Consequently, removing explicit outlives-bounds on type parameters of publicly reachable types
+> constitutes a **breaking change** if the lifetime refers to a lifetime parameter and
+> the type parameter is not bounded by `Sized` (thereby admitting trait object types).
+>
+>
 
 [ffi-unwind-calls](#ffi-unwind-calls)
 ----------
@@ -628,63 +663,6 @@ warning: call to function pointer with FFI-unwind ABI
 For crates containing such calls, if they are compiled with `-C panic=unwind` then the
 produced library cannot be linked with crates compiled with `-C panic=abort`. For crates
 that desire this ability it is therefore necessary to avoid such calls.
-
-[fuzzy-provenance-casts](#fuzzy-provenance-casts)
-----------
-
-The `fuzzy_provenance_casts` lint detects an `as` cast between an integer
-and a pointer.
-
-### Example ###
-
-```
-#![feature(strict_provenance_lints)]
-#![warn(fuzzy_provenance_casts)]
-
-fn main() {
-    let _dangling = 16_usize as *const u8;
-}
-```
-
-This will produce:
-
-```
-warning: strict provenance disallows casting integer `usize` to pointer `*const u8`
- --> lint_example.rs:5:21
-  |
-5 |     let _dangling = 16_usize as *const u8;
-  |                     ^^^^^^^^^^^^^^^^^^^^^
-  |
-  = help: if you can't comply with strict provenance and don't have a pointer with the correct provenance you can use `std::ptr::with_exposed_provenance()` instead
-note: the lint level is defined here
- --> lint_example.rs:2:9
-  |
-2 | #![warn(fuzzy_provenance_casts)]
-  |         ^^^^^^^^^^^^^^^^^^^^^^
-help: use `.with_addr()` to adjust a valid pointer in the same allocation, to this address
-  |
-5 -     let _dangling = 16_usize as *const u8;
-5 +     let _dangling = (...).with_addr(16_usize);
-  |
-
-```
-
-### Explanation ###
-
-This lint is part of the strict provenance effort, see [issue #95228](https://github.com/rust-lang/rust/issues/95228).
-Casting an integer to a pointer is considered bad style, as a pointer
-contains, besides the *address* also a *provenance*, indicating what
-memory the pointer is allowed to read/write. Casting an integer, which
-doesn’t have provenance, to a pointer requires the compiler to assign
-(guess) provenance. The compiler assigns “all exposed valid” (see the
-docs of [`ptr::with_exposed_provenance`](https://doc.rust-lang.org/core/ptr/fn.with_exposed_provenance.html) for more information about this
-“exposing”). This penalizes the optimiser and is not well suited for
-dynamic analysis/dynamic program verification (e.g. Miri or CHERI
-platforms).
-
-It is much better to use [`ptr::with_addr`](https://doc.rust-lang.org/core/primitive.pointer.html#method.with_addr) instead to specify the
-provenance you want. If using this function is not possible because the
-code relies on exposed provenance then there is as an escape hatch[`ptr::with_exposed_provenance`](https://doc.rust-lang.org/core/ptr/fn.with_exposed_provenance.html).
 
 [if-let-rescope](#if-let-rescope)
 ----------
@@ -876,9 +854,9 @@ error: all possible in-scope parameters are already captured, so `use<...>` synt
  --> lint_example.rs:3:28
   |
 3 | fn test<'a>(x: &'a i32) -> impl Sized + use<'a> { x }
-  |                            ^^^^^^^^^^^^^-------
-  |                                         |
-  |                                         help: remove the `use<...>` syntax
+  |                            ^^^^^^^^^^----------
+  |                                      |
+  |                                      help: remove the `use<...>` syntax
   |
 note: the lint level is defined here
  --> lint_example.rs:1:9
@@ -892,6 +870,80 @@ note: the lint level is defined here
 
 To fix this, remove the `use<'a>`, since the lifetime is already captured
 since it is in scope.
+
+[implicit-provenance-casts](#implicit-provenance-casts)
+----------
+
+The `implicit_provenance_casts` lint detects integer-to-pointer and pointer-to-integer
+casts.
+
+### Example ###
+
+```
+#![feature(strict_provenance_lints)]
+#![warn(implicit_provenance_casts)]
+
+fn main() {
+    let x: u8 = 37;
+    let addr: usize = &x as *const u8 as usize;
+    let _ptr = addr as *const u8;
+}
+```
+
+This will produce:
+
+```
+warning: cast from `*const u8` to `usize` implicitly exposes pointer provenance
+ --> lint_example.rs:6:23
+  |
+6 |     let addr: usize = &x as *const u8 as usize;
+  |                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  |
+  = help: if conforming to strict provenance is not possible, use `.expose_provenance()`
+  = note: for more information, visit <https://doc.rust-lang.org/std/ptr/index.html#provenance>
+note: the lint level is defined here
+ --> lint_example.rs:2:9
+  |
+2 | #![warn(implicit_provenance_casts)]
+  |         ^^^^^^^^^^^^^^^^^^^^^^^^^
+help: use `.addr()` to obtain the address of a pointer
+  |
+6 -     let addr: usize = &x as *const u8 as usize;
+6 +     let addr: usize = (&x as *const u8).addr();
+  |
+
+warning: cast from `usize` to `*const u8` implicitly relies on exposed provenance
+ --> lint_example.rs:7:16
+  |
+7 |     let _ptr = addr as *const u8;
+  |                ^^^^^^^^^^^^^^^^^
+  |
+  = help: if conforming to strict provenance is not possible, use `std::ptr::with_exposed_provenance()`
+  = note: for more information, visit <https://doc.rust-lang.org/std/ptr/index.html#provenance>
+help: use `.with_addr()` to adjust the address of a valid pointer in the same allocation
+  |
+7 -     let _ptr = addr as *const u8;
+7 +     let _ptr = (...).with_addr(addr);
+  |
+
+```
+
+### Explanation ###
+
+This lint exists to help migrate code to [*Strict Provenance* APIs](https://doc.rust-lang.org/core/ptr/index.html#strict-provenance) where
+possible, and make remaining uses of [*Exposed Provenance*](https://doc.rust-lang.org/core/ptr/index.html#exposed-provenance) explicit.
+For more information on pointer provenance, see the [`std::ptr` documentation](https://doc.rust-lang.org/core/ptr/index.html#provenance).
+
+Earlier versions of Rust did not have a clear answer how integer-to-pointer and
+pointer-to-integer casts interact with provenance. Such casts are now defined to use the
+exposed provenance model, but in many cases the code can be updated to strict provenance
+APIs, which is preferable as it enables more precise reasoning about unsafe code, both by
+humans and by tools like [Miri](https://github.com/rust-lang/miri).
+
+However, there are situations where exposed provenance is required or following the strict
+provenance model requires major refactorings. In those cases, it’s still useful to replace
+the `as` casts with equivalent explicit use of exposed provenance APIs and a comment
+explaining why they are needed.
 
 [keyword-idents](#keyword-idents)
 ----------
@@ -1098,64 +1150,6 @@ Many linkers are very “chatty” and print lots of information that is not nec
 indicative of an issue. This output has been ignored for many years and is often not
 actionable by developers. It is silenced unless the developer specifically requests for it
 to be printed. See this tracking issue for more details:<https://github.com/rust-lang/rust/issues/136096>.
-
-[lossy-provenance-casts](#lossy-provenance-casts)
-----------
-
-The `lossy_provenance_casts` lint detects an `as` cast between a pointer
-and an integer.
-
-### Example ###
-
-```
-#![feature(strict_provenance_lints)]
-#![warn(lossy_provenance_casts)]
-
-fn main() {
-    let x: u8 = 37;
-    let _addr: usize = &x as *const u8 as usize;
-}
-```
-
-This will produce:
-
-```
-warning: under strict provenance it is considered bad style to cast pointer `*const u8` to integer `usize`
- --> lint_example.rs:6:24
-  |
-6 |     let _addr: usize = &x as *const u8 as usize;
-  |                        ^^^^^^^^^^^^^^^^^^^^^^^^
-  |
-  = help: if you can't comply with strict provenance and need to expose the pointer provenance you can use `.expose_provenance()` instead
-note: the lint level is defined here
- --> lint_example.rs:2:9
-  |
-2 | #![warn(lossy_provenance_casts)]
-  |         ^^^^^^^^^^^^^^^^^^^^^^
-help: use `.addr()` to obtain the address of a pointer
-  |
-6 -     let _addr: usize = &x as *const u8 as usize;
-6 +     let _addr: usize = (&x as *const u8).addr();
-  |
-
-```
-
-### Explanation ###
-
-This lint is part of the strict provenance effort, see [issue #95228](https://github.com/rust-lang/rust/issues/95228).
-Casting a pointer to an integer is a lossy operation, because beyond
-just an *address* a pointer may be associated with a particular*provenance*. This information is used by the optimiser and for dynamic
-analysis/dynamic program verification (e.g. Miri or CHERI platforms).
-
-Since this cast is lossy, it is considered good style to use the[`ptr::addr`](https://doc.rust-lang.org/core/primitive.pointer.html#method.addr) method instead, which has a similar effect, but doesn’t
-“expose” the pointer provenance. This improves optimisation potential.
-See the docs of [`ptr::addr`](https://doc.rust-lang.org/core/primitive.pointer.html#method.addr) and [`ptr::expose_provenance`](https://doc.rust-lang.org/core/primitive.pointer.html#method.expose_provenance) for more information
-about exposing pointer provenance.
-
-If your code can’t comply with strict provenance and needs to expose
-the provenance, then there is [`ptr::expose_provenance`](https://doc.rust-lang.org/core/primitive.pointer.html#method.expose_provenance) as an escape hatch,
-which preserves the behaviour of `as usize` casts while being explicit
-about the semantics.
 
 [macro-use-extern-crate](#macro-use-extern-crate)
 ----------
@@ -2843,35 +2837,35 @@ note: the lint level is defined here
 1 | #![deny(unsafe_code)]
   |         ^^^^^^^^^^^
 
-error: declaration of a `no_mangle` function
- --> lint_example.rs:8:1
+error: usage of the unsafe `#[no_mangle]` attribute
+ --> lint_example.rs:8:3
   |
 8 | #[no_mangle]
-  | ^^^^^^^^^^^^
+  |   ^^^^^^^^^
   |
   = note: the linker's behavior with multiple libraries exporting duplicate symbol names is undefined and Rust cannot provide guarantees when you manually override them
 
-error: declaration of a function with `export_name`
-  --> lint_example.rs:11:1
+error: usage of the unsafe `#[export_name]` attribute
+  --> lint_example.rs:11:3
    |
 11 | #[export_name = "exported_symbol_name"]
-   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   |   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    |
    = note: the linker's behavior with multiple libraries exporting duplicate symbol names is undefined and Rust cannot provide guarantees when you manually override them
 
-error: declaration of a `no_mangle` static
-  --> lint_example.rs:14:1
+error: usage of the unsafe `#[no_mangle]` attribute
+  --> lint_example.rs:14:3
    |
 14 | #[no_mangle]
-   | ^^^^^^^^^^^^
+   |   ^^^^^^^^^
    |
    = note: the linker's behavior with multiple libraries exporting duplicate symbol names is undefined and Rust cannot provide guarantees when you manually override them
 
-error: declaration of a static with `link_section`
-  --> lint_example.rs:15:1
+error: usage of the unsafe `#[link_section]` attribute
+  --> lint_example.rs:15:3
    |
 15 | #[link_section = ".example_section"]
-   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   |   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    |
    = note: the program's behavior with overridden link sections on items is unpredictable and Rust cannot provide guarantees when you manually override them
 
