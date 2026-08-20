@@ -113,7 +113,7 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
-###  Kann ich ein Deutschland-Ticket verschenken?  ###
+###  Deutschlandticket für andere Person kaufen oder verschenken  ###
 
 Ja.
 

@@ -1,432 +1,737 @@
 Häufige Fragen zu "Info & Services"
 ==========
 
- Wie viel kostet die Fahrradmitnahme im Fernverkehr?
+ Wie lange im Voraus kann ich das Normalpreis-Ticket kaufen?
 ----------
 
-Es gelten die folgenden Preise für die Fahrradmitnahme:
+Sie können das Normalpreis-Ticket **bis zu 6 Monate im Voraus** buchen. Vor den Fahrplanwechseln im Juni und Dezember kann es Abweichungen geben.
 
-* Bei Reisen innerhalb von Deutschland: je nach Entfernung, Buchungstag und Auslastung der Züge **ab 7,99 Euro bis 14,99 Euro**
-* Bei internationalen Reisen: **ab 7,99 Euro**
-
-Haben Sie bereits eine Fahrkarte? Dann buchen Sie bitte die Fahrradkarte mit Stellplatzreservierung separat auf der Website oder in der App hinzu. Denn die Mitnahme eines Fahrrads ist im Fernverkehr reservierungspflichtig. Die Fahrradkarte muss über dieselbe Strecke lauten wie Ihre eigene Fahrkarte. Dann gilt sie in der Regel für Ihre gesamte Reiseverbindung. Die Nutzung des Nahverkehrs (RE, RB und S-Bahnen) ist inklusive.
-
-[Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/01wie-viel-kostet-die-fahrradmitnahme-im-fernverkehr)
-
- Wo kann ich die Fahrradmitnahme für Reisen innerhalb Deutschlands buchen?
+ Kann ich mein Normalpreis-Ticket umbuchen oder stornieren?
 ----------
 
-Sie können die Stellplatzreservierung und die Fahrkarte an allen bekannten Verkaufsstellen buchen – mit Ausnahme der DB Automaten. Das geht auch auf der Website oder in der App.
+* **Vor dem 1. Geltungstag** der Hinfahrt können Sie Normalpreis-Fahrkarten kostenfrei umtauschen oder stornieren.
+* **Ab dem 1. Geltungstag** (Datum der Hinfahrt) erheben wir für Umtausch/Erstattung ein Entgelt von 19 Euro pro Fahrkarte.
 
-Wenn Sie die Fahrradmitnahme nicht vorab gebucht haben, können Sie das Fahrrad nicht mitnehmen.
-
-**Anleitung zur Buchung**
-
-1. Fügen Sie in der Buchungsanfrage auf der Website neben dem Reisenden ein Fahrrad hinzu. Sie bekommen dann Verbindungen mit Fahrradmitnahme angezeigt. Wenn Sie auf den Buchen-Button auf dieser Seite klicken, sind ein Reisender und ein Fahrrad bereits voreingestellt.
-2. Das Fahrradsymbol zeigt Ihnen, ob noch Stellplätze im ICE, IC- oder EC-Zug frei sind (Rotes Fahrradsymbol = Fahrradstellplätze nicht mehr verfügbar).
-3. Sie können auch die Umsteigezeit verlängern, wenn Sie etwas mehr Zeit für den Umstieg mit Ihrem Fahrrad haben möchten.
-4. Wenn Sie schon ein Ticket für sich haben, ändern Sie in der Buchung online oder in der App bei der Auswahl "Reisende, Fahrräder" den Reisenden "Erwachsener" in "Fahrrad" um.
-
-**Andere Buchungswege**
-
-Sie können sich auch an die DB Reisezentren, DB Agenturen oder die Service-Rufnummer [030 2970](tel:+49302970) wenden. Im Zug können Sie kein Fahrradticket kaufen.
-
-**Hinweis für BahnCard 100-Inhaber:innen**
-
-Wenden sich direkt an die Service-Rufnummer [030 586020900](tel:+4930586020900) oder an unsere DB Reisezentren. So können Sie für Ihre kostenfreie Fahrradmitnahme einen Stellplatz reservieren.
-
-**Gruppen ab 6 Personen**
-
-Sie können Ihre Fahrradkarten nicht online buchen. Kontaktieren Sie unsere DB Verkaufsstellen oder rufen Sie die Servicenummer unter [030 2970](tel:+49302970) an.
-
-[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/02wo-kann-ich-die-fahrradmitnahme-fuer-reisen-innerhalb-deutschlands-buchen)
-
- Wo kann ich die Fahrradmitnahme für internationale Reisen buchen?
+ Bekomme ich Rabatt auf den Normalpreis mit der BahnCard?
 ----------
 
-Sie können die Stellplatzreservierung für ihr Fahrrad zusammen mit der Fahrradkarte online und in der App buchen. Das geht oft auch für internationale Züge.
+Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard 50.
 
-Fügen Sie in der Buchungsanfrage auch ein Fahrrad hinzu, um Verbindungen mit Fahrradmitnahme angezeigt zu bekommen.
-Das Fahrradsymbol zeigt Ihnen, ob noch Stellplätze im ICE, IC- oder EC-Zug frei sind (rotes Fahrradsymbol = Fahrradstellplätze nicht mehr verfügbar). Sie können auch die Umsteigezeit verlängern, wenn Sie etwas mehr Zeit für den Umstieg mit Ihrem Fahrrad haben möchten.
-
-Bei manchen internationalen Zügen ist das Fahrradsymbol grau. Das heißt, dass die Fahrradmitnahme nicht sicher möglich ist. Wenden Sie sich in diesem Fall an die DB Reisezentren, DB Agenturen oder an die Service-Rufnummer [030 2970](tel:+49302970).
-
-Hinweis: Es gibt eine Kennzeichnungspflicht für Reisen nach Italien (via Österreich/Brenner). Siehe hierzu auch "[Muss ich mein Fahrrad für die Mitnahme in Fernverkehrszügen kennzeichnen?](https://www.bahn.de/faq/19muss-ich-mein-fahrrad-fuer-die-mitnahme-in-fernverkehrszuegen-kennzeichnen)").
-
-[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/03wo-kann-ich-die-fahrradmitnahme-in-internationalen-zuegen-buchen)
-
- Kann ich mein Fahrrad als Handgepäck kostenfrei mitnehmen?
+ Ist beim Normalpreis eine Sitzplatzreservierung im Preis enthalten?
 ----------
 
-Zusammengeklappte Fahrräder können Sie kostenfrei als Handgepäck mitnehmen- Sie müssen dafür keine Fahrradkarte oder Stellplatzreservierung buchen.
+Nein, beim Normalpreis ist keine Sitzplatzreservierung enthalten.
 
-Sie können Klappräder sicher in den Gepäckregalen und Mehrzweckbereichen unterbringen. Gänge, Türen und Sicherheitseinrichtungen, wie z.B. Feuerlöscher, müssen zu Ihrer eigenen Sicherheit frei bleiben.
-
-[Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/04kann-ich-mein-fahrrad-als-handgepaeck-kostenfrei-mitnehmen)
-
- Welche Fahrräder darf ich mitnehmen?
+ Kann ich den Normalpreis noch im Zug kaufen?
 ----------
 
-Sie dürfen grundsätzlich folgende Fahrradtypen mit in den Zug nehmen:
+Für Nahverkehrsverbindungen des Deutschlandtarifs gilt, dass im Zug beim Zugpersonal Fahrkarten nur für die konkrete Hin- und/oder Rückfahrt und nur zum Bordpreis (Fahrpreis zum Normalpreis für die gewünschte Strecke zzgl. eines prozentualen Aufpreises von 10%, mind. 2 €, maximal 10 €) erhältlich sind. Das im Zug verkaufte Sortiment kann auch eingeschränkt sein. In entsprechend gekennzeichneten Zügen findet kein Verkauf statt. Die Buchung eines Digitalen Tickets nach Abfahrt des Nahverkehrszuges ist nicht zugelassen.
 
-* Ein handelsübliches, einsitziges Fahrrad mit zwei Rädern. Das Fahrrad muss in die vorhandenen Fahrradständer gestellt werden. Die Fahrradständer haben in der Regel eine Breite für Reifen von 40 bis 60 mm.
-* Ein Fahrrad mit Tretunterstützung durch Elektromotor bis 25 km/h (sog. "Pedelec", bis 250 Watt Motorleistung).
-* Ein Fatbike, wenn dieses in die Fahrradhalterung (in der Regel eine Breite für Reifen von 40 bis 60 mm) passt. Lassen Sie ggf. die Luft aus dem Reifen ab. Denken Sie dabei an das Equipment für das spätere Wiederaufpumpen.
-* Ein zusammengeklapptes Faltrad oder Kinderräder mit einem Raddurchmesser bis 16 Zoll können im Zug wie Gepäck untergebracht werden. Hierfür stehen z. B. Gepäckregale und Mehrzweckbereiche zur Verfügung.
-* Ein Tandem, Liegerad oder Dreirad kann nur in Nahverkehrszügen mit größerer Stellplatzkapazität mitgenommen werden.
-   Die Mitnahme von Tandems, Liegerädern und großen Dreirädern (\> 120 cm) ist in den Fernverkehrszügen nicht erlaubt.
-* Das orthopädische Hilfsmittel Laufrad (\>120 cm Länge) kann im Fernverkehr bei vorliegender Stellplatzreservierung im Fahrradbereich mitgenommen werden. Für das orthopädische Hilfsmittel kleines Dreirad (\< 120 cm) ist eine Reservierung auf dem Rollstuhlstellplatz erforderlich.
-   Informieren Sie sich hierfür bitte im DB Reisezentrum, in der DB Agentur oder bei der Mobilitätsservicezentrale.
-
-Alle nicht genannten Modelle können Sie nicht mitnehmen. Dazu zählen auch Fahrräder, die aufgrund ihrer Maße oder Bauweise nicht sicher verstaut werden können. Auch Fahrräder, die in Durchgänge und Fluchtwege hineinragen, dürfen Sie nicht mitnehmen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/05welche-fahrraeder-darf-ich-mitnehmen)
-
- Wie melde ich mich zum Lastschriftverfahren an?
+ Ist beim Normalpreis Europa eine Sitzplatzreservierung im Preis enthalten?
 ----------
 
-1. Loggen Sie sich bei "Meine Bahn" ein.
-2. In der rechten Spalte finden Sie den Punkt "Zahlungsdaten/Lastschrift". Klicken Sie auf "Jetzt einrichten".
-3. Nach Eingabe der Anmeldedaten zur SEPA-Lastschrift sind diese in Ihrem Kundenkonto gespeichert.
+Im Normalpreis Europa ist keine Sitzplatzreservierung enthalten.
 
-Für künftige Lastschriftzahlungen können Sie Ihre Daten aus Ihrem Kundenkonto übernehmen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/1-wie-melde-ich-mich-zum-lastschriftverfahren-an)
-
- Darf ich Fahrradanhänger mit in den Zug nehmen?
+ Bekomme ich Rabatt auf den Normalpreis Europa mit der BahnCard?
 ----------
 
-Zusammengeklappte (Kinder- oder Lasten-)Fahrradanhänger können Sie im Zug wie Gepäck mitnehmen. Dafür gibt es z. B. Gepäckregale und Mehrzweckbereiche. Gänge, Türen und Sicherheitseinrichtungen, wie z.B. Feuerlöscher, müssen zu Ihrer eigenen Sicherheit frei bleiben.
+Nein, es gibt keinen Rabatt auf den Normalpreis Europa.
 
-Sie dürfen pro Fahrrad nur einen (zusammengeklappten) Anhänger mitnehmen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/10darf-ich-fahrradanhaenger-mitnehmen)
-
- Kann ich meine Fahrradkarte stornieren?
+ Bekomme ich Rabatt auf den (Super) Sparpreis Young mit der BahnCard?
 ----------
 
-Ja, Sie können Fahrradkarten grundsätzlich bis einen Tag vor dem ersten Geltungstag kostenfrei umtauschen oder erstatten.
+Mit der BahnCard 25 und 50 erhältst du 25 Prozent Rabatt.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/13kann-ich-meine-fahrradkarte-stornieren)
-
- Kann ich mit meine Fahrradkarte einen anderen Zug nehmen?
+ Wie bucht man den (Super) Sparpreis Young?
 ----------
 
-Ja, aber wenn Sie im Fernverkehr einen anderen Zug nutzen als ursprünglich gebucht, müssen Sie eine **neue Stellplatzreservierung** buchen.
+Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft**. Der Tarif ist für Kundinnen und Kunden bis einschließlich 26 Jahren gedacht. Unter reisende Person "15-26 Jahre" findest du den (Super) Sparpreis Young neben allen anderen Tarifen und kannst ihn, sofern verfügbar, buchen. Das Gleiche gilt auch für die App.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/13kann-ich-mit-meiner-fahrradkarte-einen-anderen-zug-nehmen)
+**Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 
- Was muss ich bei der Mitnahme meines Pedelecs beachten?
+ Bekomme ich Rabatt auf den (Super) Sparpreis Europa mit der BahnCard?
 ----------
 
-Sie dürfen nur Pedelecs mit Tretunterstützung bis 25 km/h und einer Motorleistung bis 250 Watt mitnehmen. Der Akku muss während der gesamten Fahrt fest montiert sein.
+Mit der BahnCard 25/50/100 erhalten Sie **25% Rabatt auf den deutschen Streckenanteil**. Vom BahnCard 100 Rabatt ausgenommen ist der (Super) Sparpreis Europa Frankreich.
 
-* **Ersatz-Akku:** Nicht erlaubt (Gefahrgut).
-* **Aufladen**: Nicht im Zug erlaubt.
-* **Powerbank**: Akku nicht als Powerbank nutzen.
-* **Eigenständigkeit**: Pedelec selbst ein- und ausladen.
-
-**In Fernverkehrszügen (ICE, ECE, IC/EC, RJX, TGV):**
-
-* Fahrräder werden stehend oder hängend transportiert.
-* Sichern Sie das Fahrrad in der Halterung.
-
-An den Fahrradstellplätzen gibt es **keinen Schließmechanismus**. Nutzen Sie Ihr eigenes Schloss, um das Fahrrad zu sichern.
-
-[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/14was-muss-ich-bei-der-mitnahme-meines-pedelecs-beachten)
-
- Was muss ich bei der Mitnahme meines E-Tretrollers/E-Scooter beachten?
+ Kann ich mein Sparpreis Europa-Ticket umbuchen oder stornieren?
 ----------
 
-Sie können ein Elektro-Kleinstfahrzeug (z. B. E-Scooter, E-Tretroller, E-Kickboard) in allen Fernverkehrs-Zügen mitnehmen (ICE, ECE, IC/EC, RJX, TGV). Beachten Sie folgende Punkte.
+* **Bis einen Tag vor dem 1. Geltungstag:** Die Stornierung ist gegen ein Entgelt von 10 Euro möglich. Sie erhalten einen Gutschein in Höhe des Erstattungsbetrags.
+* **Ab dem 1. Geltungstag** ist eine Stornierung nicht mehr möglich.
 
-**Kostenfreie Mitnahme als Handgepäck:**
+**Sofortstornierung**
 
-* Das Fahrzeug muss zusammengeklappt und sicher verstaut sein.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-**Nicht zusammengeklapptes Fahrzeug:**
-
-* Gilt als Traglast. Sie können es nur mitnehmen, wenn es sicher untergebracht wird.
-
-**Unterbringungsmöglichkeiten:**
-
-* Gepäckregale
-* Gepäckablagen über dem Sitz
-* Stellflächen unter und zwischen den Sitzen
-
-**Sicherheitsvorkehrungen:**
-
-* Achten Sie darauf, dass das Fahrzeug in der Gepäckablage über dem Sitz nicht verrutscht und keine Gefahr für Sie und Mitreisende besteht.
-* Empfehlung: Das Fahrzeug in einer Tasche verstauen oder zwischen anderen Gepäckstücken sicher verkeilen.
-
-**Akku-Richtlinien:**
-
-* Sie dürfen den eingebauten Akku während der Beförderung weder entnehmen, laden, noch anderweitig (z. B. als Powerbank) nutzen..
-
-[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/15was-muss-ich-bei-der-mitnahme-meines-e-tretrollers-oder-e-scooter-beachten)
-
- Was muss ich bei der Mitnahme von Falträdern beachten?
+ Kann ich mit einem (Super) Sparpreis Europa-Ticket die DB Lounge nutzen?
 ----------
 
-Sie können zusammengeklappte Fahrräder kostenfrei als Handgepäck mitnehmen. Sie müssen dafür keine Fahrradkarte oder Stellplatzreservierung buchen.
+Nein, mit einem (Super) Sparpreis Europa-Ticket haben Sie **keinen Zutritt zur DB Lounge**.
 
-Ein zusammengeklapptes Faltrad muss im Zug wie Gepäck untergebracht werden. Nutzen Sie z.B. Gepäckregale und Mehrzweckbereiche. Halten Sie Gänge, Türen und Sicherheitseinrichtungen, wie z.B. Feuerlöscher frei. Diese müssen zu Ihrer eigenen Sicherheit frei bleiben.
-
-Wenn Sie das zusammengeklappte Faltrad in der Ablage über dem Sitzplatz unterbringen, achten Sie bitte auf Folgendes:
-
-* das Faltrad kann nicht verrutschen
-* Reisende werden nicht gefährdet
-
-Tipp: Packen Sie das Rad in eine Tasche oder befestigen Sie es vorsichtig mit mitgebrachten Spanngurten zwischen anderen Gepäckstücken.
-
-[Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/16was-muss-ich-bei-der-mitnahme-von-faltraedern-beachten)
-
- Wie finde ich schnell zu meinem Fahrradstellplatz im Zug?
+ Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
 ----------
 
-Fahrradstellplätze sind immer in der 2. Klasse. Sie können auf mehrere Wagen im Zug verteilt sein. Die Wagen- bzw. Stellplatznummer finden Sie in Ihren Reservierungsunterlagen.
+Für **Belgien, Luxemburg, die Niederlande und die Schweiz** gilt:
+Tickets können bis zu 12 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
 
-**Am Bahnsteig richtig stehen und einsteigen**
+Für **Dänemark, Italien, Kroatien, Österreich, Polen, Schweden, Slowakei, Slowenien, Tschechien, Ungarn** gilt:
+Tickets können bis zu 6 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
 
-Nutzen Sie auch die digitale Wagenreihung. Diese zeigt Ihnen im Vorfeld an, in welchem Gleisabschnitt die Waggons mit Fahrradstellplätzen halten werden.
+Für **Frankreich** gilt:
+Tickets können bis zu 6 Monate im Voraus und bis einen Tag vor Abfahrt gebucht werden.
 
-Die Fahrradwagen sind außen und innen mit Fahrrad-Symbolen gekennzeichnet. Nehmen Sie bitte die Gepäckstücke rechtzeitig vor Einfahrt des Zuges von Ihrem Fahrrad ab. So laden Sie schneller ein und aus. Seitengänge, Einstiegsbereiche und ggf. die Tür zum Lokführerstand müssen Sie freihalten. Hinweis: Das Zugpersonal kann beim Ein- und Ausladen nicht helfen.
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
 
-Sie brauchen einen stufenfreier Zugang zum Start- und Zielbahnhof? In der Fahrplanauskunft auf der Website oder in der App unter "Bahnhofsinformationen" finden Sie dazu Informationen. Auch die App "DB Bahnhof Live" hilft bei der Reiseplanung. Hier finden Sie Informationen über Barrierefreiheit, Aufzüge und Fahrradstellplätze.
-
-**Im Zug**
-
-Sie haben Ihr Fahrrad sicher abgestellt? Dann können Sie auf einem freien oder auf Ihrem reservierten Sitzplatz im Fahrradwagen Platz nehmen. So sitzen Sie direkt in der Nähe Ihres Fahrrads.
-
-Sie haben ein 1. Klasse-Ticket? Ihre reservierten Sitzplätze sind nicht in der Nähe Ihres gebuchten Fahrradstellplatzes. Hinweis: Möglicherweise müssen Sie mehr Zeit zum Ausladen Ihres Fahrrades einplanen. Bei Fragen wenden Sie sich bitte an das Zugpersonal.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/18wie-finde-ich-schnell-zu-meinem-fahrradstellplatz-im-zug)
-
- Muss ich mein Fahrrad für die Mitnahme in Fernverkehrszügen kennzeichnen?
+ In welchen Zügen gibt es mit dem (Super) Sparpreis Europa eine Reservierungspflicht?
 ----------
 
-Nein, generell ist das nicht notwendig. Zeigen Sie bei der Fahrkartenkontrolle zusätzlich zur Fahrkarte auch Ihre Fahrradkarte und die Stellplatzreservierung vor.
+In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservierung ist dann bereits kostenfrei im Ticket enthalten.** Die Reservierungspflicht gilt für folgende Züge:
 
-**Ausnahme für Reisen nach Italien (via Österreich/Brenner)**
+* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille und saisonal Bordeaux (inkl. aller Zwischenhalte)
+* Italien: Züge nach Mailand über Basel Bad Bf
+* Polen: Alle Fernverkehrszüge nach Polen
 
-Wenn Sie Ihr Fahrrad in einem EC-Zug nach Italien (via Österreich/Brenner) mitnehmen wollen, müssen Sie eine Kennzeichnung anhängen. Bitte drucken und füllen Sie die Fahrradbanderole aus. Befestigen Sie diese vor Fahrtantritt an Ihrem Fahrrad. Die Banderole ist kein Ersatz für die Fahrradkarte bzw. Stellplatzreservierung.
+Bitte achten Sie darauf, dass Sie in reservierungspflichtigen Zügen nicht ohne Reservierung reisen können.
 
-* [Banderole downloaden (PDF, 293 KB)](https://assets.static-bahn.de/dam/jcr:5b1c4dbe-43eb-46c4-bbcd-018087f319e8/Banderole%20zur%20Fahrradmitnahme.2022-06-15-07-52-14.pdf)
-
-[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/19muss-ich-mein-fahrrad-fuer-die-mitnahme-in-fernverkehrszuegen-kennzeichnen)
-
- Was sind Ersatzcodes für die 2-Faktor-Authentifizierung und wie verwende ich sie?
+ Wie lassen sich die Bahnsteigsperren an den Bahnhöfen in den Niederlanden öffnen?
 ----------
 
-Ersatzcodes sind Sicherheitscodes für den Notfall. Sie können einen Ersatzcode nutzen, wenn Sie keinen Zugriff auf Ihren zweiten Authentifizierungsfaktor haben, zum Beispiel weil Sie Ihr Mobilgerät verloren haben oder Ihre Mobilfunknummer geändert wurde.
+Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ticket, um bei geschlossener Bahnsteigsperre den Bahnhof zu verlassen oder zu betreten. Einfach den viereckigen Barcode an die beleuchtete Fläche vor der Sperre halten und schon öffnet sich der Durchgang. Falls Sie Ihr Online-Ticket auf einem mobilen Endgerät vorzeigen und in diesem Endgerät Ihre Kreditkarte hinterlegt haben, empfehlen wir, NFC zu deaktivieren, um eine unbeabsichtigte Abbuchung zu vermeiden.
 
-So verwenden Sie einen Ersatzcode:
-
-1. Melden Sie sich mit Benutzernamen und Passwort an.
-2. Wählen Sie bei der Zwei-Schritt-Verifizierung die Option "Kein Zugang zum zweiten Faktor?" aus.
-3. Für die Wiederherstellung des Zugriffs wählen Sie die Option "Ersatzcode".
-4. Geben Sie den Ersatzcode ein. Jeder Ersatzcode ist nur einmal gültig.
-
-Sie können Ersatzcodes nutzen, wenn Sie keine Codes per SMS oder App erhalten. Haben Sie keinen Ersatzcode, können Sie den Zugang zu Ihrem DB Kundenkonto nicht wiederherstellen
-
-Achten Sie darauf:
-
-* Bewahren Sie die Ersatzcodes sicher auf.
-* Die Codes sind nach dem Abmelden nicht mehr im Kundenkonto sichtbar.
-* Sie können jederzeit neue Ersatzcodes unter "Login & Sicherheit" generieren. Alte Ersatzcodes werden dann ungültig.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-fa-ersatzcodes)
-
- Wie kann ich (neue) Ersatzcodes für die 2-Faktor-Authentifizierung generieren?
+ Wo kann ich den (Super) Sparpreis Europa Ukraine kaufen?
 ----------
 
-So geht’s auf bahn.de:
+Fahrkarten zum Sparpreis Europa bzw. Super Sparpreis Europa in der 1. und 2. Klasse zu Zielen in der Ukraine können nur in DB Vertriebsstellen (**DB Reisezentrum, DB Agentur**) als Papiertickets gekauft werden. Ein Internetverkauf wird nicht angeboten.
 
-1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Öffnen Sie im Menüpunkt "Login & Sicherheit" den Account-Manager.
-3. Klicken Sie auf "2-Faktor-Authentifizierung" und dann auf "Ersatzcodes aktivieren".
+Hier können Sie einen Bahnhof auswählen und unter "Beratung und Unterstützung" sehen, ob ein DB Reisezentrum oder eine DB Agentur am gewählten Bahnhof verfügbar ist:
 
-So geht’s im DB Navigator:
-
-1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Tippen Sie im Menübereich "Profil" unter "Login & Sicherheit" auf "Mehr".
-3. Wählen Sie "2-Faktor-Authentifizierung" aus und tippen Sie dann auf "Ersatzcodes aktivieren".
-
-Sichern Sie Ihre Ersatzcodes anschließend, indem Sie sie ausdrucken, herunterladen oder kopieren und an einem sicheren Ort aufbewahren.
-
-Aus Sicherheitsgründen sind die generierten Ersatzcodes nach dem Abmelden nicht mehr in Ihrem Kundenkonto verfügbar.
-
-Auch wenn Sie Ihre Ersatzcodes verloren haben, können Sie so neue generieren. Ihre alten Ersatzcodes werden dann ungültig.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-fa-ersatzcodes-generieren)
-
- Was, wenn bei der Einrichtung der 2-Faktor-Authentifizierung mit SMS-Tan meine Vorwahl nicht akzeptiert wird?
+ Wie lange im Voraus kann ich den (Super) Sparpreis Europa Ukraine kaufen?
 ----------
 
-In diesem Fall wählen Sie die 2-Faktor-Authentifizierung via Authentifizierungs-App. Hierzu benötigen Sie eine zusätzliche Authentifizierungs-App, über die Sie das Einmalpasswort zur Authentifizierung generieren können.
+Fahrkarten zum Sparpreis Europa bzw. Super Sparpreis Europa in der 1. und 2. Klasse zu Zielen in der Ukraine können nur in DB Vertriebsstellen (DB Reisezentrum, DB Agentur) als Papiertickets gekauft werden. Es können nur die Ziele in der Ukraine ausgewählt werden, die in den DB Vertriebssystemen hinterlegt sind; dies kann während der Fahrplanperiode variieren. Die Vorverkaufsfrist beträgt längstens 2 Monate und kann nicht garantiert werden.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-faktor-authentifizierung-sms-vorwahl-nicht-akzeptiert)
-
- Welche Voraussetzungen müssen erfüllt sein, dass ich per Lastschrift bezahlen kann?
+ Kann ich mein Super Sparpreis Europa-Ticket umbuchen oder stornieren?
 ----------
 
-Um per Lastschriftverfahren bezahlen zu können, müssen Sie folgende Voraussetzungen erfüllen:
+Tickets zum Super Sparpreis sind von **Umtausch und Stornierung ausgeschlossen**.
 
-* Sie müssen volljährig sein
-* Der Sitz Ihrer angegebenen Bank muss im SEPA-Raum liegen
-* Sie besitzen bereits ein Kund:innenkonto bei uns und haben dort die Anmeldedaten zur SEPA-Lastschrift hinterlegt
-* Sie müssen während der Buchung mit Ihrem Kund:innenkonto eingeloggt sein
+**Sofortstornierung**
 
-Gegebenenfalls werden Sie aufgefordert, Ihre Bankdaten mit Ihrem Online-Banking Login zu bestätigen. Dazu stehen die Verfahren von Tink und Verimi zur Verfügung. Falls Sie über kein Online-Banking verfügen, bietet Ihnen Verimi eine alternative Verifizierung mit Foto-Ident oder eID an.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihre auf bahn.de oder im DB Navigator gebuchten Tickets **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-welche-voraussetzungen-muessen-erfuellt-sein-dass-ich-auf-bahn-de-per-lastschrift-bezahlen-kann)
-
- Warum muss ich mich oder meine Bankdaten bestätigen?
+ Kann ich mein Sparpreis-Ticket umbuchen oder stornieren?
 ----------
 
-Durch die Bestätigung Ihrer Identität oder Bankdaten stellen wir sicher, dass nur von Ihnen autorisierte Bestellungen durchgeführt werden.
+**Stornierung vor dem 1. Geltungstag:**
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/3-warum-muss-ich-mich-oder-meine-bankdaten-bestaetigen)
+Ja, Sie können das Sparpreis-Ticket vor dem 1. Geltungstag stornieren. Das Bearbeitungsentgelt beträgt 10 Euro. Die Auszahlung erfolgt in Form eines Gutscheins, der 3 Jahre gültig ist.
 
- Wie funktioniert die Authentifizierung für meine Kreditkarte und wie bezahle ich?
+**Stornierung ab dem Reisetag:**
+
+Ab dem Reisetag ist eine Stornierung ausgeschlossen.
+
+**Voraussetzung bei Hin- und Rückfahrten:**
+
+Wenn Hin- und Rückfahrt auf einem Ticket gebucht wurden, kann nur beides zusammen storniert werden. Wenn Sie nur eine Fahrt stornieren möchten, sollten Sie Hin- und Rückfahrt getrennt buchen.
+
+Um das Sparpreis-Ticket zu stornieren, bitte in "Meine Reisen" im "Meine Bahn"- DB Kundenkonto gehen oder die Auftragssuche nutzen. Danach kann das neue Ticket wie gewohnt gebucht werden.
+
+**Sofortstornierung:**
+
+Unabhängig von den tariflichen Angebotskonditionen können Sie ein Digitales Ticket **vor dem ersten Geltungstag** innerhalb von **3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurückerstattet.
+
+ Wie lange im Voraus kann ich den (Super) Sparpreis kaufen?
 ----------
 
-Nach der Eingabe Ihrer Kreditkartendaten erscheint ein Dialogfenster der Bank, von der Sie Ihre Kreditkarte erhalten haben. Sie werden aufgefordert zwei Faktoren zur Bestätigung Ihrer Identität anzuwenden. Die Authentifizierungsverfahren können je nach Bank unterschiedlich sein. Bestätigt die Bank Ihre Angaben, wird die Transaktion durchgeführt und der Einkauf abgeschlossen.
+Tickets können bis zu **12 Monate im Voraus** gebucht werden.
 
-Voraussetzung ist, dass Sie Ihre Kreditkarte bei Ihrer Bank für das Authentifizierungsverfahren aktiviert haben.
-
-**Mindestens zwei der folgenden drei Faktoren werden für die Authentifizierung während des Bezahlvorgangs benötigt:**
-
-* Besitz (z.B. Smartphone)
-* Wissen (z.B. PIN, Passwort)
-* Inhärenz/Biometrie (z.B. Fingerabdruck, Gesichtserkennung)
-
-Je nach Kreditkartenunternehmen heißen die Authentifizierungsverfahren Visa Secure, Mastercard Identity Check, American Express SafeKey und Diners ProtectBuy.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/3dsecure-bezahlen)
-
- Was ist das 3-D Secure Verfahren und PSD2?
+ Bekomme ich Rabatt auf den (Super) Sparpreis mit der BahnCard?
 ----------
 
-Es gibt neue technische Regulierungsstandards der Europäischen Bankenaufsicht (PSD 2 - Payment Service Directive 2), die unter anderem zum Ziel haben, das Bezahlen im Internet noch sicherer zu machen. Die Deutsche Bahn erfüllt die vorgegebenen Sicherheitsstandards indem sie die Forderung einer starken Kundenauthentifizierung (SCA) in Form einer 2 Faktor Authentifizierung umsetzt.
+Mit der BahnCard 25 und 50 erhalten Sie 25 Prozent Rabatt (ausgenommen City-Ticket).
 
-Mindestens zwei der drei Faktoren
-
-* Besitz (z.B. Smartphone)
-* Wissen (z.B. PIN, Passwort)
-* Inhärenz/Biometrie (z.B. Fingerabdruck oder Gesichtserkennung)
-
-werden beim Bezahlvorgang zur Authentifizierung benötigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/3dsecure-psd2)
-
- Wie registriere ich meine Kreditkarte für das 3-D Secure Verfahren?
+ Habe ich mit meiner (Super) Sparpreis-Fahrkarte 1. Klasse Zugang zur DB Lounge?
 ----------
 
-Erkundigen Sie sich bei Ihrer Bank, wie Sie Ihre Kreditkarte registrieren können. In vielen Fällen ist sie bereits automatisch registriert.
-Die Authentifizierungsverfahren können von Bank zu Bank unterschiedlich sein. Daher informieren Sie sich bei Ihrer Bank über das jeweilige Verfahren und lassen sich dafür freischalten.
+Nein, mit einem (Super) Sparpreis-Ticket haben Sie keinen Zutritt zur DB Lounge.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/3dsecure-registrierung)
-
- Wie kann ich meine Kontoverbindung für das Lastschriftverfahren ändern?
+ Kann ich mein Super Sparpreis-Ticket umbuchen oder stornieren?
 ----------
 
-Sie können Ihre Kontodaten in Ihrem DB Kundenkonto ändern. Klicken Sie dort im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern".
+Nein, Super Sparpreis-Tickets sind vom Umtausch und von der Stornierung ausgeschlossen.
 
-Änderungen gelten nicht für Zahlungen zu Ihrem Abonnement. Für Zeitkarten-Abonnements und das Deutschland-Ticket ändern Sie Ihre Bankdaten im Aboportal unter "Meine Daten". Das Aboportal erreichen Sie über "Abos verwalten" in Ihrem Profil oder unter [abo.bahn.de](https://abo.bahn.de/).
+**Sofortstornierung**
 
-* [Zum Abo-Portal](https://abo.bahn.de/#/)
+* Unabhängig von den tariflichen Angebotskonditionen können auf bahn.de oder im DB Navigator gebuchte Tickets **vor dem ersten Geltungstag** innerhalb **von 3 Stunden** (180 Minuten) nach der Buchung **kostenlos storniert** werden.
+* Es wird der komplette Zahlungsbetrag zurückerstattet.
 
-[Im Kundenkonto einloggen](https://www.bahn.de/buchung/reiseuebersicht)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/4-wie-kann-ich-meine-kontoverbindung-fuer-das-lastschriftverfahren-aendern)
-
- Wie melde ich mich vom Lastschriftverfahren ab?
+ Wie kann ich den Super Sparpreis Senioren buchen?
 ----------
 
-Wenn Sie nicht mehr am Lastschriftverfahren teilnehmen möchten, klicken Sie in Ihrem DB Kundenkonto im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern". Dort finden Sie den Link "Abmelden vom Lastschriftverfahren."
+Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsauskunft auf bahn.de** und in unserer **App DB Navigator** kaufen. In den DB Reisezentren und Agenturen ist der Super Sparpreis Senioren als Digitales Ticket erhältlich.
 
-[Jetzt einloggen](https://www.bahn.de/buchung/meine-reisen)
+**Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 
-Die Änderung kann nicht für im DB Reisezentrum/DB Agentur erworbene Zeitkarten-Abonnements übernommen werden. Wenn Sie Ihr Zeitkarten-Abonnement im DB Reisezentrum oder einer DB Agentur abgeschlossen haben, so ändern Sie bitte selbstständig Ihre Bankdaten im Abo-Portal auf bahn.de.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/5-wie-melde-ich-mich-vom-lastschriftverfahren-ab)
-
- Warum kann ich Sparpreis-Tickets und eine BahnCard 100 nicht mit Lastschrift bezahlen?
+ Wird der Super Sparpreis Senioren für die 1. Klasse angeboten?
 ----------
 
-Aktuell sind verstärkt betrügerische Aktivitäten basierend auf sogenannten Phishing-E-Mails zu verzeichnen. Als eine vorsorgliche Maßnahme zu Ihrem Schutz können Sie deshalb Sparpreis-Tickets und eine BahnCard 100 auf dieser Website und in der App bis auf Weiteres nicht mit dem Lastschrift-Verfahren bezahlen.
+Den Super Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/6-warum-kann-ich-sparpreis-tickets-nicht-mit-lastschrift-bezahlen)
-
- Ab wann wurde die CO₂-Einsparung berechnet?
+ Was passiert, wenn beim (Super) Sparpreis Senioren mein Zug ausfällt oder verspätet ist?
 ----------
 
-Die Anzeige der CO₂-Sparuhr bezieht sich auf ein Kalenderjahr und läuft vom 1. Januar bis zum 31. Dezember eines jeden Jahres. Dann startet sie mit aktualisierten Daten neu.
+Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort können Sie die Fahrt wie folgt fortsetzen:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-einsparung-co2)
+* Auf der gleichen Strecke mit einem anderen Zug.
+* Über eine andere Strecke.
+* Zu einem späteren Zeitpunkt.
 
- Ab wann gilt die Pauschalversteuerung?
+ Wie kann ich den Sparpreis Senioren buchen?
 ----------
 
-Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
+Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bahn.de** und in unserer **App DB Navigator** zu finden. In DB Reisezentren und Agenturen kann der Sparpreis Senioren als Digitales Ticket erworben werden.
 
-Basis für die Berechnung des geldwerten, steuerpflichtigen Vorteils ist das Datum der Prämienpunkte-Einlösung. Das bedeutet: Prämienpunkte, die Sie vor dem 1. Juli 2023 eingelöst haben, müssen weiterhin in der individuellen Lohnsteuer angegeben werden.
+**Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-gilt-pauschalversteuerung)
-
- Ab welchem Alter darf ich alleine mit der Bahn ins Ausland fahren?
+ Wird der Sparpreis Senioren für die 1. Klasse angeboten?
 ----------
 
-Die Verantwortung, ob Sie alleine reisen dürfen, liegt tatsächlich bei den Erziehungsberechtigten bzw. bei Ihren Eltern. Wir empfehlen zur Sicherheit eine schriftliche Erlaubnis mitzuführen.
+Den Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-welchem-alter-darf-ich-alleine-mit-der-bahn-ins-ausland-fahren)
-
- Was passiert beim DB Junior Express, wenn sich die Abholperson am Zielbahnhof verspätet?
+ Was passiert, wenn beim Sparpreis Senioren mein Zug ausfällt oder verspätet ist?
 ----------
 
-Ihr Kind wird zu keinem Zeitpunkt alleingelassen. Sollte sich die Abholperson verspäten, informieren Sie bitte umgehend die Service-Hotline. Die Betreuer:innen warten gemeinsam mit Ihrem Kind am vereinbarten Treffpunkt, bis die autorisierte Person eintrifft. Sollte kein Kontakt zu den angegebenen Notfallkontakten oder Abholpersonen hergestellt werden können, wird das Kind in die Obhut der Polizei übergeben.
+Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort kann die Fahrt auf der gleichen Strecke, über eine andere Strecke oder zu einem späteren Zeitpunkt fortgesetzt werden.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abholperson-verspaetet)
-
- Meine Statuslaufzeit läuft bald ab. Behalte ich meine noch übrigen Statusvorteile für meine nächste Statuslaufzeit?
+ Kann ich mein Flexpreis-Ticket umbuchen oder stornieren?
 ----------
 
-Nein, alle Statusvorteile sind für den Zeitraum Ihrer persönlichen Statuslaufzeit gültig und verfallen nach Ablauf.
+Ja.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ablauf-statuslaufzeit-statusvorteile)
+**Bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
+
+**Ab dem 1. Geltungstag** der Hinfahrt: 30 Euro pro Fahrkarte
+
+Unabhängig von den Angebots-Bedingungen:
+
+* Sie können Ihr Digitales Ticket vor dem 1. Geltungstag innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren und erhalten den kompletten Betrag zurück.
+
+ Bekomme ich Rabatt auf den Flexpreis mit der BahnCard?
+----------
+
+Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard 50.
+
+ Wie lange im Voraus kann ich den Flexpreis kaufen?
+----------
+
+Tickets können bis zu **12 Monate im Voraus** gebucht werden.
+
+ Kann ich den Flexpreis noch im Zug kaufen?
+----------
+
+Seit dem 01.01.2022 ist es nicht mehr möglich, Tickets bei den Zugbegleiter:innen im Fernverkehr zu kaufen.
+
+Sie können Ihr **Digitales Ticket** in den **Fernverkehrszügen** aber bis 10 Minuten (auch bei Verspätung) nach Abfahrt buchen. Voraussetzung ist, dass zwischen dem Einstiegsbahnhof und dem nächsten Haltebahnhof mehr als 10 Minuten Fahrzeit vorgesehen sind.
+
+ Ist beim Flexpreis eine Sitzplatzreservierung im Preis enthalten?
+----------
+
+* **2. Klasse:** Die Fahrkarte enthält keine Sitzplatzreservierung. Diese können Sie zusammen mit der Fahrkarte oder später separat kaufen.
+* **1. Klasse:** In der 1. Klasse ist eine Sitzplatzreservierung automatisch beim Fahrkartenkauf inklusive.
+
+ Ist der Flexpreis auch für internationale Fahrten buchbar?
+----------
+
+Ja, der Flexpreis Europa ist auch für internationale Verbindungen buchbar.
+
+ Ist beim Flexpreis Europa eine Sitzplatzreservierung im Preis enthalten?
+----------
+
+**In jedem Fernverkehrszug können Sie kostenpflichtg einen Sitzplatz reservieren**.
+
+Bei der Buchung einer Fahrkarte für die **1. Klasse ist eine kostenfreie Reservierung in folgenden Zügen inklusive**:
+
+* In allen Fernverkehrszügen innerhalb Deutschlands.
+* In grenzüberschreitenden Fernverkehrszügen bis zu dem Bahnhof, an dem Sie im Ausland aussteigen oder umsteigen.
+
+Wenn Sie im Ausland umsteigen, bezahlen Sie für die nachfolgenden Züge in der 2. Klasse 5,50 Euro und in der 1. Klasse 6,90 Euro für die Sitzplatzreservierung.
+
+**Reservierungspflichtige Züge:**
+Für reservierungspflichtige Züge erhalten Sie Ihre Sitzplatzreservierung kostenfrei bei der Buchung der Fahrkarte. Wenn Sie die Reservierung nachträglich kaufen, zahlen Sie den Preis für die normale Sitzplatzreservierung.
+
+ In welchen Zügen gibt es mit dem Flexpreis Europa eine Reservierungspflicht?
+----------
+
+In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservierung ist kostenfrei im Ticket enthalten.** Die Reservierungspflicht gilt für folgende Züge:
+
+* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille (inkl. aller Zwischenhalte)
+* Italien: Züge nach Mailand über Basel Bad Bf
+* Polen: Alle Fernverkehrszüge nach Polen
+
+Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reservierung reisen können, auch wenn Sie bereits eine Flexpreis-Fahrkarte inklusive Reservierung für einen anderen Zug haben.
+
+ Wie weit im Voraus kann ich beim Flexpreis Europa reservierungspflichtige Züge buchen?
+----------
+
+Je nach Land können Tickets bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+
+ Kann ich einen Flexpreis Europa stornieren?
+----------
+
+**Ja.**
+
+**Bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
+
+**Ab dem 1. Geltungstag** der Hinfahrt: 30 Euro pro Fahrkarte
+
+Sie können eine Flexpreis Europa-Fahrkarte **bis 6 Monate nach Ablauf** der Geltungsdauer stornieren.
+
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales Ticket** innerhalb von **3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+
+ Wo kann ich den Super Sparpreis Gruppe buchen?
+----------
+
+* **online**
+* App **DB Navigator** (bis zu max. 99 Personen)
+* **DB Reisezentrum** oder **DB Agentur**
+* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
+
+ Kann ich mein Super Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
+----------
+
+Eine Änderung, Umbuchung oder Stornierung des Super Sparpreis Gruppe-Tickets ist nicht möglich.
+
+**Sofortstornierung**
+
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+
+ Kann ich einzelne Reisende beim Super Sparpreis Gruppe stornieren?
+----------
+
+Eine Stornierung einzelner Reisender ist nicht möglich.
+
+ Wo kann ich den Sparpreis Gruppe buchen?
+----------
+
+Hier können Sie Ihre Gruppenreise buchen:
+
+* **online**
+* App **DB Navigator** (bis zu max. 99 Personen)
+* **DB Reisezentrum** oder **DB Agentur**
+* **telefonisch** unter [+49 30 2970](tel:+49302970) (Kosten abhängig vom Provider)
+
+Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
+
+ Kann ich mein Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
+----------
+
+Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder umbuchen.
+
+* Bei online gebuchten Sparpreis Gruppen-Tickets können Sie die gesamte Fahrt bis 7 Tage vor Reiseantritt für 19 EUR je Gruppenticket stornieren.
+* Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch können Sie die gesamte Fahrt bis 14 Tage vor dem Reisetag kostenfrei umbuchen oder stornieren. Danach ist ein Umtausch ausgeschlossen. Sie können die gesamte Gruppenreise für 5 Euro je stornierender Person und Ticket bis einen Tag vor Abfahrt erstatten lassen.
+* Bei einer Onlinebuchung können Sie Tickets nicht umtauschen und einzelne Teilnehmer nicht stornieren.
+
+**Sofortstornierung**
+
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+
+ Kann ich einzelne Reisende beim Sparpreis Gruppe stornieren?
+----------
+
+Bei einer Buchung über Ihre **DB Verkaufsstelle vor Ort oder telefonisch**
+
+* **Ja,** Sie können einzelne Teilnehmer stornieren. Bis 14 Tage vor Reisetag geht das kostenfrei. Ab 13 Tage bis einen Tag vor dem 1. Geltungstag fallen 5 Euro pro zu stornierender Person je Fahrkarte an. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen
+
+Bei einer **Online-Buchung**:
+
+* **Nein**, Sie können einzelne Teilnehmer nicht stornieren.
+
+ Wo kann ich den Super Sparpreis Europa Gruppe buchen?
+----------
+
+* **online**
+* App **DB Navigator** (bis zu max. 99 Personen)
+* **DB Reisezentrum** oder **DB Agentur**
+* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
+
+Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
+
+ Wie lange im Voraus kann ich den Super Sparpreis Europa Gruppe kaufen?
+----------
+
+Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien, Niederlande, Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus.)
+
+Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt buchen.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+
+ Für welche Länder kann ich den Super Sparpreis Europa Gruppe buchen?
+----------
+
+Für diese Länder können Sie das Angebot buchen: Belgien, Dänemark, Frankreich, Italien, Kroatien, Luxemburg, Niederlande, Österreich, Polen, Schweiz, Slowakei, Slowenien Tschechien und Ungarn. **Für alle anderen Reiseziele in Europa gilt das Angebot Gruppe&Spar Europa.**
+
+ Genügt eine Anzahlung bei der Buchung für den Super Sparpreis Europa Gruppe?
+----------
+
+Für den Super Sparpreis Europa Gruppe ist eine Anzahlung nicht möglich.
+
+ Kann ich mein Super Sparpreis Europa Gruppe-Ticket ändern, umbuchen oder stornieren?
+----------
+
+Für den Super Sparpreis Europa Gruppe ist eine Änderung, Umbuchung oder Stornierung nicht möglich.
+
+**Sofortstornierung**
+
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+
+ Kann ich einzelne Reisende beim Super Sparpreis Europa Gruppe stornieren?
+----------
+
+Für den Super Sparpreis Europa Gruppe ist eine Stornierung einzelner Reisender nicht möglich.
+
+ Wo kann ich den Sparpreis Europa Gruppe buchen?
+----------
+
+Hier können Sie Ihre Gruppenreise buchen:
+
+* **online**
+* App **DB Navigator** (bis zu max. 99 Personen)
+* **DB Reisezentrum** oder **DB Agentur**
+* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
+
+Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
+
+ Wie lange im Voraus kann ich den Sparpreis Europa Gruppe kaufen?
+----------
+
+Tickets können online bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien**, **Luxemburg, Niederlande und Schweiz bis zu 12 Monate** im Voraus).
+
+Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu 12 Monate im Voraus und bis kurz vor Abfahrt buchen.
+
+Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+
+ Für welche Länder kann ich den Sparpreis Europa Gruppe buchen?
+----------
+
+Für diese Länder können Sie das Angebot buchen: Belgien, Dänemark, Frankreich, Italien, Kroatien, Luxemburg, Niederlande, Österreich, Polen, Schweiz, Slowakei, Slowenien, Tschechien und Ungarn. **Für alle anderen Reiseziele in Europa gilt das Angebot Gruppe&Spar Europa.**
+
+ Genügt eine Anzahlung bei der Buchung für den Sparpreis Europa Gruppe?
+----------
+
+Bei Buchung im DB Reisezentrum oder einer DB Agentur ist eine Anzahlung möglich. Die Anzahlung beträgt 6 Euro pro Teilnehmer. Die Restzahlung ist spätestens 14 Tage vor Reiseantritt fällig.
+
+Bei Online-Buchung zahlen Sie den Gesamtpreis sofort.
+
+ Kann ich mein Sparpreis Europa Gruppe-Ticket ändern, umbuchen oder stornieren?
+----------
+
+* **Bei online gebuchten Sparpreis Europa Gruppe-Tickets** ist eine Stornierung der gesamten Fahrt bis 7 Tage vor Reiseantritt für 19 EUR je Gruppenticket möglich.
+
+* **Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch** ist eine Stornierung oder Umbuchung der gesamten Fahrt bis 14 Tage vor Reisetag antritt unentgeltlich möglich. Danach ist ein Umtausch ausgeschlossen. Die Erstattung der gesamten Gruppenreise ist gegen ein Entgelt von 5 EUR je stornierender Person bis einen Tag vor Abfahrt möglich.
+
+**Sofortstornierung**
+
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+
+ Kann ich einzelne Reisende beim Sparpreis Europa Gruppe stornieren?
+----------
+
+* **Bei online gebuchten Tickets** ist eine Stornierung einzelner Teilnehmer nicht möglich.
+* **Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch** ist eine Stornierung einzelner Teilnehmer möglich. Bis 14 Tage vor Reisetag ist eine Reduktion einzelner Teilnehmer unentgeltlich. Ab 13 Tage bis einen Tag vor dem 1. Geltungstag fallen 5 Euro pro zu stornierender Person je Fahrkarte an. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen.
+
+ Kann ich mein Super Sparpreis Last Minute-Ticket umbuchen oder stornieren?
+----------
+
+Nein, Super Sparpreis Last Minute-Tickets sind vom Umtausch und von der Stornierung ausgeschlossen.
+
+**Sofortstornierung**
+
+* Unabhängig von den tariflichen Angebotskonditionen können auf bahn.de oder im DB Navigator gebuchte Tickets **vor dem ersten Geltungstag** innerhalb **von 3 Stunden** (180 Minuten) nach der Buchung **kostenfrei storniert** werden.
+* Es wird der komplette Zahlungsbetrag zurückerstattet.
+
+ Wie lange im Voraus kann ich den Super Sparpreis Last Minute kaufen?
+----------
+
+Sie können das Ticket samstags und sonntags für Montag bis Sonntag der Folgewoche buchen. Nur solange der Vorrat reicht.
+
+ Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
+----------
+
+Wenn die im DB Kundenkonto hinterlegte BahnCard für jede Buchung automatisch berücksichtigt werden soll, muss diese im DB Kundenkonto dafür voreingestellt werden. Gehen Sie dafür bitte in den Bereich "Profil" und wählen Sie anschließend unter "BahnCard" die Kachel "BahnCard verwalten" aus. Fügen Sie anschließend unter "Ermäßigung hinterlegen" die passende BahnCard-Ermäßigung hinzu. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
+
+ Wie erkenne ich, ob das City-Ticket bei meiner Fahrkarte mit dabei ist?
+----------
+
+Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "+City" auf Ihrer Fahrkarte.
+
+ Darf ich mein Fahrrad mitnehmen, wenn ich ein Länder-Ticket habe?
+----------
+
+Ja, aber die Mitnahme ist nicht kostenfrei: Oft brauchen Sie zu Ihrem Länder-Ticket eine **Fahrradtageskarte** pro Fahrrad.
+
+* In einigen Verkehrsverbünden gibt es **Sperrzeiten für die Fahrradmitnahme**, um die im Berufsverkehr gefüllten Züge nicht zusätzlich zu belasten.
+* In einigen Bundesländern ist die Fahrradmitnahme in Nahverkehrszügen zu bestimmten Zeiten und auf bestimmten Strecken sogar **kostenfrei** möglich.
+* Passt Ihr Fahrrad zusammengeklappt und gut verpackt in die Gepäckablagen am Sitzplatz, können Sie es als kostenfreies Handgepäck mitnehmen.
+
+Achtung: Preise und Regelungen sind in den einzelnen Bundesländern und Verkehrsverbünden unterschiedlich. Informieren Sie sich bitte vor Ihrer Fahrt.
+
+ Darf ich mein Fahrrad mitnehmen, wenn ich mit dem Schleswig-Holstein-Ticket fahre?
+----------
+
+Ja, aber die Mitnahme ist **nicht kostenfrei**: Sie brauchen zu Ihrem Schleswig-Holstein-Ticket eine **Fahrradtageskarte** pro Fahrrad.
+
+* Im HVV-Bereich (Hamburg) gibt es **Sperrzeiten für die Fahrradmitnahme,** um die im Berufsverkehr gefüllten Züge nicht zusätzlich zu belasten**.** Sperrzeiten in den U-, S-, A-Bahnen sind Montag bis Freitag 6 bis 9 Uhr und 16 bis 18 Uhr.
+* Passt Ihr Fahrrad zusammengeklappt und gut verpackt in die Gepäckablagen am Sitzplatz, können Sie es als kostenfreies Handgepäck mitnehmen.
+
+ Was ist der Deutschland-Ticket-Filter "Nur D-Ticket-Verbindungen anzeigen"?
+----------
+
+Der D-Ticket-Filter zeigt gezielt Verbindungen an, die Sie mit dem Deutschland-Ticket ohne Aufpreis nutzen können. Sie aktivieren ihn mit dem Schieberegler "Nur D-Ticket-Verbindungen".
+
+Im **DB Navigator** finden Sie diesen Regler unter "**Optionen**", auf **bahn.de** unten in der **Verbindungsauskunft**.
+
+Um wieder alle Verbindungen, einschließlich Fernverkehr, angezeigt zu bekommen, können Sie den Filter dort auch jederzeit deaktivieren.
+
+ Wieso erscheinen trotz aktiviertem D-Ticket-Filter einzelne nicht im D-Ticket enthaltene Verbindungen?
+----------
+
+Auch wenn der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert ist, können vereinzelt Verbindungen angezeigt werden, die nicht mit dem Deutschland-Ticket genutzt werden dürfen.
+
+Das passiert, wenn der Betreiber das Deutschland-Tickets nicht akzeptiert – etwa bei bestimmten Flughafen-Buslinien. In solchen Fällen erscheint der Hinweis:
+
+"Diese Verbindung ist nicht im Deutschland-Ticket enthalten. Das Deutschland-Ticket gilt hier nicht. Bitte stellen Sie sicher, dass Sie eine gültige Fahrkarte besitzen, wenn Sie diese Verbindung nutzen."
+
+ Kann ich gleichzeitig nach Deutschland-Ticket-Verbindungen und nach bestimmten Verkehrsmitteln filtern?
+----------
+
+Nein, eine gleichzeitige Filterung nach Deutschland-Ticket-Verbindungen und bestimmten Verkehrsmitteln ist nicht möglich.
+
+* Wird der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert, erscheinen nur Verbindungen, die für das Deutschland-Ticket auf der gewählten Strecke zugelassen sind.
+* Damit der D-Ticket-Filter angewendet werden kann, muss die Verkehrsmittelauswahl in den "Optionen" auf "Alle" gesetzt sein. Eine Auswahl einzelner Verkehrsmittel ist dabei nicht möglich.
+* Wenn Sie gezielt bestimmte Verkehrsmittel anzeigen möchten, deaktivieren Sie bitte zuvor den D-Ticket-Filter.
+
+ Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf Fahrgastrechte?
+----------
+
+Bei der Kombination von Deutschland-Ticket und Fernverkehrs-Ticket werden die jeweiligen Fahrten als separate Beförderungsverträge behandelt. Dadurch entfallen durchgehende Fahrgastrechte zwischen Nah- und Fernverkehr.
+
+Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrechte:
+
+* Verspätungen im Nahverkehr, die zum Verpassen eines Fernverkehrszuges führen, heben die Zugbindung im Fernverkehr nicht auf. Eine spätere Fernverkehrsverbindung kann somit nicht genutzt werden.
+* Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrs-Ticket, jedoch nicht in Kombination.
+* Bei der Anreise mit U-Bahn, Straßenbahn oder Bus bestehen keine durchgängigen Fahrgastrechte.
+
+ Was passiert, wenn ich das Deutschland-Ticket bei der Buchung einer Super Sparpreis-, Sparpreis- oder Flexpreis-Fahrkarte angebe?
+----------
+
+Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen, wird lediglich eine Fahrkarte ausgegeben, und zwar für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt (meistens ICE- oder IC/EC Züge). Sie müssen nur diese Strecke bezahlen, denn für die Fahrt im Nahverkehr haben Sie das Deutschland-Ticket.
+
+**Beispiel:** Buchungsanfrage Potsdam – Berlin – Frankfurt – Bad Homburg. Die Preisberechnung erfolgt für die Strecke im Fernverkehr Berlin – Frankfurt. Auch die Fahrkarte wird nur für die Fernverkehrsstrecke ausgegeben. Für Nahverkehrsstrecke Potsdam – Berlin und Frankfurt – Bad Homburg wird das Deutschland-Ticket genutzt.
+
+ Welche Auswirkung hat die Angabe eines Deutschland-Tickets auf den Preis?
+----------
+
+Für die Berechnung des Ticketpreises zählt nur die Strecke zwischen dem ersten und letzten Fernverkehrshalt. Wird ein Teil der Reise im Schienenpersonennahverkehr zurückgelegt, wird hierfür das Deutschland-Ticket angesetzt und nicht dem Gesamtpreis des Tickets zugerechnet.
+
+ Was passiert, wenn ich mein Deutschland-Ticket bei der Fahrt im DB Fernverkehr nicht dabei habe?
+----------
+
+Das macht nichts. Im Fernverkehr ist das Deutschland-Ticket nicht gültig.
+
+ Erhalte ich ein City-Ticket bei Angabe des Deutschland-Tickets?
+----------
+
+Bei den günstigen Angeboten Super Sparpreis und Sparpreis wird kein City-Ticket ausgegeben. Im Angebot Flexpreis ist das City-Ticket weiterhin enthalten.
+
+ Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf eine mögliche Erstattung meines Flex- oder Sparpreistickets?
+----------
+
+Die Angabe des Deutschland-Tickets beeinflusst die Stornierungs- und Erstattungsmöglichkeiten nicht. Es gelten weiterhin die bestehenden Erstattungskonditionen des gebuchten Fernverkehrsangebots.
+
+ Kann ich nach Aktivierung des Preisfilters für das Deutschland-Ticket die Bestpreissuche nutzen?
+----------
+
+Nein. Eine Kombination des Preisfilters für das Deutschland-Ticket mit der Bestpreissuche ist leider nicht möglich. Wenn Sie die Bestpreissuche nutzen möchten, ist es notwendig, den Filter vorher zu deaktivieren.
+
+ Kann ich das Deutschland-Ticket und eine BahnCard 25 oder 50 zusammen bei den Reisendenoptionen auswählen?
+----------
+
+Ja, das ist möglich.
+
+ Was muss ich bei Angabe des Deutschland-Tickets beachten, wenn ich Kinder mitnehmen möchte?
+----------
+
+* Beim Deutschland-Ticket ist die kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren **nicht** enthalten. Für die An- oder Abreise zum bzw. vom Fernverkehrshalt benötigen Kinder in diesem Alter daher ein zusätzliches gültiges Nahverkehrsticket (z. B. eine Einzelfahrkarte).
+* Kinder unter 6 Jahren fahren sowohl im Nah- als auch im Fernverkehr ohne Fahrkarte.
+
+ Welche beiden Filtermöglichkeiten gibt es für das Deutschland-Ticket?
+----------
+
+Sie haben 2 Möglichkeiten:
+
+1. Schieberegler "**Nur D-Ticket Verbindungen"** unter "Optionen" aktivieren:
+    Zeigt nur Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
+
+2. Schieberegler **"Alle Reisenden besitzen ein Deutschland-Ticket"** unter "Reisende/Fahrräder" aktivieren:
+    Berechnet den Fahrkartenpreis für die Teilstrecke vom 1. bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab. Das Angebot ergänzender Tickets beispielsweise für Fahrräder wird dadurch ausgeblendet.
+
+So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
+
+ Kann ich mit einem Abo oder dem Deutschland-Ticket BahnBonus Punkte sammeln?
+----------
+
+Für den Kauf des Deutschland-Tickets oder anderer Abos (zum Beispiel Wochen- und Monatskarten im Fernverkehr) erhalten Sie monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises, **wenn**:
+
+* Sie beim BahnBonus-Programm angemeldet sind
+* Sie das Ticket mit Ihrem angemeldeten DB Kundenkonto über bahn.de oder den DB Navigator kaufen
+* Ihre persönlichen Daten beim Kauf mit denen im BahnBonus-Konto übereinstimmen
+
+Beim Kauf des Deutschland-Tickets **bei anderen Anbietern**, zum Beispiel Verkehrsverbünden oder im DB Reisezentrum, können **keine** BahnBonus Punkte gesammelt werden. Auch für Verbundfahrkarten und -abos können **keine** Punkte gesammelt werden.
+
+Für Buchungen, die Sie **vor** der Registrierung durchgeführt haben, können nachträglich keine Punkte gutgeschrieben werden.
+
+ Was ist eine Zeitkarte?
+----------
+
+Zeitkarten sind zum Beispiel Wochen- und Monatskarten. Sie können sie für zahlreiche Verbünde direkt buchen.
+
+ Kann ich Wochen- oder Monatskarten von Verkehrsverbünden - sogenannte Verbundzeitkarten - in der App DB Navigator kaufen?
+----------
+
+Ja, Sie können Wochen- oder Monatskarten von vielen Verkehrsverbünden in der App kaufen.
+
+1. Öffnen Sie die App DB Navigator.
+2. Gehen Sie im Menüpunkt "Buchen" im Bereich "Tickets & Angebote" auf "Verbundtickets".
+3. Wählen Sie den gewünschten Verkehrsverbund aus der alphabetischen Liste.
+4. Dort finden Sie weitere Infos und können Ihre Ticketauswahl treffen.
+
+ Wie bekomme ich beim Handy-Ticket einen Beleg für die Reisekostenabrechnung oder bei einer beruflichen Nutzung?
+----------
+
+Sie finden die Rechnung in der App DB Navigator unter „Meine Reisen“. Rufen Sie den Reiseplan auf und wählen Sie im Aktionsfeld "Weitere Aktionen" das Rechnungsdokument.
+
+ Ich habe eine falsche Verbundfahrkarte in der App gekauft. Kann ich das stornieren?
+----------
+
+Nein, denn Widerruf, Rückgabe, Umtausch und Erstattung von Handy- und Online-Tickets sind nicht möglich.
+
+ Wie kann ich ein Verbundticket über den DB Navigator erwerben?
+----------
+
+Sie haben 3 Möglichkeiten, ein Verbundticket in der App zu kaufen:
+
+**1) Über die Reiseauskunft:**
+
+* Geben Sie Start- und Zielverbindung ein.
+* Die App erkennt automatisch den passenden Verbund und zeigt die entsprechenden Produkte an.
+
+**2) Über Verbundshops (Menüpunkt "Verbundtickets"):**
+
+* Konfigurieren Sie Ihr Ticket nach Bedarf.
+* Beachten Sie, dass Sie verbundsspezifische Informationen, wie die Preisstufe, benötigen.
+
+**3) Über den Schnellbuchungseinstieg:**
+
+* Wischen Sie den farblich hervorgehobenen Balken am rechten Bildschirmrand in der Verbindungsauskunft.
+* Diese Option bietet eine schnellere Buchung mit einem eingeschränkten Produktsortiment.
+
+**Besonderheiten:**
+
+* Einige Produkte, wie Einzelfahrten, sind nur sofort gültig. Auch wenn ein Datum in der Zukunft ausgewählt wird, gilt das Ticket sofort ab dem Kaufzeitpunkt. Ist dies der Fall erfolgt eine farbliche Kennzeichnung auf der Angebotsdetailseite.
+* Verbundtickets können nur für eine Person gekauft werden. Wird in den Optionen die Anzahl der Reisenden verändert, wird dies in der Buchung nicht weiter berücksichtigt.
+* Es ist möglich, ein Verbundticket für eine andere Person zu kaufen. Der Name kann im Buchungsverlauf eingegeben werden.
+
+ Warum zeigt die App für meine Verbindung keine Preise an?
+----------
+
+Bei wenigen einzelnen Fahrten kann derzeit der Preis noch nicht automatisch ermittelt werden. Sie haben dennoch dort die Möglichkeit, ein Ticket in vielen Verbünden über den Ticketshop zu erwerben (Verbundtickets - Verbund- ZurTicketauswahl). Sie können auch eine andere Verbindung mit gleichem Streckenverlauf wählen, bei der Preise angezeigt werden, und dort zum Beispiel einen Einzelfahrschein zum sofortigen Fahrantritt kaufen.
+
+ Ich habe für eine andere Person ein Einzelticket gekauft. Kann diese es sich auf ihrem Smartphone anzeigen lassen?
+----------
+
+Digitale Tickets, die auf bahn.de oder der App DB Navigator gebucht wurden, können in der App DB Navigator im Menüpunkt "Reisen" über das Plus-Symbol auch auf einem anderen Gerät hinzugefügt werden. Dafür benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person.
+
+ Ich habe für eine andere Person eine Mehrfahrtenkarte gekauft. Wie kann sie das Ticket in Ihre App laden?
+----------
+
+Die Grundkarte und somit auch das Guthaben der Mehrfahrtenkarte liegt bei der Person im Account, die die Mehrfahrtenkarte gekauft hat. Sie bucht die anstehende Fahrt in ihrem Account mit dem Namen der anderen Person. Die andere Person kann auf ihrem Smartphone in der App unter "Meine Tickets/+Ticket hinzufügen" das Ticket mit Namen des Reisenden und Auftragsnummer hinzufügen.
+
+Achtung: Mehrfahrtenkarten sind (wie ein Einzelticket) immer ab sofort gültig.
+
+ Ich hatte mir ein Mehrfahrten-Ticket gekauft. Wo finde ich mein Guthaben/meine noch nicht eingelösten Tickets?
+----------
+
+Ihr Guthaben finden Sie in der App unter dem Navigationspunkt "Verbundtickets" und dann beim entsprechenden Verbund.
+
+ Wie löse ich bei Mehrfahrtenkarten mein zuvor gekauftes Guthaben ein?
+----------
+
+1. Wählen Sie eine Verbindung innerhalb des entsprechenden Verbunds.
+2. Klicken Sie in der Angebotsauswahl beim passenden Produkt auf "Entwerten" (zum Beispiel 10er Ticket "entwerten").
+3. Nach der Auswahl prüft das System Ihr Guthaben.
+4. Bei erfolgreicher Prüfung werden weitere Streifen bzw. Fahrten entwertet.
+
+ Wo kann ich mein Guthaben der Mehrfahrtenkarte einsehen?
+----------
+
+Sie gelangen zu einer Übersicht über Ihr verfügbares Guthaben, wenn Sie auf der Startseite des der App den Menüpunkt "Verbundtickets" und dann Ihren entsprechenden Verbund (Beispiel "Rhein-Ruhr" für VRR) auswählen. Auf der jeweiligen Verbundseite befindet sich der Button "Mehrfahrtenkarte-Guthaben", über welchen Sie sich Ihr verfügbares Guthaben anzeigen lassen können.
+
+ Meine Verbindung ist nicht buchbar. Was kann ich tun?
+----------
+
+Dies kann verschiedene technische Gründe haben.
+
+Mehrfahrtenkarten wie zum Beispiel Streifenkarten, 4er oder 10er Tickets, gelten immer ab sofort. Daher können Sie auch eine spätere Verbindung wählen und über diese das Ticket kaufen und entwerten. Im Verbund herrscht keine Verkehrsmittelbindung.
+
+ Ich habe bereits Guthaben, dieses wird mir allerdings nicht zum Entwerten angeboten?
+----------
+
+Dies kann mehrere Gründe haben. Bitte prüfen Sie zunächst Ihr Guthaben-Konto in der App unter "Verbundtickets" und Ihren Verbund. Beachten Sie zudem, dass Sie zum Beispiel vier Fahrten für ein bestimmtes Tarifgebiet erwerben. Liegt Ihre neue Fahrt nicht innerhalb dieses Gebiets, können Sie Ihr vorhandenes Guthaben nicht für die Fahrt verwenden.
+
+ Wie kaufe ich ein Handy-Ticket NRW eezy?
+----------
+
+Sie benötigen ein Smartphone mit Internetzugang sowie die kostenfreie DB-App "mobil.nrw“. In der App können Sie dann entweder das gewünschte Ticket über die Liste unter "Tickets" direkt auswählen oder Sie geben Start und Ziel in der Fahrplanauskunft der App ein und erhalten eine Ticketempfehlung. Das gewünschte Ticket einfach anklicken und nach der Abbuchung des Kaufbetrages wird das Ticket direkt aufs Handy gesandt.
+
+ Kann ich als Privatkunde ein Handy-Ticket NRW eezy für eine andere Person buchen?
+----------
+
+Ja. Dazu wählen Sie beim Ticketkauf eines beliebigen Tickets die Option "Ticket ist für mich" ab und geben die zur Personalisierung nötigen Daten der Person ein, für die das Ticket gelten soll. Alternativ können Sie die Kontaktdaten auch bequem von einem Kontakt aus Ihrem Adressbuch einfügen. Bitte beachten Sie, dass die Person einen amtlichen Lichtbildausweis (z.B. Personalausweis, Reisepass) mitzuführen hat, der auf Verlangen vorgezeigt werden muss.
+
+ Benötige ich eine Internetverbindung, um das gekaufte Handy-Ticket NRW eezy bei der Kontrolle vorzuzeigen?
+----------
+
+Nein, das Ticket ist auf Ihrem Handy gespeichert. Sie können es also immer vorzeigen, auch wenn Sie keinen Mobilfunkempfang haben.
+
+ Warum muss ich bei Reisen in NRW meinen Personalausweis zu meinem Handy-Ticket mitführen?
+----------
+
+Handy-Tickets sind personalisierte Tickets, enthalten also auch den Namen des Kunden. Sie haben die Möglichkeit, mit Ihrem Smartphone Tickets für andere Personen zu kaufen. Um den Ticketinhaber auch eindeutig zuordnen und Missbrauch vorbeugen zu können, muss ein amtlicher Lichtbildausweis (z.B. Personalausweis, Reisepass) bei der Fahrt mitgeführt werden.
+
+ Was muss ich bei der Änderung meiner Daten beachten, wenn ich ein Abo habe?
+----------
+
+Für die Änderung des Namens, Geschlechts oder Geburtsdatums im DB Kundenkonto prüfen Sie bitte die [Hilfestellungen zur Änderung persönlicher Daten](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/kundenkonto/persoenliche-daten). Die Änderungen werden nur in bestimmten Fällen auch für Ihren Abovertrag übernommen.
+
+Wenn Sie die Änderungen im DB Kundenkonto vorgenommen haben, überprüfen Sie im Aboportal unter "Meine Daten", ob diese übernommen wurden. Falls nicht, übersenden Sie uns Ihren Änderungswunsch über das Kontaktformular mit dem entsprechenden Nachweis.
+
+Bei der Neubestellung eines Abos werden die aktuellen Daten aus dem DB Kundenkonto übernommen.
+
+ Wie füge ich mein Abo im DB Navigator hinzu?
+----------
+
+Falls Sie das Abo im DB Navigator für sich selbst gekauft haben, wird es direkt nach der Bestellung unter "Reisen" als neues Handy-Ticket hinzugefügt.​
+
+Ansonsten können Sie es folgendermaßen hinzufügen:​
+
+1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
+2. Wechseln Sie zum Bereich "Reisen", tippen Sie oben auf das Plus-Icon (+) und geben Sie Ihre Abonummer und Ihren Nachnamen ein. Ein Login ist nicht erforderlich.
+   Wenn Sie die Fehlermeldung "Es konnte keine Übereinstimmung gefunden werden." erhalten, prüfen Sie bitte, ob Sie Ihre Abonummer und Ihren Nachnamen exakt wie in Ihrer Aktivierungsmail eingegeben haben.​
+
+Sie finden Ihre Abonummer oder die Mail nicht, aber sind angemeldet? Gehen Sie im DB Navigator auf "Profil" und "Abo verwalten". Wählen Sie das Abo aus und nutzen Sie die Funktion "Ticket im DB Navigator", um es aufzurufen.
 
  Wie kann ich mein digitales Abo in der App DB Navigator nutzen?
 ----------
@@ -445,574 +750,10 @@ Sie können den Bestellstatus aber bereits im DB Navigator anzeigen, **wenn Sie
 
 Die Funktion steht ab der **DB Navigator Version 25.23.0** zur Verfügung.
 
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-im-navigator-nutzen)
-
- Warum werde ich nicht zum Lastschriftverfahren für ein Abo zugelassen?
+ Ich erhalte die E-Mail zur Übertragung meines Abo-Handy-Tickets nicht. Was kann ich tun?
 ----------
 
-Bitte prüfen Sie Ihre E-Mails und Briefe, ob Sie in der Vergangenheit Informationen der Deutschen Bahn zu Problemen mit Zahlungen oder Ihrem DB Kundenkonto erhalten haben. Befolgen Sie die Hinweise zur Auflösung des Problems.
-
-Folgende Gründe können eine Zulassung zum Lastschriftverfahren verhindern:
-
-1. Sie haben offene Forderungen bei der DB, zum Beispiel ausgefallene Zahlungen für Abonnements, BahnCard oder Einzelfahrkarten ([weitere Hilfe](https://www.bahn.de/faq/kundenkonto-ausgleich))
-2. Mit den Angaben der bestellenden Person konnte die erforderliche Bonitätsprüfung nicht oder nicht erfolgreich durchgeführt werden.
-3. Ihr DB Kundenkonto wurde in der Vergangenheit gesperrt, zum Beispiel aufgrund einer falschen Bankverbindung, Inkassoübergaben oder verdächtiger Nutzung
-
-Falls Sie diese Gründe für Ihr DB Kundenkonto nicht erkennen, finden Sie hier:
-
-* [FAQ zur Bonitätsprüfung](https://www.bahn.de/faq/positiv-bonitaet)
-* [Weitere Hilfe zur Zulassung](https://www.bahn.de/faq/sperre-lastschrift)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-zulassung)
-
- Was bedeutet eine Änderung meiner Reiseverbindung für meine angemeldete Hilfeleistung?
-----------
-
-Ihre angemeldete Hilfeleistung ist an eine konkrete Verbindung gebunden. Falls Sie auf eine andere Verbindung ausweichen, denken Sie bitte daran, Ihre Hilfeleistung rechtzeitig über die Mobilitätsservice-Zentrale umzumelden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderung-reiseverbindung)
-
- Wie erfahre ich am Reisetag vom DB Junior Express von Verspätungen oder Änderungen?
-----------
-
-Über wichtige Änderungen im Reiseverlauf und **Verzögerungen \>45 Minuten** werden Sie proaktiv über die **in der Buchung hinterlegte E-Mail-Adresse** informiert.
-
-Bitte behalten auch Sie die Reise im Blick: Speichern Sie die Verbindung im **DB Navigator** und aktivieren Sie die Push-Benachrichtigungen.
-
-Bei akuten Rückfragen am Reisetag erreichen Sie das Betreuungsteam über die Service-Hotline (+49 228 76366160), die freitags und sonntags durchgehend von **10 bis 20 Uhr** geschaltet ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-am-reisetag)
-
- Was muss ich bei der Änderung meiner Daten beachten, wenn ich ein Abo habe?
-----------
-
-Für die Änderung des Namens, Geschlechts oder Geburtsdatums im DB Kundenkonto prüfen Sie bitte die [Hilfestellungen zur Änderung persönlicher Daten](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/kundenkonto/persoenliche-daten). Die Änderungen werden nur in bestimmten Fällen auch für Ihren Abovertrag übernommen.
-
-Wenn Sie die Änderungen im DB Kundenkonto vorgenommen haben, überprüfen Sie im Aboportal unter "Meine Daten", ob diese übernommen wurden. Falls nicht, übersenden Sie uns Ihren Änderungswunsch über das Kontaktformular mit dem entsprechenden Nachweis.
-
-Bei der Neubestellung eines Abos werden die aktuellen Daten aus dem DB Kundenkonto übernommen.
-
-* [Zum Kontaktformular](https://abo.bahn.de/kontakt/personendaten_aenderung)
-* [Weitere Informationen zur Namensänderung](https://www.bahn.de/hilfe#/abos-dticket/daten-verwalten/namen-aendern)
-* [Für Anliegen zur BahnCard hier klicken](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/bahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-kundenkonto)
-
- Kann ich als bahn.business-Kund:in mit dem Online-Ticket BahnBonus Punkte sammeln?
-----------
-
-Bei Buchung eines Online-Tickets können Sie auch als Geschäftskund:in BahnBonus Punkte sammeln, wenn Sie für BahnBonus angemeldet sind.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/als-bahnbusiness-kunde-mit-onlineticket-punkte-sammeln)
-
- Gibt es eine Altersbeschränkung für eine Begleitperson?
-----------
-
-Ja. Die Begleitperson muss mindestens 6 Jahre alt sein, um bei Angabe eines Schwerbehindertenausweises mit Merkzeichen B als kostenfrei reisende Begleitperson berücksichtigt zu werden.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersbeschraenkung-begleitperson)
-
- Gelten für Fährfahrten unterschiedliche Altersgrenzen?
-----------
-
-Für Fährfahrten gelten unterschiedliche Altersgrenzen. Kinder müssen für die SEE-Strecken nach Hiddensee, Borkum und Helgoland sowie Küstenbuslinie Norden-Harlesiel den jeweils gültigen Preis für eine Kinderfahrkarte vor Ort bezahlen.
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersgrenze-faehrfahrten-kinder-bis-5)
-
- An wen kann ich mich wenden, wenn ich mit einer Entscheidung des Servicecenter Fahrgastrechte nicht einverstanden bin?
-----------
-
-Wenn Sie mit einer Entscheidung des Servicecenter Fahrgastrechte nicht zufrieden sind, können Sie einen Widerspruch einlegen. Senden Sie den Widerspruch direkt an das Servicecenter Fahrgastrechte. Ihr Fall wird erneut geprüft.
-
-Kontaktdaten Servicecenter Fahrgastrechte:
-Telefon: [030 586020920](tel:030 586020920)
-
-Adresse:
-DB Fernverkehr AG
-Servicecenter Fahrgastrechte
-60647 Frankfurt am Main
-
-Sollten Sie auch mit der Bearbeitung Ihres Widerspruchs unzufrieden sein, können Sie sich an eine [Schlichtungsstelle](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/fahrgastrechte-schlichtung) wenden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/an-wen-kann-ich-mich-wenden-wenn-ich-mit-einer-entscheidung-des-servicecenter-fahrgastrechte-nicht-einverstanden-bin)
-
- An wen wende ich mich bei Fragen zur BahnBonus App?
-----------
-
-Unser Support Team hilft Ihnen gerne weiter – melden Sie sich gern über das Formular in der App. Ansonsten erreichen Sie uns unter 0302970 (Mo bis So von 8 bis 20 Uhr) oder per E-Mail an [app-support@deutschebahn.com](mailto:app-support@deutschebahn.com).
-
-* [Mehr zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/an-wen-wende-ich-mich-bei-fragen-zur-bahnbonus-app)
-
- Muss ich ein Kind unter 6 Jahren bei der Buchung angeben?
-----------
-
-Kinder im Alter von 0 bis 5 Jahre fahren in den Fernverkehrszügen der Deutschen Bahn kostenfrei und müssen dafür auf der Fahrkarte nicht eingetragen werden. Wir empfehlen jedoch Kinder unabhängig des Alters anzugeben, da so eine Sitzplatzreservierung im Kleinkindabteil oder -bereich möglich ist. Die mitfahrenden Kinder werden erst ab 6 Jahre auf der Fahrkarte der Begleitperson aufgelistet.
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-buchung-kinder-bis-5)
-
- Müssen mitreisende Kinder im Alter von 6-14 Jahren auf der Fahrkarte angegeben werden?
-----------
-
-**Kinder im Alter von 6 bis 14 Jahre** fahren in Begleitung von Reisenden ab 15 Jahre kostenfrei, müssen aber bei Buchung angegeben werden. Bis zu vier Kinder können pro Ticket mitfahren. Ein nachträglicher Eintrag im Zug ist nicht möglich.
-
-Bei Reisen ausschließlich im Nahverkehr gilt in der Regel eine kostenfreie Mitnahme für bis zu 3 Kinder. Bei Landes- und Verbundtarifen kann es Abweichungen von dieser Regelung geben.
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-fahrkarte-kinder-6-14-jahre)
-
- Do children aged 6-14 have to be indicated on the ticket?
-----------
-
-Children aged 6 to 14 travel free of charge when accompanied by passengers aged 15 and over, but must be indicated when booking. Up to four children can travel on each ticket. It is not possible to add children on the adult's ticket once the journey has started.
-
-If you are only using local transport, it is generally possible to take up to three children with you free of charge. Regional and transport association tariffs may deviate from this rule.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-kinder-ticket-bis-14-en)
-
- Do children up to 5 years of age have to be indicated on the ticket?
-----------
-
-Children up to 5 years of age travel free of charge on Deutsche Bahn long-distance trains and do not need to be indicated on the ticket. We recommend that you indicate children regardless of age, however, as this allows you to reserve a seat in the family compartment or toddler area. Accompanying children are only listed on the ticket from the age of 6.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angabe-ticket-bis-5-en)
-
- Warum wird DB Junior Express nur auf wenigen Strecken angeboten?
-----------
-
-Der Service DB Junior Express befindet sich im Aufbau. Er startet zunächst auf sechs Direktverbindungen. Der Service wird perspektivisch auf ein größeres Streckennetz ausgeweitet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/angebot-auf-wenigen-strecken)
-
- Wohin kann ich mich bei Fragen zum DB Junior Express wenden?
-----------
-
-Sollten Sie vor vor Buchung Fragen haben, die Ihnen hier nicht beantwortet werden, können Sie sich gern über den Reiter Hilfe & Kontakt oder die Servicenummer der Deutschen Bahn an uns wenden.
-
-Bei Fragen zur bestehenden Buchung hilft Ihnen das Back-Office des Serviceerbringers Proki Kinderevents telefonisch weiter. Die Hotline und Servicezeiten finden Sie in Ihrer Buchungsbestätigung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anlaufstelle-fragen)
-
- So stornieren Sie Ihr Digitales Ticket
-----------
-
-Ein **Digitales Ticket** können Sie wie folgt stornieren:
-
-**Auf bahn.de mit DB Kundenkonto**
-
-1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Gehen Sie über das Menü "Meine Reisen" zu Ihren Aufträgen.
-3. Wählen Sie die entsprechende Reise aus.
-4. Klicken Sie auf "Stornieren" und anschließend auf "Stornierung durchführen".
-
-**Auf bahn.de ohne DB Kundenkonto**
-
-1. Gehen Sie zu "[Meine Reisen](https://www.bahn.de/buchung/meine-reisen)" und geben Sie die Auftragsnummer Ihrer Buchung und den Nachnamen der reisenden Person ein.
-2. Ihr Auftrag wird eingeblendet.
-3. Klicken Sie auf "Stornieren" und dann auf "Stornierung durchführen".
-
-**Im DB Navigator**
-
-1. Öffnen Sie die App DB Navigator und gehen Sie zu "Reisen".
-2. Wählen Sie die entsprechende Reise aus.
-3. Tippen Sie unten auf "Weitere Aktionen".
-4. Wählen Sie "Zur Stornierung" aus und bestätigen Sie die Stornierung Ihrer Reise.
-
-**Wichtig:**
-
-* Bei einem **Sparpreis-Ticket** erhalten Sie den Preis abzüglich eines Bearbeitungsentgelts als Stornogutschein.
-* Bei einem **Flexpreis-Ticket** erfolgt die Erstattung auf Ihr bei der Buchung angegebenes Konto oder Zahlungsmittel (ggf. abzüglich eines Bearbeitungsentgelts).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anleitung-online-gebuchtes-ticket-stornieren)
-
- Kann ich mich weiterhin mit meiner E-Mail-Adresse und meinem Passwort anmelden?
-----------
-
-Ja. Sie können sich jederzeit mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihr DB Kundenkonto einloggen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anmeldung-e-mail-adresse-und-passwort)
-
- Habe ich ein Anrecht auf einen Sitzplatz, auf den ich mich eingecheckt habe?
-----------
-
-Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
-
-* **Mit Reservierung:** Sie haben Anspruch auf Ihren reservierten Sitzplatz, wenn Sie ihn innerhalb von 15 Minuten nach Abfahrt einnehmen. Nach Ablauf dieser Zeit verfällt der Anspruch, und der Platz kann von anderen Reisenden genutzt werden.
-
-* **Ohne Reservierung:** Liegt für einen Sitzplatz keine Reservierung vor, haben Sie Anrecht auf einen Sitzplatz, wenn Sie als erstes auf dem freien Sitzplatz sitzen. Checken Sie sich bitte deshalb erst ein, wenn Sie Ihren Sitzplatz tatsächlich eingenommen haben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anrecht-auf-sitzplatz-via-kci)
-
- Habe ich ein Anrecht auf einen Sitzplatz, auf den ich mich eingecheckt habe?
-----------
-
-Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
-
-* **Mit Reservierung**
-   Sie haben Anspruch auf Ihren reservierten Sitzplatz, wenn Sie ihn innerhalb von 15 Minuten nach Abfahrt einnehmen. Nach Ablauf dieser Zeit verfällt der Anspruch, und der Platz kann von anderen Reisenden genutzt werden.
-
-* **Ohne Reservierung**
-   Liegt für einen Sitzplatz keine Reservierung vor, haben Sie Anrecht auf einen Sitzplatz, wenn Sie als erstes auf dem freien Sitzplatz sitzen. Checken Sie sich bitte deshalb erst ein, wenn Sie Ihren Sitzplatz tatsächlich eingenommen haben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anspruch-auf-sitzplatz)
-
- Handelt es sich um Einsparungen der gesamten Deutschen Bahn oder nur des Fernverkehrs?
-----------
-
-Bei der Modellrechnung wird nur der Anteil des DB Fernverkehrs, also Reisen mit ICE-, IC und EC-Zügen, berücksichtigt. Die Einsparungen von DB Regio und DB Cargo sind nicht eingerechnet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anteil-einsparungen)
-
- Wie viel Gepäck darf ich im Zug mitnehmen?
-----------
-
-Neben Ihrem Handgepäck dürfen Sie ein weiteres größeres Gepäckstück oder einen weiteren Gegenstand kostenlos mitführen, sofern diese sogenannte Traglast von einer Person allein getragen werden kann. Aufgrund seiner Größe muss es ggf. außerhalb Ihres Sitzplatzbereichs untergebracht werden, z.B. im nächsten Gepäckregal. Für die Beaufsichtigung des Gepäcks ist jeder Reisende selbst verantwortlich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzahl-gepaeck-zug)
-
- Genügt eine Anzahlung bei der Buchung für den Sparpreis Europa Gruppe?
-----------
-
-Bei Buchung im DB Reisezentrum oder einer DB Agentur ist eine Anzahlung möglich. Die Anzahlung beträgt 6 Euro pro Teilnehmer. Die Restzahlung ist spätestens 14 Tage vor Reiseantritt fällig.
-
-Bei Online-Buchung zahlen Sie den Gesamtpreis sofort.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzahlung-sparpreis-europa-gruppe)
-
- Genügt eine Anzahlung bei der Buchung für den Super Sparpreis Europa Gruppe?
-----------
-
-Für den Super Sparpreis Europa Gruppe ist eine Anzahlung nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzahlung-super-sparpreis-europa-gruppe)
-
- Wie funktioniert die Anzeige für belegte Sitzplätze?
-----------
-
-Nachdem Sie den Komfort Check-in genutzt haben, ändert sich der Text auf der Reservierungs-Anzeige in "Belegt bis [Ihr Zielbahnhof]". Sie haben den Sitzplatz dann sichtbar belegt, auch wenn Sie vorher keine Reservierung gebucht haben.
-
-**Hinweis**: Sie müssen sicherstellen, dass für den gewünschten Sitzplatz bis zu Ihrem geplanten Ausstieg noch keine andere Reservierung oder Belegung vorliegt.
-
-Die Belegt-Anzeige bleibt bis kurz vor Ihrem Ausstieg sichtbar. Diese Funktion ist noch nicht in allen Zügen verfügbar.
-
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzeige-belegter-sitzplatz)
-
- Warum wird mir unter Apps und Dienste nichts angezeigt?
-----------
-
-Apps und Dienste werden nur dann angezeigt, wenn Sie Ihre Daten für einen genutzten Dienst freigegeben haben. In der Übersicht können Sie einsehen, welche Daten mit diesen Diensten geteilt werden. Wenn momentan keine Dienste angezeigt werden, dann haben Sie in Ihrem DB Kundenkonto noch keinen solchen Dienst eingerichtet.
-
-* [Weitere Informationen zur Nutzung von Apps und Diensten](https://www.bahn.de/faq/was-sind-apps-dienste)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/apps-dienste-nicht-angezeigt)
-
- Wie beende ich das Teilen meiner persönlichen Daten mit Apps und Diensten im DB Kundenkonto?
-----------
-
-Melden Sie sich in Ihrem DB Kundenkonto an.
-
-1. Gehen Sie zu "Persönliche Daten".
-2. Wählen Sie "Apps und Dienste verwalten".
-3. Wählen Sie den betreffenden Dienst aus und folgen Sie den Schritten zur Beendigung der Datenfreigabe.
-
-Stellen Sie sicher, dass keine laufenden Verträge das Löschen verhindern.
-
-* [Weitere Informationen finden Sie in unseren Datenschutzhinweisen](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/apps-dienste-teilen-beenden)
-
- Welche anderen Gepäckstücke darf ich im Zug mitnehmen?
-----------
-
-Welche anderen Gepäckstücke darf ich im Zug mitnehmen?
-Neben Taschen, Trolleys und Koffern können Sie folgende Gegenstände mitnehmen:
-
-**Kinderwagen:**
-
-* Empfohlen werden leicht zusammenklappbare Modelle oder Buggies.
-* Abstellmöglichkeiten befinden sich in Kleinkindabteilen, Familienbereichen oder in deren Nähe.
-* Bei hoher Auslastung (Ferien, Feiertage, Wochenenden) kann der Platz begrenzt sein.
-
-**Faltfahrräder, Falt-Pedelecs, Elektrokleinstfahrzeuge, Tretroller:**
-
-* Faltfahrräder, Falt-Pedelecs und Elektrokleinstfahrzeuge (E-Scooter, Tretroller, E-Tretroller, E-Kickboard) dürfen zusammengeklappt mitgenommen werden.
-* Für große Erwachsenen-Tretroller (Maße wie ein handelsübliches Fahrrad) gelten die tariflichen Regeln für Fahrräder.
-* Diese müssen sicher verstaut werden und dürfen andere Reisende nicht behindern oder verletzen.
-
-**Fahrräder:**
-
-* Erlaubt in bestimmten Fernverkehrszügen (Kennzeichnung in Ankunfts- und Abfahrtsplänen sowie Reiseauskunft).
-* Benötigt wird eine Fernverkehrs-Fahrradkarte mit Stellplatzreservierung.
-* Für Fahrten im Nahverkehr brauchen Sie eine Fahrkarte aus dem Fahrradkartenangebot des Deutschlandtarifs (z.B. Fahrradtageskarte NV, Kurzstreckenfahrradkarte Bayern). Ausnahme: Die Fahrradmitnahme auf der genutzten Strecke oder zur genutzten Zeit ist kostenfrei. Dies gilt auch für Erwachsenen-Tretroller mit den Maßen eines handelsüblichen Fahrrades.
-* Stellplätze sind in der Regel in Wagen der 2. Klasse, Sitzplatz kann auf Wunsch reserviert werden.
-* Sitzplatz und Stellplatz sind meist im gleichen Wagen, in manchen Fällen in verschiedenen Wagen.
-* Jeder Reisende darf nur ein Fahrrad mitnehmen.
-
-**Orthopädische Hilfsmittel:**
-
-* Rollstuhl, Rollator oder Gehhilfe werden kostenfrei befördert.
-* In einigen Verkehrsverbünden gelten abweichende Regelungen.
-
-* [Mehr Informationen für Fahrgäste mit Mobilitätseinschränkung](http://www.bahn.de/service/individuelle-reise/barrierefrei/eingeschraenkte-mobilitaet)
-* [Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/arten-gepaeckstuecke-zug)
-
- Auf welche Wagenklasse bezieht sich die Auslastungsinformation?
-----------
-
-Die Auslastungsinformation bezieht sich immer auf die in der Verbindungsauskunft angefragte Wagenklasse. Standardmäßig ist die 2. Klasse voreingestellt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welche-wagenklasse-bezieht-sich-die-auslastungsinformation)
-
- Auf welchen Geräten kann ich Passkeys nutzen?
-----------
-
-Sie können Passkeys auf Geräten mit aktuellen Versionen der meisten Browser verwenden: Chrome, Safari, Edge und Firefox. Passkeys werden unterstützt von iOS, MacOS, Android und Windows.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welchen-geraeten-nutzen)
-
- Auf welchen Plätzen kann ich mich einchecken und was muss ich dabei beachten?
-----------
-
-Sie können sich grundsätzlich auf allen regulären und frei verfügbaren Plätzen einchecken, die sich nicht mit anderen Reservierungen überschneiden; als BahnBonus Statuskund:in mit Gold oder Platin auch im exklusiven Sitzplatzbereich. Details zu Check-in fähigen Sitzplätzen können Sie der folgenden Aufstellung entnehmen.
-
-Sie können sich auf allen Plätzen einchecken, die…
-• …frei sind, d.h. nicht durch andere Gäste oder einen Check-in belegt sind.
-• …reguläre Sitzplätze sind, d.h. keine Sondersitzplätze wie Schwerbehindertenplätze oder Plätze im Bistro/Bordrestaurant.
-• …sich im exklusiven BahnBonus Sitzplatzbereich befinden, sofern Sie BahnBonus Statuskund:in mit Level Gold oder Platin sind.
-• …mit „ggf. freigeben“ (Expressreservierungsplätze) gekennzeichnet sind, wenn Sie diese reserviert haben.
-• …bereits von anderen Reisenden reserviert wurden, wenn sich diese Reservierung nicht mit Ihrem Reiseabschnitt überschneidet.
-• …in oder gegen die Fahrtrichtung angeordnet sind, z.B. ist der Komfort Check-in nicht möglich auf quer angeordnete Plätze wie im doppelstöckigen IC2 Mehrzweckabteil.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welchen-plaetzen-einchecken-kci)
-
- Aufgrund von Bahnverschulden ist mein reservierter Sitzplatz nicht verfügbar. Was jetzt?
-----------
-
-Sollte ein reservierter Sitzplatz nicht verfügbar oder wegen Verspätung nicht erreichbar sein, sprechen Sie unsere:n Zugbegleiter:n an - diese:r wird Ihnen einen anderen Platz zuweisen. Wenn kein anderer Sitzplatz mehr verfügbar ist, besteht Anspruch auf eine tarifliche Entschädigung (bei Vorlage einer Bescheinigung des Zugbegleiters in DB Reisezentrum, DB Agenturen, Servicecenter etc.).
-
-Sollte sich an Ihrer gebuchten ICE-Verbindung etwas ändern oder ein anderer Zug bereitgestellt werden, versuchen wir, Ihre Sitzplatzreservierung für Sie umzubuchen. Sie werden dann über die neue Reservierung informiert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aufgrund-von-bahnverschulden-ist-mein-reservierter-sitzplatz-nicht-verfuegbar-was-jetzt)
-
- Wo kann ich meine letzten Aufträge oder Buchungen in der Auftragssuche einsehen?
-----------
-
-Geben Sie zur Suche Ihres Auftrags die Auftragsnummer und den Nachnamen der reisenden Person ein. Dies ist anonym möglich.
-
-Wenn Sie eingeloggt sind: Suchen Sie unter "Meine Reisen" nach Ihrem Auftrag.
-
-* [Zu "Meine Reisen"](https://www.bahn.de/buchung/meine-reisen)
-
-[Zur Auftragssuche](https://next.bahn.de/buchung/meine-reisen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auftragssuche)
-
- Wird die Auslastung der Züge bei der CO₂-Einsparung berücksichtigt?
-----------
-
-Ja, die Auslastung der Züge wird beachtet. Die jährliche Verkehrsleistung, also wie viele Personen wie viele Kilometer in den Fernverkehrszügen zurückgelegt haben, bildet die Auslastung direkt ab. Bei der Berechnung der Emissionswerte wird eine durchschnittliche Auslastung von 46 % im Fernverkehr angenommen.
-
-Die CO₂-Sparuhr macht auch unterschiedliche Auslastungen zu unterschiedlichen Wochen- und Tageszeiten sichtbar: der CO₂-Wert steigt schneller oder langsamer, je nachdem wie viele Fahrgäste im jeweiligen Moment erfahrungsgemäß reisen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auslastung-zuege-einsparung-co2)
-
- Where is the ICE Portal available?
-----------
-
-The ICE Portal is available on all ICE trains.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/availability-ice-portal)
-
- Was ist BahnBonus?
-----------
-
-BahnBonus ist das Vorteilsprogramm der Deutschen Bahn. Sammeln Sie wertvolle Punkte beim BahnCard und Ticketkauf und lösen Sie diese in Bahnvorteile, wie Sitzplatzreservierungen oder Freifahrten ein.
-
-Als Vielfahrende erhalten Sie ab 1.500 gesammelten Statuspunkten ein Statuslevel mit weiteren besonderen Vorteilen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnbonus-programm)
-
- Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
-----------
-
-Wenn die im DB Kundenkonto hinterlegte BahnCard für jede Buchung automatisch berücksichtigt werden soll, muss diese im DB Kundenkonto dafür voreingestellt werden. Gehen Sie dafür bitte in den Bereich "Profil" und wählen Sie anschließend unter "BahnCard" die Kachel "BahnCard verwalten" aus. Fügen Sie anschließend unter "Ermäßigung hinterlegen" die passende BahnCard-Ermäßigung hinzu. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-buchung-automatisch-beruecksichtigt)
-
- Bekomme ich Rabatt auf den Flexpreis mit der BahnCard?
-----------
-
-Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard 50.
-
-* [Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
-
-[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis)
-
- Bekomme ich Rabatt auf den Normalpreis mit der BahnCard?
-----------
-
-Sie erhalten 25 % Rabatt mit der BahnCard 25 oder 50 % Rabatt mit der BahnCard 50.
-
-[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-normalpreis)
-
- Bekomme ich Rabatt auf den Normalpreis Europa mit der BahnCard?
-----------
-
-Nein, es gibt keinen Rabatt auf den Normalpreis Europa.
-
-[Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-normalpreis-europa)
-
- Bekomme ich Rabatt auf den (Super) Sparpreis mit der BahnCard?
-----------
-
-Mit der BahnCard 25 und 50 erhalten Sie 25 Prozent Rabatt (ausgenommen City-Ticket).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-sparpreis)
-
- Bekomme ich Rabatt auf den (Super) Sparpreis Europa mit der BahnCard?
-----------
-
-Mit der BahnCard 25/50/100 erhalten Sie **25% Rabatt auf den deutschen Streckenanteil**. Vom BahnCard 100 Rabatt ausgenommen ist der (Super) Sparpreis Europa Frankreich.
-
-* [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-sparpreis-europa)
-
- Bekomme ich Rabatt auf den (Super) Sparpreis Young mit der BahnCard?
-----------
-
-Mit der BahnCard 25 und 50 erhältst du 25 Prozent Rabatt.
-
-* [Zu den BahnCards für junge Reisende](https://www.bahn.de/angebot/bahncard/junge-reisende)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-sparpreis-young)
-
- Wie melde ich mich mit einem BahnID-Account an?
-----------
-
-Nutzen Sie Ihr bestehendes bahn.de-Login nach der Zusammenführung Ihres BahnID-Kontos mit dem Kundenkonto auf bahn.de zur Anmeldung.
-
-Überprüfen Sie, ob für Ihre E-Mail-Adresse bereits ein DB Kundenkonto existiert. Wenn nicht, legen Sie bitte ein neues DB Kundenkonto an.
-
-* [Weitere Informationen zu der Umstellung von BahnID-Accounts](https://id.bahn.de/content/faq)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnid-anmeldung)
-
- Wie lassen sich die Bahnsteigsperren an den Bahnhöfen in den Niederlanden öffnen?
-----------
-
-Nutzen Sie bitte den großen viereckigen Barcode oben rechts auf Ihrem Online-Ticket, um bei geschlossener Bahnsteigsperre den Bahnhof zu verlassen oder zu betreten. Einfach den viereckigen Barcode an die beleuchtete Fläche vor der Sperre halten und schon öffnet sich der Durchgang. Falls Sie Ihr Online-Ticket auf einem mobilen Endgerät vorzeigen und in diesem Endgerät Ihre Kreditkarte hinterlegt haben, empfehlen wir, NFC zu deaktivieren, um eine unbeabsichtigte Abbuchung zu vermeiden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnsteigsperren-sparpreis-europa-niederlande)
-
- Where can I find the shopping basket in the ICE Portal?
-----------
-
-When the ordering service is activated, a shopping basket symbol appears directly next to each item which you can use to place the products in the shopping basket. The shopping basket is then displayed at the top of the screen under the travel information. Click on it to navigate to the shopping basket and complete your order.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/basket-ice-portal)
-
- Sie sind aufgrund einer Beeinträchtigung im barrierefreien Reiseverlauf verspätet an Ihrem Reiseziel angekommen? Oder Sie mussten aufgrund einer Beeinträchtigung Ihre Reise abbrechen bzw. konnten Sie diese nicht antreten?
-----------
-
-Eine Reise ist **nicht barrierefrei**, wenn zum Beispiel
-
-* eine angemeldete Hilfeleistung nicht oder zu spät erbracht wird
-* Rollstuhlplätze im Zug fehlen
-* technische Probleme/Defekte an benötigten Hilfsmitteln (z.B. Aufzug defekt, Tür für den Wagen mit Rollstuhlbereich defekt) aufgetreten sind
-* es Serviceeinschränkungen gab (z.B. defektes Universal-WC)
-
-Damit wir den Sachverhalt prüfen können, senden Sie uns alle relevanten Informationen und **alle Belege** (z.B. eine Quittung für ein Taxi oder eine Hotelrechnung), die für die Bearbeitung Ihres Antrags wichtig sein könnten, sowie eine **Kopie Ihres Schwerbehindertenausweises** und wenn vorhanden eine **Kopie Ihrer Wertmarke**.
-
-Kulanzleistungen können in begründeten Einzelfällen zusätzlich zu den Ansprüchen aus den Fahrgastrechten gewährt werden.
-
-**Zur Prüfung Ihrer Ansprüche stehen Ihnen folgende Möglichkeiten zur Verfügung:**
-
-**Digital** über Ihr Kundenkonto auf bahn.de oder in der DB Navigator App
-
-Hierfür nutzen Sie bitte die Ihnen angebotene Möglichkeit „Ich möchte meine Belege digital hochladen“ nachdem Sie die Frage erhalten „Wie möchten Sie die Belege einreichen?“
-
-**Per Post**
-
-Hierfür können Sie unser **barrierefreies Formular** als pdf nutzen, welches wir unter nachfolgendem Link zur Verfügung stellen oder Sie schildern uns Ihren Sachverhalt auch ganz einfach formlos in einem Brief an:
-DB Dialog GmbH Servicecenter Fahrgastrechte 60647 Frankfurt am Main.
-
-Sie haben auch die Möglichkeit Ihr Anliegen zur **Prüfung an unseren Kundendialog** zu senden. Wenn erforderlich, senden wir Ihren Antrag automatisch zur weiteren Bearbeitung an das Servicecenter Fahrgastrechte weiter.
-
-Beschwerden **DB Fernverkehr** betreffend richten Sie bitte an:
-
-DB Fernverkehr AG
-Kundendialog
-Postfach 10 06 13
-96058 Bamberg
-
-Beschwerden **DB Regio** betreffend richten Sie bitte an:
-
-DB Regio AG
-Kundendialog
-Postfach 10 06 07
-96058 Bamberg
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/beeintraechtigung-im-reiseverlauf-verspaetet-am-reiseziel-angekommen)
-
- Muss ich einen Begleit- oder Assistenzhund bei der Buchung angeben?
-----------
-
-Nein. Begleit- oder Assistenzhunde fahren immer kostenfrei mit. Sie müssen bei der Buchung nicht angegeben werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleit-oder-assistenz-hund-bei-buchung-angeben)
-
- Muss ich meine Begleitperson bei der Online-Buchung mit angeben?
-----------
-
-Ja. Als Reisender mit einem Schwerbehindertenausweis und dem Merkzeichen B geben Sie bitte bei der Buchung Ihre Begleitperson als weitere mitreisende Person mit an. Das teuerste Ticket aller Mitreisenden wird dann automatisch als kostenfreies Ticket für die Begleitperson berücksichtigt. Für die Begleitperson kann so eine kostenfreie Sitzplatzreservierung mit gebucht werden. Ihre Begleitperson wird auf dem Ticket vermerkt und kann den Komfort Check-in nutzen.
-
-Eine Begleitperson muss mindestens 6 Jahre alt sein.
-
-Ihr Schwerbehindertenausweis mit Merkzeichen B gilt für die Begleitperson als Fahrtberechtigung. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorgezeigt werden.
-
-Bitte beachten Sie: Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B und Wertmarke besitzen, reist Ihre Begleitperson im Nahverkehr kostenfrei. Für die Nahverkehrsstrecke ist in diesem Fall keine Ticketbuchung erforderlich.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitperson-in-buchung-angeben)
-
- Gibt es einen Begleitservice für allein reisende Kinder?
-----------
-
-Ab Ende August bieten wir einen Begleitservice für allein reisende Kinder an. Informationen dazu finden Sie hier:
-
-* [DB Junior Express – der neue Begleitservice für allein reisende Kinder](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begleitservice-kinder)
+Die E-Mail zur Übertragung wird an die E-Mail-Adresse der reisenden Person gesendet. Sie können Ihre E-Mail-Adresse im Aboportal unter "Meine Daten" überprüfen und selbständig ändern. Anschließend starten Sie den Prozess zur Übertragung auf Ihrem Gerät erneut und lassen sich die E-Mail erneut zusenden.
 
  Ich erhalte die Meldung, dass kein Gerätewechsel möglich ist. Was kann ich tun?
 ----------
@@ -1020,1756 +761,6 @@ Ab Ende August bieten wir einen Begleitservice für allein reisende Kinder an. I
 Die Anzahl der Übertragungen von einem Handy-Ticket, die von einem anderen Gerät durchgeführt werden können, ist aus Sicherheitsgründen innerhalb von 30 Tagen begrenzt.
 
 Wenn Sie das Handy-Ticket in dem Zeitraum schon mehrfach übertragen haben, ist kein weiterer Wechsel möglich. Bitte warten Sie einige Tage, bis weitere Wechsel automatisch freigeschalten werden.
-
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/begrenzung-uebertragung)
-
- Behalte ich mein Statuslevel, wenn ich mich von BahnBonus abmelde?
-----------
-
-Nein, Voraussetzung für ein Statuslevel ist die Teilnahme am BahnBonus Programm. Bei einer Abmeldung von BahnBonus verlieren Sie den Status, die Statusvorteile und alle bisher gesammelten BahnBonus Punkte.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behalte-ich-mein-statuslevel-wenn-ich-mich-von-bahnbonus-abmelde)
-
- Darf die Begleitperson eines Kindes (ab 6 Jahre) mit Behinderung kostenfrei mitreisen?
-----------
-
-Bei Kindern mit Behinderung im Alter von 6 bis 14 Jahren, in deren Schwerbehindertenausweis die Mitnahme einer Begleitperson und das **Merkzeichen „B“** vermerkt ist, darf die Begleitperson kostenfrei mitfahren. Reisen das Kind und die Begleitperson in einem Zug des Fernverkehrs, dann benötigt das Kind eine Fahrkarte. Das Kind und die Begleitperson reisen in der beim Fahrkartenkauf für das Kind gewählten Klasse. Die Reservierung für den Sitzplatz wird für das Kind und seine Begleitperson kostenfrei ausgegeben.
-
-Die Fahrkarte inklusive kostenfreier Sitzplatzreservierungen für das Kind und die Begleitperson erhalten Sie online über bahn.de, über den DB Navigator, in allen DB Reisezentren sowie über die Mobilitätsservice-Zentrale.
-Ist nur die kostenfreie Reservierung von Sitzplätzen gewünscht, wenden Sie sich bitte an ein DB Reisezentrum oder die Mobilitätsservice-Zentrale.
-
-Bitte beachten Sie, dass für Reisen ins Ausland abweichende Regelungen gelten können.
-
-Reisen das Kind und die Begleitperson in einem Zug des Nahverkehrs und neben dem Schwerbehindertenausweis mit Merkzeichen „B“ liegt auch eine Wertmarke vor, dann dürfen das Kind und die Begleitperson kostenfrei fahren.
-
-Hier finden Sie weitere [Informationen für barrierefreies Reisen](https://www.bahn.de/service/individuelle-reise/barrierefrei).
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behinderung-begleitperson-kinder-6-14-jahre)
-
- Darf die Begleitperson eines Kindes (ab 6 Jahre) mit Behinderung kostenfrei mit ins Ausland reisen?
-----------
-
-Ist im **Schwerbehindertenausweis** die Mitnahme einer Begleitperson und das **Merkzeichen "B"** vermerkt, dann reist die Begleitperson kostenfrei. Für Reisen ins Ausland ist es erforderlich, dass für die Begleitperson eine kostenfreie Fahrkarte mit dem Vermerk „Begleiter“ ausgegeben wird. Diese erhalten Sie in allen DB Reisezentren und über die Mobilitätsservice-Zentrale.
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behinderung-begleitperson-kinder-6-14-jahre-ausland)
-
- Darf die Begleitperson eines Kindes mit Behinderung kostenfrei mitreisen?
-----------
-
-Bei Kindern mit Behinderung im Alter von 0 bis 5 Jahren, in deren **Schwerbehindertenausweis** die Mitnahme einer Begleitperson und das **Merkzeichen "B"** vermerkt ist, darf die Begleitperson kostenlos fahren. Das Kind benötigt, da Kinder im Alter von 0 bis 5 Jahren grundsätzlich kostenfrei reisen, keine eigene Fahrkarte. Die Reise kann nach Wahl und Verfügbarkeit in der 1. oder 2. Klasse stattfinden. Die Reservierung für den Sitzplatz wird für das Kind und seine Begleitperson kostenfrei ausgegeben. Sie erhalten diese in allen DB Reisezentren und über die Mobilitätsservice-Zentrale.
-
-Bitte beachten Sie, dass für Reisen ins Ausland abweichende Regelungen gelten können.
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/behinderung-begleitperson-kinder-bis-5)
-
- Bei welchen Bahn-Tickets kann ich die Sofortstornierung nutzen?
-----------
-
-Diese Fernverkehrsangebote (online/mobil) können Sie direkt nach der Buchung wieder stornieren. Der Fahrkartenpreis wird dann wieder erstattet:
-
-* Super Sparpreis, Super Sparpreis Young, Super Sparpreis Senioren, Super Sparpreis Europa, Super Sparpreis Europa Young
-* Sparpreis, Sparpreis Young, Sparpreis Senioren, Sparpreis Europa, Sparpreis Europa Young
-* Flexpreis, Flexpreis Business, Flexpreis Europa
-* Super Sparpreis Gruppe, Super Sparpreis Gruppe Europa
-* Sparpreis Gruppe, Sparpreis Gruppe Europa
-* Nur Sitzplatz (ohne Ticket)
-
-Die Sofortstornierung greift immer für den gesamten Auftrag und umfasst auch die zusätzlich gebuchten Leistungen eines Auftrages (Sitzplatzreservierung, Fahrradkarte, City mobil, Fahrkarten-Schutz).
-
-Eine Teilstornierung einzelner Leistungskomponenten der Fahrkarte ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bei-welchen-angeboten-kann-ich-die-sofortstornierung-nutzen)
-
- Wie kann ich die Belegtanzeige mit dem Komfort Check-in nutzen?
-----------
-
-Nach dem Komfort Check-in ändert sich der Text auf der Reservierungsanzeige automatisch in „Belegt bis …“. Die Aktualisierung der Anzeige erfolgt meist innerhalb weniger Sekunden und bleibt bis kurz vor dem Ausstiegshalt bestehen. Dies ist auch der Fall, wenn unser Zugbegleitpersonal Sie bei der Kontrolle eincheckt.
-
-Hinweis: Die Belegtanzeige ist nicht in allen Zügen verfügbar.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/belegtanzeige-nutzen-mit-kci)
-
- Benötige ich für das DB Kundenkonto eine App?
-----------
-
-Der Zugriff auf das DB Kundenkonto erfolgt wie gewohnt über den Kanal, den Sie bevorzugen. Das kann der DB Navigator sein oder auch die Website bahn.de/int.bahn.de.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-eine-app-fuer-kundenkonto)
-
- Brauche ich eine App, um die 2-Faktor-Authentifizierung nutzen zu können?
-----------
-
-Sie brauchen nur dann eine zusätzliche "Authenticator-App", wenn Sie die 2-Faktor-Authentifizierung mit dem entsprechenden Verfahren aktiviert haben.
-
-Wenn Sie das Verfahren *SMS-Tan* wählen, ist keine zusätzliche Authenticator-App notwendig.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-eine-app-um-die-2-faktor-authentifizierung-nutzen-zu-koennen)
-
- Benötige ich eine Internetverbindung, um das gekaufte Handy-Ticket NRW eezy bei der Kontrolle vorzuzeigen?
-----------
-
-Nein, das Ticket ist auf Ihrem Handy gespeichert. Sie können es also immer vorzeigen, auch wenn Sie keinen Mobilfunkempfang haben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-eine-internetverbindung-um-das-gekaufte-handy-ticket-bei-der-kontrolle-vorzuzeigen-nrw)
-
- Benötige ich ein DB Kundenkonto, um ein Ticket zu buchen?
-----------
-
-Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Navigator ist ohne Anmeldung möglich. Allerdings bietet Ihnen das DB Kundenkonto bei der Ticketbuchung einige Vorteile:
-
-* Erhalten Sie Benachrichtigungen zu Ihrer Reise per E-Mail oder Push-Nachricht
-* Verwalten Sie Ihre Buchungen und BahnCard Abos
-* Sammeln Sie bei jeder Fahrt Prämien- und Statuspunkte mit unserem BahnBonus Vorteilsprogramm
-* Newsletter & Services: Melden Sie sich an und erhalten Sie regelmäßig persönliche Informationen per E-Mail
-* BahnCard: Freuen Sie sich auf attraktive Reisegutscheine, Upgrades oder Partnerangebote
-* Alle Digitalen Tickets, die Sie über Ihr DB Kundenkonto gekauft haben, sind nach Login im DB Navigator im Menübereich "Reisen" und auf bahn.de unter "Meine Reisen" abrufbar.
-
-* [Zu den DB Kundenkonto-Vorteilen](https://www.bahn.de/info/kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-kundenkonto-um-ticket-zu-buchen)
-
- Gibt es Besonderheiten bei internationalen Reisen?
-----------
-
-Grundsätzlich können bis zu drei leicht tragbare Handgepäckstücke im Zug mitgenommen werden. Die Gepäckstücke müssen über, unter dem Sitz oder/und in den vorhandenen Gepäckregalen verstaut werden können.
-
-In einzelnen Ländern gibt es darüber hinaus bestimmte Maße und Gewichte, die ggf. über die Internetseiten der jeweiligen Bahnen bekannt gegeben werden.
-
-Für grenzüberschreitende Reisen ab/nach Deutschland gilt in folgende Länder:
-
-**Frankreich**: Gepäckstücke müssen immer mit einem Namensschild versehen sein, aus dem der Besitzer des Gepäckstücks mit Adresse hervorgeht.
-
-**Italien mit DB-ÖBB Kooperationszügen** (z.B. Verona, Bologna, Venedig): Neben dem o.g. Grundsatz für die Gepäckmitnahme im internationalen Verkehr gilt in den DB-ÖBB-Kooperationszügen, dass zusammengelegte Falträder und Scooter nur mitgenommen werden können, wenn sie zusammengeklappt sind und die **Maße 90x60x40 cm** einhalten.
-Ansonsten sind zusammengelegte/gefaltete und/oder verpackte Fahrräder von der Beförderung ausgeschlossen, da keine Stauräume dafür zur Verfügung stehen. Dies gilt auch für Fahrräder in dafür vorgesehenen Fahrradtransporttaschen.
-
-* [Gepäck während der Fahrt richtig verstauen](https://www.bahn.de/service/zug/gepaeck-im-zug)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/besonderheiten-internationale-reisen)
-
- Ich habe nach meiner Bestellung keine Rückmeldung erhalten. Was kann ich tun?
-----------
-
-* Wenn Ihre Online-Bestellung erfolgreich angenommen wurde, erhalten Sie innerhalb weniger Minuten eine Aktivierungsmail mit der Abonummer.
-* Das Handy-Ticket ist nach Erhalt der Aktivierungsmail sofort in der App abrufbar, indem Sie es mit der Abonummer oder per Link hinzufügen.
-
-**Sie haben keine Aktivierungsmail erhalten?**
-
-* Prüfen Sie Ihren Spam-Ordner nach einer E-Mail von [noreply@bahn.de](mailto:noreply@bahn.de)
-* Prüfen Sie das Postfach der E-Mail-Adresse, die Sie im DB Kundenkonto angegeben haben
-* Bei einem Jobticket oder einem ermäßigten Ticket mit Nachweisprüfung erhalten Sie die Aktivierungsmail erst nach der Freigabe.
-* Kann Ihre Bestellung nicht akzeptiert werden, zum Beispiel aufgrund einer Sperre Ihres Kontos, erhalten Sie eine Ablehnungsmail.
-
-Tipp: Melden Sie sich im Aboportal auf abo.bahn.de mit dem gleichen DB Kundenkonto an, das Sie bei der Bestellung genutzt haben. Nun sehen Sie Ihr Abo, sobald es aktiviert wurde.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bestellung-keine-rueckmeldung)
-
- Was passiert, wenn mein Kind während der Fahrt mit dem DB Junior Express ins Bordrestaurant oder auf die Toilette gehen möchte?
-----------
-
-Die Betreuenden begleiten und organisieren die Reise so, dass die Kinder während der Fahrt betreut bleiben. Wenn ein Kind auf die Toilette muss oder etwas benötigt, wendet es sich an die Betreuenden. Diese unterstützen situationsabhängig und achten darauf, dass die Gruppe sicher betreut bleibt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/besuch-bordrestaurant-toilette)
-
- Wer genau betreut die Kinder auf der Fahrt vom DB Junior Express?
-----------
-
-Die Kinder werden durch geschulte Kinderbetreuende des Servicepartners Proki Kinderevents betreut. Das Personal ist **ISO-zertifiziert** und **pädagogisch geschult**. Proki führt den Service im Auftrag der Deutschen Bahn durch. Pro Verbindung begleiten **zwei Betreuende** eine Gruppe von maximal 14 Kindern. Die Namen der Betreuenden werden vorab per Mail kommuniziert.
-
-Die Betreuenden begleiten die Kinder während der Reise, behalten die Gruppe im Blick, unterstützen bei Fragen und sorgen für einen sicheren und geordneten Ablauf von der Übergabe am Startbahnhof bis zur Übergabe am Zielbahnhof.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betreuung-der-fahrt)
-
- Von wann bis wann ist mein Kind beim DB Junior Express genau betreut?
-----------
-
-Die Betreuung beginnt mit der persönlichen Übergabe des Kindes an die Betreuenden am Startbahnhof. Sie endet mit der persönlichen Übergabe an eine zuvor angegebene und berechtigte Abholperson am Zielbahnhof.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betreuung-kind)
-
- Bis wann sind Prämiengutscheine gültig?
-----------
-
-Die Geltungsdauer der Prämien finden Sie in den jeweiligen Prämienbeschreibungen. Ist ein Gutschein verfallen, ist die Einlösung nicht mehr möglich und eine Wiedergutschrift der eingelösten Punkte ist ausgeschlossen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bis-wann-sind-praemiengutscheine-gueltig)
-
- Wann wird die Bodycam aktiviert?
-----------
-
-Unser Zugpersonal aktiviert die Bodycam nur in eskalierenden Situationen. Vor Beginn der Aufnahme kündigt das Zugpersonal die Aufnahme deutlich an.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-aktiviert)
-
- Wer kann auf die Bodycam-Aufnahmen zugreifen?
-----------
-
-Nur die Bundespolizei kann auf die gespeicherten Bodycam-Aufnahmen zugreifen, falls ein entsprechender Strafantrag vorliegt und die Aufnahmen als Beweismittel genutzt werden. Die DB Fernverkehr AG kann die Aufnahmen nicht einsehen und wertet sie nicht aus.
-
-Die Daten werden nur anlassbezogen an die Bundespolizei weitergegeben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-aufnahmen)
-
- Wurde der Datenschutz im Zusammenhang mit dem Einsatz von Bodycams beachtet?
-----------
-
-Ja. Die DB hat die datenschutzrechtlichen Voraussetzungen geprüft und hält sie ein. Sie tauscht sich dazu fortlaufend mit den zuständigen Datenschutzaufsichtsbehörden aus.
-
-Für Reisende im Zug, die nicht digital unterwegs oder seheingeschränkt sind, haben die DB Mitarbeitenden die Datenschutzhinweise auf ihrem Handy hinterlegt und können diese bei Bedarf vorlesen.
-
-* [Datenschutzhinweise zum Einsatz von Bodycams](https://www.db-fernverkehr.com/datenschutzhinweise#datenschutzhinweise-bodycams)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-datenschutz)
-
- Darf das Zugpersonal Fahrgäste mit der Bodycam filmen?
-----------
-
-Ja, das Zugpersonal darf die Fahrgäste anlassbezogen mit Bodycams filmen.
-
-Die DB Fernverkehr AG verfolgt damit das berechtigte Interesse, seine Mitarbeitenden vor Übergriffen zu schützen.
-
-* [Datenschutzhinweise zum Einsatz von Bodycams](https://www.db-fernverkehr.com/datenschutzhinweise#datenschutzhinweise-bodycams)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-filmen)
-
- Informieren mich die DB Mitarbeitenden, bevor sie die Bodycam aktivieren?
-----------
-
-Ja. Die DB Mitarbeitenden informieren Sie, bevor sie die Bodycam aktivieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-info-aktivierung)
-
- Sind Reisen im Fernverkehr unsicherer geworden, wenn die DB Fernverkehr AG jetzt Bodycams einsetzt?
-----------
-
-Nein. Reisen im Fernverkehr sind weiterhin sicher.
-
-Damit das so bleibt, setzt die DB Fernverkehr AG schon heute verschiedene Maßnahmen für die Sicherheit ein. Dazu gehören zum Beispiel Mitarbeitende von DB Sicherheit in den Zügen.
-
-Gleichzeitig erleben Mitarbeitende im gesamten DB-Konzern und im öffentlichen Personenverkehr häufiger aggressives Verhalten. Bodycams ergänzen deshalb die bestehenden Maßnahmen als weiterer Sicherheitsbaustein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-sicherheit)
-
- Wie werden die Bodycam-Aufnahmen gespeichert und wie lange werden diese aufbewahrt?
-----------
-
-Die Bodycam-Aufnahmen werden verschlüsselt gespeichert und auf einen geschützten Server übertragen. Dort bleiben sie 72 Stunden gespeichert. Danach löscht das System die Aufnahmen automatisch.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-speicherung-daten)
-
- Zeichnet die Bodycam auch Gespräche oder Töne auf?
-----------
-
-Nein. Die Bodycam zeichnet derzeit nur Videos auf. Gespräche oder Töne nimmt sie zunächst nicht auf.
-
-Die DB plant, Audioaufzeichnungen im dritten Quartal 2026 zu testen. Diese können die deeskalierende Schutzwirkung der Bodycams und die Beweissicherung erweitern. Die DB klärt dafür aktuell rechtliche Fragen mit den zuständigen Behörden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-tonaufzeichnung)
-
- Warum tragen nicht alle Mitarbeitende im Fernverkehr eine Bodycam?
-----------
-
-Die Technik wird auf freiwilliger Basis genutzt. Dies bedeutet, dass nicht das gesamte Zug- oder Lounge-Personal mit einer Bodycam ausgestattet sein muss.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-tragen-alle-mitarbeitende)
-
- Tragen die Mitarbeitenden die Bodycam auch außerhalb des Zugs?
-----------
-
-Mitarbeitende können die Bodycam auf dem Bahngelände auf dem Weg zu ihrem Einsatz oder von ihrem Einsatz tragen. Im privaten Umfeld ist das Tragen der Bodycam nicht zulässig.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-tragen-privat)
-
- Wie werden Beschäftigte der DB Fernverkehr AG auf den Einsatz von Bodycams vorbereitet?
-----------
-
-Beschäftigte der DB Fernverkehr AG dürfen eine Bodycam nur nach absolvierter Pflichtschulung tragen.
-
-In der Schulung lernen sie:
-
-* wie sie die Bodycam einsetzen
-* welche rechtlichen Vorgaben gelten
-* wie sie mit Aufnahmen umgehen müssen
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-vorbereitung-mitarbeitende)
-
- Welche Sicherheitsmaßnahmen gibt es schon in den Fernverkehrszügen zusätzlich zu den Bodycams?
-----------
-
-Schon heute sorgt die DB Fernverkehr AG mit verschiedenen Maßnahmen für mehr Sicherheit an Bord:
-
-* Sicherheitspersonal in stark frequentierten Regionen, im Nachtverkehr, an stark ausgelasteten Tagen, bei Großveranstaltungen und in besonderen Situationen
-* Verpflichtende Deeskalationstrainings und freiwillige Selbstschutztrainings für das Bordpersonal
-* Kostenlose Mitfahrt uniformierter Bundes- und Landespolizistinnen und -polizisten für mehr sichtbare Präsenz
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bodycams-zusaetzliche-sicherheitsmassnahmen)
-
- Kann ich Punkte zusammen bei geschäftlichen und privaten Reisen sammeln, und benötige ich dazu zwei Kundenkonten?
-----------
-
-Ihre BahnBonus Anmeldung kann nur mit einem DB Kundenkonto verknüpft sein.
-
-Das bedeutet, dass BahnBonus Punkte nur über ein Kundenkonto automatisch gesammelt werden. Wenn mit der gleichen BahnBonus Nummer auch in einem zweiten Kundenkonto BahnBonus Punkte gesammelt werden sollen, ist folgendes zu beachten. Bei der Nutzung des zweiten Kundenkontos kann die BahnBonus Nummer bei jeder Buchung händisch eingetragen werden. Durch dieses Vorgehen werden dann alle BonusPunkte beider Kundenkonten auf einem BahnBonus Konto gesammelt
-
-Sollten Buchungsstellenverantwortliche Ihre geschäftlichen Reisen für Sie buchen, müssen Sie vorher sicherstellen, dass Ihr BahnBonus Konto mit Ihrem Geschäftskundenkonto verknüpft ist. In diesem Falle können Sie bei Ihren privaten Reisen in jeder Buchung aktiv durch Angabe BahnBonus Nummer Punkte sammeln.
-
-* [Weitere Informationen zur geschäftlichen Nutzung von BahnBonus](https://www.bahn.de/bahnbusiness/info-und-services/geschaeftskundenprogramm/bahnbonus)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/brauche-ich-ein-privates-und-ein-geschaeftliches-bahnbonus-konto)
-
- Brauche ich einen Ausweis bei der Buchung oder bei der Kontrolle im Zug?
-----------
-
-Bei der Buchung von Digitalen Tickets müssen Sie keine Identifizierungskarte angeben. Die Tickets werden auf die Person ausgestellt, die bei der Buchung angegeben wird.
-
-Bei der Kontrolle im Zug müssen Sie sich mit einem der folgenden Ausweisdokumente ausweisen:
-
-* Europäischer oder deutscher Personalausweis
-* Personalausweis aus Norwegen oder der Schweiz
-* Deutscher oder internationaler Reisepass
-* Kinderreisepass
-* Von einer deutschen Behörde ausgestellte Dokumente für Flüchtlinge und Asylbewerber, z.B. BÜMA, BÜWA und Aufenthaltsgestattung
-* BahnCard (ggf. in Verbindung mit einem Lichtbildausweis)
-
-Führerschein, Schülerausweis, Truppenausweis und Schwerbehindertenausweis werden bei der Ticketkontrolle **nicht** als Ausweisdokument akzeptiert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/brauche-ich-einen-ausweis-bei-der-buchung-oder-bei-der-kontrolle-im-zug)
-
- Ich habe mich bei der Buchung vertan und das Reisedatum, die Wagenklasse oder eine andere Angabe falsch ausgewählt. Was jetzt?
-----------
-
-Ein Umtausch bereits gebuchter Tickets und Reservierungen ist nicht möglich. Sie können Ihre gebuchten Tickets zu den geltenden Tarifbestimmungen stornieren und neu buchen.
-
-Für ausgewählte Fernverkehrs-Tickets können Sie eine Sofortstornierung bis zu 3 Stunden nach der Buchung über die App DB Navigator oder über bahn.de vornehmen.
-
-* [Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-falsch)
-
- Wie buche ich die Begleitung durch DB Junior Express?
-----------
-
-**Schritt 1: Buchung der Servicepauschale inkl. Sitzplatz in der Gruppe**
-
-Zuerst buchen Sie einen Platz für Ihr Kind in der **Gruppenbegleitung** **DB Junior Express** für die gewünschte Verbindung online über die Buchungsseite des Services. Dort werden zunächst Strecke, Reisetag und Verbindung ausgewählt. Anschließend werden die erforderlichen Angaben zum Kind, zu den Sorgeberechtigten, zur bringenden Person, zum Notfallkontakt und zu den abholberechtigten Personen erfasst. Nach Abschluss der Servicebuchung erhalten die buchenden Personen eine **Bestätigung** mit allen wichtigen Informationen zur Reise, zum Treffpunkt und zu den nächsten Schritten.
-
-**Schritt 2: Buchung der passenden Kinderfahrkarte**
-
-Für die Nutzung des DB Junior Express benötigen Sie zusätzlich zwingend ein reguläres **Kinderticket der 2. Klasse** für die gebuchte Strecke. Im Anschluss an die Buchung der Gruppenbegleitung DB Junior Express gelangen Sie über einen Direktlink zur Fahrkarte der passenden Verbindung auf bahn.de. Hier buchen Sie das passende **Kinderticket** für dieselbe Verbindung.
-
-•Hat Ihr Kind eine Ermäßigung (z. B. die **Jugend BahnCard**), können Sie diese beim Ticketkauf wie gewohnt anrechnen lassen.
-
-•*Wichtig:* Eine zusätzliche Sitzplatzreservierung beim Ticketkauf ist **nicht nötig**, da der Sitzplatz bereits in der Servicebuchung von DB Junior Express erhalten ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-juniorexpress)
-
- Kann ich meine Buchung korrigieren, falls ich eine fehlerhafte Eingabe getätigt habe?
-----------
-
-Nein, Sie können das gebuchte Ticket nicht korrigieren oder umschreiben.
-
-In den ersten 3 Stunden nach der Buchung haben Sie die Möglichkeit der "Sofortstornierung".
-
-Achtung: Diese Möglichkeit besteht nicht für Tickets, die am Tag der Buchung zur Fahrt genutzt werden und nicht für Nahverkehrstickets.
-
-* [Weitere Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-korrigieren)
-
- Wo kann ich den Sparpreis Europa Gruppe buchen?
-----------
-
-Hier können Sie Ihre Gruppenreise buchen:
-
-* **online**
-* App **DB Navigator** (bis zu max. 99 Personen)
-* **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
-
-Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
-
-[Günstigsten Preis finden](https://next.bahn.de/buchung/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-sparpreis-europa-gruppe)
-
- Wo kann ich den Sparpreis Gruppe buchen?
-----------
-
-Hier können Sie Ihre Gruppenreise buchen:
-
-* **online**
-* App **DB Navigator** (bis zu max. 99 Personen)
-* **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [+49 30 2970](tel:+49302970) (Kosten abhängig vom Provider)
-
-Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
-
-[Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-sparpreis-gruppe)
-
- Wie bucht man den (Super) Sparpreis Young?
-----------
-
-Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft**. Der Tarif ist für Kundinnen und Kunden bis einschließlich 26 Jahren gedacht. Unter reisende Person "15-26 Jahre" findest du den (Super) Sparpreis Young neben allen anderen Tarifen und kannst ihn, sofern verfügbar, buchen. Das Gleiche gilt auch für die App.
-
-**Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-sparpreis-young)
-
- Wo kann ich den Super Sparpreis Europa Gruppe buchen?
-----------
-
-* **online**
-* App **DB Navigator** (bis zu max. 99 Personen)
-* **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
-
-Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
-
-[Günstigsten Preis finden](https://next.bahn.de/buchung/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-super-sparpreis-europa-gruppe)
-
- Wo kann ich den Super Sparpreis Gruppe buchen?
-----------
-
-* **online**
-* App **DB Navigator** (bis zu max. 99 Personen)
-* **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
-
-[Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-super-sparpreis-gruppe)
-
- Ich habe ein Ticket gekauft. Das Geld wurde abgebucht, aber ich habe kein Ticket erhalten. Was kann ich tun?
-----------
-
-1. Prüfen Sie den Spamordner in Ihrem E-Mail-Postfach.
-2. Schauen Sie im Bereich "Meine Reisen" Ihres DB Kundenkontos nach.
-
-Ist das Ticket dort nicht vorhanden:
-
-* Es ist wahrscheinlich zu einer Fehlbuchung gekommen.
-* Buchen Sie ein neues Ticket.
-* Der abgebuchte Betrag für die Fehlbuchung wird Ihnen automatisch zurücküberwiesen.
-* Die Rückerstattung erfolgt je nach Zahlungsmittel zwischen 45 Minuten und wenigen Tagen.
-
-Sollten Sie nach einer Woche keine automatische Rückerstattung erhalten haben, rufen Sie uns unter [030 2970](http://030 2970) an.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchungsabbruch)
-
- Ich reise auch mit Bus oder Schiff. Wenn ich durch Verspätung meinen Zug nicht bekomme, welche Fahrgastrechte habe ich?
-----------
-
-Umfasst die Fahrkarte auch die Berechtigung zur Nutzung von Bussen oder Schiffen, gilt der Entschädigungsanspruch ausschließlich für die Eisenbahnstrecke.
-
-Liegen Ursache und Wirkung für die verspätete Ankunft des Fahrgastes hingegen außerhalb des Eisenbahnverkehrs (z.B. Verspätung von Bus oder Schiff, die Bestandteil der Fahrkarte sind), können keine Ansprüche für den Eisenbahnverkehr geltend gemacht werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bus-schiff-fahrgastrechte-verspaetung-anschluss)
-
- Gibt es einen Chatbot auf bahn.de?
-----------
-
-Ja, auf bahn.de wird aktuell **testweise** der **Chatbot Kiana** eingesetzt. Ein Teil angemeldeter Kundinnen und Kunden bekommt Kiana angezeigt und kann dem Chatbot Fragen stellen. Die Anzeige erfolgt zufallsbasiert.
-
-Kiana informiert über **Angebote und Services** der Deutschen Bahn. Mit der KI-Assistenz können Sie **Verbindungen suchen, in Echtzeit über Fahrplanänderungen informiert werden, Fahrtzeiten abfragen, Routen planen, Fragen zu Bahnhöfen, Öffnungszeiten oder Services vor Ort stellen** sowie Informationen unter anderem zur **Barrierefreiheit** und zum **Deutschland-Ticket** erhalten.
-
-Die Funktionen werden während der Testphase gezielt weiterentwickelt und optimiert.
-
-Falls Sie mit Ihrem DB Kundenkonto eingeloggt sind, aber Ihnen Kiana unter "Hilfe & Kontakt" auf bahn.de nicht angezeigt wird, sind Sie aktuell nicht Teil der Testgruppe.
-
-* [Zur Hilfe & Kontakt-Seite](https://www.bahn.de/hilfe)
-
-[Login](https://www.bahn.de/mein-konto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana)
-
- Bei welchen Anliegen hilft der Chatbot Kiana auf bahn.de?
-----------
-
-Der KI-gestützte Chatbot Kiana auf bahn.de unterstützt Sie bei Fragen rund um die Deutsche Bahn. Dazu gehören unter anderem Verbindungs- und Fahrplanauskünfte, Echtzeit-Informationen zu Zügen, Informationen zu Bahnhöfen sowie Antworten auf häufige Fragen zu Angeboten und Services der Deutschen Bahn.
-
-Aktuell befindet sich Kiana in einer Testphase. Daher kann der Chatbot noch nicht alle Anliegen bearbeiten. Kiana kann derzeit keine Buchungen, Umbuchungen oder Stornierungen durchführen und hat **keinen Zugriff auf** Ihr DB Kundenkonto. Kiana kann daher keine Anliegen zu Ihren gebuchten Tickets oder Aufträgen bearbeiten.
-
-Wenn Kiana Ihr Anliegen nicht lösen kann, verweist der Chatbot auf passende Kontaktformulare oder Servicenummern des Kundenservice der Deutschen Bahn.
-
-Da Kiana ein KI-gestützter Chatbot ist, können vereinzelt fehlerhafte oder unvollständige Antworten auftreten. Die bereitgestellten Informationen dienen daher als Orientierungshilfe und stellen keine rechtsverbindliche Auskunft dar. Die Funktionen von Kiana werden während der Testphase kontinuierlich weiterentwickelt und optimiert.
-
-* [Zur Hilfe & Kontakt-Seite](https://www.bahn.de/hilfe)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-anliegen)
-
- Kann ich über den Chatbot Kiana direkt mit dem Kundenservice chatten?
-----------
-
-Nein. Kiana ist ein KI-basierter Chatbot, der automatisiert Antworten auf Ihre Fragen bereitstellt. Eine direkte Kommunikation mit oder Weiterleitung an Mitarbeitende unseres Kundenservices ist über Kiana nicht möglich.
-
-Wenn Ihr Anliegen eine persönliche Prüfung oder Bearbeitung durch den Kundenservice der Deutschen Bahn erfordert, verweist Kiana auf die passenden Kontaktmöglichkeiten, beispielsweise ein Kontaktformular oder eine Telefonnummer.
-
-* [Zur Hilfe & Kontakt-Seite](https://www.bahn.de/hilfe)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-kundenservice)
-
- Are there different age rules for children?
-----------
-
-In Germany, children up to the age of 14 always travel free of charge. Children aged 6-14 must be specified during booking.
-Different conditions for children apply to the following offers:
-
-* Flexible fare
-* Saver fare Europe **London**, Saver fare Europe **France**, Saver fare Europe **Sweden** and Saver fare Europe **Czech Republic**
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/children-age-rules)
-
- Do children travel free of charge?
-----------
-
-Children up to 5 years of age always travel free of charge and do not need to be specified when booking. Children aged 6-14 travel free when accompanied by someone aged 15 or over. However, they must be specified at the time of booking. The ticket holder can bring up to 4 children per ticket.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/children-free-travel)
-
- Can I take a pushchair with me?
-----------
-
-Yes. Please note that the space available on the train is limited. We recommend slings or pushchairs that can be easily folded and stowed away.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/children-pushchair)
-
- Can I choose specific seats close to areas where I can easily stow my larger luggage?
-----------
-
-Yes. If you reserve a seat online, you can select a seat near a baggage rack in the second booking step using the graphical overview ("Reserve requested seat" and then "Select seat"). Alternatively, you can look for rows of seats in the graphical overview with the seat backs facing in opposite directions, i.e. back to back. This is because there is a space between the rows of seats in which you can store your luggage at floor level. Please put any wheeled suitcases down so that they do not roll away during the journey and endanger other passengers.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/choose-specific-seats-close-to-areas-my-larger-luggage)
-
- Basiert die CO₂-Sparuhr auf Live-Daten?
-----------
-
-Nein, die CCO₂-Sparuhr basiert zwar nicht auf Live-Daten, berücksichtigt jedoch die üblichen Auslastungen je Tages- und Wochenzeit. Hierbei bilden wir durch unterschiedliche Geschwindigkeiten der Uhr nach, wie viele Menschen je nach Tageszeit und Wochentag in der Regel in den Fernverkehrszügen sitzen.
-
-Da CO₂-Emissionen erst nachträglich, z. B. zum Ende eines Jahres, bilanziert werden, ist es nicht möglich, die Einsparung live zu berechnen. Unser Hauptziel ist es, über eine nachvollziehbare Modellrechnung zu zeigen, welchen positiven Beitrag unsere Fahrgäste für das Klima leisten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/co2-uhr-livedaten)
-
- Darf ich dienstlich gesammelte BahnBonus Punkte privat nutzen?
-----------
-
-Ob Sie grundsätzlich dienstlich gesammelte BahnBonus Punkte privat nutzen dürfen, entscheidet Ihr:e Arbeitgeber:in. Bitte beachten Sie diesbezüglich die Reiserichtlinie Ihres Unternehmens.
-
-Die generelle Teilnahme am Vorteilsprogramm BahnBonus bzw. das Sammeln von BahnBonus Punkten durch private Bahnreisen muss nicht von den Arbeitgeber:innen genehmigt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-bahnbonus-punkte-privat-nutzen)
-
- Darf ich eine Begleitperson in die DB Lounge mitnehmen?
-----------
-
-Ja, die Mitnahme einer Begleitperson in den Comfort Bereich der Lounge ist möglich. Ihre Begleitperson benötigt, ebenso wie Sie, ein gültiges DB Fernverkehrsticket. Die Mitnahme einer Begleitperson in den Premium Bereich der Lounge ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-eine-begleitperson-in-die-db-lounge-mitnehmen)
-
- Darf ich einen E-Roller im Zug mitnehmen?
-----------
-
-Ja, Sie dürfen einen E-Roller im Zug mitnehmen, wenn er eine Straßenzulassung hat. Der E-Roller muss geklappt sein und in der Gepäckablage verstaut werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-einen-e-roller-im-zug-mitnehmen)
-
- Darf ich mich als minderjährige Person auf bahn.de oder im DB Navigator registrieren und Tickets kaufen?
-----------
-
-Minderjährige können sich mit Zustimmung ihrer Sorgeberechtigten (in der Regel sind das die Eltern) auf der Website [bahn.de](http://bahn.de/) oder in der App DB Navigator registrieren und ein DB Kundenkonto nutzen. Die Möglichkeit des Ticketkaufs hängt des Weiteren von der verwendeten Zahlart, deren jeweiligen Altersbeschränkungen sowie von der Zustimmung der Sorgeberechtigten ab.
-
-**Zahlarten und Altersvorgaben:**
-
-* **Kreditkarte:** Kreditkarten können in Deutschland in der Regel ab 18 Jahren beantragt werden. Prepaid-Kreditkarten können mit Zustimmung der Eltern bereits früher genutzt werden.
-* **PayPal:** Nein, nur von Volljährigen nutzbar.
-* **SEPA-Lastschrift:** Nein, wird nicht für Minderjährige angeboten.
-* **Apple Pay:** Die Nutzung von Apple Pay ist in Deutschland ab 16 Jahren möglich, wenn man eine eigene Apple ID besitzt. Nicht alle Banken unterstützen Apple Pay für Minderjährige, es ist ratsam sich bei der eigenen Bank zu informieren.
-* **Bonvoyo**: Ja
-
-**Tipp:** Wir empfehlen, Tickets für Kinder über das DB Kundenkonto der Sorgeberechtigten zu buchen, indem die Funktion “Für eine andere Person buchen” genutzt wird. Die Tickets können anschließend manuell in die App auf dem Smartphone des Kindes geladen werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-mich-als-minderjaehriger-im-db-navigator-registrieren-und-darueber-tickets-kaufen)
-
- In welchen Situationen darf ich mit einem anderen Zug oder Verkehrsmittel weiterfahren und was muss ich beachten?
-----------
-
-Bei einer erwarteten Verspätung am Zielbahnhof Ihrer Fahrkarte von
-
-* mindestens **20 Minuten bei nationalen Reisen**
-* oder mindestens **60 Minuten bei internationalen Reisen**
-
-können Sie:
-
-* **Die Fahrt fortsetzen:** Sie können die Fahrt bei nächster Gelegenheit auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
-* **Die Fahrt verschieben:** Sie können die Fahrt zu einem späteren Zeitpunkt auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
-* **Andere Züge nutzen:** Sie können andere, nicht reservierungspflichtige Züge nutzen. Sollte eine Fahrkarte erforderlich sein, müssen Sie diese zunächst bezahlen und können sie sich anschließend erstatten lassen. Erheblich ermäßigte Fahrkarten können davon ausgenommen sein.
-
-**Bei internationalen Reisen ist Folgendes zu beachten:**
-
-* Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
-* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen Sitzplatz kostenpflichtig selbst [hier](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
-
-Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
-
-[**Was bedeutet Zugbindung aufgehoben**](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)?
-
-Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen, aber einen höherwertigen Zug (z.B. Züge des Fernverkehrs, also IC/EC, ICE) nutzen möchten, dann müssen Sie zunächst die zusätzlich erforderliche Fahrkarte bezahlen. Anschließend können Sie sich die Kosten über das Servicecenter Fahrgastrechte erstatten lassen. Diese Regelung gilt nicht bei erheblich ermäßigten Fahrkarten (z.B. Deutschland-Ticket, Länder-Tickets, Quer-durchs-Land-Ticket).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-man-bei-verspaetung-des-zuges-ohne-mehrkosten-die-naechste-fahrtmoeglichkeit-z-b-einen-ice-in-anspruch-nehmen)
-
- Darf meine Begleitperson ebenfalls im exklusiven Sitzplatzbereich im Zug Platz nehmen?
-----------
-
-Nein, der Sitzplatzbereich steht exklusiv nur unseren Statuskund:innen zur Verfügung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-meine-begleitperson-ebenfalls-im-exklusiven-sitzplatzbereich-im-zug-platz-nehmen)
-
- Was kann ich tun, wenn das ICE Portal nicht lädt oder "hängen" bleibt?
-----------
-
-* Stellen Sie sicher, dass Ihr Endgerät kein VPN verwendet. Mit VPN ist das Portal möglicherweise nicht erreichbar.
-* Deaktivieren Sie das VPN, um die Seiten im Zug erreichen zu können.
-* Geben Sie "login.WIFIonICE.de" in Ihrem Browser ein, um die Startseite zu öffnen.
-* Dort sehen Sie, ob Sie noch eingeloggt sind oder sich erneut einloggen müssen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/das-ice-portal-laedt-nicht-oder-bleibt-haengen-was-kann-ich-tun)
-
- Will my data allowance be used when I view content on the ICE Portal?
-----------
-
-You can only use the ICE Portal if you are connected to the wifi on ICE trains. The ICE Portal content is retrieved from a hard disk on the train, so your data allowance will not be affected.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/data-volume-ice-portal)
-
- Woher weiß das Zugpersonal, dass ich eingecheckt bin und welche Kundendaten werden angezeigt?
-----------
-
-Die Mitarbeitenden an Bord sehen nur, dass eine Reisende oder ein Reisender auf einem Sitzplatz für eine bestimmte Strecke eingecheckt hat. Falls ein Ticket für eine Stichprobekontrolle vom System vorgeschlagen wurde, werden zudem die Gründe hierfür angezeigt. Weitere Ticketdaten werden nur angezeigt, wenn Ihr Ticket wie gewohnt kontrolliert wird.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dateneinsicht-zugbegleiter)
-
- Wo finde ich Datenschutzhinweise zum DB Kundenkonto?
-----------
-
-Auf der folgenden Seite finden Sie die aktuellen Datenschutzhinweise zum DB Kundenkonto.
-
-* [Zu den Datenschutzhinweisen](https://www.bahn.de/datenschutz/datenschutz-kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/datenschutz-kundenkonto)
-
- Habe ich mit meiner (Super) Sparpreis-Fahrkarte 1. Klasse Zugang zur DB Lounge?
-----------
-
-Nein, mit einem (Super) Sparpreis-Ticket haben Sie keinen Zutritt zur DB Lounge.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-lounge-sparpreis)
-
- Kann ich mit einem (Super) Sparpreis Europa-Ticket die DB Lounge nutzen?
-----------
-
-Nein, mit einem (Super) Sparpreis Europa-Ticket haben Sie **keinen Zutritt zur DB Lounge**.
-
-* [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-lounge-sparpreis-europa)
-
- Der Komfort Check-in ist nicht verfügbar. Woran kann das liegen?
-----------
-
-Der Komfort Check-in kann in bestimmten Situationen nicht verfügbar sein. Überprüfen Sie die folgenden Punkte:
-
-* **DB Navigator**: Der Komfort Check-in steht Ihnen im DB Navigator zur Verfügung.
-* **bahn.de**: Nutzen Sie den Link [bahn.de/jetzt-einchecken](https://bahn.de/jetzt-einchecken) für den Komfort Check-in.
-* **ICE Portal**: Der Komfort Check-in ist auch im ICE Portal möglich. Verbinden Sie sich mit dem WLAN WIFIonICE oder nutzen Sie Ihre mobile Verbindung und öffnen den Link [ICEportal.de](https://iceportal.de/). Der Komfort Check-in im ICE Portal ist auch ohne WLAN-Verbindung erreichbar.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/der-kci-ist-nicht-verfuegbar-nicht-woran-liegt-das)
-
- Der Zugang zu meinem DB Kundenkonto wurde gesperrt, weil ich mehrfach meine Daten falsch eingegeben habe. Was jetzt?
-----------
-
-Die temporäre Sperrung von Accounts bei mehrfach fehlgeschlagenen Login-Versuchen ist eine sicherheitsbedingte Vorsichtsmaßnahme. Ihr Zugang wird nach ca. 30 Minuten automatisch wieder freigeschaltet. Eine manuelle Entsperrung durch unsere Mitarbeitenden ist nicht möglich.
-
-Wenn Ihr Zugang zwischenzeitlich noch nicht wieder freigeschaltet worden sein sollte, können wir Ihnen nur empfehlen, noch ein wenig zu warten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/der-zugang-zu-meinem-db-kundenkonto-wurde-gesperrt-weil-ich-mehrfach-meine-daten-falsch-eingegeben-habe-was-jetzt)
-
- Erhalte ich mit meinem deutschen Schwerbehindertenausweis auch Ermäßigungen bei Auslandsreisen?
-----------
-
-Über bahn.de oder den DB Navigator ist eine Buchung für Reisen ins Ausland mit Ermäßigungen aufgrund eines Schwerbehindertenausweises aktuell nicht möglich. Bitte wenden Sie sich für die Buchung von Auslandsreisen an die Mobilitätsservice-Zentrale.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutscher-behindetenausweis-ermaessigung-im-ausland)
-
- Kann ich mit einem Abo oder dem Deutschland-Ticket BahnBonus Punkte sammeln?
-----------
-
-Für den Kauf des Deutschland-Tickets oder anderer Abos (zum Beispiel Wochen- und Monatskarten im Fernverkehr) erhalten Sie monatlich Prämien- und Statuspunkte in Höhe des Ticketpreises, **wenn**:
-
-* Sie beim BahnBonus-Programm angemeldet sind
-* Sie das Ticket mit Ihrem angemeldeten DB Kundenkonto über bahn.de oder den DB Navigator kaufen
-* Ihre persönlichen Daten beim Kauf mit denen im BahnBonus-Konto übereinstimmen
-
-Beim Kauf des Deutschland-Tickets **bei anderen Anbietern**, zum Beispiel Verkehrsverbünden oder im DB Reisezentrum, können **keine** BahnBonus Punkte gesammelt werden. Auch für Verbundfahrkarten und -abos können **keine** Punkte gesammelt werden.
-
-Für Buchungen, die Sie **vor** der Registrierung durchgeführt haben, können nachträglich keine Punkte gutgeschrieben werden.
-
-* [Zur Übersicht der Fahrkarten, bei denen Sie BahnBonus-Statuspunkte sammeln](https://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife)
-* [Zu BahnBonus anmelden](https://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-bonus)
-
- Was ist der Deutschland-Ticket-Filter "Nur D-Ticket-Verbindungen anzeigen"?
-----------
-
-Der D-Ticket-Filter zeigt gezielt Verbindungen an, die Sie mit dem Deutschland-Ticket ohne Aufpreis nutzen können. Sie aktivieren ihn mit dem Schieberegler "Nur D-Ticket-Verbindungen".
-
-Im **DB Navigator** finden Sie diesen Regler unter "**Optionen**", auf **bahn.de** unten in der **Verbindungsauskunft**.
-
-Um wieder alle Verbindungen, einschließlich Fernverkehr, angezeigt zu bekommen, können Sie den Filter dort auch jederzeit deaktivieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-im-db-navigator)
-
- Wieso erscheinen trotz aktiviertem D-Ticket-Filter einzelne nicht im D-Ticket enthaltene Verbindungen?
-----------
-
-Auch wenn der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert ist, können vereinzelt Verbindungen angezeigt werden, die nicht mit dem Deutschland-Ticket genutzt werden dürfen.
-
-Das passiert, wenn der Betreiber das Deutschland-Tickets nicht akzeptiert – etwa bei bestimmten Flughafen-Buslinien. In solchen Fällen erscheint der Hinweis:
-
-"Diese Verbindung ist nicht im Deutschland-Ticket enthalten. Das Deutschland-Ticket gilt hier nicht. Bitte stellen Sie sicher, dass Sie eine gültige Fahrkarte besitzen, wenn Sie diese Verbindung nutzen."
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verbindungsanzeige)
-
- Kann ich gleichzeitig nach Deutschland-Ticket-Verbindungen und nach bestimmten Verkehrsmitteln filtern?
-----------
-
-Nein, eine gleichzeitige Filterung nach Deutschland-Ticket-Verbindungen und bestimmten Verkehrsmitteln ist nicht möglich.
-
-* Wird der Schieberegler "Nur D-Ticket-Verbindungen" aktiviert, erscheinen nur Verbindungen, die für das Deutschland-Ticket auf der gewählten Strecke zugelassen sind.
-* Damit der D-Ticket-Filter angewendet werden kann, muss die Verkehrsmittelauswahl in den "Optionen" auf "Alle" gesetzt sein. Eine Auswahl einzelner Verkehrsmittel ist dabei nicht möglich.
-* Wenn Sie gezielt bestimmte Verkehrsmittel anzeigen möchten, deaktivieren Sie bitte zuvor den D-Ticket-Filter.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-verkehrsmittel-suche)
-
- How many different devices can I connect to the wifi at the same time?
-----------
-
-You can use the internet on the train with as many devices as you like, such as your smartphone, tablet and laptop, simultaneously.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/different-devices)
-
- Wie erhalte ich eine Rechnung mit Mehrwertsteuerangaben für mein Digitales Ticket?
-----------
-
-* Das Ticket und die Rechnung sind getrennt.
-* Auf dem Digitalen Ticket steht nur der Gesamtpreis ohne Mehrwertsteuer.
-* Den Namen des Rechnungsempfängers können Sie nur einmalig angeben. Eine nachträgliche Änderung ist nicht möglich.
-
-Benötigen Sie Angaben zur Mehrwertsteuer?
-
-Gehen Sie in Ihrem DB Kundenkonto auf **bahn.de** im Bereich "Meine Reisen" in die "Reisedetails". Dort können Sie die Rechnung über den Button "Rechnung erstellen" erzeugen.
-
-In der **App DB Navigator** können Sie die Rechnung im Bereich "Reisen" im Reiseplan unter "Weitere Aktionen" öffnen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitales-ticket-mehrwertsteuer-rechnung)
-
- Erhalte ich ein City-Ticket bei Angabe des Deutschland-Tickets?
-----------
-
-Bei den günstigen Angeboten Super Sparpreis und Sparpreis wird kein City-Ticket ausgegeben. Im Angebot Flexpreis ist das City-Ticket weiterhin enthalten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-cityticket)
-
- Kann ich das Deutschland-Ticket und eine BahnCard 25 oder 50 zusammen bei den Reisendenoptionen auswählen?
-----------
-
-Ja, das ist möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-dt-und-bahncard)
-
- Kann ich nach Aktivierung des Preisfilters für das Deutschland-Ticket die Bestpreissuche nutzen?
-----------
-
-Nein. Eine Kombination des Preisfilters für das Deutschland-Ticket mit der Bestpreissuche ist leider nicht möglich. Wenn Sie die Bestpreissuche nutzen möchten, ist es notwendig, den Filter vorher zu deaktivieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-dt-und-bestpreissuche)
-
- Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf Fahrgastrechte?
-----------
-
-Bei der Kombination von Deutschland-Ticket und Fernverkehrs-Ticket werden die jeweiligen Fahrten als separate Beförderungsverträge behandelt. Dadurch entfallen durchgehende Fahrgastrechte zwischen Nah- und Fernverkehr.
-
-Die Angabe des Deutschland-Tickets hat folgende Auswirkungen auf die Fahrgastrechte:
-
-* Verspätungen im Nahverkehr, die zum Verpassen eines Fernverkehrszuges führen, heben die Zugbindung im Fernverkehr nicht auf. Eine spätere Fernverkehrsverbindung kann somit nicht genutzt werden.
-* Entschädigungsansprüche gelten jeweils nur für das Deutschland-Ticket oder für das Fernverkehrs-Ticket, jedoch nicht in Kombination.
-* Bei der Anreise mit U-Bahn, Straßenbahn oder Bus bestehen keine durchgängigen Fahrgastrechte.
-
-* [Mehr zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrgastrechte)
-
- Was passiert, wenn ich mein Deutschland-Ticket bei der Fahrt im DB Fernverkehr nicht dabei habe?
-----------
-
-Das macht nichts. Im Fernverkehr ist das Deutschland-Ticket nicht gültig.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-fahrten)
-
- Welche Auswirkungen hat die Angabe des Deutschland-Tickets auf eine mögliche Erstattung meines Flex- oder Sparpreistickets?
-----------
-
-Die Angabe des Deutschland-Tickets beeinflusst die Stornierungs- und Erstattungsmöglichkeiten nicht. Es gelten weiterhin die bestehenden Erstattungskonditionen des gebuchten Fernverkehrsangebots.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-flex-sparpreis)
-
- Was muss ich bei Angabe des Deutschland-Tickets beachten, wenn ich Kinder mitnehmen möchte?
-----------
-
-* Beim Deutschland-Ticket ist die kostenfreie Mitnahme von Kindern zwischen 6 und 14 Jahren **nicht** enthalten. Für die An- oder Abreise zum bzw. vom Fernverkehrshalt benötigen Kinder in diesem Alter daher ein zusätzliches gültiges Nahverkehrsticket (z. B. eine Einzelfahrkarte).
-* Kinder unter 6 Jahren fahren sowohl im Nah- als auch im Fernverkehr ohne Fahrkarte.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-kinder)
-
- Welche Auswirkung hat die Angabe eines Deutschland-Tickets auf den Preis?
-----------
-
-Für die Berechnung des Ticketpreises zählt nur die Strecke zwischen dem ersten und letzten Fernverkehrshalt. Wird ein Teil der Reise im Schienenpersonennahverkehr zurückgelegt, wird hierfür das Deutschland-Ticket angesetzt und nicht dem Gesamtpreis des Tickets zugerechnet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-preis)
-
- Was passiert, wenn ich das Deutschland-Ticket bei der Buchung einer Super Sparpreis-, Sparpreis- oder Flexpreis-Fahrkarte angebe?
-----------
-
-Wenn Sie ausgewählt haben, dass alle Reisenden das Deutschland-Ticket besitzen, wird lediglich eine Fahrkarte ausgegeben, und zwar für die Teilstrecke vom ersten bis zum letzten Fernverkehrshalt (meistens ICE- oder IC/EC Züge). Sie müssen nur diese Strecke bezahlen, denn für die Fahrt im Nahverkehr haben Sie das Deutschland-Ticket.
-
-**Beispiel:** Buchungsanfrage Potsdam – Berlin – Frankfurt – Bad Homburg. Die Preisberechnung erfolgt für die Strecke im Fernverkehr Berlin – Frankfurt. Auch die Fahrkarte wird nur für die Fernverkehrsstrecke ausgegeben. Für Nahverkehrsstrecke Potsdam – Berlin und Frankfurt – Bad Homburg wird das Deutschland-Ticket genutzt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-sparpreise)
-
- Welche beiden Filtermöglichkeiten gibt es für das Deutschland-Ticket?
-----------
-
-Sie haben 2 Möglichkeiten:
-
-1. Schieberegler "**Nur D-Ticket Verbindungen"** unter "Optionen" aktivieren:
-    Zeigt nur Verbindungen an, die mit dem Deutschland-Ticket nutzbar sind (meist Nahverkehr).
-
-2. Schieberegler **"Alle Reisenden besitzen ein Deutschland-Ticket"** unter "Reisende/Fahrräder" aktivieren:
-    Berechnet den Fahrkartenpreis für die Teilstrecke vom 1. bis zum letzten Fernverkehrshalt. Das Deutschland-Ticket deckt die Fahrt im Nahverkehr zum bzw. vom Fernverkehrshalt ab. Das Angebot ergänzender Tickets beispielsweise für Fahrräder wird dadurch ausgeblendet.
-
-So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal anpassen.
-
-* [Alle Infos zu den Deutschland-Ticket-Filtern](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)
-
- Wo kann ich meine eCoupons auf der Webseite oder in der App einlösen?
-----------
-
-**8-stellige** **eCoupons** lassen sich aktuell nur noch in der App DB Navigator einlösen.
-
-Für bahn.de und die App DB Navigator werden **16-stellige** **Aktionsgutscheine** verwendet.
-
-**7-stellige Codes** wie z. B. Geschenk- oder Restwertgutscheine lassen sich in beiden Systemen einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ecoupon-einloesen)
-
- Gibt es Einschränkungen beim Onlineticket?
-----------
-
-Ein Online-Ticket bzw. Handy-Ticket kann für bis zu 5 Personen (maximal 4 Kinder) gebucht werden. Familien mit mehr Kindern im Alter von 6 bis einschließlich 14 Jahre erhalten im DB Reisezentrum die DB Familienkarte.
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/einschraenkung-onlineticket-6-14-jahre)
-
- Was bedeutet die Ermäßigung "SBA, B mit Rollstuhlplatz"?
-----------
-
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
-
-Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen und zusätzlich auch das Merkzeichen B in Ihrem Schwerbehindertenausweis haben, dann wählen als Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus.
-
-Sie erhalten damit folgende Ermäßigungen:
-
-* Einen kostenfreien Stellplatz für Ihr orthopädisches Hilfsmittel. Bitte beachten Sie, dass Ihr orthopädisches Hilfsmittel die Abmessung von 120 x 70 cm und ein Gesamtgewicht (reisende Person inkl. Rollstuhl) bis max. 350 kg nicht überschreiten darf.
-* Eine kostenfreie Sitzplatzreservierung für sich.
-* Bei Angabe einer weiteren mitreisenden Person wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
-* Ihr kostenfreier Rollstuhlplatz und die kostenfreie Sitzplatzreservierung für Ihre Begleitperson werden zugewiesen.
-* Die kostenpflichtige Sitzplatzreservierung ist bei Auswahl dieser Ermäßigung für alle weiteren mitreisenden Personen verpflichtend. Wird für die weiteren mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen eine separate Buchung der Tickets erforderlich.
-
-Ihr Schwerbehindertenausweis mit Merkzeichen B gilt für die Begleitperson als Fahrtberechtigung. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorzeigt werden.
-
-Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz bzw. einen Sitzplatz für Ihre Begleitperson benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
-
-* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.2026-02-13-08-49-49.pdf)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emaessigung-sba-b-mit-rollstuhlplatz)
-
- Was bedeutet die Ermäßigung "SBA, B ohne Rollstuhlplatz"?
-----------
-
-Wenn Sie bei der Ticketbuchung die Ermäßigung "**SBA, B ohne Rollstuhlplatz**" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mit Merkzeichen B haben und keinen Rollstuhlplatz benötigen, da Sie ohne ein Hilfsmittel reisen.
-
-Sie erhalten damit folgende Ermäßigungen:
-
-* Eine kostenfreie Sitzplatzreservierung für sich, welche Sie nach der Angebotsauswahl hinzuwählen können.
-* Bei Angabe einer weiteren mitreisenden Person wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
-
-Ihr Schwerbehindertenausweis gilt für die Begleitperson als Fahrtberechtigung. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorzeigt werden.
-
-Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emaessigung-sba-b-ohne-rollstuhlplatz)
-
- Wieso werden die CO₂-Daten nur mit dem Pkw verglichen?
-----------
-
-Zugfahrten ersetzen häufiger Pkw-Fahrten als Flüge. Generell ist der Marktanteil von Pkw wesentlich höher als der des Flugzeugs. Um die Modellrechnung möglichst einfach und nachvollziehbar zu halten, bezieht sie sich nur auf den direkten Vergleich zum Pkw. Die zu erwartenden Einsparungen gegenüber einer Flugreise sind aber grundsätzlich noch deutlich größer.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emissionen-vergleich-pkw)
-
- Welcher Pkw-Vergleichswert wurde bei den Emissionen angesetzt?
-----------
-
-Der aktuelle Durchschnittwert für Emissionen von Pkw beziehen wir vom Umweltbundesamt: <https://www.umweltbundesamt.de/bild/vergleich-der-durchschnittlichen-emissionen-0>. Bei den durchschnittlichen Werten des Pkw ist die Auslastung von 1,4 Personen bereits eingerechnet. Der Wert beinhaltet alle Arten von Personenkraftwagen und Antrieben, also auch E-Autos. Das aktuelle Bezugsjahr wird jährlich angepasst.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emissionen-vergleich-pkw-wert)
-
- Wieso sind die genutzten Emissionsdaten nicht aktueller?
-----------
-
-Die Emissionsdaten für den Pkw entnehmen wir den Berichten des Umweltbundesamts. Diese werden am Ende des Vorjahres aktualisiert. Die Emissionsdaten des Fernverkehrs werden jedes Jahr im März mit dem Integrierten Bericht veröffentlicht. Daher können wir am Anfang des Jahres nur auf Daten des vorvergangenen Jahres zugreifen.
-
-Bei den Verkehrsleistungsdaten, also wie viele Personen wie viele Kilometer in den Fernverkehrszügen zurückgelegt haben, können wir dagegen auf die aktuellsten Daten zurückgreifen: Sie beziehen sich auf das Vorjahr.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emissionsdaten-aktueller)
-
- Enthält meine Lufthansa Express Rail Buchung eine Sitzplatzreservierung?
-----------
-
-Ja, Lufthansa Express Rail enthält eine Sitzplatzreservierung. Als Gast der Lufthansa First Class und Business Class sind Sitzplätze in der 1. Klasse des Zuges für Sie reserviert. Wenn Sie in der Lufthansa Premium Economy oder Economy Class reisen, finden Sie Ihre reservierten Sitzplätze in der 2. Klasse des Zuges. Der genaue Sitzplatz steht auf Ihrer Lufthansa Bordkarte.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/enthaelt-meine-lufthansa-express-rail-buchung-eine-sitzplatzreservierung)
-
- Habe ich einen Entschädigungsanspruch, wenn ich wegen eines verspäteten Nahverkehrszugs meinen Anschluss zum Fernverkehr verpasse?
-----------
-
-Der Kunde hat einen Entschädigungsanspruch für die gesamte Reisekette. Sobald der Kunde mit einer Verspätung von mindestens 60 Minuten seinen Zielbahnhof erreicht, hat er Anspruch auf eine Entschädigung, unabhängig davon, welcher Zug und welches Eisenbahnunternehmen die Verspätung verursacht hat. Voraussetzung dafür ist, dass der Kunde eine Fahrkarte für die Gesamtstrecke besitzt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/entschaedigungsanspruch-nahverkehrszug-spaet-anschluss-fernverkehr-verpasst)
-
- Erhalte ich BahnBonus Punkte beim Kauf einer BahnCard 100 für Geschäftsreisende?
-----------
-
-Ja, Sie erhalten eine Gutschrift über die Summe der Jahresgebühr der BahnCard 100 für Geschäftsreisende in Form von Prämien- und Statuspunkten auf Ihr BahnBonus Punktekonto.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erhalt-von-bahnbonus-punkten-bei-kauf-einer-bc100)
-
- Erhalten Tink und Verimi einen dauerhaften Login oder Zugriff auf mein Bankkonto?
-----------
-
-Nein. Tink und Verimi fragen nur den erfolgreichen Login im Online-Bankingsystem ab und den Namen der kontoführenden Person.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erhalten-tink-und-verimi-dauerhaften-zugriff-login-auf-mein-bankkonto)
-
- Erhalte ich mit meinem deutschen Schwerbehindertenausweis auch Ermäßigungen bei Auslandsreisen?
-----------
-
-Sie können eine Reise ins Ausland mit Ermäßigung wegen Schwerbehindertenausweis aktuell nicht über bahn.de oder den DB Navigator buchen. Wenden Sie sich dafür an die Mobilitätsservice-Zentrale.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-mit-sba-bei-auslandsreisen)
-
- Was bedeutet die Ermäßigung "SBA, G, aG, Gl, H mit Rollstuhlplatz"?
-----------
-
-Wenn Sie bei der Ticketbuchung die Ermäßigung "**SBA, G, aG, Gl, H mit Rollstuhlplatz**" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mindestens mit einem der Merkzeichen G, aG, Gl oder H (ohne Merkzeichen B) haben und mit einem Hilfsmittel reisen, für das Sie einen Rollstuhlplatz benötigen.
-
-Sie erhalten damit folgende Ermäßigungen:
-
-* Einen kostenfreien Stellplatz für Ihr orthopädisches Hilfsmittel. Bitte beachten Sie, dass Ihr Hilfsmittel die Abmessung von 120 x 70 cm und ein Gesamtgewicht (reisende Person inkl. Rollstuhl) bis max. 350 kg nicht überschreiten darf.
-* Eine kostenfreie Sitzplatzreservierung für sich.
-* Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
-* Die kostenpflichtige Sitzplatzreservierung ist bei Auswahl dieser Ermäßigung für alle mitreisenden Personen verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen eine separate Buchung der Tickets erforderlich.
-
-* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.2026-02-13-08-49-49.pdf)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-sba-g-ag-gi-h-mit-rollstuhlplatz)
-
- Was passiert, wenn wegen Verspätungen oder Zugausfall eine Weiterreise nicht mehr möglich ist?
-----------
-
-Selten kann es vorkommen, dass wegen Verspätungen oder Zugausfall eine Weiterreise technisch oder organisatorisch nicht mehr möglich ist. In diesem Fall gelten die Entschädigungsregelungen ab dem Bahnhof, ab dem die Reise objektiv nicht mehr fortgesetzt werden kann.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erweiterte-haftung-bei-verspaetung-zugausfall)
-
- Was muss ich beachten, wenn ich das EU-Antragsformular für Erstattungen und Entschädigungen nutze?
-----------
-
-Grundsätzlich empfehlen wir die Nutzung der bestehenden Antragswege wie den digitalen Fahrgastrechte-Antrag oder das Fahrgastrechte-Formular.
-
-Wenn Sie dennoch das EU-Antragsformular für Erstattungen und Entschädigungen nutzen, folgen Sie bitte den entsprechenden Anleitungen und Hinweisen auf dem Formular. Senden Sie das vollständig ausgefüllte Formular inklusive aller notwendigen Tickets und Belege an:
-
-**Postalisch:**
-
-DB Fernverkehr AG
-Servicecenter Fahrgastrechte
-60647 Frankfurt am Main
-Deutschland
-
-**oder per** **E-Mail:** [EUAntragFGR@deutschebahn.com](mailto:EUAntragFGR@deutschebahn.com) | Bitte in der Betreffzeile (wenn möglich) folgendes angeben: Fahrgastrechte: EU-Antragsformular
-
-Achten Sie bitte darauf, bei etwaige Anhängen nur die folgenden Dateiformate zu verwenden: .pdf/.pdf.A, .jpg/.jpeg, .tif, .doc/.docx, .xls/.xlsx, .txt, .gif, .png. E-Mails mit Anhängen mit davon abweichenden Dateiformaten können nicht verarbeitet werden.
-
-Alternativ können Sie das Formular auch in einem DB Reisezentrum abgeben.
-
-**Bitte beachten Sie Folgendes hinsichtlich der Bearbeitung Ihres Antrags im Servicecenter Fahrgastrechte:**
-
-* Wenn Sie die deutschsprachige Variante des EU-Antragsformulars genutzt haben, erhalten Sie Ihre Antwort auf Deutsch. Wenn Sie eine andere verfügbare Sprachvariante genutzt haben, erhalten Sie Ihre Antwort auf Englisch.
-* Die Entschädigung erhalten Sie in der Regel als Banküberweisung auf das im Antrag angegebene Konto. **Wichtig:** Eine Auszahlung auf ein anderes Konto (PayPal oder Apple Pay usw.) ist nicht möglich.
-
-Auf Wunsch stellen wir auch einen DB-Gutschein aus. Der Gutschein ist 3 Jahre gültig. Bei Fällen mit Erstattungsansprüchen, z.B. bei Fahrtabbruch am Startbahnhof oder bei Zusatzbelegen wie Taxiquittungen oder Hotelrechnungen, sind wir verpflichtet, eine Geldauszahlung vorzunehmen. Eine Gutscheinausgabe ist in diesen Fällen ausgeschlossen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/eu-formular)
-
- Wenn der exklusive Sitzplatzbereich im Zug besetzt ist, haben Kund:innen mit Statuslevel Platin gegenüber denen mit Statuslevel Gold Vorrang?
-----------
-
-Kund:innen mit Statuslevel Gold und Platin sind beim exklusiven Sitzplatzbereich im Zug gleichgestellt. Den Sitzplatzbereich können Sie je nach Verfügbarkeit im Zug nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/exklusiver-sitzplatzbereich-statuslevel-vorrang)
-
- Sie haben bereits eine Fahrkarte mit oder ohne Reservierung gebucht, jedoch konnte eine Hilfeleistung durch den Service am Bahnhof für den Ein-, Um- bzw. Ausstieg aufgrund fehlender Kapazitäten nicht angeboten oder bestätigt werden?
-----------
-
-Bei Fahrkarten mit Zugbindung ((Super) Sparpreis) heben wir in diesem Fall die Zugbindung auf. Das heißt:
-
-* Sie können mit Ihrem ursprünglichen Ticket am selben Reisetag
-  * eine frühere Verbindung oder
-  * eine spätere Verbindung nutzen.
-
-* Eine „spätere“ Verbindung kann sein
-  * später am selben Reisetag
-  * einen Tag später oder
-  * auch erst in drei Wochen oder
-  * auch bis zu einem Jahr nach dem ursprünglichen Reisedatum.
-
-Die Mobilitätsservice-Zentrale sucht gemeinsam mit Ihnen nach einer für Sie passenden neuen Reiseverbindung, zu der wir Ihnen eine Hilfeleistung bestätigen und Reservierungen anbieten können (falls gewünscht). Vorhandene Reservierungen buchen wir kostenfrei für Sie um.
-
-* [Informationen zur Aufhebung der Zugbindung finden Sie über diese Verlinkung.](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkarte-gebucht-ohne-bestaetigte-hilfeleistung)
-
- Kann ich in meinem DB Kundenkonto Fahrkarten stornieren beziehungsweise erstatten lassen?
-----------
-
-Sofern Sie beim Kauf der Fahrkarte im DB Navigator oder auf bahn.de/int.bahn.de eingeloggt waren, können Sie die Stornierung oder Erstattung auch über Ihr DB Kundenkonto beantragen. Rufen Sie dazu das digitale Ticket über die Buchungsrückschau ("Meine letzten Buchungen") auf. Mehr Informationen zu Erstattung und Stornierung finden Sie in unseren Beförderungsbedingungen
-
-* [Zu den Beförderungsbedingungen](https://www.bahn.de/agb)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkarten-stornieren-erstatten-lassen)
-
- Was mache ich, wenn ich die Belegnummer der Fahrpreisnacherhebung nicht weiß oder die Rechnung verloren habe?
-----------
-
-Wenn Sie Ihre Belegnummer nicht mehr kennen oder den Beleg verloren haben, rufen Sie uns bitte unter der Telefonnummer [07221 9235 1000](tel:07221 9235 1000) an. Ignorieren Sie die Aufforderung zur Eingabe der Nummer. Sie werden dann automatisch weitergeleitet.
-
-* [db-fn.de](https://db-fn.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrpreisnacherhebung-belegnummer)
-
- Wie kann ich die Fahrpreisnacherhebung bezahlen?
-----------
-
-Ihre Fahrpreisnacherhebung bezahlen Sie online auf unserer Webseite über PayPal.
-
-Alternativ überweisen Sie den noch zu zahlenden Betrag auf folgendes Konto:
-
-DB Vertrieb GmbH
-Commerzbank Baden-Baden
-IBAN: DE02 6624 0002 0115 5076 00
-BIC: COBADEFFXXX
-
-Bitte geben Sie bei Ihrer Überweisung immer als **Verwendungszweck** die **Nummer Ihres Beleges** an.
-
-* [db-fn.de](https://db-fn.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrpreisnacherhebung-zahlen)
-
- Wo ist das Ticket bwFahrrad gültig?
-----------
-
-Das Ticket bwFahrrad ist ein Tag lang gültig im Geltungsbereich in Nahverkehrszügen Baden-Württembergs sogar bis nach Basel.
-
-[Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-bw-gueltig)
-
- Was kostet das Ticket bwFahrrad?
-----------
-
-Die Fahrrad-Tageskarte bwFahrrad kostet 6 Euro pro Rad und Tag. Sie ist nur gültig in Kombination mit gültigem (Personen)Fahrschein.
-
-[Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-bw-kosten)
-
- Wofür kann ich das Ticket bwFahrrad nutzen?
-----------
-
-Grundsätzlich ist die Mitnahme von Fahrrädern in Baden-Württemberg außerhalb der Hauptverkehrszeit – also **vor 6 und nach 9 Uhr** montags bis freitags – in den Zügen des Regional- und Nahverkehrs in der Regel **kostenlos**.
-
-Soweit die kostenlose Mitnahme nicht gilt, wird im bwtarif das Ticket bwFAHRRAD angeboten. Es ermöglicht in Verbindung mit einem bwtarif-Fahrschein die Mitnahme eines Fahrrads in den Zügen des Nahverkehrs sowie in Regiobussen.
-
-Eine Übersicht der Strecken, auf denen ein zusätzliches Fahrradticket nötig ist, finden Sie auf [bwtarif.info](https://www.bwtarif.info/).
-
-[Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-bw-mitnahme)
-
- Wo und wann ist die Fahrradtageskarte Niedersachsen gültig?
-----------
-
-Die Fahrradkarte ist gültig:
-
-* Für beliebig viele Fahrten in Niedersachsen, nach Bremen und Hamburg
-* Bis nach Hengelo (NL)
-
-**Hinweis**: Wird der IC zwischen Bremen Hbf und Norddeich Mole genutzt, wird neben der Fahrradtageskarte ein kostenpflichtiger Fahrradstellplatz im DB Reisezentrum notwendig.
-
-Ihr Ticket gilt an einem Tag Ihrer Wahl **von 0 bis 3 Uhr** **des Folgetages.**
-
-* [Weitere Infos auf niedersachsentarif.de](https://www.niedersachsentarif.de/fahrkarten/fahrradtageskarte)
-
-[Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-niedersachsen-gueltig)
-
- Was kostet die Fahrradtageskarte Niedersachsen?
-----------
-
-Die Fahrradtageskarte Niedersachsen kostet 7 Euro pro Rad und Tag. Sie ist nur gültig in Kombination mit gültigem (Personen)Fahrschein.
-
-[Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-niedersachsen-kosten)
-
- Kann ich die Fahrradtageskarte Niedersachsen stornieren?
-----------
-
-Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stornierung ausgeschlossen.
-
-[Weitere Informationen zur Fahrrad-Tageskarte Niedersachsen](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-niedersachsen)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/LTNRADL00001O201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-niedersachsen-storno)
-
- Wo und wann ist das 24hFahrradTicket NRW gültig?
-----------
-
-* Gilt für 1 Fahrrad; wenn mehrere Personen gemeinsam mit einem Ticket unterwegs sind, braucht jedes Fahrrad ein eigenes 24hFahrradTicket NRW
-* Nach Fahrtantritt nicht übertragbar
-* Keine Ermäßigung für Kinder
-* Gilt für die Fahrradmitnahme bei beliebig vielen Fahrten innerhalb von 24 Stunden gemäß Angabe auf dem Ticket (Aufdruck oder Entwerterstempel)
-
-[Weitere Informationen zur Fahrrad-Tageskarte NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-gueltig)
-
- Wo kann ich das 24hFahrradTicket NRW kaufen?
-----------
-
-Das 24hFahrradTicket NRW bekommen Sie an DB Automaten, in den DB Reisezentren, in DB Agenturen, Reisebüros mit DB-Lizenz und gleich hier online.
-
-[Strecke auswählen](https://www.bahn.de/buchung/start?intern=1#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-kaufen)
-
- Was kostet das 24hFahrradTicket NRW?
-----------
-
-Das 24hFahrradTicket NRW kostet 6,30 Euro pro Rad für 24 Stunden.
-
-Das 24hFahrradTicket NRW gilt zur Mitnahme jeweils eines Fahrrads in Zusammenhang mit einem Ticket des NRW-Tarifs für die reisende Person. Reisen mehrere Personen gemeinsam mit einem Ticket (z. B. 24hTicket NRW 5 Personen oder im Rahmen der Mitnahmeregelung, so ist für jedes mitgeführte Fahrrad ein 24hFahrradTicket NRW erforderlich. Das 24hFahrradTicket NRW kann auch zusammen mit beliebigen Tickets der NRW-Verbundtarife sowie dem Deutschland-Ticket genutzt werden.
-
-[Weitere Informationen zum 24hFahrradTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-kosten)
-
- Kann ich meine Fahrradkarte für den Nahverkehr zusammen mit meiner Fahrkarte buchen?
-----------
-
-Bitte kaufen Sie Ihre Fahrkarte (für Sie als Person) für den Nahverkehr separat zur Fahrkarte für Ihr Fahrrad. Aktuell sind dafür zwei getrennte Buchungen nötig. Eine Kombination der beiden Tickets in einer Buchung ist noch nicht möglich.
-
-[Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradkarte-fuer-den-nahverkehr-zusammen-mit-fahrkarte-buchen)
-
- Was, wenn ich Fahrradkarte oder Stellplatzreservierung für meinen Fernverkehrszug vergessen habe?
-----------
-
-Sie dürfen Ihr Fahrrad nur in einem Fernverkehrszug mitnehmen, wenn Sie bei der Fahrkartenkontrolle Ihre Fahrkarte mit Stellplatzreservierung vorzeigen können. Haben Sie die Fahrradmitnahme nachträglich zum Ticket hinzugebucht? Dann müssen Sie die Fahrradkarte mit Stellplatzreservierung vorlegen.
-
-Sie haben Ihre online gebuchte Fahrradkarte mit Stellplatzreservierung nicht dabei? Sie können sie erneut online abrufen. Das geht über Ihr DB Kundenkonto auf der Website oder in der App.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradkarte-oder-stellplatzreservierung-fuer-fernverkehrszug-vergessen)
-
- Was passiert, wenn ich meinen Anschlusszug verpasse oder mein gebuchter Fahrradwagen ausfällt?
-----------
-
-In den folgenden Fällen können Sie die nächstmögliche Verbindung nehmen, **wenn dort noch** ein Fahrradstellplatz **buchbar** ist:
-
-* Sie verpassen Ihren Anschlusszug im Fernverkehr aufgrund von Bahn-Verschulden.
-* Der gebuchte Fahrradwagen fällt aus.
-* Ihr gebuchter Zug fällt aus.
-
-**Achtung: Sie müssen in allen genannten Fällen eine neue Stellplatz-Reservierung buchen.**
-
-**Buchen Sie am besten online oder in der App.** So sehen Sie schnell Verbindungen, in denen noch Fahrradstellplätze verfügbar sind. Alternativ können Sie auch in einem DB Reisezentrum in Ihrer Nähe oder über die Servicenummer [030 2970](tel:+49302970) buchen. Ohne Stellplatzreservierung ist der Einstieg nicht möglich.
-
-**Fahrgastrechte**
-
-Im Fahrgastrechtefall können Sie Ihre doppelt gezahlte Reservierung erstatten lassen. Reichen Sie dazu die jeweiligen Belege ein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradmitnahme-anschlusszug-verpasst-oder-gebuchter-fahrradwagen-faellt-aus)
-
- Darf ich mein Fahrrad auch im City-Ticket-Gebiet in U-Bahn, Straßenbahn und Bus mitnehmen?
-----------
-
-Nein, die DB-Fahrradkarte ist in U-Bahnen, Straßenbahnen und Bussen nicht gültig. Es gelten die Bestimmungen zur Fahrradmitnahme des jeweiligen Verbundes vor Ort.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradmitnahme-city-ticket-oepnv)
-
- Ich möchte ins Ausland fahren und mein Fahrrad mitnehmen. Welche Direktverbindungen gibt es?
-----------
-
-Bei folgenden, direkten Fernverkehrs-Verbindungen ins Ausland können Sie ein Fahrrad mitnehmen, wenn noch Stellplätze reservierbar sind.
-Die Reiseverbindung finden Sie auch in der Reiseauskunft auf bahn.de und in der App DB Navigator. Sie finden dort auch Umsteigeverbindungen. Planen Sie für Umstiege aber bitte ausreichend Zeit ein.
-
-Für die Buchung von grenzüberschreitenden Verbindungen mit dem Fahrrad wenden Sie sich bitte an die DB Reisezentren, DB Agenturen und an die Service-Rufnummer [030 2970](tel:+49302970). Online ist die Buchung nicht möglich.
-
-**Direktverbindungen im Überblick:**
-
-**Belgien**
-
-* ab Frankfurt über Köln nach Brüssel
-
-**Dänemark**
-
-* ab Hamburg nach Kopenhagen oder Aarhus
-* ab Flensburg nach Fredericia
-
-**Italien**
-
-* ab München über den Brenner nach Bozen, Trento, Verona und Bologna
-* ab Frankfurt über Zürich nach Mailand
-
-**Luxemburg**
-
-* ab Düsseldorf über Koblenz nach Luxemburg
-
-**Niederlande**
-
-* ab Frankfurt über Köln nach Amsterdam
-* ab Berlin über Stendal, Hannover, Osnabrück und Rheine nach Apeldoorn und Amsterdam
-
-**Polen**
-
-* ab Berlin nach Warschau
-* ab Berlin nach Krakau und Przemysl
-
-**Österreich**
-
-* ab Frankfurt über München, Dortmund oder Saarbrücken nach Graz/Klagenfurt mit ÖBB Railjets
-* ab München nach Salzburg und Wien weiter nach Budapest mit ÖBB Railjets
-* ab Frankfurt, Stuttgart, Ulm und Friedrichshafen nach Innsbruck mit ÖBB-Railjets
-* ab Hamburg, Köln, Mainz und Nürnberg nach Wien über Passau
-
-**Schweiz**
-
-* ab Berlin nach Basel und Interlaken mit dem ICE 4
-* ab Hamburg über Frankfurt nach Basel und Chur mit dem ICE 4
-* ab Frankfurt nach Zürich und weiter nach Mailand
-* ab Stuttgart über Singen nach Zürich
-* ab München nach Zürich
-
-**Tschechien**
-
-* ab Hamburg über Berlin nach Prag
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradmitnahme-direktverbindung-ausland)
-
- Wie kann ich einen Fahrradstellplatz buchen, bei dem ich mein Fahrrad nicht hochheben und einhängen muss?
-----------
-
-Bitte wenden Sie sich in diesem Fall an die DB Reisezentren, DB Agenturen und an die Service-Rufnummer [030 2970](tel:+49302970).
-
-Ob es "stehende" oder "hängende" Fahrradhalterungen gibt, hängt von der Baureihe des Zuges ab. Die Reiseberater:innen können das für Sie prüfen. Wenn Plätze verfügbar sind, können sie Ihnen einen Stellplatz mit "stehender" Fahrradhalterung buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrradstellplatz-ohne-heben-einhaengen)
-
- Wie kann ich die DB Junior Express Fahrt stornieren?
-----------
-
-Eine Stornierung der Begleitung DB Junior Express ist grundsätzlich telefonisch über das Back-Office möglich. Dabei gelten die folgenden Stornierungsregeln:
-
-**Bis 48 Stunden vor Abfahrt:** 100 % Erstattung- oder eine kostenfreie Umbuchung auf einen anderen Reisetag, sofern es noch eine Sitzplatzverfügbarkeit auf dieser Strecke gibt.
-
-**Ab 48 Stunden vor Abfahrt oder bei Nichterscheinen des Kindes:** Keine Erstattung. (Hinweis: Für das separat erworbene DB-Kinderticket gelten die regulären Stornierungsbedingungen des jeweiligen Tarifs der DB.)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrt-stornieren)
-
- Ich reise mit einem faltbaren Rollstuhl. Was kann ich tun?
-----------
-
-Wenn Sie einen faltbaren Rollstuhl haben, dann haben Sie folgende Möglichkeiten Ihr Hilfsmittel auf Ihrer Reise in den Zügen des Fernverkehrs der Deutschen Bahn mitzunehmen:
-
-* Sie benötigen **keine** Hilfe beim Ein- bzw. Ausstieg und Ihr Rollstuhl ist im Zug zusammengefaltet und im Gepäckregal verstaut, dann dürfen Sie Ihren Rollstuhl kostenfrei mitnehmen.
-* Sie benötigen Hilfe beim Ein- und Ausstieg und Sie haben einen Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl, dann haben Sie Anspruch auf einen kostenfreien Rollstuhlplatz.
-
-Die Reservierung eines Rollstuhlplatzes für ein Hilfsmittel mit den Maßen bis max. 70 cm x 120 cm und einem Gesamtwicht (reisende Person inkl. Rollstuhl) bis max. 350 kg ist bei der Ticketbuchung möglich. Wählen Sie unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, G, aG, H, Gl mit Rollstuhlplatz**" aus. Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
-
-Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben im Schwerbehindertenausweis zusätzlich auch das Merkzeichen B, dann wählen als Ermäßigung “**SBA, B mit Rollstuhlplatz**” aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für **alle weiteren** bei der Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich.
-
-Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/faltbarer-rollstuhl)
-
- Es kommt zu einem Fehler beim Hinzufügen eines Tickets in die App DB Navigator. Was kann ich tun?
-----------
-
-Versuchen Sie, das Ticket noch einmal hinzuzufügen:
-
-1. Öffnen Sie die App DB Navigator.
-2. Gehen Sie zum Menübereich "Reisen".
-3. Tippen Sie auf das Plus-Symbol oben rechts.
-4. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein.
-
-**Achten Sie darauf:**
-
-* Fügen Sie am Ende der Eingabe keine Leerzeichen an.
-* Geben Sie den Namen genau wie in der Buchung angegeben ein.
-
-Sollte der Fehler weiterhin auftreten, überprüfen Sie diese Angaben erneut. Eventuell wurden sie nicht exakt wie bei der Buchung eingegeben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fehler-beim-hinzufuegen-eines-tickets-in-die-db-navigator-app-was-kann-ich-tun)
-
- Haben die Kinder feste Sitzplätze in der DB Junior Express Gruppe?
-----------
-
-Ja. Für die Kinder der gesamten betreuten DB Junior Express Gruppe sind zusammenhängende Sitzplätze reserviert. Die Sitzplätze werden nicht frei durch die Kundinnen und Kunden ausgewählt, sondern im Rahmen des Services organisiert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/feste-sitzplaetze)
-
- Finde ich mein Statuslevel in der App DB Navigator?
-----------
-
-Ja, Sie finden Ihren Statuslevel auch im DB Navigator. Als Statusnachweis dient jedoch nur die digitale Karte in der BahnBonus App.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/finde-ich-mein-statuslevel-in-der-db-navigator-app)
-
- For which products can I redeem a DB gift voucher?
-----------
-
-DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be used to purchase other DB gift vouchers and season tickets such as the Deutschland-Ticket. If the value of the DB gift voucher is higher than the purchase price of the product for which you redeem it, you will receive the remaining value in the form of a voucher.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/for-which-products-can-i-redeem-db-gift-vouchers)
-
- Was hat sich an den Freifahrtprämien Flex geändert?
-----------
-
-Die benötigten Punkte der Gutscheine für die Freifahrten Flex sind nun wie folgt:
-
-* 2. Klasse, einfache Fahrt - 2.500 Prämienpunkte
-* 1. Klasse, einfache Fahrt - 3.500 Prämienpunkte
-* 2. Klasse, Hin- und Rückfahrt - 4.000 Prämienpunkte
-* 1. Klasse Hin- und Rückfahrt - 6.000 Prämienpunkte
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-flex)
-
- Haben sich noch bei weiteren Prämien die Punktehöhen geändert?
-----------
-
-Bei allen weiteren Bahnprämien, wie Sitzplatzreservierungen, 1. Klasse Upgrades und Reisegutscheinen bleibt die aktuelle Punktehöhe bestehen. Auch die Sach-, Partner- und Spendenprämien sind nicht betroffen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-weitere-praemien)
-
- Für welche Freifahrtprämien gibt es verschiedene Punktehöhen?
-----------
-
-Für folgende Freifahrtprämien gibt es verschiedene Punktehöhen:
-
-* Freifahrt 2. Klasse (750-2.000 Prämienpunkte)
-* Freifahrt 1. Klasse (1.250-2.500 Prämienpunkte)
-* Internationale Freifahrt 2. Klasse (1.750-2.750 Prämienpunkte)
-* Internationale Freifahrt 1. Klasse (2.750-3.750 Prämienpunkte)
-* Mitfahr-Freifahrt 2. Klasse (750-2.000 Prämienpunkte)
-* Mitfahr-Freifahrt 1. Klasse (1.250-2.500 Prämienpunkte)
-
-Mit den neuen Punktestufen in 250er Schritten können nationale Freifahrten auch für Verbindungen eingelöst werden, für die vorher keine Freifahrten für 1.000 Punkte verfügbar waren.
-
-Die beiden höchsten Preisstufen gelten ausschließlich für nationale Verbindungen, auf denen früher grundsätzlich keine Freifahrten angeboten wurden. Dadurch wird das Angebot erweitert und die Einlösung von Punkten auf zusätzlichen Verbindungen ermöglicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-punktehoehen-welche)
-
- Was hat sich bei den nationalen Freifahrtprämien geändert?
-----------
-
-Alle nationalen Freifahrten können in einer Buchung frei nach Klasse und Hin- und/oder Rückfahrt ausgewählt werden (äquivalent zur normalen Ticketbuchung).
-
-Außerdem gibt es Freifahrten schon ab 750 Prämienpunkten – abhängig von Strecke, Buchungszeitpunkt und weiteren Faktoren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freifahrtpraemien-was-hat-sich-geaendert)
-
- Wie sammle ich BahnBonus Punkte?
-----------
-
-Sofern Sie zu BahnBonus angemeldet sind, können Sie bei Transaktionen bei der DB und bei Sammelpartnern, den Sammelwunsch angeben oder das automatische Sammeln aktivieren und erhalten je nach Angebot Prämien- und/oder Statuspunkte für Ihren Umsatz.
-
-Für Buchungen, die Sie vor der Registrierung getätigt haben, können wir im Nachhinein leider keine BahnBonus Punkte zuschreiben.
-
-[Weitere Informationen](http://www.bahn.de/service/bahnbonus/punkte-sammeln)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-angebote-kann-ich-praemien-und-statuspunkte-sammeln)
-
- Für welche Getränke in der Bordgastronomie ist der Code „Freigetränk“ nutzbar?
-----------
-
-Sie können den Statusvorteil „Freigetränk in der Bordgastronomie“ für jegliches Getränk, inklusive alkoholischer, einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-getraenke-in-der-bordgastronomie-ist-der-code-freigetraenk-nutzbar)
-
- Für welche Produkte kann ich Gutscheine einlösen?
-----------
-
-Storno-, Kulanz-, Fahrgastrechte-, Restwert-, Geschenkgutschein oder Geschenkkarte können gegen DB Produkte (z.B. BahnCards) eingelöst, nicht jedoch für den Kauf von DB Geschenkgutscheinen genutzt werden. Falls der Wert des Gutscheins höher ist als der Kaufpreis des Produkts, für den Sie ihn einlösen, erhalten Sie den Restwert in Form eines Gutscheins.
-
-Für welche Produkte Sie Ihren Aktionsgutschein einlösen können, lesen Sie bitte in den Éinlösekonditionen der zugehörigen Aktion nach. Aktionsgutscheine können z.B. nur im vorgegebenen Buchungszeitraum eingelöst und für Fahrten im festgelegten Reisezeitraum genutzt werden, ferner kann die Einlösung auf bestimmte Produkte eingeschränkt sein (z.B. nur für den Kauf einer BahnCard oder nur im Fernverkehr) und einen Mindestbestellwert voraussetzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-produkte-kann-gustschein-eingeloest-werden)
-
- Für welche Produkte kann ich DB Geschenkgutscheine einlösen?
-----------
-
-DB Geschenkgutscheine können beim Kauf von DB Produkten (z. B. BahnCards) im Bezahlvorgang mit eingelöst werden, nicht jedoch für den Kauf von DB Geschenkgutscheinen und Abonnements wie z. B. das Deutschland-Ticket genutzt werden. Falls der Wert des DB Geschenkgutscheins höher ist als der Kaufpreis des Produkts, für den Sie ihn einlösen, erhalten Sie den Restwert in Form eines Gutscheins.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-produkte-kann-ich-db-geschenkgutschein-einloesen)
-
- Für welche Züge gibt es eine digitale Wagenreihung?
-----------
-
-Die Fahrtinformationen mit der aktuellen Wagenreihung gibt es in der App DB Navigator für alle Züge des Fernverkehrs (ICE, Intercity und Eurocity) in Deutschland, bezogen auf den aktuellen Tag.
-
-Eine Ausweitung auf den Nahverkehr und in der Zukunft liegende Reisetage ist geplant.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-zuege-gibt-es-eine-digitale-wagenreihung)
-
- Für welche Züge kann ich Benachrichtigungen zur Reise einrichten?
-----------
-
-Diesen Service können Sie für alle Verbindungen nutzen, die mindestens einen Fernverkehrszug (ICE, IC/EC), einen Regional-Express (RE) oder eine Regionalbahn (RB) enthalten. Für den öffentlichen Nahverkehr können Sie keine Benachrichtigungen einrichten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-zuege-kann-ich-benachrichtigungen-zur-reise-einrichten)
-
- Gilt besondere Fürsorge- und Obhutspflicht für allein reisende Kinder?
-----------
-
-Ob ein Kind alleine reisen kann, entscheiden Sie als Erziehungsberechtigte aufgrund des Entwicklungsstandes und der geistigen Reife Ihres Kindes. Entscheiden Sie sich als Eltern/Erziehungsberechtigte dafür, dass Ihr Kind ohne Sie oder eine andere erwachsene Begleitperson im Fernverkehr reist, liegt die Verantwortung für das Kind bei Ihnen. Die Bordmitarbeiter der DB übernehmen keine besondere Fürsorge- und Obhutspflicht für Kinder.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuersorge-obhutspflicht)
-
- Für welche Züge ist der Fundservice zuständig?
-----------
-
-Das Fundsachenmanagement für Fundsachen aus Zügen wird von der DB InfraGO AG im Auftrag der hier genannten Eisenbahnverkehrsunternehmen durchgeführt:
-
-Züge der Abellio Rail Mitteldeutschland GmbH, agilis Verkehrsgesellschaft mbH & Co. KG, agilis Eisenbahngesellschaft mbH & Co.KG und Arverio Bayern, Arverio BW, DB Regio AG, DB Fernverkehr AG, DB RegioNetz Verkehrs-GmbH Erzgebirgsbahn, DB RegioNetz Verkehrs-GmbH Kurhessenbahn, DB RegioNetz Verkehrs-GmbH SüdostBayernBahn, DB RegioNetz Verkehrs-GmbH Westfrankenbahn,  Eurobahn – Keolis, Erfurter Bahn GmbH, Eurostar, HLB Hessenbahn GmbH (nur Teilnetz Südhessen-Untermain, Ländchesbahn, RE 98, RE 99, RB 24, RB 45, RB 46, RB 47, RB 48, RB 52 und Mittelhessenexpress), National Express Rail GmbH (NEX), NordBahn, NordWestBahn GmbH (NWB) – (nur Teilnetze Ostwestfalen, Weser Ems und Regio S-Bahn), RheinRuhrBahn (nur Linien RE 14; RB 31, RB 36; RE 44 und S 7), SNCF Voyages Deutschland GmbH, SWEG (Nur Bahnnetzen 8a (Ortenau-S-Bahn und Hermann-Hesse-Bahn), 8b (Europabahn) und 9b (Breisgau-S-Bahn Los 2, Freiburger Y)), trans regio Deutsche Regionalbahn GmbH, WestfalenBahn GmbH, TRI Train Rental GmbH, Vias Rail GmbH (nur RE 19, RE 35, RB 91, RE 16 und RB 10-Rheingaulinie), S-Bahn Dresden, S-Bahn Hamburg, S-Bahn Magdeburg, S-Bahn Mitteldeutschland, S-Bahn München, S-Bahn Rhein-Main, S-Bahn Rhein-Neckar, S-Bahn Rhein-Ruhr, S-Bahn Rostock und S-Bahn Stuttgart.
-
-Wenn Sie Ihren Gegenstand in einem anderen Zug verloren haben, setzen Sie sich bitte mit der jeweiligen Bahn in Verbindung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fundservice-fuer-welche-evu-zustaendig)
-
- Funktioniert das BahnBonus Programm auch ohne Anmeldung?
-----------
-
-Nein, für eine Teilnahme am BahnBonus Programm ist eine Anmeldung erforderlich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/funktioniert-bahnbonus-auch-ohne-anmeldung)
-
- Funktioniert die Stornierung auch in Verbindung mit Gutscheinen?
-----------
-
-**Storno-, Kulanz-, Fahrgastrechte-, Restwert-, Geschenkgutschein oder Geschenkkarte**
-
-* Sowohl bei der tariflichen als auch bei der Sofortstornierung von Buchungen, die unter Verwendung eines Gutscheins gezahlt wurden, erhalten Sie für die mit Gutschein bezahlten Anteile wieder einen Gutschein zurück.
-* Achtung: Den Kauf eines Geschenkgutscheins können Sie nicht sofortstornieren.
-
-**Aktionsgutscheine:**
-
-* Bei der tariflichen Stornierung einer Buchung, bei der ein Aktionsgutschein eingelöst wurde, verfällt Ihr Aktionsgutschein. Er kann nicht erneut eingesetzt werden.
-* Bei der Sofortstornierung einer Buchung, bei der ein Aktionsgutschein eingelöst wurde, können Sie Ihren Aktionsgutschein erneut verwenden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/funktioniert-stornierung-ivm-gutscheinen)
-
- Wo finde ich die Prämien und welche gibt es?
-----------
-
-Das gesamte Prämiensortiment finden Sie in der [BahnBonus PrämienWelt](https://bahnbonus-praemienwelt.de/).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegen-welche-praemien-kann-ich-meine-gesammelten-praemienpunkte-einloesen)
-
- Mein verlorener Gegenstand ist weniger als 15 Euro wert. Wie melde ich den Verlust?
-----------
-
-Verlorene Gegenstände mit einem von uns geschätzten Zeitwert **unter 15 Euro und ohne erkennbaren immateriellen Wert** werden nicht in unserer Fundsachenplattform erfasst.
-
-Fragen Sie in diesem Fall bitte bei der Fundstelle im Bahnhof nach, ob Ihr Gegenstand dort abgegeben wurde.
-
-Die Liste der Fundstellen finden Sie hier auf der Seite.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegenstand-unter-15-euro)
-
- Haben Sie in einem internationalen Zug einen Gegenstand verloren oder vergessen?
-----------
-
-Beachten Sie bitte folgende Hinweise:
-
-* Erfassen Sie zusätzlich zu Ihrer Meldung bei uns, unbedingt auch eine Verlustmeldung bei der jeweils betroffenen Partnerbahn.
-* In vielen Fällen werden verlorene Gegenstände erst am Endhalt des Zuges als Fundsache entdeckt.
-* **Zug von Deutschland ins Ausland:** Der Gegenstand wird meist bei der ausländischen Partnerbahn abgegeben.
-* **Zug vom Ausland nach Deutschland:** Der Gegenstand wird in der Regel in Deutschland abgegeben.
-
-**Direkte Links zu ausgewählten Partnerbahnen:**
-
-* **SBB (Schweiz):** [SBB (Schweiz) Verlustmeldung](https://www.sbb.ch/de/hilfe-und-kontakt/fundbuero/verlustmeldung-erfassen.html)
-* **ÖBB (Österreich):** [ÖBB (Österreich) - Verlustmeldung](https://www.oebb.at/de/reiseplanung-services/nach-ihrer-reise/lost-found.html)
-* **SNCF (Frankreich):** [SNCF (Frankreich) - Verlustmeldung](https://www.garesetconnexions.sncf/fr/service-client/a-vos-cotes/objet-perdu-trouve/declaration-perte)
-
-Weitere Partnerbahnen finden Sie über eine Internetsuche.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegenstand-verloren-zug-international)
-
- Wie verstaue ich mein Gepäck im Zug?
-----------
-
-**Großes Gepäck in die Gepäckregale im Großraumbereich – oder vorschicken:** Für große Koffer gibt es in vielen Fernverkehrszügen Gepäckregale. Diese finden Sie entweder im Einstiegsbereich oder zwischen Sitzreihen innerhalb des Großraumbereichs. Alternativ können Sie große Gepäckstücke aber auch mit dem [Hermes Gepäckversand](https://www.bahn.de/angebot/zusatzticket/hermes-gepaeckversand) vorschicken und nur mit leichtem Gepäck reisen.
-
-**Gepäck über den Sitzen verstauen:** In den meisten Fernverkehrszügen gibt es in den Großraumbereichen sowie in den Abteilen über den Sitzen Gepäckablagen. Legen Sie hier Ihre Koffer und Taschen möglichst platzsparend hinein. Die kurze Seite sollte nach vorne zeigen. Bitte denken Sie dabei an die Köpfe Ihrer Mitfahrer und verstauen Sie das Gepäck stets sicher.
-
-Der Intercity 2 stellt aufgrund seiner doppelstöckigen Bauform einen Sonderfall dar, die Ablagen über den Sitzen sind kleiner und nicht für Koffer geeignet. Stattdessen können dort Aktentaschen, Jacken oder Regenschirme verstaut werden. Nutzen Sie für Koffer im Intercity 2 alternativ die Gepäckregale am Ende und in der Mitte der Wagen.
-
-**Unter dem eigenen Sitz:** Kleine Koffer oder Taschen passen meist unter den Sitzplatz. Ähnlich wie im Flugzeug schieben Sie das kleinere Handgepäck einfach unter die Sitzfläche. Natürlich ist es auch möglich, kleines Gepäck vor die Füße zu stellen. Bitte blockieren Sie keinen Sitzplatz mit Ihren Koffern und achten Sie darauf, dass auch Gurte oder Griffe Ihrer Taschen nicht zu Stolperfallen werden.
-
-**Zwischen den Sitzen:** Wenn zwei Sitzlehnen in entgegengesetzter Blickrichtung aneinander stehen, dann befindet sich zwischen den Sitzreihen ein Zwischenraum. In diesen Zwischenraum passen oftmals kleinere bis mittlere Gepäckstücke und teilweise auch große Koffer.
-
-**Zwischen Tür und Sitzplatz:** Besonders schmale Taschen passen in manchen Zügen auch zwischen die Großraumbereichstür und die hinterste Sitzreihe. Bitte achten Sie dabei unbedingt darauf, dass sich die Tür ohne Probleme schließt
-
-* [Gepäck während der Fahrt richtig verstauen](https://www.bahn.de/service/zug/gepaeck-im-zug)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gepaeck-verstauen-zug)
-
- Kann ich Gepäckstücke kostenfrei in der Bahn mitnehmen?
-----------
-
-Gepäck wie Aktentasche, Laptop, Rucksäcke, Koffer usw. können Sie kostenfrei mitnehmen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gepaeckstuecke-kostenfrei-zug)
-
- Gibt es auch eine Entschädigungsregelung bei Verspätungen innerhalb von Verkehrsverbünden?
-----------
-
-Grundsätzlich gelten die Fahrgastrechte auch in den Eisenbahnverkehren der Verbünde (z.B. bei S-Bahnen, RE oder RB). Für Verspätungen, die bei U-Bahnen, Straßenbahnen, Bussen oder Taxi entstehen, besteht kein Entschädigungsanspruch.
-
-Es ist den Verbünden zudem freigestellt, weitergehende Regelungen zu treffen.
-
-Die Zuständigkeit für die Abwicklung der Fahrgastrechte regelt jeder Verbund individuell. Inhaber von Fahrkarten eines Verkehrsverbundes sollten sich beim jeweiligen Verbund nach den dort gültigen Regelungen zu Fahrgastrechten erkundigen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-auch-eine-entschaedigungsregelung-bei-verspaetungen-innerhalb-von-verkehrsverbuenden)
-
- Gibt es auch Fälle, in denen ich keine Verspätungsentschädigung erhalte?
-----------
-
-Die Verordnung (EU) 2021/782 (Artikel 19 Abs. 10) sieht vor, dass Eisenbahnverkehrsunternehmen in bestimmten Fällen keine Entschädigung bei Verspätungen zahlen müssen.
-
-Zum einen sind dies außergewöhnliche Umstände, wie z.B. große Naturkatastrophen. Ein gewöhnliches Unwetter fällt nicht unter diese Kategorie. Daher werden Sie in der Regel auch in Zukunft in vollem Umfang bei Verspätungen eine Entschädigung im Rahmen der Fahrgastrechte erhalten.
-
-Zum anderen sind dies Umstände, die durch das Verhalten eines Dritten hervorgerufen werden. Darunter fallen z.B. Betreten der Gleise, Kabeldiebstahl, Polizeieinsätze oder Bombenentschärfungen. In solchen Fällen behalten sich das Eisenbahnverkehrsunternehmen vor, gemäß der Verordnung keine Entschädigung bei Verspätungen zu zahlen.
-
-Streik zählt explizit nicht zu den in der Verordnung genannten Fällen. Im Streikfall erhalten Sie daher wie bisher im Rahmen der Fahrgastrechte Ihre vollumfängliche Entschädigung.
-
-*
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-auch-faelle-in-denen-ich-keine-verspaetungsentschaedigung-erhalte)
-
- Kann ich Wochen- oder Monatskarten von Verkehrsverbünden - sogenannte Verbundzeitkarten - in der App DB Navigator kaufen?
-----------
-
-Ja, Sie können Wochen- oder Monatskarten von vielen Verkehrsverbünden in der App kaufen.
-
-1. Öffnen Sie die App DB Navigator.
-2. Gehen Sie im Menüpunkt "Buchen" im Bereich "Tickets & Angebote" auf "Verbundtickets".
-3. Wählen Sie den gewünschten Verkehrsverbund aus der alphabetischen Liste.
-4. Dort finden Sie weitere Infos und können Ihre Ticketauswahl treffen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-bereits-verbundzeitkarten-im-navigator)
-
- Gibt es die BahnBonus App auch in der HUAWEI AppGallery?
-----------
-
-Nein, in der HUAWEI AppGallery ist die BahnBonus App nicht verfügbar.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-die-bahnbonus-app-auch-in-der-huawei-appgallery)
-
- Gibt es eine Service-Stelle, die mich beim Buchen internationaler Tickets unterstützt?
-----------
-
-Erster Ansprechpartner für Ihre Fragen rund um Ihr internationales Ticket ist unser Service-Nummer [030 2970](tel:+49302970).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-eine-service-stelle-die-mich-beim-buchen-internationaler-tickets-unterstuetzt)
-
- Gibt es eine Zugbindung auch im Nahverkehr und auch in der S-Bahn?
-----------
-
-Nein, im Nahverkehr und in der S-Bahn gibt es keine Zugbindung. Ein (Super) Sparpreis-Ticket gilt von 0 Uhr des ersten Geltungstages bis 10 Uhr des darauffolgenden Tages. Sie können also auch eine spätere S-Bahn nehmen, solange Sie bis 10 Uhr des nächsten Tages Ihr Ziel erreichen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-eine-zugbindung-auch-im-nahverkehr)
-
- Gibt es für kostenfrei mitreisende Kinder kostenfreie Sitzplatzreservierungen?
-----------
-
-Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfrei - wenn sie aber einen garantierten Sitzplatz haben möchten, müssen Sie für diese eine kostenpflichtige Reservierung buchen.
-
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-fuer-kostenlos-mitreiseisende-kinder-kostenfreie-sitzplatzreservierungen)
-
- Gibt es Services oder Leistungen, die ohne DB Kundenkonto nicht nutzbar sind?
-----------
-
-Auch in Zukunft ist es selbstverständlich möglich, zahlreiche Leistungen der Deutschen Bahn, wie zum Beispiel den Kauf einer Fahrkarte, auch ohne ein Kundenkonto zu nutzen.
-Insbesondere Komfortfunktionen können nur angeboten werden, wenn die dafür erforderlichen Daten hinterlegt sind. Dazu gehören zum Beispiel die schnellere Buchung, bei der Zahlungsdaten hinterlegt sein müssen, das Einlösen von Gutscheinen oder die Online-Abfrage von BahnBonus Punkten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-services-leistungen-die-ohne-kundenkonto-nicht-nutzbar-sind)
-
- Warum werden Grenzkontrollen in Zügen durchgeführt?
-----------
-
-Auf Anordnung des Bundesinnenministeriums führt die deutsche Bundespolizei bundesweit Grenzkontrollen durch.
-
-Diese Kontrollen finden auch auf allen **internationalen ICE-, EC-, ECE-, IC-, RJ-, TGV- und NJ-Zügen** der Deutschen Bahn bei Einreise nach Deutschland statt.
-
-* [Weitere Informationen zu den aktuellen Grenzkontrollen](https://www.bahn.de/service/zug/grenzkontrollen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/grenzkontrollen)
-
- Wie groß dürfen meine Gepäckstücke sein?
-----------
-
-Folgende Standardabmessungen wurden bei der Dimensionierung der Gepäckregale unterstellt und passen fast immer: 700 x 500 x 300 mm (Höhe x Breite x Tiefe).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/groesse-gepaeckstuecke-zug)
-
- Warum erhalte ich eine Fehlermeldung beim Einlösen meines Gutscheins?
-----------
-
-Achten Sie bei der Einlösung auf einen möglichen Aktionszeitraum, den Einlösebedingungen, wie zum Beispiel einen Mindestbestellwert, oder einen Einlösezeitraum.
-
-Stimmen alle Angaben und Sie bekommen dennoch einen Fehler, rufen Sie uns unter [030 2970](tel:030 2970) an.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gutschein-fehlermeldung)
-
- Können DB Geschenkgutscheine auf bahn.de auch als Gast gekauft und eingelöst werden?
-----------
-
-Um einen Geschenkgutschein auf [www.bahn.de/gutscheine](https://www.bahn.de/service/gutscheine/geschenkgutscheine) erwerben oder einlösen zu können ist ein Kundenkonto erforderlich.
-
-* [Mehr zu DB Geschenkgutscheinen](https://www.bahn.de/service/gutscheine/geschenkgutscheine)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gutscheinkauf-als-gast)
-
- Habe ich für mein Fahrrad eine Mitnahmegarantie im Nahverkehr?
-----------
-
-Aus Sicherheitsgründen können Sie in den Nahverkehrszügen nur begrenzt Fahrräder mitnehmen. Wir bitten Sie daher um Verständnis, dass wir Ihnen die Mitnahme Ihres Fahrrads im Nahverkehr nicht garantieren können.
-
-Vor allem an den Wochenenden und in den Sommer-Monaten können auf stark befahrenen und touristischen Strecken Züge voll besetzt sein. Tipp: Suchen Sie vor Ihrer Reise nach Alternativrouten oder weichen Sie ggfs. auf andere Tage aus.
-
-Bitte informieren Sie sich auch rechtzeitig vor Antritt Ihrer Reise zu möglichen Sperrzeiten für die Fahrradmitnahme im jeweiligen Verkehrsverbund.
-
-[Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/habe-ich-fuer-mein-fahrrad-eine-mitnahmegarantie-im-nahverkehr)
-
- Warum aktualisiert sich das Handy-Ticket meines Abos nicht?
-----------
-
-Das Handy-Ticket eines Abos wird immer für den aktuellen Kalendermonat ausgestellt. Es aktualisiert sich am Monatswechsel automatisch. Nach der Aktualisierung kann das Ticket auch ohne Internetverbindung aufgerufen werden.
-
-Aktualisiert sich Ihr Handy-Ticket nicht automatisch, prüfen Sie folgende Schritte:
-
-* Sind Sie mit einer stabilen Internetverbindung verbunden?
-* Haben Sie für die App die Einstellungen zur Hintergrundaktualisierung aktiviert?
-* Haben Sie die aktuellste App-Version der App?
-* Fügen Sie das Ticket bei Bedarf noch einmal neu hinzu.
-
-Es ist kein Login für das Hinzufügen oder Aktualisieren des Handy-Tickets erforderlich.
-
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-aktualisierung)
-
- Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?
-----------
-
-Das Handy-Ticket eines Abos (zum Beispiel Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft.
-
-Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
-
-Alternativ können Sie das Ticket in "Meine Reisen" über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
-
-Falls Sie beim Hinzufügen Probleme haben, prüfen Sie, ob Sie die aktuelle Version der App nutzen.
-
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-wird-nicht-angezeigt)
 
  Ich kann das Abo nicht als Handy-Ticket hinzufügen. Was kann ich tun?
 ----------
@@ -2791,169 +782,35 @@ Ohne E-Mail und Abonummer haben Sie folgende Möglichkeit: Gehen Sie im DB Navig
 
 ​Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie einen Screenshot und Angaben zu Ihrem genutzten Gerät über das Kontaktformular senden.
 
-* [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
-* [​ Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
-* [Weitere FAQ zum Digitalen Abo](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-zufuegen)
-
- Wie kann ich Hilfeleistungen anmelden und was ist bei angemeldeten Hilfeleistungen zu beachten?
+ Warum aktualisiert sich das Handy-Ticket meines Abos nicht?
 ----------
 
-Sie können Hilfe beim Ein-, Um- oder Aussteigen vor der Reise über die Mobilitätsservice-Zentrale anmelden. Die Anmeldung empfehlen wir so früh wie möglich. Die Hilfeleistung wird nicht automatisch mit der Ticketbuchung über bahn.de oder den DB Navigator angemeldet.
+Das Handy-Ticket eines Abos wird immer für den aktuellen Kalendermonat ausgestellt. Es aktualisiert sich am Monatswechsel automatisch. Nach der Aktualisierung kann das Ticket auch ohne Internetverbindung aufgerufen werden.
 
-* [Mehr Informationen zu Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+Aktualisiert sich Ihr Handy-Ticket nicht automatisch, prüfen Sie folgende Schritte:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfeleistungen)
+* Sind Sie mit einer stabilen Internetverbindung verbunden?
+* Haben Sie für die App die Einstellungen zur Hintergrundaktualisierung aktiviert?
+* Haben Sie die aktuellste App-Version der App?
+* Fügen Sie das Ticket bei Bedarf noch einmal neu hinzu.
 
- Was ist, wenn mein Kind während der Reise besondere Hilfe benötigt?
+Es ist kein Login für das Hinzufügen oder Aktualisieren des Handy-Tickets erforderlich.
+
+ Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?
 ----------
 
-Sollten DB Mitarbeitende während der Reise eine konkrete Gefahr für das Kind bzw. Dritte erkennen, werden sie selbstverständlich helfend tätig, indem sie beispielsweise den Kontakt zu den Eltern aufnehmen oder das Kind in die Obhut der Bundespolizei übergeben (Vgl. § 8 Abs. 2 EVO).
+Das Handy-Ticket eines Abos (zum Beispiel Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfsbeduerftige-kinder)
+Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
 
- Kann ich ein Hilfsmittel in den Zug mitnehmen?
+Alternativ können Sie das Ticket in "Meine Reisen" über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
+
+Falls Sie beim Hinzufügen Probleme haben, prüfen Sie, ob Sie die aktuelle Version der App nutzen.
+
+ Was ist mein Bahn-Account?
 ----------
 
-Ja, die Mitnahme eines Hilfsmittels im Zug ist unter Einhaltung von Maximalmaßen möglich.
-
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
-
-Die Reservierung eines Rollstuhlplatzes für ein Hilfsmittel mit den Maßen bis max. 70 cm x 120 cm und einem Gesamtwicht (reisende Person inkl. Rollstuhl) bis max. 350 kg ist bei der Ticketbuchung möglich.
-
-Wählen Sie unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B mit Rollstuhlplatz**" oder "**SBA, G, aG, H, Gl mit Rollstuhlplatz**" aus. Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
-
-Folgende Hilfsmittel sind auf dem Rollstuhlplatz zugelassen:
-
-* Manueller Rollstuhl (Gesamtgewicht reisende Person + Hilfsmittel max. 200 kg)
-* Elektro-Rollstuhl (Gesamtgewicht reisende Person + Hilfsmittel max. 350 kg)
-* Elektro-Mobil (Gesamtgewicht reisende Person + Hilfsmittel max. 350 kg)
-* nicht-faltbarer Rollator
-* Gehgestelle
-* Reha-Buggy / Reha-Kinderwagen
-* Kleine Dreiräder (weniger als 120 cm in der Länge und 70 cm in der Breite)
-* kurze Laufräder (weniger als 120 cm in der Länge)
-
-[https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026\_02\_18\_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
-
-Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben einen Schwerbehindertenausweis mit Merkzeichen B, dann wählen als Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für **alle weiteren** bei der Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich.
-
-Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
-
-**Für die Mitnahme eines Hilfsmittels, das größer als 70 cm x 120 cm ist,** wenden Sie sich für die Reservierung eines Stellplatzes bitte an die Mobilitätsservice-Zentrale.
-
-**Für die Reservierung eines Rollstuhlplatzes ohne Schwerbehindertenausweis** wenden Sie sich bitte an die Mobilitätsservice-Zentrale.
-
-* [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.2026-02-13-08-49-49.pdf)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/hilfsmittel-mitnehmen)
-
- How big can my luggage items be?
-----------
-
-The following standard dimensions were assumed when dimensioning the luggage racks and almost always fit: 700 x 500 x 300 mm (height x width x depth).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-big-can-my-luggage-items-be)
-
- How can I purchase a DB gift voucher?
-----------
-
-To buy a DB gift voucher **online**, you need to log in to your customer account. DB gift vouchers are available with a value of EUR 10, 20, 50 or 100. You can also personalise your gift voucher during the ordering process. After you have completed the purchase, you will receive the DB gift voucher as a PDF sent to your e-mail address.
-
-Alternatively, you can also buy DB gift vouchers **at DB Travel Centres or DB agencies**.
-
-It is **not possible to pay** for DB gift vouchers v**ia direct debit or using another voucher**.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-can-i-buy-a-db-gift-voucher)
-
- How do I stow my luggage on the train?
-----------
-
-**Luggage under your own seat**
-Please ensure that you can stow your luggage independently in the luggage rack or underneath the seat.
-
-**Luggage racks in the open saloon section**
-Many of our trains offer luggage racks for large suitcases in the open saloon section. These are located either near the doors or in the middle of the carriage. If you wish to keep your bag with you, place it in one of the luggage racks above your seat or, if possible, under the seat.
-
-**Luggage racks in the compartment**
-Compartments only have luggage racks above the seats. The Intercity 2 is an exception, as the small shelves above the seats are not suitable for suitcases. Additional luggage racks are provided here.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-do-i-stow-my-luggage-on-the-train)
-
- How long are DB gift vouchers valid?
-----------
-
-DB gift vouchers are valid for five years from the date of purchase.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-long-is-db-gift-voucher-valid)
-
- How much luggage can I take on the train?
-----------
-
-In addition to your hand luggage, you are allowed to carry one additional larger piece of luggage or item free of charge, provided this load can be carried by one person alone. Due to its size, it may need to be stored outside your seating area, e.g. in the nearest luggage rack. Each passenger is responsible for supervising their own luggage.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-much-luggage-can-i-take-on-the-train)
-
- How will I be refunded if I cancel a ticket purchased with a voucher?
-----------
-
-Refunds will be made to the respective means of payment used. If you paid by credit card, the refund amount will be credited back to your credit card. In the case of a bank transfer, the refund will be credited back to your bank account. If you paid with a voucher, the refund will also be made in the form of a voucher.
-
-If you paid using multiple combined means of payment, the partial amounts will be refunded to the respective means of payment.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/how-to-receive-refund-when-i-have-paid-for-a-ticket-with-voucher)
-
- What do I have to pay particular attention to with Android devices in the ICE Portal?
-----------
-
-If you are using a smartphone with the Android operating system, you will not be automatically redirected to the ICE Portal after connecting to the train wifi due to the operating system. Therefore, you must enter **"ICEportal.de**" in your browser after connecting to the wifi.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ice-portal-android)
-
- What do I have to pay particular attention to with Apple devices in the ICE Portal?
-----------
-
-The "iCloud Private Relay" function from iOS 15 is intended, among other things, to ensure anonymous browsing on the internet. On the train, however, this function prevents your device from connecting to the ICE Portal.
-
-This function should be deactivated for the duration of use of the ICE Portal. You can check whether the function is switched off under "Settings" ⇒ "Apple ID" ⇒ "iCloud" ⇒ "Private Relay".
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ice-portal-ios)
-
- Ich befinde mich in der 1. Klasse aber mir werden die Tageszeitungen im ICE Portal nicht als kostenlos angezeigt, was kann ich tun?
-----------
-
-Falls Ihnen in der 1.Klasse die Tageszeitungen nicht als kostenfreie Exemplare angeboten werden, trennen Sie ggfs. das DB WLAN und verbinden Sie sich anschließend nach einer kurzen Wartezeit erneut. Bei einem Klassenübergang im Zug kann es ggf. einige Minuten dauern, bis auch ihr Endgerät erfolgreich der 1. Klasse zugeordnet werden kann und Ihnen die Titel zum kostenfreien Download angezeigt werden. In Wagen, die 1. und 2. Klasse Bereiche haben, empfiehlt es sich ggf. kurz in den nächsten 1. Klasse Wagen zu gehen und sich dort erneut mit dem DB WLAN zu verbinden, damit Ihr Endgerät erfolgreich der 1. Klasse zugeordnet werden kann.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-befinde-mich-in-der-1-klasse-aber-mir-werden-die-tageszeitungen-nicht-als-kostenlos-angezeigt-was-kann-ich-tun)
-
- Ich benötige einzelne Statusvorteile nicht. Kann ich Sie anderen Personen übertragen?
-----------
-
-Nein, die Statusvorteile sind exklusiv für Sie als Statuskund:in. Der Umtausch in andere Statusvorteile oder die Übertragung auf andere Personen, ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-benoetige-einzelne-statusvorteile-nicht-kann-ich-sie-anderen-personen-uebertragen)
-
- Warum wird der Button “Entschädigung beantragen” nicht angezeigt?
-----------
-
-Wenn der Button "Entschädigung beantragen" bei einer Buchung nicht angezeigt wird, kann das folgende Gründe haben:
-
-* Das Reisedatum liegt in der Zukunft. Sie können erst ab dem Gültigkeitsdatum der Buchung Fahrgastrechte beantragen.
-* Sie haben bereits eine Entschädigung für diese Buchung beantragt. Eine erneute Beantragung ist nicht möglich.
-* Ihre Fahrkarte wurde storniert. Daher können keine Fahrgastrechte beantragt werden.
-* Die Antragsfrist wurde überschritten. Sie können Ansprüche nur bis spätestens ein Jahr nach Ablauf der Gültigkeitsdauer der Fahrkarte geltend machen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-bin-im-kundenkonto-eingeloggt-und-finde-keinen-button-entschaedigung-beantragen-woran-kann-das-liegen)
-
- Ich bin mit WIFIonICE verbunden aber Surfen oder Mailversand ist nicht möglich, was kann ich tun?
-----------
-
-* Deaktivieren Sie die WLAN-Funktion Ihres Endgerätes und aktivieren Sie diese wieder.
-* Verbinden Sie Ihr Endgerät erneut mit dem WLAN-Netz WIFIonICE. Nach einigen Sekunden sollte sich die Login-Seite von selbst öffnen.
-* Sollte sich die Login-Seite dennoch nicht von selbst öffnen: Bitte öffnen Sie den Browser Ihres Endgerätes, geben "login.WIFIonICE.de" in die Adresszeile ein und bestätigen mit Enter.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-bin-mit-wifioniceverbunden-aber-surfen-oder-mailversand-ist-nicht-moeglich-was-kann-ich-tun)
+Alle Informationen zum DB Kundenkonto finden Sie unter:
 
  Warum finde ich mein Abo nicht im Aboportal?
 ----------
@@ -2970,197 +827,6 @@ Erhalten Sie beim Hinzufügen eine Fehlermeldung, prüfen Sie bitte folgendes:
 3. **Wurde Ihr Abo bei einem anderen Verkehrsunternehmen abgeschlossen?**
    Über das Aboportal können nur Abos verwaltet werden, die von der DB Vertrieb GmbH betreut werden. Wenn Ihr Abo von einem anderen Verkehrsunternehmen stammt, kann es hier nicht hinzugefügt werden.
 
-* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-finde-mein-abo-im-aboportal-nicht-wie-kann-das-sein)
-
- Ich habe alle meine Statusvorteile aufgebraucht. Wann bekomme ich neue?
-----------
-
-Die Statusvorteile sind immer für Ihre individuelle Statuslaufzeit gültig. Schaffen Sie es nach Ablauf dieser Zeit erneut Ihren Status zu erreichen, beginnt Ihre Laufzeit erneut und Sie erhalten neue Codes. Erreichen Sie aber während Ihrer Statuslaufzeit die Punkteschwelle eines höheren Levels, erhalten Sie direkt dessen Vorteile.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-alle-meine-statusvorteile-aufgebraucht-wann-bekomme-ich-neue)
-
- Ich habe bereits Guthaben, dieses wird mir allerdings nicht zum Entwerten angeboten?
-----------
-
-Dies kann mehrere Gründe haben. Bitte prüfen Sie zunächst Ihr Guthaben-Konto in der App unter "Verbundtickets" und Ihren Verbund. Beachten Sie zudem, dass Sie zum Beispiel vier Fahrten für ein bestimmtes Tarifgebiet erwerben. Liegt Ihre neue Fahrt nicht innerhalb dieses Gebiets, können Sie Ihr vorhandenes Guthaben nicht für die Fahrt verwenden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-bereits-guthaben-dieses-wird-mir-allerdings-nicht-zum-entwerten-angeboten)
-
- Ich habe ein Ticket mit Sitzplatz-Reservierung gebucht. Wie finde ich im Bahnhof direkt meinen Wagen?
-----------
-
-* Öffnen Sie die App DB Navigator.
-* Gehen Sie unter "Reisen" zu Ihrer gebuchten Reise für den aktuellen Tag.
-* Klicken Sie auf die Fahrtinformationen für den jeweiligen Zug.
-* Im Tab "Wagenreihung" sehen Sie Ihren Wagen und seine voraussichtliche Position am Bahnsteig (den Gleisabschnitt).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-ein-ticket-mit-reservierung-gebucht-wie-finde-ich-direkt-meinen-wagen)
-
- Ich habe ein Ticket mit Zugbindung (z. B. Sparpreis). Darf ich bei hoher Auslastung eine andere Verbindung nehmen?
-----------
-
-Die Zugbindung gilt weiterhin. Sie dürfen mit einem zuggebundenen Ticket also keine andere Verbindung wählen.
-
-**Unser Tipp:** Reservieren Sie frühzeitig. So ist es wahrscheinlich, dass Sie Ihren Wunschplatz erhalten. Da sich die erwartete Auslastung ändern kann und bei außergewöhnlich hoher Auslastung eine Sitzplatzreservierung nicht mehr möglich ist, empfehlen wir, diese zeitnah zu buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-ein-ticket-mit-zugbindung-z-b-sparpreis-darf-ich-bei-hoher-auslastung-eine-andere-verbindung-nehmen)
-
- Ich habe eine Fahrpreisnacherhebung erhalten. Wie kann ich nachträglich meine gültige Fahrkarte vorzeigen?
-----------
-
-Sie können Ihre vergessene Fahrkarte und Berechtigungsnachweise (z.B. BahnCard oder Ausweisdokument) nachträglich vorzeigen, wenn diese zum Zeitpunkt der Kontrolle gültig waren. Beachten Sie dabei die Fristen auf dem ausgehändigten Beleg, um die Forderung auf ein Bearbeitungsentgelt zu reduzieren.
-
-Legen Sie Ihre persönlichen Reiseunterlagen im Reisezentrum oder direkt bei der Fahrpreisnacherhebung vor.
-
-Beachten Sie: Übertragbare Fahrkarten des Regionalverkehrs können im Nachhinein nicht akzeptiert werden.
-
-Details und Kontaktmöglichkeiten finden Sie hier:
-
-* [db-fn.de](https://db-fn.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-eine-fahrpreisnacherhebung-erhalten-was-jetzt)
-
- Ich habe eine falsche Verbundfahrkarte in der App gekauft. Kann ich das stornieren?
-----------
-
-Nein, denn Widerruf, Rückgabe, Umtausch und Erstattung von Handy- und Online-Tickets sind nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-eine-falsche-verbundfahrkarte-im-db-navigator-gekauft-kann-ich-das-stornieren)
-
- Ich habe für eine andere Person ein Einzelticket gekauft. Kann diese es sich auf ihrem Smartphone anzeigen lassen?
-----------
-
-Digitale Tickets, die auf bahn.de oder der App DB Navigator gebucht wurden, können in der App DB Navigator im Menüpunkt "Reisen" über das Plus-Symbol auch auf einem anderen Gerät hinzugefügt werden. Dafür benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-fuer-eine-andere-person-ein-einzelticket-gekauft-kann-diese-es-sich-auf-ihrem-smartphone-anzeigen-lassen)
-
- Ich habe mein Passwort vergessen. Wie kann ich es zurücksetzen?
-----------
-
-Besuchen Sie die [Login-Daten-Vergessen-Seite](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web). Geben Sie Ihre E-Mail-Adresse ein, mit der Sie sich registriert haben.
-
-Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihrer Login-Daten. Klicken Sie auf den Link und ändern Sie Ihr Passwort. Danach haben Sie wieder Zugang zu Ihrem DB Kundenkonto und können dort unter "Login und Sicherheit" Ihren Benutzernamen einsehen.
-
-Wurde Ihr Konto in den letzten 24 Monaten nicht genutzt, sind Ihre Kundendaten automatisch gelöscht worden. Melden Sie sich in diesem Fall bitte neu an.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mein-passwort-vergessen-wie-kann-ich-es-zuruecksetzen)
-
- Ich habe meinen Anschlusszug aufgrund einer Zugverspätung verpasst. Kann ich einen anderen Zug nutzen?
-----------
-
-**Aufhebung der Zugbindung**
-
-* Bei Verschulden der DB und einer erwarteten Verspätung von 20 Minuten oder mehr bei nationalen Reisen bzw. von 60 Minuten oder mehr bei internationalen Reisen am Zielbahnhof
-
-[**Was bedeutet aufgehobene Zugbindung**?](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
-
-**Bestätigung**
-
-Sie sollten eine schriftliche Bestätigung vom Zugpersonal oder von Mitarbeitenden an einer DB Information einholen, sofern möglich. Das ist jedoch nicht zwingend erforderlich.
-
-* [Weitere Infos zu Ihren Ansprüchen und Fahrgastrechten im Verspätungsfall](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-meinen-anschlusszug-aufgrund-einer-zugverspaetung-verpasst-kann-ich-einen-anderen-zug-nutzen)
-
- Ich habe mich neu registriert. Wo kann ich meine persönlichen Daten/meine Adresse, Zahlungsdaten hinterlegen?
-----------
-
-Bitte loggen Sie sich hierzu mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Persönliche Daten" oder "Zahlungsdaten" auf. Bitte folgen Sie dort den Anweisungen zur Ergänzung oder Änderung Ihrer Daten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mich-neu-registriert-wo-kann-ich-meine-persoenlichen-daten-hinterlege)
-
- Ich habe mit Gutschein bezahlt und möchte mein Ticket stornieren. Wie erfolgt die Gutschrift?
-----------
-
-Es wird immer so erstattet wie bezahlt wurde. Wenn Sie mit Kreditkarte bezahlen, erhalten Sie das Geld auf Ihre Kreditkarte zurück, bei Banküberweisung auf Ihr Bankkonto und als Gutschein als Gutschein.
-
-Bei einer Kombination (also z.B. Gutschein und Restsumme Kreditkarte) geht der Teil wieder auf die Kreditkarte, der abgebucht wurde, und der Teil, der als Gutschein bezahlt wurde, wird wieder als Gutschein ausbezahlt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mit-gutschein-bezahlt-und-moechte-mein-ticket-stornieren-wie-erfolgt-die-gutschrift)
-
- Ich habe eine BahnCard 25/50, aber kein DB Kundenkonto, um meine digitale BahnCard nutzen zu können.
-----------
-
-Dann können Sie sich mit Ihrer BahnCard 25/50 Nummer für ein Kundenkonto registrieren.
-
-Einfach [hier registrieren](https://www.bahn.de/buchung/bahncard-register).
-
-Zur [Schritt-für-Schritt Anleitung](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-schon-eine-bahncard-kann-ich-mich-dennoch-registrieren)
-
- Ich hatte mir ein Mehrfahrten-Ticket gekauft. Wo finde ich mein Guthaben/meine noch nicht eingelösten Tickets?
-----------
-
-Ihr Guthaben finden Sie in der App unter dem Navigationspunkt "Verbundtickets" und dann beim entsprechenden Verbund.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-hatte-mir-ein-mehrfahrten-ticket-gekauft-wo-finde-ich-mein-guthaben-meine-noch-nicht-eingeloesten-tickets)
-
- Ich kann das Netz "WIFIonICE" nicht auswählen, was kann ich tun?
-----------
-
-* Stellen Sie sicher, dass der Flugmodus Ihres Endgerätes deaktiviert ist.
-* Stellen Sie sicher, dass die mobile Datennutzung Ihres Endgerätes deaktiviert ist.
-* Stellen Sie sicher, dass die WLAN-Funktion Ihres Endgerätes aktiviert ist.
-* Können Sie das Netz WIFIonICE noch immer nicht auswählen, starten Sie bitte Ihr Endgerät neu oder versuchen Sie es mit einem anderen WLAN-fähigen Endgerät.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-kann-das-netz-wifionice-nicht-auswaehlen-was-kann-ich-tun)
-
- Ich konnte meine Reservierung nicht nutzen, kann ich diese auch im Rahmen der Fahrgastrechte einreichen?
-----------
-
-Ja, wenn reservierte Plätze nicht bereitgestellt wurden oder wegen Zugverspätung nicht genutzt werden konnten, haben Sie Anspruch auf Rückzahlung des Reservierungsentgelts. Das gilt für Sitz- und Fahrradstellplätze.
-
-**Vorgehen im digitalen Antrag im DB Kundenkonto**
-
-* Ticket zur Reise im Kundenkonto auswählen und Online-Antrag starten.
-* Bei „Verspätung unter 60 Minuten“ markieren.
-* Im nächsten Schritt „Ich konnte meine Reservierung nicht nutzen“ auswählen.
-* Den weiteren Schritten folgen.
-
-**Schriftlicher Antrag**
-
-Alternativ können Sie die Rückzahlung formlos schriftlich beantragen:
-
-DB Fernverkehr AG
-Servicecenter Fahrgastrechte
-60647 Frankfurt am Main
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-konnte-meine-reservierung-nicht-nutzen-kann-ich-diese-auch-im-rahmen-der-fahrgastrechte-einreichen)
-
- Ich möchte mein Passwort zurücksetzen und habe keine E-Mail erhalten, was kann ich tun?
-----------
-
-Sie können Ihr Passwort zurücksetzen, indem wir Ihnen einen Link per E-Mail senden.
-Wenn Sie keine E-Mail erhalten haben, gehen Sie so vor:
-
-* Prüfen Sie den Posteingang aller E-Mail-Adressen, die Sie bei uns angegeben haben.
-* Kontrollieren Sie auch Ihren Spam-Ordner.
-* Legen Sie die Absenderadresse in Ihrem E-Mail-Konto als akzeptiert fest. So vermeiden Sie, dass unsere E-Mails im Spam-Ordner landen.
-
-Sie können die E-Mail zum Zurücksetzen Ihres Passworts erneut anfordern: [Passwort zurücksetzen](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web&tab_id=6HbYCXjvCRc)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-moechte-mein-passwort-zuruecksetzen-und-habe-keine-e-mail-erhalten-was-kann-ich-tun)
-
- Ich muss aussteigen und der Film ist nicht zu Ende. Welche Möglichkeiten gibt es, den Inhalt im ICE Portal zu Ende zu schauen?
-----------
-
-Der Film kann, nach dem Ausstieg aus dem Zug, nicht zu Ende geschaut werden. Wechseln Sie lediglich zu einem anderen ICE-Zug, kann der Film im nächsten ICE natürlich weiter geschaut werden.
-
-**Hinweis:** In seltenen Fällen kann es vorkommen, dass noch nicht alle ICE-Züge mit den neuesten Inhalten beliefert wurden und die verfügbaren Film- & Serieninhalte somit in den Zügen variieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-muss-aussteigen-und-der-film-ist-nicht-zu-ende-welche-moeglichkeiten-gibt-es-den-inhalt-zu-ende-zu-schauen)
-
- Ich werde nicht automatisch auf die Log-In-Seite weitergeleitet, was kann ich tun?
-----------
-
-* Geben Sie in den Browser Ihres Endgerätes folgende Adresse ein "login.WIFIonICE.de".
-* Wenn Sie als Startseite eine https-gesicherte Seite nutzen, erscheint die Startseite nicht automatisch, da wir keine sichere Datenverbindung des Fahrgastes unterbrechen. Jedes Endgerät würde eine sogenannte "Man in the Middle"-Manipulation anzeigen. Geben Sie als Adresse "login.WIFIonICE.de" in Ihren Browser ein, damit erreichen Sie jederzeit die Landing Page. Nun sehen Sie, ob Sie noch eingeloggt sind oder sich erneut einloggen können.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-werde-nicht-automatisch-auf-die-log-in-seite-weitergeleitet-was-kann-ich-tun)
-
  Ich will im Aboportal ein weiteres Abo hinzufügen. Wie mache ich das?
 ----------
 
@@ -3169,453 +835,37 @@ Ein weiteres Abo kann einzeln hinzugefügt werden. Soweit es technisch möglich 
 1. Melden Sie sich im Aboportal an
 2. Gehen Sie auf der Startseite bzw. unter "Meine Abos" auf den Bereich "Abo hinzufügen" und führen Sie den Prozess aus. Sie benötigen für die entsprechende Abonummer, das jeweilige und die passende Postleitzahl zu dem Abo.
 
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-will-im-aboportal-ein-weiteres-abo-hinzufuegen-wie-mache-ich-das)
-
- In welchen Zügen ist Internet über WLAN verfügbar?
+ Wie melde ich mich im Aboportal an?
 ----------
 
-Das WLAN wird in der kompletten ICE-Flotte sowie aktuell in Teilen der Intercity-Flotte und in ausgewählten Regionalzügen angeboten. Nach und nach wird die gesamte Fernverkehrsflotte mit WLAN ausgestattet.
+Auf abo.bahn.de melden Sie sich mit dem Benutzernamen und Passwort Ihres Bahn-Accounts an. Hier können Sie auch einen neuen Bahn-Account anlegen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-zuegen-ist-internet-ueber-wlan-verfuegbar)
+Wenn bereits ein Abo verknüpft ist, sehen Sie dieses auf der Übersichtsseite des Aboportals.
 
- In welchen Zügen kann ich das Film & Serienangebot des ICE Portals nutzen?
+Ist noch kein Abo verknüpft oder möchten Sie über "Abo hinzufügen" einen weiteren Abovertrag hinzufügen, gehen Sie folgendermaßen vor:
+
+* Wählen den Tarif Ihres Abos (ein Verbundgebiet oder DB). Diesen finden Sie auch in Ihrer Aktivierungsmail oder auf dem Handy-Ticket.
+* Füllen Sie die Felder aus.
+
+ Ich habe nach meiner Bestellung keine Rückmeldung erhalten. Was kann ich tun?
 ----------
 
-Das Angebot ist in allen ICE-Zügen verfügbar.
+* Wenn Ihre Online-Bestellung erfolgreich angenommen wurde, erhalten Sie innerhalb weniger Minuten eine Aktivierungsmail mit der Abonummer.
+* Das Handy-Ticket ist nach Erhalt der Aktivierungsmail sofort in der App abrufbar, indem Sie es mit der Abonummer oder per Link hinzufügen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-zuegen-kann-ich-das-film-serienangebot-nutzen)
+**Sie haben keine Aktivierungsmail erhalten?**
 
- In welchen Zügen bzw. auf welchen Strecken kann ich den Komfort Check-in nutzen?
+* Prüfen Sie Ihren Spam-Ordner nach einer E-Mail von [noreply@bahn.de](mailto:noreply@bahn.de)
+* Prüfen Sie das Postfach der E-Mail-Adresse, die Sie im DB Kundenkonto angegeben haben
+* Bei einem Jobticket oder einem ermäßigten Ticket mit Nachweisprüfung erhalten Sie die Aktivierungsmail erst nach der Freigabe.
+* Kann Ihre Bestellung nicht akzeptiert werden, zum Beispiel aufgrund einer Sperre Ihres Kontos, erhalten Sie eine Ablehnungsmail.
+
+Tipp: Melden Sie sich im Aboportal auf abo.bahn.de mit dem gleichen DB Kundenkonto an, das Sie bei der Bestellung genutzt haben. Nun sehen Sie Ihr Abo, sobald es aktiviert wurde.
+
+ Was muss bei einer Monatskarte für Schüler beim Reisen mit Bus & Bahn beachtet werden?
 ----------
 
-Der Komfort Check-in ist grundsätzlich nur in Zügen der DB Fernverkehr AG und innerhalb Deutschlands gültig. Auf grenzüberschreitenden Reisen ins europäische Ausland ist der Komfort Check-in nur eingeschränkt verfügbar und Sie müssen mit einer Fahrkartenkontrolle rechnen.
-
-Ob Ihr Zug bzw. Reiseabschnitt für den Komfort Check-in freigeschaltet ist, erkennen Sie am Zusatz „Komfort Check-in verfügbar - wenn möglich bitte einchecken“ unter weitere Informationen im Reiseplan Ihrer Verbindung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-zuegen-und-strecken-ist-kci-nutzbar)
-
- In welcher Form erhalte ich meine Entschädigung?
-----------
-
-Die Entschädigung erhalten Sie als Banküberweisung auf das von Ihnen im Antrag angegebene Konto.
-
-Auf Wunsch stellen wir auch einen DB-Gutschein aus. Sie können diese Option in Ihrem Fahrgastrechteantrag entsprechend auswählen. Der Gutschein ist 3 Jahre gültig.
-
-Bei Fällen mit Erstattungsansprüchen, z.B. bei Fahrtabbruch am Startbahnhof oder bei Zusatzbelegen wie Taxiquittungen oder Hotelrechnungen, sind wir verpflichtet, eine Geldauszahlung vorzunehmen. Eine Gutscheinausgabe ist in diesen Fällen nicht möglich.
-
-* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welcher-form-erhalte-ich-meine-entschaedigung)
-
- Innerhalb welcher Frist kann ich meine fahrgastrechtlichen Ansprüche geltend machen?
-----------
-
-Die Verordnung (EU) 2021/782 sieht vor, dass Beschwerden innerhalb von **12 Monaten** nach dem Vorfall eingereicht werden müssen. Bitte machen Sie Ihre fahrgastrechtlichen Ansprüche daher innerhalb dieser Frist geltend.
-
-Bitte beachten Sie, dass einige internationale Eisenbahnverkehrsunternehmen abweichende Fristen anwenden (z.B. 3 Monate). Hier kann es dann unter Umständen zu Fristüberschreitungen und Ablehnungen kommen, wenn ein Antrag dort zu spät eingereicht wird.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/innerhalb-welcher-frist-kann-ich-meine-fahrgastrechtsansprueche-geltend-machen)
-
- Why is the wifi on the Intercity called WIFIonICE and not, for example, WIFIonIC?
-----------
-
-The wifi in the Intercity fleet is called WIFIonICE, just as it is in the ICE fleet, so you don't have to remember two different names and access variants.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/intercity-called-wifi-on-ice)
-
- Ist der Flexpreis auch für internationale Fahrten buchbar?
-----------
-
-Ja, der Flexpreis Europa ist auch für internationale Verbindungen buchbar.
-
-[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis)
-
- Ich fahre mit einer internationalen Fahrkarte aus dem Ausland nach Deutschland. Bekomme ich bei Verspätung in Deutschland eine Entschädigung?
-----------
-
-Ja. Die Fahrgastrechte gelten auch im internationalen Verkehr vom Ausland nach Deutschland. Unabhängig davon, wer die Verspätung verursacht hat, gilt: für internationale Fahrkarten: Das Eisenbahnunternehmen, das die Fahrkarte ausgegeben hat, bearbeitet den Verspätungsfall.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-fahrkarte-verspaetung-deutschland-entschaedigung)
-
- Erhalte ich auch mit einem internationalen Behindertenausweis eine Ermäßigung bei der Ticketbuchung?
-----------
-
-Nein, um bei der Ticketbuchung über bahn.de oder die App DB Navigator tarifliche Nachteilsausgleiche zu erhalten, müssen Reisende im Besitz eines deutschen Schwerbehindertenausweises (SBA) mit den Merkzeichen B und/oder G, aG, H, Gl sein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationaler-behindetenausweis-ermaessigung)
-
- Ist die Surfdauer zeitlich begrenzt?
-----------
-
-Nein, es gibt keine zeitliche Begrenzung der kostenlosen WLAN-Nutzung auf der gesamten Reise.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-die-surfdauer-zeitlich-begrenzt)
-
- Ist ein Digitales Ticket auf eine andere Person übertragbar?
-----------
-
-Nein, ein Digitales Ticket ist nicht auf eine andere Person übertragbar. Sie können Tickets, je nach Tarifbedingungen, stornieren und für eine andere Person neu buchen.
-
-* [Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-ein-online-ticket-auf-eine-andere-person-uebertragbar)
-
- Ist Internet über WLAN in den Zügen auf allen Strecken auch im Ausland verfügbar?
-----------
-
-Ja, auf allen Strecken steht das WLAN kostenlos zur Verfügung. Ohne Unterbrechung beim Grenzübertritt kann in Österreich, der Schweiz, in Frankreich, Belgien und den Niederlanden weiter wie gewohnt gesurft werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-internet-ueber-wlan-in-den-zuegen-auf-allen-strecken-auch-im-ausland-verfuegbar)
-
- Ist mein Online-Ticket auch gültig, wenn es als PDF auf dem Laptop vorgezeigt wird?
-----------
-
-Ja, Sie können dem Zugpersonal das Online-Ticket problemlos als PDF auf einem Laptop oder einem mobilen Endgerät, z. B. Tablet oder Smartphone, vorzeigen. Dass das Gerät zum Zeitpunkt der Kontrolle funktioniert, liegt in Ihrer Verantwortung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-mein-online-ticket-auch-gueltig-wenn-es-als-pdf-auf-dem-laptop-vorgezeigt-wird)
-
- Kann ich alle bahn.de Angebote mit Bonvoyo bezahlen?
-----------
-
-Sie können Bonvoyo für die Zahlung auf bahn.de und im DB Navigator generell nutzen, unabhängig davon, ob Sie eingeloggt sind oder nicht.
-
-Hier können Sie **nicht** mit **Bonvoyo** bezahlen:
-
-* im Fahrkartenshop
-* im bahn.business Portal
-
-Gutscheine können nicht mit Bonvoyo erworben werden
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-alle-angebote-mit-bonvoyo-bezahlen)
-
- Kann ich alle bahn.de Angebote mit PayPal bezahlen?
-----------
-
-Generell können Sie PayPal für die Zahlung auf bahn.de und im DB Navigator nutzen, unabhängig davon, ob Sie eingeloggt sind oder nicht.
-
-Gutscheine, die von PayPal ausgestellt wurden, können Sie nicht auf bahn.de einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-alle-bahn-de-angebote-mit-paypal-bezahlen)
-
- Kann ich als BahnCard 100 Inhaber:in auch BahnBonus Punkte sammeln?
-----------
-
-Ja, als BahnCard 100 Inhaber:in können Sie ebenfalls BahnBonus Punkte sammeln, sofern Sie zu BahnBonus angemeldet sind. Ihnen werden für den Kauf der BahnCard100, Prämien- und Statuspunkte, gutgeschrieben. Beachten Sie bitte bei Buchung den Sammelwunsch anzugeben oder das automatische Sammeln zu aktivieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-als-bahncard-100-inhaber-in-auch-bahnbonus-punkte-sammeln)
-
- Kann ich als Privatkunde ein Handy-Ticket NRW eezy für eine andere Person buchen?
-----------
-
-Ja. Dazu wählen Sie beim Ticketkauf eines beliebigen Tickets die Option "Ticket ist für mich" ab und geben die zur Personalisierung nötigen Daten der Person ein, für die das Ticket gelten soll. Alternativ können Sie die Kontaktdaten auch bequem von einem Kontakt aus Ihrem Adressbuch einfügen. Bitte beachten Sie, dass die Person einen amtlichen Lichtbildausweis (z.B. Personalausweis, Reisepass) mitzuführen hat, der auf Verlangen vorgezeigt werden muss.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-als-privatkunde-ein-handy-ticket-fuer-eine-andere-person-buchen-nrw)
-
- Kann ich an einem DB-Fahrkartenautomaten ein Ticket einen Tag früher kaufen?
-----------
-
-Ja, das können Sie. Es kann jedoch in einzelnen Verkehrsverbünden und den damit verbundenen Ticketarten zu Einschränkungen kommen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-an-einem-db-fahrkartenautomaten-ein-ticket-einen-tag-frueher-kaufen)
-
- Kann ich auch mit einer vorläufigen oder abgelaufenen BahnCard BahnBonus Punkte sammeln?
-----------
-
-Wenn Sie bei BahnBonus angemeldet sind schon. In den meisten Fällen sind vorläufige BahnCards mit einer BahnBonus Nummer verknüpft, sodass Sie in der Regel auch mit der vorläufigen BahnCard BahnBonus Punkte sammeln können. Es wird jedoch empfohlen, die genaue Information direkt beim BahnBonus Team zu erfragen, da es im Einzelfall Unterschiede geben kann.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-auch-bahnbonus-punkte-sammeln-wenn-meine-bahncard-abgelaufen-ist-oder-ich-keine-bahncard-habe)
-
- Kann ich auch BahnCard-Bestellungen sofort stornieren?
-----------
-
-Nein, eine Sofortstornierung Ihrer BahnCard-Bestellung ist nicht möglich. Das geltende Widerrufsrecht für die BahnCard 25 und 50 bleibt davon unberührt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-auch-bahncard-bestellungen-sofort-stornieren)
-
- Kann ich auch eine andere Verbindung nutzen als die, die auf dem Ticket aufgedruckt ist?
-----------
-
-Ja. Mit Flexpreis-Tickets können Sie auch andere Verbindungen an ihrem gebuchten Reisetag nutzen, solange die "via"-Stationen übereinstimmen (ansonsten ist eventuell ein Aufpreis erforderlich). Bei Bedarf können Sie Ihre Hin- bzw. Rückfahrt auch unterbrechen und am nächsten Tag fortsetzen.
-
-Nein. Bei Spar,- oder Aktionspreisen gilt Ihr Ticket nur für die aufgedruckten Züge.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-auch-eine-andere-verbindung-nutzen-als-die-die-auf-dem-ticket-aufgedruckt-ist)
-
- Kann ich auch ohne die BahnBonus App BahnBonus Punkte sammeln?
-----------
-
-Ja, das Sammeln ist auch ohne die BahnBonus App möglich. Wenn Sie über bahn.de, der DB Navigator App oder Sammelpartner, Umsätze tätigen, benötigen Sie die BahnBonus App nicht.
-
-Beachten Sie bitte, dass für Statuskunden die BahnBonus App erforderlich ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-auch-ohne-die-bahnbonus-app-statuspunkte-und-praemienpunkte-sammeln-und-einloesen)
-
- Kann ich beim Kauf von DB Produkten mehrere Gutscheine einlösen?
-----------
-
-**Storno-, Kulanz-, Fahrgastrechte-, Restwert-, Geschenkgutschein oder Geschenkkarte:**
-
-Ja, Sie können beim Kauf von DB Produkten mehrere Gutscheine einlösen.
-
-**Aktionsgutscheine:**
-
-Sie können pro Buchung nur einen Aktionsgutschein einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-beim-kauf-von-db-produkten-mehrere-gutscheine-einlosen)
-
- Welche Einstellungen und Daten der App DB Navigator bleiben bei einem Gerätewechsel erhalten?
-----------
-
-Alle über das DB Kundenkonto gebuchten Tickets, gemerkten Reisen sowie gespeicherte Ortsfavoriten sind auf einem anderen Gerät wieder abrufbar, nachdem Sie sich dort in die App DB Navigator eingeloggt haben. Ausgenommen sind Streckenfavoriten, diese müssen neu hinzugefügt werden. Außerdem müssen Abos wie das Deutschland-Ticket neu in die App geladen werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-daten-im-db-navigator-auf-ein-neues-handy-uebertragen)
-
- Kann ich den Bearbeitungsstand meines digitalen Fahrgastrechteantrags in meinem DB Kundenkonto einsehen?
-----------
-
-Nein, den Bearbeitungsstand Ihres digitalen Fahrgastrechteantrags können Sie in Ihrem DB Kundenkonto nicht einsehen.
-
-Nachdem Sie Ihren Antrag abgeschickt haben, erhalten Sie eine Antragsbestätigung mit Ihrer individuellen Fall-ID und eine Eingangsbestätigung per E-Mail (sofern gewünscht). Innerhalb eines Monats erhalten Sie in der Regel per Post oder E-Mail eine Rückmeldung zu Ihrem Antrag.
-
-In Ihrem Kundenkonto sehen Sie nur, dass ein Fahrgastrechteantrag eingereicht wurde, und finden dort auch die Fall-ID.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-den-bearbeitungsstand-meines-digitalen-fahrgastrechte-antrages-einsehen)
-
- Kann ich die DB Geschenkkarte auch für den Kauf von BahnCards einlösen?
-----------
-
-Ja, Sie können die DB Geschenkkarte auch beim Kauf von BahnCards im Bezahlvorgang mit einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-die-db-geschenkkarte-auch-fuer-den-kauf-von-bahncards-einloesen)
-
- Kann ich die DB Geschenkkarte sofort am Kauftag einlösen?
-----------
-
-Die DB Geschenkkarte ist in der Regel 24 Stunden nach dem Kauf im Supermarkt aktiviert und kann dann beim Kauf auf unserer Website oder in der App eingelöst werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-die-db-geschenkkarte-sofort-am-kauftag-einloesen)
-
- Kann ich die DB Geschenkkarte umtauschen oder erstatten lassen?
-----------
-
-Die DB Geschenkkarte ist von Umtausch und Erstattung ausgeschlossen.
-
-Umtausch und Stornierung von Fahrkarten, die mit der DB Geschenkkarte bezahlt wurden, sind abhängig von den Konditionen der Fahrkarte und nur gegen Ausgabe eines neuen Gutscheins möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-die-db-geschenkkarte-umtauschen-oder-erstatten-lassen)
-
- Kann ich die Tageszeitung oder das Magazin aus dem ICE Portal auch nach meiner Reise weiter lesen?
-----------
-
-Sie sind schon am Ziel möchten Ihre Zeitung aber gerne noch weiterlesen? Den digitalen Titel können sie als PDF ganz einfach auf ihrem Endgerät speichern und bequem in der U-Bahn oder Zuhause weiterlesen.
-
-Wählen Sie im ICE Portal einen Titel aus und klicken Sie auf "Jetzt lesen", um den ausgewählten Titel zu öffnen. In Abhängigkeit von Ihrem jeweiligen Endgerät und dessen Betriebssystem öffnet sich der Titel anschließend in einem neuen Tab im Browser oder wird automatisch heruntergeladen und direkt auf dem Gerät gespeichert. Öffnet sich der Titel wie im ersten Fall beschrieben in einem neuen Tab, empfehlen wir für ein späteres Weiterlesen den Download des Titels. Dass Öffnen/Herunterladen eines Titels kann je nach Größe des Titels und Auslastung des Zuges ggf. einige Sekunden länger dauern.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-die-tageszeitung-oder-das-magazin-auch-nach-meiner-reise-weiter-lesen)
-
- Kann ich ein Gläschen/Fläschchen im Zug erwärmen?
-----------
-
-* Im ICE-/IC-Bordrestaurant hilft das Personal beim Erwärmen von Fläschchen und Gläschen und stellt Ihnen heißes Wasser zur Verfügung.
-* Eine Thermoskanne mit heißem Wasser zusätzlich mitnehmen kann praktisch sein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ein-glaeschen-flaeschchen-erwaermen)
-
- Wie kann ich ein Hundeticket für die Bahn buchen?
-----------
-
-Geben Sie Ihre Verbindung ein und wählen Sie bei Ihrer Buchung unter "Reisende" den Reisendentyp "Hund" aus.
-
-Mit Klick auf den nachfolgenden Button "Jetzt buchen" sind ein Hund und ein Erwachsener bereits voreingestellt.
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ein-handy-ticket-fuer-meinen-hund-buchen)
-
- Kann ich ein Ticket auch per E-Mail oder WhatsApp-Messenger verschicken?
-----------
-
-Ja, Sie können die PDF-Datei, die Sie in Ihrer Buchungsbestätigungs-E-Mail finden, auch per E-Mail oder WhatsApp-Messenger verschicken.
-
-1. Aktivieren Sie beim Buchen die Option "Ticket als PDF per E-Mail erhalten".
-2. Sie erhalten eine Buchungsbestätigungs-E-Mail mit dem Ticket als PDF.
-3. Diese E-Mail können Sie weiterleiten oder das PDF via Messenger verschicken.
-
-Zusätzlich können Sie das Digitale Ticket auf einem anderen Handy in den DB Navigator laden:
-
-1. Installieren Sie die App DB Navigator auf dem anderen Handy.
-2. Tippen Sie in der App auf den Menüpunkt "Reisen".
-3. Klicken Sie auf das Plus-Symbol oben rechts.
-4. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein, um das Ticket hinzuzufügen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ein-online-ticket-per-mail-oder-whatsapp-versenden)
-
- Kann ich Filme & Serien im ICE Portal auch im Ausland schauen?
-----------
-
-Ja, Sie können die Filme & Serien in Deutschland, sowie allen Ländern, in denen es ICE-Verbindungen gibt, genießen. Dazu zählen Österreich, Frankreich, Belgien, die Niederlande, Dänemark und die Schweiz.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-filme-serien-auch-im-ausland-schauen)
-
- Kann ich für mein Fahrrad im Nahverkehr einen Stellplatz reservieren?
-----------
-
-Nein, wir bieten keine Stellplatzreservierungen für Fahrräder im Nahverkehr an.
-
-[Weitere Informationen zur Fahrradmitnahme im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nahverkehr)
-
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-fuer-mein-fahrrad-im-nahverkehr-einen-stellplatz-reservieren)
-
- Kann ich für meine Reise ins Ausland ein Digitales Ticket buchen?
-----------
-
-Für viele Ziele in Europa können Sie ein Digitales Ticket auf bahn.de und über die App DB Navigator buchen. Wenn das Ticket für Ihre ausgewählte Strecke nicht buchbar ist, erhalten Sie einen entsprechenden Hinweis.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-fuer-meine-reise-ins-ausland-ein-digitales-ticket-buchen)
-
- Kann ich irgendwo das Guthaben von Gutscheinen einsehen?
-----------
-
-Nein, diese Möglichkeit gibt es nicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-guthaben-des-gutscheins-einsehen)
-
- Kann ich Gutscheine mit Bonvoyo bezahlen?
-----------
-
-Nein, Gutscheine können nicht mit Bonvoyo bezahlt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-gutscheine-mit-bonvoyo-bezahlen)
-
- Kann ich Gutscheine mit PayPal bezahlen?
-----------
-
-Derzeit können Sie Gutscheine, die von PayPal ausgestellt wurden, nicht bei der Zahlung auf bahn.de einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-gutscheine-mit-paypal-bezahlen)
-
- Kann ich im DB Navigator Fahrradkarten und Stellplatzreservierungen buchen?
-----------
-
-Ja, Sie können im DB Navigator Fahrradkarten mit Stellplatzreservierungen buchen.
-
-Für eine Fahrradkarte und Stellplatzreservierung im Fernverkehr wählen Sie unter "Reisende, Fahrräder" einfach den Reisendentyp "Fahrrad" aus. Für Verbindungen, bei denen Sie ein Fahrrad mitnehmen können, aktivieren Sie in den "Optionen" den Regler "Fahrradmitnahme möglich".
-
-Für eine Fahrradkarte im Nahverkehr wählen Sie im App-Bereich "Buchen" unter "Tickets & Angebote" die Kachel "Regionale Angebote" und dann die passende Fahrradkarte aus. Sie können die regionalen Angebote für die Fahrradmitnahme nach Bundesländern filtern. Für Verbindungen, bei denen Sie ein Fahrrad mitnehmen können, aktivieren Sie in den "Optionen" den Regler "Fahrradmitnahme möglich".
-
-* [Zur Fahrradmitnahme-Buchung](https://www.bahn.de/angebot/zusatzticket/fahrrad)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-im-dbnavigator-fahrrad-karten-kaufen)
-
- ​​​​​​​Kann ich in der App DB Navigator ein Fahrradticket für einen Verbund kaufen?
-----------
-
-Ja, in manchen Verbünden ist das möglich. Für die Fahrradmitnahme gibt es verbundspezifische Regelungen. Informationen finden Sie beim jeweiligen Verkehrsverbund unter [Verbundtickets im DB Navigator](https://www.bahn.de/angebot/regio/verbuende) oder unter [www.bahn.de/fahrrad-nahverkehr](http://www.bahn.de/service/individuelle-reise/bahn_und_fahrrad/rad-nahverkehr).
-
-Sie können aber auch das **Fahrradtagesticket Nahverkehr** kaufen. Das gilt deutschlandweit.
-
-Wählen Sie in der App **DB Navigator** im Bereich "Buchen" bei "Tickets & Angebote" die Menükachel "Regionale Angebote" aus. Dort können Sie die "Fahradtageskarte Nahverkehr" kaufen. Die App erkennt auch, in welchem Verkehrsverbund Sie sich befinden. Tippen Sie im Bereich "Buchen" auf die Menükachel "Mein Verbund", dann bei "Weitere Informationen" auf den Link "hier". Dort finden Sie Informationen über die für in Ihrem Verkehrsverbund geltenden Regelungen - teilweise auch zur Fahrradmitnahme.
-
-Sie benötigen keine Reservierung in den Zügen der Verkehrsverbünde.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-in-der-app-db-navigator-ein-fahrradticket-fuer-einen-verbund-kaufen1)
-
- Kann ich mehrere eCoupons bei der Buchung gleichzeitig einlösen?
-----------
-
-Nein, es kann pro Buchung nur ein eCoupon eingelöst werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mehrere-ecoupons-bei-der-buchung-gleichzeitig-einloesen)
-
- Kann ich mein Online-Ticket auf andere Personen übertragen?
-----------
-
-Nein, Sie können Ihr Online-Ticket nicht auf andere Personen übertragen.
-
-Als eingeloggter "Meine Bahn"-Kunde können Sie jedoch Tickets für andere Personen buchen. Diese Tickets sind ebenfalls nicht übertragbar und gelten nur für die bei der Buchung angegebene Person (gegebenenfalls inklusive Mitfahrern).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-online-ticket-auf-andere-personen-uebertragen)
-
- Kann ich mein PDF-Ticket auch auf dem Handy im Zug vorzeigen?
-----------
-
-Ja. Zeigen Sie einfach das PDF-Dokument Ihres Tickets aus der Bestätigungsmail im Zug vor.
-
-Alternativ laden Sie das Ticket einfach in die App. Dazu klicken Sie den Link in der Bestätigungsmail, den Sie nach der Buchung erhalten haben.
-
-Sie können das Ticket im Nachhinein auch unter Angabe der Auftragsnummer unter "Tickets hinzufügen" in die App laden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-pdf-ticket-auch-auf-dem-handy-im-zug-vorzeigen)
-
- Kann ich mein Ticket in eine Brieftaschen-App (z. B. Wallet) laden?
-----------
-
-Das ist zurzeit leider nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-ticket-in-eine-brieftaschen-app-laden)
-
- Kann ich mein Ticket stornieren?
-----------
-
-Ob Sie Ihr Ticket stornieren können, hängt von dem von Ihnen gebuchten Tarif ab. Die genauen Stornierungsbedingungen finden Sie auf Ihrem Ticket.
-
-Unabhängig von den Tarifbestimmungen können Sie Ihr Ticket auf bahn.de und in der App DB Navigator innerhalb von 3 Stunden (180 Minuten) nach der Buchung vor dem ersten Geltungstag der Hinfahrt kostenfrei sofort stornieren.
-
-* [Weitere Informationen zu Umtausch und Stornierung von Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-ticket-stornieren)
-
- Kann ich mein Ticket von der 2. Klasse auf die 1. Klasse upgraden?
-----------
-
-Ja, Sie können viele 2. Klasse-Tickets im DB Fernverkehr auf die 1. Klasse upgraden.
-
-* [Weitere Informationen zum 1. Klasse-Upgrade](https://www.bahn.de/angebot/zusatzticket/erste-klasse-upgrade)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-ticket-von-der-2-klasse-auf-die-1-klasse-upgraden)
-
- Kann ich meine BahnBonus Punkte auf Punktekonten anderer Teilnehmender übertragen?
-----------
-
-Nein, eine Übertragung der Punkte auf ein BahnBonus Konto anderer Teilnehmer:innen ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahnbonus-punkte-auf-punktekonten-anderer-teilnehmender-uebertragen)
-
- Kann ich meine BahnCard 25/50 im DB Kundenkonto hinterlegen?
-----------
-
-Wenn Sie Ihre BahnCard 25/50 in Verbindung mit einem DB Kundenkonto gekauft haben, ist diese automatisch in Ihrem DB Kundenkonto hinterlegt. Alternativ können Sie eine BahnCard 25/50 auch nachträglich in Ihrem DB Kundenkonto hinterlegen. Bitte loggen Sie sich dazu ein. Im Bereich „BahnCards oder BahnBonus Cards übertragen" können Sie Ihre BahnCard 25/50 nachträglich zu Ihrem DB Kundenkonto hinzufügen. Für das Hinzufügen benötigen Sie einmalig eine PIN. Diese können Sie ebenfalls im Dialogfeld anfordern. Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard 25/50 benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahncard-im-kundenkonto-hinterlegen)
-
- Kann ich meine Bankdaten oder Identität über die Servicenummern der DB oder im Reisezentrum bestätigen?
-----------
-
-Nein. Diese Möglichkeit bieten wir nicht an.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bankdaten-oder-identitaet-auch-ueber-die-servicenummer-oder-im-reisezentrum-besaetigen)
-
- Kann ich meine Fahrgastrechte im Reisezentrum bearbeiten lassen?
-----------
-
-Bei Nichtantritt oder Abbruch der Reise am Startbahnhof wegen Verspätung, Zugausfall oder Anschlussverlust haben Sie die Möglichkeit, sich das Ticket direkt im DB Reisezentrum erstatten zu lassen und eine Auszahlung zu erhalten.
-
-In folgenden Fällen erfolgt eine Bearbeitung des Antrags ausschließlich im Servicecenter Fahrgastrechte. Ihr in einem DB Reisezentrum eingereichter Antrag wird in diese Fällen immer zur Bearbeitung an das Servicecenter Fahrgastrechte weitergeleitet und Sie erhalten von dort eine Antwort.
-
-* Sie möchten einen Antrag auf Entschädigung bei verspäteter Ankunft am Zielort stellen
-* Sie sind Inhaber einer Zeitfahrkarte (z.B. Streckenzeitkarte, BahnCard 100, Quer-durchs-Land-Ticket, Länder-Ticket oder Deutschland-Ticket)
-* Sie haben Fahrkarten für den grenzüberschreitenden Verkehr oder für ausländische Strecken, die jeweils bei der DB gekauft wurden (für die Bearbeitung der Entschädigung von Fahrkarten, die nicht von der DB ausgegeben wurden, ist immer die Bahn zuständig, welche die Fahrkarten ausgegeben hat)
-* Sie möchten die Erstattung erforderlicher Aufwendungen aufgrund einer Verspätung beantragen
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-fahrgastrechte-im-reisezentrum-bearbeiten-lassen)
+Die Schülermonatskarte gilt für Schülerinnen, Schüler und Studiernde, sofern diese eine Berechtigungskarte vorlegen können.Sie können die Monatskarte im DB Reisezentrum und online bestellen. Sie müssen aber die ausgefüllte Berechtigungskarte mit vorlegen.
 
  Kann ich meine Gruppenbuchung ändern, umbuchen oder stornieren?
 ----------
@@ -3632,1449 +882,88 @@ Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch ist eine
 
 Für den Super Sparpreis Gruppe und den Super Sparpreis Europa Gruppe ist eine Änderung und Stornierung ausgeschlossen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-gruppenbuchung-aendern-umbuchen-oder-stornieren)
-
- Kann ich meine Sitzplätze gezielt auswählen, zum Beispiel über einen Sitzplatz-Plan?
-----------
-
-Ja, bei vielen ICE-Verbindungen können Sie Ihren Wunschplatz über die grafische Sitzplatzanzeige auswählen.
-
-**So funktioniert es:**
-
-* Es öffnet sich ein graphischer Plan des Wagens.
-* Ihnen werden gemäß Ihrer Angaben (Sitzplatz-Vorlieben, Anzahl der Personen) geeignete Sitzplätze vorgeschlagen.
-* Wenn keine passenden Sitzplätze verfügbar sind, werden Ihnen Alternativplätze angeboten.
-
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-sitzplaetze-gezielt-auswaehlen)
-
- Kann ich meine Statusvorteile auch über die DB Navigator App nutzen?
-----------
-
-Nein, die Nutzung der Statusvorteile ist ausschließlich über die BahnBonus App möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-statusvorteile-auch-ueber-die-db-navigator-app-nutzen)
-
- Ich habe einen Interrail-/Eurail-Pass – kann ich meinen Fahrgastrechte-Antrag auch direkt einreichen?
-----------
-
-Ja, Ihren Fahrgastrechte-Antrag können Sie direkt an das Servicecenter Fahrgastrechte (SC FGR) stellen.
-
-**Beachten Sie Folgendes:**
-
-**Ist Ihr Zug ausgefallen oder hatte eine Verspätung ab 60 Minuten?** Dann bearbeitet Interrail/Eurail Ihren Antrag auf Entschädigung direkt. Das SC FGR leitet Ihren Antrag möglicherweise an das Support-Team von Interrail/Eurail weiter. Geben Sie Ihre E-Mail-Adresse im Antrag an, um Rückfragen zu vermeiden.
-
-Alternativ können Sie Ihre Entschädigung online bei Interrail/Eurail beantragen: <https://www.interrail.eu/de/support/delay-compensation>
-
-Sind Ihnen durch einen Zugausfall oder eine Zugverspätung **Zusatzkosten** (z.B. für ein alternatives Verkehrsmittel oder eine Übernachtung) entstanden? Dann bearbeitet das SC FGR Ihren Antrag auf Rückerstattung dieser Kosten direkt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meinen-fahrgastrechteantrag-auch-direkt-beim-servicecenter-fahrgastrechte-einreichen)
-
- Kann ich mir im DB Navigator den Fahrtverlauf des Zuges auf einer Karte anzeigen lassen?
-----------
-
-Sie können sich den Fahrtverlauf Ihres Zuges auf der Karte anzeigen lassen. Sie finden diesen in den Reisedetails bzw. Verbindungsdetails über das Kartensymbol oben rechts. Einen zweiten Einstieg , um den Fahrtverlauf auf der Karte einzusehen, finden Sie in den Reisedetails bzw. Verbindungsdetails nach Klick auf den Button "Fahrtinformationen": Klicken Sie unterhalb des Fahrtverlaufs auf den Button „Auf Karte anzeigen“.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-im-navigator-den-fahrtverlauf-des-zuges-auf-einer-karte-anzeigen-lassen)
-
- Kann ich mir im DB Navigator meinen Fußweg auf der Karte anzeigen lassen?
-----------
-
-Sie können sich den Fußweg vom aktuellen Standort zu einer auf der Karte ausgewählten Haltestelle anzeigen lassen. Über den Menübereich "Umgebung" öffnen Sie die Kartenansicht. Anschließend wählen Sie einfach die gewünschte Haltestelle aus und tippen danach auf das Personensymbol im rechten Kartenbereich. Zusätzlich finden Sie bei den Verbindungsdetails ein Kartensymbol, sofern Sie die Verbindungssuche mit Ihrem Standort oder einer Adresse gestartet haben. Klicken Sie auf das Kartensymbol und es öffnet sich die Kartenansicht mit einem eingezeichneten Fußweg.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-im-navigator-meinen-fussweg-auf-der-karte-anzeigen-lassen)
-
- Kann ich mir nachträglich BahnBonus Punkte gutschreiben lassen?
-----------
-
-Nein, es ist nicht möglich, sich BahnBonus Prämien- und Statuspunkte im Nachhinein gutschreiben zu lassen. Achten Sie daher bitte darauf, dass bei jedem Kauf der Sammelwunsch angegeben wird oder automatisches Sammeln aktiviert ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-nachtraeglich-bahnbonus-punkte-gutschreiben-lassen)
-
- Kann ich Bonvoyo für Zahlungen im Fahrkartenshop verwenden?
-----------
-
-Nein, Sie können Bonvoyo nicht für Zahlungen im Fahrkartenshop verwenden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-bonvoyo-im-fahrkartenshop-bezahlen)
-
- Kann ich noch im Zug ein Ticket kaufen?
-----------
-
-Nein, Sie können im Fernverkehr keine Tickets mehr beim Zugpersonal kaufen.
-
-Bis 10 Minuten nach Abfahrt des Zuges (z.B. ICE, IC/EC) können Sie jedoch ein Ticket über die App DB Navigator buchen, wenn die Fahrzeit zwischen Ihrem Einstiegsbahnhof und dem nächsten Haltebahnhof mehr als 10 Minuten beträgt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-noch-im-zug-ein-ticket-kaufen)
-
- Kann ich Bahnprämien auch verschenken?
-----------
-
-Bahnprämien können unterschiedliche Weitergabebedingungen haben:
-
-* Übertragbare Bahnprämien: Können verschenkt werden und berechtigen die Inhabenden zur Fahrt ohne Begleitung eines BahnBonus Teilnehmenden.
-* Prämien in Begleitung: Können für eine andere Person gebucht werden und berechtigen zu einer Fahrt in Begleitung eines BahnBonus Teilnehmenden.
-* Nicht übertragbare Bahnprämien: Sind persönlich und gelten ausschließlich für BahnBonus Teilnehmende; sie können nicht weitergegeben werden.
-* Die für die jeweilige Prämie geltende Bedingung finden Sie in der entsprechenden Prämienbeschreibung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-praemientickets-auch-verschenken)
-
- Kann ich Statuspunkte auch gegen Prämien einlösen?
-----------
-
-Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur gesammelt, um eines der 3 Statuslevel zu erreichen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-statuspunkte-auch-gegen-praemien-einloesen)
-
- Kann ich Tickets, die ich in der App DB Navigator kaufe, auch auf der Website bahn.de abrufen?
-----------
-
-Ja. Ihre gebuchten Tickets werden automatisch in Ihrem DB Kundenkonto auf bahn.de angezeigt, wenn Sie bei der Buchung in der App DB Navigator mit Ihrem DB Kundenkonto eingeloggt waren.
-
-Wenn Sie Tickets ohne Login gebucht haben, können Sie diese manuell über die Auftragssuche durch die Eingabe der Auftragsnummer und des Nachnamens der reisenden Person zu Ihrem DB Kundenkonto hinzufügen.
-
-* [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-tickets-die-ich-in-der-db-navigator-app-kaufe-auch-auf-bahn-de-abrufen)
-
- Kann ich im DB Navigator und auf bahn.de auch für eine andere Person eine Fahrkarte buchen?
-----------
-
-Ja. Sie können im DB Navigator und auf bahn.de Tickets für andere Personen buchen.
-
-**DB Navigator:**
-
-* Wählen Sie bei der Buchung im Schritt "Zahlung" bei "Reisende Person" die Option "Für eine andere Person buchen".
-* Geben Sie den Namen der reisenden Person an.
-
-**bahn.de:**
-
-* Wählen Sie bei der Buchung im Schritt "Kundendaten" bei "Für wen buchen Sie?" die Option "Für eine andere Person buchen".
-* Geben Sie den Namen der reisenden Person an.
-
-Das Ticket darf nur von der angegebenen Person genutzt werden. Ihre Zahlungsdaten bleiben unverändert. Das Ticket wird in der App gespeichert und zusätzlich an Ihre hinterlegte E-Mail-Adresse gesendet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ueber-den-db-navigator-fuer-eine-andere-person-buchen)
-
- Wie erhalte ich eine Rechnung für mein Verbundticket?
-----------
-
-Hierzu gibt es verschiedene Möglichkeiten:
-
-* In der App können Sie im jeweiligen Ticket unter "Weitere Aktionen" auf "Rechnung öffnen" klicken, um eine Rechnung anzufordern.
-* Auf der Website können Sie sich mit Ihrem Profil einloggen und unter "Meine Reisen" das gewünschte Ticket auswählen. Um die Rechnung herunterzuladen, klicken Sie anschließend auf "Rechnung erstellen".
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kaufbeleg)
-
- Was muss ich beim Komfort Check-in beachten, wenn ich meine Reservierung nicht zusammen mit dem Ticket gekauft habe?
-----------
-
-Der Komfort Check-in ist auch mit einer separat gebuchten Reservierung möglich. Klicken Sie hierfür bei der Wagen- und Sitzplatzeingabe auf „Reservierung verwenden“ und wählen die entsprechende Reservierung aus. In bestimmten Situationen müssen Sie durch die Eingabe der Reservierungsnummer (Res. Nr.) Ihre Reservierung erst laden. Sie finden diese Nummer entweder in der Bestätigungsemail oder den Reservierungsinfos (PDF).
-
-Hinweis
-Beachten Sie bei der Nutzung einer separat gebuchten Reservierung, dass die Anzahl der Reisenden auf dem Ticket, die maximal eincheckbaren Personen bestimmt. Das bedeutet, wenn Sie z.B. ein Ticket für eine Person gebucht, aber nachträglich zwei Sitzplätze reserviert haben, kann nur ein Check-in durchgeführt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kci-nicht-zusammen-mit-reservierung-gekauft)
-
- In meinem Reiseplan gibt es Änderungen, aber ich habe keine Benachrichtigung zur Reise erhalten. Warum ist das so?
-----------
-
-Benachrichtigungen zur Reise erhalten Sie frühestens 14 Tage vor Reisebeginn. Falls sich bereits vorher Änderungen ergeben, sehen Sie diese in Ihrer gemerkten oder gebuchten Reise sowie in der Reiseauskunft.
-Mit dieser Regelung möchten wir sicherstellen, dass Sie möglichst verlässliche Informationen und nur so viele Benachrichtigungen wie nötig erhalten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keine-benachrichtigung-zur-reise-erhalten)
-
- Ich erhalte die E-Mail zur Übertragung meines Abo-Handy-Tickets nicht. Was kann ich tun?
-----------
-
-Die E-Mail zur Übertragung wird an die E-Mail-Adresse der reisenden Person gesendet. Sie können Ihre E-Mail-Adresse im Aboportal unter "Meine Daten" überprüfen und selbständig ändern. Anschließend starten Sie den Prozess zur Übertragung auf Ihrem Gerät erneut und lassen sich die E-Mail erneut zusenden.
-
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keine-mail-zur-uebertragung)
-
- Was kann ich tun, wenn ich den Code zur 2-Faktor-Authentifizierung nicht generieren oder empfangen kann?
-----------
-
-Falls Sie Ersatzcodes für die 2-Faktor-Authentifizierung generiert haben, können Sie beim Login stattdessen einen Ersatzcode verwenden. Jeder Ersatzcode ist nur einmal gültig und muss sicher aufbewahrt werden.
-
-Falls Sie keine Ersatzcodes generiert haben oder keinen Zugriff auf Ihre Ersatzcodes haben, müssen Sie sich mit einer neuen E-Mail-Adresse ein neues DB Kundenkonto anlegen.
-
-Haben Sie keinen Zugriff mehr auf Ihren 2. Faktor, können wir diesen leider nicht zurücksetzen.
-
-Ein DB Kundenkonto wird automatisch gelöscht, wenn über eine gewisse Zeit keine Aktivität erfolgt ist. Eine manuelle Löschung durch den Kundenservice ist nicht möglich.
-
-Tipp: Wenn Sie dringend schnell buchen müssen, nutzen Sie am besten die "Buchung ohne Anmeldung".
-
-* [Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/technische-anliegen-web)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keinen-zugriff-mehr-auf-handy-und-2-fa-aktiviert--neues-passwort-anfordern)
-
- Can children travel free of charge to neighbouring countries?
-----------
-
-Adults with a ticket for cross-border travel to Switzerland or Austria can take a child or grandchild up to the age of 5 free of charge (i.e. the child must accompany the parent or grandparent). It is not possible to add children on the adult's ticket once the journey has started.
-
-When travelling to Switzerland or Austria, children aged 6 to 14 travel free of charge. Children must be included on the adult's ticket.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-mitnahme-ausland-en)
-
- What are the rules for travelling with children when using the City Ticket?
-----------
-
-If you are travelling with children using a City-Ticket issued with a saver or super saver fare, children pay the child fare for a single journey in the respective transport association.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-mitnahme-city-ticket-en)
-
- Wie verhält sich die kostenfreie Kindermitnahme bei Reisen in die Schweiz und nach Österreich?
-----------
-
-Bei Reisen mit einer grenzüberschreitenden Fahrkarte in die Schweiz oder nach Österreich fahren eigene Kinder oder Enkel bis einschließlich 5 Jahre kostenfrei mit, wenn sie gemeinsam mit Ihnen reisen. Ein nachträglicher Eintrag im Zug ist nicht möglich.
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kindermatnahme-schweiz-oesterreich-kinder-bis-5)
-
- Gibt es während der Fahrt mit dem DB Junior Express ein Programm für die Kinder?
-----------
-
-Während der Reise ist ein altersgerechtes Begleit- und Beschäftigungsangebot vorgesehen. Die Kinder reisen gemeinsam in der betreuten Gruppe und können während der Fahrt durch passende Aktivitäten begleitet werden, wenn sie möchten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinderprogramm-waehrend-fahrt)
-
- Die Klimaanlage im Zug ist defekt und Sie können Ihren reservierten Sitzplatz nicht einnehmen?
-----------
-
-Sie haben gegebenenfalls fahrgastrechtliche Ansprüche, wenn Sie aufgrund einer Störung der Klimaanlage bzw. gesperrter Wagen Ihren reservierten Sitzplatz nicht einnehmen oder die gebuchte 1. Klasse nicht nutzen konnten.
-
-* [Weitere Informationen zu Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/klimaanlage-sitzplatz)
-
- Können allein reisende Kinder die Vorteile des Komfort Check-in nutzen?
-----------
-
-Ja, auch Kinder ab 6 Jahren, die allein mit einem digitalen Ticket reisen, können den Komfort Check-in nutzen. Sie checken selbstständig am Platz über die DB Navigator App ein. In vielen Zügen zeigt die Belegtanzeige am Platz an, dass der Sitzplatz reserviert ist.
-
-Weitere Informationen zum [Komfort Check-in](https://www.bahn.de/service/zug/komfort-check-in)finden Sie auf bahn.de oder in der DB Navigator App.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-allein-reisende-kiner-kci-nutzen)
-
- Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
-----------
-
-Nein, alle Prämien sind nur mit BahnBonus Prämienpunkten einlösbar.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/koennen-praemien-bei-zu-wenigen-bahnbonus-praemienpunkten-per-zuzahlung-bestellt-werden)
-
- Warum werde ich trotz Komfort Check-in vom Zugpersonal kontrolliert?
-----------
-
-Trotz Komfort Check-in kann es vorkommen, dass das Zugpersonal weiterhin Ticketkontrollen durchführt, um die Gültigkeit und Richtigkeit der eingecheckten Daten zu überprüfen. Dies dient der zusätzlichen Sicherheit und der Qualitätssicherung. Mögliche Gründe für eine Kontrolle trotz Check-in können Sie der folgenden Aufstellung entnehmen.
-
-* **Sie sitzen nicht auf dem eingecheckten Sitzplatz.**
-   Der Check-in ist an Ihren Sitzplatz gebunden. Wenn Sie sich im Gang, Bistro oder auf einem anderen Platz befinden, kann das Zugpersonal Ihren Check-in nicht erkennen. Falls Sie sich umgesetzt haben, ändern Sie Ihren Sitzplatz im Reiseplan der DB Navigator App über den Button „Sitzplatz ändern“.
-* **Ihr Check-in ist noch nicht übertragen.**
-   Es kann einige Minuten dauern, bis Ihr Check-in auf dem Kontrollgerät sichtbar ist. Checken Sie sich daher möglichst direkt nach Einnahme eines freien oder von Ihnen reservierten Sitzplatzes ein.
-* **Es handelt sich um eine Stichprobenkontrolle.**
-   Das Zugpersonal ist angehalten auch bei eingecheckten Fahrgästen gelegentlich Stichprobenkontrollen durchzuführen. Zur Überprüfung wählt das System hierfür zufällig eingecheckte Sitzplätze u.a. auf Basis des Tickettyps aus. Halten Sie daher Ihr Ticket, einen Lichtbildausweis und ggf. weitere Berechtigungsnachweise wie Ihre BahnCard bereit.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kontrolle-trotz-kci)
-
- Wie erstatten wir Ihre Kosten für die Nutzung anderer Züge?
-----------
-
-**Ist Ihr Zug mindestens 20 Minuten verspätet,** können Sie einen anderen Zug nutzen. Reservierungspflichtige Züge, wie z.B. NightJets oder einige Züge ins Ausland sind hiervon ausgenommen.
-
-**Falls Sie das Verkehrsmittel wechseln wollen,** also z.B. von einem Nahverkehrszug in einen ICE, IC oder EC, müssen Sie sich dafür zunächst eine passende Fahrkarte kaufen. Anschließend können Sie sich die Kosten von uns erstatten lassen.
-
-Als Inhaberin oder Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wertmarke fahren Sie in allen Nahverkehrszügen (IRE, RE, FEX, MEX, RB und S-Bahnen) kostenfrei.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-erstattung-nutzung-andere-zuege)
-
- Was kostet das Ticket und wo ist es gültig?
-----------
-
-**Im Fernverkehr (ICE, IC und EC):**
-
-Einfache Fahrt Fernverkehr: 59,99 Euro
-Hin‑ und Rückfahrt Fernverkehr: 99,99 Euro
-
-**Im Fernverkehr (ICE, IC und EC) und Nahverkehr:**
-
-Einfache Fahrt im Fern- und Nahverkehr 81,99 Euro.
-Hin‑ und Rückfahrt im Fahrt im Fern- und Nahverkehr 143,99 Euro
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-und-gueltigkeit)
-
- Ist kostenfreie Kindermitnahme für Kinder bis 14 Jahre mit der BahnCard 100 möglich?
-----------
-
-Besitzer einer BahnCard 100 können bis zu 4 Kinder im Alter bis einschließlich 14 Jahre kostenfrei mitnehmen. Eine Sitzplatzreservierung ist jedoch kostenpflichtig.
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-kindermitnahme-bc-6-14-jahre)
-
- Reisen Kinder im Alter von 6-14 Jahren kostenfrei nach Österreich mit?
-----------
-
-Bei Reisen nach Österreich fahren Kinder im Alter von 6 bis einschließlich 14 Jahre kostenfrei mit. Sie müssen dabei ein grenzüberschreitendes Ticket lösen und die mitfahrenden Kinder müssen auf der Fahrkarte eingetragen sein.
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-kindermitnahme-oesterreich-6-14-jahre)
-
- Wie erhalte ich mit meinem Schwerbehindertenausweis eine kostenfreie Sitzplatzreservierung ohne Ticketbuchung?
-----------
-
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich selbst und eine Begleitperson (ab 6 Jahren). Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-reservierung-ohne-ticketbuchung)
-
- Wie kann ich mit Schwerbehindertenausweis für mich eine kostenfreie Sitzplatzreservierung buchen?
-----------
-
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich selbst und eine Begleitperson (ab 6 Jahren).
-
-Wählen Sie beim Ticketkauf in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B ohne Rollstuhlplatz"** aus und fügen Sie nach der Angebotsauswahl die kostenfreie Sitzplatzreservierung hinzu.
-
-Wenn Sie bei der Ticketbuchung eine weitere mitreisende Person angeben, wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
-
-Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreie-sitzplatz-reservierung-buchen)
-
- Wie kann ich mit Schwerbehindertenausweis für mich einen kostenfreien Rollstuhlplatz buchen?
-----------
-
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
-
-Wählen Sie beim Ticketkauf in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, G, aG, Gl, H mit Rollstuhlplatz**" aus. Der kostenfreie Rollstuhlplatz wird Ihnen zugewiesen.
-
-Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben einen Schwerbehindertenausweis mit Merkzeichen B, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für **alle weiteren** bei dieser Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich. Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreien-rollstuhlplatz-buchen)
-
- Wie erhalte ich mit meinem Schwerbehindertenausweis einen kostenfreien Rollstuhlplatz ohne Ticketbuchung?
-----------
-
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis und den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz. Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostenfreien-rollstuhlplatz-ohne-ticketbuchung)
-
- Was passiert im Krankheitsfall vor oder während der Reise mit dem DB Junior Express?
-----------
-
-**Krankheit vor Reisebeginn:** Damit die Gruppe gut reisen kann, ist die uneingeschränkte „Reisefähigkeit“ Bedingung. Wird Ihr Kind kurzfristig krank, darf es leider nicht mitfahren. Bitte melden Sie sich in diesem Fall umgehend bei unserer Proki Service-Hotline, damit die Reisegruppe nicht auf das Kind wartet. Eine Stornierung mit Rückerstattung ist allerding nur bis 48 Stunden vor Abfahrt möglich.
-
-**Zwischenfälle während der Fahrt:** Sollte es Ihrem Kind unterwegs wider Erwarten nicht gut gehen, stehen die pädagogisch geschulten Betreuer:innen im Austausch mit dem Back-Office. Unser Back-Office informiert in medizinischen oder anderen Notfällen umgehend die Notfallkontakte, um alles Weitere eng mit Ihnen abzustimmen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/krankheitsfall)
-
- Wie begleiche ich Forderungen bei der DB, um mein DB Kundenkonto freizuschalten?
-----------
-
-Bitte prüfen Sie zunächst Ihre Unterlagen. Wenn offene Forderungen der Deutschen Bahn zu Ihrem Namen vorliegen haben Sie hierzu eine E-Mail oder einen Brief an Ihre hinterlegten Kundendaten erhalten. Befolgen Sie die genannten Schritte in den erhaltenen Schreiben, um Ihre Forderungen zu begleichen. Nachdem Ihr DB Kundenkonto ausgeglichen ist, wird Ihr DB Kundenkonto innerhalb von wenigen Tagen freigeschaltet. Nun können Sie Ihr Abo mit Lastschrift neu bestellen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kundenkonto-ausgleich)
-
- Wie kann ich mich aus dem DB Kundenkonto ausloggen?
-----------
-
-So können Sie sich ausloggen:
-
-1. Klicken Sie rechts oben im Browser auf bahn.de auf Ihren Profilnamen.
-2. Dort finden Sie an letzter Stelle das Feld "Logout". Hier können Sie sich ausloggen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kundenkonto-logout)
-
- Für welche Länder kann ich den Sparpreis Europa Gruppe buchen?
-----------
-
-Für diese Länder können Sie das Angebot buchen: Belgien, Dänemark, Frankreich, Italien, Kroatien, Luxemburg, Niederlande, Österreich, Polen, Schweiz, Slowakei, Slowenien, Tschechien und Ungarn. **Für alle anderen Reiseziele in Europa gilt das Angebot Gruppe&Spar Europa.**
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laender-sparpreis-europa-gruppe)
-
- Für welche Länder kann ich den Super Sparpreis Europa Gruppe buchen?
-----------
-
-Für diese Länder können Sie das Angebot buchen: Belgien, Dänemark, Frankreich, Italien, Kroatien, Luxemburg, Niederlande, Österreich, Polen, Schweiz, Slowakei, Slowenien Tschechien und Ungarn. **Für alle anderen Reiseziele in Europa gilt das Angebot Gruppe&Spar Europa.**
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laender-super-sparpreis-europa-gruppe)
-
- How can I log into the ICE Portal?
-----------
-
-1. Connect your device to "**WIFIonICE**" on ICE train.
-2. On most devices, a login page will then open automatically. On this page, click to accept the General Terms and Conditions (GTC) and confirm by clicking on "Browse now for free". If you are not automatically directed to the login page, please enter "Login.WIFIonICE.de" in your browser.
-3. Once connected, you can open the ICE Portal by clicking on "Continue" on the browser page or by entering **"ICEportal.de"** in your browser.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/login)
-
- Obwohl ich mich erfolgreich einloggen konnte, erhalte ich eine Fehlermeldung bei der Buchung. Woran kann das liegen?
-----------
-
-Haben Sie in Ihrem DB Kundenkonto in Ihren persönlichen Daten (z. B. Name, Adresse) ein Sonderzeichen (z. B. $, ", griechische Buchstaben etc.) verwendet, kann es vorkommen, dass eine Buchung fehlschlägt. In diesem Fall korrigieren Sie bitte Ihre persönlichen Daten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/login-fehlermeldung)
-
- Can I take luggage on the train free of charge?
-----------
-
-Luggage such as briefcases, laptops, backpacks, suitcases, etc. can be taken along free of charge.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/luggage-for-free)
-
- Kann ich persönliche Daten, wie z.B. medizinische Hinweise oder die abholenden Personen nach Buchung noch ändern? (DB Junior Express)
-----------
-
-Servicerelevante Daten können nach Buchungsabschluss über das Back-Office des Serviceerbringers Proki Kinderevents telefonisch geändert werden. Die Hotline und Servicezeiten finden Sie in Ihrer Buchungsbestätigung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/medizinische-hinweise-abholperson)
-
- Ich brauche mehr Zeit für den Umstieg mit Gepäck und Fahrrad. Wie kann ich das bei der Buchung einplanen?
-----------
-
-Wenn Sie Ihre Bahnreise planen, können Sie vorab in der Reiseauskunft online oder in der App die Umsteigezeit anpassen.
-
-Wählen Sie bei der Abfrage der Reiseverbindung auf der Website die Umsteigezeit aus, die für Sie am angenehmsten ist (in der App unter "Optionen").
-
-[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehr-umstiegszeit-fahrrad-reiseauskunft)
-
- Wie viele DB Geschenkgutscheine kann ich bei einem Buchungsvorgang einlösen?
-----------
-
-Pro Buchung sind maximal 10 DB Geschenkgutscheine gleichzeitig einlösbar. Abweichend hiervon ist am DB Fahrkartenautomat die Anzahl nicht begrenzt. Es können hier aber nur Gutscheine mit einem maximalen Nennwert von 50 EUR und einem maximalen Gesamtwert von 150 EUR eingelöst werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehrere--einloesen)
-
- Ist es möglich mehrere Gutscheine in einem Buchungsvorgang zu kaufen?
-----------
-
-Auf [bahn.de/gutscheine](https://www.bahn.de/service/gutscheine/geschenkgutscheine) sind Gutscheine nur im eingeloggten Bereich und einzeln zu kaufen.
-
-Als Verein, Organisation oder Firma (B2B) haben Sie die Möglichkeit mehrere Gutscheine über unseren Servicedienstleister **cadooz GmbH** zu bestellen. Dieser übernimmt die gesamte Abwicklung.
-
-Dafür genügt eine einmalige Registrierung in der [Incentive Mall von cadooz](https://incentivemall.cadooz.com/mall/product.do?productNumber=5373), wo verschiedene Gutscheinkartenwerte - 10 Euro, 25 Euro, 50 Euro und 100 Euro - zur Auswahl stehen. Auch eine Kombination der Werte ist möglich.
-
-* [Mehr zu DB Geschenkgutscheinen](https://www.bahn.de/service/gutscheine/geschenkgutscheine)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehrere-gutscheine-kaufen)
-
- Ich habe für eine andere Person eine Mehrfahrtenkarte gekauft. Wie kann sie das Ticket in Ihre App laden?
-----------
-
-Die Grundkarte und somit auch das Guthaben der Mehrfahrtenkarte liegt bei der Person im Account, die die Mehrfahrtenkarte gekauft hat. Sie bucht die anstehende Fahrt in ihrem Account mit dem Namen der anderen Person. Die andere Person kann auf ihrem Smartphone in der App unter "Meine Tickets/+Ticket hinzufügen" das Ticket mit Namen des Reisenden und Auftragsnummer hinzufügen.
-
-Achtung: Mehrfahrtenkarten sind (wie ein Einzelticket) immer ab sofort gültig.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehrfahrtenkarte-dritte-restguthaben-app)
-
- Mein Gerät ist nicht mehr sicher. Wie aktiviere ich den 2. Faktor wieder?
-----------
-
-Wenn Ihr Gerät nicht mehr sicher ist, **entfernen Sie es aus der Geräteliste**.
-
-1. Melden Sie sich dazu in Ihrem DB Kundenkonto an
-2. Im Bereich “Login & Sicherheit“ entfernen Sie im Menüpunkt “2-Faktor-Authentifizierung“ unter “Geräte verwalten“ das entsprechende Gerät.
-
-Ein Gerät ist **nicht mehr sicher,** wenn es **verloren** gegangen ist, **gestohlen** wurde oder aus anderen Gründen (z.B. Verdacht auf Malware) unsicher wurde.
-
-Bei **Verlust** Ihres Geräts sollten Sie unbedingt das **Passwort Ihres DB Kundenkontos ändern**, um dieses zu schützen. Nach Änderung des Passwortes werden Sie automatisch aus allen DB Anwendungen (z.B. bahn.de und die App DB Navigator) ausgeloggt. Fremde können so nicht mehr auf Ihr DB Kundenkonto zugreifen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mein-geraet-ist-nicht-mehr-sicher)
-
- Mein Ticket ist nicht rechtzeitig per Post angekommen - was jetzt?
-----------
-
-Tickets im Postversand stellen wir innerhalb von Deutschland in 2-3 Werktagen zu. Bestellungen bis 16:00 Uhr (außer Samstag und Sonntag) werden noch am gleichen Tag gedruckt und versendet.
-
-Sollte Ihr Ticket bis zu Ihrem Reisetag nicht bei Ihnen eintreffen, ist es wie folgt geregelt:
-
-**Verbindung innerhalb Deutschlands**
-
-Handelt es sich um eine Fahrkarte für eine innerdeutsche Verbindung, lassen Sie sich vom Zugbegleitpersonal eine Fahrpreisnacherhebung ausstellen und wenden sich innerhalb von 14 Tagen an die Fahrpreisnacherhebung. Es entstehen Ihnen keine Kosten.
-
-Die Kontaktdaten finden Sie auf der vom Zugbegleiter ausgestellten Fahrpreisnacherhebung.
-
-**Verbindung im Ausland**
-
-Handelt es sich um eine Fahrkarte im internationalen Verkehr, kaufen Sie bitte ein neues Ticket. Nach der Reise senden Sie das neu gekaufte Ticket mit einem kurzen Anschreiben an unser ServiceCenter. Wir setzen uns so schnell wie möglich mit Ihnen in Verbindung.
-
-DB Fernverkehr AG
-Online-Vertrieb
-Postfach 10 01 14
-96053 Bamberg
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mein-ticket-ist-nicht-rechtzeitig-per-post-angekommen-was-jetzt)
-
- Mein Zug ist verspätet, wie kann ich in der App eine alternative Verbindung auswählen?
-----------
-
-Wenn es zu Abweichungen auf Ihrer Reise kommt, können Sie in den Reisedetails bzw. Verbindungsdetails Ihrer gebuchten oder gemerkten Reise unter "Weitere Aktionen" "Alternativen suchen". Ihnen werden dann weitere Verbindungen zu Ihrem Ziel angezeigt, deren Reiseplan Sie übernehmen können.
-
-Wichtig: Wenn Sie eine alternative Verbindung auswählen, behalten Sie Ihr ursprüngliches Ticket. Es werden ausschließlich die angezeigten Informationen im Reiseplan und die Benachrichtigungen zur Reise angepasst. Bitte prüfen Sie vorher, ob Ihr Ticket für die ausgewählte Alternative gültig ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mein-zug-ist-verspaetet-wie-kann-ich-in-der-app-eine-alternative-verbindung-auswaehlen)
-
- Was mache ich, wenn ich meine Bank über TINK oder Verimi nicht finde?
-----------
-
-Wenn Sie Ihre Bank über Online-Banking nicht finden, wählen Sie „Ohne Online Banking“ und im nächsten Schritt eine der angebotenen Bestätigungsmethoden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/meine-bank-findet-mich-nicht-ueber-tink-oder-verimi)
-
- Meine Benachrichtigungen zur Reise sind nicht mehr da. Warum?
-----------
-
-Mit dem jährlichen Fahrplanwechsel im Dezember ändern sich Verbindungen. Bestehende Benachrichtigungen zur Reise verlieren deshalb ihre Gültigkeit. Legen Sie bitte die Benachrichtigungen zur Reise für Ihre Züge neu an.
-
-Benachrichtigungen, die Sie gezielt bei Ticketkauf für eine bestimmte Reise - online, per Handy oder im Reisezentrum - angelegt haben, werden Ihnen nicht in der Übersicht gezeigt und bei Stornierung des Tickets und Beendigung der Fahrt automatisch gelöscht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/meine-benachrichtigungen-zur-reise-sind-nicht-mehr-da-warum)
-
- Meine Verbindung ist nicht buchbar. Was kann ich tun?
-----------
-
-Dies kann verschiedene technische Gründe haben.
-
-Mehrfahrtenkarten wie zum Beispiel Streifenkarten, 4er oder 10er Tickets, gelten immer ab sofort. Daher können Sie auch eine spätere Verbindung wählen und über diese das Ticket kaufen und entwerten. Im Verbund herrscht keine Verkehrsmittelbindung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/meine-verbindung-ist-nicht-buchbar-was-kann-ich-tun)
-
- Kann ich mit Apple Pay bezahlen, wenn ich eine Girokarte in meiner Apple Wallet hinterlegt habe?
-----------
-
-Nein. Mit Apple Pay können Sie bei uns nur bezahlen, wenn Sie eine Debit- oder Kreditkarte hinterlegt haben
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-apple-pay-zahlen-wenn-girokarte-im-wallet)
-
- Mit welchen Betriebssystem Versionen kann ich den DB Navigator nutzen?
-----------
-
-Die App DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
-
-* Android ab Version Android 8
-* iOS ab Version iOS 15
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-welchen-betriebssystem-versionen-kann-ich-den-db-navigator-nutzen)
-
- Mit welchen Geräten kann ich im ICE Portal Zeitungen und Magazine herunterladen und lesen?
-----------
-
-Mit allen internetfähigen Geräten, über die ein PDF heruntergeladen werden kann, wie zum Beispiel Tablets, Smartphone und Laptops.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-welchen-geraeten-kann-ich-zeitungen-und-magazine-herunterladen-und-lesen)
-
- Mit welcher Geschwindigkeit kann ich im Zug surfen?
-----------
-
-Die Surf-Geschwindigkeit ist abhängig von der Verbindung zwischen den Zügen und Mobilfunknetzen sowie der Anzahl der Mitreisenden, die gleichzeitig im Zug online sind. Darüber hinaus variiert die Surf-Geschwindigkeit je nach Technologie des Gerätes und je nachdem, welche Mobilfunknetze entlang der Strecke von unserem System erreichbar sind. Die Surf-Geschwindigkeit kann unter dem liegen, was Sie von zuhause kennen.
-Verzichten Sie bitte, soweit möglich, auf bandbreitenintensive Anwendungen (z.B. App-Updates, Downloads, hochauflösenden Filme aus dem Internet, Betriebssystemupdates), um Ihr Online-Erlebnis und das Ihrer Mitreisenden zu verbessern.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-welcher-geschwindigkeit-kann-ich-im-zug-surfen)
-
- Mit wie vielen verschiedenen Geräten kann ich das WLAN gleichzeitig nutzen?
-----------
-
-Sie können mit beliebig vielen Geräten – zum Beispiel Smartphone, Tablet und Laptop – gleichzeitig das Internet im Zug nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-wie-vielen-verschiedenen-geraeten-kann-ich-das-wlan-gleichzeitig-nutzen)
-
- Darf ich mein Fahrrad mitnehmen, wenn ich ein Länder-Ticket habe?
-----------
-
-Ja, aber die Mitnahme ist nicht kostenfrei: Oft brauchen Sie zu Ihrem Länder-Ticket eine **Fahrradtageskarte** pro Fahrrad.
-
-* In einigen Verkehrsverbünden gibt es **Sperrzeiten für die Fahrradmitnahme**, um die im Berufsverkehr gefüllten Züge nicht zusätzlich zu belasten.
-* In einigen Bundesländern ist die Fahrradmitnahme in Nahverkehrszügen zu bestimmten Zeiten und auf bestimmten Strecken sogar **kostenfrei** möglich.
-* Passt Ihr Fahrrad zusammengeklappt und gut verpackt in die Gepäckablagen am Sitzplatz, können Sie es als kostenfreies Handgepäck mitnehmen.
-
-Achtung: Preise und Regelungen sind in den einzelnen Bundesländern und Verkehrsverbünden unterschiedlich. Informieren Sie sich bitte vor Ihrer Fahrt.
-
-* [Mehr unter bahn.de/fahrrad](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
-
-[Fahrradtageskarte buchen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mitnahme-fahrrad)
-
- Muss ich bei der Einlösung von Gutscheinen für eine Bahnprämie etwas beachten?
-----------
-
-In den jeweiligen Prämienbeschreibungen finden Sie alle notwendigen Informationen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-bei-der-einloesung-von-gutscheinen-fuer-eine-bahnpraemie-etwas-beachten)
-
- Muss ich bei der Kontrolle im Zug außer dem Ticket noch etwas vorzeigen?
-----------
-
-Ja, bei einem persönlichen Ticket, das auf Ihren Namen ausgestellt ist, müssen Sie ein offizielles Ausweisdokument vorzeigen.
-
-Zugelassene Ausweisdokumente:
-
-* Europäischer oder deutscher Personalausweis
-* Deutscher oder internationaler Reisepass
-* Kinderreisepass
-* Elektronischer Aufenthaltstitel
-* Bescheinigung über die Meldung Asylsuchender (BüMa)
-* BahnCard (ggf. in Verbindung mit einem Lichtbildausweis)
-
-Nicht zugelassene Dokumente:
-
-* Führerschein
-* Schülerausweis
-* Truppenausweis
-* Geburtsurkunde
-* Schwerbehindertenausweis
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-bei-der-kontrolle-im-zug-ausser-dem-ticket-noch-etwas-vorzeigen)
-
- Muss ich ein DB Kundenkonto haben, um die Benachrichtigungen zur Reise aktivieren zu können?
-----------
-
-Ja, die Benachrichtigungen zur Reise können nur dann aktiviert werden, wenn Sie die entsprechenden Verbindungen über ein "Meine Reisen"-DB Kundenkonto gebucht oder in Ihrem DB Kundenkonto hinterlegt haben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-ein-db-kundenkonto-haben-um-die-benachrichtigungen-zur-reise-aktivieren-zu-koennen)
-
- Muss ich etwas bezahlen, wenn ich einen verlorenen Gegenstand aus dem Fundbüro zurückbekomme?
-----------
-
-Ja, Sie zahlen ein Bearbeitungsentgelt, wenn Sie einen verlorenen Gegenstand aus dem Fundbüro zurückbekommen. Die Höhe hängt davon ab, wie Sie Ihren Gegenstand zurückbekommen, zu welcher **Fundsachenkategorie** er gehört und wie lange er aufbewahrt wurde.
-
-**Abholung aus der Fundstelle:**
-
-* Für Ausweis, Schlüssel, Fahrkarte, Zahlungskarte, Brille, medizinische Hilfsmittel oder Stofftier etc. (**Grundbedarf**) zahlen Sie **kein Entgelt**.
-* Für Kleidung, Einkaufstüte, kleinere Elektronik oder Sporttasche etc. (**Alltagsbedarf**) zahlen Sie **10 Euro**.
-* Für Smartphone, Geldbeutel, Laptop, Kamera, Reisekoffer, Rucksack, iPad, Tablet etc. oder Bargeldbeträge (**Wertsachen**) zahlen Sie **15 Euro**.
-
-**Direkte Abholung im zentralen Fundbüro in Wuppertal:**
-
-* Sie zahlen das Entgelt für die passende Fundkategorie (siehe oben) plus 10 Euro Bearbeitungsentgelt.
-
-**Versand per Post:**
-
-* Sie zahlen 30 Euro für Versand und Verpackung.
-* Für Sperrgut, Wunschtagzustellung oder versicherten Versand zahlen Sie zusätzliche Gebühren.
-
-**Versand aus dem zentralen Fundbüro:**
-
-* Sie zahlen 35 Euro. Das beinhaltet Versand, Verpackung und ein Bearbeitungsentgelt von 15 Euro.
-
-**Versand ins Ausland:**
-
-* Sie zahlen 20 Euro Bearbeitungsentgelt plus die Versandkosten für das Zielland.
-
-**Versand per ic:kurier:**
-
-* Sie können in dringenden Fällen IC-Kurier wählen. Buchen Sie den Versand online unter [booking.time-matters.com](https://booking.time-matters.com/de/search). Die Gebühren richten sich nach den aktuellen Tarifen von IC-Kurier.
-
-**Abweichende Regelungen für die Netze Elbe-Spree und Lausitz (DB Regio AG):**
-
-* Sie zahlen kein Bearbeitungsentgelt, wenn Sie die Fundsache aus Zügen dieser Netze aus der Fundstelle oder aus dem zentralen Fundbüro abholen.
-* Für den Versand im Netz Lausitz sind folgende Zielorte möglich: Servicestellen/Kundendialog DB Regio in Potsdam und Leipzig sowie Reisezentren Cottbus und Leipzig.
-* Für das Netz Elbe-Spree ist ein Versand an die Servicestellen/Kundendialog DB Regio in Potsdam möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-etwas-zahlen)
-
- Muss ich mich immer mit einem 2. Faktor authentifizieren?
-----------
-
-Nein, wenn Sie die 2-Faktor-Authentifizierung in Ihrem DB Kundenkonto aktiviert haben und regelmäßig mit einem vertrauenswürdigen Gerät wie Ihrem Computer oder Smartphone auf z.B. bahn.de oder die App DB Navigator zugreifen, können Sie die Abfrage des 2. Faktors beim Login überspringen.
-
-**So speichern Sie ein vertrauenswürdiges Gerät:**
-Melden Sie sich mit dem 2. Faktor an und wählen Sie “Auf diesem Gerät nicht mehr nachfragen“. Damit wird das Gerät als vertrauenswürdig gespeichert.
-
-Folgende Geräte sind nicht vertrauenswürdig und sollten immer mit einer Abfrage des 2.-Faktors genutzt werden:
-
-* öffentliche Geräte, wie z.B. Computer in Bibliotheken, Hotels oder Internetcafés
-* Geräte, die von mehreren Personen genutzt werden
-* Wenn Sie unsicher sind, ob das verwendete Gerät sicher ist (z. B. bei Verdacht auf Malware)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-immer-mit-2-faktor-authentifizieren)
-
- Muss ich mein DB Kundenkonto zwingend mit einem zweiten Authentifizierungsfaktor schützen?
-----------
-
-Die 2-Faktor-Authentifizierung ist optional. Sie aktivieren diese Funktion nur, wenn Sie das möchten.
-
-Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre DB Kundenkonto-Daten zu gewährleisten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-mein-db-kundenkonto-zwingend-mit-einem-zweiten-authentifizierungsfaktor-schuetzen)
-
- Muss ich mein Smartphone im Zug dabeihaben, um meinen Status vorweisen zu können?
-----------
-
-Ja, nur die in der BahnBonus App vorhandene, digitale BahnBonus Karte, gilt als Statusnachweis.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-mein-smartphone-im-zug-dabeihaben-um-meinen-status-vorweisen-zu-koennen)
-
- Muss ich als Geschäftsreisender privat genutzte Prämien in der Lohnsteuerbescheinigung angeben?
-----------
-
-Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
-
-Das bedeutet für Sie:
-Werden im Rahmen von BahnBonus auf geschäftlichen Reisen BahnBonus Punkte gesammelt und diese für privat genutzte Prämien eingelöst, wird der geldwerte, steuerpflichtige Vorteil übernommen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-mich-als-geschaeftsreisende-privat-genutzte-praemien-in-meiner-lohnsteuerbescheinigung-angeben)
-
- Muss ich vor der Buchung einen Login für Bonvoyo haben?
-----------
-
-Ja. Wenn Sie Bonvoyo als Zahlungsmittel auswählen, werden Sie zu Bonvoyo weitergeleitet und müssen sich dort mit einem bereits vorhandenen Account anmelden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-vor-buchung-login-bonvoyo-haben)
-
- Muss ich vor der Buchung einen Login für PayPal haben?
-----------
-
-Nein. Wenn Sie PayPal als Zahlungsmittel auswählen, werden Sie zu PayPal weitergeleitet und können sich auch erstmalig anmelden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-vor-der-buchung-einen-login-fuer-paypal-haben)
-
- Ich habe mich bereits an einem Sitzplatz eingecheckt, möchte mich aber nochmal umsetzen. Ist das möglich?
-----------
-
-Ja, Sie können einmalig Ihren Sitzplatz nach dem Komfort Check-in ändern.
-
-Öffnen Sie Ihren aktuellen Reiseplan im DB Navigator und klicken Sie auf “Sitzplatz ändern”. Geben Sie dann die neue Wagen- und Sitzplatznummer ein oder ermitteln diese mit dem QR-Code. Ergänzen Sie ggf. noch Ihre BahnCard-Nummer. Klicken Sie auf “Jetzt einchecken”. Sie sind dann auf dem neuen Sitzplatz eingecheckt.
-
-Alternativ können Sie auch über Ihren Browser [umchecken](https://www.bahn.de/web/#web).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nach-erfolgtem-kci-sitzplatzwechsel)
-
- Sie haben eine Nachricht über den Kontozugriff von Ihrer Bank erhalten?
-----------
-
-Sie erhalten diese Benachrichtigung nach dem durchgeführten Kontozugriff in Ihren Online-Banking Account.
-
-Es handelt sich um eine gesetzliche Anforderung, die für alle Kreditinstitute bindend ist. Auf den Inhalt dieser Nachricht hat die Deutsche Bahn keinen Einfluss.
-
-Bitte beachten Sie auch unsere Hinweise zu "Phishing – gemeinsam gegen Betrug im Internet!" unter [www.bahn.de/info/sonderkommunikation-phishing](https://www.bahn.de/info/sonderkommunikation-phishing)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nachricht-ueber-kontozugriff)
-
- Kann ich auch mit dem Nahverkehr das Ticket nutzen?
-----------
-
-Das DB Familienticket kann auch für eine Strecke mit Nahverkehr (SPNV) genutzt werden, solange die Kernstrecke im Fernverkehr zurückgelegt wird.
-
-In der Verbindungsauskunft kann die Gesamtstrecke angegeben werden, entsprechend ändert sich der Preis in 81,99 Euro für eine einfache Fahrt und 143,99 Euro für eine Hin- und Rückfahrt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nahverkehr-familienticket)
-
- Kann ich die Rechnungsadresse und den Namen der rechnungsempfangenden Person ändern oder umschreiben lassen?
-----------
-
-Nein. Die Rechnungsadresse und der Name der rechnungsempfangenden Person können nur einmalig angeben werden. Eine nachträgliche Änderung ist nicht möglich, auch nicht durch den Kundenservice.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/namen-des-rechnungsempfaengers-aendern)
-
- Wie kann ich im DB Navigator den Darkmode aktivieren?
-----------
-
-Das Erscheinungsbild des DB Navigators richtet sich automatisch nach den Systemeinstellungen Ihres Endgeräts. Sie können den Dark Mode auch in der App steuern und einstellen. Scrollen Sie hierzu im Menü-Punkt "Profil" nach ganz unten zu "Einstellungen". Dort wählen Sie "Erscheinungsbild" aus und stellen Dark oder Light Mode ein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/navigator-darkmode)
-
- Wie buche ich im DB Navigator eine zusätzliche Sitzplatzreservierung ohne Ticket?
-----------
-
-Um im DB Navigator nur einen Sitzplatz (ohne Ticket) zu buchen, öffnen Sie den Menubereich „Buchen“. Gehen Sie nun auf das Drop Down Menü oben links („Einfache Fahrt“) und wählen Sie anschließend „Nur Sitzplatz (ohne Ticket)“ aus. Nun können Sie wie gewohnt eine Verbindung suchen und Ihren Sitzplatz reservieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/navigator-zusaetzliche-sitzplatzreservierung-ohne-ticket)
-
- Ich habe mich neu registriert. Wie kann ich meine E-Mail-Adresse bestätigen bzw. verifizieren?
+ Wie kann ich mein Tier mit auf Reisen nehmen?
 ----------
 
-1. Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort an.
-2. In Ihrem E-Mail-Postfach finden Sie eine E-Mail mit dem Betreff "Bestätigungscode".
-3. Übertragen Sie den 6-stelligen Bestätigungscode aus der E-Mail in das Eingabefeld auf der "E-Mail-Adresse bestätigen"-Seite auf bahn.de oder DB Navigator und schließen Sie die Anmeldung ab.
+Kleine Tiere (bis zur Größe einer Hauskatze) können im Transportbehälter kostenlos mitgenommen werden. Wenn Sie ein Tier mitnehmen, das nicht im Transportbehälter als Handgepäck transportiert werden kann, also beispielsweise einen großen Hund, zahlen Sie den halben Fahrpreis - sowohl für den Flexpreis, den Normalpreis im Nahverkehr, als auch für die Sparpreise im Fernverkehr. Im Nahverkehr können Sie auch günstige Aktionsangebote (z.B. Quer-durchs-Land-Ticket, Länder-Tickets) nutzen.
+Die Transportbox muss unter den Sitz oder in die Gepäckablage über dem Sitz passen.
 
-Sollten Sie keine aktuelle E-Mail mit dem Betreff "Bestätigungscode" vorfinden, warten Sie noch einige Minuten, da sich der Versand etwas verzögern kann.
+**Buchung:**
+Fügen Sie in der Buchungsanfrage auf der Website unter "Reisende" den Reisendentyp "Hund" hinzu. Der Hund wird dann bei der Preisberechnung automatisch berücksichtigt.
 
-Falls Sie keine E-Mail mit dem Bestätigungscode erhalten haben, sehen Sie im Spam-Ordner Ihres E-Mail-Postfachs nach. Fügen Sie die Absenderadresse zur Liste der akzeptierten Absender hinzu, um künftig zu vermeiden, dass die E-Mails der Deutschen Bahn als Spam klassifiziert werden.
+**Hinweise:**
 
-Falls Sie keine E-Mail erhalten haben, prüfen Sie, ob die im Login hinterlegte E-Mail-Adresse richtig ist. Sie können die E-Mail-Adresse korrigieren.
+* Sitzplatzreservierungen sind für Hunde generell nicht möglich.
+* Für Hunde, die nicht in einem Transportbehälter reisen, besteht im Zug Leinen- und Maulkorbpflicht.
+* Blindenführ- oder Assistenzhunde müssen im Zug keinen Maulkorb tragen. Dies gilt auch für Hunde, wenn ein Schwerbehindertenausweis mit Merkzeichen „B“ vorliegt.
 
-Unter der Code-Eingabe können Sie einen neuen Bestätigungscode zu erzeugen. Nur der zuletzt erzeugte Code ist gültig.
-
-Falls der Bestätigungscode nicht mehr gültig ist, erzeugen Sie einen neuen Code.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/neu-registriert-wie-meine-e-mail-adresse-bestaetigen-verifizieren)
-
- Warum führen wir die neutrale Anrede ein?
+ Wie kann ich mein Tier ins Ausland mit auf Reisen nehmen?
 ----------
 
-Vielfalt und Toleranz bilden unverzichtbare Grundpfeiler der Unternehmensidentität der Deutschen Bahn. Unsere Mission besteht darin, in unserer Kommunikation über diverse Kanäle alle Menschen anzusprechen und ihnen die Möglichkeit zu bieten, ihre Geschlechtsidentität präziser zu beschreiben.
+Lebende Haustiere (bis zur Größe einer Hauskatze), die in einer Transportbox oder einem geeigneten Behälter wie Handgepäck untergebracht sind, können in Zügen kostenfrei mitgenommen werden. Blindenführhunde können immer kostenfrei mitgenommen werden und müssen keinen Maulkorb tragen. Hunde, die nicht in Behältnissen untergebracht werden können, müssen in Zügen an der Leine geführt werden und einen Maulkorb tragen.
 
-Die Einführung der Option "Neutrale Anrede" neben "Herr" und "Frau" in unseren Systemen ist ein Schritt in Richtung Individualität und Respekt für die Vielfalt der Geschlechtsidentitäten unserer Kund:innen.
+Fahrkarten für große Hunde auf internationalen (=grenzüberschreitenden) Fahrten kosten 50 % des Flexpreises oder Sparpreises für Erwachsende im Fernverkehr, bzw. 50 % des Normalpreises für Erwachsene im Nahverkehr. Im Nahverkehr können Sie evtl. auch günstige Aktionsangebote (z.B. Quer-durchs-Land-Ticket, Länder-Tickets) nutzen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/neutrale-anrede)
+Ausnahme: Haustiere (ausgenommen Blindenführ-und Begleithunde) sind im Verkehr von/nach Großbritannien, Nordirland, der Republik Irland und Norwegen **nicht zugelassen**.
 
- Kann ich den Komfort Check-in auch mit meiner BahnCard 100 nutzen?
-----------
+Nach Italien ist die Mitnahme von großen Hunden ausgeschlossen. Für Fahrten innerhalb der Länder können Sonderbedingungen gelten.
 
-Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich, da hierfür ein Digitales Ticket zum Flex-, Spar- oder Super Sparpreis notwendig ist.
+**Hinweise:** Sitzplatzreservierungen sind für Hunde generell nicht möglich.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-mit-bc100)
+**Buchung:** Fügen Sie bei Ihrer Online-Buchung neben dem Reisenden einen weiteren Reisenden Typ "Hund" zu.
 
- Kann ich mich auch ohne Reservierung einchecken?
+ Was kostet eine Sitzplatzreservierung im Fernverkehr?
 ----------
-
-Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken. Einfach Wagen- und Sitzplatznummer manuell eingeben und den Check-in Prozess abschließen.
-
-Alternativ können Sie für die Ermittlung der Wagen- und Sitzplatznummer wie folgt zusätzlich den QR-Code nutzen:
-
-1. Check-in im DB Navigator starten und mit Klick auf das QR-Code Icon die Kamera öffnen (ggf. müssen Sie noch der Verwendung Ihrer Kamera zustimmen)
-2. Scannen Sie den QR-Code. Den QR-Code finden Sie auf einem Aufkleber, der gewöhnlich an der Rückenlehne des Vordersitzes oder im Wandbereich des Fensters angebracht ist. Sollten auf dem Aufkleber zwei QR-Codes abgebildet sein, nutzen Sie den rechten.
-3. Die Wagen- und Sitzplatznummer wird über den QR-Code ermittelt. Klicken Sie auf den Button “Jetzt einchecken” um den Komfort Check-in abzuschließen.
 
-Lesen Sie hierzu auch
+**Einzelreservierung**
 
-* [Auf welchen Plätzen kann ich mich einchecken und was muss ich dabei beachten?](https://www.bahn.de/faq/auf-welchen-plaetzen-einchecken-kci)
+* 5,50 Euro für die 2. Klasse
+* 6,90 Euro für die 1. Klasse
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-ohne-sitzplatzreservierung)
+Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservierung inklusive.
 
- Kann ich auch ohne die BahnBonus App Prämienpunkte einlösen?
-----------
+**Gruppenreservierung**
 
-Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt auch unter [www.bahnbonus-praemienwelt.de](https://bahnbonus-praemienwelt.de/category/bahnprmien-46). Einige Bahnprämien können Sie auch direkt in der Buchungsstrecke einlösen.
+* Beim Kauf eines Gruppen-Tickets (Sparpreis Gruppe) im Preis enthalten
+* Reservierungen für Kleinkinder sind optional und können hinzu gebucht werden
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ohne-bahnbonusapp-praemienpunkte-einloesen)
-
- Was muss ich bei der Online-Buchung beachten, wenn ich eine Hilfeleistung benötige?
+ Wo gelten die Sitzplatzreservierungen?
 ----------
-
-Die Anmeldung einer *Hilfeleistung* erfolgt nicht automatisch mit der Ticketbuchung. Wenn Sie bei Ihrer Reise Unterstützung brauchen, informieren Sie sich vor der Ticketbuchung:
-
-* Über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten auf [bahnhof.de](https://www.bahnhof.de/).
-
-* Über die Ein- und Ausstiegssituation in den Zug auf bahn.de oder im DB Navigator in den Verbindungsdetails unter „Fahrtinformationen“.
-
-Alternativ können Sie sich auch and die Mobilitätsservice-Zentrale wenden**.**
-
-* [Mehr Informationen zur Mobilitätsservice-Zentrale](https://www.bahn.de/service/individuelle-reise/barrierefrei/online-buchung)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/online-buchung-wenn-hilfeleistung)
+Die Reservierungen sind gültig für einfache Fahrten inkl. aller Anschlussreservierungen. Bei reservierungspflichtigen Zügen gibt es **keine** kostenfreie Anschlussreservierung.
 
- How do I know if my order can be accepted?
+ Gibt es für kostenfrei mitreisende Kinder kostenfreie Sitzplatzreservierungen?
 ----------
 
-After you have placed your order, you will first receive a message that your order has been sent to the staff. Close the information box and wait for an update on your order on the overview page.
+Kinder bis 14 Jahren fahren in Begleitung einer Person ab 15 Jahre zwar kostenfrei - wenn sie aber einen garantierten Sitzplatz haben möchten, müssen Sie für diese eine kostenpflichtige Reservierung buchen.
 
-Keep the ICE Portal open in your browser until a message appears telling you that your order is being prepared. You can use the other services on the ICE Portal or visit other internet pages in a separate browser window while you are waiting for confirmation. You can retrieve your order summary at any time during this period.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/orders-ice-portal)
-
- Kann ich Passkeys in meinem Passwortmanager speichern?
+ Wann ist die Reservierung kostenfrei in mein Angebot integriert?
 ----------
-
-Ja. Viele moderne Passwortmanager unterstützen Passkeys und synchronisieren sie zwischen Ihren Geräten.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/passkey-im-passwortmanager-speichern)
+Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Flexpreis des Fernverkehrs (ICE, IC, EC).
 
- Wie kann ich ein Abo bestellen, wenn die Bonitätsprüfung nicht positiv war?
+ Wie funktioniert die Sitzplatzreservierung im Fernverkehr?
 ----------
 
-Für den Abschluss eines Abovertrages mit Lastschriftzahlung wird eine positive Bonitätsprüfung vorausgesetzt. Die Informationen finden Sie bei der Bestätigung Ihres SEPA-Mandates im DB Kundenkonto oder im Bestellprozess.
+Sie können für Ihre Fahrt im Fernverkehr **eine Fahrkarte mit oder ohne Sitzplatzreservierung** buchen.
 
-Wenn die Bonitätsprüfung nicht erfolgreich abgeschlossen werden kann, kann diese Person kein Vertragspartner für einen Abovertrag werden.
-
-Es besteht die Möglichkeit, dass eine Person mit positiver Bonitätsprüfung als Vertragspartner (bestellende und zahlende Person) auftritt. Dafür ist es erforderlich, dass diese Person sich mit einem eigenen DB Kundenkonto anmeldet und am Ende der Bestellung verifiziert. In der Bestellung kann im Schritt „Reisende Person“ die Person, die das Ticket nutzen wird, eingetragen werden (sowohl bei Handyticket als auch Chipkarten). Die Daten der reisenden Person unterliegen nicht der Bonitätsprüfung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/positiv-bonitaet)
-
- Wie buche ich eine kostenpflichtige Sitzplatzreservierung zu meiner Prämie 1. Klasse Upgrade?
-----------
+**So fügen Sie eine Sitzplatzreservierung hinzu:**
 
-Ihre Sitzplatzreservierung buchen Sie in einem separaten Buchungsvorgang
+* **Während der Buchung:** Unter "Zusatzoptionen" können Sie bei der Buchung eine Sitzplatzreservierung hinzufügen. Mit der "grafischen Sitzplatzanzeige" können Sie Ihre Wunschplätze direkt auswählen und reservieren.
+* **Ohne Ticketkauf:** Sie können auch einen Sitzplatz ohne Fahrkarte reservieren.
 
-Über die Website bahn.de:
+**Über die Website bahn.de:**
 
-1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
+1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
 2. Klicken Sie auf "Nur Sitzplatz buchen".
 
-Über die App DB Navigator:
+Über die **App DB Navigator:**
 
 1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
 2. Unter "Nur Reservierung" können Sie den Sitzplatz wählen.
+3. Alternativ können Sie auf der Startseite oben links im Dropdown-Menü statt "Einfache Fahrt" die Option "Nur Reservierung (Sitzplatz, Fahrrad)" auswählen und einen Sitzplatz buchen.
 
-Alternativ können Sie auf der Startseite die Suche für eine "Einfache Fahrt" auf "Nur Sitzplatz (ohne Ticket)" ändern.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-1klasseupgrade-buchen)
-
- Was passiert, wenn ich eine Prämie bestellen möchte und keine E-Mail-Adresse habe?
-----------
-
-Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-bestellen-keine-emailadresse)
-
- Kann ich bereits bestellte Prämien umtauschen, erstatten oder reklamieren?
-----------
-
-Unsere Prämien sind von Umtausch, Erstattung oder (Teil-)Auszahlung ausgeschlossen. Im Falle eines Defekts einer Sachprämie, nutzen Sie bitte unser [Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/bahnbonus-reklamation).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-umtauschen)
-
- Wie kann ich eine bereits bestellte Prämie widerrufen?
-----------
-
-Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag in Textform (z. B. Brief, E-Mail) zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemie-widerrufen)
-
- Ist bei meiner Prämie 1. Klasse Upgrade eine Sitzplatzreservierung inklusive?
-----------
-
-Nein, eine kostenfreie Sitzplatzreservierung gibt es nur beim Flexpreis in der 1. Klasse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemien-1klasseupgrade-sitzplatzreservierung)
-
- Bei der Buchung einer Bahnprämie kam es zu einem Abbruch und meine Punkte waren weg, wann werden diese wieder gutgeschrieben?
-----------
-
-Wenn Sie keine Buchungsbestätigung erhalten haben, werden die Punkte Ihrem Konto in der Regel innerhalb von 60 Minuten wieder gutgeschrieben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/praemienbestellung-abbruch)
-
- Wie verhalte ich mich bei Problemen mit dem Check-in, wenn z.B. der Check-in-Button nicht sichtbar ist oder eine Fehlermeldung angezeigt wird?
-----------
-
-Prüfen Sie zunächst, ob alle Voraussetzungen für den Komfort Check-in erfüllt sind (Siehe: „[Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?](https://www.bahn.de/faq/voraussetzungen-kci)“). Falls der Check-in weiterhin nicht verfügbar ist bzw. nicht funktioniert, kann dies verschiedene Ursachen haben. Mögliche Gründe für Probleme mit dem Check-in können Sie der folgenden Aufstellung entnehmen.
-
-* **Ticket nicht in der App:**
-   Stellen Sie sicher, dass Ihr Ticket im DB Navigator geladen ist und es sich um ein digitales Ticket handelt. Ältere Tickets oder bestimmte Ticketarten sind möglicherweise nicht kompatibel. Versuchen Sie alternativ, den Check-in über das ICE Portal oder die Webseite www.bahn.de/jetzt-einchecken.
-* **Ticket geändert oder storniert:**
-   Wenn Sie Ihr Ticket oder Ihre Reservierung geändert oder storniert haben, ist der Komfort Check-in nicht mehr möglich.
-* **Kein Internet:**
-   Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut, wenn Sie wieder eine Verbindung haben.
-* **Platz nicht verfügbar:**
-   Der Platz ist entweder reserviert, bereits von einem anderen Gast eingecheckt oder ein Sondersitzplatz. Prüfen Sie, ob ein anderer Platz verfügbar ist.
-* **Funktion (noch) nicht verfügbar:**
-   Der Komfort Check-in ist für diesen Reiseabschnitt deaktiviert oder noch nicht freigeschaltet. Im letzteren Fall warten Sie einige Minuten vor einem erneuten Check-in Versuch.
-* **Bereits kontrolliert:**
-   Wenn Ihr Ticket bereits geprüft wurde, ist der Komfort Check-in nicht mehr erforderlich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/probleme-fehlermeldung-kci)
-
- Wenn ich auf ein Ticket Rabatt bekomme, bekomme ich dann nur Punkte für den reduzierten Preis?
-----------
-
-Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-auf-reduzierter-preis)
-
- Wie viele Prämienpunkte bekomme ich in der Bordgastronomie?
-----------
-
-Sie sammeln BahnBonus Prämienpunkte auf den Kauf von allen Speisen und Getränken. Es gibt keinen Mindestwert. 1 Euro entspricht einem BahnBonus Prämienpunkt. Nachkommastellen werden auf den nächsten vollen Euro aufgerundet. Etwaige Gutscheine werden vor dem Sammeln abgezogen; Sie sammeln nur auf den tatsächlichen Zahlbetrag.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-bordgastronomie)
-
- Wie lange sind meine BahnBonus Punkte gültig?
-----------
-
-Prämienpunkte sind 3 Jahre zum Quartalsende und Statuspunkte exakt 1 Jahr gültig.
-
-Die Gültigkeitsdauer beginnt ab dem ersten Geltungstag. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie die Gültigkeit jederzeit einsehen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-gueltigkeit)
-
- Bekomme ich BahnBonus Prämienpunkte, wenn ich in der Bordgastronomie mit einem Gutschein bezahle?
-----------
-
-Zahlen Sie in der Bordgastronomie mit einem Gutschein, bekommen Sie nur Punkte auf den tatsächlichen Zahlbetrag.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-gutschein)
-
- Welche Punkte kann ich in der Bordgastronomie sammeln?
-----------
-
-Seit September 2024 können Sie beim Kauf von Speisen und Getränken in unseren Zügen mit Bordgastronomie BahnBonus Prämienpunkte sammeln. Statuspunkte können in der Bordgastronomie nicht gesammelt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-bordgastro)
-
- Wenn ich auf ein Ticket meinen BahnCard Rabatt bekomme, bekomme ich dann nur Punkte für den reduzierten Preis?
-----------
-
-Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-bahncard-und-reduziertem-ticket)
-
- Wie kann ich als Buchungsstellenverantwortliche (BV) für einen Geschäftsreisenden (GR) Bahn Bonus Punkte sammeln?
-----------
-
-Hierzu muss der Geschäftsreisende mit seinem geschäftlichen Kundenkonto bei BahnBonus angemeldet sein und das automatische Sammeln aktiviert haben. Bei privaten Reisen kann der Mitarbeitende dann seine BahnBonus Nummer bei der Buchung selbst eintragen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-mit-neuer-bahncard)
-
- Kann ich auch ohne BahnCard BahnBonus Punkte sammeln?
-----------
-
-Ja, die BahnCard ist keine Voraussetzung, um BahnBonus Punkte zu sammeln: Auch ohne die BahnCard können Sie BahnBonus Prämien- und Statuspunkte sammeln, sofern Sie zu BahnBonus angemeldet sind. Der Besitz einer BahnCard bietet Ihnen lediglich Vorteile beim Sammeln von BahnBonus Punkten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-ohne-bahncard)
-
- Wie funktioniert das Sammeln von BahnBonus Punkten mit der BahnCard?
-----------
-
-Ihre BahnCard Nummer und BahnBonus Nummer sind in einem DB Kundenkonto verknüpft und können dieselbe Sammelnummer enthalten. Das bedeutet, bei Fahrkartenkäufen mit Angabe Ihrer BahnCard Nummer, sammeln Sie gleichzeitig Prämien- und Statuspunkte. Auch beim Erwerb und bei Verlängerungen Ihrer BahnCard, werden Ihnen BahnBonus Punkte gutgeschrieben. Vorausgesetzt, der Sammelwunsch ist angegeben oder das automatische Sammeln aktiviert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-wie-mit-bahncard)
-
- Wie funktioniert der BahnBonus Sammelprozess im Bordrestaurant?
-----------
-
-Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/buchung/kundenkonto/bahnbonus) sind und die BahnBonus App heruntergeladen haben.
-
-Tippen Sie in der BahnBonus App oben rechts auf das QR-Code Symbol. Lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
-
-* [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
-* [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammelprozess)
-
- Wo kann ich sehen, wie viele Punkte ich gesammelt habe?
-----------
-
-Sie finden eine Übersicht Ihrer gesammelten Punkte in der BahnBonus App oder in Ihrem DB Kundenkonto. Bitte bedenken Sie, dass die Verbuchung einige Minuten in Anspruch nehmen kann.
-
-* [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
-* [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-stand-ansehen)
-
- Warum werden meine BahnBonus Punkte nicht gutschrieben?
-----------
-
-Um BahnBonus Prämien- und Statuspunkte zu sammeln, müssen Sie sich vorab kostenfrei anmelden. Ihre BahnBonus Prämien- und Statuspunkte werden in der Regel zum ersten Geltungstag der Fahrkarte gutgeschrieben. Eine nachträgliche Gutschrift Ihrer BahnBonus Prämien- und Statuspunkte ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-werden-nicht-gutgeschrieben)
-
- Wo finde ich den QR-Code zur automatischen Ermittlung des Wagens und des Sitzplatzes?
-----------
-
-Wenn Sie ohne Sitzplatzreservierung über die App DB Navigator einchecken, können Sie die Wagen- und Sitzplatznummer per QR-Code ermitteln.
-
-Klicken Sie hierzu auf das QR-Code Icon neben der Sitzplatzeingabe im Check-in Prozess und scannen Sie den QR-Code im Bereich Ihres Sitzplatzes. Bei Aufklebern mit zwei QR-Codes scannen Sie bitte den rechten Code. Je nach Zug und Sitzplatz variiert die Position des QR-Code Aufklebers:
-
-*Sitzplatz in einer Zweierreihe*
-
-Der QR-Code befindet sich auf der Rückenlehne des Vordersitzes oder auf der Trennscheibe vor dem Sitz.
-
-*Sitzplatz in einer Sitzgruppe*
-
-Der QR-Code befindet sich oberhalb des Tisches an der Seitenwand oder im Bereich des Fensters.
-
-*Sitzplatz in einem Abteil*
-
-Der QR-Code befindet sich hinter dem jeweiligen Sitz an der Wand oder oberhalb des Tisches an der Seitenwand bzw. im Bereich des Fensters.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/qr-code-aotomatische-wagenermittlung)
-
- Wie erhalte ich den in der 10 % Rabattaktion erworbenen DB Geschenkgutschein?
-----------
-
-Nachdem Sie den Kauf beim Vertriebspartner cadooz GmbH abgeschlossen haben, erhalten Sie eine E-Mail von versand@bahn.cadooz.de an die von Ihnen angegebene E-Mail-Adresse. Diese E-Mail enthält einen Link zum Abruf Ihres DB Geschenkgutscheines.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rabatt-erhalten)
-
- Kann ich für meine Reise ins Ausland ein Digitales Ticket im DB Reisezentrum buchen?
-----------
-
-Für viele Ziele in Europa können Sie ein Digitales Ticket im DB Reisezentrum buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reise-ausland-digitales-ticket-im-reisezentrum-buchen)
-
- Ab und bis wann kann ich ein Ticket für eine "Aktuelle Alternative" buchen?
-----------
-
-* Sie sehen aktuelle Alternativen 72 Stunden vor Abfahrt in der Reiseauskunft. Sie können die Alternativen ab dann auch als Online- oder Handy-Tickets buchen.
-* Als Flexpreis-Tickets können Sie diese auch noch bis 3 Minuten vor der geplanten Abfahrtszeit des Zuges buchen.
-* Auf den Tickets steht ein Hinweis, dass es sich um eine "Aktuelle Alternative" handelt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-ab-und-bis-wann-ticket-aktuelle-alternative-buchen)
-
- Was bedeutet "Weitere Abfahrten“ in den Verbindungsdetails?
-----------
-
-Sie können in den Verbindungsdetails und in der Reisevorschau unter "Weitere Abfahrten“ am Reisetag sehen, welche weiteren Abfahrtmöglichkeiten es im Nahverkehr zu Beginn oder am Ende Ihrer Reise gibt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-abfahrten-verbindungsdetails)
-
- Was bedeutet "Aktuelle Alternative"?
-----------
-
-* Eine aktuelle Alternative ist eine Verbindung, die es im normalen Fahrplan so nicht gibt.
-* Eine aktuelle Alternative gibt Ihnen z.B. bei Verspätungen oder Ausfällen eine Alternativ-Verbindung. Diese Verbindung soll Sie möglichst schnell und komfortabel oder überhaupt ans Ziel bringen.
-* Eine aktuelle Alternative wird beim nächsten Klick eventuell nicht mehr angezeigt, weil sich Änderungen ergeben haben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-aktuelle-alternative)
-
- Was ist ein Ersatzfahrplan?
-----------
-
-* Wir richten, wenn möglich, einen Ersatzfahrplan ein, damit Sie so schnell wie möglich an Ihr Ziel kommen
-* Einen Ersatzfahrplan gibt es bei überregionalen Einschränkungen im Zugverkehr, z. B. bei Unwetter oder Streiks.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-ersatzfahrplan)
-
- Was sind meine Fahrgastrechte?
-----------
-
-* Fern- und Regionalverkehr der Deutschen Bahn: Fahrgastrechte treten mit Basis der **bekannten Verspätung zum Buchungszeitpunkt** in Kraft. Das heißt, wenn ein (Anschluss-)Zug zum Buchungszeitpunkt bereits 60 min bekannte Verspätung hat, können hierfür keine Fahrgastrechte geltend gemacht werden.
-* Verbund: Im Verbund sind die Tickets nicht umtauschbar.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-fahrgastrechte)
-
- Was bedeutet „Datum liegt außerhalb der Fahrplanperiode.“?
-----------
-
-Werden in der Verbindungsauskunft keine Verbindungen angezeigt, liegt das gewünschte Reisedatum außerhalb des aktuellen Fahrplans. Eine Fahrplanperiode beginnt jeweils Mitte Dezember und endet Mitte Dezember des Folgejahres. Der Fahrplan für das kommende Jahr wird in der Regel Mitte Oktober veröffentlicht. Ab diesem Zeitpunkt können Sie Ihre Tickets buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-fahrplanperiode)
-
- Warum wird mir manchmal eine "Minuszeit" fürs Umsteigen angezeigt?
-----------
-
-Auf den Tickets stehen die Zeiten für Züge immer so, wie sie im Fahrplan stehen. Die Ankunfts- und Abfahrtszeit kann sich aber z.B. aufgrund von Verzögerungen ändern.
-
-Wenn sich Ihr Anschlusszug verspätet, kann es also sein, dass sie einen Anschluss trotzdem erreichen, auch wenn im Fahrplan steht, dass Sie diesen nicht erreichen können.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-minuszeit-umsteigen-angezeigt)
-
- Warum ist auf meinem Ticket nicht die tatsächliche Abfahrtszeit aufgedruckt?
-----------
-
-Die Abfahrtszeit kann sich aus verschiedenen Gründen ändern.
-
-Auf Ihrem Reiseplan in der App wird natürlich - wie bisher auch - die aktuelle Abfahrtszeit angezeigt und laufend aktualisiert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-ticket-nicht-abfahrtszeit-abgedruckt)
-
- Kann ich in der Reiseauskunft sehen, ob noch Fahrradstellplätze verfügbar sind?
-----------
-
-Ja, fügen Sie in der Buchungsanfrage neben dem Reisenden einfach ein Fahrrad hinzu, um Verbindungen mit Fahrradmitnahme angezeigt zu bekommen.
-
-Ob tatsächlich noch Stellplätze im ICE, IC- oder EC-Zug frei sind, erkennen Sie direkt am Fahrradsymbol (rotes Fahrradsymbol = Fahrradstellplätze nicht mehr verfügbar).
-
-[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-verfuegbare-fahrradstellplaetze-finden)
-
- Kann ich eine Verbindung unter "Weitere Abfahrten" einfach so nutzen?
-----------
-
-Unter "Weitere Abfahrten“ zeigen wir Ihnen in der Regel nur Verbindungen mit den gleichen Verkehrsmitteln wie in Ihrer ursprünglichen Planung an. Dadurch sollte eine Nutzung in den meisten Fällen möglich sein. Bitte prüfen Sie trotzdem, ob Ihre gebuchte Fahrkarte zu diesen Zeiten gültig ist.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-weitere-abfahrten-nutzung)
-
- Was bedeutet zum Beispiel "Zustieg in Frankfurt(Main) Hbf möglich"?
-----------
-
-Wenn der Start- oder Zielhalt Ihrer Reise ausfällt, schlagen wir Ihnen einen nahegelegenen anderen Halt zum Ein- oder Ausstieg vor. Dieser neue Start- oder Zielhalt kann sowohl vor als auch hinter Ihrem geplanten Start- oder Zielhalt liegen. Bitte beachten Sie: Ihr Ticket wird nicht automatisch geändert.
-
-Sollten sich unsere vorgeschlagenen alternativen Start- oder Zielhalte für Sie nicht eignen, können Sie über den Button "Alternativen suchen" wie gewohnt auch selbstständig nach einer passenden alternativen Verbindung suchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg)
-
- Was bedeutet es, wenn ein vorgeschlagener neuer Zustieg oder Ausstieg außerhalb meiner gebuchten Verbindung liegt?
-----------
-
-Liegt der vorgeschlagene neue Starthalt vor dem ursprünglich gebuchten Starthalt oder liegt der vorgeschlagene neue Zielhalt hinter dem ursprünglich gebuchten Zielhalt – und damit außerhalb Ihrer gebuchten Verbindung –, gelten je nach vorhandenem Ticket unterschiedliche Regelungen:
-
-* **Tickets des DB Fernverkehrs:** Tickets des DB Fernverkehrs (zum Beispiel Sparpreise) sind auch für die Strecke zwischen dem ursprünglichen und dem neuen Start- oder Zielhalt in DB Fernverkehrszügen (ICE, IC/ EC) und Nahverkehrszügen (RE, RB, IRE und S-Bahnen) gültig. Tickets mit dem Zusatz „City-Ticket“ gelten zusätzlich auch für Verkehrsmittel des ÖPNV (zum Beispiel für S-Bahnen, U-Bahnen und Busse).
-* **Tickets des Regionalverkehrs**: Bitte prüfen Sie bei Tickets des Regionalverkehrs, ob für die Fahrt zwischen dem ursprünglichen Halt und dem neuen Halt gegebenenfalls ein zusätzliches Ticket nötig ist. Es gelten die Bestimmungen Ihrer gebuchten Fahrkarte.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-zugstieg-verbindung)
-
- Kann ich einzelne Reisende beim Sparpreis Europa Gruppe stornieren?
-----------
-
-* **Bei online gebuchten Tickets** ist eine Stornierung einzelner Teilnehmer nicht möglich.
-* **Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch** ist eine Stornierung einzelner Teilnehmer möglich. Bis 14 Tage vor Reisetag ist eine Reduktion einzelner Teilnehmer unentgeltlich. Ab 13 Tage bis einen Tag vor dem 1. Geltungstag fallen 5 Euro pro zu stornierender Person je Fahrkarte an. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-sparpreis-europa-gruppe)
-
- Kann ich einzelne Reisende beim Sparpreis Gruppe stornieren?
-----------
-
-Bei einer Buchung über Ihre **DB Verkaufsstelle vor Ort oder telefonisch**
-
-* **Ja,** Sie können einzelne Teilnehmer stornieren. Bis 14 Tage vor Reisetag geht das kostenfrei. Ab 13 Tage bis einen Tag vor dem 1. Geltungstag fallen 5 Euro pro zu stornierender Person je Fahrkarte an. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen
-
-Bei einer **Online-Buchung**:
-
-* **Nein**, Sie können einzelne Teilnehmer nicht stornieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-sparpreis-gruppe)
-
- Kann ich einzelne Reisende beim Super Sparpreis Europa Gruppe stornieren?
-----------
-
-Für den Super Sparpreis Europa Gruppe ist eine Stornierung einzelner Reisender nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-europa-gruppe)
-
- Kann ich einzelne Reisende beim Super Sparpreis Gruppe stornieren?
-----------
-
-Eine Stornierung einzelner Reisender ist nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-gruppe)
-
- In welcher Reisendenkonstellation kann ich das Angebot buchen?
-----------
-
-Das DB Familienticket ist in der Kombination 1-2 Personen ab 15 Jahre plus 1-4 Kinder buchbar. Damit das Ticket in der Verbindungsauskunft angezeigt werden kann, ist mindestens 1 Person ab 15 Jahre mit einem Kind auszuwählen.
-
-Wichtig: Auch Kinder im Alter von 0-5 Jahren sollten bei der Verbindungsauskunft mit angegeben werden, damit die kostenfreie Sitzplatzreservierung mit ausgegeben werden kann.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisendenkonstellation-familienticket)
-
- Was muss ich beachten, wenn ich als Reisender im Rollstuhl mit weiteren Reisenden im Rollstuhl reisen möchte?
-----------
-
-Die Anmeldung einer Hilfeleistung erfolgt nicht automatisch mit der Buchung Ihrer Fahrkarte und der Reservierung Ihrer Rollstuhlplätze. Da jede Hilfeleistung einzeln erbracht wird, ist auch jede Hilfeleistung für den Ein- bzw. Ausstieg für jeden Reisenden einzeln anzumelden.
-
-Als Reisender im Rollstuhl ist es wichtig, dass Sie prüfen,
-
-* ob das Gleis barrierefrei erreichbar ist
-  (Informationen über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten finden Sie auf [www.bahnhof.de/](https://www.bahnhof.de/))
-* ob der Einstieg in den Zug selbständig erfolgen kann oder eine Hilfeleistung durch das Zugpersonal erfolgt,
-* ob der Einstieg in den Zug nur mit Hilfe durch das Bahnhofspersonal möglich ist.
-  (Informationen über die Ein- und Ausstiegssituation in den Zug finden Sie auf bahn.de oder im DB Navigator in den Verbindungsdetails unter "Fahrtinformationen".)
-
-**Wichtig:** Melden Sie **jede** benötigte Hilfeleistung möglichst bald nach dem Ticketkauf bei der Mobilitätsservice-Zentrale an.
-
-Alternativ können Sie für die Anmeldung Ihrer Reise und Ihres Unterstützungsbedarfs das barrierefreie Online-Formular unter msz.bahnhof.de nutzen. **Wichtig:** Wenn Sie das Online-Formular nutzen, dann geben Sie uns bitte in allen Anmeldungen unter der abschließenden Frage "Gibt es noch etwas Wichtiges, das Sie uns mitteilen möchten?" an, dass Sie in einer Gruppe reisen und die Anzahl der mitreisenden Personen.
-
-[Hier kommen Sie zum Mobilitätsservice Online](https://msz.bahnhof.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisender-rollstuhl-mit-weiteren-reisenden-rollstuhl)
-
- In welchen Zügen gibt es mit dem Flexpreis Europa eine Reservierungspflicht?
-----------
-
-In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservierung ist kostenfrei im Ticket enthalten.** Die Reservierungspflicht gilt für folgende Züge:
-
-* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille (inkl. aller Zwischenhalte)
-* Italien: Züge nach Mailand über Basel Bad Bf
-* Polen: Alle Fernverkehrszüge nach Polen
-
-Bitte beachten Sie, dass Sie in reservierungspflichtigen Zügen nicht ohne Reservierung reisen können, auch wenn Sie bereits eine Flexpreis-Fahrkarte inklusive Reservierung für einen anderen Zug haben.
-
-[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-flexpreis-europa)
-
- In welchen Zügen gibt es mit dem (Super) Sparpreis Europa eine Reservierungspflicht?
-----------
-
-In einigen Zügen ins Ausland gibt es eine Reservierungspflicht. **Die Reservierung ist dann bereits kostenfrei im Ticket enthalten.** Die Reservierungspflicht gilt für folgende Züge:
-
-* Frankreich: Hochgeschwindigkeitszüge (ICE und TGV) nach Paris und Marseille und saisonal Bordeaux (inkl. aller Zwischenhalte)
-* Italien: Züge nach Mailand über Basel Bad Bf
-* Polen: Alle Fernverkehrszüge nach Polen
-
-Bitte achten Sie darauf, dass Sie in reservierungspflichtigen Zügen nicht ohne Reservierung reisen können.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reservierungspflicht-sparpreis-europa)
-
- Kann ich einen Rollstuhlplatz online buchen?
-----------
-
-Nein, eine Buchung von Stellplätzen für Rollstühle ist derzeit noch nicht möglich. Bitte wenden Sie sich hierfür an die Mobilitätsservice-Zentrale. Beachten Sie bitte die Bedingungen für die Mitnahme eines Hilfsmittels.
-
-*
-*
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rollstuhl-platz-online-buchen)
-
- Wie lange kann ich über den Fundservice rückwirkend meine Suchanzeige online aufgeben?
-----------
-
-Sie sollten Ihre Verlustanzeige so bald wie möglich hier online aufgeben.
-
-* [Verlustmeldung Onlineformular](https://www.bahn.de/service/ueber-uns/fundservice/verlustmeldung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rueckwirkend-suchanzeige-online-aufgeben)
-
- Is it ok to place my luggage next to safety devices?
-----------
-
-Aisles, doors and safety devices such as fire extinguishers **must** remain unobstructed for your safety.
-Always follow the instructions of the on-board crew.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/safety-devices-luggage)
-
- Darf ich mein Fahrrad mitnehmen, wenn ich mit dem Schleswig-Holstein-Ticket fahre?
-----------
-
-Ja, aber die Mitnahme ist **nicht kostenfrei**: Sie brauchen zu Ihrem Schleswig-Holstein-Ticket eine **Fahrradtageskarte** pro Fahrrad.
-
-* Im HVV-Bereich (Hamburg) gibt es **Sperrzeiten für die Fahrradmitnahme,** um die im Berufsverkehr gefüllten Züge nicht zusätzlich zu belasten**.** Sperrzeiten in den U-, S-, A-Bahnen sind Montag bis Freitag 6 bis 9 Uhr und 16 bis 18 Uhr.
-* Passt Ihr Fahrrad zusammengeklappt und gut verpackt in die Gepäckablagen am Sitzplatz, können Sie es als kostenfreies Handgepäck mitnehmen.
-
-* [Mehr unter bahn.de/fahrrad](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
-
-[Fahrradtageskarte buchen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKRADD00001C201)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schleswig-holstein-ticket-mitnahme-fahrrad)
-
- Kann ich meinen Schwerbehindertenausweis im DB Kundenkonto hinterlegen?
-----------
-
-Nein, eine Hinterlegung des Schwerbehindertenausweises im DB Kundenkonto ist nicht möglich. Um Ihren Schwerbehindertenausweis anzugeben, wählen Sie diesen in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" aus.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schwerbehindertenausweis-im-kundenkonto-hinterlegen)
-
- Kann ich meinen deutschen Schwerbehindertenausweis auch beim Kauf einer Zeitkarte (Wochenkarte, Monatskarte) geltend machen?
-----------
-
-Nein, dies ist nicht möglich, da der Schwerbehindertenausweis keinen Einfluss auf den Preis Ihrer Zeitkarte oder Fahrkarte hat. Im Fernverkehr der Deutschen Bahn haben Reisende mit einem deutschen Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich selbst und eine Begleitperson (ab 6 Jahren).
-
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem deutschen Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz. Kaufen Sie sich eine Zeitkarte für den Fernverkehr, können Sie über die Mobilitätsservice-Zentrale oder das DB Reisezentrum die jeweiligen Ermäßigungen (kostenfreie Sitzplätze für Sie und Ihren Begleiter, kostenfreie Reservierung eines Rollstuhlplatzes) erhalten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schwerbehindertenausweis-kauf-zeitkarte)
-
- How secure is the wifi network on the train?
-----------
-
-The wifi network on our trains is a public network, similar to the systems used in hotels or cafes. As with any public network, it is not possible to completely protect communication against interception.
-Our wifi system includes a range of security features that make data transfer safer than in similar wifi networks in cafes and other public places. These features include client isolation, which prevents one device in the network from accessing data on another device in the same network. To ensure secure transmission, especially for sensitive data, we recommend that you use a VPN connection and only access https pages.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/secure-wifi-on-train)
-
- Darf ich den Service DB Junior Express auch für Kinder unter 6 oder über 14 Jahren buchen?
-----------
-
-Nein. DB Junior Express richtet sich an allein reisende Kinder im Alter von 6 bis 14 Jahren. Für Kinder unter 6 Jahren oder Jugendliche über 14 Jahren kann der Service nicht gebucht werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/service-fuer-kinder-unter-6-jahre)
-
- What does the ICE Portal's digital on-board catering service offer?
-----------
-
-The digital on-board catering service offers 1st class travellers on ICE trains the possibility to order food and drink to their seat digitally via the ICE Portal. You can also place your order with the 1st class service staff or visit the dining car or bistro car.
-
-Passengers in 2nd class can use the digital menu on the ICE Portal to find out about the food and drink available on the train. We are happy to take orders personally in the dining car or bistro car.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/services-ice-portal)
-
- Sind die von der Deutschen Bahn beauftragten Unternehmen für die Sicherheit beim Lastschriftverfahren zuverlässig?
-----------
-
-* Über die Zulassung der **Bundesanstalt für Finanzwesen (BaFin)** der Tink Germany GmbH und der Verimi GmbH können Sie sich in der Datenbank der BaFin unter den folgenden Verlinkungen vergewissern:
-  * [Tink Germany GmbH](https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=152149)
-  * [Verimi GmbH](https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=150296)
-
-* Beide Anbieter sind zugelassene Zahlungsinstitute, die sogenannte „fachfremde Dienstleistungen“ anbieten dürfen. Dazu gehören die angebotenen Verfahren für die Lastschrift-Verifizierung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sicherheit-beim-lastschrift-verfahren)
-
- Was, wenn etwas im DB Junior Express schief läuft?
-----------
-
-Wir wissen, dass Sie als Eltern / Erziehungsberechtigte von alleinreisenden Kindern ein **besonders hohes Sicherheitsbedürfnis** haben. Unser Service ist genau darauf ausgelegt, auch in unvorhergesehenen Situationen **absolut verlässlich** zu agieren.
-
-**Zugverspätungen & Gleiswechsel:** Unser digitales Back-Office überwacht die Fahrt kontinuierlich.
-Kommt es zu **Verzögerungen \>45 Minuten** oder anderen relevanten Abweichungen, werden der **Notfallkontakt** sowie die **Abholperson** proaktiv per E-Mail informiert. Das Wichtigste: **Die Betreuung endet erst, wenn Ihr Kind am Zielbahnhof sicher übergeben wurde** – egal, zu welcher Zeit der Zug ankommt.
-
-**Tipp:** Speichern Sie die gebuchte Verbindung im DB Navigator über **„Reise merken“** und aktivieren Sie die **Push-Benachrichtigungen**. So bleiben Sie am Reisetag immer über die aktuellen Abfahrts- und Ankunftszeiten informiert.
-
-**Ausfall des Zuges (z.B. durch Unwetter):** Sollte ein Zug komplett ausfallen und die Reise nicht durchgeführt werden können, lassen wir Sie nicht allein. Das **Betreuungsteam** und das **Zugpersonal** steuern das weitere Vorgehen. Die **Servicepauschale wird Ihnen in diesem Fall vollständig erstattet**. Für Ihr DB-Kinderticket gelten die regulären Fahrgastrechte entsprechend der erworbenen Ticketart.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sicherheitsbeduerfnis-notfallkonkakt)
-
- Was ist bei Sicherheitseinrichtungen zu beachten?
-----------
-
-Zu Ihrer eigenen Sicherheit **müssen** Gänge, Türen und Sicherheitseinrichtungen wie Feuerlöscher frei bleiben – ebenso die gekennzeichneten Stellplätze für Fahrräder und Rollstühle. Folgen Sie in jedem Fall den Anweisungen des Bordpersonals.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sicherheitseinrichtungen-und-gepaeck-zug)
-
- Sind die gesetzlichen Regelungen des Datenschutzes bei der Erstellung des Fahrgastrechte-Formulars berücksichtigt?
-----------
-
-Das Fahrgastrechte-Formular wurde mit den Datenschutzbehörden abgestimmt und entspricht den gesetzlichen Anforderungen. Es werden nur Informationen abgefragt, die für die Bearbeitung des Falles beziehungsweise die Entschädigung des Kunden benötigt werden.
-
-Personenbezogene Daten werden ausschließlich für die Bearbeitung durch das Servicecenter Fahrgastrechte erhoben. Weitergehende Informationen, wie Telefonnummer und E-Mail-Adresse sind freiwillig. Die personenbezogenen Daten werden ausschließlich für Abwicklungs- und Kontrollzwecke, sowie für die Plausibilitätsprüfung zwischen den beteiligten Unternehmen automatisiert erhoben, verarbeitet und genutzt, es sei denn, der Kunde hat der Nutzung zu Kundenbetreuungszwecken explizit zugestimmt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sind-die-gesetzlichen-regelungen-des-datenschutzes-bei-der-erstellung-des-fahrgastrechte-formulars-beruecksichtigt)
-
- Sind Digitale Tickets, die ich im Reisezentrum gekauft habe, übertragbar?
-----------
-
-Nein, Digitale Tickets sind nicht übertragbar. Die Person, auf die das Ticket ausgestellt ist, muss bei der Reise also auch tatsächlich dabei sein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sind-digitale-tickets-die-ich-im-reisezentrum-gekauft-habe-uebertragbar)
-
- Sind Digitale Tickets übertragbar?
-----------
-
-Nein, Digitale Tickets sind nicht übertragbar. Die Person, auf die das Ticket ausgestellt ist, muss bei der Reise dabei sein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sind-digitale-tickets-uebertragbar)
-
- Kann ich gezielt Sitzplätze wählen, in deren Nähe ich gut mein größeres Gepäck verstauen kann?
-----------
-
-Ja. Wenn Sie einen Sitzplatz online reservieren, können Sie im zweiten Buchungsschritt anhand der grafischen Übersicht („Wunschplatz reservieren“, Button „Sitzplatz auswählen“) gezielt einen Platz in der Nähe eines Gepäckregals auswählen. Oder suchen Sie sich in der grafischen Übersicht Sitzreihen, deren Sitzlehnen in entgegengesetzter Blickrichtung aneinander stehen – also Rücken an Rücken. Denn dort befindet sich zwischen den Sitzreihen ein Zwischenraum, in den Sie ihr Gepäck bodengleich reinschieben können. Rollkoffer legen Sie aber bitte hin, damit sie nicht während der Fahrt losrollen und andere Reisende gefährden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplaetze-waehlen-bei-gepaeck)
-
- Ist beim Flexpreis Europa eine Sitzplatzreservierung im Preis enthalten?
-----------
-
-**In jedem Fernverkehrszug können Sie kostenpflichtg einen Sitzplatz reservieren**.
-
-Bei der Buchung einer Fahrkarte für die **1. Klasse ist eine kostenfreie Reservierung in folgenden Zügen inklusive**:
-
-* In allen Fernverkehrszügen innerhalb Deutschlands.
-* In grenzüberschreitenden Fernverkehrszügen bis zu dem Bahnhof, an dem Sie im Ausland aussteigen oder umsteigen.
-
-Wenn Sie im Ausland umsteigen, bezahlen Sie für die nachfolgenden Züge in der 2. Klasse 5,50 Euro und in der 1. Klasse 6,90 Euro für die Sitzplatzreservierung.
-
-**Reservierungspflichtige Züge:**
-Für reservierungspflichtige Züge erhalten Sie Ihre Sitzplatzreservierung kostenfrei bei der Buchung der Fahrkarte. Wenn Sie die Reservierung nachträglich kaufen, zahlen Sie den Preis für die normale Sitzplatzreservierung.
-
-[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung--flexpreis-europa)
-
- Ist beim Flexpreis eine Sitzplatzreservierung im Preis enthalten?
-----------
-
-* **2. Klasse:** Die Fahrkarte enthält keine Sitzplatzreservierung. Diese können Sie zusammen mit der Fahrkarte oder später separat kaufen.
-* **1. Klasse:** In der 1. Klasse ist eine Sitzplatzreservierung automatisch beim Fahrkartenkauf inklusive.
-
-[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-flexpreis)
+Für Kundinnen und Kunden der 1. Klasse ist **beim Kauf eines Flexpreis-Tickets eine Sitzplatzreservierung automatisch enthalten.**
 
  Kann ich auch eine Sitzplatzreservierung ohne Ticket buchen?
 ----------
@@ -5102,11 +991,109 @@ Sie können auch direkt auf der Startseite der App DB Navigator oben links im Dr
 
 **Hinweis**: Die Sitzplatzreservierung wird als separater Auftrag angelegt. Falls Sie Änderungen an Ihrem Bahnticket vornehmen, werden diese nicht automatisch für die Sitzplatzreservierung übernommen.
 
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
+ Wo finde ich die Sitzplatzreservierungen im Fernverkehr?
+----------
 
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
+Allgemeine Informationen:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-fv-ohne-ticket)
+* Sie finden die Reservierungsanzeigen auf kleinen Displays unter der Gepäckablage oder außen an den Sitzplätzen am Gang.
+
+Im ICE 3neo:
+
+* Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit Farben an:
+  * **Rot:** Eine rote Statusleuchte zeigt an, dass es eine Reservierung oder Belegung ab dem aktuellen Halt gibt.
+  * **Gelb:** Eine gelbe Statusleuchte zeigt an, dass es eine Reservierung ab einem zukünftigen Halt gibt.
+  * **Grün:** Eine grüne Statusleuchte zeigt an, dass es keine Reservierung oder Belegung gibt. Ein Text wird in diesem Fall nicht angezeigt.
+
+ Was bedeuten die Farben von der Statusleuchte bei den Sitzplätzen im ICE 3neo?
+----------
+
+Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit Farben an:
+
+* **Rot:** Eine rote Statusleuchte zeigt an, dass es eine Reservierung oder Belegung ab dem aktuellen Halt gibt.
+* **Gelb:** Eine gelbe Statusleuchte zeigt an, dass es eine Reservierung ab einem der nächsten Halte gibt.
+* **Grün:** Eine grüne Statusleuchte zeigt an, dass es keine Reservierung oder Belegung gibt. Ein Text wird in diesem Fall nicht angezeigt.
+
+ Wie funktioniert die Anzeige für belegte Sitzplätze?
+----------
+
+Nachdem Sie den Komfort Check-in genutzt haben, ändert sich der Text auf der Reservierungs-Anzeige in "Belegt bis [Ihr Zielbahnhof]". Sie haben den Sitzplatz dann sichtbar belegt, auch wenn Sie vorher keine Reservierung gebucht haben.
+
+**Hinweis**: Sie müssen sicherstellen, dass für den gewünschten Sitzplatz bis zu Ihrem geplanten Ausstieg noch keine andere Reservierung oder Belegung vorliegt.
+
+Die Belegt-Anzeige bleibt bis kurz vor Ihrem Ausstieg sichtbar. Diese Funktion ist noch nicht in allen Zügen verfügbar.
+
+ Kann ich meine Sitzplätze gezielt auswählen, zum Beispiel über einen Sitzplatz-Plan?
+----------
+
+Ja, bei vielen ICE-Verbindungen können Sie Ihren Wunschplatz über die grafische Sitzplatzanzeige auswählen.
+
+**So funktioniert es:**
+
+* Es öffnet sich ein graphischer Plan des Wagens.
+* Ihnen werden gemäß Ihrer Angaben (Sitzplatz-Vorlieben, Anzahl der Personen) geeignete Sitzplätze vorgeschlagen.
+* Wenn keine passenden Sitzplätze verfügbar sind, werden Ihnen Alternativplätze angeboten.
+
+ Aufgrund von Bahnverschulden ist mein reservierter Sitzplatz nicht verfügbar. Was jetzt?
+----------
+
+Sollte ein reservierter Sitzplatz nicht verfügbar oder wegen Verspätung nicht erreichbar sein, sprechen Sie unsere:n Zugbegleiter:n an - diese:r wird Ihnen einen anderen Platz zuweisen. Wenn kein anderer Sitzplatz mehr verfügbar ist, besteht Anspruch auf eine tarifliche Entschädigung (bei Vorlage einer Bescheinigung des Zugbegleiters in DB Reisezentrum, DB Agenturen, Servicecenter etc.).
+
+Sollte sich an Ihrer gebuchten ICE-Verbindung etwas ändern oder ein anderer Zug bereitgestellt werden, versuchen wir, Ihre Sitzplatzreservierung für Sie umzubuchen. Sie werden dann über die neue Reservierung informiert.
+
+ Wie kann ich das Kleinkindabteil reservieren?
+----------
+
+Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Sitzplatzreservierung buchen. Eine Schritt-für-Schritt-Anleitung finden Sie unter
+
+ Wie lange im Voraus kann ich eine Sitzplatzreservierung im Fernverkehr kaufen?
+----------
+
+* Eine Sitzplatzreservierung können Sie bis zu 12 Monate im Voraus (jeweils ab dem Fahrplanwechsel im Juni und Dezember) buchen.
+* Auf nationalen Strecken-Abschnitten können Sie bis auf wenige internationale Linien im nationalen Verkehr bis zu 12 Monate im Voraus buchen.
+* Auf internationalen Streckenabschnitten können Sie aktuell grundsätzlich bis zu 6 Monate im Voraus buchen, nach Belgien bereits bis zu 12 Monate im Voraus.
+
+ Kann ich mein Verbundticket auch über die App DB Navigator kaufen?
+----------
+
+Ja, für viele Verkehrsverbünde können Sie Tickets in der App DB Navigator kaufen.
+
+Nutzen Sie die Verbindungssuche oder gehen Sie im Menübereich "Buchen" auf "Tickets & Angebote". Wählen Sie die Kachel "Verbundtickets", um entsprechende Angebote der Verkehrsverbünde zu finden.
+
+ Wie erhalte ich eine Rechnung für mein Verbundticket?
+----------
+
+Hierzu gibt es verschiedene Möglichkeiten:
+
+* In der App können Sie im jeweiligen Ticket unter "Weitere Aktionen" auf "Rechnung öffnen" klicken, um eine Rechnung anzufordern.
+* Auf der Website können Sie sich mit Ihrem Profil einloggen und unter "Meine Reisen" das gewünschte Ticket auswählen. Um die Rechnung herunterzuladen, klicken Sie anschließend auf "Rechnung erstellen".
+
+ Kann ich mein Verbundticket umtauschen oder stornieren?
+----------
+
+Nein, Widerruf, Rückgabe, Umtausch und Erstattung von Handy-Tickets sind nicht möglich.
+
+ Wer kann mit dem Ticket reisen?
+----------
+
+* Mindestens 1 Erwachsener und 1 Kind müssen zusammen reisen
+* Maximal 2 Erwachsene und 3 Kinder oder 1 Erwachsener und 4 Kinder sind auf einem Ticket zugelassen
+* Als Kinder gelten Personen bis 14 Jahren
+* Als Erwachsene gelten Personen ab 15 Jahren
+* Kein Verwandtschaftsverhältnis ist zwischen den Mitreisenden erforderlich
+
+ Was kostet das Ticket und wo ist es gültig?
+----------
+
+**Im Fernverkehr (ICE, IC und EC):**
+
+Einfache Fahrt Fernverkehr: 59,99 Euro
+Hin‑ und Rückfahrt Fernverkehr: 99,99 Euro
+
+**Im Fernverkehr (ICE, IC und EC) und Nahverkehr:**
+
+Einfache Fahrt im Fern- und Nahverkehr 81,99 Euro.
+Hin‑ und Rückfahrt im Fahrt im Fern- und Nahverkehr 143,99 Euro
 
  Ist die Sitzplatzreservierung beim Familienticket inklusive?
 ----------
@@ -5120,983 +1107,246 @@ Sollte eine Reservierung in den Familien- und Kleinkindbereichen nicht möglich 
 
 Weitere Infos zu [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich)und [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-inklusive)
-
- Ist beim Normalpreis eine Sitzplatzreservierung im Preis enthalten?
+ Was ist das DB Familienticket?
 ----------
 
-Nein, beim Normalpreis ist keine Sitzplatzreservierung enthalten.
+Das DB Familienticket ist ein zeitlich begrenzt verfügbares Familienangebot. Mit diesem Angebot können 1 bis 2 Personen ab 15 Jahren und bis zu 4 Kinder (6-14 Jahre) innerhalb Deutschlands im Fernverkehr eine Hin- und Rückfahrt inklusive Sitzplatzreservierungen für 5 Personen buchen.
 
-[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-normalpreis)
-
- Ist beim Normalpreis Europa eine Sitzplatzreservierung im Preis enthalten?
-----------
-
-Im Normalpreis Europa ist keine Sitzplatzreservierung enthalten.
-
-[Weitere Informationen zum Normalpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis-europa)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-normalpreis-europa)
-
- Wie lange im Voraus kann ich eine Sitzplatzreservierung im Fernverkehr kaufen?
-----------
-
-* Eine Sitzplatzreservierung können Sie bis zu 12 Monate im Voraus (jeweils ab dem Fahrplanwechsel im Juni und Dezember) buchen.
-* Auf nationalen Strecken-Abschnitten können Sie bis auf wenige internationale Linien im nationalen Verkehr bis zu 12 Monate im Voraus buchen.
-* Auf internationalen Streckenabschnitten können Sie aktuell grundsätzlich bis zu 6 Monate im Voraus buchen, nach Belgien bereits bis zu 12 Monate im Voraus.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-vorverkauf)
-
- Zulassung: Mir ist nicht bekannt, warum ich nicht zum Lastschriftverfahren zugelassen werde. Was kann ich tun?
-----------
-
-Die möglichen Gründe für eine Ablehnung des Lastschriftverfahrens finden Sie hier: <https://www.bahn.de/faq/abo-zulassung>.
-
-Prüfen Sie auch sorgfältig, ob Sie in der Vergangenheit eine Mahnung der Deutschen Bahn erhalten haben und befolgen Sie die darin genannten Schritte.
-
-Sollten Sie nicht erkennen, warum Ihre Abo-Bestellung nicht für das Lastschriftverfahren zugelassen wird, wenden Sie sich bitte mit Ihrer Bestellnummer und Ihren verwendeten Kontodaten an das zuständige Service-Team:
-
-* [Zu den Kontaktdaten der Abo-Center](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sperre-lastschrift)
-
- How can I set the language on the bahn.de website?
-----------
-
-Please go to our international website [int.bahn.de](http://int.bahn.de/) and select your preferred language.
-
-* [Go directly to our international website](https://int.bahn.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sprache-website-en)
-
- Was bedeuten die Farben von der Statusleuchte bei den Sitzplätzen im ICE 3neo?
-----------
-
-Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit Farben an:
-
-* **Rot:** Eine rote Statusleuchte zeigt an, dass es eine Reservierung oder Belegung ab dem aktuellen Halt gibt.
-* **Gelb:** Eine gelbe Statusleuchte zeigt an, dass es eine Reservierung ab einem der nächsten Halte gibt.
-* **Grün:** Eine grüne Statusleuchte zeigt an, dass es keine Reservierung oder Belegung gibt. Ein Text wird in diesem Fall nicht angezeigt.
-
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/statusleuchte-ice-3neo)
-
- Wann wird mein Statuslevel verlängert?
-----------
-
-Am Folgetag nach Ablauf der 12 Monate wird der Punktestand geprüft. Sind genug Punkte für das aktuelle Statuslevel vorhanden, wird Ihr Statuslevel um weitere 12 Monate verlängert. Ansonsten verlieren Sie ihren Statuslevel oder es erfolgt ein Leveldowngrade.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/statuslevel-verlaengern)
-
- Muss ich mein Smartphone im Zug dabeihaben, um meine Statusvorteile einzulösen?
-----------
-
-Ja, denn nur die BahnBonus App dient zur Inanspruchnahme aller Statusvorteile im Zug.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/statusvorteile-smatphone-im-zug)
-
- Was ist bei der Stornierung meines online gebuchten Tickets zu beachten?
-----------
-
-Informationen zu Umtausch und Stornierung finden Sie hier:
-
-* [Umtausch und Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/stornierung-eines-gebuchten-tickets)
-
- Kann ich das Ticket auch wieder stornieren?
-----------
-
-Das DB Familienticket ist bis 1 Tag vor dem 1. Geltungstag gegen ein Entgelt von 10 Euro in einen Gutschein stornierbar.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/stornierung-familienticket)
-
- Wie bekomme ich bei einer Stornierung mein Geld zurück, wenn ich mit PayPal gezahlt habe?
-----------
-
-**Sparpreis-Tickets**
-Bei Stornierung eines Sparpreis-Tickets erhalten Sie einen Stornogutschein.
-
-**Andere stornierbare Leistungen (z.B. Flexpreis, Regionale Tickets)**
-Der Wert der gekauften Leistung wird auf Ihr PayPal Konto erstattet und von dort automatisch auf die ursprünglich verwendete Zahlungsquelle zurückgebucht (z.B. auf das verwendete Bankkonto oder auf die verwendete Kreditkarte).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/stornierung-geld-zurueck-wenn-mit-paypal-gezahlt)
-
- Wie erfolgt die Gutschrift, wenn ich ein per Gutschein bezahltes Ticket storniere?
-----------
-
-Die Erstattung erfolgt auf das jeweils genutze Zahlungsmittel. Haben Sie Ihr Ticket mit einem DB Geschenkgutschein bezahlt, erfolgt die Erstattung in Form eines Gutscheins. Haben Sie per Kreditkarte gezahlt, wird der zu erstattende Betrag zurück auf Ihre Kreditkarte gebucht, bei einer Banküberweisung zurück auf Ihr Bankkonto. Bei kombinierten Zahlungsmitteln erfolgt die Erstattung der Teilbeträge auf das jeweilige Zahlungsmittel.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno)
-
- Kann ich mein Flexpreis-Ticket umbuchen oder stornieren?
-----------
-
-Ja.
-
-**Bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
-
-**Ab dem 1. Geltungstag** der Hinfahrt: 30 Euro pro Fahrkarte
-
-Unabhängig von den Angebots-Bedingungen:
-
-* Sie können Ihr Digitales Ticket vor dem 1. Geltungstag innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren und erhalten den kompletten Betrag zurück.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis)
-
- Kann ich einen Flexpreis Europa stornieren?
-----------
-
-**Ja.**
-
-**Bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
-
-**Ab dem 1. Geltungstag** der Hinfahrt: 30 Euro pro Fahrkarte
-
-Sie können eine Flexpreis Europa-Fahrkarte **bis 6 Monate nach Ablauf** der Geltungsdauer stornieren.
-
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales Ticket** innerhalb von **3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis-europa)
-
- Kann ich mein Normalpreis-Ticket umbuchen oder stornieren?
-----------
-
-* **Vor dem 1. Geltungstag** der Hinfahrt können Sie Normalpreis-Fahrkarten kostenfrei umtauschen oder stornieren.
-* **Ab dem 1. Geltungstag** (Datum der Hinfahrt) erheben wir für Umtausch/Erstattung ein Entgelt von 19 Euro pro Fahrkarte.
-
-* [Mehr Informationen zur Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-normalpreis)
-
- Kann ich mein Sparpreis-Ticket umbuchen oder stornieren?
-----------
-
-**Stornierung vor dem 1. Geltungstag:**
-
-Ja, Sie können das Sparpreis-Ticket vor dem 1. Geltungstag stornieren. Das Bearbeitungsentgelt beträgt 10 Euro. Die Auszahlung erfolgt in Form eines Gutscheins, der 3 Jahre gültig ist.
-
-**Stornierung ab dem Reisetag:**
-
-Ab dem Reisetag ist eine Stornierung ausgeschlossen.
-
-**Voraussetzung bei Hin- und Rückfahrten:**
-
-Wenn Hin- und Rückfahrt auf einem Ticket gebucht wurden, kann nur beides zusammen storniert werden. Wenn Sie nur eine Fahrt stornieren möchten, sollten Sie Hin- und Rückfahrt getrennt buchen.
-
-Um das Sparpreis-Ticket zu stornieren, bitte in "Meine Reisen" im "Meine Bahn"- DB Kundenkonto gehen oder die Auftragssuche nutzen. Danach kann das neue Ticket wie gewohnt gebucht werden.
-
-**Sofortstornierung:**
-
-Unabhängig von den tariflichen Angebotskonditionen können Sie ein Digitales Ticket **vor dem ersten Geltungstag** innerhalb von **3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurückerstattet.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-sparpreis)
-
- Kann ich mein Sparpreis Europa-Ticket umbuchen oder stornieren?
-----------
-
-* **Bis einen Tag vor dem 1. Geltungstag:** Die Stornierung ist gegen ein Entgelt von 10 Euro möglich. Sie erhalten einen Gutschein in Höhe des Erstattungsbetrags.
-* **Ab dem 1. Geltungstag** ist eine Stornierung nicht mehr möglich.
-
-**Sofortstornierung**
-
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-* [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-sparpreis-europa)
-
- Kann ich mein Sparpreis Europa Gruppe-Ticket ändern, umbuchen oder stornieren?
-----------
-
-* **Bei online gebuchten Sparpreis Europa Gruppe-Tickets** ist eine Stornierung der gesamten Fahrt bis 7 Tage vor Reiseantritt für 19 EUR je Gruppenticket möglich.
-
-* **Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch** ist eine Stornierung oder Umbuchung der gesamten Fahrt bis 14 Tage vor Reisetag antritt unentgeltlich möglich. Danach ist ein Umtausch ausgeschlossen. Die Erstattung der gesamten Gruppenreise ist gegen ein Entgelt von 5 EUR je stornierender Person bis einen Tag vor Abfahrt möglich.
-
-**Sofortstornierung**
-
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-sparpreis-europa-gruppe)
-
- Kann ich mein Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
-----------
-
-Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder umbuchen.
-
-* Bei online gebuchten Sparpreis Gruppen-Tickets können Sie die gesamte Fahrt bis 7 Tage vor Reiseantritt für 19 EUR je Gruppenticket stornieren.
-* Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch können Sie die gesamte Fahrt bis 14 Tage vor dem Reisetag kostenfrei umbuchen oder stornieren. Danach ist ein Umtausch ausgeschlossen. Sie können die gesamte Gruppenreise für 5 Euro je stornierender Person und Ticket bis einen Tag vor Abfahrt erstatten lassen.
-* Bei einer Onlinebuchung können Sie Tickets nicht umtauschen und einzelne Teilnehmer nicht stornieren.
-
-**Sofortstornierung**
-
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-sparpreis-gruppe)
-
- Kann ich mein Super Sparpreis-Ticket umbuchen oder stornieren?
-----------
-
-Nein, Super Sparpreis-Tickets sind vom Umtausch und von der Stornierung ausgeschlossen.
-
-**Sofortstornierung**
-
-* Unabhängig von den tariflichen Angebotskonditionen können auf bahn.de oder im DB Navigator gebuchte Tickets **vor dem ersten Geltungstag** innerhalb **von 3 Stunden** (180 Minuten) nach der Buchung **kostenlos storniert** werden.
-* Es wird der komplette Zahlungsbetrag zurückerstattet.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis)
-
- Kann ich mein Super Sparpreis Europa-Ticket umbuchen oder stornieren?
-----------
-
-Tickets zum Super Sparpreis sind von **Umtausch und Stornierung ausgeschlossen**.
-
-**Sofortstornierung**
-
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihre auf bahn.de oder im DB Navigator gebuchten Tickets **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-* [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-europa)
-
- Kann ich mein Super Sparpreis Europa Gruppe-Ticket ändern, umbuchen oder stornieren?
-----------
-
-Für den Super Sparpreis Europa Gruppe ist eine Änderung, Umbuchung oder Stornierung nicht möglich.
-
-**Sofortstornierung**
-
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-europa-gruppe)
-
- Kann ich mein Super Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
-----------
-
-Eine Änderung, Umbuchung oder Stornierung des Super Sparpreis Gruppe-Tickets ist nicht möglich.
-
-**Sofortstornierung**
-
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-gruppe)
-
- Kann ich mein Super Sparpreis Last Minute-Ticket umbuchen oder stornieren?
-----------
-
-Nein, Super Sparpreis Last Minute-Tickets sind vom Umtausch und von der Stornierung ausgeschlossen.
-
-**Sofortstornierung**
-
-* Unabhängig von den tariflichen Angebotskonditionen können auf bahn.de oder im DB Navigator gebuchte Tickets **vor dem ersten Geltungstag** innerhalb **von 3 Stunden** (180 Minuten) nach der Buchung **kostenfrei storniert** werden.
-* Es wird der komplette Zahlungsbetrag zurückerstattet.
-
-* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Zum Super Sparpreise Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-super-sparpreis-last-minute)
-
- Auf welchen Strecken und an welchen Tagen wird DB Junior Express angeboten?
-----------
-
-DB Junior Express startet zunächst auf sechs Direktverbindungen im Fernverkehr. Ab dem 21.08.2026 wird der Service immer freitags- und sonntagsnachmittags auf den folgenden Strecken angeboten:
-
-**München Hbf – Köln Messe/Deutz**
-
-**Köln Messe/Deutz – München Hbf**
-
-**Frankfurt Hbf – Hamburg Hbf**
-
-**Hamburg Hbf – Frankfurt Hbf**
-
-**Berlin Hbf – München Hbf**
-
-**München – Hbf Berlin Hbf**
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strecken-und-angebot-juniorexpress)
-
- Is the surfing time with free wifi limited?
-----------
-
-No, there is no time limit on free wifi use throughout the journey.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/surfing-time-limited)
-
- Kann ich den Flexpreis noch im Zug kaufen?
-----------
-
-Seit dem 01.01.2022 ist es nicht mehr möglich, Tickets bei den Zugbegleiter:innen im Fernverkehr zu kaufen.
-
-Sie können Ihr **Digitales Ticket** in den **Fernverkehrszügen** aber bis 10 Minuten (auch bei Verspätung) nach Abfahrt buchen. Voraussetzung ist, dass zwischen dem Einstiegsbahnhof und dem nächsten Haltebahnhof mehr als 10 Minuten Fahrzeit vorgesehen sind.
-
-[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-im-zug-kaufen-flexpreis)
-
- Kann ich den Normalpreis noch im Zug kaufen?
-----------
-
-Für Nahverkehrsverbindungen des Deutschlandtarifs gilt, dass im Zug beim Zugpersonal Fahrkarten nur für die konkrete Hin- und/oder Rückfahrt und nur zum Bordpreis (Fahrpreis zum Normalpreis für die gewünschte Strecke zzgl. eines prozentualen Aufpreises von 10%, mind. 2 €, maximal 10 €) erhältlich sind. Das im Zug verkaufte Sortiment kann auch eingeschränkt sein. In entsprechend gekennzeichneten Zügen findet kein Verkauf statt. Die Buchung eines Digitalen Tickets nach Abfahrt des Nahverkehrszuges ist nicht zugelassen.
-
-[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-im-zug-kaufen-normalpreis)
-
- Kann ich Tickets, die ich auf der Website kaufe, auch in die App DB Navigator laden?
-----------
-
-Ja. Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gebucht haben, wird es nach dem Login mit Ihren Zugangsdaten automatisch unter "Meine Reisen" in der App und auf der Website angezeigt.
-
-Falls ein Ticket nicht angezeigt wird oder Sie es ohne DB Kundenkonto gebucht haben, können Sie es manuell unter "Meine Reisen" über die Auftragssuche hinzufügen. Geben Sie dazu die Auftragsnummer und den Nachnamen der reisenden Person ein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-in-navigator-app-laden)
-
- Gibt es einen Tipp, damit mir noch günstigere Preise in der DB Bestpreissuche angezeigt werden?
-----------
-
-**Auf Randzeiten ausweichen**
-
-Für Reisende, die nicht auf bestimmte Uhrzeiten festgelegt sind, ist es sinnvoll, Zugverbindungen in den frühen Morgen- oder den späten Abendstunden zu wählen. Dann sind die Züge meist weniger ausgelastet und in der Regel auch günstiger. Wer darüber hinaus nicht an einen bestimmten Reisetag gebunden ist, kann auf Randzeiten ausweichen und z.B. nicht am Tag direkt vor Beginn oder Ende des Wochenendes, der Ferien oder vor Feiertagen fahren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tipps-guenstige-preise-bestpreissuche-randzeiten)
-
- How do I choose where I am getting off the train?
-----------
-
-A window opens up from the "Reiseplaner" on the black train progress bar on the home page, showing the route of the current journeys. You can then select a station on the route to get off at or make a connection. You can also view your connections at the selected station.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/train-exit-zug-ice-portal)
-
- Where can I find information about my current trip in the ICE Portal?
-----------
-
-The black train progress bar, which is located on the home page or at the top of the screen when you are browsing the portal, always provides you with the relevant information about your journey. In addition to the speed of the train, the next stop and the map with the current position of the train, you can also select your stop and your connections here. In the event of any delays, you will receive a notification as to whether you will still reach the selected connecting train.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/travel-information-ice-portal)
-
- Wie kann ich sicher sein, dass mein Kind im DB Junior Express nur an die richtige Person übergeben wird?
-----------
-
-Bei der Buchung werden eine oder mehrere abholberechtigte Personen angegeben. Zusammen mit der Buchungsbestätigung werden per Mail Abholscheine mit einem QR Code versendet. Am Zielbahnhof wird das Kind nur an eine berechtigte Person übergeben, die zuvor in der Buchung angegeben ist und den QR Code vorzeigen kann. Die abholende Person muss sich ausweisen können; der Name muss mit den bei der Buchung hinterlegten Angaben übereinstimmen.
-Die Übergabe wird durch die Betreuenden digital dokumentiert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/uebergabe-kind)
-
- Wie kann ich die Zeit für meinen Umstieg verlängern?
-----------
-
-Wenn Sie beim Umsteigen mehr Zeit brauchen, können Sie das bei der Verbindungssuche einstellen:
-
-* Auf **bahn.de** klicken Sie in der Verbindungssuche auf "Umstiegszeit" und wählen Ihre gewünschte Zeit aus. Das System sucht dann nur Verbindungen mit dieser Umstiegszeit.
-* In der **App DB Navigator** können Sie in der Verbindungssuche unter "Optionen" die Umstiegszeit verändern.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umstiegszeit-verlaengern)
-
- Kann ich mein Verbundticket umtauschen oder stornieren?
-----------
-
-Nein, Widerruf, Rückgabe, Umtausch und Erstattung von Handy-Tickets sind nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umtausch-stornierung)
-
- Was ist der Unterschied zwischen Kleinkindabteil und Familienbereich?
-----------
-
-Die [Kleinkindabteile](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil) richten sich an die Bedürfnisse von Familien mit Kindern im Still- und Krabbelalter (0 bis 5 Jahre). Jedes Kleinkindabteil hat eine eigene Steckdose mit Kindersicherung. Ein ausklappbarer Wickeltisch direkt im Abteil oder im Rollstuhl-WC nebenan sorgt für eine rückenschonende Haltung beim Wickeln – auch bei 300 km/h. Kleinkindabteile verfügen in der Regel auch über einen Kinderwagenstellplatz innerhalb des Abteils oder in unmittelbarer Nähe.
-
-Im [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich) der ICE- und Intercity-Züge sind Familien mit Kindern im Kindergarten- oder Grundschulalter perfekt aufgehoben. Das Gute: Hier reisen Sie in bester Gesellschaft – Sie sitzen mit anderen Familien in einem Boot.
-
-* [Unterschied ausführlich erklärt](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unterschied-kleinkindabteil-familienbereich)
-
- Kann ich mein Verbundticket auch über die App DB Navigator kaufen?
-----------
-
-Ja, für viele Verkehrsverbünde können Sie Tickets in der App DB Navigator kaufen.
-
-Nutzen Sie die Verbindungssuche oder gehen Sie im Menübereich "Buchen" auf "Tickets & Angebote". Wählen Sie die Kachel "Verbundtickets", um entsprechende Angebote der Verkehrsverbünde zu finden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verbundtickets-wo-kaufen)
-
- Verfallen meine BahnBonus Punkte aufgrund von DB Kundenkonto-Inaktivität?
-----------
-
-Nein, Ihre Punkte verfallen nicht. Sie können Ihre Punkte allerdings nicht mehr online einsehen oder einlösen. Sie haben natürlich weiterhin die Möglichkeit, die Services über das ServiceCenter zu nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verfallen-bahnbonus-punkte-bei-inaktivitaet)
+Das Angebot kann auf bahn.de, im DB Navigator oder in personenbedienten Verkaufsstellen für 99,99 Euro erworben werden. Bei Verbindungen mit einer Teilstrecke im Nahverkehr (SPNV) liegt der Preis bei 143,99 Euro. Alternativ kann eine einfache Fahrt für 59,99 Euro erworben werden (mit Nahverkehr für 81,99 Euro).
 
  Wann ist das DB Familienticket erhältlich?
 ----------
 
 Das DB Familienticket ist vom 14.06. bis 12.09.2026 erhältlich für Reisen vom 26.06.-14.09.2026.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verkaufszeitraum-familienticket)
-
- Mein verlorener Gegenstand wurde gefunden. Wie kriege ich diesen jetzt zurück?
+ In welcher Reisendenkonstellation kann ich das Angebot buchen?
 ----------
 
-Sie können auf zwei Wegen wieder in den Besitz Ihres Gegenstands kommen:
+Das DB Familienticket ist in der Kombination 1-2 Personen ab 15 Jahre plus 1-4 Kinder buchbar. Damit das Ticket in der Verbindungsauskunft angezeigt werden kann, ist mindestens 1 Person ab 15 Jahre mit einem Kind auszuwählen.
 
-* Sie holen diesen persönlich am Lagerort ab. Bei der persönlichen Abholung einer Fundsache müssen Sie ein amtliches Personaldokument (z.B. Personalausweis, Reisepass) vorlegen.
-* Sie lassen sich den Gegenstand zuschicken
+Wichtig: Auch Kinder im Alter von 0-5 Jahren sollten bei der Verbindungsauskunft mit angegeben werden, damit die kostenfreie Sitzplatzreservierung mit ausgegeben werden kann.
 
-In beiden Fällen erheben wir ein Bearbeitungsentgelt. Die Höhe ist abhängig von der Art der Rückgabe (Abholung/Versand) und der Dauer der Aufbewahrung. Mehr dazu unter dem Abschnitt "Muss ich etwas bezahlen?"
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verlorener-gegenstand-gefunden)
-
- Wie melde ich den Verlust eines Gegenstands, der über 15 Euro wert ist?
+ Kann ich das Ticket auch wieder stornieren?
 ----------
 
-Wenn Ihr verlorener Gegenstand einen geschätzten Wert von über 15 Euro hat, können Sie Ihren Verlust hier auf der Seite online melden. Für Gegenstände mit immateriellem Wert gilt diese Wert-Begrenzung nicht (z.B. Fotoalben, Bücher mit Widmung etc.).
+Das DB Familienticket ist bis 1 Tag vor dem 1. Geltungstag gegen ein Entgelt von 10 Euro in einen Gutschein stornierbar.
 
-Über die Fundservice-Datenbank der DB InfraGO AG können Sie dann sofort sehen, ob ein Gegenstand gefunden wurde, der Ihrer Beschreibung entspricht.
-
-Wir forschen für Sie 4 Wochen nach dem verlorenen Gegenstand und informieren Sie, sobald die Suche erfolgreich war. Nach 4 Wochen erfolgloser Suche wird die Nachforschung eingestellt, ohne dass wir Sie benachrichtigen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verlustmeldung-gegenstaende-ueber-15-euro)
-
- Durch eine Verspätung/einen Zugausfall sind mir weitere Kosten entstanden. Wie kann ich hier eine Erstattung beantragen?
+ Kann ich auch mit dem Nahverkehr das Ticket nutzen?
 ----------
 
-Wenn Ihnen aufgrund einer Verspätung oder eines Zugausfalls zusätzliche Kosten (z.B. für eine Übernachtung oder ein weiteres Verkehrsmittel) entstanden sind, können Sie diese direkt mit Ihrem regulären Fahrgastrechteantrag mit beantragen. Dies geht sowohl im digitalen Antrag als auch mit dem Fahrgastrechte-Formular.
+Das DB Familienticket kann auch für eine Strecke mit Nahverkehr (SPNV) genutzt werden, solange die Kernstrecke im Fernverkehr zurückgelegt wird.
 
-**Vorgehen im digitalen Antrag im DB Kundenkonto:**
+In der Verbindungsauskunft kann die Gesamtstrecke angegeben werden, entsprechend ändert sich der Preis in 81,99 Euro für eine einfache Fahrt und 143,99 Euro für eine Hin- und Rückfahrt.
 
-1. Gehen Sie innerhalb des digitalen Antrags zu dem Feld "Durch die Verspätung hatte ich zusätzliche Ausgaben | Ich konnte meine Reservierung nicht nutzen".
-2. Klicken Sie dieses Feld an und folgen Sie den weiteren Schritten.
-3. Machen Sie die erforderlichen Angaben zu den Belegen, die Sie einreichen wollen, und laden Sie die Belege hoch.
-4. Halten Sie Bild- oder PDF-Dateien bereit, die gut lesbar und vollständig sind.
-
-**Vorgehen mit dem Fahrgastrechte-Formular:**
-
-1. Füllen Sie alle notwendigen Angaben zu Ihrer Reise im Fahrgastrechte-Formular aus.
-
-2. Legen Sie die weiteren Belege (Rechnungen, Quittungen etc.) im besten Fall im Original bei.
-
-3. Senden Sie alle Unterlagen an folgende Adresse:
-
-   DB Fernverkehr AG
-    Servicecenter Fahrgastrechte
-    60647 Frankfurt am Main
-    Deutschland
-
-Alternativ können Sie die Unterlagen in einem DB Reisezentrum oder Ihrer Verkaufsstelle abgeben.
-
-**Wichtige Hinweise:**
-
-* Bewahren Sie die Originalbelege mindestens bis zur abschließenden Bearbeitung Ihres Antrags auf.
-* Achten Sie darauf, dass die Belegdateien vollständig und gut lesbar sind. Unvollständige oder schlecht lesbare Dateien können die Bearbeitung verzögern. In diesem Fall müssen Sie die Originalbelege eventuell per Post nachreichen.
-
-* [Zum Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/entschaedigung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verspaetung-zugausfall-kosten-online-einreichen)
-
- Welche Bedingungen gelten beim Kauf der DB Geschenkgutscheine mit 10 % Rabatt beim Vertriebspartner cadooz GmbH?
+ Was mache ich, wenn bei der Bahn Streik ist?
 ----------
 
-Für die 10 % Rabattaktion gelten die [AGB der cadooz GmbH](https://bahn.cadooz.de/agb)
+Bei einem Streik richtet die Bahn nach Möglichkeit einen Ersatzfahrplan ein, um die Auswirkungen des Streiks für Sie bestmöglich zu begrenzen. Informieren Sie sich ab 12 Stunden vor Abfahrt in der Reiseauskunft, welche Züge des Fernverkehrs fahren. Züge, die ausfallen, sind gekennzeichnet; für diese bieten wir mögliche Alternativen an.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vertriebspartner)
-
- Wohin wende ich mich bei Fragen zum Kaufprozess der DB Geschenkgutscheine über den Vertriebspartner cadooz GmbH?
+ Ich habe meinen Anschlusszug aufgrund einer Zugverspätung verpasst. Kann ich einen anderen Zug nutzen?
 ----------
 
-Unter <https://bahn.cadooz.de/faq> finden Sie Antworten auf häufig gestellte Fragen beim Vertriebspartner cadooz GmbH zum Kauf des DB Geschenkgutscheines.
+**Aufhebung der Zugbindung**
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vertriebspartner1)
+* Bei Verschulden der DB und einer erwarteten Verspätung von 20 Minuten oder mehr bei nationalen Reisen bzw. von 60 Minuten oder mehr bei internationalen Reisen am Zielbahnhof
 
- Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?
+[**Was bedeutet aufgehobene Zugbindung**?](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
+
+**Bestätigung**
+
+Sie sollten eine schriftliche Bestätigung vom Zugpersonal oder von Mitarbeitenden an einer DB Information einholen, sofern möglich. Das ist jedoch nicht zwingend erforderlich.
+
+ Welche Möglichkeiten habe ich bei einem Zugausfall oder Verspätung?
 ----------
 
-Für den Komfort Check-in benötigen Sie grundsätzlich ein mobiles Endgerät, am besten die aktuelle Version der DB Navigator App und eine Check-in fähige Reise (u.a. gültiges Ticket, eingenommener Sitzplatz und freigeschaltete Zugverbindung).
+Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort haben Sie auch bei zuggebundenen Fahrkarten folgende Optionen:
 
-Details zu den Voraussetzungen können Sie der folgenden Aufstellung entnehmen.
+* Sie können bei nächster Gelegenheit die Fahrt auf der gleichen Strecke oder über eine andere Strecke fortsetzen.
+* Sie können die Fahrt zu einem späteren Zeitpunkt fortsetzen, wenn dadurch die Ankunftsverspätung am Zielbahnhof reduziert werden kann.
+* Sie können einen anderen, nicht reservierungspflichtigen Zug nutzen.
 
-1) mobiles Endgerät mit einer Internetverbindung (z.B. ein Smartphone oder Laptop mit mobilem Datentarif)
+Ausgenommen von dieser Regel sind reservierungspflichtige Züge, z.B. Nachtzüge.
 
-2) aktuelle Version des DB Navigators - alternativ Zugriff auf das ICE Portal oder die Website [www.bahn.de/jetzt-einchecken](https://int.bahn.de/en/buchung/jetzt-einchecken)
+**Nutzung eines "höherwertigen" Zuges**
+Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen und einen höherwertigen Zug (z. B. Züge des Fernverkehrs, also IC/EC, ICE) nutzen möchten, müssen Sie zunächst die zusätzlich erforderliche Fahrkarte oder den Aufpreis bezahlen. Anschließend können Sie die Kosten im Rahmen Ihrer Fahrgastrechte zurückfordern.
 
-3) zugelassenes, digitales DB-Ticket (z.B. erkennbar am Komfort Check-in-Button im Reiseplan Ihrer Verbindung)
+Diese Regelung gilt nicht bei stark ermäßigten Fahrkarten (z. B. Schönes-Wochenende-Ticket, Länder-Tickets).
 
-* Flex-, Spar- oder Super Sparpreis
-* mit und ohne BahnCard Rabatt
-* bis zu 5 Reisende (keine Hunde oder Fahrräder)
-* mit oder ohne Reservierung
-
-4) zugelassene Reisebedingungen
-
-* freigeschaltete Zugverbindung (erkennbar am Zusatz „Komfort Check-in verfügbar - wenn möglich bitte einchecken“ unter weitere Informationen im Reiseplan Ihrer Verbindung)
-* eingenommener, Check-in fähiger Sitzplatz
-* richtiger Zeitpunkt (Freischaltung erfolgt kurz vor Abfahrt des Zuges und es darf noch keine Kontrolle durch das Zugpersonal erfolgt sein)
-* Fahrt nach Reiseplan laut Ticket
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/voraussetzungen-kci)
-
- Welche Voraussetzungen muss mein Kind für den DB Junior Express erfüllen, um reisefähig zu sein?
+ Meine Benachrichtigungen zur Reise sind nicht mehr da. Warum?
 ----------
 
-Damit Ihr Kind sicher und gut begleitet reisen kann, prüfen Sie bitte, ob DB Junior Express zum aktuellen Entwicklungsstand und zur Reisesituation Ihres Kindes passt. Die folgenden Voraussetzungen müssen erfüllt sein, damit ihr Kind reisefähig ist.
+Mit dem jährlichen Fahrplanwechsel im Dezember ändern sich Verbindungen. Bestehende Benachrichtigungen zur Reise verlieren deshalb ihre Gültigkeit. Legen Sie bitte die Benachrichtigungen zur Reise für Ihre Züge neu an.
 
-Die Betreuung kann nur erfolgen, wenn das Kind am Reisetag uneingeschränkt reisefähig ist. Ein Kind gilt als reisefähig, wenn es am Tag der Reise die folgenden Voraussetzungen erfüllt:
+Benachrichtigungen, die Sie gezielt bei Ticketkauf für eine bestimmte Reise - online, per Handy oder im Reisezentrum - angelegt haben, werden Ihnen nicht in der Übersicht gezeigt und bei Stornierung des Tickets und Beendigung der Fahrt automatisch gelöscht.
 
-* Das Kind ist mindestens 6 Jahre und maximal 14 Jahre alt.
-* Das Kind ist gesund und würde in seinem tagesaktuellen gesundheitlichen Zustand auch in die Schule gehen.
-* Das Kind kann sein Gepäck eigenständig transportieren und handhaben.
-* Das Kind benötigt während der Reise keine geplante medizinische Versorgung durch die Betreuenden.
-* Das Kind kann selbstständig auf die Toilette gehen (Der Weg zur Toilette kann begleitet werden).
-* Das Kind ist gruppenfähig und benötigt ausdrücklich keine 1:1 Betreuung.
-* Das Kind muss sich mit den Betreuenden auf deutsch oder englisch verständigen können.
-* Das Kind kann sich an allgemeine Regeln halten und Anweisungen des Betreuungspersonals befolgen.
-* Das Kind muss freiwillig mit DB Junior Express reisen wollen. Eine Beförderung gegen den ausdrücklichen Willen des Kindes ist nicht möglich.
-
-Wenn ein Kind aus Sicht der Betreuenden nicht reisefähig ist, kann die Mitnahme des Kindes beim Check-In abgelehnt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorraussetzung-reisefaehigkeit)
-
- Wie lange im Voraus kann ich den Flexpreis kaufen?
+ Muss ich ein DB Kundenkonto haben, um die Benachrichtigungen zur Reise aktivieren zu können?
 ----------
 
-Tickets können bis zu **12 Monate im Voraus** gebucht werden.
+Ja, die Benachrichtigungen zur Reise können nur dann aktiviert werden, wenn Sie die entsprechenden Verbindungen über ein "Meine Reisen"-DB Kundenkonto gebucht oder in Ihrem DB Kundenkonto hinterlegt haben.
 
-[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis)
-
- Wie weit im Voraus kann ich beim Flexpreis Europa reservierungspflichtige Züge buchen?
+ Was kann ich tun, wenn ich eine Benachrichtigung zu meiner Reise bekomme?
 ----------
 
-Je nach Land können Tickets bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
+Sie haben eine Benachrichtigung erhalten, weil Ihr gebuchter Zug nicht mehr im aktuellen Fahrplan gefunden wurde. Das kann passieren, wenn Ihr Zug zum Beispiel wegen einer Baustelle oder einem unvorhersehbaren Ereignis nicht wie ursprünglich geplant fährt.
 
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+Was kann ich in diesem Fall tun?
 
-[Weitere Informationen zum Flexpreis Europa](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-europa)
+* Suchen Sie in der Reiseauskunft am gewünschten Tag nach einer Alternative. Den Link dazu finden Sie in der Benachrichtigungs-Mail. Dort sind alle Angaben voreingestellt, sodass Sie leicht eine Übersicht bekommen.
+* Haben Sie ein Ticket zum Flexpreis gebucht? Dann können Sie jede andere Verbindung der gleichen Art (z.B. ICE) auf der gewählten Strecke nutzen.
+* Haben Sie ein Sparpreis oder Super Sparpreis-Ticket gebucht? Sollten Ihre gebuchte Verbindung ausfallen oder eine Verspätung von mindestens 20 Minuten am Zielort zu erwarten sein, dürfen Sie mit einem anderen Zug (auf der gleichen Strecke) fahren.
+* Haben Sie die Benachrichtigung vor dem 1. Geltungstag des Tickets erhalten? Dann können Sie Ihr Ticket auch umtauschen oder stornieren. Es gelten die Umtausch- und Stornierungsbedingungen.
+* Nutzen Sie eine Fahrkarte des Nahverkehrs? Dann können Sie jede andere Verbindung der gleichen Art (z.B. RB/RE) auf der gewählten Strecke nutzen.
 
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis-europa)
-
- Wie lange im Voraus kann ich das Normalpreis-Ticket kaufen?
+ Für welche Züge kann ich Benachrichtigungen zur Reise einrichten?
 ----------
 
-Sie können das Normalpreis-Ticket **bis zu 6 Monate im Voraus** buchen. Vor den Fahrplanwechseln im Juni und Dezember kann es Abweichungen geben.
+Diesen Service können Sie für alle Verbindungen nutzen, die mindestens einen Fernverkehrszug (ICE, IC/EC), einen Regional-Express (RE) oder eine Regionalbahn (RB) enthalten. Für den öffentlichen Nahverkehr können Sie keine Benachrichtigungen einrichten.
 
-[Weitere Informationen zum Normalpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/normalpreis)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-normalpreis)
-
- Wie lange im Voraus kann ich den (Super) Sparpreis kaufen?
+ Wie funktionieren die Benachrichtigungen zur Reise bei Umstiegen?
 ----------
 
-Tickets können bis zu **12 Monate im Voraus** gebucht werden.
+Bei einer Verbindung mit Umstiegen informieren wir Sie, wenn der erste Zug Ihrer Reise vor Abfahrt mehr als 5 Minuten Verspätung hat. Für den zweiten Zug (oder weitere Züge) Ihrer Reise bekommen Sie keine Benachrichtigungen, wenn dieser verspätet ist, die Umsteigezeit trotz Verspätung aber trotzdem ausreicht.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis)
+Wenn der Zug zu Beginn Ihrer Reise pünktlich war und sich dann im Laufe der Fahrt Änderungen ergeben, versenden wir aktuelle Benachrichtigungen erst 2 Stunden vor Ankunft am Zielbahnhof. Deshalb kann es sein, dass Sie bei längeren Strecken bereits im Zug sitzen, wenn Sie eine Benachrichtigung erhalten. Droht die Gefahr, dass Sie wegen einer Verspätung Ihren Anschluss nicht erreichen könnten, werden Sie immer sofort informiert.
 
- Wie lange im Voraus kann ich den (Super) Sparpreis Europa kaufen?
+ Wo kann ich die Benachrichtigungen zur Reise aktivieren?
 ----------
 
-Für **Belgien, Luxemburg, die Niederlande und die Schweiz** gilt:
-Tickets können bis zu 12 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
+Um rechtzeitig zu Änderungen im Fahrplan informiert zu werden und Erinnerungen an Ein- und Umstiege zu erhalten, aktivieren Sie ganz einfach die Benachrichtigungen zur Reise. Die Informationen erhalten Sie dann in Form von Push-Benachrichtigungen auf Ihrem Smartphone.
 
-Für **Dänemark, Italien, Kroatien, Österreich, Polen, Schweden, Slowakei, Slowenien, Tschechien, Ungarn** gilt:
-Tickets können bis zu 6 Monate im Voraus und bis kurz vor Abfahrt gebucht werden.
+Sie können die Benachrichtigungen zur Reise in der App DB Navigator entweder bei der Ticketbuchung oder über die Funktionen "Reise merken" und "Wiederholende Reise einstellen" aktivieren.
 
-Für **Frankreich** gilt:
-Tickets können bis zu 6 Monate im Voraus und bis einen Tag vor Abfahrt gebucht werden.
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa)
-
- Wie lange im Voraus kann ich den Sparpreis Europa Gruppe kaufen?
+ In meinem Reiseplan gibt es Änderungen, aber ich habe keine Benachrichtigung zur Reise erhalten. Warum ist das so?
 ----------
 
-Tickets können online bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien**, **Luxemburg, Niederlande und Schweiz bis zu 12 Monate** im Voraus).
+Benachrichtigungen zur Reise erhalten Sie frühestens 14 Tage vor Reisebeginn. Falls sich bereits vorher Änderungen ergeben, sehen Sie diese in Ihrer gemerkten oder gebuchten Reise sowie in der Reiseauskunft.
+Mit dieser Regelung möchten wir sicherstellen, dass Sie möglichst verlässliche Informationen und nur so viele Benachrichtigungen wie nötig erhalten.
 
-Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu 12 Monate im Voraus und bis kurz vor Abfahrt buchen.
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
-
-[Günstigsten Preis finden](https://next.bahn.de/buchung/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-gruppe)
-
- Wie lange im Voraus kann ich den (Super) Sparpreis Europa Ukraine kaufen?
+ Was ist der Wagenreihungsplan?
 ----------
 
-Fahrkarten zum Sparpreis Europa bzw. Super Sparpreis Europa in der 1. und 2. Klasse zu Zielen in der Ukraine können nur in DB Vertriebsstellen (DB Reisezentrum, DB Agentur) als Papiertickets gekauft werden. Es können nur die Ziele in der Ukraine ausgewählt werden, die in den DB Vertriebssystemen hinterlegt sind; dies kann während der Fahrplanperiode variieren. Die Vorverkaufsfrist beträgt längstens 2 Monate und kann nicht garantiert werden.
+Den Wagenreihungsplan in digitaler Form finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-sparpreis-europa-ukraine)
-
- Wie lange im Voraus kann ich den Super Sparpreis Europa Gruppe kaufen?
+ Wo sehe ich, wo der Zug am Gleis hält?
 ----------
 
-Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien, Niederlande, Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus.)
+Die aktuelle Wagenreihung finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails. So wissen Sie direkt vor der Ankunft Ihres ICE, IC oder EC, in welchem Bereich des Gleises Ihr Wagen halten wird.
 
-Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt buchen.
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
-
-[Günstigsten Preis finden](https://next.bahn.de/buchung/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-europa-gruppe)
-
- Wie lange im Voraus kann ich den Super Sparpreis Last Minute kaufen?
+ Für welche Züge gibt es eine digitale Wagenreihung?
 ----------
 
-Sie können das Ticket samstags und sonntags für Montag bis Sonntag der Folgewoche buchen. Nur solange der Vorrat reicht.
+Die Fahrtinformationen mit der aktuellen Wagenreihung gibt es in der App DB Navigator für alle Züge des Fernverkehrs (ICE, Intercity und Eurocity) in Deutschland, bezogen auf den aktuellen Tag.
 
-[Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
+Eine Ausweitung auf den Nahverkehr und in der Zukunft liegende Reisetage ist geplant.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-last-minute)
-
- Wann beginnt meine Statuslaufzeit?
+ Ich habe ein Ticket mit Sitzplatz-Reservierung gebucht. Wie finde ich im Bahnhof direkt meinen Wagen?
 ----------
 
-Die Statuslaufzeit beginnt mit Erreichen der entsprechenden Statuspunkteschwelle.
+* Öffnen Sie die App DB Navigator.
+* Gehen Sie unter "Reisen" zu Ihrer gebuchten Reise für den aktuellen Tag.
+* Klicken Sie auf die Fahrtinformationen für den jeweiligen Zug.
+* Im Tab "Wagenreihung" sehen Sie Ihren Wagen und seine voraussichtliche Position am Bahnsteig (den Gleisabschnitt).
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-beginnt-meine-statuslaufzeit)
-
- Wann darf ich ein anderes Verkehrsmittel (z.B. Bus oder Taxi) als Ersatz nutzen und werden mir die Kosten erstattet?
+ Was ist der Vorteil der Wagenreihung in der App?
 ----------
 
-Die Kosten werden bis maximal 120 Euro erstattet, wenn:
+In der App wird unter den Fahrtinformationen der tatsächliche Stand der Wagenreihung am Reisetag angezeigt und bei Veränderungen aktualisiert. Für in der Zukunft liegende Reisetage zeigt das Tool allerdings keine Wagenreihung an.
 
-* Ihre planmäßige Ankunft zwischen 0 und 5 Uhr liegt und
-* eine Verspätung von mindestens 60 Minuten erwartet wird.
-
-Auch bei Zugausfall gilt dies, wenn es die letzte geplante Verbindung des Tages ist und der Zielbahnhof ohne anderes Verkehrsmittel nicht bis 24 Uhr erreicht werden kann.
-
-**Voraussetzung:**
-
-* Kein anderes Verkehrsmittel wird vom Eisenbahnunternehmen gestellt.
-* Kontaktaufnahme mit dem Eisenbahnunternehmen vor Ort (DB Verkaufsstelle, DB Information oder Zugpersonal) ist nicht möglich.
-
-Wenn das Eisenbahnunternehmen ein Ersatzverkehrsmittel stellt, hat dies Vorrang.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-darf-ich-ein-taxi-nutzen)
-
- Wann darf ich einen höherwertigen Zug benutzen?
+ Welche Informationen zeigt die Wagenreihungs-Anzeige für Nahverkehrszüge?
 ----------
 
-Bei einer zu erwartenden Verspätung von mindestens 20 Minuten an seinem Zielbahnhof darf der Fahrgast einen höherwertigen, nicht reservierungspflichtigen Zug nutzen. Kunden mit einer Nahverkehrsfahrkarte müssen zunächst eine gültige Fernverkehrs-Fahrkarte beziehungsweise den Produktübergang bezahlen. Die entstehenden Aufwendungen kann der Kunde anschließend geltend machen.
+Für Nahverkehrszüge zeigt die aktuelle Wagenreihung
 
-Die Regelung gilt nicht für erheblich ermäßigte Fahrkarten - dazu zählen z.B. Länder-Tickets.
+* die Anzahl der Wagen
+* wo sich 1. und 2. Klasse befinden
+* wo Fahrrad- und Rollstuhlplätze sind
+* ob Toiletten für mobilitätseingeschränkt Reisende vorhanden sind und wenn ja, wo
+* wo sich Einstiegshilfen befinden
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-darf-ich-einen-hoeherwertigen-zug-benutzen)
-
- Wann erfolgt die Gutschrift der Prämien- und Statuspunkte?
+ Wie funktioniert die Wagenreihung in Echtzeit?
 ----------
 
-Die Gutschrift der Prämien- und Statuspunkte der DB erfolgt in der Regel zum ersten Geltungstag der Fahrkarte. (Im Einzelfall kann es zu zeitlichen Verzögerungen kommen - beispielsweise dann, wenn Sie Ihre Fahrkarte am Automaten gekauft haben.)
+Alle Wagen sind mit sogenannten RFID-Chips (Radio Frequency Identification) ausgestattet und auf der Strecke installierte die DB an wichtigen Knotenpunkten Auslesegeräte. Überfährt der Zug das Auslesegerät, erkennt dieses die aktuelle Wagenreihung und übermittelt die Daten in Echtzeit an Systeme, bei dem die Daten gesichert und für die Kunden aufbereitet werden. Die Daten werden dann im DB Navigator und auf den Anzeigetafeln am Bahnsteig (sogenannte Zugzielanzeiger) angezeigt.
 
-Prämienpunkte, die Sie bei BahnBonus Sammelpartnern sammeln, werden Ihnen innerhalb von 10 Wochen auf Ihr Punktekonto gutgeschrieben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-erfolgt-die-gutschrift-der-praemien-und-statuspunkte)
-
- Wann habe ich Anspruch auf eine Übernachtung und werden mir die Kosten erstattet?
+ Was ist eine “aktuelle Alternative” in der Reiseauskunft?
 ----------
 
-Ja, Sie haben Anspruch auf eine Übernachtung und die Erstattung der Kosten, wenn eine Übernachtung wegen eines Zugausfalls oder einer -verspätung erforderlich wird und die Fortsetzung der Fahrt am selben Tag nicht zumutbar ist.
+Aktuelle Alternativen sind alternative Verbindungen für Züge, deren Fahrtzeiten sich aus der aktuellen Verkehrslage ergeben und die der Fahrplan eigentlich nicht vorsieht. Die Gründe dafür können verschieden sein, beispielsweise Unwetter, Baustellen etc.
 
-In diesen Fällen haben Sie Anspruch die Erstattung angemessener Übernachtungskosten:
-
-* Wenn das Eisenbahnunternehmen keine Übernachtungsmöglichkeit bereitstellt und
-* Sie das Eisenbahnunternehmen aus Gründen, die das Unternehmen zu verantworten hat, nicht erreichen können (z.B. keine Mitarbeitenden des genutzten Zuges vor Ort verfügbar oder keine Verkaufsstelle oder DB Information erreichbar).
-
-In diesem Fall haben Sie keinen Anspruch auf Erstattung:
-
-* Wenn das Eisenbahnunternehmen eine Übernachtungsmöglichkeit stellt, müssen Sie dieses Angebot nutzen. Organisieren Sie in diesem Fall selbst eine Übernachtung, haben Sie keinen Anspruch auf Erstattung der Kosten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-habe-ich-anspruch-auf-eine-uebernachtung-und-werden-mir-die-kosten-erstattet)
-
- Wann ist die Reservierung kostenfrei in mein Angebot integriert?
+ Was bedeutet "Aktuelle Alternative"?
 ----------
 
-Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Flexpreis des Fernverkehrs (ICE, IC, EC).
+* Eine aktuelle Alternative ist eine Verbindung, die es im normalen Fahrplan so nicht gibt.
+* Eine aktuelle Alternative gibt Ihnen z.B. bei Verspätungen oder Ausfällen eine Alternativ-Verbindung. Diese Verbindung soll Sie möglichst schnell und komfortabel oder überhaupt ans Ziel bringen.
+* Eine aktuelle Alternative wird beim nächsten Klick eventuell nicht mehr angezeigt, weil sich Änderungen ergeben haben.
 
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-ist-reservierung-kostenfrei-im-angebot-integriert)
-
- Wann kann ich Fahrgastrechtsansprüche geltend machen?
+ Ab und bis wann kann ich ein Ticket für eine "Aktuelle Alternative" buchen?
 ----------
 
-Zu den detaillierten [Informationen, welche Ansprüche Sie im Rahmen der Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen) haben.
+* Sie sehen aktuelle Alternativen 72 Stunden vor Abfahrt in der Reiseauskunft. Sie können die Alternativen ab dann auch als Online- oder Handy-Tickets buchen.
+* Als Flexpreis-Tickets können Sie diese auch noch bis 3 Minuten vor der geplanten Abfahrtszeit des Zuges buchen.
+* Auf den Tickets steht ein Hinweis, dass es sich um eine "Aktuelle Alternative" handelt.
 
-Sie haben ein Anliegen, das nichts mit einer Verspätung/einem Zugausfall zu tun hat, wie z.B. eine Leistungseinschränkung oder eine Anfrage zu einer Buchung? Informationen, Antworten auf häufige Fragen sowie Kontaktmöglichkeiten finden Sie auf
-
-* [bahn.de/hilfe](https://www.bahn.de/hilfe)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-kann-ich-fahrgastrechtsansprueche-geltend-machen)
-
- Wann sollte ich den Komfort Check-in durchführen?
+ Warum ist auf meinem Ticket nicht die tatsächliche Abfahrtszeit aufgedruckt?
 ----------
 
-Wir schalten den Komfort Check-in kurz vor Abfahrt des Zuges frei. Checken Sie sich daher am besten direkt nach Einnahme eines freien oder von Ihnen reservierten Sitzplatzes ein. Wenn Sie später einchecken, könnten Sie ggf. dennoch kontrolliert werden. Nachdem eine Kontrolle stattgefunden hat, ist ein nachträglicher Check-in nicht mehr möglich.
+Die Abfahrtszeit kann sich aus verschiedenen Gründen ändern.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-kci-durchfuehren)
+Auf Ihrem Reiseplan in der App wird natürlich - wie bisher auch - die aktuelle Abfahrtszeit angezeigt und laufend aktualisiert.
 
- Wann muss ich mich als BahnBonus Teilnehmer:in ausweisen?
+ Warum wird mir manchmal eine "Minuszeit" fürs Umsteigen angezeigt?
 ----------
 
-Bei Fahrkartenprämien, die nur für BahnBonus Teilnehmende persönlich gelten, bei exklusiven BahnBonus Sparpreisangeboten und bei der Nutzung von Statusvorteilen, müssen Sie sich im Zug legitimieren. Das geht mit Ihrer BahnBonus Card oder der digitalen BahnBonus Karte.
+Auf den Tickets stehen die Zeiten für Züge immer so, wie sie im Fahrplan stehen. Die Ankunfts- und Abfahrtszeit kann sich aber z.B. aufgrund von Verzögerungen ändern.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-muss-ich-mich-als-bahnbonus-teilnehmer-in-ausweisen)
+Wenn sich Ihr Anschlusszug verspätet, kann es also sein, dass sie einen Anschluss trotzdem erreichen, auch wenn im Fahrplan steht, dass Sie diesen nicht erreichen können.
 
- Warum steht auf meiner digitalen BahnBonus Karte eine andere Nummer als auf meiner BahnCard?
+ Was sind meine Fahrgastrechte?
 ----------
 
-Ihrem Konto können mehrere BahnCard- und BahnBonus Nummern zugeordnet sein. Das geschieht z.B., wenn Sie sich nach Anmeldung zum BahnBonus Programm für eine BahnCard entscheiden. Dann wird die Nummer der BahnCard als BahnBonus Nummer angezeigt. Sie können beide Nummern zum Sammeln verwenden. In der BahnBonus App wird immer die zuletzt angelegte Karte angezeigt.
+* Fern- und Regionalverkehr der Deutschen Bahn: Fahrgastrechte treten mit Basis der **bekannten Verspätung zum Buchungszeitpunkt** in Kraft. Das heißt, wenn ein (Anschluss-)Zug zum Buchungszeitpunkt bereits 60 min bekannte Verspätung hat, können hierfür keine Fahrgastrechte geltend gemacht werden.
+* Verbund: Im Verbund sind die Tickets nicht umtauschbar.
 
-Die Nummer auf der digitalen BahnBonus Karte unterscheidet sich von der Nummer auf der BahnCard, weil es sich um zwei verschiedene Systeme handelt. Die BahnCard-Nummer ist spezifisch für die BahnCard selbst, während die BahnBonus Nummer für das Bonusprogramm der Deutschen Bahn verwendet wird. Diese beiden Nummern sind separate Identifikatoren, die unterschiedliche Zwecke erfüllen und daher nicht identisch sind.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-andere-nummer-auf-digitale-bahnbonuskarte-als-auf-bahncard)
-
- Warum wird mir Apple Pay nicht angezeigt?
+ Was bedeutet „Datum liegt außerhalb der Fahrplanperiode.“?
 ----------
 
-Apple Pay wird Ihnen im DB Navigator nur dann als mögliche Zahlungsart angezeigt, wenn Sie ein Apple Gerät besitzen und Apple Pay auf diesem Endgerät eingerichtet haben. Hierzu müssen Sie eine Debit- oder Kreditkarte in Ihrer Apple Wallet hinterlegt haben.
+Werden in der Verbindungsauskunft keine Verbindungen angezeigt, liegt das gewünschte Reisedatum außerhalb des aktuellen Fahrplans. Eine Fahrplanperiode beginnt jeweils Mitte Dezember und endet Mitte Dezember des Folgejahres. Der Fahrplan für das kommende Jahr wird in der Regel Mitte Oktober veröffentlicht. Ab diesem Zeitpunkt können Sie Ihre Tickets buchen.
 
-Auf bahn.de ist die Zahlung per Apple Pay nur möglich, wenn Sie mit einem Apple Gerät im Safari Browser unterwegs sind und Apple Pay auf Ihrem Endgerät eingerichtet haben.
-
-Abos können nur per Lastschrift gezahlt werden. Beim Kauf dieser Tickets wird Ihnen Apple Pay als Zahlungsmethode nicht angeboten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-apple-pay-nicht-angezeigt)
-
- Warum ist CO₂ einsparen wichtig?
+ Was bedeutet zum Beispiel "Zustieg in Frankfurt(Main) Hbf möglich"?
 ----------
 
-Kohlenstoffdioxid (CO₂) ist ein Treibhausgas, das vor allem durch die Verbrennung fossiler Energieträger entsteht. Im Verkehrssektor sind das vor allem Benzin und Diesel. Die immer höhere Konzentration von CO₂ in der Atmosphäre beschleunigt den Treibhauseffekt maßgeblich: Die Temperatur auf der Erde steigt und verändert damit empfindliche Ökosysteme. Jetzt liegt es an uns allen: Die nötige CO₂-Einsparung, um den Klimawandel zu bremsen, können wir nur gemeinsam schaffen.
+Wenn der Start- oder Zielhalt Ihrer Reise ausfällt, schlagen wir Ihnen einen nahegelegenen anderen Halt zum Ein- oder Ausstieg vor. Dieser neue Start- oder Zielhalt kann sowohl vor als auch hinter Ihrem geplanten Start- oder Zielhalt liegen. Bitte beachten Sie: Ihr Ticket wird nicht automatisch geändert.
 
-Im DB Fernverkehr reisen Sie seit Anfang 2018 auf elektrifizierten Strecken in Deutschland, die aktuell über 98 % der Verkehrsleistung des DB Fernverkehr ausmachen, mit 100 Prozent Ökostrom. Bis 2040 wird die Deutsche Bahn insgesamt klimaneutral.
+Sollten sich unsere vorgeschlagenen alternativen Start- oder Zielhalte für Sie nicht eignen, können Sie über den Button "Alternativen suchen" wie gewohnt auch selbstständig nach einer passenden alternativen Verbindung suchen.
 
-* [Mehr zum Thema Ökostrom](https://www.bahn.de/service/ueber-uns/umwelt/oekostrom)
-* [Mehr zum Thema Klimaschutz auf deutschebahn.com](https://nachhaltigkeit.deutschebahn.com/de/gruene-transformation/klimaschutz)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-co2-sparen)
-
- Warum gibt es das Fahrgastrechte-Formular?
+ Was bedeutet es, wenn ein vorgeschlagener neuer Zustieg oder Ausstieg außerhalb meiner gebuchten Verbindung liegt?
 ----------
 
-Nach den Fahrgastrechten haben die Kunden umfangreiche, einheitliche Entschädigungsansprüche gegenüber allen Eisenbahnunternehmen in Deutschland. Um den Kunden eine Vielzahl unterschiedlicher Abwicklungsunterlagen bei verschiedenen Unternehmen zu ersparen, haben die teilnehmenden Eisenbahnen ein Formular für alle Ansprüche aufgelegt.
+Liegt der vorgeschlagene neue Starthalt vor dem ursprünglich gebuchten Starthalt oder liegt der vorgeschlagene neue Zielhalt hinter dem ursprünglich gebuchten Zielhalt – und damit außerhalb Ihrer gebuchten Verbindung –, gelten je nach vorhandenem Ticket unterschiedliche Regelungen:
 
-Mit dem Fahrgastrechte-Formular erfragen wir vom Fahrgast ausschließlich die zur Bearbeitung seines Entschädigungsfalls benötigten Angaben:
+* **Tickets des DB Fernverkehrs:** Tickets des DB Fernverkehrs (zum Beispiel Sparpreise) sind auch für die Strecke zwischen dem ursprünglichen und dem neuen Start- oder Zielhalt in DB Fernverkehrszügen (ICE, IC/ EC) und Nahverkehrszügen (RE, RB, IRE und S-Bahnen) gültig. Tickets mit dem Zusatz „City-Ticket“ gelten zusätzlich auch für Verkehrsmittel des ÖPNV (zum Beispiel für S-Bahnen, U-Bahnen und Busse).
+* **Tickets des Regionalverkehrs**: Bitte prüfen Sie bei Tickets des Regionalverkehrs, ob für die Fahrt zwischen dem ursprünglichen Halt und dem neuen Halt gegebenenfalls ein zusätzliches Ticket nötig ist. Es gelten die Bestimmungen Ihrer gebuchten Fahrkarte.
 
-* Wie war Ihr geplanter Reiseverlauf?
-* Wie war Ihr tatsächlicher Reiseverlauf?
-* In welcher Form wünschen Sie Ihre Entschädigung?
-
-Somit unterstützt das Fahrgastrechte-Formular gleichzeitig die zügige Bearbeitung der Ansprüche, da Rückfragen zu fehlenden Daten vermieden werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-gibt-es-das-fahrgastrechte-formular)
-
- Warum heißt das WLAN im Intercity WIFIonICE und nicht zum Beispiel WIFIonIC?
+ Was bedeutet "Weitere Abfahrten“ in den Verbindungsdetails?
 ----------
 
-Das WLAN in der Intercity-Flotte heißt genauso wie in der ICE-Flotte WIFIonICE, damit Sie sich nicht zwei unterschiedliche Bezeichnungen und Zugangsvarianten merken müssen.
+Sie können in den Verbindungsdetails und in der Reisevorschau unter "Weitere Abfahrten“ am Reisetag sehen, welche weiteren Abfahrtmöglichkeiten es im Nahverkehr zu Beginn oder am Ende Ihrer Reise gibt.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-heisst-das-wlan-im-intercity-wifionice-und-nicht-zum-beispiel-wifionic)
-
- Warum hupen die Züge jede Nacht mehrmals und teilweise noch sehr laut?
+ Kann ich eine Verbindung unter "Weitere Abfahrten" einfach so nutzen?
 ----------
 
-Die Züge hupen, wenn auf der Strecke Baumaßnahmen stattfinden. So warnen sie die dort arbeitenden Kolleg:innen, dass sich ein Zug nähert.
+Unter "Weitere Abfahrten“ zeigen wir Ihnen in der Regel nur Verbindungen mit den gleichen Verkehrsmitteln wie in Ihrer ursprünglichen Planung an. Dadurch sollte eine Nutzung in den meisten Fällen möglich sein. Bitte prüfen Sie trotzdem, ob Ihre gebuchte Fahrkarte zu diesen Zeiten gültig ist.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-hupen-die-zuege-mehrmals-und-teilweise-noch-sehr-laut)
-
- Warum kann ich in der App DB Navigator meine BahnCard 25/50 nicht laden?
+ Was ist ein Ersatzfahrplan?
 ----------
 
-Das kann daran liegen, dass Ihr BahnCard-Vertrag nicht Ihrem DB Kundenkonto zugeordnet werden kann.
+* Wir richten, wenn möglich, einen Ersatzfahrplan ein, damit Sie so schnell wie möglich an Ihr Ziel kommen
+* Einen Ersatzfahrplan gibt es bei überregionalen Einschränkungen im Zugverkehr, z. B. bei Unwetter oder Streiks.
 
-Bisher war es erforderlich, Ihr DB Kundenkonto unter "Meine Bahn" immer mit Ihrem BahnCard-Vertrag manuell zu verknüpfen. Durch das neue DB Kundenkonto entfällt diese Notwendigkeit und alle BahnCard-Verträge werden automatisch im Kundenkonto angezeigt. Falls die Daten des DB Kundenkontos jedoch nicht mit den Daten des BahnCard Vertrags exakt übereinstimmen (beispielsweise durch die Angabe weiterer Vornamen) kann die Verknüpfung im System nicht erfolgen.
-
-Für diesen Fall können Sie auf bahn.de Ihre BahnCard 25/50 selbst hinterlegen.
-
-Danach können Sie auf Ihre gültige bzw. demnächst gültige BahnCard 25/50 in dieser App zugreifen.
-
-* [Zum Kundenkonto Login](https://www.bahn.de/buchung/reiseuebersicht)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-ich-im-dbnavigator-meine-bahncard-nicht-laden)
-
- Warum kann ich meine Daten nicht in der BahnBonus App bearbeiten?
+ Wo finde ich Informationen zu Baustellen der Deutschen Bahn?
 ----------
 
-Im Kundenkonto unter bahn.de können Sie Ihre persönlichen Daten online ändern. Über die BahnBonus App wird diese Funktion zukünftig auch bereitgestellt. Wir bitten Sie bis dahin um Geduld. Man kann es in der App bearbeiten durch eine Verlinkung auf bahn.de.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-ich-meine-daten-nicht-in-der-app-bearbeiten)
-
- Warum muss ich bei Reisen in NRW meinen Personalausweis zu meinem Handy-Ticket mitführen?
-----------
-
-Handy-Tickets sind personalisierte Tickets, enthalten also auch den Namen des Kunden. Sie haben die Möglichkeit, mit Ihrem Smartphone Tickets für andere Personen zu kaufen. Um den Ticketinhaber auch eindeutig zuordnen und Missbrauch vorbeugen zu können, muss ein amtlicher Lichtbildausweis (z.B. Personalausweis, Reisepass) bei der Fahrt mitgeführt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-muss-ich-meinen-personalausweis-mitfuehren-nrw)
-
- Warum führte die DB Fernverkehr AG die Pauschalversteuerung ein?
-----------
-
-Durch die pauschale Versteuerung entfällt seit dem 1. Juli 2023 der administrative Aufwand sowohl für Arbeitnehmer:in als auch Arbeitgeber:in.
-
-Bisher mussten, je nach Höhe, lohnsteuerpflichtige Geschäftsreisende den geldwerten, steuerpflichtigen Vorteil in ihrer persönlichen Steuererklärung angeben und ihre:n Arbeitgeber:in zwecks Meldung an das Finanzamt über die eingelösten Prämien informieren. Viele Arbeitgeber:innen haben daher die private Verwendung geschäftlich gesammelter Punkte oder die Teilnahme an BahnBonus im geschäftlichen Kontext untersagt.
-
-Mit dieser Vereinfachung zieht die DB Fernverkehr AG mit anderen Vorteilsprogrammen (z.B. aus der Luftfahrt) gleich und erhöht die Attraktivität der Bahn für Geschäftsreisen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-pauschalversteuerung)
-
- Warum wird im ICE Portal die Bestellfunktion in der 1. Klasse nicht immer angeboten?
-----------
-
-Es kann mehrere Gründe haben, dass die Bestellfunktion nicht angeboten wird:
-
-* Der Bestellservice ist aus betrieblichen Gründen im Moment nicht verfügbar.
-* Sie befinden sich in einem 2. Klasse Wagen.
-* Sie sitzen in der 1. Klasse, sind aber mit dem WLAN eines Wagens der 2. Klasse
-   verbunden. Trennen Sie dazu die WLAN-Verbindung, und verbinden Sie sich erneut.
-
-Falls das Serviceangebot der Bestellung nicht angeboten werden kann, können Sie Ihre Bestellung auch weiterhin bei einem unserer Mitarbeiter an Bord aufgeben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wird-die-bestellfunktion-in-der-1-klasse-nicht-immer-angeboten)
-
- Warum ist die DB Bestpreissuche nicht verfügbar, wenn ich Verbindungen für heute suche?
-----------
-
-Bei einer Suche am aktuellen Reisetag kann die DB Bestpreissuche nicht aktiviert werden. Der Grund: Für den aktuellen Tag stehen meist weniger Angebote zur Verfügung, die sich preislich auch weniger voneinander unterscheiden. Die DB Bestpreissuche vergleicht jedoch alle Preise eines ganzen Tages miteinander – das ist bei einer tagesaktuellen Suche nicht möglich, da der Tag schon angebrochen ist. Deshalb wird die DB Bestpreissuche nur für zukünftige Reisetage angeboten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wird-mir-der-bestpreis-nicht-angezeigt-wenn-ich-fuer-den-aktuellen-tag-suche)
-
- Warum wurde ich vom BahnBonus-Vorteilsprogramm abgemeldet?
-----------
-
-Für die Teilnahme am BahnBonus Vorteilsprogramm ist seit dem 1. Mai 2025 ein DB Kundenkonto Voraussetzung.
-
-Sofern kein DB Kundenkonto vorliegt, erfolgt eine automatisierte Abmeldung vom BahnBonus Vorteilsprogramm. Die Abmeldung wurde zum 1. April 2026 umgesetzt.
-
-Haben Sie weitere Fragen zur automatisierten Abmeldung von BahnBonus oder ein Anliegen zu Ihrer beendeten Teilnahme?
-
-Sie erreichen unseren Kundenservice unter [030 2970.](tel:0302970)
-
-[Zum Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wurde-ich-von-bahnbonus-abgemeldet)
-
- Warum zeigt die App für meine Verbindung keine Preise an?
-----------
-
-Bei wenigen einzelnen Fahrten kann derzeit der Preis noch nicht automatisch ermittelt werden. Sie haben dennoch dort die Möglichkeit, ein Ticket in vielen Verbünden über den Ticketshop zu erwerben (Verbundtickets - Verbund- ZurTicketauswahl). Sie können auch eine andere Verbindung mit gleichem Streckenverlauf wählen, bei der Preise angezeigt werden, und dort zum Beispiel einen Einzelfahrschein zum sofortigen Fahrantritt kaufen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-zeigt-die-app-fuer-meine-verbindung-keine-preise-an)
-
- Was bedeutet eine Stornierung meines Tickets für meine angemeldete Hilfeleistung?
-----------
-
-Falls Sie Ihre Reise nicht antreten können, sagen Sie bitte unbedingt die angemeldeten Hilfeleistungen ab. Bitte wenden Sie sich hierfür an die Mobilitätsservice-Zentrale. So geben Sie anderen Reisenden die Möglichkeit, Unterstützung durch die Mitarbeitenden im Zug beziehungsweise am Bahnhof zu erhalten.
-
-Bitte beachten Sie, dass die Stornierung einer Hilfeleistung nicht automatisch mit der Ticketstornierung erfolgt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-beachten-bei-stornierung-einer-hilfeleistung)
-
- Was sollte ich am Tag der Reise beachten, wenn ich ein Fahrrad mit in den Zug nehmen möchte?
-----------
-
-Wir empfehlen am Reisetag, Ihre Reiseverbindung auf der Website oder in der App noch einmal auf mögliche Änderungen zu überprüfen. Planen Sie genügend Zeit zur Orientierung am Bahnhof und am Abfahrtsgleis ein. Da Sie Ihr Fahrrad in Bahnhöfen generell nur schieben dürfen, kann es zur Hauptreisezeit vorkommen, dass Sie sich nur langsam fortbewegen können. Wir bitten dies auch bei Umstiegen zu berücksichtigen.
-
-Beachten Sie, dass sich an den Fahrradstellplätzen kein Mechanismus befindet, um Ihr Fahrrad zu sichern. Sollten Sie Ihr Fahrrad während der Fahrt sichern wollen, bitten wir Sie, Ihr eigenes Schloss zu verwenden.
-
-Wenn Sie für Ihre Reise Züge des Nahverkehrs nutzen, beachten Sie bitte die regionalen Regelungen, weil beispielsweise nicht alle Verkehrsverbünde zu allen Uhrzeiten die Fahrradmitnahme erlauben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-beachten-reisetag-fahrradmitnahme)
-
- Was bedeutet "DB Bestpreissuche"?
-----------
-
-Die DB Bestpreissuche hilft Ihnen auf bahn.de und in der App DB Navigator, unsere günstigsten Preise für eine bestimmte Verbindung für zukünftige Reisetage zu finden.
-
-**So aktivieren Sie die DB Bestpreissuche:**
-
-1. Geben Sie Ihren Reisewunsch in der Reiseauskunft des DB Navigators ein und suchen Sie nach Verbindungen. Es öffnet sich die Verbindungsübersicht.
-2. Sie aktivieren die DB Bestpreissuche oberhalb der Verbindungsübersicht – entweder direkt über "Unsere Bestpreise" oder mit Klick auf "Optionen" über den Schieberegler "Unsere Bestpreise anzeigen".
-
-**Was Sie beachten sollten:**
-
-* Die DB Bestpreissuche zeigt unsere günstigsten, ermittelbaren Preise für den ausgewählten Tag an.
-* Für manche Verbindungen (z. B. bestimmte Verbundtickets) wird im ersten Schritt kein Preis angezeigt, obwohl diese verkauft werden. Deren Preis kann günstiger sein als die Preise der DB Bestpreissuche. Der Preis kann im nächsten Schritt angezeigt werden.
-* Verbindungen ohne Ticketverkauf werden zur Information am Ende der Liste aufgeführt.
-* Die DB Bestpreissuche ist nur für zukünftige Verbindungen verfügbar, nicht für Reisen am selben Tag.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-bestpreissuche)
-
- Was bedeutet es, wenn eine Reservierung "vorübergehend nicht möglich" ist?
-----------
-
-Die Anzeige "Reservierung vorübergehend nicht möglich" bedeutet, dass der Zug vorübergehend aus dem Reservierungssystem herausgenommen wurde. Das kann für wenige Stunden oder auch für mehrere Tage der Fall sein. Eventuell können Sie zu einem späteren Zeitpunkt einen Sitzplatz für den gewünschten Zug reservieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-es-wenn-eine-reservierung-voruebergehend-nicht-moeglich-ist)
-
- Was bedeutet "Partneranteil"?
-----------
-
-“Partneranteile” sind Fahrpreisbestandteile ausländischer Bahnunternehmen, zu denen keine Mehrwertsteuerangaben ausgewiesen werden können. Auf der Fahrkarte wird der Gesamtpreis des Tickets und der davon deutsche Anteil inkl. der Mehrwertsteuer ausgewiesen. Der nicht ausgewiesene Anteil ist der Partneranteil der ausländischen Bahn.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-partneranteil)
-
- Was bedeutet "Tagespass" in der DB Lounge?
-----------
-
-Die DB Lounges können Sie und eine Begleitperson an dem Tag, an dem Sie den Tagespass einlösen, so oft nutzen, wie Sie möchten. So können sowohl am Abfahrts- als auch am Ankunftsort und potenziellen Zwischenhalten von diesem Vorteil profitieren. Voraussetzung ist, dass Sie und Ihre Begleitperson eine tagesaktuelle Fahrkarte für den Fernverkehr der DB besitzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-tagespass-in-der-db-lounge)
+Wir informieren wir Sie über Großbaustellen und Fahrplananpassungen auf der unten verlinkten Seite.
 
  Was bedeutet Zugbindung?
 ----------
@@ -6126,1497 +1376,6 @@ Für Nahverkehrszüge und Rail & Fly-Tickets besteht keine Zugbindung.
 * Wenn es durch eine Fahrplanänderung zu einer **verfrühten Abfahrt** des Zuges kommt
 
 [**Was bedeutet Zugbindung aufgehoben?**](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-zugbindung)
-
- Wie kann ich meine gesammelten BahnBonus Punkte einlösen?
-----------
-
-Ihre Prämienpunkte können Sie in der [PrämienWelt](https://bahnbonus-praemienwelt.de/category/bahnprmien-46) gegen Prämien eintauschen.
-
-Ihre Statuspunkte sind nicht einlösbar, da diese nur zum Erreichen des [BahnBonus Statuslevels](http://www.bahn.de/service/bahnbonus/status-level) dienen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bekomme-ich-fuer-meine-praemienpunkte)
-
- Was bietet die Kategorie „Zeitungen & Magazine“ im ICE Portal?
-----------
-
-In der Kategorie „Zeitungen & Magazine“ bieten wir Ihnen eine kostenfreie Auswahl an regelmäßig wechselnden Magazinen. Unsere 1. Klasse Fahrgäste erhalten zudem ein exklusives Angebot an kostenfreien Tageszeitungen (BILD, Süddeutsche, Handelsblatt, FAZ, Welt, FAS, BAMS und WAMS).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bietet-die-kategorie-zeitungen-magazine-im-ice-portal)
-
- Was genau ist die exklusive Reservierungsmöglichkeit?
-----------
-
-Hierbei handelt es sich um Sitzplätze in vielen Fernverkehrszügen, die ausschließlich für Kund:innen mit Statuslevel Platin reservierbar sind.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-ist-die-exklusive-reservierungsmoeglichkeit)
-
- Was genau ist die Statusgarantie?
-----------
-
-Kund:innen im Statuslevel Platin, welche nach Ende ihrer Statuslaufzeit, nicht genug Punkte für eines der Statuslevel haben, erhalten dennoch automatisch ein Jahr im Statuslevel Silber geschenkt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-ist-die-statusgarantie)
-
- Was genau sind prognostizierte, verfallende und vorgemerkte Statuspunkte?
-----------
-
-* Prognostizierte Statuspunkte sind die Summe aus aktuellen Statuspunkten und vorgemerkten Statuspunkten abzüglich verfallender Statuspunkte zum Statuslaufzeitende.
-* Verfallende Statuspunkte sind die Summe der zum Statuslaufzeitende verfallenden Statuspunkte. Statuspunkte verfallen 365 Tage nach Gültigkeitsbeginn.
-* Vorgemerkte Statuspunkte sind Statuspunkte für gebuchte Fahrkarten, die ihren ersten Geltungstag noch nicht erreicht haben. Angezeigt werden die vorgemerkten Statuspunkte bis zum Ende der Statuslaufzeit.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-genau-sind-prognostizierte-verfallende-vorgemerkte-statuspunkte)
-
- Was ist 3D-Secure und PSD2?
-----------
-
-3-D Secure ist ein weltweit anerkanntes Authentifizierungs-Verfahren zum Schutz vor Kreditkartenmissbrauch im Internet.
-
-Seit September 2019 sind neue Sicherheitsstandards der Europäischen Bankenaufsicht in Kraft. Die überarbeitete EU Zahlungsdienste-Richtline PSD2 (Payment Service Directive 2) hat unter anderem zum Ziel, das Bezahlen im Internet noch sicherer zu machen. Dafür sieht sie zukünftig einen zweifachen Nachweis der Identität bei Bezahlvorgängen im Internet vor. Dies nennt sich "Starke Kundenauthentifizierung" oder auch Zwei-Faktor-Authentifizierung.
-
-Das bedeutet: Zahlungen im Internet müssen durch zwei unabhängige Merkmale der Kategorie Wissen, Besitz und Biometrie bestätigt werden:
-
-\- Wissen (Passwort oder PIN)
-\- Besitz (nutzerspezifisches Gerät)
-\- Biometrie (Fingerabdruck oder Gesichtserkennung)
-
-Je nach Kreditkarte nennt sich das Online-Legitimationsverfahren auch American Express SafeKey, Verified by VISA, MasterCard Identity Check oder Diners Club ProtectBuy.
-
-[Hier finden Sie weitere Informationen und Antworten auf häufige Fragen - zum Beispiel, wie Sie sich für das Verfahren registrieren.](https://www.bahn.de/service/buchung/zahlung/kreditkarte#3dsecure)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-3d-secure-und-psd2)
-
- Was ist die Aktion 10 % Rabatt auf DB Geschenkgutscheine?
-----------
-
-DB Geschenkgutscheine im Wert von 30, 50 und 100 EUR können vom 27.11. bis 01.12.2025 nur online über bahn.cadooz.de mit einem Rabatt von 10 % bei unserem Vertriebspartner cadooz GmbH erworben werden - solange der Vorrat reicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-aktion)
-
- Was ist Bonvoyo?
-----------
-
-**Bonvoyo** ist das **smarte Mobilitätsbudget** und ein moderner Mitarbeitervorteil für flexible, unternehmensgeförderte Mobilität.
-
-* **Vorteile für Arbeitgeber:**
-   Bonvoyo macht betriebliche Mobilität **einfach, digital und aufwandsarm.** Unternehmen behalten über ein zentrales Online-Portal jederzeit den Überblick, können Budgets anpassen und Ausgaben transparent analysieren. Das Ergebnis: **effizientes Mobilitätsmanagement** und ein **attraktiver** **Mitarbeitervorteil**.
-
-* **Vorteile für Mitarbeitende:**
-   Mitarbeitenden wird von ihrem Unternehmen ein individuell nutzbares Budget bereitgestellt. Dieses Budget kann für verschiedene Verkehrsmittel wie **ÖPNV, Bahn, Carsharing, Mietwagen, Fahrrad, E-Scooter und Taxi** eingesetzt werden.
-   Das Mobilitätsbudget wird über die **Bonvoyo-App** den Mitarbeitenden individuell zugewiesen. Sie können das Budget eigenständig digital nutzen und sich darauf verlassen, dass es steuerkonform abgerechnet wird. So profitieren Mitarbeitende von maximaler Freiheit und Flexibilität für ihre persönlichen Mobilitätsbedürfnisse.
-
-Die Lösung aus dem Umfeld der **Deutschen Bahn** steht Kunden auch als **[Zahlungsart](https://www.bahn.de/service/informationen-buchung/zahlung)** für Reisebuchungen bei bahn.de oder in der DB Navigator App zur Verfügung. Mitarbeitende mit Mobilitätsbudget können einfach eine Bahnreise buchen und mit Bonvoyo zahlen.
-
-* [Mehr Informationen zu Bonvoyo erhalten Sie auf der folgenden Seite.](https://www.bonvoyo.de/benefit)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-bonvoyo)
-
- Was ist der BahnBonus Statusservice?
-----------
-
-Der BahnBonus Statusservice ist der exklusive Kundenservice für Statuskund:innen. Den Kontakt hierzu finden Sie in der BahnBonus App.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-bahnbonus-statusservice)
-
- Was ist der DB Bestpreis?
-----------
-
-Der DB Bestpreis ist unser niedrigster Preis des Tages für eine gesuchte Verbindung, der über die Reiseauskunft ermittelbar ist. Er ist zusätzlich grün und mit einem Eurozeichen markiert.
-
-Beim DB Bestpreis handelt es sich nicht um einen festen Preis oder eine Preisstufe, sondern um eine Funktion, die bestehende Verbindungen aufsteigend nach Preisen (soweit ermittelbar) sortiert anzeigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-bestpreis)
-
- Was ist der Film- & Serienbereich im ICE Portal und was bietet er?
-----------
-
-Wir bieten Ihnen ein spannendes Entertainmentangebot auf allen ICE-Zügen der Deutschen Bahn. Wählen Sie aus über 150 Inhalten verschiedenster Kategorien (von Thriller über Komödie bis Kinderwelt). Neben einigen US-Inhalten liegt der Fokus besonders auf europäischen und deutschen Inhalten. Sie können alle Inhalte kostenlos und ohne Anmeldung auf Ihrem mobilen Endgerät (Laptop, Tablet oder Smartphone) streamen. Dank einer großen Vielfalt ist für jeden etwas aus unserem Unterhaltungsprogramm dabei!
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-film-serienbereich-im-ice-portal-und-was-bietet-er)
-
- Was ist der Unterschied zwischen einem Handy- und einem Online-Ticket?
-----------
-
-Handy- und Online-Tickets unterscheiden sich im Format und wie Sie bei der Ticketkontrolle vorgezeigt werden.
-
-Wird das Ticket in der App DB Navigator genutzt und zur Kontrolle vorgezeigt, handelt es sich um ein **Handy-Ticket.**
-
-Einige Angebote wie das Deutschland-Ticket können ausschließlich als Handy-Ticket genutzt werden. Ein Ausdruck des Handy-Tickets, z. B. in Form eines Screenshots, ist nicht gültig.
-
-Ein **Online-Ticket** wird im PDF-Format ausgegeben und kann digital oder auch ausgedruckt vorgezeigt werden.
-
-Einige Angebote zum Beispiel für bestimmte internationale Strecken können nur als Online-Ticket genutzt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-unterschied-zwischen-einem-online-und-einem-handy-ticket)
-
- Was ist der Wagenreihungsplan?
-----------
-
-Den Wagenreihungsplan in digitaler Form finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails.
-
-* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-der-wagenreihungsplan)
-
- Was ist die digitale BahnBonus Karte?
-----------
-
-Die digitale BahnBonus Karte dient als Nachweis Ihrer BahnBonus Teilnahme, Ihres Statuslevels und enthält Ihre BahnBonus Sammelnummer. Sie finden sie in der BahnBonus App.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-die-digitale-bahnbonus-karte)
-
- Was ist die Fall-ID und wofür benötige ich diese Angabe?
-----------
-
-Die Fall-ID ist eine Referenznummer. Jeder eingereichte Fahrgastrechteantrag erhält eine Fall-ID, die eine eindeutige Zuordnung ermöglicht.
-
-Wenn Sie Ihren Entschädigungsanspruch digital einreichen, erhalten Sie direkt nach dem Absenden des Antrags bereits Ihre Fall-ID. Diese können Sie z.B. der Bestätigungs-E-Mail oder auch im DB Kundenkonto bei der Reise selbst sehen.
-
-Die Fall-ID ist auch im abschließenden Schreiben, das Sie vom Servicecenter Fahrgastrechte erhalten, aufgeführt. Bei einer Banküberweisung wird diese Nummer ebenfalls als Referenz angegeben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-die-fall-id-beim-digitalen-fahrgastrechte-antrag-und-wo-finde-diese)
-
- Was ist ein Passkey?
-----------
-
-Ein Passkey ist eine moderne und sichere Anmeldemethode. Sie ersetzt das Passwort. Sie melden sich mit Ihrem Gerät, zum Beispiel Smartphone oder Laptop, in Ihrem DB Kundenkonto an. Dafür nutzen Sie biometrische Daten wie Fingerabdruck oder Gesichtserkennung. Alternativ können Sie auch eine PIN verwenden
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-ein-passkey)
-
- Was ist eine “aktuelle Alternative” in der Reiseauskunft?
-----------
-
-Aktuelle Alternativen sind alternative Verbindungen für Züge, deren Fahrtzeiten sich aus der aktuellen Verkehrslage ergeben und die der Fahrplan eigentlich nicht vorsieht. Die Gründe dafür können verschieden sein, beispielsweise Unwetter, Baustellen etc.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-eine-aktuelle-alternative-in-der-reiseauskunft)
-
- Was ist eine Zeitkarte?
-----------
-
-Zeitkarten sind zum Beispiel Wochen- und Monatskarten. Sie können sie für zahlreiche Verbünde direkt buchen.
-
-* [Abos und Fahrkarten im Verbund](https://www.bahn.de/angebot/regio/verbuende)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-eine-zeitkarte)
-
- Was ist das DB Familienticket?
-----------
-
-Das DB Familienticket ist ein zeitlich begrenzt verfügbares Familienangebot. Mit diesem Angebot können 1 bis 2 Personen ab 15 Jahren und bis zu 4 Kinder (6-14 Jahre) innerhalb Deutschlands im Fernverkehr eine Hin- und Rückfahrt inklusive Sitzplatzreservierungen für 5 Personen buchen.
-
-Das Angebot kann auf bahn.de, im DB Navigator oder in personenbedienten Verkaufsstellen für 99,99 Euro erworben werden. Bei Verbindungen mit einer Teilstrecke im Nahverkehr (SPNV) liegt der Preis bei 143,99 Euro. Alternativ kann eine einfache Fahrt für 59,99 Euro erworben werden (mit Nahverkehr für 81,99 Euro).
-
-[Weitere Informationen zum Familienticket](https://www.bahn.de/angebot/kinder/familienticket)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-familienticket)
-
- Was ist der Komfort Check-in?
-----------
-
-Mit dem Komfort Check-in der Deutschen Bahn können Sie sich selbst einchecken. Das bedeutet, dass Sie Ihr Ticket selbständig digital entwerten und dem Zugpersonal Ihren Sitzplatz mitteilen. Dadurch werden Sie in der Regel nicht mehr kontrolliert und können sich entspannt zurücklehnen. Zudem wird in den meisten Zügen der Check-in auf der Reservierungsanzeige angezeigt. Damit ist Ihr Sitzplatz auch bei einer kurzen Abwesenheit für andere Reisende sichtbar belegt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-kci)
-
- Was ist mein Bahn-Account?
-----------
-
-Alle Informationen zum DB Kundenkonto finden Sie unter:
-
-* [Wissenwertes zum DB Kundenkonto](https://www.bahn.de/info/kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mein-bahn-account)
-
- Was ist mit dem WLAN-Angebot in der 1. Klasse alles möglich?
-----------
-
-Das WLAN in der 1.Klasse ist so eingerichtet, dass Sie kostenlos und zuverlässig arbeiten können. Das bedeutet: VPN-Verbindungen sind möglich, Internet-Recherchen können durchgeführt werden und auch das Versenden von großen Mailanhängen und das Anschauen von kurzen Videos- und Musikstreams sind möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mit-dem-wlan-angebot-in-der-1-klasse-alles-moeglich)
-
- Was ist mit dem WLAN-Angebot in der 2. Klasse alles möglich?
-----------
-
-Das WLAN in der 2.Klasse ist so dimensioniert, dass Sie kostenlos surfen, mailen und chatten können. Auch VPN-Verbindungen sind hier möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mit-dem-wlan-angebot-in-der-2-klasse-alles-moeglich)
-
- Was ist der Vorteil von Passkeys?
-----------
-
-Mit Passkeys melden Sie sich einfach und sicher an. Sie nutzen Ihren Fingerabdruck, Ihre Gesichtserkennung oder Ihre Geräte-PIN statt eines Passworts. Geht ein Gerät verloren, bleibt Ihr DB Kundenkonto sicher und Sie können den Zugang wiederherstellen. Sie können sich auch weiterhin mit Ihrer E-Mail-Adresse und Ihrem Passwort anmelden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-vorteil-von-passkey)
-
- Was kann ich tun, wenn der DB Automat defekt ist?
-----------
-
-Wenn Sie mit einem Zug im **Nahverkehr** reisen, steigen Sie in den Zug ein und melden Sie sich **umgehend** beim **Kontroll- und Servicepersonal** im Zug. Bitte geben Sie hier die Nummer des defekten DB Automaten oder die Haltestelle des defekten Automaten an und schildern Sie die Störung. Der Zugbegleiter überprüft Ihre Angaben anhand der Automatennummer oder Haltestelle und stellt ein reguläres Ticket bis zu Ihrem Zielort aus.
-
-Bitte beachten Sie für Reisen im **Fernverkehr**, dass im Zug kein Ticketkauf bei den Zugbegleiter:innen möglich ist. Nutzen Sie stattdessen die App **DB Navigator** oder **bahn.de**. Alternativ nutzen Sie das nächstgelegene Reisezentrum.
-
-Um die Störung eines DB Automaten schnell beheben zu können, freuen wir uns über Ihre Meldung des defekten Automaten. Rufen Sie bitte die kostenfreie **Service-Nummer 0800 2 886644** an und nennen Sie die Nummer oder Haltestelle des defekten DB Automaten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kann-ich-tun-wenn-der-db-automat-defekt-ist)
-
- Was kann ich tun, wenn ich ein Digitales Ticket auf bahn.de gebucht habe und das Drucken nicht funktioniert?
-----------
-
-Für die Kontrolle im Zug benötigen Sie keinen Ausdruck des Digitalen Tickets.
-
-**So geht's mit der App DB Navigator:**
-
-1. Loggen Sie sich in der App DB Navigator in Ihr DB Kundenkonto ein, über das Sie das Ticket gebucht haben.
-2. Gehen Sie im Menübereich "Reisen" auf die entsprechende Reise.
-3. Klicken Sie auf den Reiter "Ticket", um den QR-Code abzurufen.
-4. Zeigen Sie den QR-Code bei der Kontrolle im Zug auf Ihrem Smartphone-Display vor.
-5. Wenn Sie das Ticket ohne DB Kundenkonto gebucht haben, können Sie es manuell in die App DB Navigator laden. [So laden Sie Ihr Ticket in die App.](https://www.bahn.de/service/informationen-buchung/digitales-ticket/in-die-app-laden)
-
-**Alternativ:** Öffnen Sie die PDF-Datei, die Sie in der Buchungsbestätigungs-E-Mail erhalten haben, auf Ihrem Smartphone, Laptop oder Tablet und zeigen Sie den darin enthaltenen QR-Code Ihres Tickets bei der Kontrolle vor.
-
-* [Weitere Informationen zum DB Navigator](https://www.bahn.de/service/mobile/db-navigator)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kann-ich-tun-wenn-ich-ein-digitales-ticket-gebucht-habe-und-das-drucken-nicht-funktioniert)
-
- Was kann ich tun, wenn ich eine Benachrichtigung zu meiner Reise bekomme?
-----------
-
-Sie haben eine Benachrichtigung erhalten, weil Ihr gebuchter Zug nicht mehr im aktuellen Fahrplan gefunden wurde. Das kann passieren, wenn Ihr Zug zum Beispiel wegen einer Baustelle oder einem unvorhersehbaren Ereignis nicht wie ursprünglich geplant fährt.
-
-Was kann ich in diesem Fall tun?
-
-* Suchen Sie in der Reiseauskunft am gewünschten Tag nach einer Alternative. Den Link dazu finden Sie in der Benachrichtigungs-Mail. Dort sind alle Angaben voreingestellt, sodass Sie leicht eine Übersicht bekommen.
-* Haben Sie ein Ticket zum Flexpreis gebucht? Dann können Sie jede andere Verbindung der gleichen Art (z.B. ICE) auf der gewählten Strecke nutzen.
-* Haben Sie ein Sparpreis oder Super Sparpreis-Ticket gebucht? Sollten Ihre gebuchte Verbindung ausfallen oder eine Verspätung von mindestens 20 Minuten am Zielort zu erwarten sein, dürfen Sie mit einem anderen Zug (auf der gleichen Strecke) fahren.
-* Haben Sie die Benachrichtigung vor dem 1. Geltungstag des Tickets erhalten? Dann können Sie Ihr Ticket auch umtauschen oder stornieren. Es gelten die Umtausch- und Stornierungsbedingungen.
-* Nutzen Sie eine Fahrkarte des Nahverkehrs? Dann können Sie jede andere Verbindung der gleichen Art (z.B. RB/RE) auf der gewählten Strecke nutzen.
-
-* [Informationen zu den Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-* [Informationen Umtausch- und Stornierungsbedingungen](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kann-ich-tun-wenn-ich-eine-benachrichtigung-zu-meiner-reise-bekomme)
-
- Was kostet eine Sitzplatzreservierung im Fernverkehr?
-----------
-
-**Einzelreservierung**
-
-* 5,50 Euro für die 2. Klasse
-* 6,90 Euro für die 1. Klasse
-
-Beim Kauf eines Flexpreis-Tickets für die 1. Klasse ist die Sitzplatzreservierung inklusive.
-
-**Gruppenreservierung**
-
-* Beim Kauf eines Gruppen-Tickets (Sparpreis Gruppe) im Preis enthalten
-* Reservierungen für Kleinkinder sind optional und können hinzu gebucht werden
-
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-kostet-sitzplatzreservierung-im-fv)
-
- Was mache ich, wenn bei der Bahn Streik ist?
-----------
-
-Bei einem Streik richtet die Bahn nach Möglichkeit einen Ersatzfahrplan ein, um die Auswirkungen des Streiks für Sie bestmöglich zu begrenzen. Informieren Sie sich ab 12 Stunden vor Abfahrt in der Reiseauskunft, welche Züge des Fernverkehrs fahren. Züge, die ausfallen, sind gekennzeichnet; für diese bieten wir mögliche Alternativen an.
-
-* [Aktuelle Informationen](https://www.bahn.de/service/fahrplaene/aktuell)
-* [Zur Reiseauskunft](https://www.bahn.de/buchung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-mache-ich-wenn-bei-der-bahn-streik-ist)
-
- Was mache ich, wenn mein Zug ausfällt oder eine erhebliche Verspätung am Zielbahnhof zu erwarten ist?
-----------
-
-Bei einer erwarteten Verspätung am Zielbahnhof Ihrer Fahrkarte von
-
-* mindestens **20 Minuten bei nationalen Reisen**
-* oder mindestens **60 Minuten bei internationalen Reisen**
-
-können Sie:
-
-* **Die Fahrt fortsetzen:** Sie können die Fahrt bei nächster Gelegenheit auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
-* **Die Fahrt verschieben:** Sie können die Fahrt zu einem späteren Zeitpunkt auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
-* **Andere Züge nutzen:** Sie können andere, nicht reservierungspflichtige Züge nutzen. Sollte eine Fahrkarte erforderlich sein, müssen Sie diese zunächst bezahlen und können sie sich anschließend erstatten lassen. Erheblich ermäßigte Fahrkarten können davon ausgenommen sein.
-
-**Bei internationalen Reisen ist Folgendes zu beachten:**
-
-* Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
-* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen Sitzplatz kostenpflichtig selbst [hier](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
-
-Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
-
-[**Was bedeutet Zugbindung aufgehoben**](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)?
-
-Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen, aber einen höherwertigen Zug (z.B. Züge des Fernverkehrs, also IC/EC, ICE) nutzen möchten, dann müssen Sie zunächst die zusätzlich erforderliche Fahrkarte bezahlen. Anschließend können Sie sich die Kosten über das Servicecenter Fahrgastrechte erstatten lassen. Diese Regelung gilt nicht bei erheblich ermäßigten Fahrkarten (z.B. Deutschland-Ticket, Länder-Tickets, Quer-durchs-Land-Ticket).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-mache-ich-wenn-mein-zug-ausfaellt-oder-eine-erhebliche-verspartung-am-zielbahnhof-zu-erwarten-ist)
-
- Was muss ich bezüglich meines Gepäcks bei Lufthansa Express Rail beachten?
-----------
-
-Als Lufthansa Express Rail Reisender sind Sie für Ihr Gepäck selbst verantwortlich während der Zugfahrt bis zur Abgabe im AiRail Terminal am Frankfurter Flughafen (Übergang vom Fernbahnhof zum Terminal 1). Bei Ihrer Rückreise erhalten Sie Ihr Gepäck nach Ihrer Landung in Frankfurt an der Gepäckausgabe des AiRail Terminals und nehmen es direkt mit in Ihren Zug.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-muss-ich-bezueglich-meines-gepaecks-beachten)
-
- Was passiert bei einem Gutschein mit dem Restguthaben?
-----------
-
-**Storno-, Kulanz-, Fahrgastrechte-, Restwert-, Geschenkgutschein oder Geschenkkarte:**
-
-Übersteigt der Gutscheinwert den Preis des gekauften Produktes, erhalten Sie den Restwert in Form eines Gutscheins zurück.
-
-**Aktionsgutschein:**
-
-Übersteigt der Aktionsgutscheinwert den Preis des Produktes, auf das er eingelöst wird, verfällt der Restwert des Aktionsgutscheins.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-mit-restguthaben)
-
- Was passiert, wenn ich gerade kein Internet habe und die Statusvorteile einlösen möchte?
-----------
-
-Sofern Sie Ihre digitale BahnBonus Karte sowie Ihre Statusvorteile im Vorfeld schon einmal aufgerufen haben, können Sie auch bei kurzzeitigen Verbindungsproblemen Ihre Statusvorteile problemlos einlösen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-ich-gerade-kein-internet-habe-und-die-statusvorteile-einloesen-moechte)
-
- Was muss ich tun, wenn ich keinen digitalen Verifizierungsprozess durchführen möchte?
-----------
-
-Je nach Produkt bieten wir Ihnen eine Auswahl an Zahlarten an.
-
-Ohne digitalen Verifizierungsprozess können Kund:innen ein Fahrkarten-Abonnement in einem unserer DB Reisezentren erwerben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-ich-keine-verifikaition-durchfuehren-moechte)
-
- Was passiert, wenn während meiner Statuslaufzeit mein Statuspunktestand über oder unter die Punkteschwelle meines Statuslevels gelangt?
-----------
-
-Fällt Ihr Statuspunktestand unter die Punkteschwelle Ihres aktuellen Statuslevels bleiben Sie trotzdem in Ihrem Statuslevel.
-
-Steigt Ihr Statuspunktestand bis zur Punkteschwelle des höheren Statuslevels steigen Sie direkt in das höhere Level auf und erhalten direkt dessen Statusvorteile. Die nicht genutzten Vorteile aus Ihrem vorherigen Statuslevel verfallen und die Statuslaufzeit von 12 Monaten beginnt von Neuem.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-statuspunktestand-waehrend-der-statuslaufzeit-unter-die-punkteschwelle-meines-levels-faellt)
-
- Was passiert, wenn beim Sparpreis Senioren mein Zug ausfällt oder verspätet ist?
-----------
-
-Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort kann die Fahrt auf der gleichen Strecke, über eine andere Strecke oder zu einem späteren Zeitpunkt fortgesetzt werden.
-
-[Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-zug-ausfaellt-oder-eine-verspaetung-hat)
-
- Was passiert, wenn beim (Super) Sparpreis Senioren mein Zug ausfällt oder verspätet ist?
-----------
-
-Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort können Sie die Fahrt wie folgt fortsetzen:
-
-* Auf der gleichen Strecke mit einem anderen Zug.
-* Über eine andere Strecke.
-* Zu einem späteren Zeitpunkt.
-
-[Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-zug-ausfaellt-oder-sich-verspaetet)
-
- Was passiert, wenn mein Zug ausfällt oder verspätet ist?
-----------
-
-Bei einer erwarteten Verspätung am Zielbahnhof Ihrer Fahrkarte von
-
-* mindestens **20 Minuten bei nationalen Reisen**
-* oder mindestens **60 Minuten bei internationalen Reisen**
-
-können Sie:
-
-* **Die Fahrt fortsetzen:** Sie können die Fahrt bei nächster Gelegenheit auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
-* **Die Fahrt verschieben:** Sie können die Fahrt zu einem späteren Zeitpunkt auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
-* **Andere Züge nutzen:** Sie können andere, nicht reservierungspflichtige Züge nutzen. Sollte eine Fahrkarte erforderlich sein, müssen Sie diese zunächst bezahlen und können sie sich anschließend erstatten lassen. Erheblich ermäßigte Fahrkarten können davon ausgenommen sein.
-
-Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
-[**Was bedeutet Zugbindung aufgehoben**](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)?
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-zug-ausfaellt-oder-verspaetet-ist)
-
- Was sind Apps und Dienste?
-----------
-
-Ihr DB Kundenkonto bietet Ihnen einen Zugang zu [bahn.de](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fbahn.de%2F&data=05%7C02%7CAnja.Iwanowski%40deutschebahn.com%7Cb450f316fc8f4e74310a08ddb3ee9f6a%7Ca1a72d9c49e64f6d9af65aafa1183bfd%7C0%7C0%7C638864559657760615%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rxKDQ%2BwGkuCUh0kPUgGkuNmkuSuHckpn8vAb1%2Ba3tm4%3D&reserved=0) und DB Navigator, aber auch weiteren Apps und digitalen Diensten.
-
-Sie können Apps und digitale Dienste mit Ihrem Konto verbinden:
-
-1. Öffnen Sie die gewünschte App.
-2. Melden Sie sich mit Ihrem DB Kundenkonto an.
-
-So prüfen Sie, welche digitalen Dienste mit Ihrem DB Kundenkonto verbunden sind:
-
-1. Öffnen Sie den Bereich "Persönliche Daten" in Ihrem DB Kundenkonto.
-2. Wählen Sie "Apps und Dienste" oder "digitale Dienste", um die neue Anwendung in der Übersicht zu sehen.
-
-* [Weitere Informationen finden Sie in unseren Datenschutzhinweisen](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-apps-dienste)
-
- Was sind Fahrgastrechte und was beinhalten die Regelungen?
-----------
-
-Bei Zugverspätungen und Zugausfällen sind Ihre Rechte gesetzlich geregelt. Grundlage bildet hierbei die Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates vom 29. April 2021 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (Neufassung).
-
-Fahrgastrechte gelten seit 2009 einheitlich im Eisenbahnverkehr in Deutschland und in Europa. Ihnen werden gleiche Rechte bei allen Eisenbahnunternehmen eingeräumt. Die Regelungen gelten ausschließlich für Entschädigungen im Bereich der Eisenbahnverkehrsleistungen (von der S-Bahn bis zum ICE).
-
-Für Verspätungen, die bei U-Bahnen, Straßenbahnen, Bussen oder Taxi entstehen, besteht kein Entschädigungsanspruch.
-
-* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-fahrgastrechte-was-beinhalten-die-regelungen)
-
- Was ist der Unterschied zwischen Prämien- und Statuspunkten?
-----------
-
-Prämienpunkte...
-
-* können Sie gegen BahnBonus Prämien eintauschen
-* erhalten Sie für Umsätze bei sammelfähigen Angeboten der DB (BahnCards, Tickets, in der Bordgastronomie) und bei Sammelpartnern
-* sind 3 Jahre zum Quartalsende gültig
-
-Statuspunkte...
-
-* dienen zum Erreichen eines Statuslevels
-* erhalten Sie nur für Umsätze bei sammelfähigen Angeboten der DB (BahnCards, Tickets)
-* sind 1 Jahr gültig.
-
-Hier erhalten Sie eine [Übersicht der sammelfähigen Angebote der DB](http://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife) und eine [Übersicht der BahnBonus Sammelpartner](http://www.bahn.de/service/bahnbonus/vorteile).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-praemien-und-statuspunkte)
-
- Was sind Sonderzüge?
-----------
-
-Sonderzüge sind zusätzliche Züge, die zur Entlastung an reisestarken Tagen wie Feiertagen, Groß-Veranstaltungen wie das Oktoberfest oder Sport-Events eingesetzt werden. Diese sind nicht gesondert gekennzeichnet. Die Züge werden zusätzlich eingesetzt, sind im Fahrplan integriert und können wie gewohnt gebucht werden.
-
-Ausnahme: Sogenannte Event-Züge, die meist nur mit einem Extraticket z.B. der Eintrittskarte genutzt werden können und besonders gekennzeichnet sind.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-sonderzuege)
-
- Was tun, wenn die Anmeldung mit Passkey nicht funktioniert?
-----------
-
-* Prüfen Sie, ob Ihr Gerät und Ihr Browser Passkeys unterstützen und ob Sie mit Ihrer Cloud verbunden sind.
-* Wenn das nicht klappt, können Sie sich wie gewohnt mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihr DB Kundenkonto einloggen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-tun-wenn-anmeldung-nicht-funktioniert)
-
- Was passiert mit meinen Passkey, wenn mein Gerät verloren geht oder gestohlen wird?
-----------
-
-Wenn Sie Ihre Geräte mit Ihrer Cloud synchronisieren, haben Sie weiterhin Zugriff auf Ihre Passkeys. Sie können verlorene Geräte jederzeit im Account Manager unter "Login & Sicherheit" aus Ihrem DB Kundenkonto entfernen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-tun-wenn-passkey-geraet-verloren-gestohlen)
-
- Was verspricht das Serviceangebot der digitalen Bordgastronomie im ICE Portal?
-----------
-
-Mit dem Serviceangebot der digitalen Bordgastronomie hat der 1. Klasse-Reisende auf ICE-Zügen die Möglichkeit, digital über das ICE Portal Speisen und Getränke der Bordgastronomie direkt an den Platz zu bestellen. Darüber hinaus kann die Bestellung auch beim 1. Klasse-Servicepersonal aufgegeben oder das Bordrestaurant oder Bordbistro aufgesucht werden.
-
-Reisende in der 2. Klasse können sich im ICE Portal auf der digitalen Speisekarte über die im Zug verfügbaren Speisen und Getränke informieren. Im Bordrestaurant oder Bordbistro werden Bestellungen gerne persönlich entgegengenommen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-verspricht-das-serviceangebot-der-digitalen-bordgastronomie)
-
- Was ist der Vorteil der Wagenreihung in der App?
-----------
-
-In der App wird unter den Fahrtinformationen der tatsächliche Stand der Wagenreihung am Reisetag angezeigt und bei Veränderungen aktualisiert. Für in der Zukunft liegende Reisetage zeigt das Tool allerdings keine Wagenreihung an.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-vorteil-app)
-
- Was, wenn der DB Geschenkkartenwert den Fahrkartenwert übersteigt?
-----------
-
-Ein möglicher Restwert wird in Form eines Restwertgutscheins ausgegeben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-wenn-der-db-geschenkkartenwert-den-fahrkartenwert-uebersteigt)
-
- Was, wenn ich den Code beim Freirubbeln zerstöre?
-----------
-
-In Einzelfällen kommt es vor, dass der Gutscheincode unter dem Rubbelfeld beim Freirubbeln zerstört wurde und nicht lesbar ist. In diesem Fall gehen Sie bitte so vor:
-
-* Scannen Sie die beschädigte Rückseite der Geschenkkarte (Rubbelfeld mit Seriennummer) oder fotografieren Sie sie ab
-* Scannen oder fotografieren Sie den Kassenbon
-* Schicken Sie die Bilder mit dem dazugehörigen Aktivierungsbon an [DBGeschenkkarten@deutschebahn.com](mailto:DBGeschenkkarten@deutschebahn.com)
-
-Anhand der übereinstimmenden Seriennummer kann der passende Code zur Seriennummer der Karte über den Kartendienstleister ermittelt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-wenn-ich-den-code-beim-freirubbeln-zerstoere)
-
- Was ist, wenn ich wegen einer Verspätung der U-Bahn, Straßenbahn, des Busses oder Taxis meinen Zug-Anschluss verpasse?
-----------
-
-Für Verspätungen, die bei U-Bahnen, Straßenbahnen, Bussen oder Taxi entstehen, besteht kein Entschädigungsanspruch. Der Entschädigungsanspruch gilt ausschließlich für Eisenbahnverkehrsleistungen (von der S-Bahn bis zum ICE).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wegen-verspaetung-u-bahn-strassenbahn-busses-taxis-meinen-zug-anschluss-verpasse)
-
- Sie haben Fragen zum Thema Lufthansa Express Rail an die Lufthansa?
-----------
-
-Lufthansa Express Rail ist ein Angebot der Lufthansa. Bitte wenden Sie sich deshalb bei weiteren Fragen sowie bei Anliegen bezüglich Ihrer Buchung direkt an die Lufthansa:
-
-* telefonisch rund um die Uhr unter [069 86799799](tel:069 86799799) (Anruf in das deutsche Festnetz, Kosten variieren je nach Anbieter)
-* online unter [lufthansa.com](https://www.lufthansa.com/de/de/lufthansa-express-rail)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitere-fragen-lufthansa-express-rail)
-
- Welche Angaben sind in einem formlosen Schreiben an das Servicecenter Fahrgastrechte erforderlich?
-----------
-
-Das formlose Schreiben muss alle relevanten Informationen zur Person des Kunden und zur Unregelmäßigkeit seiner Reise enthalten. Relevante Daten sind:
-
-* Anschrift
-* Datum der Reise
-* Darstellung der geplanten Zugverbindung
-* Angaben zum tatsächlichen Reiseverlauf
-* ggf. Kontoverbindung
-* Unterschrift
-
-Datenschutzhinweis: Die personenbezogenen Daten werden ausschließlich für Abwicklungs- und Kontrollzwecke, sowie für die Plausibilitätsprüfung zwischen den beteiligten Unternehmen automatisiert erhoben, verarbeitet und genutzt, es sei denn, der Kunde hat der Nutzung zu Kundenbetreuungszwecken explizit zugestimmt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angaben-sind-in-einem-formlosen-schreiben-an-das-servicecenter-fahrgastrechte-erforderlich)
-
- Welche BahnBonus Statuslevel gibt es?
-----------
-
-Level Silber - ab 1.500 Statuspunkten
-Level Gold - ab 2.500 Statuspunkten
-Level Platin - ab 6.000 Statuspunkten
-
-Je nach Statuslevel gibt es verschiedene Statusvorteile.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-bahnbonus-statuslevel-gibt-es)
-
- Welche Bedeutung haben die Abkürzungen am Mehrwertsteuersatz wie z. B. "(D)"?
-----------
-
-Der Fahrpreis kann Preisbestandteile enthalten, die unterschiedlichen Mehrwertsteuersätzen unterliegen, beispielsweise bei einer Fahrt über die Ländergrenzen hinweg. Mithilfe der Ländercodes, z. B. (D), und der Mehrwertsteuerabkürzung in Landessprache weisen wir den Mehrwertsteuersatz eindeutig aus.
-
-**Beispiel 1:**
-
-7% (D)
-
-* 7% = Mehrwertsteuer-Satz in Prozent
-* MwSt = Abkürzung der dt. Bezeichnung für Mehrwertsteuer
-* D = Ländercode Deutschland
-
-**Beispiel 2:**
-
-0% (IVA:I)
-
-* 0% = Mehrwertsteuer-Satz in Prozent
-* IVA = Abkürzung der ital. Bezeichnung für Mehrwertsteuer (Imposta sul Valore Aggiunto)
-* I = Ländercode Italien
-
-Ergänzend weisen Steuernummern in der Fußnote die betreffenden Bahnunternehmen aus, die die Fahrtleistung erbringen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-bedeutung-haben-die-abkuerzungen-am-mehrwertsteuersatz)
-
- Welche Browser werden im ICE Portal beim Streamen unterstützt?
-----------
-
-Grundsätzlich ist das Streaming der Inhalte auf den meisten Laptops, Tablets oder Smartphones möglich. Wir empfehlen Laptopnutzern (Windows, Mac) folgende Web-Browser in dieser Reihenfolge:
-
-* Google Chrome
-* Microsoft Edge (die neue Chromium-basierte Variante)
-* Firefox
-* Safari
-
-Die Browser funktionieren am besten ab Windows 8.1 und MacOS 12. Wir empfehlen mobilen Nutzern folgende Web-Browser in dieser Reihenfolge:
-
-* Samsung Internet ab Android 6
-* Edge ab Android 6
-* Firefox auf iOS 13
-* Chrome ab Android 6 und ab iOS 11
-* Mobile Safari ab iOS 11
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-browser-werden-beim-streamen-unterstuetzt)
-
- Welche Daten erhält die Deutsche Bahn?
-----------
-
-Die Deutsche Bahn erhält nur eine Information über den erfolgreichen Bankkonto-Login oder die erfolgreiche Identitätsbestätigung bei Verimi.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-daten-erhaelt-die-deutsche-bahn)
-
- Welche Entschädigung erhalte ich, wenn mein Zug verspätet am Zielbahnhof ankommt?
-----------
-
-Für **Einzelfahrkarten** gilt: Ab 60 Minuten Verspätung an Ihrem Zielbahnhof erhalten Sie eine Entschädigung von 25 Prozent des gezahlten Fahrpreises für die einfache Fahrt, ab 120 Minuten sind es 50 Prozent. Bei Fahrkarten für die Hin- und Rückfahrt wird die Entschädigung jeweils auf Grundlage des für die Hin- bzw. Rückfahrt entrichteten Fahrpreises berechnet. Wenn der Fahrpreis für die Hin- und Rückfahrt gesamthaft ausgewiesen ist, wird die Entschädigung auf der Grundlage des halben entrichteten Fahrpreises berechnet.
-
-Für **Zeitfahrkarten des Nah- und Fernverkehrs** gilt: ab 60 Minuten Verspätung am Zielbahnhof erhalten Sie folgende pauschale Entschädigung:
-
-* Zeitfahrkarten des Fernverkehrs: 5 Euro (2. Klasse), 7,50 Euro (1. Klasse)
-* Zeitfahrkarten des Nahverkehrs: 1,50 Euro (2. Klasse), 2,25 Euro (1. Klasse)
-* BahnCard 100: 10 Euro (2. Klasse), 15 Euro (1. Klasse)
-
-Insgesamt werden maximal 25 Prozent des Zeitfahrkartenwertes entschädigt.
-
-Als Zeitkarteninhaber (Ausnahme BahnCard 100) können Sie auch mehrere Verspätungsfälle ab 20 Minuten addieren und gesammelt einreichen. Die zu addierenden Verspätungsfälle müssen dabei innerhalb des Geltungszeitraums der Zeitfahrkarte liegen.
-
-Bitte beachten Sie: Entschädigungsbeträge unter 4 Euro werden nicht ausgezahlt.
-
-* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-entschaedigung-erhalte-ich-wenn-mein-zug-verspaetet-am-zielbahnhof-ankommt)
-
- Welche fahrgastrechtlichen Ansprüche habe ich, wenn ich mehrere Fahrkarten nutze?
-----------
-
-Wenn Sie mehrere Fahrkarten für Ihre Reise nutzen, stellt jede Fahrkarte einen eigenständigen Beförderungsvertrag dar. Etwaige fahrgastrechtliche Ansprüche werden in diesem Fall nicht für die gesamte Reise, sondern für jede Fahrkarte separat ermittelt.
-
-Anders ist es, wenn Sie für Ihre Reise nur eine Fahrkarte haben. In diesem Fall besteht ein Anspruch auf Entschädigung für die gesamte Reisekette, auch wenn Züge verschiedener Eisenbahnunternehmen genutzt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-fahrgastrechte-ansprueche-habe-ich-wenn-ich-mehrere-fahrkarten-nutze)
-
- Welche Informationen zeigt die Wagenreihungs-Anzeige für Nahverkehrszüge?
-----------
-
-Für Nahverkehrszüge zeigt die aktuelle Wagenreihung
-
-* die Anzahl der Wagen
-* wo sich 1. und 2. Klasse befinden
-* wo Fahrrad- und Rollstuhlplätze sind
-* ob Toiletten für mobilitätseingeschränkt Reisende vorhanden sind und wenn ja, wo
-* wo sich Einstiegshilfen befinden
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-informationen-zeigt-die-wagenreihungs-anzeige-fuer-nahverkehrszuege)
-
- Welche Kosten fallen bei der Nutzung von Tink oder Verimi an?
-----------
-
-Keine. Das Verifizierungsverfahren ist für unsere Kund:innen kostenlos.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-kosten-fallen-bei-der-nutzung-von-tink-oder-verimi-an)
-
- Welche Kreditkarten werden akzeptiert?
-----------
-
-Wir akzeptieren VISA, MasterCard, American Express, AirPlus und Diners Club.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-kreditkarten-werden-akzeptiert)
-
- Welche Sitzplätze im Zug sind die besten für Familien?
-----------
-
-Die [Kleinkindabteile](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil) richten sich an die Bedürfnisse von Familien mit Kindern im Still- und Krabbelalter (0 bis 5 Jahre). Jedes Kleinkindabteil hat eine eigene Steckdose mit Kindersicherung. Ein ausklappbarer Wickeltisch direkt im Abteil oder im Rollstuhl-WC nebenan sorgt für eine rückenschonende Haltung beim Wickeln – auch bei 300 km/h. Kleinkindabteile verfügen in der Regel auch über einen Kinderwagenstellplatz innerhalb des Abteils oder in unmittelbarer Nähe.
-
-Im [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich) der ICE- und Intercity-Züge sind Familien mit Kindern im Kindergarten- oder Grundschulalter perfekt aufgehoben. Das Gute: Hier reisen Sie in bester Gesellschaft – Sie sitzen mit anderen Familien in einem Boot.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-sitzplaetze-sind-die-besten-fuer-familien)
-
- Wo kann ich das ausgedruckte Fahrgastrechte-Formular abgeben?
-----------
-
-Die Formulare können in allen DB Reisezentren, in den Verkaufsstellen teilnehmender Eisenbahnunternehmen oder an DB Informationen abgegeben oder per Post zur Bearbeitung an das Servicecenter Fahrgastrechte gesendet werden:
-
-DB Fernverkehr AG
-Servicecenter Fahrgastrechte
-60647 Frankfurt am Main
-Deutschland
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-stellen-duerfen-fahrgastrechte-formulare-annehmen)
-
- Welche Tickets können mit Apple Pay bezahlt werden?
-----------
-
-Alle Produkte, die mit Kreditkarte bezahlt werden können, können auch mit Apple Pay bezahlt werden.
-
-Abos können nur per Lastschrift gezahlt werden. Beim Kauf dieser Tickets wird Apple Pay als Zahlungsmethode nicht angeboten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-tickets-mit-apple-pay-bezahlen)
-
- Welche Vorteile bringen mir die 3 BahnBonus Statuslevel?
-----------
-
-Jedes der 3 Statuslevel Silber, Gold und Platin bietet Ihnen unterschiedliche, exklusive Vorteile.
-
-Mit dem Silberstatus genießen Sie 8 Freigetränke in der Bordgastronomie, 8 Tagespässe für die DB Lounges, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
-
-Der Goldstatus bietet Ihnen 12 Freigetränke in der Bordgastronomie, unbegrenzten Zugang für die DB Lounges, Zugang zum exklusiven Sitzplatzbereich in Fernverkehrszügen, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
-
-Mit dem Platinstatus profitieren Sie zusätzlich zu den Gold-Vorteilen noch von 30 % Rabatt in der Bordgastronomie, vom Zugang zum Premium-Bereich der DB Lounges sowie von der exklusiven Reservierungsmöglichkeit in bereits ausgebuchten Zügen. Hier erhalten Sie einen [Überblick der Vorteile je Statuslevel](https://www.bahn.de/service/bahnbonus/status-level).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vorteile-bringen-mir-die-drei-bahnbonus-statuslevel)
-
- Welche Vorteile habe ich, wenn ich meine Begleitperson bei der Online-Buchung direkt mit angebe?
-----------
-
-Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B haben und Ihre Begleitperson bei der Online-Buchung als weitere reisende Person angeben, können Sie beide eine kostenfreie Sitzplatzreservierung buchen und den Komfort Check-in nutzen.
-
-Mit Schwerbehindertenausweis mit Merkzeichen B und Wertmarke reisen Sie im Nahverkehr beide kostenfrei. Für die Nahverkehrsstrecke ist in diesem Fall keine Ticketbuchung erforderlich.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-vorteile-wenn-begleitperson-mit-angegeben-wird)
-
- Welchen Vorteil habe ich von der Anmeldung zur E-Mail-Kommunikation?
-----------
-
-Sie erhalten persönliche Informationen, Gutscheine und werden über exklusive BahnBonus Aktionen informiert. Zusätzlich erhalten Sie bei Ihrer erstmaligen Zustimmung 150 Prämienpunkte.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welchen-vorteil-habe-ich-von-der-anmeldung-zur-e-mail-kommunikation)
-
- Welche Art von Ticket sollte ich für mein Kind buchen? (DB Junior Express)
-----------
-
-Für die Reise wird **zusätzlich zur Servicebuchung** ein **gültiges Kinderticket** für die ausgewählte Verbindung benötigt.
-
-* Sie benötigen **keine erneute Sitzplatzreservierung**.
-* Ein Flexpreis kann sinnvoll sein, weil er mehr Spielraum bietet, falls sich bei Ihnen vor der Reise noch Änderungen ergeben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welches-ticket)
-
- Wer darf auf dem Fahrgastrechte-Formular die Verspätung bestätigen?
-----------
-
-Die Zugbegleiter:innen im Fernverkehr/ Kundenbetreuer:innen im Nahverkehr bestätigen eine Verspätung ab 60 Minuten für den von ihnen verantworteten Zug per Zangenabdruck auf dem Formular.
-
-Die Mitarbeiter:innen der DB Informationen und in den DB Reisezentren bestätigen eine Verspätung, wenn sie diese anhand vorliegender Daten überprüfen können. Die Bestätigung erfolgt durch das Anbringen eines Barcodes oder eines Stempelaufdrucks im vorgesehenen Feld des Formulars.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-darf-auf-dem-fahrgastrechte-formular-die-verspaetung-bestaetigen)
-
- Wer kann mit dem Ticket reisen?
-----------
-
-* Mindestens 1 Erwachsener und 1 Kind müssen zusammen reisen
-* Maximal 2 Erwachsene und 3 Kinder oder 1 Erwachsener und 4 Kinder sind auf einem Ticket zugelassen
-* Als Kinder gelten Personen bis 14 Jahren
-* Als Erwachsene gelten Personen ab 15 Jahren
-* Kein Verwandtschaftsverhältnis ist zwischen den Mitreisenden erforderlich
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-darf-reisen-familienticket)
-
- Wo kann ich den Punkteverfall einsehen und werde ich informiert, wenn meine Punkte bald verfallen?
-----------
-
-Sofern Sie [zur E-Mail-Kommunikation angemeldet](https://www.bahn.de/buchung/kundenkonto/permissioncenter) sind und „Persönliche Informationen und Gutscheine" erhalten, werden Sie quartalsweise per E-Mail über Ihren Punktestand und -verfall informiert. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie dies jederzeit einsehen.
-
-* [Zur BahnBonus App](https://www.bahn.de/service/mobile/bahnbonus-app)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/werde-ich-informiert-wenn-meine-punkte-bald-verfallen)
-
- Was, wenn der DB Geschenkkartenwert den Fahrkartenwert übersteigt?
-----------
-
-Falls der Wert des DB Geschenkgutscheins höher ist als der Kaufpreis des DB Produkts, für den Sie ihn einlösen, erhalten Sie einen Restwertgutschein.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wert-uebersteigen)
-
- Ich besitze eine Wertmarke zum Schwerbehindertenausweis. Was muss ich bei der Online-Buchung beachten?
-----------
-
-Mit einem Schwerbehindertenausweis und einer Wertmarke fahren Sie im Nahverkehr kostenfrei. Daher kann es günstiger sein, die Anfrage und Buchung auf die Fernverkehrsstrecke zu beschränken und die Nahverkehrsstrecke nicht anzugeben. Dies gilt auch für Fähren im Orts- und Nahbereich, die mit einer Wertmarke unentgeltlich genutzt werden dürfen.
-
-Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B und Wertmarke besitzen, reist auch Ihre Begleitperson im Nahverkehr kostenfrei.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wertmarke-mit-sba)
-
- What items should I carry in my hand luggage rather than in my suitcase?
-----------
-
-Pack important and valuable items in your hand luggage and do not pack them in your suitcase. These include medicines, medical records, keys and laptops.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/what-items-should-i-carry-in-my-hand-luggage-rather-than-in-my-suitcase)
-
- What other luggage items can I take on the train?
-----------
-
-In addition to bags, trolleys and suitcases, you can also take the following:
-
-**Prams and pushchairs:**
-For train journeys, we recommend easily foldable models or buggies that are easy to stow away. Some train types have spaces for prams and pushchairs in the family compartment, partly in the newly introduced family areas or in their immediate vicinity.
-
-Lots of families travel during holidays, on weekends or before public holidays. On these days, it can be difficult to take prams and pushchairs on board as there is only limited space available. You should always be able to store your luggage in the luggage compartment, the luggage rack or under the seat. This also applies to prams and pushchairs because aisles and door areas (escape routes) must remain clear, and safety devices such as fire extinguishers must be accessible.
-
-**Folding bicycles, folding pedelecs, small electric vehicles:**
-Folding bicycles, folding pedelecs and small electric vehicles (e.g. electric scooters, tread scooters, kickboards, etc.) may be carried when folded, provided they can be stowed safely (e.g. in the luggage rack) and do not obstruct or injure other passengers, or damage the carriage.
-
-**Bicycles:**
-The long-distance trains on which you may take bicycles are marked accordingly in the arrival and departure timetables, and in our travel information. You will need a long-distance transport bicycle ticket and a storage space reservation. The reservation is free of charge and included in the price of your bicycle ticket.
-
-Storage spaces are generally located in second class carriages. You can also reserve a seat on request. The seat and the storage space will generally be in the same carriage. In certain cases, however, the storage space and the seat may be in two different carriages. Each passenger can only take one bicycle.
-
-**Orthopaedic aids:**
-We will of course transport your orthopaedic aids, such as a wheelchair, rollator or walking frame, free of charge. Different regulations apply in some transport associations.
-
-*
-
-[Information on taking bicycles on long-distance trains (in German)](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/what-other-luggage-items-can-i-take-on-the-train)
-
- Where can I redeem a DB gift voucher?
-----------
-
-You can redeem DB gift vouchers:
-
-* On bahn.de
-* In the DB Navigator app
-* At a DB Travel Centre
-* At a DB agency
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/where-can-i-redeem-a-gift-voucher)
-
- Wie aktiviere ich die 2-Faktor-Authentifizierung?
-----------
-
-Bitte loggen Sie sich mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Login & Sicherheit“ auf.
-
-Hier können Sie jetzt Ihren Login mit einem zweiten Faktor zu schützen, wenn Sie das möchten. Das heißt, dass Sie zusätzlich zu Ihrem Passwort eine weitere Eingabe machen müssen, um sich als rechtmäßiger Kundenkonto-Inhaber auszuweisen.
-
-Wählen Sie, ob Sie sich mittels einer "Authenticator App" oder einer SMS-Tan authentifizieren möchten. Um die "2-Faktor-Authentifizierung" zu aktivieren, folgen Sie dann den weiteren Anweisungen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-aktiviere-ich-die-2-faktor-authentifizierung)
-
- Wie werde ich bei bei Zugverspätungen entschädigt, wenn ich einen Schwerbehindertenausweis besitze?
-----------
-
-Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfrei Zug fahren dürfen, können wir Ihnen für diese kostenfrei befahrenen Strecken leider keine Entschädigung anbieten. Der Grund: Es wurde ja auch kein Fahrpreis gezahlt.
-
-Wenn Sie eine Fahrkarte gekauft haben, gelten die Regelungen für die Gesamtstrecke, einschließlich aller kostenfrei genutzten Streckenabschnitte. Die Höhe des Entschädigungsbetrags basiert auf dem Preis der gekauften Fahrkarte und der Gesamtverspätung.
-
-Damit wir den Sachverhalt prüfen können, senden Sie uns alle relevanten Informationen und **alle Belege** (z.B. eine Quittung für ein Taxi oder eine Hotelrechnung), die für die Bearbeitung Ihres Antrags wichtig sein könnten, sowie eine **Kopie Ihres Schwerbehindertenausweises** und wenn vorhanden eine **Kopie Ihrer Wertmarke**.
-
-**Zur Prüfung Ihrer Ansprüche stehen Ihnen folgende Möglichkeiten zur Verfügung:**
-
-**Digital** über Ihr Kundenkonto auf bahn.de oder in der DB Navigator App
-
-Hierfür nutzen Sie bitte die Ihnen angebotene Möglichkeit „Ich möchte meine Belege digital hochladen“ nachdem Sie die Frage erhalten „Wie möchten Sie die Belege einreichen?“
-
-**Per Post**
-
-Hierfür können Sie unser **barrierefreies Formular** als pdf nutzen, welches wir unter nachfolgendem Link zur Verfügung stellen oder Sie schildern uns Ihren Sachverhalt auch ganz einfach formlos in einem Brief an:
-
-DB Dialog GmbH Servicecenter Fahrgastrechte
-60647 Frankfurt am Main.
-
-* [Fahrgastrechte-Formular (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bei-zugverspaetung-entschaedigt)
-
- Wie bekomme ich bei einer Stornierung mein Geld zurück, wenn ich mit Bonvoyo gezahlt habe?
-----------
-
-**Sparpreis-Tickets**
-Bei Stornierung eines Sparpreis-Tickets erhalten Sie einen Stornogutschein.
-
-**Andere stornierbare Leistungen (z.B. Flexpreis, Regionale Tickets)**
-Der Wert der gekauften Leistung wird auf Ihr Bonvoyo Konto erstattet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bekomme-ich-bei-stornierung-geld-zurueck-bei-zahlung-bonvoyo)
-
- Wie bekomme ich beim Handy-Ticket einen Beleg für die Reisekostenabrechnung oder bei einer beruflichen Nutzung?
-----------
-
-Sie finden die Rechnung in der App DB Navigator unter „Meine Reisen“. Rufen Sie den Reiseplan auf und wählen Sie im Aktionsfeld "Weitere Aktionen" das Rechnungsdokument.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bekomme-ich-beim-handy-ticket-einen-beleg-fuer-die-reisekostenabrechnung-oder-bei-einer-beruflichen-nutzung)
-
- Wie bekomme ich meine digitale Karte in der BahnBonus App angezeigt? Brauche ich trotzdem noch eine Plastikkarte?
-----------
-
-Ihre digitale BahnBonus Karte finden Sie direkt in der BahnBonus App. Die digitale Karte ersetzt damit die frühere BahnBonus Card aus Plastik.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bekomme-ich-meine-digitale-karte-in-der-bahnbonus-app-angezeigt-brauche-ich-trotzdem-noch-eine-plastikkarte)
-
- Wie buche ich das Angebot Lufthansa Express Rail?
-----------
-
-Die Buchung erfolgt in einem Schritt mit dem Flug über alle Lufthansa Vertriebskanäle. Buchen Sie dazu die Flugreise einfach ab einer der 27 Express Rail Städte.
-
-Buchungsmöglichkeiten:
-
-* in Ihrem Reisebüro
-* rund um die Uhr telefonisch bei Lufthansa unter [069 86 799 799](tel:069 86 799 799) (Anruf in das deutsche Festnetz, Kosten variieren je nach Anbieter)
-* online unter [Flugsuche auf lufthansa.com](https://www.lufthansa.com/de/de/flugsuche)
-* über die Lufthansa App
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-buche-ich-das-angebot-lufthansa-express-rail)
-
- Wie buche ich ein Handy-Ticket?
-----------
-
-Laden Sie die App DB Navigator kostenfrei im App Store, Google Play Store oder in der App Gallery herunter.
-
-Bei der Buchung wählen Sie in der App DB Navigator Ihre Reiseverbindung aus.
-Ihr gebuchtes Handy-Ticket wird direkt in der App gespeichert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-buche-ich-ein-handy-ticket)
-
- Wie buche ich ein Ticket für ein alleinreisendes Kind in der App DB Navigator?
-----------
-
-1. Geben Sie den gewünschten Start- und Zielbahnhof sowie das Reisedatum ein.
-2. Wählen Sie unter "Reisende" die Option "Kind (6-14 Jahre)" aus.
-3. Klicken Sie auf "Suchen", um passende Verbindungen zu finden.
-4. Folgen Sie den weiteren Buchungsschritten.
-5. Im Bereich "Zahlung" unter "Reisende Person" wählen Sie "Für eine andere Person buchen".
-6. Tragen Sie den Namen des Kindes ein.
-
-* [Hier finden Sie weitere Informationen zu Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-buche-ich-ein-ticket-fuer-ein-alleinreisendes-kind-in-der-app-db-navigator)
-
- Wie checke ich für Lufthansa Express ein bzw. wie erhalte ich meine Fahrkarte?
-----------
-
-Mit Lufthansa Express Rail können Sie ab 30 Stunden vor Abflug und bis 15 Minuten vor Abfahrt des Zuges online oder mobil bei Lufthansa einchecken. Sie erhalten jeweils eine Bordkarte für Zug und Flug. Die Bordkarte für den Zug ist Ihre ICE-Fahrkarte. Diese ist nur für die aufgedruckte Verbindung gültig. Die Nutzung einer anderen Verbindung ist nicht gestattet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-checke-ich-fuer-lufthansa-express-ein-bzw-wie-erhalte-ich-meine-fahrkarte)
-
- Wie kann ich meinen erworbenen DB Geschenkgutschein in ein DB Produkt einlösen?
-----------
-
-Eine Hilfestellung zur Einlösung finden Sie [hier](https://www.bahn.de/service/gutscheine/gutscheine-einloesen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-einloesen)
-
- Wie erfahre ich, ob meine Bestellung im ICE Portal angenommen werden kann?
-----------
-
-Nachdem Sie Ihre Bestellung aufgegeben haben, erhalten Sie zunächst eine Info, dass Ihre Bestellung an den Mitarbeiter gesendet wurde. Schließen Sie die Infobox und warten Sie auf der Übersichtsseite auf ein Update zu Ihrer Bestellung.
-
-Lassen Sie das ICE Portal in Ihrem Browser so lange geöffnet, bis die Nachricht erscheint, dass Ihre Bestellung vorbereitet wird. Bis die Rückmeldung angezeigt wird, können Sie die weiteren Angebote des ICE Portals nutzen oder in einem separaten Fenster des Browsers andere Internetseiten aufrufen. Ihre Bestellzusammenfassung können Sie solange jederzeit wieder aufrufen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erfahre-ich-ob-meine-bestellung-angenommen-werden-kann)
-
- Wie erfolgt die Kontrolle des Tickets im Zug?
-----------
-
-Sie haben 3 Möglichkeiten, Ihr Ticket im Zug vorzuzeigen:
-
-1. Zeigen Sie das PDF-Dokument Ihres Tickets aus der Bestätigungsmail vor.
-2. Sie haben das Ticket in die App geladen und zeigen dort den Barcode des Tickets vor.
-3. Alternativ können Sie Ihr Ticket auch selbst entwerten. Nutzen Sie einfach den Komfort Check-In.
-
-Bitte zeigen Sie bei der Kontrolle Ihren Lichtbildausweis und ggf. Ihre BahnCard vor.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erfolgt-die-kontrolle-des-digitalen-tickets-im-zug)
-
- Wie erfolgt die Gutschrift, wenn ich ein per Gutschein bezahltes Ticket storniere?
-----------
-
-Die Erstattung erfolgt auf das jeweils genutzte Zahlungsmittel. Haben Sie mit Kreditkarte bezahlt, wird der zu erstattende Betrag zurück auf Ihre Kreditkarte gebucht, bei einer Banküberweisung zurück auf Ihr Bankkonto. Falls Sie per Gutschein bezahlt haben, erfolgt die Erstattung in Form eines Gutscheins.
-
-Bei kombinierten Zahlungsmitteln erfolgt die Erstattung der Teilbeträge auf das jeweilige Zahlungsmittel.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erfolgt-gutschrift-wenn-ich-ticket-per-gutschein-bezahlt-habe)
-
- Wie erhalte ich eine Übersicht meiner online gebuchten Tickets?
-----------
-
-**Bahn.de:** Loggen Sie sich auf der Website in Ihr DB Kundenkonto ein und klicken Sie auf den Reiter "Meine Reisen". Dort finden Sie unter "Nächste Reisen" und "Vergangene Reisen" Ihre Tickets.
-
-**App DB Navigator:** Loggen Sie sich ein und gehen Sie auf "Reisen" im unteren Bildschirmbereich. Dort sind die aktuellen Reisen aufgelistet. Weiter unten finden Sie den Bereich "Vergangene Reisen".
-
-Sie können Tickets für vergangene Reisen sowohl auf bahn.de als auch im DB Navigator bis zu 14 Monate lang abrufen.
-
-* [Hilfe zu "Buchung verwalten"](https://www.bahn.de/hilfe#/buchung-verwalten)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-eine-uebersicht-meiner-online-gebuchten-tickets)
-
- Wie erhalte ich mein Geld bei einer Sofortstornierung zurück?
-----------
-
-Der komplette Zahlungsbetrag Ihres Auftrags wird Ihnen auf das ursprünglich verwendete Zahlungsmittel zurückerstattet.
-
-Bei der Buchung verwendete Gutscheine behalten ihre Gültigkeit. eCoupons können nicht erstattet werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-mein-geld-bei-einer-sofortstornierung-zurueck)
-
- Wie erhalte ich mein Geld zurück bei Umtausch oder Stornierung?
-----------
-
-Haben Sie das Ticket per Kreditkarte bezahlt, erhalten Sie eine Gutschrift über den Betrag (ggf. abzüglich Bearbeitungsentgelt) auf die Kreditkarte, mit der Sie das Ticket gezahlt haben.
-
-Bei Zahlung per Lastschrift erfolgt die Gutschrift auf Ihr Bankkonto. Alle Zahlungen eines Tages werden miteinander verrechnet und als eine Buchung auf Ihrem Konto vorgenommen.
-
-Um die Erstattung zu beantragen, rufen Sie das digitale Ticket über die Auftragssuche oder die Buchungsrückschau in Ihrem DB Kundenkonto auf.
-
-Für Fahrkarten, die Sie im Reisezentrum oder am DB Automaten gekauft haben:
-Gehen Sie zu einem DB Reisezentrum, um den Umtausch oder die Erstattung vorzunehmen.
-
-* [Mehr zu Umtausch und Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-mein-geld-zurueck-bei-umtausch-oder-stornierung)
-
- Wie erhalte ich mein Digitales Ticket nach der Buchung?
-----------
-
-**In der App DB Navigator:**
-
-1. Nach Abschluss der Buchung wird Ihr Digitales Ticket als QR-Code für die Ticketkontrolle angezeigt.
-2. Sie finden das Ticket auch im Bereich "Reisen" und können es dort erneut öffnen.
-3. Optional erhalten Sie per E-Mail eine Buchungsbestätigung mit der Auftragsnummer und dem PDF des Tickets.
-4. Um ein Ticket manuell in die App zu laden, gehen Sie zu "Reisen", tippen Sie auf das Plus-Symbol oben rechts, geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein und laden Sie das Ticket.
-
-**Nach der Buchung auf bahn.de:**
-
-1. Sie können Ihr Ticket mit dem Button "Ticket als PDF herunterladen" auf Ihrem Gerät anzeigen und abspeichern.
-2. Sie erhalten Ihr Ticket auch als PDF per E-Mail.
-3. Ihre gebuchten Tickets werden im Reiter "Meine Reisen" angezeigt, wenn Sie in Ihr DB Kundenkonto eingeloggt sind.
-4. Sollte Ihr über bahn.de gebuchtes Ticket nach dem Login im DB Navigator nicht automatisch angezeigt werden, können Sie das Ticket manuell hinzufügen, wie oben beschrieben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-mein-online-ticket-nach-der-buchung)
-
- Wie erkenne ich, ob das City-Ticket bei meiner Fahrkarte mit dabei ist?
-----------
-
-Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "+City" auf Ihrer Fahrkarte.
-
-[Weitere Informationen zum City Ticket](https://www.bahn.de/angebot/weiterreise/city-ticket)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erkenne-ich-ob-das-city-ticket-bei-meiner-fahrkarte-mit-dabei-ist)
-
- Wie erstatten wir Ihre Kosten für Taxi oder Hotel?
-----------
-
-Für kostenfrei Reisende mit Schwerbehindertenausweis mit Beiblatt und Wertmarke gelten die gleichen Regeln für die Inanspruchnahme von Taxi und Hotelübernachtungen wie für andere Reisende. Das gilt bei eingetragenem Merkzeichen B auch jeweils für eine Begleitperson.
-
-* [Mehr dazu in den "Häufigen Fragen" zum Thema Fahrgastrechte](https://www.bahn.de/hilfe?faq-search-term=fahrgastrechte&show-all=no)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erstattung-kosten-fuer-taxi-oder-hotel)
-
- Wie funktionieren die Benachrichtigungen zur Reise bei Umstiegen?
-----------
-
-Bei einer Verbindung mit Umstiegen informieren wir Sie, wenn der erste Zug Ihrer Reise vor Abfahrt mehr als 5 Minuten Verspätung hat. Für den zweiten Zug (oder weitere Züge) Ihrer Reise bekommen Sie keine Benachrichtigungen, wenn dieser verspätet ist, die Umsteigezeit trotz Verspätung aber trotzdem ausreicht.
-
-Wenn der Zug zu Beginn Ihrer Reise pünktlich war und sich dann im Laufe der Fahrt Änderungen ergeben, versenden wir aktuelle Benachrichtigungen erst 2 Stunden vor Ankunft am Zielbahnhof. Deshalb kann es sein, dass Sie bei längeren Strecken bereits im Zug sitzen, wenn Sie eine Benachrichtigung erhalten. Droht die Gefahr, dass Sie wegen einer Verspätung Ihren Anschluss nicht erreichen könnten, werden Sie immer sofort informiert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktionieren-die-benachrichtigungen-zur-reise-bei-umstiegen)
-
- Was muss bei einer Monatskarte für Schüler beim Reisen mit Bus & Bahn beachtet werden?
-----------
-
-Die Schülermonatskarte gilt für Schülerinnen, Schüler und Studiernde, sofern diese eine Berechtigungskarte vorlegen können.Sie können die Monatskarte im DB Reisezentrum und online bestellen. Sie müssen aber die ausgefüllte Berechtigungskarte mit vorlegen.
-
-[Weitere Informationen zu Wochen- und Monatskarten für Schüler](https://www.bahn.de/angebot/pendler/schuelerzeitkarten)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-monatskarte-fuer-schueler)
-
- Wie funktioniert die Sitzplatzreservierung im Fernverkehr?
-----------
-
-Sie können für Ihre Fahrt im Fernverkehr **eine Fahrkarte mit oder ohne Sitzplatzreservierung** buchen.
-
-**So fügen Sie eine Sitzplatzreservierung hinzu:**
-
-* **Während der Buchung:** Unter "Zusatzoptionen" können Sie bei der Buchung eine Sitzplatzreservierung hinzufügen. Mit der "grafischen Sitzplatzanzeige" können Sie Ihre Wunschplätze direkt auswählen und reservieren.
-* **Ohne Ticketkauf:** Sie können auch einen Sitzplatz ohne Fahrkarte reservieren.
-
-**Über die Website bahn.de:**
-
-1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
-2. Klicken Sie auf "Nur Sitzplatz buchen".
-
-Über die **App DB Navigator:**
-
-1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
-2. Unter "Nur Reservierung" können Sie den Sitzplatz wählen.
-3. Alternativ können Sie auf der Startseite oben links im Dropdown-Menü statt "Einfache Fahrt" die Option "Nur Reservierung (Sitzplatz, Fahrrad)" auswählen und einen Sitzplatz buchen.
-
-Für Kundinnen und Kunden der 1. Klasse ist **beim Kauf eines Flexpreis-Tickets eine Sitzplatzreservierung automatisch enthalten.**
-
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-sitzplatzreservierung-im-fernverkehr)
-
- Wie funktioniert der Komfort Check-in im DB Navigator?
-----------
-
-**1) Sitzplatz einnehmen**
-
-* Setzen Sie sich auf den von Ihnen reservierten oder einen frei verfügbaren Sitzplatz.
-
-**2) Check-in durchführen**
-
-* Öffnen Sie in der DB Navigator App die Kategorie „Reisen“ und wählen Sie Ihr aktuelles Ticket (nicht die ggf. separat gebuchte Reservierung) aus.
-* Klicken Sie auf den Reiter „Reiseplan“ und weiter auf den Button „Komfort Check-in“ Ihrer aktuellen Verbindung.
-* Bestätigen Sie Ihren Sitzplatz (mit Reservierung) oder geben diesen manuell ein (ohne Reservierung) und klicken Sie auf „jetzt einchecken“.
-
-**3) Bestätigung**
-
-* Es erscheint ein grüner Bestätigungsbildschirm, d.h. Ihr Ticket wurde digital entwertet und muss in der Regel nicht mehr vorgezeigt werden.
-* Bei einem Sitzplatzwechsel nutzen Sie bitte den Button „Sitzplatz ändern“ im Reiseplan, um den sitzplatzgebundenen Check-in zu aktualisieren. Dadurch wird das Zugpersonal über Ihren neuen Sitzplatz informiert und Sie werden auch auf diesem in der Regel nicht mehr kontrolliert.
-
-Hinweis
-In bestimmten Fällen sind weiterhin Ticketkontrollen möglich (siehe Frage: [Warum werde ich trotz Komfort Check-in vom Personal kontrolliert?](https://www.bahn.de/faq/kontrolle-trotz-kci))
-
-**Tipps:**
-
-* Sie haben die Sitzplatzreservierung nicht zusammen mit dem Zugticket gebucht?
-
-Kein Problem. Einfach das Zugticket mit einem Klick auf „Reservierung verwenden“ verknüpfen. Hierzu benötigen Sie ggf. zusätzlich die Reservierungsnummer (Res. Nr.) aus der Bestätigungsemail oder den Reservierungsinfos (PDF).
-
-* Sie haben Ihre BahnCard noch nicht im DB Kundenkonto hinterlegt?
-
-Kein Problem. Geben Sie bitte Ihre BahnCard-Nummer während des Check-in-Prozesses manuell ein und speichern Sie diese idealerweise in Ihrem DB Kundenkonto. Bei Ihrem nächsten Check-in erfolgt die Überprüfung automatisch.
-
-* Sie wollen den Check-in bei Ihrer nächsten Reise noch unkomplizierter durchführen?
-
-Kein Problem. Einfach Mitteilungen der DB Navigator App auf Ihrem Smartphone aktivieren. Sie werden zukünftig von uns kurz vor Beginn Ihrer Reise an den Komfort Check-in erinnert und können innerhalb weniger Klicks einchecken.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-kci-db-navigator)
-
- Wie funktioniert der Komfort Check-in für Kinder und Familien?
-----------
-
-Erwachsene und Kinder ab 6 Jahre, die mit digitalen Tickets reisen, können sich mit dem Komfort Check-in auf ein entspanntes Reisen freuen und sich zudem in vielen Zügen dank der Belegtanzeige den Sitzplatz sichern.
-
-Weitere Informationen sowie die genauen Bedingungen zum [Komfort Check-in](https://www.bahn.de/service/zug/komfort-check-in)
-
-* [Reisen mit Kind](https://www.bahn.de/faq/pk/service/individuelle-reise/kinder)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-kci-fuer-kinder-und-familien)
-
- Wie funktioniert die Wagenreihung in Echtzeit?
-----------
-
-Alle Wagen sind mit sogenannten RFID-Chips (Radio Frequency Identification) ausgestattet und auf der Strecke installierte die DB an wichtigen Knotenpunkten Auslesegeräte. Überfährt der Zug das Auslesegerät, erkennt dieses die aktuelle Wagenreihung und übermittelt die Daten in Echtzeit an Systeme, bei dem die Daten gesichert und für die Kunden aufbereitet werden. Die Daten werden dann im DB Navigator und auf den Anzeigetafeln am Bahnsteig (sogenannte Zugzielanzeiger) angezeigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-wagenreihung)
-
- Wie bekomme ich bei einer Stornierung mein Geld zurück, wenn ich mit Apple Pay bezahlt habe?
-----------
-
-Sparpreis-Tickets: Bei Stornierung eines Sparpreis-Tickets erhalten Sie einen Stornogutschein.
-
-**Andere stornierbare Leistungen (z.B. Flexpreis, Regionale Tickets):** Der Wert der gekauften Leistung wird Ihnen auf die mit Apple Pay verwendete Debit- oder Kreditkarte zurückgebucht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-geld-zurueck-bei-stornierung-mit-apple-pay)
-
- Wie storniere ich eine Hilfeleistung?
-----------
-
-Wenn Sie Ihre Reise nicht antreten, sagen Sie die angemeldeten Hilfeleistungen bitte ab. So können andere mobilitätseingeschränkte Reisende Unterstützung erhalten.
-
-Die Stornierung einer Hilfeleistung erfolgt nicht automatisch mit der Ticketstornierung.
-
-Bei weiteren Fragen wenden Sie sich vor der Reise an die Mobilitätsservice-Zentrale. Während der Reise fragen Sie den Service im Bahnhof oder das Personal im Zug.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-hilfeleistung-storniern)
-
- Wie hoch ist der Wert der DB Geschenkkarte?
-----------
-
-Die aktuell im Handel erhältliche DB Geschenkkarte hat einen Wert von 30 Euro.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-hoch-ist-der-wert-der-db-geschenkkarte)
-
- Wie kann ich automatisch BahnBonus Punkte sammeln?
-----------
-
-1. Loggen Sie sich auf der Website bahn.de oder im DB Navigator in Ihrem DB Kundenkonto ein.
-2. Gehen Sie auf bahn.de über "Kundenkonto verwalten" oder im DB Navigator über den Menüpunkt "Profil" in den Bereich "BahnBonus".
-3. Aktivieren Sie "Automatisch Prämien- und Statuspunkte sammeln". Bei Neuanmeldungen ist dies schon voreingestellt.
-
-So sammeln Sie automatisch Punkte bei Buchungen auf bahn.de und im DB Navigator, sobald Sie in Ihrem DB Kundenkonto eingeloggt sind.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-automatisch-bahnbonus-punkte-sammeln)
-
- Wie kann ich das ICE Portal aufrufen?
-----------
-
-1. Verbinden Sie sich mit Ihrem mobilen Endgerät (Smartphone, Tablet oder Laptop) mit dem kostenfreien WLAN "WifionICE".
-2. Klicken Sie im Browser auf das ICE Portal oder geben Sie ICEportal.de ein.
-
-Je nach Betriebssystem und Endgerätetyp kann es zu Unterschieden im Login-Prozess kommen. Außerhalb des Zuges werden Sie auf die [ICE Portal-Seite auf bahn.de](https://bahn.de/service/zug/ice-portal) weitergeleitet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-das-ice-portal-aufrufen)
-
- Wie kann ich das Kleinkindabteil reservieren?
-----------
-
-Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Sitzplatzreservierung buchen. Eine Schritt-für-Schritt-Anleitung finden Sie unter
-
-* [Kleinkindabteil in unseren ICEs.](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-das-kleinkindabteil-reservieren)
-
- Wie kann ich den 2. Faktor deaktivieren/ ausschalten?
-----------
-
-1. Loggen Sie sich mit Ihrem Benutzernamen und Passwort ein.
-2. Rufen Sie den Bereich "Login & Sicherheit“ auf.
-3. Nun können Sie die zuvor von Ihnen aktivierte 2-Faktor-Authentifzierung deaktivieren. Folgen Sie einfach den Anweisungen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-2-faktor-deaktivieren-ausschalten)
-
- Wie kann ich den Kundendialog der Deutschen Bahn erreichen?
-----------
-
-Bitte nutzen Sie unsere Self-Services und die Kontaktformulare auf der Hilfe & Kontakt-Seite.
-
-* [Zu Hilfe & Kontakt](https://www.bahn.de/hilfe)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-kundendialog-der-deutschen-bahn-erreichen)
-
- Wie kann ich den DB Navigator auf meiner Smartwatch nutzen?
-----------
-
-Über die Smartwatch-Funktionalität des DB Navigators erhalten Sie Push-Nachrichten zu Ihrer Reise direkt auf Ihre Uhr. Auch die Reisevorschau mit allen relevanten Informationen kann auf der Smartwatch angezeigt werden, damit Sie Ihre aktuelle Reise noch besser im Blick behalten können.
-Die Reisevorschau auf der Smartwatch zeigt ab einer Stunde vor Reisebeginn alle relevanten Reisedetails wie z. B. die verbleibende Zeit bis zum Reisebeginn oder den Umstieg. Damit haben Sie alle wichtigen Reisedetails vor und während Ihrer Reise immer bequem im Blick - ohne Ihr Handy aus der Tasche ziehen zu müssen.
-
-Um die Reisevorschau auf Ihrer Smartwatch nutzen zu können, muss die Watch einmalig mit Ihrem DB Kundenkonto verknüpft werden.
-
-**So geht’s mit Wear OS:**
-
-* Apps auf dem Smartphone werden nicht automatisch mit der Smartwatch synchronisiert.
-* Bitte fügen Sie die App DB Navigator über den Google Play Store auf Ihrer Smartwatch hinzu.
-
-**So geht’s mit der Apple Watch:**
-
-* Wenn Sie nichts an den Grundeinstellungen der Apple Watch verändert haben, wird die App DB Navigator automatisch auch auf der Apple Watch installiert.
-* Wenn Sie die Funktion „Automatische App-Installation“ deaktiviert haben, müssen Sie die App DB Navigator manuell über die App „Watch“ installieren. Diese finden Sie auf Ihrem Smartphone.
-* Öffnen Sie nun die App DB Navigator auf Ihrer Apple Watch und klicken Sie auf „Anmelden“. Anschließend werden Sie aufgefordert, die App DB Navigator auf Ihrem iPhone zu öffnen. Wenn Sie dies getan haben, bestätigen Sie dies auf Ihrer Watch mit „Weiter“. Übertragen Sie dann den Login auf Ihre Watch, indem Sie auf dem iPhone auf „Anmelden“ klicken und Ihren Benutzernamen sowie Ihr Passwort Ihres DB Kundenkontos eingeben.
-
-Wenn Sie nun bei der Ticketbuchung oder über die Funktion „Reise merken“ die digitale Reisebegleitung aktivieren, erhalten Sie Push-Benachrichtigungen sowie die Reisevorschau nun auch bequem auf Ihrer Smartwatch.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-navigator-auf-meiner-smartwatch-nutzen)
-
- Wie kann ich den Sparpreis Senioren buchen?
-----------
-
-Der Sparpreis Senioren ist in der **regulären Verbindungsauskunft** **auf bahn.de** und in unserer **App DB Navigator** zu finden. In DB Reisezentren und Agenturen kann der Sparpreis Senioren als Digitales Ticket erworben werden.
-
-**Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
-
-[Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-sparpreis-senioren-buchen)
-
- Wie kann ich den Super Sparpreis Senioren buchen?
-----------
-
-Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsauskunft auf bahn.de** und in unserer **App DB Navigator** kaufen. In den DB Reisezentren und Agenturen ist der Super Sparpreis Senioren als Digitales Ticket erhältlich.
-
-**Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
-
-[Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-super-sparpreis-senioren-buchen)
-
- Wie kann ich meine E-Mail-Adresse ändern?
-----------
-
-* Sie können Ihre E-Mail-Adresse in Ihrem DB Kundenkonto im Bereich "Login & Sicherheit" unter "Benutzername/E-Mail ändern" aktualisieren.
-* Diese E-Mail-Adresse wird sowohl für den Login als auch für Buchungen verwendet.
-* Wir kontaktieren Sie über diese E-Mail-Adresse und senden alle gebuchten Leistungen, wie zum Beispiel Tickets, an diese Adresse.
-
-Bitte beachten Sie, dass abweichende E-Mail-Adressen nicht mehr verwendet werden können. Ihr neuer Benutzername muss Ihrer gewünschten Kontakt-E-Mail-Adresse entsprechen. Eine Änderung der E-Mail-Adresse im Bereich "Persönliche Daten" ist nicht möglich. Falls Sie die gewünschte E-Mail-Adresse schon als Kontakt verwenden, können Sie diese auch als Benutzernamen festlegen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-e-mail-adresse-aendern)
-
- Wie kann ich die Sprache im DB Navigator ändern?
-----------
-
-Die App ist auf Deutsch und Englisch verfügbar. Möchten Sie die Sprache der App anpassen, haben Sie folgende Möglichkeiten:
-
-**Für Android:**
-Öffnen Sie die Systemeinstellungen Ihres Smartphones und wählen Sie in den Sprachreinstellungen anschließend den Punkt "App-Sprachen" aus. Wählen Sie nun die App DB Navigator und anschließend eine der vorgeschlagenen Sprachen aus.
-
-**Für iOS:**
-Öffnen Sie die Systemeinstellungen Ihres iPhones und wählen Sie anschließend ganz unten den Punkt „Apps“ aus. In den Einstellungen wählen Sie nun die App DB Navigator und anschließend eine der vorgeschlagenen Sprachen aus.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-sprache-aendern-app)
-
- Wie kann ich ein BahnBonus Statuslevel erreichen?
-----------
-
-Wenn Sie BahnBonus Teilnehmer:in sind und innerhalb von 12 Monaten folgende Anzahl an Statuspunkten erreicht haben, erhalten Sie diese Statuslevel:
-
-* Level Silber - ab 1.500 Statuspunkten
-* Level Gold - ab 2.500 Statuspunkten
-* Level Platin - ab 6.000 Statuspunkten
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ein-bahnbonus-statuslevel-erreichen)
-
- Wie kann ich ein Ticket auf eine andere Person umschreiben?
-----------
-
-Sie können ein Ticket nicht auf eine andere Person umschreiben.
-
-Vorgehensweise bei stornierbaren Tickets (Flexpreis, Sparpreis):
-1. Stornieren Sie das vorhandene Ticket.
-2. Buchen Sie ein neues Ticket für die richtige Person.
-
-Hinweis:
-Bei Super Sparpreis-Tickets ist weder eine Stornierung noch eine Umbuchung möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ein-ticket-auf-eine-andere-person-umschreiben)
-
- Wie kann ich ein Verbundticket über den DB Navigator erwerben?
-----------
-
-Sie haben 3 Möglichkeiten, ein Verbundticket in der App zu kaufen:
-
-**1) Über die Reiseauskunft:**
-
-* Geben Sie Start- und Zielverbindung ein.
-* Die App erkennt automatisch den passenden Verbund und zeigt die entsprechenden Produkte an.
-
-**2) Über Verbundshops (Menüpunkt "Verbundtickets"):**
-
-* Konfigurieren Sie Ihr Ticket nach Bedarf.
-* Beachten Sie, dass Sie verbundsspezifische Informationen, wie die Preisstufe, benötigen.
-
-**3) Über den Schnellbuchungseinstieg:**
-
-* Wischen Sie den farblich hervorgehobenen Balken am rechten Bildschirmrand in der Verbindungsauskunft.
-* Diese Option bietet eine schnellere Buchung mit einem eingeschränkten Produktsortiment.
-
-**Besonderheiten:**
-
-* Einige Produkte, wie Einzelfahrten, sind nur sofort gültig. Auch wenn ein Datum in der Zukunft ausgewählt wird, gilt das Ticket sofort ab dem Kaufzeitpunkt. Ist dies der Fall erfolgt eine farbliche Kennzeichnung auf der Angebotsdetailseite.
-* Verbundtickets können nur für eine Person gekauft werden. Wird in den Optionen die Anzahl der Reisenden verändert, wird dies in der Buchung nicht weiter berücksichtigt.
-* Es ist möglich, ein Verbundticket für eine andere Person zu kaufen. Der Name kann im Buchungsverlauf eingegeben werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ein-verbundticket-ueber-den-db-navigator-erwerben)
-
- Wie kann ich eine Sofortstornierung vornehmen?
-----------
-
-In den ersten 3 Stunden nach Buchung bieten wir Ihnen die kostenlose "Sofortstornierung". Das funktioniert wie folgt:
-
-**Im DB Kundenkonto auf bahn.de**
-
-* Loggen Sie sich mit Ihren Anmeldedaten in Ihr DB Kundenkonto ein.
-* Rufen Sie den Reiter "Meine Reisen" auf.
-* Klicken Sie hier auf die Buchung, die Sie stornieren wollen.
-* Bei einer stornierbaren Buchung sehen Sie jetzt die Auswahl "Stornieren".
-* Wählen Sie dort "Sofortstornierung" aus.
-
-**Im DB Kundenkonto im DB Navigator**
-
-* Loggen Sie sich mit Ihren Anmeldedaten im DB Navigator ein.
-* Rufen Sie unten den Punkt "Reisen" auf.
-* Klicken Sie hier auf die Buchung, die Sie stornieren wollen.
-* Über die Auswahl "Weitere Aktionen" am Ende der Seite erscheinen verschiedene Optionen.
-* Unter "Zur Stornierung" wählen Sie jetzt per Schieberegler die Sofortstornierung aus.
-
-**Bei einer Buchung als Gast**
-
-* Rufen Sie die Auftragssuche auf bahn.de auf. Den Link zur Auftragssuche finden Sie weiter unten.
-* Geben Sie die Auftragsnummer der Buchung ein, die storniert werden soll.
-* Geben Sie den Nachnamen der ursprünglich reisenden Person ein und bestätigen Sie mit "Suchen".
-* Bei einer stornierbaren Buchung sehen Sie nun die Auswahl "Stornieren".
-* Wählen Sie nun unter "Stornieren" die Sofortstornierung aus.
-
-Die Sofortstornierung gilt immer für den gesamten Auftrag. Dazu gehören auch die zusätzlich gebuchten Leistungen eines Auftrages wie z.B. eine Sitzplatzreservierung.
-
-* [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-eine-sofortstornierung-vornehmen)
-
- Wie kann ich einen DB Geschenkgutschein kaufen?
-----------
-
-Um einen DB Geschenkgutschein **online kaufen** zu können, müssen Sie sich einloggen. DB Geschenkgutscheine gibt es im Wert von 10, 20, 50 oder 100 Euro. Während des Bestellprozesses haben Sie die Möglichkeit, Ihren Geschenkgutschein zu personalisieren. Nachdem Sie den Kauf abgeschlossen haben, erhalten Sie den DB Geschenkgutschein als PDF an ihre E-Mail-Adresse.
-
-Alternativ können Sie DB Geschenkgutscheine auch in **DB Reisezentren** oder in **DB Agenturen** kaufen.
-
-DB Geschenkgutscheine können nicht per Lastschrift oder per Gutschein bezahlt werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-einen-db-geschenkgutschein-kaufen)
-
- Wie kann ich auf bahn.de oder in der App DB Navigator bezahlen?
-----------
-
-Sie können in der App mit folgenden Zahlungsmitteln zahlen:
-
-* Kreditkarte (Ihre Kreditkarte muss das 3D-Secure-Verfahren unterstützen)
-* PayPal
-* SEPA-Lastschrift
-* Apple Pay (nur für iOS Geräte)
-* Bonvoyo
-
-Sie haben einen Gutschein der Deutschen Bahn und möchten diesen einlösen?
-
-* [Lesen Sie hier, was Sie bei Gutscheinen beachten müssen.](https://www.bahn.de/service/gutscheine/gutscheine-einloesen)
-* [Weitere Informationen zu Zahlungsarten](https://www.bahn.de/service/informationen-buchung/zahlung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-dbnavigator-bezahlen)
-
- Wie kann ich im DB Navigator einen Zwischenhalt hinzufügen?
-----------
-
-Sie können Ihre Reise individualisieren, indem Sie auf der Startseite des DB Navigators unter der Verbindungssuche auf "Optionen" klicken. Über "Zwischenhalte" können Sie für Ihre Reise einen bestimmten Bahnhof oder eine bestimmte Haltestelle auswählen, über die Ihre Reiseroute verlaufen soll. Außerdem können Sie für den Zwischenhalt auch eine gewünschte Aufenthaltsdauer einstellen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-einen-zwischenhalt-hinzufuegen)
-
- Wie kann ich im DB Navigator Streckenfavoriten anlegen und sortieren?
-----------
-
-Um einen Streckenfavoriten anzulegen, klicken Sie auf der Startseite der App im Bereich "Meine Favoriten" auf "Favorit hinzufügen". Geben Sie Start und Ziel an. Alternativ können Sie Streckenfavoriten in der Verbindungsübersicht über das Sternsymbol speichern.
-
-So können die Streckenfavoriten sortiert werden: Klicken Sie im Menübereich „Profil“ im Abschnitt "Favoriten" zunächst auf "Mehr" und dann auf „Bearbeiten“. Anschließend können Sie die Streckenfavoriten durch längeres Halten und Verschieben der drei waagerechten Striche eines jeweiligen Streckenfavoriten in die gewünschte Reihenfolge bringen.
-Die Streckenfavoriten werden Ihnen dann in der festgelegten Reihenfolge im Menübereich "Buchen" unter "Meine Favoriten" angezeigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-streckenfavoriten-anlegen-und-sortieren)
-
- Wie kann ich mein internationales Ticket buchen?
-----------
-
-Sie können Ihr internationales Ticket als Online-Ticket (bzw. ticketless: e-ticket / PNR bei Zügen der Trenitalia) buchen. Dazu brauchen Sie nur eine gültige E-Mail-Adresse für die Buchungsbestätigung sowie eine Kreditkarte oder ein PayPal-Konto für die Zahlung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-internationales-ticket-buchen)
-
- Wie kann ich mein Sparpreis oder Super Sparpreis Europa-Ticket umtauschen?
-----------
-
-Der Super Sparpreis Europa kann nicht storniert bzw. erstattet werden. Der Sparpreis Europa kann bis 1 Tag vor Reiseantritt storniert werden. Das Bearbeitungsentgelt beträgt 10 Euro. Die Auszahlung erfolgt in Form eines Gutscheins, der 3 Jahre gültig ist. Eine Erstattung kann aufgrund des günstigen Preises nicht mehr angeboten werden. Ab dem Reisetag ist eine Stornierung ausgeschlossen. Um Ihr Sparpreis Europa-Ticket zu stornieren, gehen Sie in "Meine letzten Buchungen" in "Meine Reisen" im DB Kundenkonto oder nutzen Sie die Auftragssuche. Danach können Sie Ihr neues Ticket wie gewohnt buchen.
-
-* [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-sparpreis-oder-super-sparpreis-europa-ticket-umtauschen)
-
- Wie kann ich mein Sparpreis-Ticket umbuchen?
-----------
-
-Sie können Ihr Sparpreis-Ticket bis 1 Tag vor dem Reisetag (Hinfahrt) online umtauschen. Dies ist auf bahn.de oder im DB Navigator möglich.
-
-**Gebühren:**
-
-* Die Gebühr für den Umtausch beträgt 10 Euro.
-* Sie erhalten die Auszahlung in Form eines Reisegutscheins.
-
-**Sofortstornierung**:
-
-* Unabhängig von den tariflichen Konditionen können Sie Ihre auf bahn.de oder im DB Navigator gebuchten Tickets innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren.
-* Sie erhalten den kompletten Betrag zurück.
-
-* [Mehr zu Umtausch & Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-sparpreis-ticket-umbuchen)
 
  Wie kann ich mein Digitales Ticket umtauschen oder stornieren?
 ----------
@@ -7660,91 +1419,1402 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie auf bahn.de oder
 
 Teilstornierungen von Online-Tickets sind nicht möglich. Kann zum Beispiel bei einer Mehr-Personen-Fahrkarte eine Person die Fahrt nicht antreten, können Sie nur das komplette Online-Ticket stornieren. Buchen Sie dann für die verringerte Personenzahl neu. Hierbei kann nicht garantiert werden, dass die Preise vorheriger Buchungen wieder verfügbar sind. Achtung: Ihre Sitzplatzreservierung wird bei der Stornierung mit storniert; der Betrag hierfür kann laut Tarif nicht erstattet werden.
 
-* [Informationen zu Umtausch und Stornierung von Tickets](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-ticket-umtauschen-oder-stornieren)
-
- Wie kann ich mein Tier ins Ausland mit auf Reisen nehmen?
+ So stornieren Sie Ihr Digitales Ticket
 ----------
 
-Lebende Haustiere (bis zur Größe einer Hauskatze), die in einer Transportbox oder einem geeigneten Behälter wie Handgepäck untergebracht sind, können in Zügen kostenfrei mitgenommen werden. Blindenführhunde können immer kostenfrei mitgenommen werden und müssen keinen Maulkorb tragen. Hunde, die nicht in Behältnissen untergebracht werden können, müssen in Zügen an der Leine geführt werden und einen Maulkorb tragen.
+Ein **Digitales Ticket** können Sie wie folgt stornieren:
 
-Fahrkarten für große Hunde auf internationalen (=grenzüberschreitenden) Fahrten kosten 50 % des Flexpreises oder Sparpreises für Erwachsende im Fernverkehr, bzw. 50 % des Normalpreises für Erwachsene im Nahverkehr. Im Nahverkehr können Sie evtl. auch günstige Aktionsangebote (z.B. Quer-durchs-Land-Ticket, Länder-Tickets) nutzen.
+**Auf bahn.de mit DB Kundenkonto**
 
-Ausnahme: Haustiere (ausgenommen Blindenführ-und Begleithunde) sind im Verkehr von/nach Großbritannien, Nordirland, der Republik Irland und Norwegen **nicht zugelassen**.
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Gehen Sie über das Menü "Meine Reisen" zu Ihren Aufträgen.
+3. Wählen Sie die entsprechende Reise aus.
+4. Klicken Sie auf "Stornieren" und anschließend auf "Stornierung durchführen".
 
-Nach Italien ist die Mitnahme von großen Hunden ausgeschlossen. Für Fahrten innerhalb der Länder können Sonderbedingungen gelten.
+**Auf bahn.de ohne DB Kundenkonto**
 
-**Hinweise:** Sitzplatzreservierungen sind für Hunde generell nicht möglich.
+1. Gehen Sie zu "[Meine Reisen](https://www.bahn.de/buchung/meine-reisen)" und geben Sie die Auftragsnummer Ihrer Buchung und den Nachnamen der reisenden Person ein.
+2. Ihr Auftrag wird eingeblendet.
+3. Klicken Sie auf "Stornieren" und dann auf "Stornierung durchführen".
 
-**Buchung:** Fügen Sie bei Ihrer Online-Buchung neben dem Reisenden einen weiteren Reisenden Typ "Hund" zu.
+**Im DB Navigator**
 
-[Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
+1. Öffnen Sie die App DB Navigator und gehen Sie zu "Reisen".
+2. Wählen Sie die entsprechende Reise aus.
+3. Tippen Sie unten auf "Weitere Aktionen".
+4. Wählen Sie "Zur Stornierung" aus und bestätigen Sie die Stornierung Ihrer Reise.
 
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
+**Wichtig:**
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-tier-ins-ausland-mit-auf-reisen-nehmen)
+* Bei einem **Sparpreis-Ticket** erhalten Sie den Preis abzüglich eines Bearbeitungsentgelts als Stornogutschein.
+* Bei einem **Flexpreis-Ticket** erfolgt die Erstattung auf Ihr bei der Buchung angegebenes Konto oder Zahlungsmittel (ggf. abzüglich eines Bearbeitungsentgelts).
 
- Wie kann ich mein Tier mit auf Reisen nehmen?
+ Ich habe mich bei der Buchung vertan und das Reisedatum, die Wagenklasse oder eine andere Angabe falsch ausgewählt. Was jetzt?
 ----------
 
-Kleine Tiere (bis zur Größe einer Hauskatze) können im Transportbehälter kostenlos mitgenommen werden. Wenn Sie ein Tier mitnehmen, das nicht im Transportbehälter als Handgepäck transportiert werden kann, also beispielsweise einen großen Hund, zahlen Sie den halben Fahrpreis - sowohl für den Flexpreis, den Normalpreis im Nahverkehr, als auch für die Sparpreise im Fernverkehr. Im Nahverkehr können Sie auch günstige Aktionsangebote (z.B. Quer-durchs-Land-Ticket, Länder-Tickets) nutzen.
-Die Transportbox muss unter den Sitz oder in die Gepäckablage über dem Sitz passen.
+Ein Umtausch bereits gebuchter Tickets und Reservierungen ist nicht möglich. Sie können Ihre gebuchten Tickets zu den geltenden Tarifbestimmungen stornieren und neu buchen.
 
-**Buchung:**
-Fügen Sie in der Buchungsanfrage auf der Website unter "Reisende" den Reisendentyp "Hund" hinzu. Der Hund wird dann bei der Preisberechnung automatisch berücksichtigt.
+Für ausgewählte Fernverkehrs-Tickets können Sie eine Sofortstornierung bis zu 3 Stunden nach der Buchung über die App DB Navigator oder über bahn.de vornehmen.
+
+ Kann ich mein Online-Ticket auf andere Personen übertragen?
+----------
+
+Nein, Sie können Ihr Online-Ticket nicht auf andere Personen übertragen.
+
+Als eingeloggter "Meine Bahn"-Kunde können Sie jedoch Tickets für andere Personen buchen. Diese Tickets sind ebenfalls nicht übertragbar und gelten nur für die bei der Buchung angegebene Person (gegebenenfalls inklusive Mitfahrern).
+
+ Wie kann ich ein Ticket auf eine andere Person umschreiben?
+----------
+
+Sie können ein Ticket nicht auf eine andere Person umschreiben.
+
+Vorgehensweise bei stornierbaren Tickets (Flexpreis, Sparpreis):
+1. Stornieren Sie das vorhandene Ticket.
+2. Buchen Sie ein neues Ticket für die richtige Person.
+
+Hinweis:
+Bei Super Sparpreis-Tickets ist weder eine Stornierung noch eine Umbuchung möglich.
+
+ Wie erhalte ich mein Geld zurück bei Umtausch oder Stornierung?
+----------
+
+Haben Sie das Ticket per Kreditkarte bezahlt, erhalten Sie eine Gutschrift über den Betrag (ggf. abzüglich Bearbeitungsentgelt) auf die Kreditkarte, mit der Sie das Ticket gezahlt haben.
+
+Bei Zahlung per Lastschrift erfolgt die Gutschrift auf Ihr Bankkonto. Alle Zahlungen eines Tages werden miteinander verrechnet und als eine Buchung auf Ihrem Konto vorgenommen.
+
+Um die Erstattung zu beantragen, rufen Sie das digitale Ticket über die Auftragssuche oder die Buchungsrückschau in Ihrem DB Kundenkonto auf.
+
+Für Fahrkarten, die Sie im Reisezentrum oder am DB Automaten gekauft haben:
+Gehen Sie zu einem DB Reisezentrum, um den Umtausch oder die Erstattung vorzunehmen.
+
+ Wie kann ich mein Sparpreis oder Super Sparpreis Europa-Ticket umtauschen?
+----------
+
+Der Super Sparpreis Europa kann nicht storniert bzw. erstattet werden. Der Sparpreis Europa kann bis 1 Tag vor Reiseantritt storniert werden. Das Bearbeitungsentgelt beträgt 10 Euro. Die Auszahlung erfolgt in Form eines Gutscheins, der 3 Jahre gültig ist. Eine Erstattung kann aufgrund des günstigen Preises nicht mehr angeboten werden. Ab dem Reisetag ist eine Stornierung ausgeschlossen. Um Ihr Sparpreis Europa-Ticket zu stornieren, gehen Sie in "Meine letzten Buchungen" in "Meine Reisen" im DB Kundenkonto oder nutzen Sie die Auftragssuche. Danach können Sie Ihr neues Ticket wie gewohnt buchen.
+
+ Wie kann ich mein Sparpreis-Ticket umbuchen?
+----------
+
+Sie können Ihr Sparpreis-Ticket bis 1 Tag vor dem Reisetag (Hinfahrt) online umtauschen. Dies ist auf bahn.de oder im DB Navigator möglich.
+
+**Gebühren:**
+
+* Die Gebühr für den Umtausch beträgt 10 Euro.
+* Sie erhalten die Auszahlung in Form eines Reisegutscheins.
+
+**Sofortstornierung**:
+
+* Unabhängig von den tariflichen Konditionen können Sie Ihre auf bahn.de oder im DB Navigator gebuchten Tickets innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren.
+* Sie erhalten den kompletten Betrag zurück.
+
+ Kann ich mein Ticket stornieren?
+----------
+
+Ob Sie Ihr Ticket stornieren können, hängt von dem von Ihnen gebuchten Tarif ab. Die genauen Stornierungsbedingungen finden Sie auf Ihrem Ticket.
+
+Unabhängig von den Tarifbestimmungen können Sie Ihr Ticket auf bahn.de und in der App DB Navigator innerhalb von 3 Stunden (180 Minuten) nach der Buchung vor dem ersten Geltungstag der Hinfahrt kostenfrei sofort stornieren.
+
+ Bei welchen Bahn-Tickets kann ich die Sofortstornierung nutzen?
+----------
+
+Diese Fernverkehrsangebote (online/mobil) können Sie direkt nach der Buchung wieder stornieren. Der Fahrkartenpreis wird dann wieder erstattet:
+
+* Super Sparpreis, Super Sparpreis Young, Super Sparpreis Senioren, Super Sparpreis Europa, Super Sparpreis Europa Young
+* Sparpreis, Sparpreis Young, Sparpreis Senioren, Sparpreis Europa, Sparpreis Europa Young
+* Flexpreis, Flexpreis Business, Flexpreis Europa
+* Super Sparpreis Gruppe, Super Sparpreis Gruppe Europa
+* Sparpreis Gruppe, Sparpreis Gruppe Europa
+* Nur Sitzplatz (ohne Ticket)
+
+Die Sofortstornierung greift immer für den gesamten Auftrag und umfasst auch die zusätzlich gebuchten Leistungen eines Auftrages (Sitzplatzreservierung, Fahrradkarte, City mobil, Fahrkarten-Schutz).
+
+Eine Teilstornierung einzelner Leistungskomponenten der Fahrkarte ist nicht möglich.
+
+ Wie lange kann ich mein Ticket mittels Sofortstornierung zurückgeben?
+----------
+
+Sie können Ihr Digitales Ticket bis zu 180 Minuten, also 3 Stunden, nach Ihrer Buchung sofort wieder stornieren.
+
+Sie erhalten nach dem Sofortstorno den kompletten Zahlungsbetrag automatisch auf das von Ihnen verwendete Zahlungsmittel zurückgebucht. E-Coupons werden nicht erstattet.
+
+Die Sofortstornierung ist nur vor dem 1. Geltungstag Ihres Tickets möglich.
+
+ Wie kann ich eine Sofortstornierung vornehmen?
+----------
+
+In den ersten 3 Stunden nach Buchung bieten wir Ihnen die kostenlose "Sofortstornierung". Das funktioniert wie folgt:
+
+**Im DB Kundenkonto auf bahn.de**
+
+* Loggen Sie sich mit Ihren Anmeldedaten in Ihr DB Kundenkonto ein.
+* Rufen Sie den Reiter "Meine Reisen" auf.
+* Klicken Sie hier auf die Buchung, die Sie stornieren wollen.
+* Bei einer stornierbaren Buchung sehen Sie jetzt die Auswahl "Stornieren".
+* Wählen Sie dort "Sofortstornierung" aus.
+
+**Im DB Kundenkonto im DB Navigator**
+
+* Loggen Sie sich mit Ihren Anmeldedaten im DB Navigator ein.
+* Rufen Sie unten den Punkt "Reisen" auf.
+* Klicken Sie hier auf die Buchung, die Sie stornieren wollen.
+* Über die Auswahl "Weitere Aktionen" am Ende der Seite erscheinen verschiedene Optionen.
+* Unter "Zur Stornierung" wählen Sie jetzt per Schieberegler die Sofortstornierung aus.
+
+**Bei einer Buchung als Gast**
+
+* Rufen Sie die Auftragssuche auf bahn.de auf. Den Link zur Auftragssuche finden Sie weiter unten.
+* Geben Sie die Auftragsnummer der Buchung ein, die storniert werden soll.
+* Geben Sie den Nachnamen der ursprünglich reisenden Person ein und bestätigen Sie mit "Suchen".
+* Bei einer stornierbaren Buchung sehen Sie nun die Auswahl "Stornieren".
+* Wählen Sie nun unter "Stornieren" die Sofortstornierung aus.
+
+Die Sofortstornierung gilt immer für den gesamten Auftrag. Dazu gehören auch die zusätzlich gebuchten Leistungen eines Auftrages wie z.B. eine Sitzplatzreservierung.
+
+ Wie erhalte ich mein Geld bei einer Sofortstornierung zurück?
+----------
+
+Der komplette Zahlungsbetrag Ihres Auftrags wird Ihnen auf das ursprünglich verwendete Zahlungsmittel zurückerstattet.
+
+Bei der Buchung verwendete Gutscheine behalten ihre Gültigkeit. eCoupons können nicht erstattet werden.
+
+ Kann ich auch BahnCard-Bestellungen sofort stornieren?
+----------
+
+Nein, eine Sofortstornierung Ihrer BahnCard-Bestellung ist nicht möglich. Das geltende Widerrufsrecht für die BahnCard 25 und 50 bleibt davon unberührt.
+
+ Ich habe ein Ticket gekauft. Das Geld wurde abgebucht, aber ich habe kein Ticket erhalten. Was kann ich tun?
+----------
+
+1. Prüfen Sie den Spamordner in Ihrem E-Mail-Postfach.
+2. Schauen Sie im Bereich "Meine Reisen" Ihres DB Kundenkontos nach.
+
+Ist das Ticket dort nicht vorhanden:
+
+* Es ist wahrscheinlich zu einer Fehlbuchung gekommen.
+* Buchen Sie ein neues Ticket.
+* Der abgebuchte Betrag für die Fehlbuchung wird Ihnen automatisch zurücküberwiesen.
+* Die Rückerstattung erfolgt je nach Zahlungsmittel zwischen 45 Minuten und wenigen Tagen.
+
+Sollten Sie nach einer Woche keine automatische Rückerstattung erhalten haben, rufen Sie uns unter [030 2970](http://030 2970) an.
+
+ Was kann ich tun, wenn ich bei Buchung eines Tickets und/oder einer Reservierung mehrmals belastet wurde?
+----------
+
+Rufen Sie uns unter [030 2970](tel:030 2970) an.
+
+ Welche Kreditkarten werden akzeptiert?
+----------
+
+Wir akzeptieren VISA, MasterCard, American Express, AirPlus und Diners Club.
+
+ Was ist 3D-Secure und PSD2?
+----------
+
+3-D Secure ist ein weltweit anerkanntes Authentifizierungs-Verfahren zum Schutz vor Kreditkartenmissbrauch im Internet.
+
+Seit September 2019 sind neue Sicherheitsstandards der Europäischen Bankenaufsicht in Kraft. Die überarbeitete EU Zahlungsdienste-Richtline PSD2 (Payment Service Directive 2) hat unter anderem zum Ziel, das Bezahlen im Internet noch sicherer zu machen. Dafür sieht sie zukünftig einen zweifachen Nachweis der Identität bei Bezahlvorgängen im Internet vor. Dies nennt sich "Starke Kundenauthentifizierung" oder auch Zwei-Faktor-Authentifizierung.
+
+Das bedeutet: Zahlungen im Internet müssen durch zwei unabhängige Merkmale der Kategorie Wissen, Besitz und Biometrie bestätigt werden:
+
+\- Wissen (Passwort oder PIN)
+\- Besitz (nutzerspezifisches Gerät)
+\- Biometrie (Fingerabdruck oder Gesichtserkennung)
+
+Je nach Kreditkarte nennt sich das Online-Legitimationsverfahren auch American Express SafeKey, Verified by VISA, MasterCard Identity Check oder Diners Club ProtectBuy.
+
+[Hier finden Sie weitere Informationen und Antworten auf häufige Fragen - zum Beispiel, wie Sie sich für das Verfahren registrieren.](https://www.bahn.de/service/buchung/zahlung/kreditkarte#3dsecure)
+
+ Muss ich vor der Buchung einen Login für PayPal haben?
+----------
+
+Nein. Wenn Sie PayPal als Zahlungsmittel auswählen, werden Sie zu PayPal weitergeleitet und können sich auch erstmalig anmelden.
+
+ Kann ich alle bahn.de Angebote mit PayPal bezahlen?
+----------
+
+Generell können Sie PayPal für die Zahlung auf bahn.de und im DB Navigator nutzen, unabhängig davon, ob Sie eingeloggt sind oder nicht.
+
+Gutscheine, die von PayPal ausgestellt wurden, können Sie nicht auf bahn.de einlösen.
+
+ Wie schütze ich mich vor Betrug beim Online-Kauf?
+----------
+
+* Werden Sie wachsam, wenn Ihnen vermeintliche "Schnäppchen" über Drittanbieter, z.B. über Mitfahrer-Portale, angeboten werden.
+* Kaufen Sie Ihre Fahrkarte nur bei bahn.de oder einem vertrauenswürdigen etablierten Partnerportal mit integrierter Buchung.
+* Kaufen Sie nur dort, wo Sie selbst den kompletten Buchungsprozess durchlaufen und achten Sie dabei auf Sicherheitsstandards und verschlüsselte Übertragung (SSL).
+* Lassen Sie eine Buchung für Dritte online nur durch eine Ihnen bekannte Person durchführen.
+* Geben Sie Ihre sensiblen persönlichen Daten wie Ausweis- oder Kreditkartennummer nicht an fremde Personen per E-Mail weiter!
+
+ Sind die von der Deutschen Bahn beauftragten Unternehmen für die Sicherheit beim Lastschriftverfahren zuverlässig?
+----------
+
+* Über die Zulassung der **Bundesanstalt für Finanzwesen (BaFin)** der Tink Germany GmbH und der Verimi GmbH können Sie sich in der Datenbank der BaFin unter den folgenden Verlinkungen vergewissern:
+  * [Tink Germany GmbH](https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=152149)
+  * [Verimi GmbH](https://portal.mvp.bafin.de/database/InstInfo/institutDetails.do?cmd=loadInstitutAction&institutId=150296)
+
+* Beide Anbieter sind zugelassene Zahlungsinstitute, die sogenannte „fachfremde Dienstleistungen“ anbieten dürfen. Dazu gehören die angebotenen Verfahren für die Lastschrift-Verifizierung.
+
+ Wie melde ich mich zum Lastschriftverfahren an?
+----------
+
+1. Loggen Sie sich bei "Meine Bahn" ein.
+2. In der rechten Spalte finden Sie den Punkt "Zahlungsdaten/Lastschrift". Klicken Sie auf "Jetzt einrichten".
+3. Nach Eingabe der Anmeldedaten zur SEPA-Lastschrift sind diese in Ihrem Kundenkonto gespeichert.
+
+Für künftige Lastschriftzahlungen können Sie Ihre Daten aus Ihrem Kundenkonto übernehmen.
+
+ Welche Voraussetzungen müssen erfüllt sein, dass ich per Lastschrift bezahlen kann?
+----------
+
+Um per Lastschriftverfahren bezahlen zu können, müssen Sie folgende Voraussetzungen erfüllen:
+
+* Sie müssen volljährig sein
+* Der Sitz Ihrer angegebenen Bank muss im SEPA-Raum liegen
+* Sie besitzen bereits ein Kund:innenkonto bei uns und haben dort die Anmeldedaten zur SEPA-Lastschrift hinterlegt
+* Sie müssen während der Buchung mit Ihrem Kund:innenkonto eingeloggt sein
+
+Gegebenenfalls werden Sie aufgefordert, Ihre Bankdaten mit Ihrem Online-Banking Login zu bestätigen. Dazu stehen die Verfahren von Tink und Verimi zur Verfügung. Falls Sie über kein Online-Banking verfügen, bietet Ihnen Verimi eine alternative Verifizierung mit Foto-Ident oder eID an.
+
+ Warum muss ich mich oder meine Bankdaten bestätigen?
+----------
+
+Durch die Bestätigung Ihrer Identität oder Bankdaten stellen wir sicher, dass nur von Ihnen autorisierte Bestellungen durchgeführt werden.
+
+ Wie kann ich meine Kontoverbindung für das Lastschriftverfahren ändern?
+----------
+
+Sie können Ihre Kontodaten in Ihrem DB Kundenkonto ändern. Klicken Sie dort im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern".
+
+Änderungen gelten nicht für Zahlungen zu Ihrem Abonnement. Für Zeitkarten-Abonnements und das Deutschland-Ticket ändern Sie Ihre Bankdaten im Aboportal unter "Meine Daten". Das Aboportal erreichen Sie über "Abos verwalten" in Ihrem Profil oder unter [abo.bahn.de](https://abo.bahn.de/).
+
+ Wie melde ich mich vom Lastschriftverfahren ab?
+----------
+
+Wenn Sie nicht mehr am Lastschriftverfahren teilnehmen möchten, klicken Sie in Ihrem DB Kundenkonto im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern". Dort finden Sie den Link "Abmelden vom Lastschriftverfahren."
+
+[Jetzt einloggen](https://www.bahn.de/buchung/meine-reisen)
+
+Die Änderung kann nicht für im DB Reisezentrum/DB Agentur erworbene Zeitkarten-Abonnements übernommen werden. Wenn Sie Ihr Zeitkarten-Abonnement im DB Reisezentrum oder einer DB Agentur abgeschlossen haben, so ändern Sie bitte selbstständig Ihre Bankdaten im Abo-Portal auf bahn.de.
+
+ Warum kann ich Sparpreis-Tickets und eine BahnCard 100 nicht mit Lastschrift bezahlen?
+----------
+
+Aktuell sind verstärkt betrügerische Aktivitäten basierend auf sogenannten Phishing-E-Mails zu verzeichnen. Als eine vorsorgliche Maßnahme zu Ihrem Schutz können Sie deshalb Sparpreis-Tickets und eine BahnCard 100 auf dieser Website und in der App bis auf Weiteres nicht mit dem Lastschrift-Verfahren bezahlen.
+
+ Welche Kosten fallen bei der Nutzung von Tink oder Verimi an?
+----------
+
+Keine. Das Verifizierungsverfahren ist für unsere Kund:innen kostenlos.
+
+ Erhalten Tink und Verimi einen dauerhaften Login oder Zugriff auf mein Bankkonto?
+----------
+
+Nein. Tink und Verimi fragen nur den erfolgreichen Login im Online-Bankingsystem ab und den Namen der kontoführenden Person.
+
+ Was mache ich, wenn ich meine Bank über TINK oder Verimi nicht finde?
+----------
+
+Wenn Sie Ihre Bank über Online-Banking nicht finden, wählen Sie „Ohne Online Banking“ und im nächsten Schritt eine der angebotenen Bestätigungsmethoden.
+
+ Kann ich meine Bankdaten oder Identität über die Servicenummern der DB oder im Reisezentrum bestätigen?
+----------
+
+Nein. Diese Möglichkeit bieten wir nicht an.
+
+ Was muss ich tun, wenn ich keinen digitalen Verifizierungsprozess durchführen möchte?
+----------
+
+Je nach Produkt bieten wir Ihnen eine Auswahl an Zahlarten an.
+
+Ohne digitalen Verifizierungsprozess können Kund:innen ein Fahrkarten-Abonnement in einem unserer DB Reisezentren erwerben.
+
+ Welche Daten erhält die Deutsche Bahn?
+----------
+
+Die Deutsche Bahn erhält nur eine Information über den erfolgreichen Bankkonto-Login oder die erfolgreiche Identitätsbestätigung bei Verimi.
+
+ Sie haben eine Nachricht über den Kontozugriff von Ihrer Bank erhalten?
+----------
+
+Sie erhalten diese Benachrichtigung nach dem durchgeführten Kontozugriff in Ihren Online-Banking Account.
+
+Es handelt sich um eine gesetzliche Anforderung, die für alle Kreditinstitute bindend ist. Auf den Inhalt dieser Nachricht hat die Deutsche Bahn keinen Einfluss.
+
+Bitte beachten Sie auch unsere Hinweise zu "Phishing – gemeinsam gegen Betrug im Internet!" unter [www.bahn.de/info/sonderkommunikation-phishing](https://www.bahn.de/info/sonderkommunikation-phishing)
+
+ Warum werde ich nicht zum Lastschriftverfahren für ein Abo zugelassen?
+----------
+
+Bitte prüfen Sie Ihre E-Mails und Briefe, ob Sie in der Vergangenheit Informationen der Deutschen Bahn zu Problemen mit Zahlungen oder Ihrem DB Kundenkonto erhalten haben. Befolgen Sie die Hinweise zur Auflösung des Problems.
+
+Folgende Gründe können eine Zulassung zum Lastschriftverfahren verhindern:
+
+1. Sie haben offene Forderungen bei der DB, zum Beispiel ausgefallene Zahlungen für Abonnements, BahnCard oder Einzelfahrkarten ([weitere Hilfe](https://www.bahn.de/faq/kundenkonto-ausgleich))
+2. Mit den Angaben der bestellenden Person konnte die erforderliche Bonitätsprüfung nicht oder nicht erfolgreich durchgeführt werden.
+3. Ihr DB Kundenkonto wurde in der Vergangenheit gesperrt, zum Beispiel aufgrund einer falschen Bankverbindung, Inkassoübergaben oder verdächtiger Nutzung
+
+Falls Sie diese Gründe für Ihr DB Kundenkonto nicht erkennen, finden Sie hier:
+
+ Wie begleiche ich Forderungen bei der DB, um mein DB Kundenkonto freizuschalten?
+----------
+
+Bitte prüfen Sie zunächst Ihre Unterlagen. Wenn offene Forderungen der Deutschen Bahn zu Ihrem Namen vorliegen haben Sie hierzu eine E-Mail oder einen Brief an Ihre hinterlegten Kundendaten erhalten. Befolgen Sie die genannten Schritte in den erhaltenen Schreiben, um Ihre Forderungen zu begleichen. Nachdem Ihr DB Kundenkonto ausgeglichen ist, wird Ihr DB Kundenkonto innerhalb von wenigen Tagen freigeschaltet. Nun können Sie Ihr Abo mit Lastschrift neu bestellen.
+
+ Wie kann ich ein Abo bestellen, wenn die Bonitätsprüfung nicht positiv war?
+----------
+
+Für den Abschluss eines Abovertrages mit Lastschriftzahlung wird eine positive Bonitätsprüfung vorausgesetzt. Die Informationen finden Sie bei der Bestätigung Ihres SEPA-Mandates im DB Kundenkonto oder im Bestellprozess.
+
+Wenn die Bonitätsprüfung nicht erfolgreich abgeschlossen werden kann, kann diese Person kein Vertragspartner für einen Abovertrag werden.
+
+Es besteht die Möglichkeit, dass eine Person mit positiver Bonitätsprüfung als Vertragspartner (bestellende und zahlende Person) auftritt. Dafür ist es erforderlich, dass diese Person sich mit einem eigenen DB Kundenkonto anmeldet und am Ende der Bestellung verifiziert. In der Bestellung kann im Schritt „Reisende Person“ die Person, die das Ticket nutzen wird, eingetragen werden (sowohl bei Handyticket als auch Chipkarten). Die Daten der reisenden Person unterliegen nicht der Bonitätsprüfung.
+
+ Zulassung: Mir ist nicht bekannt, warum ich nicht zum Lastschriftverfahren zugelassen werde. Was kann ich tun?
+----------
+
+Die möglichen Gründe für eine Ablehnung des Lastschriftverfahrens finden Sie hier: <https://www.bahn.de/faq/abo-zulassung>.
+
+Prüfen Sie auch sorgfältig, ob Sie in der Vergangenheit eine Mahnung der Deutschen Bahn erhalten haben und befolgen Sie die darin genannten Schritte.
+
+Sollten Sie nicht erkennen, warum Ihre Abo-Bestellung nicht für das Lastschriftverfahren zugelassen wird, wenden Sie sich bitte mit Ihrer Bestellnummer und Ihren verwendeten Kontodaten an das zuständige Service-Team:
+
+ Ich habe eine Fahrpreisnacherhebung erhalten. Wie kann ich nachträglich meine gültige Fahrkarte vorzeigen?
+----------
+
+Sie können Ihre vergessene Fahrkarte und Berechtigungsnachweise (z.B. BahnCard oder Ausweisdokument) nachträglich vorzeigen, wenn diese zum Zeitpunkt der Kontrolle gültig waren. Beachten Sie dabei die Fristen auf dem ausgehändigten Beleg, um die Forderung auf ein Bearbeitungsentgelt zu reduzieren.
+
+Legen Sie Ihre persönlichen Reiseunterlagen im Reisezentrum oder direkt bei der Fahrpreisnacherhebung vor.
+
+Beachten Sie: Übertragbare Fahrkarten des Regionalverkehrs können im Nachhinein nicht akzeptiert werden.
+
+Details und Kontaktmöglichkeiten finden Sie hier:
+
+ Wie kann ich die Fahrpreisnacherhebung bezahlen?
+----------
+
+Ihre Fahrpreisnacherhebung bezahlen Sie online auf unserer Webseite über PayPal.
+
+Alternativ überweisen Sie den noch zu zahlenden Betrag auf folgendes Konto:
+
+DB Vertrieb GmbH
+Commerzbank Baden-Baden
+IBAN: DE02 6624 0002 0115 5076 00
+BIC: COBADEFFXXX
+
+Bitte geben Sie bei Ihrer Überweisung immer als **Verwendungszweck** die **Nummer Ihres Beleges** an.
+
+ Was mache ich, wenn ich die Belegnummer der Fahrpreisnacherhebung nicht weiß oder die Rechnung verloren habe?
+----------
+
+Wenn Sie Ihre Belegnummer nicht mehr kennen oder den Beleg verloren haben, rufen Sie uns bitte unter der Telefonnummer [07221 9235 1000](tel:07221 9235 1000) an. Ignorieren Sie die Aufforderung zur Eingabe der Nummer. Sie werden dann automatisch weitergeleitet.
+
+ Kann ich Gutscheine mit PayPal bezahlen?
+----------
+
+Derzeit können Sie Gutscheine, die von PayPal ausgestellt wurden, nicht bei der Zahlung auf bahn.de einlösen.
+
+ Wie bekomme ich bei einer Stornierung mein Geld zurück, wenn ich mit PayPal gezahlt habe?
+----------
+
+**Sparpreis-Tickets**
+Bei Stornierung eines Sparpreis-Tickets erhalten Sie einen Stornogutschein.
+
+**Andere stornierbare Leistungen (z.B. Flexpreis, Regionale Tickets)**
+Der Wert der gekauften Leistung wird auf Ihr PayPal Konto erstattet und von dort automatisch auf die ursprünglich verwendete Zahlungsquelle zurückgebucht (z.B. auf das verwendete Bankkonto oder auf die verwendete Kreditkarte).
+
+ Was ist das 3-D Secure Verfahren und PSD2?
+----------
+
+Es gibt neue technische Regulierungsstandards der Europäischen Bankenaufsicht (PSD 2 - Payment Service Directive 2), die unter anderem zum Ziel haben, das Bezahlen im Internet noch sicherer zu machen. Die Deutsche Bahn erfüllt die vorgegebenen Sicherheitsstandards indem sie die Forderung einer starken Kundenauthentifizierung (SCA) in Form einer 2 Faktor Authentifizierung umsetzt.
+
+Mindestens zwei der drei Faktoren
+
+* Besitz (z.B. Smartphone)
+* Wissen (z.B. PIN, Passwort)
+* Inhärenz/Biometrie (z.B. Fingerabdruck oder Gesichtserkennung)
+
+werden beim Bezahlvorgang zur Authentifizierung benötigt.
+
+ Wie funktioniert die Authentifizierung für meine Kreditkarte und wie bezahle ich?
+----------
+
+Nach der Eingabe Ihrer Kreditkartendaten erscheint ein Dialogfenster der Bank, von der Sie Ihre Kreditkarte erhalten haben. Sie werden aufgefordert zwei Faktoren zur Bestätigung Ihrer Identität anzuwenden. Die Authentifizierungsverfahren können je nach Bank unterschiedlich sein. Bestätigt die Bank Ihre Angaben, wird die Transaktion durchgeführt und der Einkauf abgeschlossen.
+
+Voraussetzung ist, dass Sie Ihre Kreditkarte bei Ihrer Bank für das Authentifizierungsverfahren aktiviert haben.
+
+**Mindestens zwei der folgenden drei Faktoren werden für die Authentifizierung während des Bezahlvorgangs benötigt:**
+
+* Besitz (z.B. Smartphone)
+* Wissen (z.B. PIN, Passwort)
+* Inhärenz/Biometrie (z.B. Fingerabdruck, Gesichtserkennung)
+
+Je nach Kreditkartenunternehmen heißen die Authentifizierungsverfahren Visa Secure, Mastercard Identity Check, American Express SafeKey und Diners ProtectBuy.
+
+ Wie registriere ich meine Kreditkarte für das 3-D Secure Verfahren?
+----------
+
+Erkundigen Sie sich bei Ihrer Bank, wie Sie Ihre Kreditkarte registrieren können. In vielen Fällen ist sie bereits automatisch registriert.
+Die Authentifizierungsverfahren können von Bank zu Bank unterschiedlich sein. Daher informieren Sie sich bei Ihrer Bank über das jeweilige Verfahren und lassen sich dafür freischalten.
+
+ Warum wird mir Apple Pay nicht angezeigt?
+----------
+
+Apple Pay wird Ihnen im DB Navigator nur dann als mögliche Zahlungsart angezeigt, wenn Sie ein Apple Gerät besitzen und Apple Pay auf diesem Endgerät eingerichtet haben. Hierzu müssen Sie eine Debit- oder Kreditkarte in Ihrer Apple Wallet hinterlegt haben.
+
+Auf bahn.de ist die Zahlung per Apple Pay nur möglich, wenn Sie mit einem Apple Gerät im Safari Browser unterwegs sind und Apple Pay auf Ihrem Endgerät eingerichtet haben.
+
+Abos können nur per Lastschrift gezahlt werden. Beim Kauf dieser Tickets wird Ihnen Apple Pay als Zahlungsmethode nicht angeboten.
+
+ Welche Tickets können mit Apple Pay bezahlt werden?
+----------
+
+Alle Produkte, die mit Kreditkarte bezahlt werden können, können auch mit Apple Pay bezahlt werden.
+
+Abos können nur per Lastschrift gezahlt werden. Beim Kauf dieser Tickets wird Apple Pay als Zahlungsmethode nicht angeboten.
+
+ Kann ich mit Apple Pay bezahlen, wenn ich eine Girokarte in meiner Apple Wallet hinterlegt habe?
+----------
+
+Nein. Mit Apple Pay können Sie bei uns nur bezahlen, wenn Sie eine Debit- oder Kreditkarte hinterlegt haben
+
+ Wie bekomme ich bei einer Stornierung mein Geld zurück, wenn ich mit Apple Pay bezahlt habe?
+----------
+
+Sparpreis-Tickets: Bei Stornierung eines Sparpreis-Tickets erhalten Sie einen Stornogutschein.
+
+**Andere stornierbare Leistungen (z.B. Flexpreis, Regionale Tickets):** Der Wert der gekauften Leistung wird Ihnen auf die mit Apple Pay verwendete Debit- oder Kreditkarte zurückgebucht.
+
+ Muss ich vor der Buchung einen Login für Bonvoyo haben?
+----------
+
+Ja. Wenn Sie Bonvoyo als Zahlungsmittel auswählen, werden Sie zu Bonvoyo weitergeleitet und müssen sich dort mit einem bereits vorhandenen Account anmelden.
+
+ Kann ich alle bahn.de Angebote mit Bonvoyo bezahlen?
+----------
+
+Sie können Bonvoyo für die Zahlung auf bahn.de und im DB Navigator generell nutzen, unabhängig davon, ob Sie eingeloggt sind oder nicht.
+
+Hier können Sie **nicht** mit **Bonvoyo** bezahlen:
+
+* im Fahrkartenshop
+* im bahn.business Portal
+
+Gutscheine können nicht mit Bonvoyo erworben werden
+
+ Kann ich Bonvoyo für Zahlungen im Fahrkartenshop verwenden?
+----------
+
+Nein, Sie können Bonvoyo nicht für Zahlungen im Fahrkartenshop verwenden.
+
+ Wie bekomme ich bei einer Stornierung mein Geld zurück, wenn ich mit Bonvoyo gezahlt habe?
+----------
+
+**Sparpreis-Tickets**
+Bei Stornierung eines Sparpreis-Tickets erhalten Sie einen Stornogutschein.
+
+**Andere stornierbare Leistungen (z.B. Flexpreis, Regionale Tickets)**
+Der Wert der gekauften Leistung wird auf Ihr Bonvoyo Konto erstattet.
+
+ Kann ich Gutscheine mit Bonvoyo bezahlen?
+----------
+
+Nein, Gutscheine können nicht mit Bonvoyo bezahlt werden.
+
+ Was ist Bonvoyo?
+----------
+
+**Bonvoyo** ist das **smarte Mobilitätsbudget** und ein moderner Mitarbeitervorteil für flexible, unternehmensgeförderte Mobilität.
+
+* **Vorteile für Arbeitgeber:**
+   Bonvoyo macht betriebliche Mobilität **einfach, digital und aufwandsarm.** Unternehmen behalten über ein zentrales Online-Portal jederzeit den Überblick, können Budgets anpassen und Ausgaben transparent analysieren. Das Ergebnis: **effizientes Mobilitätsmanagement** und ein **attraktiver** **Mitarbeitervorteil**.
+
+* **Vorteile für Mitarbeitende:**
+   Mitarbeitenden wird von ihrem Unternehmen ein individuell nutzbares Budget bereitgestellt. Dieses Budget kann für verschiedene Verkehrsmittel wie **ÖPNV, Bahn, Carsharing, Mietwagen, Fahrrad, E-Scooter und Taxi** eingesetzt werden.
+   Das Mobilitätsbudget wird über die **Bonvoyo-App** den Mitarbeitenden individuell zugewiesen. Sie können das Budget eigenständig digital nutzen und sich darauf verlassen, dass es steuerkonform abgerechnet wird. So profitieren Mitarbeitende von maximaler Freiheit und Flexibilität für ihre persönlichen Mobilitätsbedürfnisse.
+
+Die Lösung aus dem Umfeld der **Deutschen Bahn** steht Kunden auch als **[Zahlungsart](https://www.bahn.de/service/informationen-buchung/zahlung)** für Reisebuchungen bei bahn.de oder in der DB Navigator App zur Verfügung. Mitarbeitende mit Mobilitätsbudget können einfach eine Bahnreise buchen und mit Bonvoyo zahlen.
+
+ Kann ich die Rechnungsadresse und den Namen der rechnungsempfangenden Person ändern oder umschreiben lassen?
+----------
+
+Nein. Die Rechnungsadresse und der Name der rechnungsempfangenden Person können nur einmalig angeben werden. Eine nachträgliche Änderung ist nicht möglich, auch nicht durch den Kundenservice.
+
+ Was bedeutet "Partneranteil"?
+----------
+
+“Partneranteile” sind Fahrpreisbestandteile ausländischer Bahnunternehmen, zu denen keine Mehrwertsteuerangaben ausgewiesen werden können. Auf der Fahrkarte wird der Gesamtpreis des Tickets und der davon deutsche Anteil inkl. der Mehrwertsteuer ausgewiesen. Der nicht ausgewiesene Anteil ist der Partneranteil der ausländischen Bahn.
+
+ Welche Bedeutung haben die Abkürzungen am Mehrwertsteuersatz wie z. B. "(D)"?
+----------
+
+Der Fahrpreis kann Preisbestandteile enthalten, die unterschiedlichen Mehrwertsteuersätzen unterliegen, beispielsweise bei einer Fahrt über die Ländergrenzen hinweg. Mithilfe der Ländercodes, z. B. (D), und der Mehrwertsteuerabkürzung in Landessprache weisen wir den Mehrwertsteuersatz eindeutig aus.
+
+**Beispiel 1:**
+
+7% (D)
+
+* 7% = Mehrwertsteuer-Satz in Prozent
+* MwSt = Abkürzung der dt. Bezeichnung für Mehrwertsteuer
+* D = Ländercode Deutschland
+
+**Beispiel 2:**
+
+0% (IVA:I)
+
+* 0% = Mehrwertsteuer-Satz in Prozent
+* IVA = Abkürzung der ital. Bezeichnung für Mehrwertsteuer (Imposta sul Valore Aggiunto)
+* I = Ländercode Italien
+
+Ergänzend weisen Steuernummern in der Fußnote die betreffenden Bahnunternehmen aus, die die Fahrtleistung erbringen.
+
+ Wie lange kann ich meine Rechnung abrufen?
+----------
+
+Sie können die Rechnung zu Ihrem Ticket bis zu 14 Monate nach Buchungsdatum auf unserer Website bahn.de oder über die App DB Navigator abrufen.
+
+ Wie und wo bekomme ich auf bahn.de eine Rechnung zu meinem Ticket?
+----------
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Gehen Sie zum Bereich "Meine Reisen".
+3. Wählen Sie die entsprechende Reise aus.
+4. Klicken Sie auf den Button "Rechnung erstellen" im unteren Seitenbereich.
+5. Geben Sie die Adressdaten ein, auf die die Rechnung ausgestellt werden soll.
 
 **Hinweise:**
 
-* Sitzplatzreservierungen sind für Hunde generell nicht möglich.
-* Für Hunde, die nicht in einem Transportbehälter reisen, besteht im Zug Leinen- und Maulkorbpflicht.
-* Blindenführ- oder Assistenzhunde müssen im Zug keinen Maulkorb tragen. Dies gilt auch für Hunde, wenn ein Schwerbehindertenausweis mit Merkzeichen „B“ vorliegt.
+* Sie können Rechnungen sowohl für aktuelle als auch für vergangene Reisen herunterladen.
+* Die Rechnungsadresse kann nur einmalig eingegeben werden und kann nachträglich nicht geändert werden, auch nicht durch den Kundenservice.
 
-[Weitere Informationen zur Haustiermitnahme](https://www.bahn.de/angebot/zusatzticket/hund)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:1,14:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mein-tier-mit-auf-reisen-nehmen)
-
- Wie kann ich meine BahnBonus Teilnahme kündigen?
+ Wie kann ich ein Hundeticket für die Bahn buchen?
 ----------
 
-Sie können die Teilnahme am BahnBonus Vorteilsprogramm jederzeit ohne Angabe von Gründen wie folgt ordentlich kündigen:
+Geben Sie Ihre Verbindung ein und wählen Sie bei Ihrer Buchung unter "Reisende" den Reisendentyp "Hund" aus.
 
-* im Kundenkonto auf bahn.de oder in der DB Navigator App
-* telefonisch beim BahnBonus Service
+Mit Klick auf den nachfolgenden Button "Jetzt buchen" sind ein Hund und ein Erwachsener bereits voreingestellt.
 
-[Zum Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-bahnbonus-teilnahme-kuendigen)
-
- Wie kann ich meine Daten bzw. mein DB Kundenkonto löschen?
+ Kann ich im DB Navigator und auf bahn.de auch für eine andere Person eine Fahrkarte buchen?
 ----------
 
-Sie können jederzeit Ihr DB Kundenkonto löschen – vorausgesetzt, es gibt keine offenen Aufträge (Buchungen und Tickets) oder laufende Verträge (bspw. BahnCard-Abonnement).
+Ja. Sie können im DB Navigator und auf bahn.de Tickets für andere Personen buchen.
 
-Um Ihr DB Kundenkonto zu löschen, loggen Sie sich bitte mit Ihrem Benutzernamen und Passwort ein und folgen diesen Schritten:
+**DB Navigator:**
 
-**DB Navigator**:
+* Wählen Sie bei der Buchung im Schritt "Zahlung" bei "Reisende Person" die Option "Für eine andere Person buchen".
+* Geben Sie den Namen der reisenden Person an.
 
-1. Gehen Sie im Menüpunkt "Profil" auf "Login und Sicherheit".
-2. Wählen Sie die Option "DB Kundenkonto löschen".
-3. Folgen Sie den Anweisungen zur Löschung.
+**bahn.de:**
 
-**Bahn.de**:
+* Wählen Sie bei der Buchung im Schritt "Kundendaten" bei "Für wen buchen Sie?" die Option "Für eine andere Person buchen".
+* Geben Sie den Namen der reisenden Person an.
 
-1. Gehen Sie im Bereich "DB Kundenkonto verwalten" auf "Persönliche Daten".
-2. Wählen Sie im unteren Bereich die Option "Konto löschen".
-3. Folgen Sie den Anweisungen zur Löschung.
+Das Ticket darf nur von der angegebenen Person genutzt werden. Ihre Zahlungsdaten bleiben unverändert. Das Ticket wird in der App gespeichert und zusätzlich an Ihre hinterlegte E-Mail-Adresse gesendet.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-daten-bzw-mein-kundenkonto-loeschen)
-
- Wie kann ich meine E-Mail-Adresse ändern, die ich bei meiner BahnBonus Anmeldung hinterlegt habe?
+ Wie buche ich ein Ticket für ein alleinreisendes Kind in der App DB Navigator?
 ----------
 
-Sie gehen in die BahnBonus App und gehen dort auf „Profil“ und dann auf „Kundendaten bearbeiten“. Sie werden dann zu bahn.de weitergeleitet und können im Bereich „Persönliche Daten“ Ihre E-Mailadresse ändern.
+1. Geben Sie den gewünschten Start- und Zielbahnhof sowie das Reisedatum ein.
+2. Wählen Sie unter "Reisende" die Option "Kind (6-14 Jahre)" aus.
+3. Klicken Sie auf "Suchen", um passende Verbindungen zu finden.
+4. Folgen Sie den weiteren Buchungsschritten.
+5. Im Bereich "Zahlung" unter "Reisende Person" wählen Sie "Für eine andere Person buchen".
+6. Tragen Sie den Namen des Kindes ein.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-e-mail-adresse-aendern-die-ich-bei-den-bahncard-services-hinterlegt-habe)
+ Wie buche ich ein Handy-Ticket?
+----------
+
+Laden Sie die App DB Navigator kostenfrei im App Store, Google Play Store oder in der App Gallery herunter.
+
+Bei der Buchung wählen Sie in der App DB Navigator Ihre Reiseverbindung aus.
+Ihr gebuchtes Handy-Ticket wird direkt in der App gespeichert.
+
+ Wo finde ich die Datenschutzhinweise für den DB Navigator?
+----------
+
+Sie finden die Datenschutzhinweise zum DB Navigator im Appstore (für iOS) bzw. Google Play-Store (für Android) auf der Downloadseite der App sowie in der App DB Navigator im Bereich "Profil".
+
+ Mit welchen Betriebssystem Versionen kann ich den DB Navigator nutzen?
+----------
+
+Die App DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
+
+* Android ab Version Android 8
+* iOS ab Version iOS 15
+
+ Kann ich mein PDF-Ticket auch auf dem Handy im Zug vorzeigen?
+----------
+
+Ja. Zeigen Sie einfach das PDF-Dokument Ihres Tickets aus der Bestätigungsmail im Zug vor.
+
+Alternativ laden Sie das Ticket einfach in die App. Dazu klicken Sie den Link in der Bestätigungsmail, den Sie nach der Buchung erhalten haben.
+
+Sie können das Ticket im Nachhinein auch unter Angabe der Auftragsnummer unter "Tickets hinzufügen" in die App laden.
+
+ Kann ich auch eine andere Verbindung nutzen als die, die auf dem Ticket aufgedruckt ist?
+----------
+
+Ja. Mit Flexpreis-Tickets können Sie auch andere Verbindungen an ihrem gebuchten Reisetag nutzen, solange die "via"-Stationen übereinstimmen (ansonsten ist eventuell ein Aufpreis erforderlich). Bei Bedarf können Sie Ihre Hin- bzw. Rückfahrt auch unterbrechen und am nächsten Tag fortsetzen.
+
+Nein. Bei Spar,- oder Aktionspreisen gilt Ihr Ticket nur für die aufgedruckten Züge.
+
+ Wo finde ich meine Auftragsnummer?
+----------
+
+Ihre 12-stellige Auftragsnummer finden Sie:
+
+* Im Bestätigungstext nach der Buchung
+* In der Bestätigungsmail nach der Buchung
+* Auf Ihrem Ticket (PDF oder Ausdruck) unter dem Barcode
+
+Als registrierter Kunde können Sie auf bahn.de in Ihrem DB Kundenkonto und in der App DB Navigator Ihre letzten Buchungen einsehen und dort die Auftragsnummer finden.
+
+Auf Fahrkarten aus dem Automaten oder im Reisebüro bzw. per Telefon gekauft, finden Sie die 9-stellige Auftragsnummer unten links. Sie ist farbig markiert.
+
+ Was kann ich tun, wenn ich ein Digitales Ticket auf bahn.de gebucht habe und das Drucken nicht funktioniert?
+----------
+
+Für die Kontrolle im Zug benötigen Sie keinen Ausdruck des Digitalen Tickets.
+
+**So geht's mit der App DB Navigator:**
+
+1. Loggen Sie sich in der App DB Navigator in Ihr DB Kundenkonto ein, über das Sie das Ticket gebucht haben.
+2. Gehen Sie im Menübereich "Reisen" auf die entsprechende Reise.
+3. Klicken Sie auf den Reiter "Ticket", um den QR-Code abzurufen.
+4. Zeigen Sie den QR-Code bei der Kontrolle im Zug auf Ihrem Smartphone-Display vor.
+5. Wenn Sie das Ticket ohne DB Kundenkonto gebucht haben, können Sie es manuell in die App DB Navigator laden. [So laden Sie Ihr Ticket in die App.](https://www.bahn.de/service/informationen-buchung/digitales-ticket/in-die-app-laden)
+
+**Alternativ:** Öffnen Sie die PDF-Datei, die Sie in der Buchungsbestätigungs-E-Mail erhalten haben, auf Ihrem Smartphone, Laptop oder Tablet und zeigen Sie den darin enthaltenen QR-Code Ihres Tickets bei der Kontrolle vor.
+
+ Wie erhalte ich eine Übersicht meiner online gebuchten Tickets?
+----------
+
+**Bahn.de:** Loggen Sie sich auf der Website in Ihr DB Kundenkonto ein und klicken Sie auf den Reiter "Meine Reisen". Dort finden Sie unter "Nächste Reisen" und "Vergangene Reisen" Ihre Tickets.
+
+**App DB Navigator:** Loggen Sie sich ein und gehen Sie auf "Reisen" im unteren Bildschirmbereich. Dort sind die aktuellen Reisen aufgelistet. Weiter unten finden Sie den Bereich "Vergangene Reisen".
+
+Sie können Tickets für vergangene Reisen sowohl auf bahn.de als auch im DB Navigator bis zu 14 Monate lang abrufen.
+
+ Wozu ist der QR-Code auf dem Digitalen Ticket gut?
+----------
+
+Der QR Code auf dem Digitalen Ticket dient zur Ticketkontrolle im Zug. Das Digitale Ticket wird mit diesem Code in das Kontrollgerät eingelesen. Das Digitale Ticket enthält ein Zertifikat, das die 'Echtheit' des Tickets garantiert. Ihre persönlichen Daten (z. B. Adresse oder Telefonnummer) sind nicht enthalten.
+
+ Wo finde ich den 1. Geltungstag auf meinem Ticket?
+----------
+
+Der 1. Geltungstag entspricht dem 1. Gültigkeitstag Ihres Tickets. Bei Ihrem Online-Ticket ist die Gültigkeit neben dem Barcode aufgedruckt.
+
+ Wie erhalte ich mein Digitales Ticket nach der Buchung?
+----------
+
+**In der App DB Navigator:**
+
+1. Nach Abschluss der Buchung wird Ihr Digitales Ticket als QR-Code für die Ticketkontrolle angezeigt.
+2. Sie finden das Ticket auch im Bereich "Reisen" und können es dort erneut öffnen.
+3. Optional erhalten Sie per E-Mail eine Buchungsbestätigung mit der Auftragsnummer und dem PDF des Tickets.
+4. Um ein Ticket manuell in die App zu laden, gehen Sie zu "Reisen", tippen Sie auf das Plus-Symbol oben rechts, geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein und laden Sie das Ticket.
+
+**Nach der Buchung auf bahn.de:**
+
+1. Sie können Ihr Ticket mit dem Button "Ticket als PDF herunterladen" auf Ihrem Gerät anzeigen und abspeichern.
+2. Sie erhalten Ihr Ticket auch als PDF per E-Mail.
+3. Ihre gebuchten Tickets werden im Reiter "Meine Reisen" angezeigt, wenn Sie in Ihr DB Kundenkonto eingeloggt sind.
+4. Sollte Ihr über bahn.de gebuchtes Ticket nach dem Login im DB Navigator nicht automatisch angezeigt werden, können Sie das Ticket manuell hinzufügen, wie oben beschrieben.
+
+ Brauche ich einen Ausweis bei der Buchung oder bei der Kontrolle im Zug?
+----------
+
+Bei der Buchung von Digitalen Tickets müssen Sie keine Identifizierungskarte angeben. Die Tickets werden auf die Person ausgestellt, die bei der Buchung angegeben wird.
+
+Bei der Kontrolle im Zug müssen Sie sich mit einem der folgenden Ausweisdokumente ausweisen:
+
+* Europäischer oder deutscher Personalausweis
+* Personalausweis aus Norwegen oder der Schweiz
+* Deutscher oder internationaler Reisepass
+* Kinderreisepass
+* Von einer deutschen Behörde ausgestellte Dokumente für Flüchtlinge und Asylbewerber, z.B. BÜMA, BÜWA und Aufenthaltsgestattung
+* BahnCard (ggf. in Verbindung mit einem Lichtbildausweis)
+
+Führerschein, Schülerausweis, Truppenausweis und Schwerbehindertenausweis werden bei der Ticketkontrolle **nicht** als Ausweisdokument akzeptiert.
+
+ Kann ich ein Ticket auch per E-Mail oder WhatsApp-Messenger verschicken?
+----------
+
+Ja, Sie können die PDF-Datei, die Sie in Ihrer Buchungsbestätigungs-E-Mail finden, auch per E-Mail oder WhatsApp-Messenger verschicken.
+
+1. Aktivieren Sie beim Buchen die Option "Ticket als PDF per E-Mail erhalten".
+2. Sie erhalten eine Buchungsbestätigungs-E-Mail mit dem Ticket als PDF.
+3. Diese E-Mail können Sie weiterleiten oder das PDF via Messenger verschicken.
+
+Zusätzlich können Sie das Digitale Ticket auf einem anderen Handy in den DB Navigator laden:
+
+1. Installieren Sie die App DB Navigator auf dem anderen Handy.
+2. Tippen Sie in der App auf den Menüpunkt "Reisen".
+3. Klicken Sie auf das Plus-Symbol oben rechts.
+4. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein, um das Ticket hinzuzufügen.
+
+ Was ist der Unterschied zwischen einem Handy- und einem Online-Ticket?
+----------
+
+Handy- und Online-Tickets unterscheiden sich im Format und wie Sie bei der Ticketkontrolle vorgezeigt werden.
+
+Wird das Ticket in der App DB Navigator genutzt und zur Kontrolle vorgezeigt, handelt es sich um ein **Handy-Ticket.**
+
+Einige Angebote wie das Deutschland-Ticket können ausschließlich als Handy-Ticket genutzt werden. Ein Ausdruck des Handy-Tickets, z. B. in Form eines Screenshots, ist nicht gültig.
+
+Ein **Online-Ticket** wird im PDF-Format ausgegeben und kann digital oder auch ausgedruckt vorgezeigt werden.
+
+Einige Angebote zum Beispiel für bestimmte internationale Strecken können nur als Online-Ticket genutzt werden.
+
+ Kann ich für meine Reise ins Ausland ein Digitales Ticket buchen?
+----------
+
+Für viele Ziele in Europa können Sie ein Digitales Ticket auf bahn.de und über die App DB Navigator buchen. Wenn das Ticket für Ihre ausgewählte Strecke nicht buchbar ist, erhalten Sie einen entsprechenden Hinweis.
+
+ Sind Digitale Tickets übertragbar?
+----------
+
+Nein, Digitale Tickets sind nicht übertragbar. Die Person, auf die das Ticket ausgestellt ist, muss bei der Reise dabei sein.
+
+ Wie nutze ich ein Digitales Ticket im Zug zur Ticketkontrolle?
+----------
+
+Für die Ticketkontrolle benötigen Sie den QR Code auf Ihrem Digitalen Ticket. Diesen finden Sie in der PDF Ihrer Buchungsbestätigungs-E-Mail und in der App DB Navigator. Tippen Sie in der App DB Navigator im Menübereich "Reisen" auf die entsprechende Reise. Im Reiter "Ticket" finden Sie dann den QR-Code.
+
+ Wie lade ich mein Digitales Ticket in die App DB Navigator?
+----------
+
+Tippen Sie in der App DB Navigator auf den Bereich "Reisen" im unteren Bildschirmbereich. Anschließend können Sie über das Plus-Symbol oben rechts mit der Auftragsnummer und dem Nachnamen der reisenden Person das Ticket hinzufügen.
+
+**Wenn Sie in der App angemeldet sind, wird Ihr Ticket automatisch nach der Buchung in den DB Navigator geladen.** Bei Problemen, aktualisieren Sie die Seite in der App, indem Sie diese herunterziehen.
+
+ Wie tausche ich ein Digitales Ticket um?
+----------
+
+Der Umtausch Digitaler Tickets ist nicht möglich. Sie können Ihre Tickets stornieren und eine neue Reise buchen. In den ersten 3 Stunden nach der Buchung (sofern die Buchung vor dem ersten Geltungstag liegt) bieten wir Ihnen die Möglichkeit einer kostenfreien "Sofortstornierung" an - unabhängig von den tariflichen Bedingungen.
+
+ Muss ich bei der Kontrolle im Zug außer dem Ticket noch etwas vorzeigen?
+----------
+
+Ja, bei einem persönlichen Ticket, das auf Ihren Namen ausgestellt ist, müssen Sie ein offizielles Ausweisdokument vorzeigen.
+
+Zugelassene Ausweisdokumente:
+
+* Europäischer oder deutscher Personalausweis
+* Deutscher oder internationaler Reisepass
+* Kinderreisepass
+* Elektronischer Aufenthaltstitel
+* Bescheinigung über die Meldung Asylsuchender (BüMa)
+* BahnCard (ggf. in Verbindung mit einem Lichtbildausweis)
+
+Nicht zugelassene Dokumente:
+
+* Führerschein
+* Schülerausweis
+* Truppenausweis
+* Geburtsurkunde
+* Schwerbehindertenausweis
+
+ Kann ich für meine Reise ins Ausland ein Digitales Ticket im DB Reisezentrum buchen?
+----------
+
+Für viele Ziele in Europa können Sie ein Digitales Ticket im DB Reisezentrum buchen.
+
+ Sind Digitale Tickets, die ich im Reisezentrum gekauft habe, übertragbar?
+----------
+
+Nein, Digitale Tickets sind nicht übertragbar. Die Person, auf die das Ticket ausgestellt ist, muss bei der Reise also auch tatsächlich dabei sein.
+
+ Wie lade ich mein Digitales Ticket, das ich im Reisezentrum gekauft habe, in die App DB Navigator?
+----------
+
+1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
+2. Öffnen Sie die Buchungsbestätigung, die Sie per E-Mail erhalten haben.
+3. Nutzen Sie den entsprechenden Link in der Buchungsbestätigung, um Ihr Ticket direkt in die App zu laden.
+
+ Wie storniere ich das Digitale Ticket oder tausche es um?
+----------
+
+Digitale Tickets, die Sie im DB Reisezentrum erworben haben, können Sie auch **nur dort** stornieren oder umtauschen. Beachten Sie die tariflichen Bestimmungen des Angebots.
+
+ Welche Einstellungen und Daten der App DB Navigator bleiben bei einem Gerätewechsel erhalten?
+----------
+
+Alle über das DB Kundenkonto gebuchten Tickets, gemerkten Reisen sowie gespeicherte Ortsfavoriten sind auf einem anderen Gerät wieder abrufbar, nachdem Sie sich dort in die App DB Navigator eingeloggt haben. Ausgenommen sind Streckenfavoriten, diese müssen neu hinzugefügt werden. Außerdem müssen Abos wie das Deutschland-Ticket neu in die App geladen werden.
+
+ Darf ich mich als minderjährige Person auf bahn.de oder im DB Navigator registrieren und Tickets kaufen?
+----------
+
+Minderjährige können sich mit Zustimmung ihrer Sorgeberechtigten (in der Regel sind das die Eltern) auf der Website [bahn.de](http://bahn.de/) oder in der App DB Navigator registrieren und ein DB Kundenkonto nutzen. Die Möglichkeit des Ticketkaufs hängt des Weiteren von der verwendeten Zahlart, deren jeweiligen Altersbeschränkungen sowie von der Zustimmung der Sorgeberechtigten ab.
+
+**Zahlarten und Altersvorgaben:**
+
+* **Kreditkarte:** Kreditkarten können in Deutschland in der Regel ab 18 Jahren beantragt werden. Prepaid-Kreditkarten können mit Zustimmung der Eltern bereits früher genutzt werden.
+* **PayPal:** Nein, nur von Volljährigen nutzbar.
+* **SEPA-Lastschrift:** Nein, wird nicht für Minderjährige angeboten.
+* **Apple Pay:** Die Nutzung von Apple Pay ist in Deutschland ab 16 Jahren möglich, wenn man eine eigene Apple ID besitzt. Nicht alle Banken unterstützen Apple Pay für Minderjährige, es ist ratsam sich bei der eigenen Bank zu informieren.
+* **Bonvoyo**: Ja
+
+**Tipp:** Wir empfehlen, Tickets für Kinder über das DB Kundenkonto der Sorgeberechtigten zu buchen, indem die Funktion “Für eine andere Person buchen” genutzt wird. Die Tickets können anschließend manuell in die App auf dem Smartphone des Kindes geladen werden.
+
+ Ist ein Digitales Ticket auf eine andere Person übertragbar?
+----------
+
+Nein, ein Digitales Ticket ist nicht auf eine andere Person übertragbar. Sie können Tickets, je nach Tarifbedingungen, stornieren und für eine andere Person neu buchen.
+
+ Wie erhalte ich eine Rechnung mit Mehrwertsteuerangaben für mein Digitales Ticket?
+----------
+
+* Das Ticket und die Rechnung sind getrennt.
+* Auf dem Digitalen Ticket steht nur der Gesamtpreis ohne Mehrwertsteuer.
+* Den Namen des Rechnungsempfängers können Sie nur einmalig angeben. Eine nachträgliche Änderung ist nicht möglich.
+
+Benötigen Sie Angaben zur Mehrwertsteuer?
+
+Gehen Sie in Ihrem DB Kundenkonto auf **bahn.de** im Bereich "Meine Reisen" in die "Reisedetails". Dort können Sie die Rechnung über den Button "Rechnung erstellen" erzeugen.
+
+In der **App DB Navigator** können Sie die Rechnung im Bereich "Reisen" im Reiseplan unter "Weitere Aktionen" öffnen.
+
+ Wie kann ich mein internationales Ticket buchen?
+----------
+
+Sie können Ihr internationales Ticket als Online-Ticket (bzw. ticketless: e-ticket / PNR bei Zügen der Trenitalia) buchen. Dazu brauchen Sie nur eine gültige E-Mail-Adresse für die Buchungsbestätigung sowie eine Kreditkarte oder ein PayPal-Konto für die Zahlung.
+
+ Zeigt mir das internationale Buchungssystem automatisch den günstigsten Preis an?
+----------
+
+Wir versuchen, Ihnen auch bei internationalen Verbindungen den günstigsten Ticketpreis herauszusuchen. Eine Bestpreis-Garantie können wir aufgrund der Kombination aus verschiedenen Systemen und unterschiedlichen Angeboten je Land leider nicht gewährleisten, da wir abhängig von den Angeboten und Verfügbarkeiten in den verschiedenen Buchungssystemen sind.
+
+ Gibt es eine Service-Stelle, die mich beim Buchen internationaler Tickets unterstützt?
+----------
+
+Erster Ansprechpartner für Ihre Fragen rund um Ihr internationales Ticket ist unser Service-Nummer [030 2970](tel:+49302970).
+
+ Kann ich noch im Zug ein Ticket kaufen?
+----------
+
+Nein, Sie können im Fernverkehr keine Tickets mehr beim Zugpersonal kaufen.
+
+Bis 10 Minuten nach Abfahrt des Zuges (z.B. ICE, IC/EC) können Sie jedoch ein Ticket über die App DB Navigator buchen, wenn die Fahrzeit zwischen Ihrem Einstiegsbahnhof und dem nächsten Haltebahnhof mehr als 10 Minuten beträgt.
+
+ Mein Ticket ist nicht rechtzeitig per Post angekommen - was jetzt?
+----------
+
+Tickets im Postversand stellen wir innerhalb von Deutschland in 2-3 Werktagen zu. Bestellungen bis 16:00 Uhr (außer Samstag und Sonntag) werden noch am gleichen Tag gedruckt und versendet.
+
+Sollte Ihr Ticket bis zu Ihrem Reisetag nicht bei Ihnen eintreffen, ist es wie folgt geregelt:
+
+**Verbindung innerhalb Deutschlands**
+
+Handelt es sich um eine Fahrkarte für eine innerdeutsche Verbindung, lassen Sie sich vom Zugbegleitpersonal eine Fahrpreisnacherhebung ausstellen und wenden sich innerhalb von 14 Tagen an die Fahrpreisnacherhebung. Es entstehen Ihnen keine Kosten.
+
+Die Kontaktdaten finden Sie auf der vom Zugbegleiter ausgestellten Fahrpreisnacherhebung.
+
+**Verbindung im Ausland**
+
+Handelt es sich um eine Fahrkarte im internationalen Verkehr, kaufen Sie bitte ein neues Ticket. Nach der Reise senden Sie das neu gekaufte Ticket mit einem kurzen Anschreiben an unser ServiceCenter. Wir setzen uns so schnell wie möglich mit Ihnen in Verbindung.
+
+DB Fernverkehr AG
+Online-Vertrieb
+Postfach 10 01 14
+96053 Bamberg
+
+ Was bedeutet "DB Bestpreissuche"?
+----------
+
+Die DB Bestpreissuche hilft Ihnen auf bahn.de und in der App DB Navigator, unsere günstigsten Preise für eine bestimmte Verbindung für zukünftige Reisetage zu finden.
+
+**So aktivieren Sie die DB Bestpreissuche:**
+
+1. Geben Sie Ihren Reisewunsch in der Reiseauskunft des DB Navigators ein und suchen Sie nach Verbindungen. Es öffnet sich die Verbindungsübersicht.
+2. Sie aktivieren die DB Bestpreissuche oberhalb der Verbindungsübersicht – entweder direkt über "Unsere Bestpreise" oder mit Klick auf "Optionen" über den Schieberegler "Unsere Bestpreise anzeigen".
+
+**Was Sie beachten sollten:**
+
+* Die DB Bestpreissuche zeigt unsere günstigsten, ermittelbaren Preise für den ausgewählten Tag an.
+* Für manche Verbindungen (z. B. bestimmte Verbundtickets) wird im ersten Schritt kein Preis angezeigt, obwohl diese verkauft werden. Deren Preis kann günstiger sein als die Preise der DB Bestpreissuche. Der Preis kann im nächsten Schritt angezeigt werden.
+* Verbindungen ohne Ticketverkauf werden zur Information am Ende der Liste aufgeführt.
+* Die DB Bestpreissuche ist nur für zukünftige Verbindungen verfügbar, nicht für Reisen am selben Tag.
+
+ Was ist der DB Bestpreis?
+----------
+
+Der DB Bestpreis ist unser niedrigster Preis des Tages für eine gesuchte Verbindung, der über die Reiseauskunft ermittelbar ist. Er ist zusätzlich grün und mit einem Eurozeichen markiert.
+
+Beim DB Bestpreis handelt es sich nicht um einen festen Preis oder eine Preisstufe, sondern um eine Funktion, die bestehende Verbindungen aufsteigend nach Preisen (soweit ermittelbar) sortiert anzeigt.
+
+ Warum ist die DB Bestpreissuche nicht verfügbar, wenn ich Verbindungen für heute suche?
+----------
+
+Bei einer Suche am aktuellen Reisetag kann die DB Bestpreissuche nicht aktiviert werden. Der Grund: Für den aktuellen Tag stehen meist weniger Angebote zur Verfügung, die sich preislich auch weniger voneinander unterscheiden. Die DB Bestpreissuche vergleicht jedoch alle Preise eines ganzen Tages miteinander – das ist bei einer tagesaktuellen Suche nicht möglich, da der Tag schon angebrochen ist. Deshalb wird die DB Bestpreissuche nur für zukünftige Reisetage angeboten.
+
+ Gibt es einen Tipp, damit mir noch günstigere Preise in der DB Bestpreissuche angezeigt werden?
+----------
+
+**Auf Randzeiten ausweichen**
+
+Für Reisende, die nicht auf bestimmte Uhrzeiten festgelegt sind, ist es sinnvoll, Zugverbindungen in den frühen Morgen- oder den späten Abendstunden zu wählen. Dann sind die Züge meist weniger ausgelastet und in der Regel auch günstiger. Wer darüber hinaus nicht an einen bestimmten Reisetag gebunden ist, kann auf Randzeiten ausweichen und z.B. nicht am Tag direkt vor Beginn oder Ende des Wochenendes, der Ferien oder vor Feiertagen fahren.
+
+ Auf welche Wagenklasse bezieht sich die Auslastungsinformation?
+----------
+
+Die Auslastungsinformation bezieht sich immer auf die in der Verbindungsauskunft angefragte Wagenklasse. Standardmäßig ist die 2. Klasse voreingestellt.
+
+ Wieso ist bei manchen Verbindungen keine Auslastungsinformation verfügbar?
+----------
+
+* In Einzelfällen können darüber hinaus für bestimmte Züge, insbesondere bei Zugfahrten ins Ausland, keine Informationen angezeigt werden.
+* Die Auslastungsinformation ist in der Regel 28 Tage vor dem Abfahrtstag verfügbar. Für Verbindungen, die weiter in der Zukunft liegen oder für die keine Auslastungsinformation verfügbar ist, wird keine Auslastungsinformation angezeigt.
+
+Ist dies bei allen angezeigten Verbindungen der Fall, so wird die Spalte "Auslastung" nicht angezeigt.
+
+ Worauf basiert die Auslastungsinformation?
+----------
+
+Die Auslastungsinformation basiert auf Prognosen. In Einzelfällen kann es deshalb passieren, dass die tatsächliche Situation von der Vorhersage abweicht.
+
+Zusätzlich bezieht sich die Information auf den gesamten Zug (je Klasse). Die Auslastung kann sich aber von Wagen zu Wagen zum Teil deutlich unterscheiden. Beispielsweise gibt es am Zuganfang und -ende häufig mehr freie Plätze als in der Mitte des Zuges.
+
+ Ich habe ein Ticket mit Zugbindung (z. B. Sparpreis). Darf ich bei hoher Auslastung eine andere Verbindung nehmen?
+----------
+
+Die Zugbindung gilt weiterhin. Sie dürfen mit einem zuggebundenen Ticket also keine andere Verbindung wählen.
+
+**Unser Tipp:** Reservieren Sie frühzeitig. So ist es wahrscheinlich, dass Sie Ihren Wunschplatz erhalten. Da sich die erwartete Auslastung ändern kann und bei außergewöhnlich hoher Auslastung eine Sitzplatzreservierung nicht mehr möglich ist, empfehlen wir, diese zeitnah zu buchen.
+
+ Wo finde ich Informationen zu Rail & Fly?
+----------
+
+Mit "Rail&Fly" fahren Sie bequem mit dem Zug von Ihrem Bahnhof bis zum Flughafen und wieder zurück. Dieser Service ist bei vielen Fluggesellschaften im Angebot enthalten. Fragen Sie daher bei Ihrer Flugbuchung direkt nach! Auch viele Reiseveranstalter bieten Rail&Fly an.
+
+Bitte wenden Sie sich hierzu direkt an Ihren Reiseveranstalter. Diese Seite informiert ausschließlich Reisende, die Rail&Fly in Kombination mit einem internationalen Flugticket einer Airline gebucht haben.
+
+ Wie buche ich das Angebot Lufthansa Express Rail?
+----------
+
+Die Buchung erfolgt in einem Schritt mit dem Flug über alle Lufthansa Vertriebskanäle. Buchen Sie dazu die Flugreise einfach ab einer der 27 Express Rail Städte.
+
+Buchungsmöglichkeiten:
+
+* in Ihrem Reisebüro
+* rund um die Uhr telefonisch bei Lufthansa unter [069 86 799 799](tel:069 86 799 799) (Anruf in das deutsche Festnetz, Kosten variieren je nach Anbieter)
+* online unter [Flugsuche auf lufthansa.com](https://www.lufthansa.com/de/de/flugsuche)
+* über die Lufthansa App
+
+ Wie checke ich für Lufthansa Express ein bzw. wie erhalte ich meine Fahrkarte?
+----------
+
+Mit Lufthansa Express Rail können Sie ab 30 Stunden vor Abflug und bis 15 Minuten vor Abfahrt des Zuges online oder mobil bei Lufthansa einchecken. Sie erhalten jeweils eine Bordkarte für Zug und Flug. Die Bordkarte für den Zug ist Ihre ICE-Fahrkarte. Diese ist nur für die aufgedruckte Verbindung gültig. Die Nutzung einer anderen Verbindung ist nicht gestattet.
+
+ Enthält meine Lufthansa Express Rail Buchung eine Sitzplatzreservierung?
+----------
+
+Ja, Lufthansa Express Rail enthält eine Sitzplatzreservierung. Als Gast der Lufthansa First Class und Business Class sind Sitzplätze in der 1. Klasse des Zuges für Sie reserviert. Wenn Sie in der Lufthansa Premium Economy oder Economy Class reisen, finden Sie Ihre reservierten Sitzplätze in der 2. Klasse des Zuges. Der genaue Sitzplatz steht auf Ihrer Lufthansa Bordkarte.
+
+ Was muss ich bezüglich meines Gepäcks bei Lufthansa Express Rail beachten?
+----------
+
+Als Lufthansa Express Rail Reisender sind Sie für Ihr Gepäck selbst verantwortlich während der Zugfahrt bis zur Abgabe im AiRail Terminal am Frankfurter Flughafen (Übergang vom Fernbahnhof zum Terminal 1). Bei Ihrer Rückreise erhalten Sie Ihr Gepäck nach Ihrer Landung in Frankfurt an der Gepäckausgabe des AiRail Terminals und nehmen es direkt mit in Ihren Zug.
+
+ Sie haben Fragen zum Thema Lufthansa Express Rail an die Lufthansa?
+----------
+
+Lufthansa Express Rail ist ein Angebot der Lufthansa. Bitte wenden Sie sich deshalb bei weiteren Fragen sowie bei Anliegen bezüglich Ihrer Buchung direkt an die Lufthansa:
+
+* telefonisch rund um die Uhr unter [069 86799799](tel:069 86799799) (Anruf in das deutsche Festnetz, Kosten variieren je nach Anbieter)
+* online unter [lufthansa.com](https://www.lufthansa.com/de/de/lufthansa-express-rail)
+
+ Was passiert, wenn mein Zug ausfällt oder verspätet ist?
+----------
+
+Bei einer erwarteten Verspätung am Zielbahnhof Ihrer Fahrkarte von
+
+* mindestens **20 Minuten bei nationalen Reisen**
+* oder mindestens **60 Minuten bei internationalen Reisen**
+
+können Sie:
+
+* **Die Fahrt fortsetzen:** Sie können die Fahrt bei nächster Gelegenheit auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
+* **Die Fahrt verschieben:** Sie können die Fahrt zu einem späteren Zeitpunkt auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
+* **Andere Züge nutzen:** Sie können andere, nicht reservierungspflichtige Züge nutzen. Sollte eine Fahrkarte erforderlich sein, müssen Sie diese zunächst bezahlen und können sie sich anschließend erstatten lassen. Erheblich ermäßigte Fahrkarten können davon ausgenommen sein.
+
+Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
+[**Was bedeutet Zugbindung aufgehoben**](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)?
+
+ Wo kann ich mich über meine Fahrgastrechte informieren?
+----------
+
+Es werden Broschüren "Ihre Rechte als unser Fahrgast" in den Verkaufsstellen und an DB Informationen ausgelegt sowie hier zum Download verlinkt. Neben den Informationen, die wir hier auf bahn.de/fahrgastrechte sowie auf [www.fahrgastrechte.info](http://www.fahrgastrechte.info/) online bereitstellen, gibt es noch Aushänge in den Bahnhöfen und in den DB Reisezentren.
+
+Außerdem stellt die DB ihre Beförderungsbedingungen unter [www.bahn.de/agb](https://www.bahn.de/agb) und an DB-Automaten zur Verfügung. Zusätzlich gibt es eine speziell zu den Fahrgastrechten eingerichtete Servicehotline: **030 586020920**.
+
+ Was sind Fahrgastrechte und was beinhalten die Regelungen?
+----------
+
+Bei Zugverspätungen und Zugausfällen sind Ihre Rechte gesetzlich geregelt. Grundlage bildet hierbei die Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates vom 29. April 2021 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (Neufassung).
+
+Fahrgastrechte gelten seit 2009 einheitlich im Eisenbahnverkehr in Deutschland und in Europa. Ihnen werden gleiche Rechte bei allen Eisenbahnunternehmen eingeräumt. Die Regelungen gelten ausschließlich für Entschädigungen im Bereich der Eisenbahnverkehrsleistungen (von der S-Bahn bis zum ICE).
+
+Für Verspätungen, die bei U-Bahnen, Straßenbahnen, Bussen oder Taxi entstehen, besteht kein Entschädigungsanspruch.
+
+ In welcher Form erhalte ich meine Entschädigung?
+----------
+
+Die Entschädigung erhalten Sie als Banküberweisung auf das von Ihnen im Antrag angegebene Konto.
+
+Auf Wunsch stellen wir auch einen DB-Gutschein aus. Sie können diese Option in Ihrem Fahrgastrechteantrag entsprechend auswählen. Der Gutschein ist 3 Jahre gültig.
+
+Bei Fällen mit Erstattungsansprüchen, z.B. bei Fahrtabbruch am Startbahnhof oder bei Zusatzbelegen wie Taxiquittungen oder Hotelrechnungen, sind wir verpflichtet, eine Geldauszahlung vorzunehmen. Eine Gutscheinausgabe ist in diesen Fällen nicht möglich.
+
+ Ich habe einen Interrail-/Eurail-Pass – kann ich meinen Fahrgastrechte-Antrag auch direkt einreichen?
+----------
+
+Ja, Ihren Fahrgastrechte-Antrag können Sie direkt an das Servicecenter Fahrgastrechte (SC FGR) stellen.
+
+**Beachten Sie Folgendes:**
+
+**Ist Ihr Zug ausgefallen oder hatte eine Verspätung ab 60 Minuten?** Dann bearbeitet Interrail/Eurail Ihren Antrag auf Entschädigung direkt. Das SC FGR leitet Ihren Antrag möglicherweise an das Support-Team von Interrail/Eurail weiter. Geben Sie Ihre E-Mail-Adresse im Antrag an, um Rückfragen zu vermeiden.
+
+Alternativ können Sie Ihre Entschädigung online bei Interrail/Eurail beantragen: <https://www.interrail.eu/de/support/delay-compensation>
+
+Sind Ihnen durch einen Zugausfall oder eine Zugverspätung **Zusatzkosten** (z.B. für ein alternatives Verkehrsmittel oder eine Übernachtung) entstanden? Dann bearbeitet das SC FGR Ihren Antrag auf Rückerstattung dieser Kosten direkt.
+
+ Kann ich meine Fahrgastrechte im Reisezentrum bearbeiten lassen?
+----------
+
+Bei Nichtantritt oder Abbruch der Reise am Startbahnhof wegen Verspätung, Zugausfall oder Anschlussverlust haben Sie die Möglichkeit, sich das Ticket direkt im DB Reisezentrum erstatten zu lassen und eine Auszahlung zu erhalten.
+
+In folgenden Fällen erfolgt eine Bearbeitung des Antrags ausschließlich im Servicecenter Fahrgastrechte. Ihr in einem DB Reisezentrum eingereichter Antrag wird in diese Fällen immer zur Bearbeitung an das Servicecenter Fahrgastrechte weitergeleitet und Sie erhalten von dort eine Antwort.
+
+* Sie möchten einen Antrag auf Entschädigung bei verspäteter Ankunft am Zielort stellen
+* Sie sind Inhaber einer Zeitfahrkarte (z.B. Streckenzeitkarte, BahnCard 100, Quer-durchs-Land-Ticket, Länder-Ticket oder Deutschland-Ticket)
+* Sie haben Fahrkarten für den grenzüberschreitenden Verkehr oder für ausländische Strecken, die jeweils bei der DB gekauft wurden (für die Bearbeitung der Entschädigung von Fahrkarten, die nicht von der DB ausgegeben wurden, ist immer die Bahn zuständig, welche die Fahrkarten ausgegeben hat)
+* Sie möchten die Erstattung erforderlicher Aufwendungen aufgrund einer Verspätung beantragen
+
+ Habe ich einen Entschädigungsanspruch, wenn ich wegen eines verspäteten Nahverkehrszugs meinen Anschluss zum Fernverkehr verpasse?
+----------
+
+Der Kunde hat einen Entschädigungsanspruch für die gesamte Reisekette. Sobald der Kunde mit einer Verspätung von mindestens 60 Minuten seinen Zielbahnhof erreicht, hat er Anspruch auf eine Entschädigung, unabhängig davon, welcher Zug und welches Eisenbahnunternehmen die Verspätung verursacht hat. Voraussetzung dafür ist, dass der Kunde eine Fahrkarte für die Gesamtstrecke besitzt.
+
+ Was ist, wenn ich wegen einer Verspätung der U-Bahn, Straßenbahn, des Busses oder Taxis meinen Zug-Anschluss verpasse?
+----------
+
+Für Verspätungen, die bei U-Bahnen, Straßenbahnen, Bussen oder Taxi entstehen, besteht kein Entschädigungsanspruch. Der Entschädigungsanspruch gilt ausschließlich für Eisenbahnverkehrsleistungen (von der S-Bahn bis zum ICE).
+
+ Ich reise auch mit Bus oder Schiff. Wenn ich durch Verspätung meinen Zug nicht bekomme, welche Fahrgastrechte habe ich?
+----------
+
+Umfasst die Fahrkarte auch die Berechtigung zur Nutzung von Bussen oder Schiffen, gilt der Entschädigungsanspruch ausschließlich für die Eisenbahnstrecke.
+
+Liegen Ursache und Wirkung für die verspätete Ankunft des Fahrgastes hingegen außerhalb des Eisenbahnverkehrs (z.B. Verspätung von Bus oder Schiff, die Bestandteil der Fahrkarte sind), können keine Ansprüche für den Eisenbahnverkehr geltend gemacht werden.
+
+ Wann darf ich einen höherwertigen Zug benutzen?
+----------
+
+Bei einer zu erwartenden Verspätung von mindestens 20 Minuten an seinem Zielbahnhof darf der Fahrgast einen höherwertigen, nicht reservierungspflichtigen Zug nutzen. Kunden mit einer Nahverkehrsfahrkarte müssen zunächst eine gültige Fernverkehrs-Fahrkarte beziehungsweise den Produktübergang bezahlen. Die entstehenden Aufwendungen kann der Kunde anschließend geltend machen.
+
+Die Regelung gilt nicht für erheblich ermäßigte Fahrkarten - dazu zählen z.B. Länder-Tickets.
+
+ Sind die gesetzlichen Regelungen des Datenschutzes bei der Erstellung des Fahrgastrechte-Formulars berücksichtigt?
+----------
+
+Das Fahrgastrechte-Formular wurde mit den Datenschutzbehörden abgestimmt und entspricht den gesetzlichen Anforderungen. Es werden nur Informationen abgefragt, die für die Bearbeitung des Falles beziehungsweise die Entschädigung des Kunden benötigt werden.
+
+Personenbezogene Daten werden ausschließlich für die Bearbeitung durch das Servicecenter Fahrgastrechte erhoben. Weitergehende Informationen, wie Telefonnummer und E-Mail-Adresse sind freiwillig. Die personenbezogenen Daten werden ausschließlich für Abwicklungs- und Kontrollzwecke, sowie für die Plausibilitätsprüfung zwischen den beteiligten Unternehmen automatisiert erhoben, verarbeitet und genutzt, es sei denn, der Kunde hat der Nutzung zu Kundenbetreuungszwecken explizit zugestimmt.
+
+ Welche Angaben sind in einem formlosen Schreiben an das Servicecenter Fahrgastrechte erforderlich?
+----------
+
+Das formlose Schreiben muss alle relevanten Informationen zur Person des Kunden und zur Unregelmäßigkeit seiner Reise enthalten. Relevante Daten sind:
+
+* Anschrift
+* Datum der Reise
+* Darstellung der geplanten Zugverbindung
+* Angaben zum tatsächlichen Reiseverlauf
+* ggf. Kontoverbindung
+* Unterschrift
+
+Datenschutzhinweis: Die personenbezogenen Daten werden ausschließlich für Abwicklungs- und Kontrollzwecke, sowie für die Plausibilitätsprüfung zwischen den beteiligten Unternehmen automatisiert erhoben, verarbeitet und genutzt, es sei denn, der Kunde hat der Nutzung zu Kundenbetreuungszwecken explizit zugestimmt.
+
+ Warum gibt es das Fahrgastrechte-Formular?
+----------
+
+Nach den Fahrgastrechten haben die Kunden umfangreiche, einheitliche Entschädigungsansprüche gegenüber allen Eisenbahnunternehmen in Deutschland. Um den Kunden eine Vielzahl unterschiedlicher Abwicklungsunterlagen bei verschiedenen Unternehmen zu ersparen, haben die teilnehmenden Eisenbahnen ein Formular für alle Ansprüche aufgelegt.
+
+Mit dem Fahrgastrechte-Formular erfragen wir vom Fahrgast ausschließlich die zur Bearbeitung seines Entschädigungsfalls benötigten Angaben:
+
+* Wie war Ihr geplanter Reiseverlauf?
+* Wie war Ihr tatsächlicher Reiseverlauf?
+* In welcher Form wünschen Sie Ihre Entschädigung?
+
+Somit unterstützt das Fahrgastrechte-Formular gleichzeitig die zügige Bearbeitung der Ansprüche, da Rückfragen zu fehlenden Daten vermieden werden.
+
+ Wo erhalte ich das Fahrgastrechte-Formular?
+----------
+
+Sie erhalten das Formular
+
+* im Zug durch das Zugpersonal
+* an DB Informationen
+* in DB Reisezentren
+* hier als Download:
+
+ Wer darf auf dem Fahrgastrechte-Formular die Verspätung bestätigen?
+----------
+
+Die Zugbegleiter:innen im Fernverkehr/ Kundenbetreuer:innen im Nahverkehr bestätigen eine Verspätung ab 60 Minuten für den von ihnen verantworteten Zug per Zangenabdruck auf dem Formular.
+
+Die Mitarbeiter:innen der DB Informationen und in den DB Reisezentren bestätigen eine Verspätung, wenn sie diese anhand vorliegender Daten überprüfen können. Die Bestätigung erfolgt durch das Anbringen eines Barcodes oder eines Stempelaufdrucks im vorgesehenen Feld des Formulars.
+
+ Wo kann ich weitere Aufwendungen aufgrund einer Verspätung geltend machen?
+----------
+
+Die Erstattung erforderlicher Aufwendungen aufgrund einer Verspätung (z.B. Bus, Taxi, Hotel) können Sie ausschließlich beim Servicecenter Fahrgastrechte (DB Fernverkehr AG, Servicecenter Fahrgastrechte, 60647 Frankfurt am Main, Deutschland) beantragen.
+
+Dazu müssen neben der Fahrkarte oder einer Kopie der Fahrkarte die Originalbelege zu den entstandenen Aufwendungen eingesendet werden.
+
+ Wo kann ich das ausgedruckte Fahrgastrechte-Formular abgeben?
+----------
+
+Die Formulare können in allen DB Reisezentren, in den Verkaufsstellen teilnehmender Eisenbahnunternehmen oder an DB Informationen abgegeben oder per Post zur Bearbeitung an das Servicecenter Fahrgastrechte gesendet werden:
+
+DB Fernverkehr AG
+Servicecenter Fahrgastrechte
+60647 Frankfurt am Main
+Deutschland
+
+ Wann kann ich Fahrgastrechtsansprüche geltend machen?
+----------
+
+Zu den detaillierten [Informationen, welche Ansprüche Sie im Rahmen der Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen) haben.
+
+Sie haben ein Anliegen, das nichts mit einer Verspätung/einem Zugausfall zu tun hat, wie z.B. eine Leistungseinschränkung oder eine Anfrage zu einer Buchung? Informationen, Antworten auf häufige Fragen sowie Kontaktmöglichkeiten finden Sie auf
+
+ Innerhalb welcher Frist kann ich meine fahrgastrechtlichen Ansprüche geltend machen?
+----------
+
+Die Verordnung (EU) 2021/782 sieht vor, dass Beschwerden innerhalb von **12 Monaten** nach dem Vorfall eingereicht werden müssen. Bitte machen Sie Ihre fahrgastrechtlichen Ansprüche daher innerhalb dieser Frist geltend.
+
+Bitte beachten Sie, dass einige internationale Eisenbahnverkehrsunternehmen abweichende Fristen anwenden (z.B. 3 Monate). Hier kann es dann unter Umständen zu Fristüberschreitungen und Ablehnungen kommen, wenn ein Antrag dort zu spät eingereicht wird.
+
+ Wer bearbeitet mein Entschädigungsanliegen und was ist das Servicecenter Fahrgastrechte?
+----------
+
+Grundsätzlich werden Entschädigungsanliegen immer von dem Eisenbahnunternehmen bearbeitet, das das Ticket ausgegeben hat. In der Regel erkennen Sie das ausgebende Eisenbahnunternehmen am Logo auf dem Ticket.
+
+Zur Abwicklung der Entschädigungsansprüche hat die Deutsche Bahn gemeinsam mit den Nichtbundeseigenen Eisenbahnen in Deutschland ein einheitliches Verfahren eingeführt.
+
+Hierbei ist das Servicecenter Fahrgastrechte (SC FGR) zentraler Dienstleister zur Bearbeitung der Entschädigungsanträge. Neben der Deutschen Bahn lassen zahlreiche weitere Eisenbahnunternehmen die fahrgastrechtlichen Ansprüche Ihrer Kund:innen im SC FGR bearbeiten. Wenn Sie wissen möchten, welche Eisenbahnunternehmen das genau sind, finden Sie [hier](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/service-center) eine Übersicht.
+
+Wenn Sie ein Ticket an das SC FGR schicken, das von einem Eisenbahnunternehmen stammt, das nicht am gemeinsamen Verfahren teilnimmt, ist das kein Problem. In diesem Fall wird das SC FGR Ihr Anliegen selbstverständlich an die zuständige Bahn weiterleiten. Tipp: Um die Bearbeitungsdauer zu verkürzen, wenden Sie sich am besten direkt an das jeweilige Eisenbahnunternehmen, das Ihr Ticket ausgegeben hat.
+
+ An wen kann ich mich wenden, wenn ich mit einer Entscheidung des Servicecenter Fahrgastrechte nicht einverstanden bin?
+----------
+
+Wenn Sie mit einer Entscheidung des Servicecenter Fahrgastrechte nicht zufrieden sind, können Sie einen Widerspruch einlegen. Senden Sie den Widerspruch direkt an das Servicecenter Fahrgastrechte. Ihr Fall wird erneut geprüft.
+
+Kontaktdaten Servicecenter Fahrgastrechte:
+Telefon: [030 586020920](tel:030 586020920)
+
+Adresse:
+DB Fernverkehr AG
+Servicecenter Fahrgastrechte
+60647 Frankfurt am Main
+
+Sollten Sie auch mit der Bearbeitung Ihres Widerspruchs unzufrieden sein, können Sie sich an eine [Schlichtungsstelle](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/fahrgastrechte-schlichtung) wenden.
+
+ Ich fahre mit einer internationalen Fahrkarte aus dem Ausland nach Deutschland. Bekomme ich bei Verspätung in Deutschland eine Entschädigung?
+----------
+
+Ja. Die Fahrgastrechte gelten auch im internationalen Verkehr vom Ausland nach Deutschland. Unabhängig davon, wer die Verspätung verursacht hat, gilt: für internationale Fahrkarten: Das Eisenbahnunternehmen, das die Fahrkarte ausgegeben hat, bearbeitet den Verspätungsfall.
+
+ Wie lange dauert die Bearbeitung meines Fahrgastrechteantrags?
+----------
+
+In der Regel erhalten Sie innerhalb eines Monats per Post oder E-Mail eine Rückmeldung aus dem Servicecenter Fahrgastrechte. Die tatsächliche Bearbeitungsdauer kann je nach Komplexität des Falls und dem generellen Antragaufkommen im Servicecenter variieren.
+
+ Was muss ich beachten, wenn ich das EU-Antragsformular für Erstattungen und Entschädigungen nutze?
+----------
+
+Grundsätzlich empfehlen wir die Nutzung der bestehenden Antragswege wie den digitalen Fahrgastrechte-Antrag oder das Fahrgastrechte-Formular.
+
+Wenn Sie dennoch das EU-Antragsformular für Erstattungen und Entschädigungen nutzen, folgen Sie bitte den entsprechenden Anleitungen und Hinweisen auf dem Formular. Senden Sie das vollständig ausgefüllte Formular inklusive aller notwendigen Tickets und Belege an:
+
+**Postalisch:**
+
+DB Fernverkehr AG
+Servicecenter Fahrgastrechte
+60647 Frankfurt am Main
+Deutschland
+
+**oder per** **E-Mail:** [EUAntragFGR@deutschebahn.com](mailto:EUAntragFGR@deutschebahn.com) | Bitte in der Betreffzeile (wenn möglich) folgendes angeben: Fahrgastrechte: EU-Antragsformular
+
+Achten Sie bitte darauf, bei etwaige Anhängen nur die folgenden Dateiformate zu verwenden: .pdf/.pdf.A, .jpg/.jpeg, .tif, .doc/.docx, .xls/.xlsx, .txt, .gif, .png. E-Mails mit Anhängen mit davon abweichenden Dateiformaten können nicht verarbeitet werden.
+
+Alternativ können Sie das Formular auch in einem DB Reisezentrum abgeben.
+
+**Bitte beachten Sie Folgendes hinsichtlich der Bearbeitung Ihres Antrags im Servicecenter Fahrgastrechte:**
+
+* Wenn Sie die deutschsprachige Variante des EU-Antragsformulars genutzt haben, erhalten Sie Ihre Antwort auf Deutsch. Wenn Sie eine andere verfügbare Sprachvariante genutzt haben, erhalten Sie Ihre Antwort auf Englisch.
+* Die Entschädigung erhalten Sie in der Regel als Banküberweisung auf das im Antrag angegebene Konto. **Wichtig:** Eine Auszahlung auf ein anderes Konto (PayPal oder Apple Pay usw.) ist nicht möglich.
+
+Auf Wunsch stellen wir auch einen DB-Gutschein aus. Der Gutschein ist 3 Jahre gültig. Bei Fällen mit Erstattungsansprüchen, z.B. bei Fahrtabbruch am Startbahnhof oder bei Zusatzbelegen wie Taxiquittungen oder Hotelrechnungen, sind wir verpflichtet, eine Geldauszahlung vorzunehmen. Eine Gutscheinausgabe ist in diesen Fällen ausgeschlossen.
+
+ Welche Entschädigung erhalte ich, wenn mein Zug verspätet am Zielbahnhof ankommt?
+----------
+
+Für **Einzelfahrkarten** gilt: Ab 60 Minuten Verspätung an Ihrem Zielbahnhof erhalten Sie eine Entschädigung von 25 Prozent des gezahlten Fahrpreises für die einfache Fahrt, ab 120 Minuten sind es 50 Prozent. Bei Fahrkarten für die Hin- und Rückfahrt wird die Entschädigung jeweils auf Grundlage des für die Hin- bzw. Rückfahrt entrichteten Fahrpreises berechnet. Wenn der Fahrpreis für die Hin- und Rückfahrt gesamthaft ausgewiesen ist, wird die Entschädigung auf der Grundlage des halben entrichteten Fahrpreises berechnet.
+
+Für **Zeitfahrkarten des Nah- und Fernverkehrs** gilt: ab 60 Minuten Verspätung am Zielbahnhof erhalten Sie folgende pauschale Entschädigung:
+
+* Zeitfahrkarten des Fernverkehrs: 5 Euro (2. Klasse), 7,50 Euro (1. Klasse)
+* Zeitfahrkarten des Nahverkehrs: 1,50 Euro (2. Klasse), 2,25 Euro (1. Klasse)
+* BahnCard 100: 10 Euro (2. Klasse), 15 Euro (1. Klasse)
+
+Insgesamt werden maximal 25 Prozent des Zeitfahrkartenwertes entschädigt.
+
+Als Zeitkarteninhaber (Ausnahme BahnCard 100) können Sie auch mehrere Verspätungsfälle ab 20 Minuten addieren und gesammelt einreichen. Die zu addierenden Verspätungsfälle müssen dabei innerhalb des Geltungszeitraums der Zeitfahrkarte liegen.
+
+Bitte beachten Sie: Entschädigungsbeträge unter 4 Euro werden nicht ausgezahlt.
+
+ In welchen Fällen ist die Zugbindung aufgehoben und was bedeutet das?
+----------
+
+Bei Tickets mit Zugbindung (Sparpreisen) ist diese **Zugbindung** in **folgenden Fällen aufgehoben**:
+
+* Bei **erwartbarer Verspätung am Zielort** von:
+   mindestens 20 Minuten bei nationalen Reisen
+   mindestens 60 Minuten bei internationalen Reisen
+
+* Bei **Zugausfall**
+* Bei **Haltausfall**
+* Wenn Sie Ihren **Anschlusszug nicht erreichen**
+* Wenn es durch eine Fahrplanänderung zu einer **verfrühten Abfahrt** des Zuges kommt
+
+**Zugbindung aufgehoben bedeutet**:
+
+* Für Reisen mit Fernverkehr-Tickets: Sie können mit Ihrem ursprünglichen Ticket alle DB Fernverkehrszüge (ICE, IC/EC) und Nahverkehrszüge (RE, RB, IRE, S-Bahnen) nutzen.
+* Hinweis für die Nutzung von (Super) Sparpreisen, die nur in Zügen des Fernverkehrs (ICE/IC/EC) gültig sind: Für die Weiterfahrt in den Nahverkehrszügen der Westfalenbahn (RE 60, RE 70 und RE 15) auf den Streckenabschnitten Hannover-Hamm, Hannover-Osnabrück, Rheine – Osnabrück, Hannover – Braunschweig und Emden-Münster benötigen Sie ein zusätzliches Ticket zum Nahverkehrstarif. Die Kosten können Sie über das Servicecenter Fahrgastrechte erstatten lassen.
+* Für Reisen mit Fahrkarten des Nahverkehrs: Sie können einen anderen Nahverkehrszug nutzen. Bei Nutzung eines höherwertigen Zugs (z.B. IC/EC, ICE) müssen Sie ein zusätzliches Ticket kaufen. Die Kosten können Sie über das Servicecenter Fahrgastrechte erstatten lassen. Diese Regelung gilt nicht für erheblich ermäßigte Fahrkarten (z.B. Deutschland-Ticket, Länder-Tickets).
+* Sie können eine spätere Verbindung Ihrer Wahl nutzen (z.B. später am selben Reisetag, einen Tag später oder auch erst in 3 Wochen. Dies ist bis zu einem Jahr nach ursprünglichem Reisedatum möglich).
+* Für Reisen im Fernverkehr können Sie auch eine frühere Verbindung am selben Reisetag nehmen.
+* Sie haben freie Wahl der Reiseroute. Die Reise zum auf der Fahrkarte angegebenen Zielort kann also auch über eine andere Strecke führen.
+* Innerhalb Deutschlands benötigen Sie keine zusätzliche Bescheinigung zur Aufhebung der Zugbindung. Sie können sich aber auf expliziten Wunsch eine Bescheinigung ausstellen lassen (z.B. im Zug, im Reisezentrum oder an der DB Information).
+
+**Bei internationalen Reisen ist Folgendes zu beachten:**
+
+* Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
+* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen Zug einen neuen Sitzplatz kostenpflichtig selbst [auf der Sitzplatzreservierung-Seite](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
+
+Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
+
+ Was mache ich, wenn mein Zug ausfällt oder eine erhebliche Verspätung am Zielbahnhof zu erwarten ist?
+----------
+
+Bei einer erwarteten Verspätung am Zielbahnhof Ihrer Fahrkarte von
+
+* mindestens **20 Minuten bei nationalen Reisen**
+* oder mindestens **60 Minuten bei internationalen Reisen**
+
+können Sie:
+
+* **Die Fahrt fortsetzen:** Sie können die Fahrt bei nächster Gelegenheit auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
+* **Die Fahrt verschieben:** Sie können die Fahrt zu einem späteren Zeitpunkt auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
+* **Andere Züge nutzen:** Sie können andere, nicht reservierungspflichtige Züge nutzen. Sollte eine Fahrkarte erforderlich sein, müssen Sie diese zunächst bezahlen und können sie sich anschließend erstatten lassen. Erheblich ermäßigte Fahrkarten können davon ausgenommen sein.
+
+**Bei internationalen Reisen ist Folgendes zu beachten:**
+
+* Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
+* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen Sitzplatz kostenpflichtig selbst [hier](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
+
+Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
+
+[**Was bedeutet Zugbindung aufgehoben**](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)?
+
+Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen, aber einen höherwertigen Zug (z.B. Züge des Fernverkehrs, also IC/EC, ICE) nutzen möchten, dann müssen Sie zunächst die zusätzlich erforderliche Fahrkarte bezahlen. Anschließend können Sie sich die Kosten über das Servicecenter Fahrgastrechte erstatten lassen. Diese Regelung gilt nicht bei erheblich ermäßigten Fahrkarten (z.B. Deutschland-Ticket, Länder-Tickets, Quer-durchs-Land-Ticket).
+
+ Wann habe ich Anspruch auf eine Übernachtung und werden mir die Kosten erstattet?
+----------
+
+Ja, Sie haben Anspruch auf eine Übernachtung und die Erstattung der Kosten, wenn eine Übernachtung wegen eines Zugausfalls oder einer -verspätung erforderlich wird und die Fortsetzung der Fahrt am selben Tag nicht zumutbar ist.
+
+In diesen Fällen haben Sie Anspruch die Erstattung angemessener Übernachtungskosten:
+
+* Wenn das Eisenbahnunternehmen keine Übernachtungsmöglichkeit bereitstellt und
+* Sie das Eisenbahnunternehmen aus Gründen, die das Unternehmen zu verantworten hat, nicht erreichen können (z.B. keine Mitarbeitenden des genutzten Zuges vor Ort verfügbar oder keine Verkaufsstelle oder DB Information erreichbar).
+
+In diesem Fall haben Sie keinen Anspruch auf Erstattung:
+
+* Wenn das Eisenbahnunternehmen eine Übernachtungsmöglichkeit stellt, müssen Sie dieses Angebot nutzen. Organisieren Sie in diesem Fall selbst eine Übernachtung, haben Sie keinen Anspruch auf Erstattung der Kosten.
+
+ Gibt es auch Fälle, in denen ich keine Verspätungsentschädigung erhalte?
+----------
+
+Die Verordnung (EU) 2021/782 (Artikel 19 Abs. 10) sieht vor, dass Eisenbahnverkehrsunternehmen in bestimmten Fällen keine Entschädigung bei Verspätungen zahlen müssen.
+
+Zum einen sind dies außergewöhnliche Umstände, wie z.B. große Naturkatastrophen. Ein gewöhnliches Unwetter fällt nicht unter diese Kategorie. Daher werden Sie in der Regel auch in Zukunft in vollem Umfang bei Verspätungen eine Entschädigung im Rahmen der Fahrgastrechte erhalten.
+
+Zum anderen sind dies Umstände, die durch das Verhalten eines Dritten hervorgerufen werden. Darunter fallen z.B. Betreten der Gleise, Kabeldiebstahl, Polizeieinsätze oder Bombenentschärfungen. In solchen Fällen behalten sich das Eisenbahnverkehrsunternehmen vor, gemäß der Verordnung keine Entschädigung bei Verspätungen zu zahlen.
+
+Streik zählt explizit nicht zu den in der Verordnung genannten Fällen. Im Streikfall erhalten Sie daher wie bisher im Rahmen der Fahrgastrechte Ihre vollumfängliche Entschädigung.
+
+ Welche fahrgastrechtlichen Ansprüche habe ich, wenn ich mehrere Fahrkarten nutze?
+----------
+
+Wenn Sie mehrere Fahrkarten für Ihre Reise nutzen, stellt jede Fahrkarte einen eigenständigen Beförderungsvertrag dar. Etwaige fahrgastrechtliche Ansprüche werden in diesem Fall nicht für die gesamte Reise, sondern für jede Fahrkarte separat ermittelt.
+
+Anders ist es, wenn Sie für Ihre Reise nur eine Fahrkarte haben. In diesem Fall besteht ein Anspruch auf Entschädigung für die gesamte Reisekette, auch wenn Züge verschiedener Eisenbahnunternehmen genutzt werden.
+
+ In welchen Situationen darf ich mit einem anderen Zug oder Verkehrsmittel weiterfahren und was muss ich beachten?
+----------
+
+Bei einer erwarteten Verspätung am Zielbahnhof Ihrer Fahrkarte von
+
+* mindestens **20 Minuten bei nationalen Reisen**
+* oder mindestens **60 Minuten bei internationalen Reisen**
+
+können Sie:
+
+* **Die Fahrt fortsetzen:** Sie können die Fahrt bei nächster Gelegenheit auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
+* **Die Fahrt verschieben:** Sie können die Fahrt zu einem späteren Zeitpunkt auf der gleichen Strecke oder auf einer anderen Strecke fortsetzen.
+* **Andere Züge nutzen:** Sie können andere, nicht reservierungspflichtige Züge nutzen. Sollte eine Fahrkarte erforderlich sein, müssen Sie diese zunächst bezahlen und können sie sich anschließend erstatten lassen. Erheblich ermäßigte Fahrkarten können davon ausgenommen sein.
+
+**Bei internationalen Reisen ist Folgendes zu beachten:**
+
+* Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
+* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen Sitzplatz kostenpflichtig selbst [hier](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
+
+Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
+
+[**Was bedeutet Zugbindung aufgehoben**](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)?
+
+Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen, aber einen höherwertigen Zug (z.B. Züge des Fernverkehrs, also IC/EC, ICE) nutzen möchten, dann müssen Sie zunächst die zusätzlich erforderliche Fahrkarte bezahlen. Anschließend können Sie sich die Kosten über das Servicecenter Fahrgastrechte erstatten lassen. Diese Regelung gilt nicht bei erheblich ermäßigten Fahrkarten (z.B. Deutschland-Ticket, Länder-Tickets, Quer-durchs-Land-Ticket).
+
+ Wann darf ich ein anderes Verkehrsmittel (z.B. Bus oder Taxi) als Ersatz nutzen und werden mir die Kosten erstattet?
+----------
+
+Die Kosten werden bis maximal 120 Euro erstattet, wenn:
+
+* Ihre planmäßige Ankunft zwischen 0 und 5 Uhr liegt und
+* eine Verspätung von mindestens 60 Minuten erwartet wird.
+
+Auch bei Zugausfall gilt dies, wenn es die letzte geplante Verbindung des Tages ist und der Zielbahnhof ohne anderes Verkehrsmittel nicht bis 24 Uhr erreicht werden kann.
+
+**Voraussetzung:**
+
+* Kein anderes Verkehrsmittel wird vom Eisenbahnunternehmen gestellt.
+* Kontaktaufnahme mit dem Eisenbahnunternehmen vor Ort (DB Verkaufsstelle, DB Information oder Zugpersonal) ist nicht möglich.
+
+Wenn das Eisenbahnunternehmen ein Ersatzverkehrsmittel stellt, hat dies Vorrang.
+
+ Gibt es auch eine Entschädigungsregelung bei Verspätungen innerhalb von Verkehrsverbünden?
+----------
+
+Grundsätzlich gelten die Fahrgastrechte auch in den Eisenbahnverkehren der Verbünde (z.B. bei S-Bahnen, RE oder RB). Für Verspätungen, die bei U-Bahnen, Straßenbahnen, Bussen oder Taxi entstehen, besteht kein Entschädigungsanspruch.
+
+Es ist den Verbünden zudem freigestellt, weitergehende Regelungen zu treffen.
+
+Die Zuständigkeit für die Abwicklung der Fahrgastrechte regelt jeder Verbund individuell. Inhaber von Fahrkarten eines Verkehrsverbundes sollten sich beim jeweiligen Verbund nach den dort gültigen Regelungen zu Fahrgastrechten erkundigen.
 
  Wie kann ich meine Entschädigung beantragen?
 ----------
@@ -7824,54 +2894,186 @@ Sie können Ihre Entschädigung auf folgende Weise beantragen:
    Deutschland
 * Alternativ: Abgabe in einem DB Reisezentrum oder Verkaufsstelle.
 
-*
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-entschaedigung-beantragen)
-
- Wie kann ich meine Handy-Nummer für die 2-Faktor-Authentifizierung ändern?
+ Durch eine Verspätung/einen Zugausfall sind mir weitere Kosten entstanden. Wie kann ich hier eine Erstattung beantragen?
 ----------
 
-Loggen Sie sich mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Login & Sicherheit“ auf. Hier können Sie die Mobilfunknummer ändern, die Sie für die 2-Faktor-Authentifizierung mittels SMS-Tan-Verfahren hinterlegt haben.
+Wenn Ihnen aufgrund einer Verspätung oder eines Zugausfalls zusätzliche Kosten (z.B. für eine Übernachtung oder ein weiteres Verkehrsmittel) entstanden sind, können Sie diese direkt mit Ihrem regulären Fahrgastrechteantrag mit beantragen. Dies geht sowohl im digitalen Antrag als auch mit dem Fahrgastrechte-Formular.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-mobilnummer-fuer-die-2-faktor-authentifizierung-aendern)
+**Vorgehen im digitalen Antrag im DB Kundenkonto:**
 
- Wie kann ich meine Reise im Kalender speichern?
+1. Gehen Sie innerhalb des digitalen Antrags zu dem Feld "Durch die Verspätung hatte ich zusätzliche Ausgaben | Ich konnte meine Reservierung nicht nutzen".
+2. Klicken Sie dieses Feld an und folgen Sie den weiteren Schritten.
+3. Machen Sie die erforderlichen Angaben zu den Belegen, die Sie einreichen wollen, und laden Sie die Belege hoch.
+4. Halten Sie Bild- oder PDF-Dateien bereit, die gut lesbar und vollständig sind.
+
+**Vorgehen mit dem Fahrgastrechte-Formular:**
+
+1. Füllen Sie alle notwendigen Angaben zu Ihrer Reise im Fahrgastrechte-Formular aus.
+
+2. Legen Sie die weiteren Belege (Rechnungen, Quittungen etc.) im besten Fall im Original bei.
+
+3. Senden Sie alle Unterlagen an folgende Adresse:
+
+   DB Fernverkehr AG
+    Servicecenter Fahrgastrechte
+    60647 Frankfurt am Main
+    Deutschland
+
+Alternativ können Sie die Unterlagen in einem DB Reisezentrum oder Ihrer Verkaufsstelle abgeben.
+
+**Wichtige Hinweise:**
+
+* Bewahren Sie die Originalbelege mindestens bis zur abschließenden Bearbeitung Ihres Antrags auf.
+* Achten Sie darauf, dass die Belegdateien vollständig und gut lesbar sind. Unvollständige oder schlecht lesbare Dateien können die Bearbeitung verzögern. In diesem Fall müssen Sie die Originalbelege eventuell per Post nachreichen.
+
+ Ich konnte meine Reservierung nicht nutzen, kann ich diese auch im Rahmen der Fahrgastrechte einreichen?
 ----------
 
-**DB Navigator:**
+Ja, wenn reservierte Plätze nicht bereitgestellt wurden oder wegen Zugverspätung nicht genutzt werden konnten, haben Sie Anspruch auf Rückzahlung des Reservierungsentgelts. Das gilt für Sitz- und Fahrradstellplätze.
 
-Sie können eine Reise über das "Teilen"-Symbol oben rechts in den Reisedetails in den Kalender speichern – unabhängig davon, ob Sie die Reisedetails einer Verbindung aus einer Suche heraus, einer gemerkten Reise oder über Ihr Ticket aufgerufen haben.
+**Vorgehen im digitalen Antrag im DB Kundenkonto**
 
-**Bahn.de:**
+* Ticket zur Reise im Kundenkonto auswählen und Online-Antrag starten.
+* Bei „Verspätung unter 60 Minuten“ markieren.
+* Im nächsten Schritt „Ich konnte meine Reservierung nicht nutzen“ auswählen.
+* Den weiteren Schritten folgen.
 
-In der Verbindungsübersicht sowie in Ihrem DB Kundenkonto unter "Meine Reisen" befinden sich hinter jeder Verbindung drei Punkte, über die Sie die Funktion "Im Kalender speichern" auswählen können.
+**Schriftlicher Antrag**
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-reise-im-kalender-speichern)
+Alternativ können Sie die Rückzahlung formlos schriftlich beantragen:
 
- Wie kann ich meine Zugangsdaten wie E-Mail-Adresse und Passwort für mein DB Kundenkonto ändern?
+DB Fernverkehr AG
+Servicecenter Fahrgastrechte
+60647 Frankfurt am Main
+
+ Warum wird der Button “Entschädigung beantragen” nicht angezeigt?
 ----------
 
-Loggen Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihrem DB Kundenkonto ein.
+Wenn der Button "Entschädigung beantragen" bei einer Buchung nicht angezeigt wird, kann das folgende Gründe haben:
 
-Sie können auf bahn.de unter "Kundenkonto verwalten" oder im DB Navigator im Bereich "Profil" Ihre E-Mail-Adresse oder Ihr Passwort im Bereich "[Login & Sicherheit](https://accounts.bahn.de/auth/realms/db/account?kc_locale=de&client_id=kf_web&cancel_uri=https%3A%2F%2Fwww.bahn.de%2Fbuchung%2Fkundenkonto%2Floginundsicherheit)" ganz einfach ändern.
+* Das Reisedatum liegt in der Zukunft. Sie können erst ab dem Gültigkeitsdatum der Buchung Fahrgastrechte beantragen.
+* Sie haben bereits eine Entschädigung für diese Buchung beantragt. Eine erneute Beantragung ist nicht möglich.
+* Ihre Fahrkarte wurde storniert. Daher können keine Fahrgastrechte beantragt werden.
+* Die Antragsfrist wurde überschritten. Sie können Ansprüche nur bis spätestens ein Jahr nach Ablauf der Gültigkeitsdauer der Fahrkarte geltend machen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meinen-benutzernamen-aendern)
-
- Wie kann ich mich als BahnBonus Teilnehmer:in ausweisen?
+ Kann ich den Bearbeitungsstand meines digitalen Fahrgastrechteantrags in meinem DB Kundenkonto einsehen?
 ----------
 
-Die Legitimierung erfolgt mit Hilfe der BahnBonus Card oder der digitalen BahnBonus Karte, die in der BahnBonus App und der App DB Navigator zu finden ist.
+Nein, den Bearbeitungsstand Ihres digitalen Fahrgastrechteantrags können Sie in Ihrem DB Kundenkonto nicht einsehen.
 
-Ihren Status können Sie nur mit der digitalen BahnBonus Karte in der BahnBonus App nachweisen.
+Nachdem Sie Ihren Antrag abgeschickt haben, erhalten Sie eine Antragsbestätigung mit Ihrer individuellen Fall-ID und eine Eingangsbestätigung per E-Mail (sofern gewünscht). Innerhalb eines Monats erhalten Sie in der Regel per Post oder E-Mail eine Rückmeldung zu Ihrem Antrag.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mich-als-bahnbonus-teilnehmer-in-ausweisen)
+In Ihrem Kundenkonto sehen Sie nur, dass ein Fahrgastrechteantrag eingereicht wurde, und finden dort auch die Fall-ID.
 
- Wie kann ich mich für die E-Mail-Kommunikation der DB Fernverkehr AG anmelden?
+ Was ist die Fall-ID und wofür benötige ich diese Angabe?
 ----------
 
-In Ihrem DB Kundenkonto auf bahn.de und in Ihrem Profilbereich im DB Navigator können Sie sich im Bereich „Newsletter & Services“ für die E-Mail-Kommunikation anmelden. Dazu aktivieren Sie den Umschalter (Toggle) „Persönliche Informationen und Gutscheine". Alternativ können Sie sich auch über die BahnBonus App zur E-Mail-Kommunikation anmelden. Dazu wählen Sie in Ihrem Profilbereich den Reiter „Benachrichtigungen" und aktivieren die „E-Mail-Kommunikation".
+Die Fall-ID ist eine Referenznummer. Jeder eingereichte Fahrgastrechteantrag erhält eine Fall-ID, die eine eindeutige Zuordnung ermöglicht.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mich-fuer-die-e-mail-kommunikation-der-db-fernverkehr-ag-registrieren)
+Wenn Sie Ihren Entschädigungsanspruch digital einreichen, erhalten Sie direkt nach dem Absenden des Antrags bereits Ihre Fall-ID. Diese können Sie z.B. der Bestätigungs-E-Mail oder auch im DB Kundenkonto bei der Reise selbst sehen.
+
+Die Fall-ID ist auch im abschließenden Schreiben, das Sie vom Servicecenter Fahrgastrechte erhalten, aufgeführt. Bei einer Banküberweisung wird diese Nummer ebenfalls als Referenz angegeben.
+
+ Wo kann ich meine letzten Aufträge oder Buchungen in der Auftragssuche einsehen?
+----------
+
+Geben Sie zur Suche Ihres Auftrags die Auftragsnummer und den Nachnamen der reisenden Person ein. Dies ist anonym möglich.
+
+Wenn Sie eingeloggt sind: Suchen Sie unter "Meine Reisen" nach Ihrem Auftrag.
+
+ Kann ich an einem DB-Fahrkartenautomaten ein Ticket einen Tag früher kaufen?
+----------
+
+Ja, das können Sie. Es kann jedoch in einzelnen Verkehrsverbünden und den damit verbundenen Ticketarten zu Einschränkungen kommen.
+
+ Es kommt zu einem Fehler beim Hinzufügen eines Tickets in die App DB Navigator. Was kann ich tun?
+----------
+
+Versuchen Sie, das Ticket noch einmal hinzuzufügen:
+
+1. Öffnen Sie die App DB Navigator.
+2. Gehen Sie zum Menübereich "Reisen".
+3. Tippen Sie auf das Plus-Symbol oben rechts.
+4. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein.
+
+**Achten Sie darauf:**
+
+* Fügen Sie am Ende der Eingabe keine Leerzeichen an.
+* Geben Sie den Namen genau wie in der Buchung angegeben ein.
+
+Sollte der Fehler weiterhin auftreten, überprüfen Sie diese Angaben erneut. Eventuell wurden sie nicht exakt wie bei der Buchung eingegeben.
+
+ Kann ich meine Buchung korrigieren, falls ich eine fehlerhafte Eingabe getätigt habe?
+----------
+
+Nein, Sie können das gebuchte Ticket nicht korrigieren oder umschreiben.
+
+In den ersten 3 Stunden nach der Buchung haben Sie die Möglichkeit der "Sofortstornierung".
+
+Achtung: Diese Möglichkeit besteht nicht für Tickets, die am Tag der Buchung zur Fahrt genutzt werden und nicht für Nahverkehrstickets.
+
+ Ist mein Online-Ticket auch gültig, wenn es als PDF auf dem Laptop vorgezeigt wird?
+----------
+
+Ja, Sie können dem Zugpersonal das Online-Ticket problemlos als PDF auf einem Laptop oder einem mobilen Endgerät, z. B. Tablet oder Smartphone, vorzeigen. Dass das Gerät zum Zeitpunkt der Kontrolle funktioniert, liegt in Ihrer Verantwortung.
+
+ Gibt es eine Zugbindung auch im Nahverkehr und auch in der S-Bahn?
+----------
+
+Nein, im Nahverkehr und in der S-Bahn gibt es keine Zugbindung. Ein (Super) Sparpreis-Ticket gilt von 0 Uhr des ersten Geltungstages bis 10 Uhr des darauffolgenden Tages. Sie können also auch eine spätere S-Bahn nehmen, solange Sie bis 10 Uhr des nächsten Tages Ihr Ziel erreichen.
+
+ Kann ich mein Ticket von der 2. Klasse auf die 1. Klasse upgraden?
+----------
+
+Ja, Sie können viele 2. Klasse-Tickets im DB Fernverkehr auf die 1. Klasse upgraden.
+
+ Wieso wird bei manchen Verbindungen "Preisauskunft nicht möglich" angezeigt?
+----------
+
+Bei manchen Verbindungen erscheint der Hinweis "Preisauskunft nicht möglich". Dies passiert, wenn die komplette Strecke oder ein Teil der Strecke nicht von Zügen der Deutschen Bahn befahren wird.
+
+ Wo finde ich meine gebuchten Tickets?
+----------
+
+Auf **bahn.de**:
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Klicken Sie auf den Reiter "Meine Reisen".
+3. Dort finden Sie Ihre Tickets unter "Nächste Reisen" und "Vergangene Reisen".
+
+Falls Ihre Tickets dort nicht erscheinen oder Sie sie nicht über Ihr DB Kundenkonto gebucht haben:
+
+1. Nutzen Sie die Funktion "Auftrag suchen".
+2. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein, um die Tickets nachträglich in Ihr DB Kundenkonto zu laden.
+
+In der **App DB Navigator**:
+
+1. Öffnen Sie die App und loggen Sie sich ein.
+2. Tippen Sie auf "Reisen", um Ihre aktuellen und vergangenen Reisen zu sehen.
+
+Falls ein Ticket nicht angezeigt wird oder Sie es nicht über Ihr DB Kundenkonto gebucht haben:
+
+1. Tippen Sie im Menübereich "Reisen" auf das Plus-Symbol oben rechts.
+2. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein, um das Ticket manuell hinzuzufügen.
+
+ Obwohl ich mich erfolgreich einloggen konnte, erhalte ich eine Fehlermeldung bei der Buchung. Woran kann das liegen?
+----------
+
+Haben Sie in Ihrem DB Kundenkonto in Ihren persönlichen Daten (z. B. Name, Adresse) ein Sonderzeichen (z. B. $, ", griechische Buchstaben etc.) verwendet, kann es vorkommen, dass eine Buchung fehlschlägt. In diesem Fall korrigieren Sie bitte Ihre persönlichen Daten.
+
+ Was kann ich tun, wenn der DB Automat defekt ist?
+----------
+
+Wenn Sie mit einem Zug im **Nahverkehr** reisen, steigen Sie in den Zug ein und melden Sie sich **umgehend** beim **Kontroll- und Servicepersonal** im Zug. Bitte geben Sie hier die Nummer des defekten DB Automaten oder die Haltestelle des defekten Automaten an und schildern Sie die Störung. Der Zugbegleiter überprüft Ihre Angaben anhand der Automatennummer oder Haltestelle und stellt ein reguläres Ticket bis zu Ihrem Zielort aus.
+
+Bitte beachten Sie für Reisen im **Fernverkehr**, dass im Zug kein Ticketkauf bei den Zugbegleiter:innen möglich ist. Nutzen Sie stattdessen die App **DB Navigator** oder **bahn.de**. Alternativ nutzen Sie das nächstgelegene Reisezentrum.
+
+Um die Störung eines DB Automaten schnell beheben zu können, freuen wir uns über Ihre Meldung des defekten Automaten. Rufen Sie bitte die kostenfreie **Service-Nummer 0800 2 886644** an und nennen Sie die Nummer oder Haltestelle des defekten DB Automaten.
+
+ Wo finde ich die Zugnummer meines Zugs?
+----------
+
+Geben Sie in der Reiseauskunft Ihren gewünschten Start- und Zielort ein. In der Detailansicht Ihrer gewünschten Reiseverbindung steht im Bereich Produkte die Zugnummer der Züge.
 
  Wie kann ich mich ins ICE Portal einloggen?
 ----------
@@ -7881,35 +3083,1302 @@ In Ihrem DB Kundenkonto auf bahn.de und in Ihrem Profilbereich im DB Navigator k
 3. Falls die Login-Seite nicht automatisch erscheint, geben Sie "Login.WIFIonICE.de" in Ihren Browser ein.
 4. Nach der erfolgreichen Verbindung können Sie das ICE Portal öffnen, indem Sie auf der Browser-Seite auf "Weiter" klicken oder "ICEportal.de" in Ihrem Browser eingeben.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-mich-ins-ice-portal-einloggen)
-
- Wie kann ich über den DB Navigator den Komfort Check-in nutzen?
+ Wieso sind WLAN-Einwahl und VPN-Deaktivierung Voraussetzung, um das ICE Portal nutzen zu können?
 ----------
 
-Wählen Sie in der App unter „Meine Reisen“ das Ticket aus, mit dem Sie sich einchecken möchten. Klicken Sie im Digitalen Ticket auf den Reiter „Reiseplan“. Bestätigen Sie über den Button „Komfort Check-in“ Ihren reservierten Sitzplatz oder geben Sie diesen manuell ein, wenn Sie keine Reservierung besitzen. In den Reisedetails erscheint nun beim entsprechenden Zug der Status "Eingecheckt".
+Das ICE Portal bietet digitale Services in ICE-Zügen. Um eine stabile Funktion sowie Exklusivität für unsere Fahrgäste zu ermöglichen, sind die Inhalte nur über das Zug-WLAN im ICE erreichbar. Das ICE Portal ist dadurch unabhängig von der Internetverbindung. Stattdessen werden die Inhalte physisch von einer Festplatte direkt auf dem Zug abgerufen. Da sich das ICE Portal also nicht im Internet befindet, sind WLAN-Verbindung mit dem Zug und VPN-Deaktivierung Zugangsvoraussetzungen.
 
-[Tipp: So ermitteln Sie die Wagen- und Sitzplatznummer per QR-Code](https://www.bahn.de/faq/qr-code-aotomatische-wagenermittlung)
+**Hinweis zu VPN:**
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ueber-den-navigator-den-komfortcheckin-nutzen)
+Das ICE Portal funktioniert leider nicht über eine aktive VPN-Verbindung (VPN = Virtual Private Network). Das VPN ist eine spezielle Software, die eine Art „sicheren Tunnel“ ins Internet aufbaut. Das ICE Portal liegt jedoch nicht im Internet, sondern auf dem Zug auf speziellen Festplatten.
 
- Wie kaufe ich ein Handy-Ticket NRW eezy?
+Sie deaktivieren VPN auf Ihrem Endgerät unter „Einstellungen“ ⇒ „Allgemein“ oder „Netzwerke & Internet“ ⇒ „VPN“. Wenn Sie dies bei Ihrem Gerät so nicht finden, suchen Sie „VPN“ unter „Einstellungen“. Hier können Sie nun die VPN-Verbindung trennen.
+
+Wir empfehlen dringend die VPN-Software nach der Nutzung des ICE Portals wieder zu aktivieren.
+
+ Wird mein Datenvolumen verbraucht, wenn ich mir Inhalte im ICE Portal ansehe?
 ----------
 
-Sie benötigen ein Smartphone mit Internetzugang sowie die kostenfreie DB-App "mobil.nrw“. In der App können Sie dann entweder das gewünschte Ticket über die Liste unter "Tickets" direkt auswählen oder Sie geben Start und Ziel in der Fahrplanauskunft der App ein und erhalten eine Ticketempfehlung. Das gewünschte Ticket einfach anklicken und nach der Abbuchung des Kaufbetrages wird das Ticket direkt aufs Handy gesandt.
+Sie können das ICE Portal nur nutzen, wenn Sie mit dem WLAN im ICE verbunden sind. Die Inhalte des ICE Portals werden von einer Festplatte im Zug abgerufen, deshalb wird Ihr Datenvolumen nicht belastet.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kaufe-ich-ein-handy-ticket-nrw)
-
- Wie kennzeichne ich mein Gepäck, damit es schnell wieder gefunden wird, falls ich es verloren habe?
+ Wo ist das ICE Portal verfügbar?
 ----------
 
-**Bitte kennzeichnen Sie Ihre Gepäckgegenstände mit Ihrem Namen und einer Kontaktmöglichkeit, damit wir Sie bei Verlust informieren können.**
+Das ICE Portal ist in allen ICE-Zügen verfügbar.
 
-* Kontaktinformationen auf Ihrem Smartphone u.a. elektronischen Geräten:
-   Hierzu gehen Sie in den Einstellungen Ihres Gerätes auf "Sperrbildschirm" und "Kontaktinformationen". Hier können Sie Ihren Namen und eine E-Mail-Adresse oder Telefonnummer erfassen. Auf dem Sperrbildschirm werden nun immer Ihre Kontaktinformationen angezeigt.
-* Befestigen Sie an Ihrem Gepäck (Koffer, Rucksack u.a. Reisetaschen) einen Gepäckanhänger. Dieser sollte Ihren Namen und Ihre Telefonnummer oder E-Mail-Adresse beinhalten. Kostenlose Gepäckanhänger erhalten Sie an einigen DB Informationen in unseren Bahnhöfen.
-* Legen Sie einen Zettel mit Ihrem Namen und Vornamen in das Gepäckstück, Kleidungsstück oder in die Handyhülle.
+ Worauf muss beim ICE Portal besonders bei Apple Geräten achten?
+----------
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kennzeichne-ich-mein-gepaeckstueck)
+Die Funktion „iCloud Private Relay“ ab iOS 15 soll u.a. für anonymisiertes Surfen im Internet sorgen. Im Zug hindert diese Funktion jedoch Ihr Endgerät daran, eine Verbindung zum ICE Portal herzustellen.
+
+Für die Dauer der Nutzung des ICE Portals sollte diese Funktion deaktiviert sein. Ob die Funktion ausgeschaltet ist, können Sie unter „Einstellungen“ ⇒ „Apple-ID“ ⇒ „iCloud“ ⇒ „Private Relay“ kontrollieren.
+
+ Worauf muss ich beim ICE Portal besonders bei Android Geräten achten?
+----------
+
+Falls Sie ein Smartphone mit dem Betriebssystem Android nutzen, werden Sie nach der Herstellung der Verbindung mit dem Zug-WLAN betriebssystembedingt nicht automatisch auf das ICE Portal weitergeleitet. Daher müssen Sie nach der WLAN-Einwahl „**ICEportal.de**“ in den Browser eingeben.
+
+ Wo finde ich im ICE Portal Informationen zur aktuellen Fahrt?
+----------
+
+In der schwarzen Zuglaufleiste, die sich auf der Startseite oder beim Stöbern durchs Portal am oberen Bildschirmrand befindet, haben Sie immer alle relevanten Informationen zur Fahrt griffbereit: Neben der Geschwindigkeit des Zuges, dem nächsten Halt und der Karte mit aktueller Position des Zuges, können Sie hier auch Ihren Ausstieg und Ihre Anschlussverbindungen auswählen. Bei eventuellen Verspätungen bekommen Sie eine Benachrichtigung, ob Sie den gewählten Anschlusszug noch erreichen.
+
+ Wie wähle ich im ICE Portal meinen Ausstieg aus dem Zug?
+----------
+
+Über den „Reiseplaner" in der schwarzen Zuglaufleiste auf der Startseite öffnet sich ein Fenster, welches den Fahrtverlauf der aktuellen Verbindungen darstellt. Im Fahrtverlauf lässt sich nun im nächsten Schritt ein Bahnhof als Ausstiegs- bzw. Umsteigebahnhof auswählen, zusätzlich können Sie sich Ihre Anschlüsse am gewählten Bahnhof einsehen.
+
+ Was ist der Film- & Serienbereich im ICE Portal und was bietet er?
+----------
+
+Wir bieten Ihnen ein spannendes Entertainmentangebot auf allen ICE-Zügen der Deutschen Bahn. Wählen Sie aus über 150 Inhalten verschiedenster Kategorien (von Thriller über Komödie bis Kinderwelt). Neben einigen US-Inhalten liegt der Fokus besonders auf europäischen und deutschen Inhalten. Sie können alle Inhalte kostenlos und ohne Anmeldung auf Ihrem mobilen Endgerät (Laptop, Tablet oder Smartphone) streamen. Dank einer großen Vielfalt ist für jeden etwas aus unserem Unterhaltungsprogramm dabei!
+
+ In welchen Zügen kann ich das Film & Serienangebot des ICE Portals nutzen?
+----------
+
+Das Angebot ist in allen ICE-Zügen verfügbar.
+
+ Wie werden im ICE Portal Film- & Serieninhalte während der Bahnfahrt gestreamt?
+----------
+
+Die Inhalte sind auf einem im ICE installierten Server abgelegt und werden über eine bahninterne WLAN-Verbindung gestreamt – nicht über das Internet. Sie können, ohne die Installation einer zusätzlichen App, alle Inhalte über herkömmliche Web-Browser auf Ihrem Endgerät ansehen. Sie benötigen keine zusätzliche App zum Streamen.
+
+**Hinweis:** Durch die Nutzung des Film- & Serienangebots wird Ihr persönliches Datenvolumen nicht verbraucht.
+
+ Ich muss aussteigen und der Film ist nicht zu Ende. Welche Möglichkeiten gibt es, den Inhalt im ICE Portal zu Ende zu schauen?
+----------
+
+Der Film kann, nach dem Ausstieg aus dem Zug, nicht zu Ende geschaut werden. Wechseln Sie lediglich zu einem anderen ICE-Zug, kann der Film im nächsten ICE natürlich weiter geschaut werden.
+
+**Hinweis:** In seltenen Fällen kann es vorkommen, dass noch nicht alle ICE-Züge mit den neuesten Inhalten beliefert wurden und die verfügbaren Film- & Serieninhalte somit in den Zügen variieren.
+
+ Kann ich Filme & Serien im ICE Portal auch im Ausland schauen?
+----------
+
+Ja, Sie können die Filme & Serien in Deutschland, sowie allen Ländern, in denen es ICE-Verbindungen gibt, genießen. Dazu zählen Österreich, Frankreich, Belgien, die Niederlande, Dänemark und die Schweiz.
+
+ Wie und mit welchen Geräten können die Filme & Serien im ICE Portal genutzt werden?
+----------
+
+Das Film- & Serienangebot kann mit gängigen mobilen Endgeräten (Laptop, Smartphones und Tablet unterschiedlichster Betriebssysteme) genutzt werden. Dazu verbinden Sie sich mit dem kostenlosen Bord-WLAN (WIFIonICE), öffnen das ICE Portal und klicken auf „Filme & Serien“. Alternativ geben Sie direkt „[https://filme-serien.iceportal.de](https://filme-serien.iceportal.de/)“ in Ihren Browser ein. Die Inhalte werden direkt in Ihrem Browser abgespielt. Wir empfehlen den Google Chrome Browser.
+
+Bitte beachten Sie, dass Apple Geräte in der Regel erst ab dem iPhone 6s, dem iPhone SE (1ste Generation) und iPad (5te Generation) den VoD Service mit dem Standard Browser „Safari“ unterstützen. Ältere Apple Geräte sind aus Hardwaregründen nicht in der Lage Video Inhalte mit Safari abzuspielen.
+Bei diesen Geräten können Sie jedoch alternativ mit dem Google Chrome Browser Filme genießen. Es sind bspw.:
+
+* MacBook Pro 2015 / Catalina 10.15.6
+* MacBook Pro 2013 / Big Sur 11.2.3
+* MacBook Air 2013
+
+ Welche Browser werden im ICE Portal beim Streamen unterstützt?
+----------
+
+Grundsätzlich ist das Streaming der Inhalte auf den meisten Laptops, Tablets oder Smartphones möglich. Wir empfehlen Laptopnutzern (Windows, Mac) folgende Web-Browser in dieser Reihenfolge:
+
+* Google Chrome
+* Microsoft Edge (die neue Chromium-basierte Variante)
+* Firefox
+* Safari
+
+Die Browser funktionieren am besten ab Windows 8.1 und MacOS 12. Wir empfehlen mobilen Nutzern folgende Web-Browser in dieser Reihenfolge:
+
+* Samsung Internet ab Android 6
+* Edge ab Android 6
+* Firefox auf iOS 13
+* Chrome ab Android 6 und ab iOS 11
+* Mobile Safari ab iOS 11
+
+ Woran liegt es, dass das Hörbuch im ICE Portal während des Abspielens stoppt?
+----------
+
+Bei iOS Geräten kann es passieren, dass bei einem Hörbuch am Ende eines Kapitels die Wiedergabe stoppt wenn sich in der Zwischenzeit der Sperrbildschirm aktiviert. Sie sollten deshalb den Sperrbildschirm für die Dauer des Hörbuches deaktivieren.
+
+ Was verspricht das Serviceangebot der digitalen Bordgastronomie im ICE Portal?
+----------
+
+Mit dem Serviceangebot der digitalen Bordgastronomie hat der 1. Klasse-Reisende auf ICE-Zügen die Möglichkeit, digital über das ICE Portal Speisen und Getränke der Bordgastronomie direkt an den Platz zu bestellen. Darüber hinaus kann die Bestellung auch beim 1. Klasse-Servicepersonal aufgegeben oder das Bordrestaurant oder Bordbistro aufgesucht werden.
+
+Reisende in der 2. Klasse können sich im ICE Portal auf der digitalen Speisekarte über die im Zug verfügbaren Speisen und Getränke informieren. Im Bordrestaurant oder Bordbistro werden Bestellungen gerne persönlich entgegengenommen.
+
+ Warum wird im ICE Portal die Bestellfunktion in der 1. Klasse nicht immer angeboten?
+----------
+
+Es kann mehrere Gründe haben, dass die Bestellfunktion nicht angeboten wird:
+
+* Der Bestellservice ist aus betrieblichen Gründen im Moment nicht verfügbar.
+* Sie befinden sich in einem 2. Klasse Wagen.
+* Sie sitzen in der 1. Klasse, sind aber mit dem WLAN eines Wagens der 2. Klasse
+   verbunden. Trennen Sie dazu die WLAN-Verbindung, und verbinden Sie sich erneut.
+
+Falls das Serviceangebot der Bestellung nicht angeboten werden kann, können Sie Ihre Bestellung auch weiterhin bei einem unserer Mitarbeiter an Bord aufgeben.
+
+ Wo finde ich im ICE Portal den Warenkorb?
+----------
+
+Bei aktiviertem Bestell-Service erscheint direkt an den Artikeln jeweils ein Warenkorb-Symbol, mit dem die Produkte in den Warenkorb gelegt werden können. Der Warenkorb wird nun am oberen Bildschirmrand unter den Reiseinformationen angezeigt. Klicken Sie diesen an, um in den Warenkorb zu gelangen und Ihre Bestellung abzuschließen.
+
+ Wie erfahre ich, ob meine Bestellung im ICE Portal angenommen werden kann?
+----------
+
+Nachdem Sie Ihre Bestellung aufgegeben haben, erhalten Sie zunächst eine Info, dass Ihre Bestellung an den Mitarbeiter gesendet wurde. Schließen Sie die Infobox und warten Sie auf der Übersichtsseite auf ein Update zu Ihrer Bestellung.
+
+Lassen Sie das ICE Portal in Ihrem Browser so lange geöffnet, bis die Nachricht erscheint, dass Ihre Bestellung vorbereitet wird. Bis die Rückmeldung angezeigt wird, können Sie die weiteren Angebote des ICE Portals nutzen oder in einem separaten Fenster des Browsers andere Internetseiten aufrufen. Ihre Bestellzusammenfassung können Sie solange jederzeit wieder aufrufen.
+
+ Was bietet die Kategorie „Zeitungen & Magazine“ im ICE Portal?
+----------
+
+In der Kategorie „Zeitungen & Magazine“ bieten wir Ihnen eine kostenfreie Auswahl an regelmäßig wechselnden Magazinen. Unsere 1. Klasse Fahrgäste erhalten zudem ein exklusives Angebot an kostenfreien Tageszeitungen (BILD, Süddeutsche, Handelsblatt, FAZ, Welt, FAS, BAMS und WAMS).
+
+ Ich befinde mich in der 1. Klasse aber mir werden die Tageszeitungen im ICE Portal nicht als kostenlos angezeigt, was kann ich tun?
+----------
+
+Falls Ihnen in der 1.Klasse die Tageszeitungen nicht als kostenfreie Exemplare angeboten werden, trennen Sie ggfs. das DB WLAN und verbinden Sie sich anschließend nach einer kurzen Wartezeit erneut. Bei einem Klassenübergang im Zug kann es ggf. einige Minuten dauern, bis auch ihr Endgerät erfolgreich der 1. Klasse zugeordnet werden kann und Ihnen die Titel zum kostenfreien Download angezeigt werden. In Wagen, die 1. und 2. Klasse Bereiche haben, empfiehlt es sich ggf. kurz in den nächsten 1. Klasse Wagen zu gehen und sich dort erneut mit dem DB WLAN zu verbinden, damit Ihr Endgerät erfolgreich der 1. Klasse zugeordnet werden kann.
+
+ Kann ich die Tageszeitung oder das Magazin aus dem ICE Portal auch nach meiner Reise weiter lesen?
+----------
+
+Sie sind schon am Ziel möchten Ihre Zeitung aber gerne noch weiterlesen? Den digitalen Titel können sie als PDF ganz einfach auf ihrem Endgerät speichern und bequem in der U-Bahn oder Zuhause weiterlesen.
+
+Wählen Sie im ICE Portal einen Titel aus und klicken Sie auf "Jetzt lesen", um den ausgewählten Titel zu öffnen. In Abhängigkeit von Ihrem jeweiligen Endgerät und dessen Betriebssystem öffnet sich der Titel anschließend in einem neuen Tab im Browser oder wird automatisch heruntergeladen und direkt auf dem Gerät gespeichert. Öffnet sich der Titel wie im ersten Fall beschrieben in einem neuen Tab, empfehlen wir für ein späteres Weiterlesen den Download des Titels. Dass Öffnen/Herunterladen eines Titels kann je nach Größe des Titels und Auslastung des Zuges ggf. einige Sekunden länger dauern.
+
+ Mit welchen Geräten kann ich im ICE Portal Zeitungen und Magazine herunterladen und lesen?
+----------
+
+Mit allen internetfähigen Geräten, über die ein PDF heruntergeladen werden kann, wie zum Beispiel Tablets, Smartphone und Laptops.
+
+ In welchen Zügen ist Internet über WLAN verfügbar?
+----------
+
+Das WLAN wird in der kompletten ICE-Flotte sowie aktuell in Teilen der Intercity-Flotte und in ausgewählten Regionalzügen angeboten. Nach und nach wird die gesamte Fernverkehrsflotte mit WLAN ausgestattet.
+
+ Ist Internet über WLAN in den Zügen auf allen Strecken auch im Ausland verfügbar?
+----------
+
+Ja, auf allen Strecken steht das WLAN kostenlos zur Verfügung. Ohne Unterbrechung beim Grenzübertritt kann in Österreich, der Schweiz, in Frankreich, Belgien und den Niederlanden weiter wie gewohnt gesurft werden.
+
+ Ist die Surfdauer zeitlich begrenzt?
+----------
+
+Nein, es gibt keine zeitliche Begrenzung der kostenlosen WLAN-Nutzung auf der gesamten Reise.
+
+ Mit welcher Geschwindigkeit kann ich im Zug surfen?
+----------
+
+Die Surf-Geschwindigkeit ist abhängig von der Verbindung zwischen den Zügen und Mobilfunknetzen sowie der Anzahl der Mitreisenden, die gleichzeitig im Zug online sind. Darüber hinaus variiert die Surf-Geschwindigkeit je nach Technologie des Gerätes und je nachdem, welche Mobilfunknetze entlang der Strecke von unserem System erreichbar sind. Die Surf-Geschwindigkeit kann unter dem liegen, was Sie von zuhause kennen.
+Verzichten Sie bitte, soweit möglich, auf bandbreitenintensive Anwendungen (z.B. App-Updates, Downloads, hochauflösenden Filme aus dem Internet, Betriebssystemupdates), um Ihr Online-Erlebnis und das Ihrer Mitreisenden zu verbessern.
+
+ Mit wie vielen verschiedenen Geräten kann ich das WLAN gleichzeitig nutzen?
+----------
+
+Sie können mit beliebig vielen Geräten – zum Beispiel Smartphone, Tablet und Laptop – gleichzeitig das Internet im Zug nutzen.
+
+ Was ist mit dem WLAN-Angebot in der 1. Klasse alles möglich?
+----------
+
+Das WLAN in der 1.Klasse ist so eingerichtet, dass Sie kostenlos und zuverlässig arbeiten können. Das bedeutet: VPN-Verbindungen sind möglich, Internet-Recherchen können durchgeführt werden und auch das Versenden von großen Mailanhängen und das Anschauen von kurzen Videos- und Musikstreams sind möglich.
+
+ Was ist mit dem WLAN-Angebot in der 2. Klasse alles möglich?
+----------
+
+Das WLAN in der 2.Klasse ist so dimensioniert, dass Sie kostenlos surfen, mailen und chatten können. Auch VPN-Verbindungen sind hier möglich.
+
+ Wie sicher ist das WLAN-Netzwerk im Zug?
+----------
+
+Beim WLAN-Netz im Zug handelt es sich um ein öffentliches WLAN-Netz, ähnlich bspw. einem öffentlichen WLAN-Angebot in Hotels oder Cafés. Wie bei jedem öffentlichen WLAN-Netz ist daher nicht garantiert, dass Kommunikationsverbindungen nicht abgefangen werden können.
+
+Unser WLAN-System verfügt über Sicherheitstechnologien (bspw. die sogenannte Client Isolation, die den Datenzugriff zwischen den einzelnen User-Geräten im WLAN unterbindet), welche die Datenübertragung sicherer machen als in ähnlichen WLAN-Netzen, die in Cafés oder anderen öffentlichen Bereichen zu finden sind.
+
+Um eine sichere Übertragung zu gewährleisten, gerade bei sensiblen Daten, empfehlen wir Ihnen, eine VPN-Verbindung zu nutzen und ausschließlich https-Seiten aufzurufen.
+
+ Warum heißt das WLAN im Intercity WIFIonICE und nicht zum Beispiel WIFIonIC?
+----------
+
+Das WLAN in der Intercity-Flotte heißt genauso wie in der ICE-Flotte WIFIonICE, damit Sie sich nicht zwei unterschiedliche Bezeichnungen und Zugangsvarianten merken müssen.
+
+ Ich kann das Netz "WIFIonICE" nicht auswählen, was kann ich tun?
+----------
+
+* Stellen Sie sicher, dass der Flugmodus Ihres Endgerätes deaktiviert ist.
+* Stellen Sie sicher, dass die mobile Datennutzung Ihres Endgerätes deaktiviert ist.
+* Stellen Sie sicher, dass die WLAN-Funktion Ihres Endgerätes aktiviert ist.
+* Können Sie das Netz WIFIonICE noch immer nicht auswählen, starten Sie bitte Ihr Endgerät neu oder versuchen Sie es mit einem anderen WLAN-fähigen Endgerät.
+
+ Ich werde nicht automatisch auf die Log-In-Seite weitergeleitet, was kann ich tun?
+----------
+
+* Geben Sie in den Browser Ihres Endgerätes folgende Adresse ein "login.WIFIonICE.de".
+* Wenn Sie als Startseite eine https-gesicherte Seite nutzen, erscheint die Startseite nicht automatisch, da wir keine sichere Datenverbindung des Fahrgastes unterbrechen. Jedes Endgerät würde eine sogenannte "Man in the Middle"-Manipulation anzeigen. Geben Sie als Adresse "login.WIFIonICE.de" in Ihren Browser ein, damit erreichen Sie jederzeit die Landing Page. Nun sehen Sie, ob Sie noch eingeloggt sind oder sich erneut einloggen können.
+
+ Was kann ich tun, wenn das ICE Portal nicht lädt oder "hängen" bleibt?
+----------
+
+* Stellen Sie sicher, dass Ihr Endgerät kein VPN verwendet. Mit VPN ist das Portal möglicherweise nicht erreichbar.
+* Deaktivieren Sie das VPN, um die Seiten im Zug erreichen zu können.
+* Geben Sie "login.WIFIonICE.de" in Ihrem Browser ein, um die Startseite zu öffnen.
+* Dort sehen Sie, ob Sie noch eingeloggt sind oder sich erneut einloggen müssen.
+
+ Ich bin mit WIFIonICE verbunden aber Surfen oder Mailversand ist nicht möglich, was kann ich tun?
+----------
+
+* Deaktivieren Sie die WLAN-Funktion Ihres Endgerätes und aktivieren Sie diese wieder.
+* Verbinden Sie Ihr Endgerät erneut mit dem WLAN-Netz WIFIonICE. Nach einigen Sekunden sollte sich die Login-Seite von selbst öffnen.
+* Sollte sich die Login-Seite dennoch nicht von selbst öffnen: Bitte öffnen Sie den Browser Ihres Endgerätes, geben "login.WIFIonICE.de" in die Adresszeile ein und bestätigen mit Enter.
+
+ Wie verstaue ich mein Gepäck im Zug?
+----------
+
+**Großes Gepäck in die Gepäckregale im Großraumbereich – oder vorschicken:** Für große Koffer gibt es in vielen Fernverkehrszügen Gepäckregale. Diese finden Sie entweder im Einstiegsbereich oder zwischen Sitzreihen innerhalb des Großraumbereichs. Alternativ können Sie große Gepäckstücke aber auch mit dem [Hermes Gepäckversand](https://www.bahn.de/angebot/zusatzticket/hermes-gepaeckversand) vorschicken und nur mit leichtem Gepäck reisen.
+
+**Gepäck über den Sitzen verstauen:** In den meisten Fernverkehrszügen gibt es in den Großraumbereichen sowie in den Abteilen über den Sitzen Gepäckablagen. Legen Sie hier Ihre Koffer und Taschen möglichst platzsparend hinein. Die kurze Seite sollte nach vorne zeigen. Bitte denken Sie dabei an die Köpfe Ihrer Mitfahrer und verstauen Sie das Gepäck stets sicher.
+
+Der Intercity 2 stellt aufgrund seiner doppelstöckigen Bauform einen Sonderfall dar, die Ablagen über den Sitzen sind kleiner und nicht für Koffer geeignet. Stattdessen können dort Aktentaschen, Jacken oder Regenschirme verstaut werden. Nutzen Sie für Koffer im Intercity 2 alternativ die Gepäckregale am Ende und in der Mitte der Wagen.
+
+**Unter dem eigenen Sitz:** Kleine Koffer oder Taschen passen meist unter den Sitzplatz. Ähnlich wie im Flugzeug schieben Sie das kleinere Handgepäck einfach unter die Sitzfläche. Natürlich ist es auch möglich, kleines Gepäck vor die Füße zu stellen. Bitte blockieren Sie keinen Sitzplatz mit Ihren Koffern und achten Sie darauf, dass auch Gurte oder Griffe Ihrer Taschen nicht zu Stolperfallen werden.
+
+**Zwischen den Sitzen:** Wenn zwei Sitzlehnen in entgegengesetzter Blickrichtung aneinander stehen, dann befindet sich zwischen den Sitzreihen ein Zwischenraum. In diesen Zwischenraum passen oftmals kleinere bis mittlere Gepäckstücke und teilweise auch große Koffer.
+
+**Zwischen Tür und Sitzplatz:** Besonders schmale Taschen passen in manchen Zügen auch zwischen die Großraumbereichstür und die hinterste Sitzreihe. Bitte achten Sie dabei unbedingt darauf, dass sich die Tür ohne Probleme schließt
+
+ Gibt es Besonderheiten bei internationalen Reisen?
+----------
+
+Grundsätzlich können bis zu drei leicht tragbare Handgepäckstücke im Zug mitgenommen werden. Die Gepäckstücke müssen über, unter dem Sitz oder/und in den vorhandenen Gepäckregalen verstaut werden können.
+
+In einzelnen Ländern gibt es darüber hinaus bestimmte Maße und Gewichte, die ggf. über die Internetseiten der jeweiligen Bahnen bekannt gegeben werden.
+
+Für grenzüberschreitende Reisen ab/nach Deutschland gilt in folgende Länder:
+
+**Frankreich**: Gepäckstücke müssen immer mit einem Namensschild versehen sein, aus dem der Besitzer des Gepäckstücks mit Adresse hervorgeht.
+
+**Italien mit DB-ÖBB Kooperationszügen** (z.B. Verona, Bologna, Venedig): Neben dem o.g. Grundsatz für die Gepäckmitnahme im internationalen Verkehr gilt in den DB-ÖBB-Kooperationszügen, dass zusammengelegte Falträder und Scooter nur mitgenommen werden können, wenn sie zusammengeklappt sind und die **Maße 90x60x40 cm** einhalten.
+Ansonsten sind zusammengelegte/gefaltete und/oder verpackte Fahrräder von der Beförderung ausgeschlossen, da keine Stauräume dafür zur Verfügung stehen. Dies gilt auch für Fahrräder in dafür vorgesehenen Fahrradtransporttaschen.
+
+ Wie viel Gepäck darf ich im Zug mitnehmen?
+----------
+
+Neben Ihrem Handgepäck dürfen Sie ein weiteres größeres Gepäckstück oder einen weiteren Gegenstand kostenlos mitführen, sofern diese sogenannte Traglast von einer Person allein getragen werden kann. Aufgrund seiner Größe muss es ggf. außerhalb Ihres Sitzplatzbereichs untergebracht werden, z.B. im nächsten Gepäckregal. Für die Beaufsichtigung des Gepäcks ist jeder Reisende selbst verantwortlich.
+
+ Kann ich Gepäckstücke kostenfrei in der Bahn mitnehmen?
+----------
+
+Gepäck wie Aktentasche, Laptop, Rucksäcke, Koffer usw. können Sie kostenfrei mitnehmen.
+
+ Was ist bei Sicherheitseinrichtungen zu beachten?
+----------
+
+Zu Ihrer eigenen Sicherheit **müssen** Gänge, Türen und Sicherheitseinrichtungen wie Feuerlöscher frei bleiben – ebenso die gekennzeichneten Stellplätze für Fahrräder und Rollstühle. Folgen Sie in jedem Fall den Anweisungen des Bordpersonals.
+
+ Welche anderen Gepäckstücke darf ich im Zug mitnehmen?
+----------
+
+Welche anderen Gepäckstücke darf ich im Zug mitnehmen?
+Neben Taschen, Trolleys und Koffern können Sie folgende Gegenstände mitnehmen:
+
+**Kinderwagen:**
+
+* Empfohlen werden leicht zusammenklappbare Modelle oder Buggies.
+* Abstellmöglichkeiten befinden sich in Kleinkindabteilen, Familienbereichen oder in deren Nähe.
+* Bei hoher Auslastung (Ferien, Feiertage, Wochenenden) kann der Platz begrenzt sein.
+
+**Faltfahrräder, Falt-Pedelecs, Elektrokleinstfahrzeuge, Tretroller:**
+
+* Faltfahrräder, Falt-Pedelecs und Elektrokleinstfahrzeuge (E-Scooter, Tretroller, E-Tretroller, E-Kickboard) dürfen zusammengeklappt mitgenommen werden.
+* Für große Erwachsenen-Tretroller (Maße wie ein handelsübliches Fahrrad) gelten die tariflichen Regeln für Fahrräder.
+* Diese müssen sicher verstaut werden und dürfen andere Reisende nicht behindern oder verletzen.
+
+**Fahrräder:**
+
+* Erlaubt in bestimmten Fernverkehrszügen (Kennzeichnung in Ankunfts- und Abfahrtsplänen sowie Reiseauskunft).
+* Benötigt wird eine Fernverkehrs-Fahrradkarte mit Stellplatzreservierung.
+* Für Fahrten im Nahverkehr brauchen Sie eine Fahrkarte aus dem Fahrradkartenangebot des Deutschlandtarifs (z.B. Fahrradtageskarte NV, Kurzstreckenfahrradkarte Bayern). Ausnahme: Die Fahrradmitnahme auf der genutzten Strecke oder zur genutzten Zeit ist kostenfrei. Dies gilt auch für Erwachsenen-Tretroller mit den Maßen eines handelsüblichen Fahrrades.
+* Stellplätze sind in der Regel in Wagen der 2. Klasse, Sitzplatz kann auf Wunsch reserviert werden.
+* Sitzplatz und Stellplatz sind meist im gleichen Wagen, in manchen Fällen in verschiedenen Wagen.
+* Jeder Reisende darf nur ein Fahrrad mitnehmen.
+
+**Orthopädische Hilfsmittel:**
+
+* Rollstuhl, Rollator oder Gehhilfe werden kostenfrei befördert.
+* In einigen Verkehrsverbünden gelten abweichende Regelungen.
+
+ Wie groß dürfen meine Gepäckstücke sein?
+----------
+
+Folgende Standardabmessungen wurden bei der Dimensionierung der Gepäckregale unterstellt und passen fast immer: 700 x 500 x 300 mm (Höhe x Breite x Tiefe).
+
+ Kann ich gezielt Sitzplätze wählen, in deren Nähe ich gut mein größeres Gepäck verstauen kann?
+----------
+
+Ja. Wenn Sie einen Sitzplatz online reservieren, können Sie im zweiten Buchungsschritt anhand der grafischen Übersicht („Wunschplatz reservieren“, Button „Sitzplatz auswählen“) gezielt einen Platz in der Nähe eines Gepäckregals auswählen. Oder suchen Sie sich in der grafischen Übersicht Sitzreihen, deren Sitzlehnen in entgegengesetzter Blickrichtung aneinander stehen – also Rücken an Rücken. Denn dort befindet sich zwischen den Sitzreihen ein Zwischenraum, in den Sie ihr Gepäck bodengleich reinschieben können. Rollkoffer legen Sie aber bitte hin, damit sie nicht während der Fahrt losrollen und andere Reisende gefährden.
+
+ Die Klimaanlage im Zug ist defekt und Sie können Ihren reservierten Sitzplatz nicht einnehmen?
+----------
+
+Sie haben gegebenenfalls fahrgastrechtliche Ansprüche, wenn Sie aufgrund einer Störung der Klimaanlage bzw. gesperrter Wagen Ihren reservierten Sitzplatz nicht einnehmen oder die gebuchte 1. Klasse nicht nutzen konnten.
+
+ Warum werden Grenzkontrollen in Zügen durchgeführt?
+----------
+
+Auf Anordnung des Bundesinnenministeriums führt die deutsche Bundespolizei bundesweit Grenzkontrollen durch.
+
+Diese Kontrollen finden auch auf allen **internationalen ICE-, EC-, ECE-, IC-, RJ-, TGV- und NJ-Zügen** der Deutschen Bahn bei Einreise nach Deutschland statt.
+
+ Wie viel kostet die Fahrradmitnahme im Fernverkehr?
+----------
+
+Es gelten die folgenden Preise für die Fahrradmitnahme:
+
+* Bei Reisen innerhalb von Deutschland: je nach Entfernung, Buchungstag und Auslastung der Züge **ab 7,99 Euro bis 14,99 Euro**
+* Bei internationalen Reisen: **ab 7,99 Euro**
+
+Haben Sie bereits eine Fahrkarte? Dann buchen Sie bitte die Fahrradkarte mit Stellplatzreservierung separat auf der Website oder in der App hinzu. Denn die Mitnahme eines Fahrrads ist im Fernverkehr reservierungspflichtig. Die Fahrradkarte muss über dieselbe Strecke lauten wie Ihre eigene Fahrkarte. Dann gilt sie in der Regel für Ihre gesamte Reiseverbindung. Die Nutzung des Nahverkehrs (RE, RB und S-Bahnen) ist inklusive.
+
+ Gibt es besondere Regelungen für die Mitnahme von zusammengelegten Fahrrädern in internationalen Zügen nach Österreich und/oder Norditalien?
+----------
+
+Zusammengelegte Fahrräder können in den DB-ÖBB-Kooperationszügen zwischen München und Norditalien (z.B. nach/von Verona, Venedig, Bologna) über Österreich mitgenommen werden, wenn sie die Maße 90x60x40 cm einhalten. Diese Räder sind unverpackt, wie Handgepäck über oder unter dem Sitz bzw. in den vorhandenen Gepäckregalen zu verstauen.
+
+Ein zusammengelegtes Fahrrad mit größeren Maßen gilt als kostenpflichtiges Fahrrad. Dies kann mit Fahrradkarte sowie einer Stellplatzreservierung mitgenommen werden. Dazu darf es jedoch nicht zusammengelegt sein.
+
+ Wo kann ich die Fahrradmitnahme für Reisen innerhalb Deutschlands buchen?
+----------
+
+Sie können die Stellplatzreservierung und die Fahrkarte an allen bekannten Verkaufsstellen buchen – mit Ausnahme der DB Automaten. Das geht auch auf der Website oder in der App.
+
+Wenn Sie die Fahrradmitnahme nicht vorab gebucht haben, können Sie das Fahrrad nicht mitnehmen.
+
+**Anleitung zur Buchung**
+
+1. Fügen Sie in der Buchungsanfrage auf der Website neben dem Reisenden ein Fahrrad hinzu. Sie bekommen dann Verbindungen mit Fahrradmitnahme angezeigt. Wenn Sie auf den Buchen-Button auf dieser Seite klicken, sind ein Reisender und ein Fahrrad bereits voreingestellt.
+2. Das Fahrradsymbol zeigt Ihnen, ob noch Stellplätze im ICE, IC- oder EC-Zug frei sind (Rotes Fahrradsymbol = Fahrradstellplätze nicht mehr verfügbar).
+3. Sie können auch die Umsteigezeit verlängern, wenn Sie etwas mehr Zeit für den Umstieg mit Ihrem Fahrrad haben möchten.
+4. Wenn Sie schon ein Ticket für sich haben, ändern Sie in der Buchung online oder in der App bei der Auswahl "Reisende, Fahrräder" den Reisenden "Erwachsener" in "Fahrrad" um.
+
+**Andere Buchungswege**
+
+Sie können sich auch an die DB Reisezentren, DB Agenturen oder die Service-Rufnummer [030 2970](tel:+49302970) wenden. Im Zug können Sie kein Fahrradticket kaufen.
+
+**Hinweis für BahnCard 100-Inhaber:innen**
+
+Wenden sich direkt an die Service-Rufnummer [030 586020900](tel:+4930586020900) oder an unsere DB Reisezentren. So können Sie für Ihre kostenfreie Fahrradmitnahme einen Stellplatz reservieren.
+
+**Gruppen ab 6 Personen**
+
+Sie können Ihre Fahrradkarten nicht online buchen. Kontaktieren Sie unsere DB Verkaufsstellen oder rufen Sie die Servicenummer unter [030 2970](tel:+49302970) an.
+
+ Wo kann ich die Fahrradmitnahme für internationale Reisen buchen?
+----------
+
+Sie können die Stellplatzreservierung für ihr Fahrrad zusammen mit der Fahrradkarte online und in der App buchen. Das geht oft auch für internationale Züge.
+
+Fügen Sie in der Buchungsanfrage auch ein Fahrrad hinzu, um Verbindungen mit Fahrradmitnahme angezeigt zu bekommen.
+Das Fahrradsymbol zeigt Ihnen, ob noch Stellplätze im ICE, IC- oder EC-Zug frei sind (rotes Fahrradsymbol = Fahrradstellplätze nicht mehr verfügbar). Sie können auch die Umsteigezeit verlängern, wenn Sie etwas mehr Zeit für den Umstieg mit Ihrem Fahrrad haben möchten.
+
+Bei manchen internationalen Zügen ist das Fahrradsymbol grau. Das heißt, dass die Fahrradmitnahme nicht sicher möglich ist. Wenden Sie sich in diesem Fall an die DB Reisezentren, DB Agenturen oder an die Service-Rufnummer [030 2970](tel:+49302970).
+
+Hinweis: Es gibt eine Kennzeichnungspflicht für Reisen nach Italien (via Österreich/Brenner). Siehe hierzu auch "[Muss ich mein Fahrrad für die Mitnahme in Fernverkehrszügen kennzeichnen?](https://www.bahn.de/faq/19muss-ich-mein-fahrrad-fuer-die-mitnahme-in-fernverkehrszuegen-kennzeichnen)").
+
+ Welche Fahrräder darf ich mitnehmen?
+----------
+
+Sie dürfen grundsätzlich folgende Fahrradtypen mit in den Zug nehmen:
+
+* Ein handelsübliches, einsitziges Fahrrad mit zwei Rädern. Das Fahrrad muss in die vorhandenen Fahrradständer gestellt werden. Die Fahrradständer haben in der Regel eine Breite für Reifen von 40 bis 60 mm.
+* Ein Fahrrad mit Tretunterstützung durch Elektromotor bis 25 km/h (sog. "Pedelec", bis 250 Watt Motorleistung).
+* Ein Fatbike, wenn dieses in die Fahrradhalterung (in der Regel eine Breite für Reifen von 40 bis 60 mm) passt. Lassen Sie ggf. die Luft aus dem Reifen ab. Denken Sie dabei an das Equipment für das spätere Wiederaufpumpen.
+* Ein zusammengeklapptes Faltrad oder Kinderräder mit einem Raddurchmesser bis 16 Zoll können im Zug wie Gepäck untergebracht werden. Hierfür stehen z. B. Gepäckregale und Mehrzweckbereiche zur Verfügung.
+* Ein Tandem, Liegerad oder Dreirad kann nur in Nahverkehrszügen mit größerer Stellplatzkapazität mitgenommen werden.
+   Die Mitnahme von Tandems, Liegerädern und großen Dreirädern (\> 120 cm) ist in den Fernverkehrszügen nicht erlaubt.
+* Das orthopädische Hilfsmittel Laufrad (\>120 cm Länge) kann im Fernverkehr bei vorliegender Stellplatzreservierung im Fahrradbereich mitgenommen werden. Für das orthopädische Hilfsmittel kleines Dreirad (\< 120 cm) ist eine Reservierung auf dem Rollstuhlstellplatz erforderlich.
+   Informieren Sie sich hierfür bitte im DB Reisezentrum, in der DB Agentur oder bei der Mobilitätsservicezentrale.
+
+Alle nicht genannten Modelle können Sie nicht mitnehmen. Dazu zählen auch Fahrräder, die aufgrund ihrer Maße oder Bauweise nicht sicher verstaut werden können. Auch Fahrräder, die in Durchgänge und Fluchtwege hineinragen, dürfen Sie nicht mitnehmen.
+
+ Kann ich mein Fahrrad als Handgepäck kostenfrei mitnehmen?
+----------
+
+Zusammengeklappte Fahrräder können Sie kostenfrei als Handgepäck mitnehmen- Sie müssen dafür keine Fahrradkarte oder Stellplatzreservierung buchen.
+
+Sie können Klappräder sicher in den Gepäckregalen und Mehrzweckbereichen unterbringen. Gänge, Türen und Sicherheitseinrichtungen, wie z.B. Feuerlöscher, müssen zu Ihrer eigenen Sicherheit frei bleiben.
+
+ Kann ich in der Reiseauskunft sehen, ob noch Fahrradstellplätze verfügbar sind?
+----------
+
+Ja, fügen Sie in der Buchungsanfrage neben dem Reisenden einfach ein Fahrrad hinzu, um Verbindungen mit Fahrradmitnahme angezeigt zu bekommen.
+
+Ob tatsächlich noch Stellplätze im ICE, IC- oder EC-Zug frei sind, erkennen Sie direkt am Fahrradsymbol (rotes Fahrradsymbol = Fahrradstellplätze nicht mehr verfügbar).
+
+ Darf ich Fahrradanhänger mit in den Zug nehmen?
+----------
+
+Zusammengeklappte (Kinder- oder Lasten-)Fahrradanhänger können Sie im Zug wie Gepäck mitnehmen. Dafür gibt es z. B. Gepäckregale und Mehrzweckbereiche. Gänge, Türen und Sicherheitseinrichtungen, wie z.B. Feuerlöscher, müssen zu Ihrer eigenen Sicherheit frei bleiben.
+
+Sie dürfen pro Fahrrad nur einen (zusammengeklappten) Anhänger mitnehmen.
+
+ Darf ich mein Fahrrad auch im City-Ticket-Gebiet in U-Bahn, Straßenbahn und Bus mitnehmen?
+----------
+
+Nein, die DB-Fahrradkarte ist in U-Bahnen, Straßenbahnen und Bussen nicht gültig. Es gelten die Bestimmungen zur Fahrradmitnahme des jeweiligen Verbundes vor Ort.
+
+ Wie kann ich einen Fahrradstellplatz buchen, bei dem ich mein Fahrrad nicht hochheben und einhängen muss?
+----------
+
+Bitte wenden Sie sich in diesem Fall an die DB Reisezentren, DB Agenturen und an die Service-Rufnummer [030 2970](tel:+49302970).
+
+Ob es "stehende" oder "hängende" Fahrradhalterungen gibt, hängt von der Baureihe des Zuges ab. Die Reiseberater:innen können das für Sie prüfen. Wenn Plätze verfügbar sind, können sie Ihnen einen Stellplatz mit "stehender" Fahrradhalterung buchen.
+
+ Ich brauche mehr Zeit für den Umstieg mit Gepäck und Fahrrad. Wie kann ich das bei der Buchung einplanen?
+----------
+
+Wenn Sie Ihre Bahnreise planen, können Sie vorab in der Reiseauskunft online oder in der App die Umsteigezeit anpassen.
+
+Wählen Sie bei der Abfrage der Reiseverbindung auf der Website die Umsteigezeit aus, die für Sie am angenehmsten ist (in der App unter "Optionen").
+
+ Kann ich meine Fahrradkarte stornieren?
+----------
+
+Ja, Sie können Fahrradkarten grundsätzlich bis einen Tag vor dem ersten Geltungstag kostenfrei umtauschen oder erstatten.
+
+ Kann ich mit meine Fahrradkarte einen anderen Zug nehmen?
+----------
+
+Ja, aber wenn Sie im Fernverkehr einen anderen Zug nutzen als ursprünglich gebucht, müssen Sie eine **neue Stellplatzreservierung** buchen.
+
+ Was muss ich bei der Mitnahme meines Pedelecs beachten?
+----------
+
+Sie dürfen nur Pedelecs mit Tretunterstützung bis 25 km/h und einer Motorleistung bis 250 Watt mitnehmen. Der Akku muss während der gesamten Fahrt fest montiert sein.
+
+* **Ersatz-Akku:** Nicht erlaubt (Gefahrgut).
+* **Aufladen**: Nicht im Zug erlaubt.
+* **Powerbank**: Akku nicht als Powerbank nutzen.
+* **Eigenständigkeit**: Pedelec selbst ein- und ausladen.
+
+**In Fernverkehrszügen (ICE, ECE, IC/EC, RJX, TGV):**
+
+* Fahrräder werden stehend oder hängend transportiert.
+* Sichern Sie das Fahrrad in der Halterung.
+
+An den Fahrradstellplätzen gibt es **keinen Schließmechanismus**. Nutzen Sie Ihr eigenes Schloss, um das Fahrrad zu sichern.
+
+ Was muss ich bei der Mitnahme meines E-Tretrollers/E-Scooter beachten?
+----------
+
+Sie können ein Elektro-Kleinstfahrzeug (z. B. E-Scooter, E-Tretroller, E-Kickboard) in allen Fernverkehrs-Zügen mitnehmen (ICE, ECE, IC/EC, RJX, TGV). Beachten Sie folgende Punkte.
+
+**Kostenfreie Mitnahme als Handgepäck:**
+
+* Das Fahrzeug muss zusammengeklappt und sicher verstaut sein.
+
+**Nicht zusammengeklapptes Fahrzeug:**
+
+* Gilt als Traglast. Sie können es nur mitnehmen, wenn es sicher untergebracht wird.
+
+**Unterbringungsmöglichkeiten:**
+
+* Gepäckregale
+* Gepäckablagen über dem Sitz
+* Stellflächen unter und zwischen den Sitzen
+
+**Sicherheitsvorkehrungen:**
+
+* Achten Sie darauf, dass das Fahrzeug in der Gepäckablage über dem Sitz nicht verrutscht und keine Gefahr für Sie und Mitreisende besteht.
+* Empfehlung: Das Fahrzeug in einer Tasche verstauen oder zwischen anderen Gepäckstücken sicher verkeilen.
+
+**Akku-Richtlinien:**
+
+* Sie dürfen den eingebauten Akku während der Beförderung weder entnehmen, laden, noch anderweitig (z. B. als Powerbank) nutzen..
+
+ Muss ich mein Fahrrad für die Mitnahme in Fernverkehrszügen kennzeichnen?
+----------
+
+Nein, generell ist das nicht notwendig. Zeigen Sie bei der Fahrkartenkontrolle zusätzlich zur Fahrkarte auch Ihre Fahrradkarte und die Stellplatzreservierung vor.
+
+**Ausnahme für Reisen nach Italien (via Österreich/Brenner)**
+
+Wenn Sie Ihr Fahrrad in einem EC-Zug nach Italien (via Österreich/Brenner) mitnehmen wollen, müssen Sie eine Kennzeichnung anhängen. Bitte drucken und füllen Sie die Fahrradbanderole aus. Befestigen Sie diese vor Fahrtantritt an Ihrem Fahrrad. Die Banderole ist kein Ersatz für die Fahrradkarte bzw. Stellplatzreservierung.
+
+ Was muss ich bei der Mitnahme von Falträdern beachten?
+----------
+
+Sie können zusammengeklappte Fahrräder kostenfrei als Handgepäck mitnehmen. Sie müssen dafür keine Fahrradkarte oder Stellplatzreservierung buchen.
+
+Ein zusammengeklapptes Faltrad muss im Zug wie Gepäck untergebracht werden. Nutzen Sie z.B. Gepäckregale und Mehrzweckbereiche. Halten Sie Gänge, Türen und Sicherheitseinrichtungen, wie z.B. Feuerlöscher frei. Diese müssen zu Ihrer eigenen Sicherheit frei bleiben.
+
+Wenn Sie das zusammengeklappte Faltrad in der Ablage über dem Sitzplatz unterbringen, achten Sie bitte auf Folgendes:
+
+* das Faltrad kann nicht verrutschen
+* Reisende werden nicht gefährdet
+
+Tipp: Packen Sie das Rad in eine Tasche oder befestigen Sie es vorsichtig mit mitgebrachten Spanngurten zwischen anderen Gepäckstücken.
+
+ Wie finde ich schnell zu meinem Fahrradstellplatz im Zug?
+----------
+
+Fahrradstellplätze sind immer in der 2. Klasse. Sie können auf mehrere Wagen im Zug verteilt sein. Die Wagen- bzw. Stellplatznummer finden Sie in Ihren Reservierungsunterlagen.
+
+**Am Bahnsteig richtig stehen und einsteigen**
+
+Nutzen Sie auch die digitale Wagenreihung. Diese zeigt Ihnen im Vorfeld an, in welchem Gleisabschnitt die Waggons mit Fahrradstellplätzen halten werden.
+
+Die Fahrradwagen sind außen und innen mit Fahrrad-Symbolen gekennzeichnet. Nehmen Sie bitte die Gepäckstücke rechtzeitig vor Einfahrt des Zuges von Ihrem Fahrrad ab. So laden Sie schneller ein und aus. Seitengänge, Einstiegsbereiche und ggf. die Tür zum Lokführerstand müssen Sie freihalten. Hinweis: Das Zugpersonal kann beim Ein- und Ausladen nicht helfen.
+
+Sie brauchen einen stufenfreier Zugang zum Start- und Zielbahnhof? In der Fahrplanauskunft auf der Website oder in der App unter "Bahnhofsinformationen" finden Sie dazu Informationen. Auch die App "DB Bahnhof Live" hilft bei der Reiseplanung. Hier finden Sie Informationen über Barrierefreiheit, Aufzüge und Fahrradstellplätze.
+
+**Im Zug**
+
+Sie haben Ihr Fahrrad sicher abgestellt? Dann können Sie auf einem freien oder auf Ihrem reservierten Sitzplatz im Fahrradwagen Platz nehmen. So sitzen Sie direkt in der Nähe Ihres Fahrrads.
+
+Sie haben ein 1. Klasse-Ticket? Ihre reservierten Sitzplätze sind nicht in der Nähe Ihres gebuchten Fahrradstellplatzes. Hinweis: Möglicherweise müssen Sie mehr Zeit zum Ausladen Ihres Fahrrades einplanen. Bei Fragen wenden Sie sich bitte an das Zugpersonal.
+
+ Was, wenn ich Fahrradkarte oder Stellplatzreservierung für meinen Fernverkehrszug vergessen habe?
+----------
+
+Sie dürfen Ihr Fahrrad nur in einem Fernverkehrszug mitnehmen, wenn Sie bei der Fahrkartenkontrolle Ihre Fahrkarte mit Stellplatzreservierung vorzeigen können. Haben Sie die Fahrradmitnahme nachträglich zum Ticket hinzugebucht? Dann müssen Sie die Fahrradkarte mit Stellplatzreservierung vorlegen.
+
+Sie haben Ihre online gebuchte Fahrradkarte mit Stellplatzreservierung nicht dabei? Sie können sie erneut online abrufen. Das geht über Ihr DB Kundenkonto auf der Website oder in der App.
+
+ Was passiert, wenn ich meinen Anschlusszug verpasse oder mein gebuchter Fahrradwagen ausfällt?
+----------
+
+In den folgenden Fällen können Sie die nächstmögliche Verbindung nehmen, **wenn dort noch** ein Fahrradstellplatz **buchbar** ist:
+
+* Sie verpassen Ihren Anschlusszug im Fernverkehr aufgrund von Bahn-Verschulden.
+* Der gebuchte Fahrradwagen fällt aus.
+* Ihr gebuchter Zug fällt aus.
+
+**Achtung: Sie müssen in allen genannten Fällen eine neue Stellplatz-Reservierung buchen.**
+
+**Buchen Sie am besten online oder in der App.** So sehen Sie schnell Verbindungen, in denen noch Fahrradstellplätze verfügbar sind. Alternativ können Sie auch in einem DB Reisezentrum in Ihrer Nähe oder über die Servicenummer [030 2970](tel:+49302970) buchen. Ohne Stellplatzreservierung ist der Einstieg nicht möglich.
+
+**Fahrgastrechte**
+
+Im Fahrgastrechtefall können Sie Ihre doppelt gezahlte Reservierung erstatten lassen. Reichen Sie dazu die jeweiligen Belege ein.
+
+ Ich möchte ins Ausland fahren und mein Fahrrad mitnehmen. Welche Direktverbindungen gibt es?
+----------
+
+Bei folgenden, direkten Fernverkehrs-Verbindungen ins Ausland können Sie ein Fahrrad mitnehmen, wenn noch Stellplätze reservierbar sind.
+Die Reiseverbindung finden Sie auch in der Reiseauskunft auf bahn.de und in der App DB Navigator. Sie finden dort auch Umsteigeverbindungen. Planen Sie für Umstiege aber bitte ausreichend Zeit ein.
+
+Für die Buchung von grenzüberschreitenden Verbindungen mit dem Fahrrad wenden Sie sich bitte an die DB Reisezentren, DB Agenturen und an die Service-Rufnummer [030 2970](tel:+49302970). Online ist die Buchung nicht möglich.
+
+**Direktverbindungen im Überblick:**
+
+**Belgien**
+
+* ab Frankfurt über Köln nach Brüssel
+
+**Dänemark**
+
+* ab Hamburg nach Kopenhagen oder Aarhus
+* ab Flensburg nach Fredericia
+
+**Italien**
+
+* ab München über den Brenner nach Bozen, Trento, Verona und Bologna
+* ab Frankfurt über Zürich nach Mailand
+
+**Luxemburg**
+
+* ab Düsseldorf über Koblenz nach Luxemburg
+
+**Niederlande**
+
+* ab Frankfurt über Köln nach Amsterdam
+* ab Berlin über Stendal, Hannover, Osnabrück und Rheine nach Apeldoorn und Amsterdam
+
+**Polen**
+
+* ab Berlin nach Warschau
+* ab Berlin nach Krakau und Przemysl
+
+**Österreich**
+
+* ab Frankfurt über München, Dortmund oder Saarbrücken nach Graz/Klagenfurt mit ÖBB Railjets
+* ab München nach Salzburg und Wien weiter nach Budapest mit ÖBB Railjets
+* ab Frankfurt, Stuttgart, Ulm und Friedrichshafen nach Innsbruck mit ÖBB-Railjets
+* ab Hamburg, Köln, Mainz und Nürnberg nach Wien über Passau
+
+**Schweiz**
+
+* ab Berlin nach Basel und Interlaken mit dem ICE 4
+* ab Hamburg über Frankfurt nach Basel und Chur mit dem ICE 4
+* ab Frankfurt nach Zürich und weiter nach Mailand
+* ab Stuttgart über Singen nach Zürich
+* ab München nach Zürich
+
+**Tschechien**
+
+* ab Hamburg über Berlin nach Prag
+
+ Kann ich für mein Fahrrad im Nahverkehr einen Stellplatz reservieren?
+----------
+
+Nein, wir bieten keine Stellplatzreservierungen für Fahrräder im Nahverkehr an.
+
+ Habe ich für mein Fahrrad eine Mitnahmegarantie im Nahverkehr?
+----------
+
+Aus Sicherheitsgründen können Sie in den Nahverkehrszügen nur begrenzt Fahrräder mitnehmen. Wir bitten Sie daher um Verständnis, dass wir Ihnen die Mitnahme Ihres Fahrrads im Nahverkehr nicht garantieren können.
+
+Vor allem an den Wochenenden und in den Sommer-Monaten können auf stark befahrenen und touristischen Strecken Züge voll besetzt sein. Tipp: Suchen Sie vor Ihrer Reise nach Alternativrouten oder weichen Sie ggfs. auf andere Tage aus.
+
+Bitte informieren Sie sich auch rechtzeitig vor Antritt Ihrer Reise zu möglichen Sperrzeiten für die Fahrradmitnahme im jeweiligen Verkehrsverbund.
+
+ ​​​​​​​Kann ich in der App DB Navigator ein Fahrradticket für einen Verbund kaufen?
+----------
+
+Ja, in manchen Verbünden ist das möglich. Für die Fahrradmitnahme gibt es verbundspezifische Regelungen. Informationen finden Sie beim jeweiligen Verkehrsverbund unter [Verbundtickets im DB Navigator](https://www.bahn.de/angebot/regio/verbuende) oder unter [www.bahn.de/fahrrad-nahverkehr](http://www.bahn.de/service/individuelle-reise/bahn_und_fahrrad/rad-nahverkehr).
+
+Sie können aber auch das **Fahrradtagesticket Nahverkehr** kaufen. Das gilt deutschlandweit.
+
+Wählen Sie in der App **DB Navigator** im Bereich "Buchen" bei "Tickets & Angebote" die Menükachel "Regionale Angebote" aus. Dort können Sie die "Fahradtageskarte Nahverkehr" kaufen. Die App erkennt auch, in welchem Verkehrsverbund Sie sich befinden. Tippen Sie im Bereich "Buchen" auf die Menükachel "Mein Verbund", dann bei "Weitere Informationen" auf den Link "hier". Dort finden Sie Informationen über die für in Ihrem Verkehrsverbund geltenden Regelungen - teilweise auch zur Fahrradmitnahme.
+
+Sie benötigen keine Reservierung in den Zügen der Verkehrsverbünde.
+
+ Auf welchen Strecken kann ich mein Fahrrad mit meiner Nahverkehrsfahrkarte auch in IC-Zügen mitnehmen?
+----------
+
+Die Nahverkehrsfreigabe gilt nur für ausgewählte Fernverkehrsstrecken in Deutschland.
+
+ Kann ich meine Fahrradkarte für den Nahverkehr zusammen mit meiner Fahrkarte buchen?
+----------
+
+Bitte kaufen Sie Ihre Fahrkarte (für Sie als Person) für den Nahverkehr separat zur Fahrkarte für Ihr Fahrrad. Aktuell sind dafür zwei getrennte Buchungen nötig. Eine Kombination der beiden Tickets in einer Buchung ist noch nicht möglich.
+
+ Was kostet das Ticket bwFahrrad?
+----------
+
+Die Fahrrad-Tageskarte bwFahrrad kostet 6 Euro pro Rad und Tag. Sie ist nur gültig in Kombination mit gültigem (Personen)Fahrschein.
+
+ Wo ist das Ticket bwFahrrad gültig?
+----------
+
+Das Ticket bwFahrrad ist ein Tag lang gültig im Geltungsbereich in Nahverkehrszügen Baden-Württembergs sogar bis nach Basel.
+
+ Wofür kann ich das Ticket bwFahrrad nutzen?
+----------
+
+Grundsätzlich ist die Mitnahme von Fahrrädern in Baden-Württemberg außerhalb der Hauptverkehrszeit – also **vor 6 und nach 9 Uhr** montags bis freitags – in den Zügen des Regional- und Nahverkehrs in der Regel **kostenlos**.
+
+Soweit die kostenlose Mitnahme nicht gilt, wird im bwtarif das Ticket bwFAHRRAD angeboten. Es ermöglicht in Verbindung mit einem bwtarif-Fahrschein die Mitnahme eines Fahrrads in den Zügen des Nahverkehrs sowie in Regiobussen.
+
+Eine Übersicht der Strecken, auf denen ein zusätzliches Fahrradticket nötig ist, finden Sie auf [bwtarif.info](https://www.bwtarif.info/).
+
+ Was kostet die Fahrradtageskarte Niedersachsen?
+----------
+
+Die Fahrradtageskarte Niedersachsen kostet 7 Euro pro Rad und Tag. Sie ist nur gültig in Kombination mit gültigem (Personen)Fahrschein.
+
+ Wo und wann ist die Fahrradtageskarte Niedersachsen gültig?
+----------
+
+Die Fahrradkarte ist gültig:
+
+* Für beliebig viele Fahrten in Niedersachsen, nach Bremen und Hamburg
+* Bis nach Hengelo (NL)
+
+**Hinweis**: Wird der IC zwischen Bremen Hbf und Norddeich Mole genutzt, wird neben der Fahrradtageskarte ein kostenpflichtiger Fahrradstellplatz im DB Reisezentrum notwendig.
+
+Ihr Ticket gilt an einem Tag Ihrer Wahl **von 0 bis 3 Uhr** **des Folgetages.**
+
+ Kann ich die Fahrradtageskarte Niedersachsen stornieren?
+----------
+
+Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stornierung ausgeschlossen.
+
+ Was kostet das 24hFahrradTicket NRW?
+----------
+
+Das 24hFahrradTicket NRW kostet 6,30 Euro pro Rad für 24 Stunden.
+
+Das 24hFahrradTicket NRW gilt zur Mitnahme jeweils eines Fahrrads in Zusammenhang mit einem Ticket des NRW-Tarifs für die reisende Person. Reisen mehrere Personen gemeinsam mit einem Ticket (z. B. 24hTicket NRW 5 Personen oder im Rahmen der Mitnahmeregelung, so ist für jedes mitgeführte Fahrrad ein 24hFahrradTicket NRW erforderlich. Das 24hFahrradTicket NRW kann auch zusammen mit beliebigen Tickets der NRW-Verbundtarife sowie dem Deutschland-Ticket genutzt werden.
+
+ Wo kann ich das 24hFahrradTicket NRW kaufen?
+----------
+
+Das 24hFahrradTicket NRW bekommen Sie an DB Automaten, in den DB Reisezentren, in DB Agenturen, Reisebüros mit DB-Lizenz und gleich hier online.
+
+ Wo und wann ist das 24hFahrradTicket NRW gültig?
+----------
+
+* Gilt für 1 Fahrrad; wenn mehrere Personen gemeinsam mit einem Ticket unterwegs sind, braucht jedes Fahrrad ein eigenes 24hFahrradTicket NRW
+* Nach Fahrtantritt nicht übertragbar
+* Keine Ermäßigung für Kinder
+* Gilt für die Fahrradmitnahme bei beliebig vielen Fahrten innerhalb von 24 Stunden gemäß Angabe auf dem Ticket (Aufdruck oder Entwerterstempel)
+
+ Was sollte ich am Tag der Reise beachten, wenn ich ein Fahrrad mit in den Zug nehmen möchte?
+----------
+
+Wir empfehlen am Reisetag, Ihre Reiseverbindung auf der Website oder in der App noch einmal auf mögliche Änderungen zu überprüfen. Planen Sie genügend Zeit zur Orientierung am Bahnhof und am Abfahrtsgleis ein. Da Sie Ihr Fahrrad in Bahnhöfen generell nur schieben dürfen, kann es zur Hauptreisezeit vorkommen, dass Sie sich nur langsam fortbewegen können. Wir bitten dies auch bei Umstiegen zu berücksichtigen.
+
+Beachten Sie, dass sich an den Fahrradstellplätzen kein Mechanismus befindet, um Ihr Fahrrad zu sichern. Sollten Sie Ihr Fahrrad während der Fahrt sichern wollen, bitten wir Sie, Ihr eigenes Schloss zu verwenden.
+
+Wenn Sie für Ihre Reise Züge des Nahverkehrs nutzen, beachten Sie bitte die regionalen Regelungen, weil beispielsweise nicht alle Verkehrsverbünde zu allen Uhrzeiten die Fahrradmitnahme erlauben.
+
+ Darf ich einen E-Roller im Zug mitnehmen?
+----------
+
+Ja, Sie dürfen einen E-Roller im Zug mitnehmen, wenn er eine Straßenzulassung hat. Der E-Roller muss geklappt sein und in der Gepäckablage verstaut werden.
+
+ Was ist der Unterschied zwischen Kleinkindabteil und Familienbereich?
+----------
+
+Die [Kleinkindabteile](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil) richten sich an die Bedürfnisse von Familien mit Kindern im Still- und Krabbelalter (0 bis 5 Jahre). Jedes Kleinkindabteil hat eine eigene Steckdose mit Kindersicherung. Ein ausklappbarer Wickeltisch direkt im Abteil oder im Rollstuhl-WC nebenan sorgt für eine rückenschonende Haltung beim Wickeln – auch bei 300 km/h. Kleinkindabteile verfügen in der Regel auch über einen Kinderwagenstellplatz innerhalb des Abteils oder in unmittelbarer Nähe.
+
+Im [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich) der ICE- und Intercity-Züge sind Familien mit Kindern im Kindergarten- oder Grundschulalter perfekt aufgehoben. Das Gute: Hier reisen Sie in bester Gesellschaft – Sie sitzen mit anderen Familien in einem Boot.
+
+ Welche Sitzplätze im Zug sind die besten für Familien?
+----------
+
+Die [Kleinkindabteile](https://www.bahn.de/service/individuelle-reise/kinder/kleinkindabteil) richten sich an die Bedürfnisse von Familien mit Kindern im Still- und Krabbelalter (0 bis 5 Jahre). Jedes Kleinkindabteil hat eine eigene Steckdose mit Kindersicherung. Ein ausklappbarer Wickeltisch direkt im Abteil oder im Rollstuhl-WC nebenan sorgt für eine rückenschonende Haltung beim Wickeln – auch bei 300 km/h. Kleinkindabteile verfügen in der Regel auch über einen Kinderwagenstellplatz innerhalb des Abteils oder in unmittelbarer Nähe.
+
+Im [Familienbereich](https://www.bahn.de/service/individuelle-reise/kinder/familienbereich) der ICE- und Intercity-Züge sind Familien mit Kindern im Kindergarten- oder Grundschulalter perfekt aufgehoben. Das Gute: Hier reisen Sie in bester Gesellschaft – Sie sitzen mit anderen Familien in einem Boot.
+
+ Wo kann ich mein Baby im Zug wickeln?
+----------
+
+* In ICE- und IC-Zügen gibt es in fast jedem Zug mindestens eine Wickelmöglichkeit (meist im [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich) oder auf den barrierefreien Toiletten, Hinweise an der Tür).
+* In Regionalzügen: Wickelmöglichkeiten meist in den barrierefreien WCs (Achtung: Ausstattung kann schwanken).
+
+ Wo parke ich im Zug den Kinderwagen?
+----------
+
+* Im [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich) oder im angrenzenden 1. Klasse-Wagen (hinter dem ersten Sitz).
+* Falls das [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich) ausgebucht ist: In Familienbereichen oder bei Regional- und S-Bahnen im Mehrzweckbereich/Fahrradabteil.
+* Tipp: Beim Zugpersonal nachfragen, falls Sie keinen freien Stellplatz finden.
+
+ Kann ich ein Gläschen/Fläschchen im Zug erwärmen?
+----------
+
+* Im ICE-/IC-Bordrestaurant hilft das Personal beim Erwärmen von Fläschchen und Gläschen und stellt Ihnen heißes Wasser zur Verfügung.
+* Eine Thermoskanne mit heißem Wasser zusätzlich mitnehmen kann praktisch sein.
+
+ Muss ich ein Kind unter 6 Jahren bei der Buchung angeben?
+----------
+
+Kinder im Alter von 0 bis 5 Jahre fahren in den Fernverkehrszügen der Deutschen Bahn kostenfrei und müssen dafür auf der Fahrkarte nicht eingetragen werden. Wir empfehlen jedoch Kinder unabhängig des Alters anzugeben, da so eine Sitzplatzreservierung im Kleinkindabteil oder -bereich möglich ist. Die mitfahrenden Kinder werden erst ab 6 Jahre auf der Fahrkarte der Begleitperson aufgelistet.
+
+ Wie verhält sich die kostenfreie Kindermitnahme bei Reisen in die Schweiz und nach Österreich?
+----------
+
+Bei Reisen mit einer grenzüberschreitenden Fahrkarte in die Schweiz oder nach Österreich fahren eigene Kinder oder Enkel bis einschließlich 5 Jahre kostenfrei mit, wenn sie gemeinsam mit Ihnen reisen. Ein nachträglicher Eintrag im Zug ist nicht möglich.
+
+ Gelten für Fährfahrten unterschiedliche Altersgrenzen?
+----------
+
+Für Fährfahrten gelten unterschiedliche Altersgrenzen. Kinder müssen für die SEE-Strecken nach Hiddensee, Borkum und Helgoland sowie Küstenbuslinie Norden-Harlesiel den jeweils gültigen Preis für eine Kinderfahrkarte vor Ort bezahlen.
+
+ Darf die Begleitperson eines Kindes mit Behinderung kostenfrei mitreisen?
+----------
+
+Bei Kindern mit Behinderung im Alter von 0 bis 5 Jahren, in deren **Schwerbehindertenausweis** die Mitnahme einer Begleitperson und das **Merkzeichen "B"** vermerkt ist, darf die Begleitperson kostenlos fahren. Das Kind benötigt, da Kinder im Alter von 0 bis 5 Jahren grundsätzlich kostenfrei reisen, keine eigene Fahrkarte. Die Reise kann nach Wahl und Verfügbarkeit in der 1. oder 2. Klasse stattfinden. Die Reservierung für den Sitzplatz wird für das Kind und seine Begleitperson kostenfrei ausgegeben. Sie erhalten diese in allen DB Reisezentren und über die Mobilitätsservice-Zentrale.
+
+Bitte beachten Sie, dass für Reisen ins Ausland abweichende Regelungen gelten können.
+
+ Müssen mitreisende Kinder im Alter von 6-14 Jahren auf der Fahrkarte angegeben werden?
+----------
+
+**Kinder im Alter von 6 bis 14 Jahre** fahren in Begleitung von Reisenden ab 15 Jahre kostenfrei, müssen aber bei Buchung angegeben werden. Bis zu vier Kinder können pro Ticket mitfahren. Ein nachträglicher Eintrag im Zug ist nicht möglich.
+
+Bei Reisen ausschließlich im Nahverkehr gilt in der Regel eine kostenfreie Mitnahme für bis zu 3 Kinder. Bei Landes- und Verbundtarifen kann es Abweichungen von dieser Regelung geben.
+
+ Gibt es Einschränkungen beim Onlineticket?
+----------
+
+Ein Online-Ticket bzw. Handy-Ticket kann für bis zu 5 Personen (maximal 4 Kinder) gebucht werden. Familien mit mehr Kindern im Alter von 6 bis einschließlich 14 Jahre erhalten im DB Reisezentrum die DB Familienkarte.
+
+ Reisen Kinder im Alter von 6-14 Jahren kostenfrei nach Österreich mit?
+----------
+
+Bei Reisen nach Österreich fahren Kinder im Alter von 6 bis einschließlich 14 Jahre kostenfrei mit. Sie müssen dabei ein grenzüberschreitendes Ticket lösen und die mitfahrenden Kinder müssen auf der Fahrkarte eingetragen sein.
+
+ Ist kostenfreie Kindermitnahme für Kinder bis 14 Jahre mit der BahnCard 100 möglich?
+----------
+
+Besitzer einer BahnCard 100 können bis zu 4 Kinder im Alter bis einschließlich 14 Jahre kostenfrei mitnehmen. Eine Sitzplatzreservierung ist jedoch kostenpflichtig.
+
+ Darf die Begleitperson eines Kindes (ab 6 Jahre) mit Behinderung kostenfrei mitreisen?
+----------
+
+Bei Kindern mit Behinderung im Alter von 6 bis 14 Jahren, in deren Schwerbehindertenausweis die Mitnahme einer Begleitperson und das **Merkzeichen „B“** vermerkt ist, darf die Begleitperson kostenfrei mitfahren. Reisen das Kind und die Begleitperson in einem Zug des Fernverkehrs, dann benötigt das Kind eine Fahrkarte. Das Kind und die Begleitperson reisen in der beim Fahrkartenkauf für das Kind gewählten Klasse. Die Reservierung für den Sitzplatz wird für das Kind und seine Begleitperson kostenfrei ausgegeben.
+
+Die Fahrkarte inklusive kostenfreier Sitzplatzreservierungen für das Kind und die Begleitperson erhalten Sie online über bahn.de, über den DB Navigator, in allen DB Reisezentren sowie über die Mobilitätsservice-Zentrale.
+Ist nur die kostenfreie Reservierung von Sitzplätzen gewünscht, wenden Sie sich bitte an ein DB Reisezentrum oder die Mobilitätsservice-Zentrale.
+
+Bitte beachten Sie, dass für Reisen ins Ausland abweichende Regelungen gelten können.
+
+Reisen das Kind und die Begleitperson in einem Zug des Nahverkehrs und neben dem Schwerbehindertenausweis mit Merkzeichen „B“ liegt auch eine Wertmarke vor, dann dürfen das Kind und die Begleitperson kostenfrei fahren.
+
+Hier finden Sie weitere [Informationen für barrierefreies Reisen](https://www.bahn.de/service/individuelle-reise/barrierefrei).
+
+ Darf die Begleitperson eines Kindes (ab 6 Jahre) mit Behinderung kostenfrei mit ins Ausland reisen?
+----------
+
+Ist im **Schwerbehindertenausweis** die Mitnahme einer Begleitperson und das **Merkzeichen "B"** vermerkt, dann reist die Begleitperson kostenfrei. Für Reisen ins Ausland ist es erforderlich, dass für die Begleitperson eine kostenfreie Fahrkarte mit dem Vermerk „Begleiter“ ausgegeben wird. Diese erhalten Sie in allen DB Reisezentren und über die Mobilitätsservice-Zentrale.
+
+ Wie funktioniert der Komfort Check-in für Kinder und Familien?
+----------
+
+Erwachsene und Kinder ab 6 Jahre, die mit digitalen Tickets reisen, können sich mit dem Komfort Check-in auf ein entspanntes Reisen freuen und sich zudem in vielen Zügen dank der Belegtanzeige den Sitzplatz sichern.
+
+Weitere Informationen sowie die genauen Bedingungen zum [Komfort Check-in](https://www.bahn.de/service/zug/komfort-check-in)
+
+ Gibt es einen Begleitservice für allein reisende Kinder?
+----------
+
+Ab Ende August bieten wir einen Begleitservice für allein reisende Kinder an. Informationen dazu finden Sie hier:
+
+ Gilt besondere Fürsorge- und Obhutspflicht für allein reisende Kinder?
+----------
+
+Ob ein Kind alleine reisen kann, entscheiden Sie als Erziehungsberechtigte aufgrund des Entwicklungsstandes und der geistigen Reife Ihres Kindes. Entscheiden Sie sich als Eltern/Erziehungsberechtigte dafür, dass Ihr Kind ohne Sie oder eine andere erwachsene Begleitperson im Fernverkehr reist, liegt die Verantwortung für das Kind bei Ihnen. Die Bordmitarbeiter der DB übernehmen keine besondere Fürsorge- und Obhutspflicht für Kinder.
+
+ Was ist, wenn mein Kind während der Reise besondere Hilfe benötigt?
+----------
+
+Sollten DB Mitarbeitende während der Reise eine konkrete Gefahr für das Kind bzw. Dritte erkennen, werden sie selbstverständlich helfend tätig, indem sie beispielsweise den Kontakt zu den Eltern aufnehmen oder das Kind in die Obhut der Bundespolizei übergeben (Vgl. § 8 Abs. 2 EVO).
+
+ Ab welchem Alter darf ich alleine mit der Bahn ins Ausland fahren?
+----------
+
+Die Verantwortung, ob Sie alleine reisen dürfen, liegt tatsächlich bei den Erziehungsberechtigten bzw. bei Ihren Eltern. Wir empfehlen zur Sicherheit eine schriftliche Erlaubnis mitzuführen.
+
+ Können allein reisende Kinder die Vorteile des Komfort Check-in nutzen?
+----------
+
+Ja, auch Kinder ab 6 Jahren, die allein mit einem digitalen Ticket reisen, können den Komfort Check-in nutzen. Sie checken selbstständig am Platz über die DB Navigator App ein. In vielen Zügen zeigt die Belegtanzeige am Platz an, dass der Sitzplatz reserviert ist.
+
+Weitere Informationen zum [Komfort Check-in](https://www.bahn.de/service/zug/komfort-check-in)finden Sie auf bahn.de oder in der DB Navigator App.
+
+ Wie buche ich die Begleitung durch DB Junior Express?
+----------
+
+**Schritt 1: Buchung der Servicepauschale inkl. Sitzplatz in der Gruppe**
+
+Zuerst buchen Sie einen Platz für Ihr Kind in der **Gruppenbegleitung** **DB Junior Express** für die gewünschte Verbindung online über die Buchungsseite des Services. Dort werden zunächst Strecke, Reisetag und Verbindung ausgewählt. Anschließend werden die erforderlichen Angaben zum Kind, zu den Sorgeberechtigten, zur bringenden Person, zum Notfallkontakt und zu den abholberechtigten Personen erfasst. Nach Abschluss der Servicebuchung erhalten die buchenden Personen eine **Bestätigung** mit allen wichtigen Informationen zur Reise, zum Treffpunkt und zu den nächsten Schritten.
+
+**Schritt 2: Buchung der passenden Kinderfahrkarte**
+
+Für die Nutzung des DB Junior Express benötigen Sie zusätzlich zwingend ein reguläres **Kinderticket der 2. Klasse** für die gebuchte Strecke. Im Anschluss an die Buchung der Gruppenbegleitung DB Junior Express gelangen Sie über einen Direktlink zur Fahrkarte der passenden Verbindung auf bahn.de. Hier buchen Sie das passende **Kinderticket** für dieselbe Verbindung.
+
+•Hat Ihr Kind eine Ermäßigung (z. B. die **Jugend BahnCard**), können Sie diese beim Ticketkauf wie gewohnt anrechnen lassen.
+
+•*Wichtig:* Eine zusätzliche Sitzplatzreservierung beim Ticketkauf ist **nicht nötig**, da der Sitzplatz bereits in der Servicebuchung von DB Junior Express erhalten ist.
+
+ Welche Art von Ticket sollte ich für mein Kind buchen? (DB Junior Express)
+----------
+
+Für die Reise wird **zusätzlich zur Servicebuchung** ein **gültiges Kinderticket** für die ausgewählte Verbindung benötigt.
+
+* Sie benötigen **keine erneute Sitzplatzreservierung**.
+* Ein Flexpreis kann sinnvoll sein, weil er mehr Spielraum bietet, falls sich bei Ihnen vor der Reise noch Änderungen ergeben.
+
+ Haben die Kinder feste Sitzplätze in der DB Junior Express Gruppe?
+----------
+
+Ja. Für die Kinder der gesamten betreuten DB Junior Express Gruppe sind zusammenhängende Sitzplätze reserviert. Die Sitzplätze werden nicht frei durch die Kundinnen und Kunden ausgewählt, sondern im Rahmen des Services organisiert.
+
+ Auf welchen Strecken und an welchen Tagen wird DB Junior Express angeboten?
+----------
+
+DB Junior Express startet zunächst auf sechs Direktverbindungen im Fernverkehr. Ab dem 21.08.2026 wird der Service immer freitags- und sonntagsnachmittags auf den folgenden Strecken angeboten:
+
+**München Hbf – Köln Messe/Deutz**
+
+**Köln Messe/Deutz – München Hbf**
+
+**Frankfurt Hbf – Hamburg Hbf**
+
+**Hamburg Hbf – Frankfurt Hbf**
+
+**Berlin Hbf – München Hbf**
+
+**München – Hbf Berlin Hbf**
+
+ Warum wird DB Junior Express nur auf wenigen Strecken angeboten?
+----------
+
+Der Service DB Junior Express befindet sich im Aufbau. Er startet zunächst auf sechs Direktverbindungen. Der Service wird perspektivisch auf ein größeres Streckennetz ausgeweitet.
+
+ Warum ist beim Service DB Junior Express ein Ein- und Ausstieg an Zwischenhalten nicht möglich?
+----------
+
+Der Service DB Junior Express befindet sich im Aufbau. Er begleitet Kinder ausschließlich vom Start- bis zum Zielbahnhof der gebuchten Direktverbindung. Eine den besonderen Sicherheitsanforderungen genügende Übergabe an den Unterwegshalten ist aktuell noch nicht möglich.
+
+ Darf ich den Service DB Junior Express auch für Kinder unter 6 oder über 14 Jahren buchen?
+----------
+
+Nein. DB Junior Express richtet sich an allein reisende Kinder im Alter von 6 bis 14 Jahren. Für Kinder unter 6 Jahren oder Jugendliche über 14 Jahren kann der Service nicht gebucht werden.
+
+ Welche Voraussetzungen muss mein Kind für den DB Junior Express erfüllen, um reisefähig zu sein?
+----------
+
+Damit Ihr Kind sicher und gut begleitet reisen kann, prüfen Sie bitte, ob DB Junior Express zum aktuellen Entwicklungsstand und zur Reisesituation Ihres Kindes passt. Die folgenden Voraussetzungen müssen erfüllt sein, damit ihr Kind reisefähig ist.
+
+Die Betreuung kann nur erfolgen, wenn das Kind am Reisetag uneingeschränkt reisefähig ist. Ein Kind gilt als reisefähig, wenn es am Tag der Reise die folgenden Voraussetzungen erfüllt:
+
+* Das Kind ist mindestens 6 Jahre und maximal 14 Jahre alt.
+* Das Kind ist gesund und würde in seinem tagesaktuellen gesundheitlichen Zustand auch in die Schule gehen.
+* Das Kind kann sein Gepäck eigenständig transportieren und handhaben.
+* Das Kind benötigt während der Reise keine geplante medizinische Versorgung durch die Betreuenden.
+* Das Kind kann selbstständig auf die Toilette gehen (Der Weg zur Toilette kann begleitet werden).
+* Das Kind ist gruppenfähig und benötigt ausdrücklich keine 1:1 Betreuung.
+* Das Kind muss sich mit den Betreuenden auf deutsch oder englisch verständigen können.
+* Das Kind kann sich an allgemeine Regeln halten und Anweisungen des Betreuungspersonals befolgen.
+* Das Kind muss freiwillig mit DB Junior Express reisen wollen. Eine Beförderung gegen den ausdrücklichen Willen des Kindes ist nicht möglich.
+
+Wenn ein Kind aus Sicht der Betreuenden nicht reisefähig ist, kann die Mitnahme des Kindes beim Check-In abgelehnt werden.
+
+ Wer genau betreut die Kinder auf der Fahrt vom DB Junior Express?
+----------
+
+Die Kinder werden durch geschulte Kinderbetreuende des Servicepartners Proki Kinderevents betreut. Das Personal ist **ISO-zertifiziert** und **pädagogisch geschult**. Proki führt den Service im Auftrag der Deutschen Bahn durch. Pro Verbindung begleiten **zwei Betreuende** eine Gruppe von maximal 14 Kindern. Die Namen der Betreuenden werden vorab per Mail kommuniziert.
+
+Die Betreuenden begleiten die Kinder während der Reise, behalten die Gruppe im Blick, unterstützen bei Fragen und sorgen für einen sicheren und geordneten Ablauf von der Übergabe am Startbahnhof bis zur Übergabe am Zielbahnhof.
+
+ Von wann bis wann ist mein Kind beim DB Junior Express genau betreut?
+----------
+
+Die Betreuung beginnt mit der persönlichen Übergabe des Kindes an die Betreuenden am Startbahnhof. Sie endet mit der persönlichen Übergabe an eine zuvor angegebene und berechtigte Abholperson am Zielbahnhof.
+
+ Woher weiß ich, dass es meinem Kind auf der Reise mit dem DB Junior Express gut geht?
+----------
+
+Die Kinder reisen in einer fest betreuten Gruppe. Die Betreuenden haben alle relevanten Informationen zur Reisegruppe vorliegen, darunter Kontaktdaten, Notfallkontakte und wichtige Hinweise zu den Kindern. Bei Auffälligkeiten, Zwischenfällen oder medizinischen Themen werden die hinterlegten Notfallkontakte informiert. Die Betreuenden achten durchgehend auf Orientierung, Sicherheit und Wohlbefinden der Kinder**.**
+
+ Was, wenn etwas im DB Junior Express schief läuft?
+----------
+
+Wir wissen, dass Sie als Eltern / Erziehungsberechtigte von alleinreisenden Kindern ein **besonders hohes Sicherheitsbedürfnis** haben. Unser Service ist genau darauf ausgelegt, auch in unvorhergesehenen Situationen **absolut verlässlich** zu agieren.
+
+**Zugverspätungen & Gleiswechsel:** Unser digitales Back-Office überwacht die Fahrt kontinuierlich.
+Kommt es zu **Verzögerungen \>45 Minuten** oder anderen relevanten Abweichungen, werden der **Notfallkontakt** sowie die **Abholperson** proaktiv per E-Mail informiert. Das Wichtigste: **Die Betreuung endet erst, wenn Ihr Kind am Zielbahnhof sicher übergeben wurde** – egal, zu welcher Zeit der Zug ankommt.
+
+**Tipp:** Speichern Sie die gebuchte Verbindung im DB Navigator über **„Reise merken“** und aktivieren Sie die **Push-Benachrichtigungen**. So bleiben Sie am Reisetag immer über die aktuellen Abfahrts- und Ankunftszeiten informiert.
+
+**Ausfall des Zuges (z.B. durch Unwetter):** Sollte ein Zug komplett ausfallen und die Reise nicht durchgeführt werden können, lassen wir Sie nicht allein. Das **Betreuungsteam** und das **Zugpersonal** steuern das weitere Vorgehen. Die **Servicepauschale wird Ihnen in diesem Fall vollständig erstattet**. Für Ihr DB-Kinderticket gelten die regulären Fahrgastrechte entsprechend der erworbenen Ticketart.
+
+ Wie erfahre ich am Reisetag vom DB Junior Express von Verspätungen oder Änderungen?
+----------
+
+Über wichtige Änderungen im Reiseverlauf und **Verzögerungen \>45 Minuten** werden Sie proaktiv über die **in der Buchung hinterlegte E-Mail-Adresse** informiert.
+
+Bitte behalten auch Sie die Reise im Blick: Speichern Sie die Verbindung im **DB Navigator** und aktivieren Sie die Push-Benachrichtigungen.
+
+Bei akuten Rückfragen am Reisetag erreichen Sie das Betreuungsteam über die Service-Hotline (+49 228 76366160), die freitags und sonntags durchgehend von **10 bis 20 Uhr** geschaltet ist.
+
+ Wie kann ich die DB Junior Express Fahrt stornieren?
+----------
+
+Eine Stornierung der Begleitung DB Junior Express ist grundsätzlich telefonisch über das Back-Office möglich. Dabei gelten die folgenden Stornierungsregeln:
+
+**Bis 48 Stunden vor Abfahrt:** 100 % Erstattung- oder eine kostenfreie Umbuchung auf einen anderen Reisetag, sofern es noch eine Sitzplatzverfügbarkeit auf dieser Strecke gibt.
+
+**Ab 48 Stunden vor Abfahrt oder bei Nichterscheinen des Kindes:** Keine Erstattung. (Hinweis: Für das separat erworbene DB-Kinderticket gelten die regulären Stornierungsbedingungen des jeweiligen Tarifs der DB.)
+
+ Was passiert, wenn mein Kind während der Fahrt mit dem DB Junior Express ins Bordrestaurant oder auf die Toilette gehen möchte?
+----------
+
+Die Betreuenden begleiten und organisieren die Reise so, dass die Kinder während der Fahrt betreut bleiben. Wenn ein Kind auf die Toilette muss oder etwas benötigt, wendet es sich an die Betreuenden. Diese unterstützen situationsabhängig und achten darauf, dass die Gruppe sicher betreut bleibt.
+
+ Gibt es während der Fahrt mit dem DB Junior Express ein Programm für die Kinder?
+----------
+
+Während der Reise ist ein altersgerechtes Begleit- und Beschäftigungsangebot vorgesehen. Die Kinder reisen gemeinsam in der betreuten Gruppe und können während der Fahrt durch passende Aktivitäten begleitet werden, wenn sie möchten.
+
+ Wie kann ich sicher sein, dass mein Kind im DB Junior Express nur an die richtige Person übergeben wird?
+----------
+
+Bei der Buchung werden eine oder mehrere abholberechtigte Personen angegeben. Zusammen mit der Buchungsbestätigung werden per Mail Abholscheine mit einem QR Code versendet. Am Zielbahnhof wird das Kind nur an eine berechtigte Person übergeben, die zuvor in der Buchung angegeben ist und den QR Code vorzeigen kann. Die abholende Person muss sich ausweisen können; der Name muss mit den bei der Buchung hinterlegten Angaben übereinstimmen.
+Die Übergabe wird durch die Betreuenden digital dokumentiert.
+
+ Was passiert beim DB Junior Express, wenn sich die Abholperson am Zielbahnhof verspätet?
+----------
+
+Ihr Kind wird zu keinem Zeitpunkt alleingelassen. Sollte sich die Abholperson verspäten, informieren Sie bitte umgehend die Service-Hotline. Die Betreuer:innen warten gemeinsam mit Ihrem Kind am vereinbarten Treffpunkt, bis die autorisierte Person eintrifft. Sollte kein Kontakt zu den angegebenen Notfallkontakten oder Abholpersonen hergestellt werden können, wird das Kind in die Obhut der Polizei übergeben.
+
+ Was passiert im Krankheitsfall vor oder während der Reise mit dem DB Junior Express?
+----------
+
+**Krankheit vor Reisebeginn:** Damit die Gruppe gut reisen kann, ist die uneingeschränkte „Reisefähigkeit“ Bedingung. Wird Ihr Kind kurzfristig krank, darf es leider nicht mitfahren. Bitte melden Sie sich in diesem Fall umgehend bei unserer Proki Service-Hotline, damit die Reisegruppe nicht auf das Kind wartet. Eine Stornierung mit Rückerstattung ist allerding nur bis 48 Stunden vor Abfahrt möglich.
+
+**Zwischenfälle während der Fahrt:** Sollte es Ihrem Kind unterwegs wider Erwarten nicht gut gehen, stehen die pädagogisch geschulten Betreuer:innen im Austausch mit dem Back-Office. Unser Back-Office informiert in medizinischen oder anderen Notfällen umgehend die Notfallkontakte, um alles Weitere eng mit Ihnen abzustimmen.
+
+ Kann ich persönliche Daten, wie z.B. medizinische Hinweise oder die abholenden Personen nach Buchung noch ändern? (DB Junior Express)
+----------
+
+Servicerelevante Daten können nach Buchungsabschluss über das Back-Office des Serviceerbringers Proki Kinderevents telefonisch geändert werden. Die Hotline und Servicezeiten finden Sie in Ihrer Buchungsbestätigung.
+
+ Wohin kann ich mich bei Fragen zum DB Junior Express wenden?
+----------
+
+Sollten Sie vor vor Buchung Fragen haben, die Ihnen hier nicht beantwortet werden, können Sie sich gern über den Reiter Hilfe & Kontakt oder die Servicenummer der Deutschen Bahn an uns wenden.
+
+Bei Fragen zur bestehenden Buchung hilft Ihnen das Back-Office des Serviceerbringers Proki Kinderevents telefonisch weiter. Die Hotline und Servicezeiten finden Sie in Ihrer Buchungsbestätigung.
+
+ Ich besitze eine Wertmarke zum Schwerbehindertenausweis. Was muss ich bei der Online-Buchung beachten?
+----------
+
+Mit einem Schwerbehindertenausweis und einer Wertmarke fahren Sie im Nahverkehr kostenfrei. Daher kann es günstiger sein, die Anfrage und Buchung auf die Fernverkehrsstrecke zu beschränken und die Nahverkehrsstrecke nicht anzugeben. Dies gilt auch für Fähren im Orts- und Nahbereich, die mit einer Wertmarke unentgeltlich genutzt werden dürfen.
+
+Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B und Wertmarke besitzen, reist auch Ihre Begleitperson im Nahverkehr kostenfrei.
+
+ Wie kann ich mit Schwerbehindertenausweis für mich eine kostenfreie Sitzplatzreservierung buchen?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich selbst und eine Begleitperson (ab 6 Jahren).
+
+Wählen Sie beim Ticketkauf in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B ohne Rollstuhlplatz"** aus und fügen Sie nach der Angebotsauswahl die kostenfreie Sitzplatzreservierung hinzu.
+
+Wenn Sie bei der Ticketbuchung eine weitere mitreisende Person angeben, wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+ Wie kann ich mit Schwerbehindertenausweis für mich einen kostenfreien Rollstuhlplatz buchen?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
+
+Wählen Sie beim Ticketkauf in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, G, aG, Gl, H mit Rollstuhlplatz**" aus. Der kostenfreie Rollstuhlplatz wird Ihnen zugewiesen.
+
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben einen Schwerbehindertenausweis mit Merkzeichen B, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für **alle weiteren** bei dieser Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich. Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+ Wie erhalte ich mit meinem Schwerbehindertenausweis eine kostenfreie Sitzplatzreservierung ohne Ticketbuchung?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich selbst und eine Begleitperson (ab 6 Jahren). Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+ Wie erhalte ich mit meinem Schwerbehindertenausweis einen kostenfreien Rollstuhlplatz ohne Ticketbuchung?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis und den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz. Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+ Wie kann ich für meine Begleitperson eine kostenfreie Sitzplatzreservierung buchen?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich und eine Begleitperson (ab 6 Jahren).
+
+Wählen Sie beim Ticketkauf zunächst in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B ohne Rollstuhlplatz**" aus und geben Sie Ihre Begleitperson als weitere mitreisende Person mit an. Nach der Angebotsauswahl können Sie die kostenfreien Sitzplatzreservierungen für sich und Ihre Begleitperson hinzufügen.
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
+
+Wenn Sie mit einer Begleitperson reisen, und Sie zusätzlich auch das Merkzeichen B in Ihrem Schwerbehindertenausweis haben, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus. Ihre kostenfreie Reservierung eines Rollstuhlplatzes und eines kostenfreien Sitzplatzes für Ihre Begleitperson in der Nähe des Rollstuhlplatzes werden Ihnen zugewiesen.
+
+ Muss ich meine Begleitperson bei der Online-Buchung mit angeben?
+----------
+
+Ja. Als Reisender mit einem Schwerbehindertenausweis und dem Merkzeichen B geben Sie bitte bei der Buchung Ihre Begleitperson als weitere mitreisende Person mit an. Das teuerste Ticket aller Mitreisenden wird dann automatisch als kostenfreies Ticket für die Begleitperson berücksichtigt. Für die Begleitperson kann so eine kostenfreie Sitzplatzreservierung mit gebucht werden. Ihre Begleitperson wird auf dem Ticket vermerkt und kann den Komfort Check-in nutzen.
+
+Eine Begleitperson muss mindestens 6 Jahre alt sein.
+
+Ihr Schwerbehindertenausweis mit Merkzeichen B gilt für die Begleitperson als Fahrtberechtigung. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorgezeigt werden.
+
+Bitte beachten Sie: Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B und Wertmarke besitzen, reist Ihre Begleitperson im Nahverkehr kostenfrei. Für die Nahverkehrsstrecke ist in diesem Fall keine Ticketbuchung erforderlich.
+
+ Welche Vorteile habe ich, wenn ich meine Begleitperson bei der Online-Buchung direkt mit angebe?
+----------
+
+Wenn Sie einen Schwerbehindertenausweis mit Merkzeichen B haben und Ihre Begleitperson bei der Online-Buchung als weitere reisende Person angeben, können Sie beide eine kostenfreie Sitzplatzreservierung buchen und den Komfort Check-in nutzen.
+
+Mit Schwerbehindertenausweis mit Merkzeichen B und Wertmarke reisen Sie im Nahverkehr beide kostenfrei. Für die Nahverkehrsstrecke ist in diesem Fall keine Ticketbuchung erforderlich.
+
+ Gibt es eine Altersbeschränkung für eine Begleitperson?
+----------
+
+Ja. Die Begleitperson muss mindestens 6 Jahre alt sein, um bei Angabe eines Schwerbehindertenausweises mit Merkzeichen B als kostenfrei reisende Begleitperson berücksichtigt zu werden.
+
+ Muss ich einen Begleit- oder Assistenzhund bei der Buchung angeben?
+----------
+
+Nein. Begleit- oder Assistenzhunde fahren immer kostenfrei mit. Sie müssen bei der Buchung nicht angegeben werden.
+
+ Wie kann ich die Zeit für meinen Umstieg verlängern?
+----------
+
+Wenn Sie beim Umsteigen mehr Zeit brauchen, können Sie das bei der Verbindungssuche einstellen:
+
+* Auf **bahn.de** klicken Sie in der Verbindungssuche auf "Umstiegszeit" und wählen Ihre gewünschte Zeit aus. Das System sucht dann nur Verbindungen mit dieser Umstiegszeit.
+* In der **App DB Navigator** können Sie in der Verbindungssuche unter "Optionen" die Umstiegszeit verändern.
+
+ Kann ich ein Hilfsmittel in den Zug mitnehmen?
+----------
+
+Ja, die Mitnahme eines Hilfsmittels im Zug ist unter Einhaltung von Maximalmaßen möglich.
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
+
+Die Reservierung eines Rollstuhlplatzes für ein Hilfsmittel mit den Maßen bis max. 70 cm x 120 cm und einem Gesamtwicht (reisende Person inkl. Rollstuhl) bis max. 350 kg ist bei der Ticketbuchung möglich.
+
+Wählen Sie unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B mit Rollstuhlplatz**" oder "**SBA, G, aG, H, Gl mit Rollstuhlplatz**" aus. Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
+
+Folgende Hilfsmittel sind auf dem Rollstuhlplatz zugelassen:
+
+* Manueller Rollstuhl (Gesamtgewicht reisende Person + Hilfsmittel max. 200 kg)
+* Elektro-Rollstuhl (Gesamtgewicht reisende Person + Hilfsmittel max. 350 kg)
+* Elektro-Mobil (Gesamtgewicht reisende Person + Hilfsmittel max. 350 kg)
+* nicht-faltbarer Rollator
+* Gehgestelle
+* Reha-Buggy / Reha-Kinderwagen
+* Kleine Dreiräder (weniger als 120 cm in der Länge und 70 cm in der Breite)
+* kurze Laufräder (weniger als 120 cm in der Länge)
+
+[https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026\_02\_18\_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.pdf)
+
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben einen Schwerbehindertenausweis mit Merkzeichen B, dann wählen als Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für **alle weiteren** bei der Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+**Für die Mitnahme eines Hilfsmittels, das größer als 70 cm x 120 cm ist,** wenden Sie sich für die Reservierung eines Stellplatzes bitte an die Mobilitätsservice-Zentrale.
+
+**Für die Reservierung eines Rollstuhlplatzes ohne Schwerbehindertenausweis** wenden Sie sich bitte an die Mobilitätsservice-Zentrale.
+
+ Ich reise mit einem faltbaren Rollstuhl. Was kann ich tun?
+----------
+
+Wenn Sie einen faltbaren Rollstuhl haben, dann haben Sie folgende Möglichkeiten Ihr Hilfsmittel auf Ihrer Reise in den Zügen des Fernverkehrs der Deutschen Bahn mitzunehmen:
+
+* Sie benötigen **keine** Hilfe beim Ein- bzw. Ausstieg und Ihr Rollstuhl ist im Zug zusammengefaltet und im Gepäckregal verstaut, dann dürfen Sie Ihren Rollstuhl kostenfrei mitnehmen.
+* Sie benötigen Hilfe beim Ein- und Ausstieg und Sie haben einen Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl, dann haben Sie Anspruch auf einen kostenfreien Rollstuhlplatz.
+
+Die Reservierung eines Rollstuhlplatzes für ein Hilfsmittel mit den Maßen bis max. 70 cm x 120 cm und einem Gesamtwicht (reisende Person inkl. Rollstuhl) bis max. 350 kg ist bei der Ticketbuchung möglich. Wählen Sie unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, G, aG, H, Gl mit Rollstuhlplatz**" aus. Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
+
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen, und Sie haben im Schwerbehindertenausweis zusätzlich auch das Merkzeichen B, dann wählen als Ermäßigung “**SBA, B mit Rollstuhlplatz**” aus. Ihre Begleitperson wird automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung in Ihrer Nähe zugewiesen. Für **alle weiteren** bei der Ticketbuchung angegebenen Personen ist die kostenpflichtige Sitzplatzreservierung verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen die separate Buchung eines Tickets erforderlich.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+ Was muss ich beachten, wenn ich als Reisender im Rollstuhl mit weiteren Reisenden im Rollstuhl reisen möchte?
+----------
+
+Die Anmeldung einer Hilfeleistung erfolgt nicht automatisch mit der Buchung Ihrer Fahrkarte und der Reservierung Ihrer Rollstuhlplätze. Da jede Hilfeleistung einzeln erbracht wird, ist auch jede Hilfeleistung für den Ein- bzw. Ausstieg für jeden Reisenden einzeln anzumelden.
+
+Als Reisender im Rollstuhl ist es wichtig, dass Sie prüfen,
+
+* ob das Gleis barrierefrei erreichbar ist
+  (Informationen über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten finden Sie auf [www.bahnhof.de/](https://www.bahnhof.de/))
+* ob der Einstieg in den Zug selbständig erfolgen kann oder eine Hilfeleistung durch das Zugpersonal erfolgt,
+* ob der Einstieg in den Zug nur mit Hilfe durch das Bahnhofspersonal möglich ist.
+  (Informationen über die Ein- und Ausstiegssituation in den Zug finden Sie auf bahn.de oder im DB Navigator in den Verbindungsdetails unter "Fahrtinformationen".)
+
+**Wichtig:** Melden Sie **jede** benötigte Hilfeleistung möglichst bald nach dem Ticketkauf bei der Mobilitätsservice-Zentrale an.
+
+Alternativ können Sie für die Anmeldung Ihrer Reise und Ihres Unterstützungsbedarfs das barrierefreie Online-Formular unter msz.bahnhof.de nutzen. **Wichtig:** Wenn Sie das Online-Formular nutzen, dann geben Sie uns bitte in allen Anmeldungen unter der abschließenden Frage "Gibt es noch etwas Wichtiges, das Sie uns mitteilen möchten?" an, dass Sie in einer Gruppe reisen und die Anzahl der mitreisenden Personen.
+
+ Was ist bei der Stornierung meines online gebuchten Tickets zu beachten?
+----------
+
+Informationen zu Umtausch und Stornierung finden Sie hier:
+
+ Was bedeutet eine Stornierung meines Tickets für meine angemeldete Hilfeleistung?
+----------
+
+Falls Sie Ihre Reise nicht antreten können, sagen Sie bitte unbedingt die angemeldeten Hilfeleistungen ab. Bitte wenden Sie sich hierfür an die Mobilitätsservice-Zentrale. So geben Sie anderen Reisenden die Möglichkeit, Unterstützung durch die Mitarbeitenden im Zug beziehungsweise am Bahnhof zu erhalten.
+
+Bitte beachten Sie, dass die Stornierung einer Hilfeleistung nicht automatisch mit der Ticketstornierung erfolgt.
+
+ Was bedeutet eine Änderung meiner Reiseverbindung für meine angemeldete Hilfeleistung?
+----------
+
+Ihre angemeldete Hilfeleistung ist an eine konkrete Verbindung gebunden. Falls Sie auf eine andere Verbindung ausweichen, denken Sie bitte daran, Ihre Hilfeleistung rechtzeitig über die Mobilitätsservice-Zentrale umzumelden.
+
+ Kann ich meinen Schwerbehindertenausweis im DB Kundenkonto hinterlegen?
+----------
+
+Nein, eine Hinterlegung des Schwerbehindertenausweises im DB Kundenkonto ist nicht möglich. Um Ihren Schwerbehindertenausweis anzugeben, wählen Sie diesen in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" aus.
+
+ Kann ich meinen deutschen Schwerbehindertenausweis auch beim Kauf einer Zeitkarte (Wochenkarte, Monatskarte) geltend machen?
+----------
+
+Nein, dies ist nicht möglich, da der Schwerbehindertenausweis keinen Einfluss auf den Preis Ihrer Zeitkarte oder Fahrkarte hat. Im Fernverkehr der Deutschen Bahn haben Reisende mit einem deutschen Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich selbst und eine Begleitperson (ab 6 Jahren).
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem deutschen Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz. Kaufen Sie sich eine Zeitkarte für den Fernverkehr, können Sie über die Mobilitätsservice-Zentrale oder das DB Reisezentrum die jeweiligen Ermäßigungen (kostenfreie Sitzplätze für Sie und Ihren Begleiter, kostenfreie Reservierung eines Rollstuhlplatzes) erhalten.
+
+ Erhalte ich auch mit einem internationalen Behindertenausweis eine Ermäßigung bei der Ticketbuchung?
+----------
+
+Nein, um bei der Ticketbuchung über bahn.de oder die App DB Navigator tarifliche Nachteilsausgleiche zu erhalten, müssen Reisende im Besitz eines deutschen Schwerbehindertenausweises (SBA) mit den Merkzeichen B und/oder G, aG, H, Gl sein.
+
+ Erhalte ich mit meinem deutschen Schwerbehindertenausweis auch Ermäßigungen bei Auslandsreisen?
+----------
+
+Über bahn.de oder den DB Navigator ist eine Buchung für Reisen ins Ausland mit Ermäßigungen aufgrund eines Schwerbehindertenausweises aktuell nicht möglich. Bitte wenden Sie sich für die Buchung von Auslandsreisen an die Mobilitätsservice-Zentrale.
+
+ Was bedeutet die Ermäßigung "SBA, B ohne Rollstuhlplatz"?
+----------
+
+Wenn Sie bei der Ticketbuchung die Ermäßigung "**SBA, B ohne Rollstuhlplatz**" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mit Merkzeichen B haben und keinen Rollstuhlplatz benötigen, da Sie ohne ein Hilfsmittel reisen.
+
+Sie erhalten damit folgende Ermäßigungen:
+
+* Eine kostenfreie Sitzplatzreservierung für sich, welche Sie nach der Angebotsauswahl hinzuwählen können.
+* Bei Angabe einer weiteren mitreisenden Person wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
+
+Ihr Schwerbehindertenausweis gilt für die Begleitperson als Fahrtberechtigung. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorzeigt werden.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+ Was bedeutet die Ermäßigung "SBA, B mit Rollstuhlplatz"?
+----------
+
+Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
+
+Wenn Sie mit einer Begleitperson oder mit weiteren Personen reisen und zusätzlich auch das Merkzeichen B in Ihrem Schwerbehindertenausweis haben, dann wählen als Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus.
+
+Sie erhalten damit folgende Ermäßigungen:
+
+* Einen kostenfreien Stellplatz für Ihr orthopädisches Hilfsmittel. Bitte beachten Sie, dass Ihr orthopädisches Hilfsmittel die Abmessung von 120 x 70 cm und ein Gesamtgewicht (reisende Person inkl. Rollstuhl) bis max. 350 kg nicht überschreiten darf.
+* Eine kostenfreie Sitzplatzreservierung für sich.
+* Bei Angabe einer weiteren mitreisenden Person wird diese automatisch kostenfrei als Ihre Begleitperson berücksichtigt und erhält ebenfalls eine kostenfreie Sitzplatzreservierung.
+* Ihr kostenfreier Rollstuhlplatz und die kostenfreie Sitzplatzreservierung für Ihre Begleitperson werden zugewiesen.
+* Die kostenpflichtige Sitzplatzreservierung ist bei Auswahl dieser Ermäßigung für alle weiteren mitreisenden Personen verpflichtend. Wird für die weiteren mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen eine separate Buchung der Tickets erforderlich.
+
+Ihr Schwerbehindertenausweis mit Merkzeichen B gilt für die Begleitperson als Fahrtberechtigung. Der Ausweis muss im Zug mitgeführt und bei der Kontrolle vorzeigt werden.
+
+Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz bzw. einen Sitzplatz für Ihre Begleitperson benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
+
+ Was bedeutet die Ermäßigung "SBA, G, aG, Gl, H mit Rollstuhlplatz"?
+----------
+
+Wenn Sie bei der Ticketbuchung die Ermäßigung "**SBA, G, aG, Gl, H mit Rollstuhlplatz**" angeben, bedeutet das, dass Sie einen deutschen Schwerbehindertenausweis mindestens mit einem der Merkzeichen G, aG, Gl oder H (ohne Merkzeichen B) haben und mit einem Hilfsmittel reisen, für das Sie einen Rollstuhlplatz benötigen.
+
+Sie erhalten damit folgende Ermäßigungen:
+
+* Einen kostenfreien Stellplatz für Ihr orthopädisches Hilfsmittel. Bitte beachten Sie, dass Ihr Hilfsmittel die Abmessung von 120 x 70 cm und ein Gesamtgewicht (reisende Person inkl. Rollstuhl) bis max. 350 kg nicht überschreiten darf.
+* Eine kostenfreie Sitzplatzreservierung für sich.
+* Ihr kostenfreier Rollstuhlplatz wird Ihnen zugewiesen.
+* Die kostenpflichtige Sitzplatzreservierung ist bei Auswahl dieser Ermäßigung für alle mitreisenden Personen verpflichtend. Wird für die mitreisenden Personen keine Sitzplatzreservierung gewünscht, ist für diese Personen eine separate Buchung der Tickets erforderlich.
+
+ Wie werde ich bei bei Zugverspätungen entschädigt, wenn ich einen Schwerbehindertenausweis besitze?
+----------
+
+Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfrei Zug fahren dürfen, können wir Ihnen für diese kostenfrei befahrenen Strecken leider keine Entschädigung anbieten. Der Grund: Es wurde ja auch kein Fahrpreis gezahlt.
+
+Wenn Sie eine Fahrkarte gekauft haben, gelten die Regelungen für die Gesamtstrecke, einschließlich aller kostenfrei genutzten Streckenabschnitte. Die Höhe des Entschädigungsbetrags basiert auf dem Preis der gekauften Fahrkarte und der Gesamtverspätung.
+
+Damit wir den Sachverhalt prüfen können, senden Sie uns alle relevanten Informationen und **alle Belege** (z.B. eine Quittung für ein Taxi oder eine Hotelrechnung), die für die Bearbeitung Ihres Antrags wichtig sein könnten, sowie eine **Kopie Ihres Schwerbehindertenausweises** und wenn vorhanden eine **Kopie Ihrer Wertmarke**.
+
+**Zur Prüfung Ihrer Ansprüche stehen Ihnen folgende Möglichkeiten zur Verfügung:**
+
+**Digital** über Ihr Kundenkonto auf bahn.de oder in der DB Navigator App
+
+Hierfür nutzen Sie bitte die Ihnen angebotene Möglichkeit „Ich möchte meine Belege digital hochladen“ nachdem Sie die Frage erhalten „Wie möchten Sie die Belege einreichen?“
+
+**Per Post**
+
+Hierfür können Sie unser **barrierefreies Formular** als pdf nutzen, welches wir unter nachfolgendem Link zur Verfügung stellen oder Sie schildern uns Ihren Sachverhalt auch ganz einfach formlos in einem Brief an:
+
+DB Dialog GmbH Servicecenter Fahrgastrechte
+60647 Frankfurt am Main.
+
+ Wie erstatten wir Ihre Kosten für Taxi oder Hotel?
+----------
+
+Für kostenfrei Reisende mit Schwerbehindertenausweis mit Beiblatt und Wertmarke gelten die gleichen Regeln für die Inanspruchnahme von Taxi und Hotelübernachtungen wie für andere Reisende. Das gilt bei eingetragenem Merkzeichen B auch jeweils für eine Begleitperson.
+
+ Wie werden Sie bei Mobilitätshilfen entschädigt
+----------
+
+Verursacht das Eisenbahnunternehmen den Verlust oder die Beschädigung von für die Beförderung zugelassenen Mobilitätshilfen, einschließlich Rollstühlen und Hilfsmitteln oder den Verlust oder die Verletzung von Assistenzhunden, ist Schadensersatz zu leisten.
 
  Wie können Sie Ihre Fahrgastrechte geltend machen?
 ----------
@@ -7930,49 +4399,1468 @@ Unter der Telefonnummer 030 586 020 920 können Sie sich auch direkt an das Serv
 
 Alternativ können Sie die Unterlagen auch in einem DB Reisezentrum oder Ihrer Verkaufsstelle abgeben.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-koennen-fahrgastrechte-geltend-gemacht-werden)
-
- Wie nutze ich ein Digitales Ticket im Zug zur Ticketkontrolle?
+ Worauf sollte ich achten, wenn ich meinen Antrag auf Fahrgastrechte geltend machen möchte?
 ----------
 
-Für die Ticketkontrolle benötigen Sie den QR Code auf Ihrem Digitalen Ticket. Diesen finden Sie in der PDF Ihrer Buchungsbestätigungs-E-Mail und in der App DB Navigator. Tippen Sie in der App DB Navigator im Menübereich "Reisen" auf die entsprechende Reise. Im Reiter "Ticket" finden Sie dann den QR-Code.
+Wenn Sie in Zügen des Nah- und Fernverkehrs gereist sind, reichen Sie uns bitte online oder postalisch Ihre Fahrkarte für die Nutzung des Fernverkehrszuges auch sowie eine Kopie Ihres Schwerbehindertenausweises und eine Kopie Ihrer Wertmarke ein.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-komme-ich-an-mein-digitales-ticket)
+Reichen Sie bitte alle Belege (zum Beispiel eine Quittung für ein Taxi oder eine Hotelrechnung), die aus Ihrer Sicht für die Bearbeitung Ihres Antrags ebenfalls wichtig sein könnten und im direkten Zusammenhang mit Ihrer Reise stehen, mit ein.
 
- Wie kann ich für meine Begleitperson eine kostenfreie Sitzplatzreservierung buchen?
+Stellen Sie uns ergänzende Informationen zur Verfügung, wodurch die von Ihnen verauslagten Kosten entstanden sind.
+
+ Was passiert, wenn wegen Verspätungen oder Zugausfall eine Weiterreise nicht mehr möglich ist?
 ----------
 
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Schwerbehindertenausweis und dem Merkzeichen B Anspruch auf eine kostenfreie Sitzplatzreservierung für sich und eine Begleitperson (ab 6 Jahren).
+Selten kann es vorkommen, dass wegen Verspätungen oder Zugausfall eine Weiterreise technisch oder organisatorisch nicht mehr möglich ist. In diesem Fall gelten die Entschädigungsregelungen ab dem Bahnhof, ab dem die Reise objektiv nicht mehr fortgesetzt werden kann.
 
-Wählen Sie beim Ticketkauf zunächst in der Verbindungssuche unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B ohne Rollstuhlplatz**" aus und geben Sie Ihre Begleitperson als weitere mitreisende Person mit an. Nach der Angebotsauswahl können Sie die kostenfreien Sitzplatzreservierungen für sich und Ihre Begleitperson hinzufügen.
-
-Im Fernverkehr der Deutschen Bahn haben Reisende mit einem Hilfsmittel (Größe max. 120 x 70 cm) und einem Schwerbehindertenausweis mit den Merkzeichen G, aG, H oder Gl Anspruch auf einen kostenfreien Rollstuhlplatz.
-
-Wenn Sie mit einer Begleitperson reisen, und Sie zusätzlich auch das Merkzeichen B in Ihrem Schwerbehindertenausweis haben, dann wählen unter "Reisende, Fahrräder, Ermäßigungen" die Ermäßigung "**SBA, B mit Rollstuhlplatz**" aus. Ihre kostenfreie Reservierung eines Rollstuhlplatzes und eines kostenfreien Sitzplatzes für Ihre Begleitperson in der Nähe des Rollstuhlplatzes werden Ihnen zugewiesen.
-
-* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kostenfreie-sitzplatzreservierung-begleitperson-reisender)
-
- Wie lade ich mein Digitales Ticket, das ich im Reisezentrum gekauft habe, in die App DB Navigator?
+ Sie sind aufgrund einer Beeinträchtigung im barrierefreien Reiseverlauf verspätet an Ihrem Reiseziel angekommen? Oder Sie mussten aufgrund einer Beeinträchtigung Ihre Reise abbrechen bzw. konnten Sie diese nicht antreten?
 ----------
 
-1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
-2. Öffnen Sie die Buchungsbestätigung, die Sie per E-Mail erhalten haben.
-3. Nutzen Sie den entsprechenden Link in der Buchungsbestätigung, um Ihr Ticket direkt in die App zu laden.
+Eine Reise ist **nicht barrierefrei**, wenn zum Beispiel
 
-* [So laden Sie Ihr Ticket in die App DB Navigator](https://www.bahn.de/service/informationen-buchung/digitales-ticket/in-die-app-laden)
+* eine angemeldete Hilfeleistung nicht oder zu spät erbracht wird
+* Rollstuhlplätze im Zug fehlen
+* technische Probleme/Defekte an benötigten Hilfsmitteln (z.B. Aufzug defekt, Tür für den Wagen mit Rollstuhlbereich defekt) aufgetreten sind
+* es Serviceeinschränkungen gab (z.B. defektes Universal-WC)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lade-ich-mein-digitales-ticket-das-ich-im-reisezentrum-gekauft-habe-in-die-app-db-navigator)
+Damit wir den Sachverhalt prüfen können, senden Sie uns alle relevanten Informationen und **alle Belege** (z.B. eine Quittung für ein Taxi oder eine Hotelrechnung), die für die Bearbeitung Ihres Antrags wichtig sein könnten, sowie eine **Kopie Ihres Schwerbehindertenausweises** und wenn vorhanden eine **Kopie Ihrer Wertmarke**.
 
- Wie lade ich mein Digitales Ticket in die App DB Navigator?
+Kulanzleistungen können in begründeten Einzelfällen zusätzlich zu den Ansprüchen aus den Fahrgastrechten gewährt werden.
+
+**Zur Prüfung Ihrer Ansprüche stehen Ihnen folgende Möglichkeiten zur Verfügung:**
+
+**Digital** über Ihr Kundenkonto auf bahn.de oder in der DB Navigator App
+
+Hierfür nutzen Sie bitte die Ihnen angebotene Möglichkeit „Ich möchte meine Belege digital hochladen“ nachdem Sie die Frage erhalten „Wie möchten Sie die Belege einreichen?“
+
+**Per Post**
+
+Hierfür können Sie unser **barrierefreies Formular** als pdf nutzen, welches wir unter nachfolgendem Link zur Verfügung stellen oder Sie schildern uns Ihren Sachverhalt auch ganz einfach formlos in einem Brief an:
+DB Dialog GmbH Servicecenter Fahrgastrechte 60647 Frankfurt am Main.
+
+Sie haben auch die Möglichkeit Ihr Anliegen zur **Prüfung an unseren Kundendialog** zu senden. Wenn erforderlich, senden wir Ihren Antrag automatisch zur weiteren Bearbeitung an das Servicecenter Fahrgastrechte weiter.
+
+Beschwerden **DB Fernverkehr** betreffend richten Sie bitte an:
+
+DB Fernverkehr AG
+Kundendialog
+Postfach 10 06 13
+96058 Bamberg
+
+Beschwerden **DB Regio** betreffend richten Sie bitte an:
+
+DB Regio AG
+Kundendialog
+Postfach 10 06 07
+96058 Bamberg
+
+ Sie haben bereits eine Fahrkarte mit oder ohne Reservierung gebucht, jedoch konnte eine Hilfeleistung durch den Service am Bahnhof für den Ein-, Um- bzw. Ausstieg aufgrund fehlender Kapazitäten nicht angeboten oder bestätigt werden?
 ----------
 
-Tippen Sie in der App DB Navigator auf den Bereich "Reisen" im unteren Bildschirmbereich. Anschließend können Sie über das Plus-Symbol oben rechts mit der Auftragsnummer und dem Nachnamen der reisenden Person das Ticket hinzufügen.
+Bei Fahrkarten mit Zugbindung ((Super) Sparpreis) heben wir in diesem Fall die Zugbindung auf. Das heißt:
 
-**Wenn Sie in der App angemeldet sind, wird Ihr Ticket automatisch nach der Buchung in den DB Navigator geladen.** Bei Problemen, aktualisieren Sie die Seite in der App, indem Sie diese herunterziehen.
+* Sie können mit Ihrem ursprünglichen Ticket am selben Reisetag
+  * eine frühere Verbindung oder
+  * eine spätere Verbindung nutzen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lade-ich-mein-digitales-ticket-in-die-app-db-navigator)
+* Eine „spätere“ Verbindung kann sein
+  * später am selben Reisetag
+  * einen Tag später oder
+  * auch erst in drei Wochen oder
+  * auch bis zu einem Jahr nach dem ursprünglichen Reisedatum.
+
+Die Mobilitätsservice-Zentrale sucht gemeinsam mit Ihnen nach einer für Sie passenden neuen Reiseverbindung, zu der wir Ihnen eine Hilfeleistung bestätigen und Reservierungen anbieten können (falls gewünscht). Vorhandene Reservierungen buchen wir kostenfrei für Sie um.
+
+ Wie kann ich Hilfeleistungen anmelden und was ist bei angemeldeten Hilfeleistungen zu beachten?
+----------
+
+Sie können Hilfe beim Ein-, Um- oder Aussteigen vor der Reise über die Mobilitätsservice-Zentrale anmelden. Die Anmeldung empfehlen wir so früh wie möglich. Die Hilfeleistung wird nicht automatisch mit der Ticketbuchung über bahn.de oder den DB Navigator angemeldet.
+
+ Was muss ich bei der Online-Buchung beachten, wenn ich eine Hilfeleistung benötige?
+----------
+
+Die Anmeldung einer *Hilfeleistung* erfolgt nicht automatisch mit der Ticketbuchung. Wenn Sie bei Ihrer Reise Unterstützung brauchen, informieren Sie sich vor der Ticketbuchung:
+
+* Über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten auf [bahnhof.de](https://www.bahnhof.de/).
+
+* Über die Ein- und Ausstiegssituation in den Zug auf bahn.de oder im DB Navigator in den Verbindungsdetails unter „Fahrtinformationen“.
+
+Alternativ können Sie sich auch and die Mobilitätsservice-Zentrale wenden**.**
+
+ Wie storniere ich eine Hilfeleistung?
+----------
+
+Wenn Sie Ihre Reise nicht antreten, sagen Sie die angemeldeten Hilfeleistungen bitte ab. So können andere mobilitätseingeschränkte Reisende Unterstützung erhalten.
+
+Die Stornierung einer Hilfeleistung erfolgt nicht automatisch mit der Ticketstornierung.
+
+Bei weiteren Fragen wenden Sie sich vor der Reise an die Mobilitätsservice-Zentrale. Während der Reise fragen Sie den Service im Bahnhof oder das Personal im Zug.
+
+ Kann ich einen Rollstuhlplatz online buchen?
+----------
+
+Nein, eine Buchung von Stellplätzen für Rollstühle ist derzeit noch nicht möglich. Bitte wenden Sie sich hierfür an die Mobilitätsservice-Zentrale. Beachten Sie bitte die Bedingungen für die Mitnahme eines Hilfsmittels.
+
+ Erhalte ich mit meinem deutschen Schwerbehindertenausweis auch Ermäßigungen bei Auslandsreisen?
+----------
+
+Sie können eine Reise ins Ausland mit Ermäßigung wegen Schwerbehindertenausweis aktuell nicht über bahn.de oder den DB Navigator buchen. Wenden Sie sich dafür an die Mobilitätsservice-Zentrale.
+
+ Wie erstatten wir Ihre Kosten für die Nutzung anderer Züge?
+----------
+
+**Ist Ihr Zug mindestens 20 Minuten verspätet,** können Sie einen anderen Zug nutzen. Reservierungspflichtige Züge, wie z.B. NightJets oder einige Züge ins Ausland sind hiervon ausgenommen.
+
+**Falls Sie das Verkehrsmittel wechseln wollen,** also z.B. von einem Nahverkehrszug in einen ICE, IC oder EC, müssen Sie sich dafür zunächst eine passende Fahrkarte kaufen. Anschließend können Sie sich die Kosten von uns erstatten lassen.
+
+Als Inhaberin oder Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wertmarke fahren Sie in allen Nahverkehrszügen (IRE, RE, FEX, MEX, RB und S-Bahnen) kostenfrei.
+
+ Funktioniert das BahnBonus Programm auch ohne Anmeldung?
+----------
+
+Nein, für eine Teilnahme am BahnBonus Programm ist eine Anmeldung erforderlich.
+
+ Kann ich Punkte zusammen bei geschäftlichen und privaten Reisen sammeln, und benötige ich dazu zwei Kundenkonten?
+----------
+
+Ihre BahnBonus Anmeldung kann nur mit einem DB Kundenkonto verknüpft sein.
+
+Das bedeutet, dass BahnBonus Punkte nur über ein Kundenkonto automatisch gesammelt werden. Wenn mit der gleichen BahnBonus Nummer auch in einem zweiten Kundenkonto BahnBonus Punkte gesammelt werden sollen, ist folgendes zu beachten. Bei der Nutzung des zweiten Kundenkontos kann die BahnBonus Nummer bei jeder Buchung händisch eingetragen werden. Durch dieses Vorgehen werden dann alle BonusPunkte beider Kundenkonten auf einem BahnBonus Konto gesammelt
+
+Sollten Buchungsstellenverantwortliche Ihre geschäftlichen Reisen für Sie buchen, müssen Sie vorher sicherstellen, dass Ihr BahnBonus Konto mit Ihrem Geschäftskundenkonto verknüpft ist. In diesem Falle können Sie bei Ihren privaten Reisen in jeder Buchung aktiv durch Angabe BahnBonus Nummer Punkte sammeln.
+
+ Was ist die digitale BahnBonus Karte?
+----------
+
+Die digitale BahnBonus Karte dient als Nachweis Ihrer BahnBonus Teilnahme, Ihres Statuslevels und enthält Ihre BahnBonus Sammelnummer. Sie finden sie in der BahnBonus App.
+
+ Wie kann ich mich für die E-Mail-Kommunikation der DB Fernverkehr AG anmelden?
+----------
+
+In Ihrem DB Kundenkonto auf bahn.de und in Ihrem Profilbereich im DB Navigator können Sie sich im Bereich „Newsletter & Services“ für die E-Mail-Kommunikation anmelden. Dazu aktivieren Sie den Umschalter (Toggle) „Persönliche Informationen und Gutscheine". Alternativ können Sie sich auch über die BahnBonus App zur E-Mail-Kommunikation anmelden. Dazu wählen Sie in Ihrem Profilbereich den Reiter „Benachrichtigungen" und aktivieren die „E-Mail-Kommunikation".
+
+ Welchen Vorteil habe ich von der Anmeldung zur E-Mail-Kommunikation?
+----------
+
+Sie erhalten persönliche Informationen, Gutscheine und werden über exklusive BahnBonus Aktionen informiert. Zusätzlich erhalten Sie bei Ihrer erstmaligen Zustimmung 150 Prämienpunkte.
+
+ Wie kann ich meine BahnBonus Teilnahme kündigen?
+----------
+
+Sie können die Teilnahme am BahnBonus Vorteilsprogramm jederzeit ohne Angabe von Gründen wie folgt ordentlich kündigen:
+
+* im Kundenkonto auf bahn.de oder in der DB Navigator App
+* telefonisch beim BahnBonus Service
+
+ Warum wurde ich vom BahnBonus-Vorteilsprogramm abgemeldet?
+----------
+
+Für die Teilnahme am BahnBonus Vorteilsprogramm ist seit dem 1. Mai 2025 ein DB Kundenkonto Voraussetzung.
+
+Sofern kein DB Kundenkonto vorliegt, erfolgt eine automatisierte Abmeldung vom BahnBonus Vorteilsprogramm. Die Abmeldung wurde zum 1. April 2026 umgesetzt.
+
+Haben Sie weitere Fragen zur automatisierten Abmeldung von BahnBonus oder ein Anliegen zu Ihrer beendeten Teilnahme?
+
+Sie erreichen unseren Kundenservice unter [030 2970.](tel:0302970)
+
+ Wann muss ich mich als BahnBonus Teilnehmer:in ausweisen?
+----------
+
+Bei Fahrkartenprämien, die nur für BahnBonus Teilnehmende persönlich gelten, bei exklusiven BahnBonus Sparpreisangeboten und bei der Nutzung von Statusvorteilen, müssen Sie sich im Zug legitimieren. Das geht mit Ihrer BahnBonus Card oder der digitalen BahnBonus Karte.
+
+ Wie kann ich mich als BahnBonus Teilnehmer:in ausweisen?
+----------
+
+Die Legitimierung erfolgt mit Hilfe der BahnBonus Card oder der digitalen BahnBonus Karte, die in der BahnBonus App und der App DB Navigator zu finden ist.
+
+Ihren Status können Sie nur mit der digitalen BahnBonus Karte in der BahnBonus App nachweisen.
+
+ Wie kann ich meine E-Mail-Adresse ändern, die ich bei meiner BahnBonus Anmeldung hinterlegt habe?
+----------
+
+Sie gehen in die BahnBonus App und gehen dort auf „Profil“ und dann auf „Kundendaten bearbeiten“. Sie werden dann zu bahn.de weitergeleitet und können im Bereich „Persönliche Daten“ Ihre E-Mailadresse ändern.
+
+ Wo finde ich Datenschutzhinweise zu BahnBonus?
+----------
+
+Die aktuellen Datenschutzhinweise zu BahnBonus finden Sie [hier](http://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahnbonus).
+
+ Wie kann ich mich zum BahnBonus Programm anmelden?
+----------
+
+[Hier](http://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)können Sie sich zu BahnBonus anmelden.
+
+ Was ist BahnBonus?
+----------
+
+BahnBonus ist das Vorteilsprogramm der Deutschen Bahn. Sammeln Sie wertvolle Punkte beim BahnCard und Ticketkauf und lösen Sie diese in Bahnvorteile, wie Sitzplatzreservierungen oder Freifahrten ein.
+
+Als Vielfahrende erhalten Sie ab 1.500 gesammelten Statuspunkten ein Statuslevel mit weiteren besonderen Vorteilen.
+
+ Brauche ich eine BahnCard, um mich zum BahnBonus Programm anzumelden?
+----------
+
+Nein, für die Teilnahme am BahnBonus Programm brauchen Sie keine BahnCard.
+
+ Welche Vorteile habe ich als BahnCard-Inhaber:in bei Anmeldung zum BahnBonus Programm?
+----------
+
+Mit der Teilnahme am BahnBonus Programm, profitieren Sie bei BahnCard- und Fahrkartenkäufen, nicht nur von dem Rabatt Ihrer BahnCard, sondern sammeln gleichzeitig auch Prämien- und Statuspunkte. Als Vielfahrer können Sie somit auch einen BahnBonus Statuslevel erreichen. Für den Kauf der BahnCard Business erhält der Geschäftsreisende BahnBonus Punkte i.H.d. Kaufpreises der Karte.
+
+ Wie kann ich meine gesammelten BahnBonus Punkte einlösen?
+----------
+
+Ihre Prämienpunkte können Sie in der [PrämienWelt](https://bahnbonus-praemienwelt.de/category/bahnprmien-46) gegen Prämien eintauschen.
+
+Ihre Statuspunkte sind nicht einlösbar, da diese nur zum Erreichen des [BahnBonus Statuslevels](http://www.bahn.de/service/bahnbonus/status-level) dienen.
+
+ Kann ich auch ohne die BahnBonus App Prämienpunkte einlösen?
+----------
+
+Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt auch unter [www.bahnbonus-praemienwelt.de](https://bahnbonus-praemienwelt.de/category/bahnprmien-46). Einige Bahnprämien können Sie auch direkt in der Buchungsstrecke einlösen.
+
+ Kann ich Statuspunkte auch gegen Prämien einlösen?
+----------
+
+Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nur gesammelt, um eines der 3 Statuslevel zu erreichen.
+
+ Wie kann ich ein BahnBonus Statuslevel erreichen?
+----------
+
+Wenn Sie BahnBonus Teilnehmer:in sind und innerhalb von 12 Monaten folgende Anzahl an Statuspunkten erreicht haben, erhalten Sie diese Statuslevel:
+
+* Level Silber - ab 1.500 Statuspunkten
+* Level Gold - ab 2.500 Statuspunkten
+* Level Platin - ab 6.000 Statuspunkten
+
+ Woran erkenne ich meine Statuslaufzeit?
+----------
+
+Ihre Statuslaufzeit sehen Sie in der BahnBonus App bei den Informationen zum Status sowie in Ihrem DB Kundenkonto auf bahn.de und im Navigator.
+
+ Welche BahnBonus Statuslevel gibt es?
+----------
+
+Level Silber - ab 1.500 Statuspunkten
+Level Gold - ab 2.500 Statuspunkten
+Level Platin - ab 6.000 Statuspunkten
+
+Je nach Statuslevel gibt es verschiedene Statusvorteile.
+
+ Wann beginnt meine Statuslaufzeit?
+----------
+
+Die Statuslaufzeit beginnt mit Erreichen der entsprechenden Statuspunkteschwelle.
+
+ Wie lange bleibe ich in einem Statuslevel?
+----------
+
+Ein Statuslevel ist für 12 Monate gültig. In diesem Zeitraum kommt es zu keinem Leveldowngrade, ein Levelupdate hingegen erfolgt jederzeit, mit dem Erreichen der Punkteschwelle, für das nächsthöhere Statuslevel.
+
+ Was passiert, wenn während meiner Statuslaufzeit mein Statuspunktestand über oder unter die Punkteschwelle meines Statuslevels gelangt?
+----------
+
+Fällt Ihr Statuspunktestand unter die Punkteschwelle Ihres aktuellen Statuslevels bleiben Sie trotzdem in Ihrem Statuslevel.
+
+Steigt Ihr Statuspunktestand bis zur Punkteschwelle des höheren Statuslevels steigen Sie direkt in das höhere Level auf und erhalten direkt dessen Statusvorteile. Die nicht genutzten Vorteile aus Ihrem vorherigen Statuslevel verfallen und die Statuslaufzeit von 12 Monaten beginnt von Neuem.
+
+ Behalte ich mein Statuslevel, wenn ich mich von BahnBonus abmelde?
+----------
+
+Nein, Voraussetzung für ein Statuslevel ist die Teilnahme am BahnBonus Programm. Bei einer Abmeldung von BahnBonus verlieren Sie den Status, die Statusvorteile und alle bisher gesammelten BahnBonus Punkte.
+
+ Muss ich mein Smartphone im Zug dabeihaben, um meinen Status vorweisen zu können?
+----------
+
+Ja, nur die in der BahnBonus App vorhandene, digitale BahnBonus Karte, gilt als Statusnachweis.
+
+ Finde ich mein Statuslevel in der App DB Navigator?
+----------
+
+Ja, Sie finden Ihren Statuslevel auch im DB Navigator. Als Statusnachweis dient jedoch nur die digitale Karte in der BahnBonus App.
+
+ Wann wird mein Statuslevel verlängert?
+----------
+
+Am Folgetag nach Ablauf der 12 Monate wird der Punktestand geprüft. Sind genug Punkte für das aktuelle Statuslevel vorhanden, wird Ihr Statuslevel um weitere 12 Monate verlängert. Ansonsten verlieren Sie ihren Statuslevel oder es erfolgt ein Leveldowngrade.
+
+ Was passiert, wenn ich gerade kein Internet habe und die Statusvorteile einlösen möchte?
+----------
+
+Sofern Sie Ihre digitale BahnBonus Karte sowie Ihre Statusvorteile im Vorfeld schon einmal aufgerufen haben, können Sie auch bei kurzzeitigen Verbindungsproblemen Ihre Statusvorteile problemlos einlösen.
+
+ Was genau sind prognostizierte, verfallende und vorgemerkte Statuspunkte?
+----------
+
+* Prognostizierte Statuspunkte sind die Summe aus aktuellen Statuspunkten und vorgemerkten Statuspunkten abzüglich verfallender Statuspunkte zum Statuslaufzeitende.
+* Verfallende Statuspunkte sind die Summe der zum Statuslaufzeitende verfallenden Statuspunkte. Statuspunkte verfallen 365 Tage nach Gültigkeitsbeginn.
+* Vorgemerkte Statuspunkte sind Statuspunkte für gebuchte Fahrkarten, die ihren ersten Geltungstag noch nicht erreicht haben. Angezeigt werden die vorgemerkten Statuspunkte bis zum Ende der Statuslaufzeit.
+
+ Woran erkenne ich, ob ich ein BahnBonus Statuslevel habe?
+----------
+
+Ob und welchen Statuslevel Sie haben, erkennen Sie in Ihrem BahnBonus Bereich in der BahnBonus App, sowie in Ihrem DB Kundenkonto auf bahn.de und im Navigator.
+
+ Wofür brauche ich die BahnBonus App?
+----------
+
+Mit der BahnBonus App können Sie ganz bequem am Vorteilsprogramm teilnehmen:
+
+* Ihre digitale BahnBonus Karte und Sammelnummer haben Sie immer griffbereit
+* Behalten Sie Ihren aktuellen Prämien- und Statuspunktestand, inklusive aller Transaktionen und Hinweise zum Punkteverfall, immer im Blick
+* Als Statuskund:in lösen Sie Ihre Statusvorteile direkt über die App ein
+* Sie haben Zugang zu großartigen Angeboten und Aktionen bei der DB und Partnerunternehmen
+* Lösen Sie Ihre Prämienpunkte direkt gegen Prämien ein
+* Nur mit der App können Sie Prämienpunkte in der Bordgastronomie sammeln
+* Sie haben den Bordgastronomie Gutschein als Barcode direkt zum Einlösen bereit
+* Finden Sie Informationen zu Ihrer persönlichen CO₂-Einsparung
+
+ Gibt es die BahnBonus App auch in der HUAWEI AppGallery?
+----------
+
+Nein, in der HUAWEI AppGallery ist die BahnBonus App nicht verfügbar.
+
+ Wie bekomme ich meine digitale Karte in der BahnBonus App angezeigt? Brauche ich trotzdem noch eine Plastikkarte?
+----------
+
+Ihre digitale BahnBonus Karte finden Sie direkt in der BahnBonus App. Die digitale Karte ersetzt damit die frühere BahnBonus Card aus Plastik.
+
+ An wen wende ich mich bei Fragen zur BahnBonus App?
+----------
+
+Unser Support Team hilft Ihnen gerne weiter – melden Sie sich gern über das Formular in der App. Ansonsten erreichen Sie uns unter 0302970 (Mo bis So von 8 bis 20 Uhr) oder per E-Mail an [app-support@deutschebahn.com](mailto:app-support@deutschebahn.com).
+
+ Warum kann ich meine Daten nicht in der BahnBonus App bearbeiten?
+----------
+
+Im Kundenkonto unter bahn.de können Sie Ihre persönlichen Daten online ändern. Über die BahnBonus App wird diese Funktion zukünftig auch bereitgestellt. Wir bitten Sie bis dahin um Geduld. Man kann es in der App bearbeiten durch eine Verlinkung auf bahn.de.
+
+ Warum steht auf meiner digitalen BahnBonus Karte eine andere Nummer als auf meiner BahnCard?
+----------
+
+Ihrem Konto können mehrere BahnCard- und BahnBonus Nummern zugeordnet sein. Das geschieht z.B., wenn Sie sich nach Anmeldung zum BahnBonus Programm für eine BahnCard entscheiden. Dann wird die Nummer der BahnCard als BahnBonus Nummer angezeigt. Sie können beide Nummern zum Sammeln verwenden. In der BahnBonus App wird immer die zuletzt angelegte Karte angezeigt.
+
+Die Nummer auf der digitalen BahnBonus Karte unterscheidet sich von der Nummer auf der BahnCard, weil es sich um zwei verschiedene Systeme handelt. Die BahnCard-Nummer ist spezifisch für die BahnCard selbst, während die BahnBonus Nummer für das Bonusprogramm der Deutschen Bahn verwendet wird. Diese beiden Nummern sind separate Identifikatoren, die unterschiedliche Zwecke erfüllen und daher nicht identisch sind.
+
+ Wo kann ich mir die BahnBonus App herunterladen?
+----------
+
+[Hier](https://www.bahn.de/service/mobile/bahnbonus-app) können Sie die BahnBonus App herunterladen.
+
+ Kann ich auch ohne die BahnBonus App BahnBonus Punkte sammeln?
+----------
+
+Ja, das Sammeln ist auch ohne die BahnBonus App möglich. Wenn Sie über bahn.de, der DB Navigator App oder Sammelpartner, Umsätze tätigen, benötigen Sie die BahnBonus App nicht.
+
+Beachten Sie bitte, dass für Statuskunden die BahnBonus App erforderlich ist.
+
+ Muss ich als Geschäftsreisender privat genutzte Prämien in der Lohnsteuerbescheinigung angeben?
+----------
+
+Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
+
+Das bedeutet für Sie:
+Werden im Rahmen von BahnBonus auf geschäftlichen Reisen BahnBonus Punkte gesammelt und diese für privat genutzte Prämien eingelöst, wird der geldwerte, steuerpflichtige Vorteil übernommen.
+
+ Kann ich mir nachträglich BahnBonus Punkte gutschreiben lassen?
+----------
+
+Nein, es ist nicht möglich, sich BahnBonus Prämien- und Statuspunkte im Nachhinein gutschreiben zu lassen. Achten Sie daher bitte darauf, dass bei jedem Kauf der Sammelwunsch angegeben wird oder automatisches Sammeln aktiviert ist.
+
+ Wo kann ich sehen, wie viele Punkte ich gesammelt habe?
+----------
+
+Sie finden eine Übersicht Ihrer gesammelten Punkte in der BahnBonus App oder in Ihrem DB Kundenkonto. Bitte bedenken Sie, dass die Verbuchung einige Minuten in Anspruch nehmen kann.
+
+ Welche Punkte kann ich in der Bordgastronomie sammeln?
+----------
+
+Seit September 2024 können Sie beim Kauf von Speisen und Getränken in unseren Zügen mit Bordgastronomie BahnBonus Prämienpunkte sammeln. Statuspunkte können in der Bordgastronomie nicht gesammelt werden.
+
+ Wie funktioniert der BahnBonus Sammelprozess im Bordrestaurant?
+----------
+
+Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/buchung/kundenkonto/bahnbonus) sind und die BahnBonus App heruntergeladen haben.
+
+Tippen Sie in der BahnBonus App oben rechts auf das QR-Code Symbol. Lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
+
+ Wie viele Prämienpunkte bekomme ich in der Bordgastronomie?
+----------
+
+Sie sammeln BahnBonus Prämienpunkte auf den Kauf von allen Speisen und Getränken. Es gibt keinen Mindestwert. 1 Euro entspricht einem BahnBonus Prämienpunkt. Nachkommastellen werden auf den nächsten vollen Euro aufgerundet. Etwaige Gutscheine werden vor dem Sammeln abgezogen; Sie sammeln nur auf den tatsächlichen Zahlbetrag.
+
+ Warum werden meine BahnBonus Punkte nicht gutschrieben?
+----------
+
+Um BahnBonus Prämien- und Statuspunkte zu sammeln, müssen Sie sich vorab kostenfrei anmelden. Ihre BahnBonus Prämien- und Statuspunkte werden in der Regel zum ersten Geltungstag der Fahrkarte gutgeschrieben. Eine nachträgliche Gutschrift Ihrer BahnBonus Prämien- und Statuspunkte ist nicht möglich.
+
+ Bekomme ich BahnBonus Prämienpunkte, wenn ich in der Bordgastronomie mit einem Gutschein bezahle?
+----------
+
+Zahlen Sie in der Bordgastronomie mit einem Gutschein, bekommen Sie nur Punkte auf den tatsächlichen Zahlbetrag.
+
+ Wenn ich auf ein Ticket Rabatt bekomme, bekomme ich dann nur Punkte für den reduzierten Preis?
+----------
+
+Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
+
+ Wie viele BahnBonus Punkte erhalte ich bei jedem Kauf?
+----------
+
+Bei [sammelfähigen Angeboten der DB](https://www.bahn.de/service/bahnbonus/punkte-sammeln), bekommen Sie für jeden Euro Umsatz, den Sie tätigen, je einen Prämien- und je einen Statuspunkt gutgeschrieben, dabei wird aufgerundet.
+
+Bei [Sammelpartnern](https://www.bahn.de/service/bahnbonus/vorteile)ist die Punktegutschrift abhängig vom jeweiligen Partner.
+
+ Wie lange sind meine BahnBonus Punkte gültig?
+----------
+
+Prämienpunkte sind 3 Jahre zum Quartalsende und Statuspunkte exakt 1 Jahr gültig.
+
+Die Gültigkeitsdauer beginnt ab dem ersten Geltungstag. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie die Gültigkeit jederzeit einsehen.
+
+ Wann erfolgt die Gutschrift der Prämien- und Statuspunkte?
+----------
+
+Die Gutschrift der Prämien- und Statuspunkte der DB erfolgt in der Regel zum ersten Geltungstag der Fahrkarte. (Im Einzelfall kann es zu zeitlichen Verzögerungen kommen - beispielsweise dann, wenn Sie Ihre Fahrkarte am Automaten gekauft haben.)
+
+Prämienpunkte, die Sie bei BahnBonus Sammelpartnern sammeln, werden Ihnen innerhalb von 10 Wochen auf Ihr Punktekonto gutgeschrieben.
+
+ Wie sammle ich BahnBonus Punkte?
+----------
+
+Sofern Sie zu BahnBonus angemeldet sind, können Sie bei Transaktionen bei der DB und bei Sammelpartnern, den Sammelwunsch angeben oder das automatische Sammeln aktivieren und erhalten je nach Angebot Prämien- und/oder Statuspunkte für Ihren Umsatz.
+
+Für Buchungen, die Sie vor der Registrierung getätigt haben, können wir im Nachhinein leider keine BahnBonus Punkte zuschreiben.
+
+[Weitere Informationen](http://www.bahn.de/service/bahnbonus/punkte-sammeln)
+
+ Was ist der Unterschied zwischen Prämien- und Statuspunkten?
+----------
+
+Prämienpunkte...
+
+* können Sie gegen BahnBonus Prämien eintauschen
+* erhalten Sie für Umsätze bei sammelfähigen Angeboten der DB (BahnCards, Tickets, in der Bordgastronomie) und bei Sammelpartnern
+* sind 3 Jahre zum Quartalsende gültig
+
+Statuspunkte...
+
+* dienen zum Erreichen eines Statuslevels
+* erhalten Sie nur für Umsätze bei sammelfähigen Angeboten der DB (BahnCards, Tickets)
+* sind 1 Jahr gültig.
+
+Hier erhalten Sie eine [Übersicht der sammelfähigen Angebote der DB](http://www.bahn.de/service/bahnbonus/punkte-sammeln/tarife) und eine [Übersicht der BahnBonus Sammelpartner](http://www.bahn.de/service/bahnbonus/vorteile).
+
+ Kann ich als BahnCard 100 Inhaber:in auch BahnBonus Punkte sammeln?
+----------
+
+Ja, als BahnCard 100 Inhaber:in können Sie ebenfalls BahnBonus Punkte sammeln, sofern Sie zu BahnBonus angemeldet sind. Ihnen werden für den Kauf der BahnCard100, Prämien- und Statuspunkte, gutgeschrieben. Beachten Sie bitte bei Buchung den Sammelwunsch anzugeben oder das automatische Sammeln zu aktivieren.
+
+ Kann ich auch mit einer vorläufigen oder abgelaufenen BahnCard BahnBonus Punkte sammeln?
+----------
+
+Wenn Sie bei BahnBonus angemeldet sind schon. In den meisten Fällen sind vorläufige BahnCards mit einer BahnBonus Nummer verknüpft, sodass Sie in der Regel auch mit der vorläufigen BahnCard BahnBonus Punkte sammeln können. Es wird jedoch empfohlen, die genaue Information direkt beim BahnBonus Team zu erfragen, da es im Einzelfall Unterschiede geben kann.
+
+ Wie kann ich automatisch BahnBonus Punkte sammeln?
+----------
+
+1. Loggen Sie sich auf der Website bahn.de oder im DB Navigator in Ihrem DB Kundenkonto ein.
+2. Gehen Sie auf bahn.de über "Kundenkonto verwalten" oder im DB Navigator über den Menüpunkt "Profil" in den Bereich "BahnBonus".
+3. Aktivieren Sie "Automatisch Prämien- und Statuspunkte sammeln". Bei Neuanmeldungen ist dies schon voreingestellt.
+
+So sammeln Sie automatisch Punkte bei Buchungen auf bahn.de und im DB Navigator, sobald Sie in Ihrem DB Kundenkonto eingeloggt sind.
+
+ Wo kann ich den Punkteverfall einsehen und werde ich informiert, wenn meine Punkte bald verfallen?
+----------
+
+Sofern Sie [zur E-Mail-Kommunikation angemeldet](https://www.bahn.de/buchung/kundenkonto/permissioncenter) sind und „Persönliche Informationen und Gutscheine" erhalten, werden Sie quartalsweise per E-Mail über Ihren Punktestand und -verfall informiert. In der BahnBonus App und in Ihrem DB Kundenkonto können Sie dies jederzeit einsehen.
+
+ Kann ich meine BahnBonus Punkte auf Punktekonten anderer Teilnehmender übertragen?
+----------
+
+Nein, eine Übertragung der Punkte auf ein BahnBonus Konto anderer Teilnehmer:innen ist nicht möglich.
+
+ Kann ich auch ohne BahnCard BahnBonus Punkte sammeln?
+----------
+
+Ja, die BahnCard ist keine Voraussetzung, um BahnBonus Punkte zu sammeln: Auch ohne die BahnCard können Sie BahnBonus Prämien- und Statuspunkte sammeln, sofern Sie zu BahnBonus angemeldet sind. Der Besitz einer BahnCard bietet Ihnen lediglich Vorteile beim Sammeln von BahnBonus Punkten.
+
+ Wie funktioniert das Sammeln von BahnBonus Punkten mit der BahnCard?
+----------
+
+Ihre BahnCard Nummer und BahnBonus Nummer sind in einem DB Kundenkonto verknüpft und können dieselbe Sammelnummer enthalten. Das bedeutet, bei Fahrkartenkäufen mit Angabe Ihrer BahnCard Nummer, sammeln Sie gleichzeitig Prämien- und Statuspunkte. Auch beim Erwerb und bei Verlängerungen Ihrer BahnCard, werden Ihnen BahnBonus Punkte gutgeschrieben. Vorausgesetzt, der Sammelwunsch ist angegeben oder das automatische Sammeln aktiviert.
+
+ Wenn ich auf ein Ticket meinen BahnCard Rabatt bekomme, bekomme ich dann nur Punkte für den reduzierten Preis?
+----------
+
+Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
+
+ Wie kann ich als Buchungsstellenverantwortliche (BV) für einen Geschäftsreisenden (GR) Bahn Bonus Punkte sammeln?
+----------
+
+Hierzu muss der Geschäftsreisende mit seinem geschäftlichen Kundenkonto bei BahnBonus angemeldet sein und das automatische Sammeln aktiviert haben. Bei privaten Reisen kann der Mitarbeitende dann seine BahnBonus Nummer bei der Buchung selbst eintragen.
+
+ Welche Vorteile bringen mir die 3 BahnBonus Statuslevel?
+----------
+
+Jedes der 3 Statuslevel Silber, Gold und Platin bietet Ihnen unterschiedliche, exklusive Vorteile.
+
+Mit dem Silberstatus genießen Sie 8 Freigetränke in der Bordgastronomie, 8 Tagespässe für die DB Lounges, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
+
+Der Goldstatus bietet Ihnen 12 Freigetränke in der Bordgastronomie, unbegrenzten Zugang für die DB Lounges, Zugang zum exklusiven Sitzplatzbereich in Fernverkehrszügen, 30 Freiminuten pro Fahrt bei Call a Bike, bevorzugte Betreuung im Reisezentrum, den BahnBonus Statusservice sowie Sonderkonditionen bei Partnern.
+
+Mit dem Platinstatus profitieren Sie zusätzlich zu den Gold-Vorteilen noch von 30 % Rabatt in der Bordgastronomie, vom Zugang zum Premium-Bereich der DB Lounges sowie von der exklusiven Reservierungsmöglichkeit in bereits ausgebuchten Zügen. Hier erhalten Sie einen [Überblick der Vorteile je Statuslevel](https://www.bahn.de/service/bahnbonus/status-level).
+
+ Wie nutze ich meine Statusvorteile?
+----------
+
+Alle Statusvorteile sind digital und einfach in der BahnBonus App einlösbar. Zum Beispiel in dem Sie Ihr Handy zum Abscannen des Codes vorzeigen.
+
+ Kann ich meine Statusvorteile auch über die DB Navigator App nutzen?
+----------
+
+Nein, die Nutzung der Statusvorteile ist ausschließlich über die BahnBonus App möglich.
+
+ Ich habe alle meine Statusvorteile aufgebraucht. Wann bekomme ich neue?
+----------
+
+Die Statusvorteile sind immer für Ihre individuelle Statuslaufzeit gültig. Schaffen Sie es nach Ablauf dieser Zeit erneut Ihren Status zu erreichen, beginnt Ihre Laufzeit erneut und Sie erhalten neue Codes. Erreichen Sie aber während Ihrer Statuslaufzeit die Punkteschwelle eines höheren Levels, erhalten Sie direkt dessen Vorteile.
+
+ Meine Statuslaufzeit läuft bald ab. Behalte ich meine noch übrigen Statusvorteile für meine nächste Statuslaufzeit?
+----------
+
+Nein, alle Statusvorteile sind für den Zeitraum Ihrer persönlichen Statuslaufzeit gültig und verfallen nach Ablauf.
+
+ Ich benötige einzelne Statusvorteile nicht. Kann ich Sie anderen Personen übertragen?
+----------
+
+Nein, die Statusvorteile sind exklusiv für Sie als Statuskund:in. Der Umtausch in andere Statusvorteile oder die Übertragung auf andere Personen, ist nicht möglich.
+
+ Was genau ist die Statusgarantie?
+----------
+
+Kund:innen im Statuslevel Platin, welche nach Ende ihrer Statuslaufzeit, nicht genug Punkte für eines der Statuslevel haben, erhalten dennoch automatisch ein Jahr im Statuslevel Silber geschenkt.
+
+ Wie oft kann ich den Rabatt für die Bordgastronomie nutzen?
+----------
+
+Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie können alle im Statuslevel Platin bis zu 4-mal täglich nutzen.
+
+ Für welche Getränke in der Bordgastronomie ist der Code „Freigetränk“ nutzbar?
+----------
+
+Sie können den Statusvorteil „Freigetränk in der Bordgastronomie“ für jegliches Getränk, inklusive alkoholischer, einlösen.
+
+ Was bedeutet "Tagespass" in der DB Lounge?
+----------
+
+Die DB Lounges können Sie und eine Begleitperson an dem Tag, an dem Sie den Tagespass einlösen, so oft nutzen, wie Sie möchten. So können sowohl am Abfahrts- als auch am Ankunftsort und potenziellen Zwischenhalten von diesem Vorteil profitieren. Voraussetzung ist, dass Sie und Ihre Begleitperson eine tagesaktuelle Fahrkarte für den Fernverkehr der DB besitzen.
+
+ Darf ich eine Begleitperson in die DB Lounge mitnehmen?
+----------
+
+Ja, die Mitnahme einer Begleitperson in den Comfort Bereich der Lounge ist möglich. Ihre Begleitperson benötigt, ebenso wie Sie, ein gültiges DB Fernverkehrsticket. Die Mitnahme einer Begleitperson in den Premium Bereich der Lounge ist nicht möglich.
+
+ Wenn der exklusive Sitzplatzbereich im Zug besetzt ist, haben Kund:innen mit Statuslevel Platin gegenüber denen mit Statuslevel Gold Vorrang?
+----------
+
+Kund:innen mit Statuslevel Gold und Platin sind beim exklusiven Sitzplatzbereich im Zug gleichgestellt. Den Sitzplatzbereich können Sie je nach Verfügbarkeit im Zug nutzen.
+
+ Darf meine Begleitperson ebenfalls im exklusiven Sitzplatzbereich im Zug Platz nehmen?
+----------
+
+Nein, der Sitzplatzbereich steht exklusiv nur unseren Statuskund:innen zur Verfügung.
+
+ Was genau ist die exklusive Reservierungsmöglichkeit?
+----------
+
+Hierbei handelt es sich um Sitzplätze in vielen Fernverkehrszügen, die ausschließlich für Kund:innen mit Statuslevel Platin reservierbar sind.
+
+ Wo finde ich die Partnervorteile?
+----------
+
+Alle Partnervorteile, inkl. der Statusvorteile bei Partnern, finden Sie in der BahnBonus App im Bereich Partnerdeals.
+
+ Was ist der BahnBonus Statusservice?
+----------
+
+Der BahnBonus Statusservice ist der exklusive Kundenservice für Statuskund:innen. Den Kontakt hierzu finden Sie in der BahnBonus App.
+
+ Muss ich mein Smartphone im Zug dabeihaben, um meine Statusvorteile einzulösen?
+----------
+
+Ja, denn nur die BahnBonus App dient zur Inanspruchnahme aller Statusvorteile im Zug.
+
+ Bis wann sind Prämiengutscheine gültig?
+----------
+
+Die Geltungsdauer der Prämien finden Sie in den jeweiligen Prämienbeschreibungen. Ist ein Gutschein verfallen, ist die Einlösung nicht mehr möglich und eine Wiedergutschrift der eingelösten Punkte ist ausgeschlossen.
+
+ Kann ich Bahnprämien auch verschenken?
+----------
+
+Bahnprämien können unterschiedliche Weitergabebedingungen haben:
+
+* Übertragbare Bahnprämien: Können verschenkt werden und berechtigen die Inhabenden zur Fahrt ohne Begleitung eines BahnBonus Teilnehmenden.
+* Prämien in Begleitung: Können für eine andere Person gebucht werden und berechtigen zu einer Fahrt in Begleitung eines BahnBonus Teilnehmenden.
+* Nicht übertragbare Bahnprämien: Sind persönlich und gelten ausschließlich für BahnBonus Teilnehmende; sie können nicht weitergegeben werden.
+* Die für die jeweilige Prämie geltende Bedingung finden Sie in der entsprechenden Prämienbeschreibung.
+
+ Wo finde ich die Prämien und welche gibt es?
+----------
+
+Das gesamte Prämiensortiment finden Sie in der [BahnBonus PrämienWelt](https://bahnbonus-praemienwelt.de/).
+
+ Wie erhalte ich meine Prämien und wie lange dauert die Zustellung?
+----------
+
+Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum Herunterladen oder digital in der BahnBonus App.
+
+* Die Zustellung per Post als Brief oder Paket erfolgt innerhalb von 10 Tagen - für den Versand entstehen keine Kosten.
+* Die Zustellung per E-Mail erfolgt am Tag der Bestellung - spätestens innerhalb 4 Tagen.
+* Sofortbuchungen können Sie direkt als Online-Ticket oder Handy-Ticket herunterladen.
+* Der Bordgastronomie-Gutschein erscheint direkt als Barcode in der BahnBonus App.
+
+ Kann ich bereits bestellte Prämien umtauschen, erstatten oder reklamieren?
+----------
+
+Unsere Prämien sind von Umtausch, Erstattung oder (Teil-)Auszahlung ausgeschlossen. Im Falle eines Defekts einer Sachprämie, nutzen Sie bitte unser [Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/bahnbonus-reklamation).
+
+ Wie kann ich eine bereits bestellte Prämie widerrufen?
+----------
+
+Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag in Textform (z. B. Brief, E-Mail) zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
+
+ Bei der Buchung einer Bahnprämie kam es zu einem Abbruch und meine Punkte waren weg, wann werden diese wieder gutgeschrieben?
+----------
+
+Wenn Sie keine Buchungsbestätigung erhalten haben, werden die Punkte Ihrem Konto in der Regel innerhalb von 60 Minuten wieder gutgeschrieben.
+
+ Ist bei meiner Prämie 1. Klasse Upgrade eine Sitzplatzreservierung inklusive?
+----------
+
+Nein, eine kostenfreie Sitzplatzreservierung gibt es nur beim Flexpreis in der 1. Klasse.
+
+ Wie buche ich eine kostenpflichtige Sitzplatzreservierung zu meiner Prämie 1. Klasse Upgrade?
+----------
+
+Ihre Sitzplatzreservierung buchen Sie in einem separaten Buchungsvorgang
+
+Über die Website bahn.de:
+
+1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
+2. Klicken Sie auf "Nur Sitzplatz buchen".
+
+Über die App DB Navigator:
+
+1. Wählen Sie in der Verbindungssuche Ihre gewünschte Verbindung aus.
+2. Unter "Nur Reservierung" können Sie den Sitzplatz wählen.
+
+Alternativ können Sie auf der Startseite die Suche für eine "Einfache Fahrt" auf "Nur Sitzplatz (ohne Ticket)" ändern.
+
+ Was passiert, wenn ich eine Prämie bestellen möchte und keine E-Mail-Adresse habe?
+----------
+
+Die Bestellung einer Prämie ist ausschließlich unter Angabe einer E-Mail-Adresse möglich.
+
+ Können Prämien bei zu wenigen BahnBonus Prämienpunkten per Zuzahlung bestellt werden?
+----------
+
+Nein, alle Prämien sind nur mit BahnBonus Prämienpunkten einlösbar.
+
+ Muss ich bei der Einlösung von Gutscheinen für eine Bahnprämie etwas beachten?
+----------
+
+In den jeweiligen Prämienbeschreibungen finden Sie alle notwendigen Informationen.
+
+ Was hat sich bei den nationalen Freifahrtprämien geändert?
+----------
+
+Alle nationalen Freifahrten können in einer Buchung frei nach Klasse und Hin- und/oder Rückfahrt ausgewählt werden (äquivalent zur normalen Ticketbuchung).
+
+Außerdem gibt es Freifahrten schon ab 750 Prämienpunkten – abhängig von Strecke, Buchungszeitpunkt und weiteren Faktoren.
+
+ Für welche Freifahrtprämien gibt es verschiedene Punktehöhen?
+----------
+
+Für folgende Freifahrtprämien gibt es verschiedene Punktehöhen:
+
+* Freifahrt 2. Klasse (750-2.000 Prämienpunkte)
+* Freifahrt 1. Klasse (1.250-2.500 Prämienpunkte)
+* Internationale Freifahrt 2. Klasse (1.750-2.750 Prämienpunkte)
+* Internationale Freifahrt 1. Klasse (2.750-3.750 Prämienpunkte)
+* Mitfahr-Freifahrt 2. Klasse (750-2.000 Prämienpunkte)
+* Mitfahr-Freifahrt 1. Klasse (1.250-2.500 Prämienpunkte)
+
+Mit den neuen Punktestufen in 250er Schritten können nationale Freifahrten auch für Verbindungen eingelöst werden, für die vorher keine Freifahrten für 1.000 Punkte verfügbar waren.
+
+Die beiden höchsten Preisstufen gelten ausschließlich für nationale Verbindungen, auf denen früher grundsätzlich keine Freifahrten angeboten wurden. Dadurch wird das Angebot erweitert und die Einlösung von Punkten auf zusätzlichen Verbindungen ermöglicht.
+
+ Was hat sich an den Freifahrtprämien Flex geändert?
+----------
+
+Die benötigten Punkte der Gutscheine für die Freifahrten Flex sind nun wie folgt:
+
+* 2. Klasse, einfache Fahrt - 2.500 Prämienpunkte
+* 1. Klasse, einfache Fahrt - 3.500 Prämienpunkte
+* 2. Klasse, Hin- und Rückfahrt - 4.000 Prämienpunkte
+* 1. Klasse Hin- und Rückfahrt - 6.000 Prämienpunkte
+
+ Haben sich noch bei weiteren Prämien die Punktehöhen geändert?
+----------
+
+Bei allen weiteren Bahnprämien, wie Sitzplatzreservierungen, 1. Klasse Upgrades und Reisegutscheinen bleibt die aktuelle Punktehöhe bestehen. Auch die Sach-, Partner- und Spendenprämien sind nicht betroffen.
+
+ Wie kann ich die Sprache im DB Navigator ändern?
+----------
+
+Die App ist auf Deutsch und Englisch verfügbar. Möchten Sie die Sprache der App anpassen, haben Sie folgende Möglichkeiten:
+
+**Für Android:**
+Öffnen Sie die Systemeinstellungen Ihres Smartphones und wählen Sie in den Sprachreinstellungen anschließend den Punkt "App-Sprachen" aus. Wählen Sie nun die App DB Navigator und anschließend eine der vorgeschlagenen Sprachen aus.
+
+**Für iOS:**
+Öffnen Sie die Systemeinstellungen Ihres iPhones und wählen Sie anschließend ganz unten den Punkt „Apps“ aus. In den Einstellungen wählen Sie nun die App DB Navigator und anschließend eine der vorgeschlagenen Sprachen aus.
+
+ Kann ich Tickets, die ich in der App DB Navigator kaufe, auch auf der Website bahn.de abrufen?
+----------
+
+Ja. Ihre gebuchten Tickets werden automatisch in Ihrem DB Kundenkonto auf bahn.de angezeigt, wenn Sie bei der Buchung in der App DB Navigator mit Ihrem DB Kundenkonto eingeloggt waren.
+
+Wenn Sie Tickets ohne Login gebucht haben, können Sie diese manuell über die Auftragssuche durch die Eingabe der Auftragsnummer und des Nachnamens der reisenden Person zu Ihrem DB Kundenkonto hinzufügen.
+
+ Warum kann ich in der App DB Navigator meine BahnCard 25/50 nicht laden?
+----------
+
+Das kann daran liegen, dass Ihr BahnCard-Vertrag nicht Ihrem DB Kundenkonto zugeordnet werden kann.
+
+Bisher war es erforderlich, Ihr DB Kundenkonto unter "Meine Bahn" immer mit Ihrem BahnCard-Vertrag manuell zu verknüpfen. Durch das neue DB Kundenkonto entfällt diese Notwendigkeit und alle BahnCard-Verträge werden automatisch im Kundenkonto angezeigt. Falls die Daten des DB Kundenkontos jedoch nicht mit den Daten des BahnCard Vertrags exakt übereinstimmen (beispielsweise durch die Angabe weiterer Vornamen) kann die Verknüpfung im System nicht erfolgen.
+
+Für diesen Fall können Sie auf bahn.de Ihre BahnCard 25/50 selbst hinterlegen.
+
+Danach können Sie auf Ihre gültige bzw. demnächst gültige BahnCard 25/50 in dieser App zugreifen.
+
+ Wie kann ich meine Reise im Kalender speichern?
+----------
+
+**DB Navigator:**
+
+Sie können eine Reise über das "Teilen"-Symbol oben rechts in den Reisedetails in den Kalender speichern – unabhängig davon, ob Sie die Reisedetails einer Verbindung aus einer Suche heraus, einer gemerkten Reise oder über Ihr Ticket aufgerufen haben.
+
+**Bahn.de:**
+
+In der Verbindungsübersicht sowie in Ihrem DB Kundenkonto unter "Meine Reisen" befinden sich hinter jeder Verbindung drei Punkte, über die Sie die Funktion "Im Kalender speichern" auswählen können.
+
+ Kann ich mein Ticket in eine Brieftaschen-App (z. B. Wallet) laden?
+----------
+
+Das ist zurzeit leider nicht möglich.
+
+ Wie kann ich den DB Navigator auf meiner Smartwatch nutzen?
+----------
+
+Über die Smartwatch-Funktionalität des DB Navigators erhalten Sie Push-Nachrichten zu Ihrer Reise direkt auf Ihre Uhr. Auch die Reisevorschau mit allen relevanten Informationen kann auf der Smartwatch angezeigt werden, damit Sie Ihre aktuelle Reise noch besser im Blick behalten können.
+Die Reisevorschau auf der Smartwatch zeigt ab einer Stunde vor Reisebeginn alle relevanten Reisedetails wie z. B. die verbleibende Zeit bis zum Reisebeginn oder den Umstieg. Damit haben Sie alle wichtigen Reisedetails vor und während Ihrer Reise immer bequem im Blick - ohne Ihr Handy aus der Tasche ziehen zu müssen.
+
+Um die Reisevorschau auf Ihrer Smartwatch nutzen zu können, muss die Watch einmalig mit Ihrem DB Kundenkonto verknüpft werden.
+
+**So geht’s mit Wear OS:**
+
+* Apps auf dem Smartphone werden nicht automatisch mit der Smartwatch synchronisiert.
+* Bitte fügen Sie die App DB Navigator über den Google Play Store auf Ihrer Smartwatch hinzu.
+
+**So geht’s mit der Apple Watch:**
+
+* Wenn Sie nichts an den Grundeinstellungen der Apple Watch verändert haben, wird die App DB Navigator automatisch auch auf der Apple Watch installiert.
+* Wenn Sie die Funktion „Automatische App-Installation“ deaktiviert haben, müssen Sie die App DB Navigator manuell über die App „Watch“ installieren. Diese finden Sie auf Ihrem Smartphone.
+* Öffnen Sie nun die App DB Navigator auf Ihrer Apple Watch und klicken Sie auf „Anmelden“. Anschließend werden Sie aufgefordert, die App DB Navigator auf Ihrem iPhone zu öffnen. Wenn Sie dies getan haben, bestätigen Sie dies auf Ihrer Watch mit „Weiter“. Übertragen Sie dann den Login auf Ihre Watch, indem Sie auf dem iPhone auf „Anmelden“ klicken und Ihren Benutzernamen sowie Ihr Passwort Ihres DB Kundenkontos eingeben.
+
+Wenn Sie nun bei der Ticketbuchung oder über die Funktion „Reise merken“ die digitale Reisebegleitung aktivieren, erhalten Sie Push-Benachrichtigungen sowie die Reisevorschau nun auch bequem auf Ihrer Smartwatch.
+
+ Wie kann ich über den DB Navigator den Komfort Check-in nutzen?
+----------
+
+Wählen Sie in der App unter „Meine Reisen“ das Ticket aus, mit dem Sie sich einchecken möchten. Klicken Sie im Digitalen Ticket auf den Reiter „Reiseplan“. Bestätigen Sie über den Button „Komfort Check-in“ Ihren reservierten Sitzplatz oder geben Sie diesen manuell ein, wenn Sie keine Reservierung besitzen. In den Reisedetails erscheint nun beim entsprechenden Zug der Status "Eingecheckt".
+
+[Tipp: So ermitteln Sie die Wagen- und Sitzplatznummer per QR-Code](https://www.bahn.de/faq/qr-code-aotomatische-wagenermittlung)
+
+ Wo kann ich im DB Navigator Informationen zum Zug oder zum Fahrtverlauf finden?
+----------
+
+Wählen Sie Ihre gewünschte Verbindung aus und klicken Sie in den Reisedetails bzw. Verbindungsdetails auf den Button "Fahrtinformationen". Dort sehen Sie den Fahrtverlauf und am Reisetag die aktuelle Wagenreihung.
+
+ Kann ich mir im DB Navigator den Fahrtverlauf des Zuges auf einer Karte anzeigen lassen?
+----------
+
+Sie können sich den Fahrtverlauf Ihres Zuges auf der Karte anzeigen lassen. Sie finden diesen in den Reisedetails bzw. Verbindungsdetails über das Kartensymbol oben rechts. Einen zweiten Einstieg , um den Fahrtverlauf auf der Karte einzusehen, finden Sie in den Reisedetails bzw. Verbindungsdetails nach Klick auf den Button "Fahrtinformationen": Klicken Sie unterhalb des Fahrtverlaufs auf den Button „Auf Karte anzeigen“.
+
+ Kann ich mir im DB Navigator meinen Fußweg auf der Karte anzeigen lassen?
+----------
+
+Sie können sich den Fußweg vom aktuellen Standort zu einer auf der Karte ausgewählten Haltestelle anzeigen lassen. Über den Menübereich "Umgebung" öffnen Sie die Kartenansicht. Anschließend wählen Sie einfach die gewünschte Haltestelle aus und tippen danach auf das Personensymbol im rechten Kartenbereich. Zusätzlich finden Sie bei den Verbindungsdetails ein Kartensymbol, sofern Sie die Verbindungssuche mit Ihrem Standort oder einer Adresse gestartet haben. Klicken Sie auf das Kartensymbol und es öffnet sich die Kartenansicht mit einem eingezeichneten Fußweg.
+
+ Wie kann ich im DB Navigator einen Zwischenhalt hinzufügen?
+----------
+
+Sie können Ihre Reise individualisieren, indem Sie auf der Startseite des DB Navigators unter der Verbindungssuche auf "Optionen" klicken. Über "Zwischenhalte" können Sie für Ihre Reise einen bestimmten Bahnhof oder eine bestimmte Haltestelle auswählen, über die Ihre Reiseroute verlaufen soll. Außerdem können Sie für den Zwischenhalt auch eine gewünschte Aufenthaltsdauer einstellen.
+
+ Wie kann ich im DB Navigator Streckenfavoriten anlegen und sortieren?
+----------
+
+Um einen Streckenfavoriten anzulegen, klicken Sie auf der Startseite der App im Bereich "Meine Favoriten" auf "Favorit hinzufügen". Geben Sie Start und Ziel an. Alternativ können Sie Streckenfavoriten in der Verbindungsübersicht über das Sternsymbol speichern.
+
+So können die Streckenfavoriten sortiert werden: Klicken Sie im Menübereich „Profil“ im Abschnitt "Favoriten" zunächst auf "Mehr" und dann auf „Bearbeiten“. Anschließend können Sie die Streckenfavoriten durch längeres Halten und Verschieben der drei waagerechten Striche eines jeweiligen Streckenfavoriten in die gewünschte Reihenfolge bringen.
+Die Streckenfavoriten werden Ihnen dann in der festgelegten Reihenfolge im Menübereich "Buchen" unter "Meine Favoriten" angezeigt.
+
+ Wie richte ich die Benachrichtigungen zur Reise für meine Pendelstrecke ein?
+----------
+
+Loggen Sie sich in Ihrem DB Kundenkonto ein. Suchen Sie anschließend nach der Verbindung, die Sie regelmäßig nutzen möchten. Klicken Sie dann in den Verbindungsdetails auf die 3 Punkte oben rechts und anschließend auf "Wiederholende Reise einstellen". Richten Sie ein, welche Benachrichtigungen Sie erhalten möchten und an welchen Tagen diese zugestellt werden sollen. Außerdem können Sie Ihrer Verbindung einen selbst gewählten Namen geben (z. B. "Zur Arbeit", "Zur Familie").
+
+Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "Wiederholende Reisen". Hier können Sie die Benachrichtigungen auch pausieren, wenn Sie vorrübergehend keine Benachrichtigungen erhalten möchten. Wenn Sie auf eine alternative Verbindung ausweichen, pausiert die bereits eingerichtete "wiederholende Reise" für diesen Tag.
+
+ Mein Zug ist verspätet, wie kann ich in der App eine alternative Verbindung auswählen?
+----------
+
+Wenn es zu Abweichungen auf Ihrer Reise kommt, können Sie in den Reisedetails bzw. Verbindungsdetails Ihrer gebuchten oder gemerkten Reise unter "Weitere Aktionen" "Alternativen suchen". Ihnen werden dann weitere Verbindungen zu Ihrem Ziel angezeigt, deren Reiseplan Sie übernehmen können.
+
+Wichtig: Wenn Sie eine alternative Verbindung auswählen, behalten Sie Ihr ursprüngliches Ticket. Es werden ausschließlich die angezeigten Informationen im Reiseplan und die Benachrichtigungen zur Reise angepasst. Bitte prüfen Sie vorher, ob Ihr Ticket für die ausgewählte Alternative gültig ist.
+
+ Wie kann ich im DB Navigator den Darkmode aktivieren?
+----------
+
+Das Erscheinungsbild des DB Navigators richtet sich automatisch nach den Systemeinstellungen Ihres Endgeräts. Sie können den Dark Mode auch in der App steuern und einstellen. Scrollen Sie hierzu im Menü-Punkt "Profil" nach ganz unten zu "Einstellungen". Dort wählen Sie "Erscheinungsbild" aus und stellen Dark oder Light Mode ein.
+
+ Wie kann ich auf bahn.de oder in der App DB Navigator bezahlen?
+----------
+
+Sie können in der App mit folgenden Zahlungsmitteln zahlen:
+
+* Kreditkarte (Ihre Kreditkarte muss das 3D-Secure-Verfahren unterstützen)
+* PayPal
+* SEPA-Lastschrift
+* Apple Pay (nur für iOS Geräte)
+* Bonvoyo
+
+Sie haben einen Gutschein der Deutschen Bahn und möchten diesen einlösen?
+
+ Kann ich Tickets, die ich auf der Website kaufe, auch in die App DB Navigator laden?
+----------
+
+Ja. Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gebucht haben, wird es nach dem Login mit Ihren Zugangsdaten automatisch unter "Meine Reisen" in der App und auf der Website angezeigt.
+
+Falls ein Ticket nicht angezeigt wird oder Sie es ohne DB Kundenkonto gebucht haben, können Sie es manuell unter "Meine Reisen" über die Auftragssuche hinzufügen. Geben Sie dazu die Auftragsnummer und den Nachnamen der reisenden Person ein.
+
+ Kann ich im DB Navigator Fahrradkarten und Stellplatzreservierungen buchen?
+----------
+
+Ja, Sie können im DB Navigator Fahrradkarten mit Stellplatzreservierungen buchen.
+
+Für eine Fahrradkarte und Stellplatzreservierung im Fernverkehr wählen Sie unter "Reisende, Fahrräder" einfach den Reisendentyp "Fahrrad" aus. Für Verbindungen, bei denen Sie ein Fahrrad mitnehmen können, aktivieren Sie in den "Optionen" den Regler "Fahrradmitnahme möglich".
+
+Für eine Fahrradkarte im Nahverkehr wählen Sie im App-Bereich "Buchen" unter "Tickets & Angebote" die Kachel "Regionale Angebote" und dann die passende Fahrradkarte aus. Sie können die regionalen Angebote für die Fahrradmitnahme nach Bundesländern filtern. Für Verbindungen, bei denen Sie ein Fahrrad mitnehmen können, aktivieren Sie in den "Optionen" den Regler "Fahrradmitnahme möglich".
+
+ Wie buche ich im DB Navigator eine zusätzliche Sitzplatzreservierung ohne Ticket?
+----------
+
+Um im DB Navigator nur einen Sitzplatz (ohne Ticket) zu buchen, öffnen Sie den Menubereich „Buchen“. Gehen Sie nun auf das Drop Down Menü oben links („Einfache Fahrt“) und wählen Sie anschließend „Nur Sitzplatz (ohne Ticket)“ aus. Nun können Sie wie gewohnt eine Verbindung suchen und Ihren Sitzplatz reservieren.
+
+ Wie und wo bekomme ich in der App DB Navigator eine Rechnung zu meinem Ticket?
+----------
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Gehen Sie im unteren Bildschirmbereich auf "Reisen".
+3. Wählen Sie die entsprechende Reise aus.
+4. Tippen Sie auf "Weitere Aktionen".
+5. Klicken Sie auf "Rechnung öffnen".
+6. Geben Sie die Adressdaten ein, auf die die Rechnung ausgestellt werden soll.
+
+**Hinweise:**
+
+* Sie können Rechnungen sowohl für aktuelle als auch für vergangene Reisen herunterladen.
+* Die Rechnungsadresse kann nur einmalig eingegeben werden und kann nachträglich nicht geändert werden, auch nicht durch den Kundenservice.
+
+ Für welche Produkte kann ich Gutscheine einlösen?
+----------
+
+Storno-, Kulanz-, Fahrgastrechte-, Restwert-, Geschenkgutschein oder Geschenkkarte können gegen DB Produkte (z.B. BahnCards) eingelöst, nicht jedoch für den Kauf von DB Geschenkgutscheinen genutzt werden. Falls der Wert des Gutscheins höher ist als der Kaufpreis des Produkts, für den Sie ihn einlösen, erhalten Sie den Restwert in Form eines Gutscheins.
+
+Für welche Produkte Sie Ihren Aktionsgutschein einlösen können, lesen Sie bitte in den Éinlösekonditionen der zugehörigen Aktion nach. Aktionsgutscheine können z.B. nur im vorgegebenen Buchungszeitraum eingelöst und für Fahrten im festgelegten Reisezeitraum genutzt werden, ferner kann die Einlösung auf bestimmte Produkte eingeschränkt sein (z.B. nur für den Kauf einer BahnCard oder nur im Fernverkehr) und einen Mindestbestellwert voraussetzen.
+
+ Können DB Geschenkgutscheine auf bahn.de auch als Gast gekauft und eingelöst werden?
+----------
+
+Um einen Geschenkgutschein auf [www.bahn.de/gutscheine](https://www.bahn.de/service/gutscheine/geschenkgutscheine) erwerben oder einlösen zu können ist ein Kundenkonto erforderlich.
+
+ Ist es möglich mehrere Gutscheine in einem Buchungsvorgang zu kaufen?
+----------
+
+Auf [bahn.de/gutscheine](https://www.bahn.de/service/gutscheine/geschenkgutscheine) sind Gutscheine nur im eingeloggten Bereich und einzeln zu kaufen.
+
+Als Verein, Organisation oder Firma (B2B) haben Sie die Möglichkeit mehrere Gutscheine über unseren Servicedienstleister **cadooz GmbH** zu bestellen. Dieser übernimmt die gesamte Abwicklung.
+
+Dafür genügt eine einmalige Registrierung in der [Incentive Mall von cadooz](https://incentivemall.cadooz.com/mall/product.do?productNumber=5373), wo verschiedene Gutscheinkartenwerte - 10 Euro, 25 Euro, 50 Euro und 100 Euro - zur Auswahl stehen. Auch eine Kombination der Werte ist möglich.
+
+ Funktioniert die Stornierung auch in Verbindung mit Gutscheinen?
+----------
+
+**Storno-, Kulanz-, Fahrgastrechte-, Restwert-, Geschenkgutschein oder Geschenkkarte**
+
+* Sowohl bei der tariflichen als auch bei der Sofortstornierung von Buchungen, die unter Verwendung eines Gutscheins gezahlt wurden, erhalten Sie für die mit Gutschein bezahlten Anteile wieder einen Gutschein zurück.
+* Achtung: Den Kauf eines Geschenkgutscheins können Sie nicht sofortstornieren.
+
+**Aktionsgutscheine:**
+
+* Bei der tariflichen Stornierung einer Buchung, bei der ein Aktionsgutschein eingelöst wurde, verfällt Ihr Aktionsgutschein. Er kann nicht erneut eingesetzt werden.
+* Bei der Sofortstornierung einer Buchung, bei der ein Aktionsgutschein eingelöst wurde, können Sie Ihren Aktionsgutschein erneut verwenden.
+
+ Kann ich beim Kauf von DB Produkten mehrere Gutscheine einlösen?
+----------
+
+**Storno-, Kulanz-, Fahrgastrechte-, Restwert-, Geschenkgutschein oder Geschenkkarte:**
+
+Ja, Sie können beim Kauf von DB Produkten mehrere Gutscheine einlösen.
+
+**Aktionsgutscheine:**
+
+Sie können pro Buchung nur einen Aktionsgutschein einlösen.
+
+ Kann ich irgendwo das Guthaben von Gutscheinen einsehen?
+----------
+
+Nein, diese Möglichkeit gibt es nicht.
+
+ Was passiert bei einem Gutschein mit dem Restguthaben?
+----------
+
+**Storno-, Kulanz-, Fahrgastrechte-, Restwert-, Geschenkgutschein oder Geschenkkarte:**
+
+Übersteigt der Gutscheinwert den Preis des gekauften Produktes, erhalten Sie den Restwert in Form eines Gutscheins zurück.
+
+**Aktionsgutschein:**
+
+Übersteigt der Aktionsgutscheinwert den Preis des Produktes, auf das er eingelöst wird, verfällt der Restwert des Aktionsgutscheins.
+
+ Wie lange sind Gutscheine gültig?
+----------
+
+* DB Geschenkgutschein: 5 Jahre gültig
+* DB Geschenkkarte: 5 Jahre gültig
+* Stornogutschein: 3 Jahre gültig
+* Fahrgastrechtegutschein: 3 Jahre gültig
+* Kulanzgutschein: 1 Jahr gültig
+* Restwertgutschein: Gültigkeit analog des ursprünglichen Gutscheins
+* Aktionsgutscheine: Gültigkeit je nach Aktion
+
+ Warum erhalte ich eine Fehlermeldung beim Einlösen meines Gutscheins?
+----------
+
+Achten Sie bei der Einlösung auf einen möglichen Aktionszeitraum, den Einlösebedingungen, wie zum Beispiel einen Mindestbestellwert, oder einen Einlösezeitraum.
+
+Stimmen alle Angaben und Sie bekommen dennoch einen Fehler, rufen Sie uns unter [030 2970](tel:030 2970) an.
+
+ Wo kann ich die DB Geschenkkarte kaufen?
+----------
+
+Die DB Geschenkkarte ist im Handel in den Filialen folgender Märkte erhältlich: Rewe, Penny, EDEKA oder Netto sowie bei weiteren Lebensmittelhändlern.
+
+ Kann ich die DB Geschenkkarte auch für den Kauf von BahnCards einlösen?
+----------
+
+Ja, Sie können die DB Geschenkkarte auch beim Kauf von BahnCards im Bezahlvorgang mit einlösen.
+
+ Wo kann ich die DB Geschenkkarte einlösen?
+----------
+
+Die DB Geschenkkarte ist ausschließlich innerhalb des Buchungsvorgangs auf unserer Website und in der App einlösbar - und zwar sowohl für den Kauf von DB Fahrkarten oder BahnCards als auch für Reservierungen. Dazu geben Sie den Gutscheincode auf der Zahlungs-Seite ein.
+Für den Kauf eines Abonnements wie z. B. dem Deutschland-Ticket kann die DB Geschenkkarte leider nicht verwendet werden.
+
+ Wie löse ich die Geschenkkarte auf bahn.de ein?
+----------
+
+* **Reise suchen**
+   Tragen Sie in die Eingabefelder der Verbindungssuche Ihre Reisedaten ein. Dann klicken Sie auf "Suchen".
+* Entscheiden Sie sich aus den angezeigten Verbindungen für eine Hinfahrt. Wenn Sie gleich auch eine Rückfahrt mitbuchen möchten, klicken Sie auf "Rückfahrt hinzufügen" und suchen Sie sich das passende Angebot aus. Klicken Sie dann auf "Weiter".
+* **Einloggen**
+   Loggen Sie sich mit Ihren "Meine Bahn"-Kontodaten ein oder registrieren Sie sich für ein DB Kundenkonto. Sie müssen angemeldet sein, um eine Geschenkkarte einlösen zu können.
+   Jetzt können Sie z.B. auch noch einen Sitzplatz reservieren oder angeben, ob Sie das Ticket für jemand anderen kaufen.
+* **Zahlung**
+   Suchen Sie sich eine Zahlungsweise aus. **Bitte beachten Sie**: Die Zahlungsart "Lastschrift" steht für die Einlösung von Geschenkkarten leider nicht zur Verfügung.
+* **Code eingeben**
+   Wählen Sie unter "Sollen wir noch etwas berücksichtigen?" die Option **"Gutschein"**. Es klappt ein Eingabefeld aus; hier tragen Sie Ihren **7-stelligen Code** ein. Klicken Sie dann den Button "Anwenden".
+* **Buchung abschließen**
+   Der Wert von 30 Euro müsste jetzt bereits mit dem Ticketpreis verrechnet sein. Überprüfen Sie noch einmal alle Angaben und schließen Sie dann Ihre Buchung ab.
+
+ Kann ich die DB Geschenkkarte sofort am Kauftag einlösen?
+----------
+
+Die DB Geschenkkarte ist in der Regel 24 Stunden nach dem Kauf im Supermarkt aktiviert und kann dann beim Kauf auf unserer Website oder in der App eingelöst werden.
+
+ Wie viele DB Geschenkkarten kann ich bei einem Buchungsvorgang einlösen?
+----------
+
+Pro Buchung sind maximal 10 DB Geschenkkarten gleichzeitig einlösbar.
+
+ Kann ich die DB Geschenkkarte umtauschen oder erstatten lassen?
+----------
+
+Die DB Geschenkkarte ist von Umtausch und Erstattung ausgeschlossen.
+
+Umtausch und Stornierung von Fahrkarten, die mit der DB Geschenkkarte bezahlt wurden, sind abhängig von den Konditionen der Fahrkarte und nur gegen Ausgabe eines neuen Gutscheins möglich.
+
+ Was, wenn der DB Geschenkkartenwert den Fahrkartenwert übersteigt?
+----------
+
+Ein möglicher Restwert wird in Form eines Restwertgutscheins ausgegeben.
+
+ Was, wenn ich den Code beim Freirubbeln zerstöre?
+----------
+
+In Einzelfällen kommt es vor, dass der Gutscheincode unter dem Rubbelfeld beim Freirubbeln zerstört wurde und nicht lesbar ist. In diesem Fall gehen Sie bitte so vor:
+
+* Scannen Sie die beschädigte Rückseite der Geschenkkarte (Rubbelfeld mit Seriennummer) oder fotografieren Sie sie ab
+* Scannen oder fotografieren Sie den Kassenbon
+* Schicken Sie die Bilder mit dem dazugehörigen Aktivierungsbon an [DBGeschenkkarten@deutschebahn.com](mailto:DBGeschenkkarten@deutschebahn.com)
+
+Anhand der übereinstimmenden Seriennummer kann der passende Code zur Seriennummer der Karte über den Kartendienstleister ermittelt werden.
+
+ Wie hoch ist der Wert der DB Geschenkkarte?
+----------
+
+Die aktuell im Handel erhältliche DB Geschenkkarte hat einen Wert von 30 Euro.
+
+ Ich habe mit Gutschein bezahlt und möchte mein Ticket stornieren. Wie erfolgt die Gutschrift?
+----------
+
+Es wird immer so erstattet wie bezahlt wurde. Wenn Sie mit Kreditkarte bezahlen, erhalten Sie das Geld auf Ihre Kreditkarte zurück, bei Banküberweisung auf Ihr Bankkonto und als Gutschein als Gutschein.
+
+Bei einer Kombination (also z.B. Gutschein und Restsumme Kreditkarte) geht der Teil wieder auf die Kreditkarte, der abgebucht wurde, und der Teil, der als Gutschein bezahlt wurde, wird wieder als Gutschein ausbezahlt.
+
+ Kann ich mehrere eCoupons bei der Buchung gleichzeitig einlösen?
+----------
+
+Nein, es kann pro Buchung nur ein eCoupon eingelöst werden.
+
+ Wo kann ich meine eCoupons auf der Webseite oder in der App einlösen?
+----------
+
+**8-stellige** **eCoupons** lassen sich aktuell nur noch in der App DB Navigator einlösen.
+
+Für bahn.de und die App DB Navigator werden **16-stellige** **Aktionsgutscheine** verwendet.
+
+**7-stellige Codes** wie z. B. Geschenk- oder Restwertgutscheine lassen sich in beiden Systemen einlösen.
+
+ Wie kann ich einen DB Geschenkgutschein kaufen?
+----------
+
+Um einen DB Geschenkgutschein **online kaufen** zu können, müssen Sie sich einloggen. DB Geschenkgutscheine gibt es im Wert von 10, 20, 50 oder 100 Euro. Während des Bestellprozesses haben Sie die Möglichkeit, Ihren Geschenkgutschein zu personalisieren. Nachdem Sie den Kauf abgeschlossen haben, erhalten Sie den DB Geschenkgutschein als PDF an ihre E-Mail-Adresse.
+
+Alternativ können Sie DB Geschenkgutscheine auch in **DB Reisezentren** oder in **DB Agenturen** kaufen.
+
+DB Geschenkgutscheine können nicht per Lastschrift oder per Gutschein bezahlt werden.
+
+ Wo kann ich einen DB Geschenkgutschein einlösen?
+----------
+
+DB Geschenkgutscheine können
+
+* auf bahn.de
+* im DB Navigator
+* im DB Reisezentrum
+* in DB Agenturen
+* am DB Fahrkartenautomaten
+
+eingelöst werden.
+
+ Für welche Produkte kann ich DB Geschenkgutscheine einlösen?
+----------
+
+DB Geschenkgutscheine können beim Kauf von DB Produkten (z. B. BahnCards) im Bezahlvorgang mit eingelöst werden, nicht jedoch für den Kauf von DB Geschenkgutscheinen und Abonnements wie z. B. das Deutschland-Ticket genutzt werden. Falls der Wert des DB Geschenkgutscheins höher ist als der Kaufpreis des Produkts, für den Sie ihn einlösen, erhalten Sie den Restwert in Form eines Gutscheins.
+
+ Wie viele DB Geschenkgutscheine kann ich bei einem Buchungsvorgang einlösen?
+----------
+
+Pro Buchung sind maximal 10 DB Geschenkgutscheine gleichzeitig einlösbar. Abweichend hiervon ist am DB Fahrkartenautomaten die Anzahl nicht begrenzt. Es können aber nur Gutscheine mit einem maximalen Nennwert von 50 EUR und einem maximalen Gesamtwert von 150 EUR eingelöst werden.
+
+ Wie lange sind DB Geschenkgutscheine gültig?
+----------
+
+DB Geschenkgutscheine sind ab dem Zeitpunkt des Kaufes fünf Jahre lang gültig.
+
+ Wie erfolgt die Gutschrift, wenn ich ein per Gutschein bezahltes Ticket storniere?
+----------
+
+Die Erstattung erfolgt auf das jeweils genutzte Zahlungsmittel. Haben Sie mit Kreditkarte bezahlt, wird der zu erstattende Betrag zurück auf Ihre Kreditkarte gebucht, bei einer Banküberweisung zurück auf Ihr Bankkonto. Falls Sie per Gutschein bezahlt haben, erfolgt die Erstattung in Form eines Gutscheins.
+
+Bei kombinierten Zahlungsmitteln erfolgt die Erstattung der Teilbeträge auf das jeweilige Zahlungsmittel.
+
+ Was ist die Aktion 10 % Rabatt auf DB Geschenkgutscheine?
+----------
+
+DB Geschenkgutscheine im Wert von 30, 50 und 100 EUR können vom 27.11. bis 01.12.2025 nur online über bahn.cadooz.de mit einem Rabatt von 10 % bei unserem Vertriebspartner cadooz GmbH erworben werden - solange der Vorrat reicht.
+
+ Wie viele Gutscheine kann ich in der Rabattaktion kaufen?
+----------
+
+Es können maximal 5 DB Geschenkgutscheine pro Warenkorb in der 10 % Rabattaktion beim Vertriebspartner cadooz GmbH erworben werden.
+
+ Welche Bedingungen gelten beim Kauf der DB Geschenkgutscheine mit 10 % Rabatt beim Vertriebspartner cadooz GmbH?
+----------
+
+Für die 10 % Rabattaktion gelten die [AGB der cadooz GmbH](https://bahn.cadooz.de/agb)
+
+ Wie erhalte ich den in der 10 % Rabattaktion erworbenen DB Geschenkgutschein?
+----------
+
+Nachdem Sie den Kauf beim Vertriebspartner cadooz GmbH abgeschlossen haben, erhalten Sie eine E-Mail von versand@bahn.cadooz.de an die von Ihnen angegebene E-Mail-Adresse. Diese E-Mail enthält einen Link zum Abruf Ihres DB Geschenkgutscheines.
+
+ Wohin wende ich mich bei Fragen zum Kaufprozess der DB Geschenkgutscheine über den Vertriebspartner cadooz GmbH?
+----------
+
+Unter <https://bahn.cadooz.de/faq> finden Sie Antworten auf häufig gestellte Fragen beim Vertriebspartner cadooz GmbH zum Kauf des DB Geschenkgutscheines.
+
+ Wie kann ich meinen erworbenen DB Geschenkgutschein in ein DB Produkt einlösen?
+----------
+
+Eine Hilfestellung zur Einlösung finden Sie [hier](https://www.bahn.de/service/gutscheine/gutscheine-einloesen)
+
+ Ab wann und wie lange kann ich den DB Geschenkgutschein einlösen?
+----------
+
+Die DB Geschenkgutscheine der 10 % Rabattaktion können ab dem 05.12.2025 eingelöst werden und sind 5 Jahre gültig.
+
+ Wo kann ich die in der 10 % Rabattaktion erworbenen DB Geschenkgutscheine einlösen?
+----------
+
+Die in der Aktion erworbenen DB Geschenkgutscheine können auf bahn.de, in der App DB Navigator, im DB Reisezentrum, in DB Agenturen und am DB Fahrkartenautomat eingelöst werden.
+
+ Wofür kann ich die erworbenen DB Geschenkgutscheine einlösen?
+----------
+
+DB Geschenkgutscheine können beim Kauf von DB Produkten (z.B. BahnCards) im Bezahlvorgang mit eingelöst werden, jedoch nicht für den Kauf von DB Geschenkgutscheinen genutzt werden.
+
+ Wie viele DB Geschenkgutscheine kann ich bei einem Buchungsvorgang einlösen?
+----------
+
+Pro Buchung sind maximal 10 DB Geschenkgutscheine gleichzeitig einlösbar. Abweichend hiervon ist am DB Fahrkartenautomat die Anzahl nicht begrenzt. Es können hier aber nur Gutscheine mit einem maximalen Nennwert von 50 EUR und einem maximalen Gesamtwert von 150 EUR eingelöst werden.
+
+ Welche Zahlungsarten sind für den Kauf der rabattierten DB Geschenkgutscheine zugelassen?
+----------
+
+Die DB Geschenkgutscheine der 10 % Rabattaktion können per MasterCard, VISA, Apple Pay, Google Pay bei unserem Vertriebspartner cadooz GmbH bezahlt werden. Eine Zahlung per DB Geschenkgutschein oder per Lastschrift ist nicht möglich.
+
+ Was, wenn der DB Geschenkkartenwert den Fahrkartenwert übersteigt?
+----------
+
+Falls der Wert des DB Geschenkgutscheins höher ist als der Kaufpreis des DB Produkts, für den Sie ihn einlösen, erhalten Sie einen Restwertgutschein.
+
+ Wie erfolgt die Gutschrift, wenn ich ein per Gutschein bezahltes Ticket storniere?
+----------
+
+Die Erstattung erfolgt auf das jeweils genutze Zahlungsmittel. Haben Sie Ihr Ticket mit einem DB Geschenkgutschein bezahlt, erfolgt die Erstattung in Form eines Gutscheins. Haben Sie per Kreditkarte gezahlt, wird der zu erstattende Betrag zurück auf Ihre Kreditkarte gebucht, bei einer Banküberweisung zurück auf Ihr Bankkonto. Bei kombinierten Zahlungsmitteln erfolgt die Erstattung der Teilbeträge auf das jeweilige Zahlungsmittel.
+
+ Benötige ich für das DB Kundenkonto eine App?
+----------
+
+Der Zugriff auf das DB Kundenkonto erfolgt wie gewohnt über den Kanal, den Sie bevorzugen. Das kann der DB Navigator sein oder auch die Website bahn.de/int.bahn.de.
+
+ Benötige ich ein DB Kundenkonto, um ein Ticket zu buchen?
+----------
+
+Nein, die Buchung von Tickets auf bahn.de, int.bahn.de oder in der App DB Navigator ist ohne Anmeldung möglich. Allerdings bietet Ihnen das DB Kundenkonto bei der Ticketbuchung einige Vorteile:
+
+* Erhalten Sie Benachrichtigungen zu Ihrer Reise per E-Mail oder Push-Nachricht
+* Verwalten Sie Ihre Buchungen und BahnCard Abos
+* Sammeln Sie bei jeder Fahrt Prämien- und Statuspunkte mit unserem BahnBonus Vorteilsprogramm
+* Newsletter & Services: Melden Sie sich an und erhalten Sie regelmäßig persönliche Informationen per E-Mail
+* BahnCard: Freuen Sie sich auf attraktive Reisegutscheine, Upgrades oder Partnerangebote
+* Alle Digitalen Tickets, die Sie über Ihr DB Kundenkonto gekauft haben, sind nach Login im DB Navigator im Menübereich "Reisen" und auf bahn.de unter "Meine Reisen" abrufbar.
+
+ Wo finde ich Datenschutzhinweise zum DB Kundenkonto?
+----------
+
+Auf der folgenden Seite finden Sie die aktuellen Datenschutzhinweise zum DB Kundenkonto.
+
+ Gibt es Services oder Leistungen, die ohne DB Kundenkonto nicht nutzbar sind?
+----------
+
+Auch in Zukunft ist es selbstverständlich möglich, zahlreiche Leistungen der Deutschen Bahn, wie zum Beispiel den Kauf einer Fahrkarte, auch ohne ein Kundenkonto zu nutzen.
+Insbesondere Komfortfunktionen können nur angeboten werden, wenn die dafür erforderlichen Daten hinterlegt sind. Dazu gehören zum Beispiel die schnellere Buchung, bei der Zahlungsdaten hinterlegt sein müssen, das Einlösen von Gutscheinen oder die Online-Abfrage von BahnBonus Punkten.
+
+ Kann ich meine BahnCard 25/50 im DB Kundenkonto hinterlegen?
+----------
+
+Wenn Sie Ihre BahnCard 25/50 in Verbindung mit einem DB Kundenkonto gekauft haben, ist diese automatisch in Ihrem DB Kundenkonto hinterlegt. Alternativ können Sie eine BahnCard 25/50 auch nachträglich in Ihrem DB Kundenkonto hinterlegen. Bitte loggen Sie sich dazu ein. Im Bereich „BahnCards oder BahnBonus Cards übertragen" können Sie Ihre BahnCard 25/50 nachträglich zu Ihrem DB Kundenkonto hinzufügen. Für das Hinzufügen benötigen Sie einmalig eine PIN. Diese können Sie ebenfalls im Dialogfeld anfordern. Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard 25/50 benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+
+ Kann ich in meinem DB Kundenkonto Fahrkarten stornieren beziehungsweise erstatten lassen?
+----------
+
+Sofern Sie beim Kauf der Fahrkarte im DB Navigator oder auf bahn.de/int.bahn.de eingeloggt waren, können Sie die Stornierung oder Erstattung auch über Ihr DB Kundenkonto beantragen. Rufen Sie dazu das digitale Ticket über die Buchungsrückschau ("Meine letzten Buchungen") auf. Mehr Informationen zu Erstattung und Stornierung finden Sie in unseren Beförderungsbedingungen
+
+ Verfallen meine BahnBonus Punkte aufgrund von DB Kundenkonto-Inaktivität?
+----------
+
+Nein, Ihre Punkte verfallen nicht. Sie können Ihre Punkte allerdings nicht mehr online einsehen oder einlösen. Sie haben natürlich weiterhin die Möglichkeit, die Services über das ServiceCenter zu nutzen.
+
+ Wie melde ich den Verlust eines Gegenstands, der über 15 Euro wert ist?
+----------
+
+Wenn Ihr verlorener Gegenstand einen geschätzten Wert von über 15 Euro hat, können Sie Ihren Verlust hier auf der Seite online melden. Für Gegenstände mit immateriellem Wert gilt diese Wert-Begrenzung nicht (z.B. Fotoalben, Bücher mit Widmung etc.).
+
+Über die Fundservice-Datenbank der DB InfraGO AG können Sie dann sofort sehen, ob ein Gegenstand gefunden wurde, der Ihrer Beschreibung entspricht.
+
+Wir forschen für Sie 4 Wochen nach dem verlorenen Gegenstand und informieren Sie, sobald die Suche erfolgreich war. Nach 4 Wochen erfolgloser Suche wird die Nachforschung eingestellt, ohne dass wir Sie benachrichtigen.
+
+ Haben Sie in einem internationalen Zug einen Gegenstand verloren oder vergessen?
+----------
+
+Beachten Sie bitte folgende Hinweise:
+
+* Erfassen Sie zusätzlich zu Ihrer Meldung bei uns, unbedingt auch eine Verlustmeldung bei der jeweils betroffenen Partnerbahn.
+* In vielen Fällen werden verlorene Gegenstände erst am Endhalt des Zuges als Fundsache entdeckt.
+* **Zug von Deutschland ins Ausland:** Der Gegenstand wird meist bei der ausländischen Partnerbahn abgegeben.
+* **Zug vom Ausland nach Deutschland:** Der Gegenstand wird in der Regel in Deutschland abgegeben.
+
+**Direkte Links zu ausgewählten Partnerbahnen:**
+
+* **SBB (Schweiz):** [SBB (Schweiz) Verlustmeldung](https://www.sbb.ch/de/hilfe-und-kontakt/fundbuero/verlustmeldung-erfassen.html)
+* **ÖBB (Österreich):** [ÖBB (Österreich) - Verlustmeldung](https://www.oebb.at/de/reiseplanung-services/nach-ihrer-reise/lost-found.html)
+* **SNCF (Frankreich):** [SNCF (Frankreich) - Verlustmeldung](https://www.garesetconnexions.sncf/fr/service-client/a-vos-cotes/objet-perdu-trouve/declaration-perte)
+
+Weitere Partnerbahnen finden Sie über eine Internetsuche.
+
+ Wie lange kann ich über den Fundservice rückwirkend meine Suchanzeige online aufgeben?
+----------
+
+Sie sollten Ihre Verlustanzeige so bald wie möglich hier online aufgeben.
+
+ Mein verlorener Gegenstand ist weniger als 15 Euro wert. Wie melde ich den Verlust?
+----------
+
+Verlorene Gegenstände mit einem von uns geschätzten Zeitwert **unter 15 Euro und ohne erkennbaren immateriellen Wert** werden nicht in unserer Fundsachenplattform erfasst.
+
+Fragen Sie in diesem Fall bitte bei der Fundstelle im Bahnhof nach, ob Ihr Gegenstand dort abgegeben wurde.
+
+Die Liste der Fundstellen finden Sie hier auf der Seite.
+
+ Wie lange lagert die DB gefundene Gegenstände?
+----------
+
+* Wird beim Fundservice im Bahnhof ein Gegenstand abgegeben, nehmen wir ihn samt Beschreibung in eine Datenbank auf und lagern ihn **7 Tage** am Bahnhof in der Fundstelle ein. Übrigens: Wenn der Gegenstand nach dem Ende der Zugfahrt von unseren Mitarbeitern im Zug entdeckt wurde, wandert das Fundstück in der Regel in die Fundstelle des Bahnhofs, in dem die Fahrt endete.
+* Werden die Gegenstände **nach 7 Tagen** nicht vor Ort abgeholt, bringen wir sie in das zentrale Fundbüro in Wuppertal. Dort prüfen wir die Fundsachen erneut und überprüfen noch einmal in der Datenbank, ob jemand nach dem Gegenstand sucht. Hier werden die Fundsachen entsprechend ihrer Lagerfrist aufbewahrt.
+* Nach Ablauf der Lagerzeit werden die Fundsachen entsorgt oder zur Auktion freigegeben.
+
+ Mein verlorener Gegenstand wurde gefunden. Wie kriege ich diesen jetzt zurück?
+----------
+
+Sie können auf zwei Wegen wieder in den Besitz Ihres Gegenstands kommen:
+
+* Sie holen diesen persönlich am Lagerort ab. Bei der persönlichen Abholung einer Fundsache müssen Sie ein amtliches Personaldokument (z.B. Personalausweis, Reisepass) vorlegen.
+* Sie lassen sich den Gegenstand zuschicken
+
+In beiden Fällen erheben wir ein Bearbeitungsentgelt. Die Höhe ist abhängig von der Art der Rückgabe (Abholung/Versand) und der Dauer der Aufbewahrung. Mehr dazu unter dem Abschnitt "Muss ich etwas bezahlen?"
+
+ Muss ich etwas bezahlen, wenn ich einen verlorenen Gegenstand aus dem Fundbüro zurückbekomme?
+----------
+
+Ja, Sie zahlen ein Bearbeitungsentgelt, wenn Sie einen verlorenen Gegenstand aus dem Fundbüro zurückbekommen. Die Höhe hängt davon ab, wie Sie Ihren Gegenstand zurückbekommen, zu welcher **Fundsachenkategorie** er gehört und wie lange er aufbewahrt wurde.
+
+**Abholung aus der Fundstelle:**
+
+* Für Ausweis, Schlüssel, Fahrkarte, Zahlungskarte, Brille, medizinische Hilfsmittel oder Stofftier etc. (**Grundbedarf**) zahlen Sie **kein Entgelt**.
+* Für Kleidung, Einkaufstüte, kleinere Elektronik oder Sporttasche etc. (**Alltagsbedarf**) zahlen Sie **10 Euro**.
+* Für Smartphone, Geldbeutel, Laptop, Kamera, Reisekoffer, Rucksack, iPad, Tablet etc. oder Bargeldbeträge (**Wertsachen**) zahlen Sie **15 Euro**.
+
+**Direkte Abholung im zentralen Fundbüro in Wuppertal:**
+
+* Sie zahlen das Entgelt für die passende Fundkategorie (siehe oben) plus 10 Euro Bearbeitungsentgelt.
+
+**Versand per Post:**
+
+* Sie zahlen 30 Euro für Versand und Verpackung.
+* Für Sperrgut, Wunschtagzustellung oder versicherten Versand zahlen Sie zusätzliche Gebühren.
+
+**Versand aus dem zentralen Fundbüro:**
+
+* Sie zahlen 35 Euro. Das beinhaltet Versand, Verpackung und ein Bearbeitungsentgelt von 15 Euro.
+
+**Versand ins Ausland:**
+
+* Sie zahlen 20 Euro Bearbeitungsentgelt plus die Versandkosten für das Zielland.
+
+**Versand per ic:kurier:**
+
+* Sie können in dringenden Fällen IC-Kurier wählen. Buchen Sie den Versand online unter [booking.time-matters.com](https://booking.time-matters.com/de/search). Die Gebühren richten sich nach den aktuellen Tarifen von IC-Kurier.
+
+**Abweichende Regelungen für die Netze Elbe-Spree und Lausitz (DB Regio AG):**
+
+* Sie zahlen kein Bearbeitungsentgelt, wenn Sie die Fundsache aus Zügen dieser Netze aus der Fundstelle oder aus dem zentralen Fundbüro abholen.
+* Für den Versand im Netz Lausitz sind folgende Zielorte möglich: Servicestellen/Kundendialog DB Regio in Potsdam und Leipzig sowie Reisezentren Cottbus und Leipzig.
+* Für das Netz Elbe-Spree ist ein Versand an die Servicestellen/Kundendialog DB Regio in Potsdam möglich.
+
+ Wie kennzeichne ich mein Gepäck, damit es schnell wieder gefunden wird, falls ich es verloren habe?
+----------
+
+**Bitte kennzeichnen Sie Ihre Gepäckgegenstände mit Ihrem Namen und einer Kontaktmöglichkeit, damit wir Sie bei Verlust informieren können.**
+
+* Kontaktinformationen auf Ihrem Smartphone u.a. elektronischen Geräten:
+   Hierzu gehen Sie in den Einstellungen Ihres Gerätes auf "Sperrbildschirm" und "Kontaktinformationen". Hier können Sie Ihren Namen und eine E-Mail-Adresse oder Telefonnummer erfassen. Auf dem Sperrbildschirm werden nun immer Ihre Kontaktinformationen angezeigt.
+* Befestigen Sie an Ihrem Gepäck (Koffer, Rucksack u.a. Reisetaschen) einen Gepäckanhänger. Dieser sollte Ihren Namen und Ihre Telefonnummer oder E-Mail-Adresse beinhalten. Kostenlose Gepäckanhänger erhalten Sie an einigen DB Informationen in unseren Bahnhöfen.
+* Legen Sie einen Zettel mit Ihrem Namen und Vornamen in das Gepäckstück, Kleidungsstück oder in die Handyhülle.
+
+ Für welche Züge ist der Fundservice zuständig?
+----------
+
+Das Fundsachenmanagement für Fundsachen aus Zügen wird von der DB InfraGO AG im Auftrag der hier genannten Eisenbahnverkehrsunternehmen durchgeführt:
+
+Züge der Abellio Rail Mitteldeutschland GmbH, agilis Verkehrsgesellschaft mbH & Co. KG, agilis Eisenbahngesellschaft mbH & Co.KG und Arverio Bayern, Arverio BW, DB Regio AG, DB Fernverkehr AG, DB RegioNetz Verkehrs-GmbH Erzgebirgsbahn, DB RegioNetz Verkehrs-GmbH Kurhessenbahn, DB RegioNetz Verkehrs-GmbH SüdostBayernBahn, DB RegioNetz Verkehrs-GmbH Westfrankenbahn,  Eurobahn – Keolis, Erfurter Bahn GmbH, Eurostar, HLB Hessenbahn GmbH (nur Teilnetz Südhessen-Untermain, Ländchesbahn, RE 98, RE 99, RB 24, RB 45, RB 46, RB 47, RB 48, RB 52 und Mittelhessenexpress), National Express Rail GmbH (NEX), NordBahn, NordWestBahn GmbH (NWB) – (nur Teilnetze Ostwestfalen, Weser Ems und Regio S-Bahn), RheinRuhrBahn (nur Linien RE 14; RB 31, RB 36; RE 44 und S 7), SNCF Voyages Deutschland GmbH, SWEG (Nur Bahnnetzen 8a (Ortenau-S-Bahn und Hermann-Hesse-Bahn), 8b (Europabahn) und 9b (Breisgau-S-Bahn Los 2, Freiburger Y)), trans regio Deutsche Regionalbahn GmbH, WestfalenBahn GmbH, TRI Train Rental GmbH, Vias Rail GmbH (nur RE 19, RE 35, RB 91, RE 16 und RB 10-Rheingaulinie), S-Bahn Dresden, S-Bahn Hamburg, S-Bahn Magdeburg, S-Bahn Mitteldeutschland, S-Bahn München, S-Bahn Rhein-Main, S-Bahn Rhein-Neckar, S-Bahn Rhein-Ruhr, S-Bahn Rostock und S-Bahn Stuttgart.
+
+Wenn Sie Ihren Gegenstand in einem anderen Zug verloren haben, setzen Sie sich bitte mit der jeweiligen Bahn in Verbindung.
+
+ Wie kann ich den Kundendialog der Deutschen Bahn erreichen?
+----------
+
+Bitte nutzen Sie unsere Self-Services und die Kontaktformulare auf der Hilfe & Kontakt-Seite.
+
+ Warum führen wir die neutrale Anrede ein?
+----------
+
+Vielfalt und Toleranz bilden unverzichtbare Grundpfeiler der Unternehmensidentität der Deutschen Bahn. Unsere Mission besteht darin, in unserer Kommunikation über diverse Kanäle alle Menschen anzusprechen und ihnen die Möglichkeit zu bieten, ihre Geschlechtsidentität präziser zu beschreiben.
+
+Die Einführung der Option "Neutrale Anrede" neben "Herr" und "Frau" in unseren Systemen ist ein Schritt in Richtung Individualität und Respekt für die Vielfalt der Geschlechtsidentitäten unserer Kund:innen.
+
+ Basiert die CO₂-Sparuhr auf Live-Daten?
+----------
+
+Nein, die CCO₂-Sparuhr basiert zwar nicht auf Live-Daten, berücksichtigt jedoch die üblichen Auslastungen je Tages- und Wochenzeit. Hierbei bilden wir durch unterschiedliche Geschwindigkeiten der Uhr nach, wie viele Menschen je nach Tageszeit und Wochentag in der Regel in den Fernverkehrszügen sitzen.
+
+Da CO₂-Emissionen erst nachträglich, z. B. zum Ende eines Jahres, bilanziert werden, ist es nicht möglich, die Einsparung live zu berechnen. Unser Hauptziel ist es, über eine nachvollziehbare Modellrechnung zu zeigen, welchen positiven Beitrag unsere Fahrgäste für das Klima leisten.
+
+ Warum ist CO₂ einsparen wichtig?
+----------
+
+Kohlenstoffdioxid (CO₂) ist ein Treibhausgas, das vor allem durch die Verbrennung fossiler Energieträger entsteht. Im Verkehrssektor sind das vor allem Benzin und Diesel. Die immer höhere Konzentration von CO₂ in der Atmosphäre beschleunigt den Treibhauseffekt maßgeblich: Die Temperatur auf der Erde steigt und verändert damit empfindliche Ökosysteme. Jetzt liegt es an uns allen: Die nötige CO₂-Einsparung, um den Klimawandel zu bremsen, können wir nur gemeinsam schaffen.
+
+Im DB Fernverkehr reisen Sie seit Anfang 2018 auf elektrifizierten Strecken in Deutschland, die aktuell über 98 % der Verkehrsleistung des DB Fernverkehr ausmachen, mit 100 Prozent Ökostrom. Bis 2040 wird die Deutsche Bahn insgesamt klimaneutral.
+
+ Wieso sind die genutzten Emissionsdaten nicht aktueller?
+----------
+
+Die Emissionsdaten für den Pkw entnehmen wir den Berichten des Umweltbundesamts. Diese werden am Ende des Vorjahres aktualisiert. Die Emissionsdaten des Fernverkehrs werden jedes Jahr im März mit dem Integrierten Bericht veröffentlicht. Daher können wir am Anfang des Jahres nur auf Daten des vorvergangenen Jahres zugreifen.
+
+Bei den Verkehrsleistungsdaten, also wie viele Personen wie viele Kilometer in den Fernverkehrszügen zurückgelegt haben, können wir dagegen auf die aktuellsten Daten zurückgreifen: Sie beziehen sich auf das Vorjahr.
+
+ Wieso werden die CO₂-Daten nur mit dem Pkw verglichen?
+----------
+
+Zugfahrten ersetzen häufiger Pkw-Fahrten als Flüge. Generell ist der Marktanteil von Pkw wesentlich höher als der des Flugzeugs. Um die Modellrechnung möglichst einfach und nachvollziehbar zu halten, bezieht sie sich nur auf den direkten Vergleich zum Pkw. Die zu erwartenden Einsparungen gegenüber einer Flugreise sind aber grundsätzlich noch deutlich größer.
+
+ Welcher Pkw-Vergleichswert wurde bei den Emissionen angesetzt?
+----------
+
+Der aktuelle Durchschnittwert für Emissionen von Pkw beziehen wir vom Umweltbundesamt: <https://www.umweltbundesamt.de/bild/vergleich-der-durchschnittlichen-emissionen-0>. Bei den durchschnittlichen Werten des Pkw ist die Auslastung von 1,4 Personen bereits eingerechnet. Der Wert beinhaltet alle Arten von Personenkraftwagen und Antrieben, also auch E-Autos. Das aktuelle Bezugsjahr wird jährlich angepasst.
+
+ Ab wann wurde die CO₂-Einsparung berechnet?
+----------
+
+Die Anzeige der CO₂-Sparuhr bezieht sich auf ein Kalenderjahr und läuft vom 1. Januar bis zum 31. Dezember eines jeden Jahres. Dann startet sie mit aktualisierten Daten neu.
+
+ Wird die Auslastung der Züge bei der CO₂-Einsparung berücksichtigt?
+----------
+
+Ja, die Auslastung der Züge wird beachtet. Die jährliche Verkehrsleistung, also wie viele Personen wie viele Kilometer in den Fernverkehrszügen zurückgelegt haben, bildet die Auslastung direkt ab. Bei der Berechnung der Emissionswerte wird eine durchschnittliche Auslastung von 46 % im Fernverkehr angenommen.
+
+Die CO₂-Sparuhr macht auch unterschiedliche Auslastungen zu unterschiedlichen Wochen- und Tageszeiten sichtbar: der CO₂-Wert steigt schneller oder langsamer, je nachdem wie viele Fahrgäste im jeweiligen Moment erfahrungsgemäß reisen.
+
+ Handelt es sich um Einsparungen der gesamten Deutschen Bahn oder nur des Fernverkehrs?
+----------
+
+Bei der Modellrechnung wird nur der Anteil des DB Fernverkehrs, also Reisen mit ICE-, IC und EC-Zügen, berücksichtigt. Die Einsparungen von DB Regio und DB Cargo sind nicht eingerechnet.
+
+ Ich habe mein Passwort vergessen. Wie kann ich es zurücksetzen?
+----------
+
+Besuchen Sie die [Login-Daten-Vergessen-Seite](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web). Geben Sie Ihre E-Mail-Adresse ein, mit der Sie sich registriert haben.
+
+Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihrer Login-Daten. Klicken Sie auf den Link und ändern Sie Ihr Passwort. Danach haben Sie wieder Zugang zu Ihrem DB Kundenkonto und können dort unter "Login und Sicherheit" Ihren Benutzernamen einsehen.
+
+Wurde Ihr Konto in den letzten 24 Monaten nicht genutzt, sind Ihre Kundendaten automatisch gelöscht worden. Melden Sie sich in diesem Fall bitte neu an.
+
+ Wieso muss ich meine E-Mail-Adresse bestätigen / verifizieren?
+----------
+
+Die Verifikation der E-Mail-Adresse dient der Sicherheit Ihres DB Kundenkontos und stellt sicher, dass sich nur Nutzer registrieren können, die tatsächlich Zugang zu der angegebenen E-Mail-Adresse besitzen. Diese eindeutige E-Mail-Adresse benötigen Sie für die Verwaltung Ihres Login-Accounts. Auch erhalten Sie Buchungsbestätigungen und PDF-Tickets an diese E-Mail-Adresse.
+
+ Ich habe mich neu registriert. Wie kann ich meine E-Mail-Adresse bestätigen bzw. verifizieren?
+----------
+
+1. Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort an.
+2. In Ihrem E-Mail-Postfach finden Sie eine E-Mail mit dem Betreff "Bestätigungscode".
+3. Übertragen Sie den 6-stelligen Bestätigungscode aus der E-Mail in das Eingabefeld auf der "E-Mail-Adresse bestätigen"-Seite auf bahn.de oder DB Navigator und schließen Sie die Anmeldung ab.
+
+Sollten Sie keine aktuelle E-Mail mit dem Betreff "Bestätigungscode" vorfinden, warten Sie noch einige Minuten, da sich der Versand etwas verzögern kann.
+
+Falls Sie keine E-Mail mit dem Bestätigungscode erhalten haben, sehen Sie im Spam-Ordner Ihres E-Mail-Postfachs nach. Fügen Sie die Absenderadresse zur Liste der akzeptierten Absender hinzu, um künftig zu vermeiden, dass die E-Mails der Deutschen Bahn als Spam klassifiziert werden.
+
+Falls Sie keine E-Mail erhalten haben, prüfen Sie, ob die im Login hinterlegte E-Mail-Adresse richtig ist. Sie können die E-Mail-Adresse korrigieren.
+
+Unter der Code-Eingabe können Sie einen neuen Bestätigungscode zu erzeugen. Nur der zuletzt erzeugte Code ist gültig.
+
+Falls der Bestätigungscode nicht mehr gültig ist, erzeugen Sie einen neuen Code.
+
+ Wie kann ich meine Zugangsdaten wie E-Mail-Adresse und Passwort für mein DB Kundenkonto ändern?
+----------
+
+Loggen Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihrem DB Kundenkonto ein.
+
+Sie können auf bahn.de unter "Kundenkonto verwalten" oder im DB Navigator im Bereich "Profil" Ihre E-Mail-Adresse oder Ihr Passwort im Bereich "[Login & Sicherheit](https://accounts.bahn.de/auth/realms/db/account?kc_locale=de&client_id=kf_web&cancel_uri=https%3A%2F%2Fwww.bahn.de%2Fbuchung%2Fkundenkonto%2Floginundsicherheit)" ganz einfach ändern.
+
+ Wie kann ich meine E-Mail-Adresse ändern?
+----------
+
+* Sie können Ihre E-Mail-Adresse in Ihrem DB Kundenkonto im Bereich "Login & Sicherheit" unter "Benutzername/E-Mail ändern" aktualisieren.
+* Diese E-Mail-Adresse wird sowohl für den Login als auch für Buchungen verwendet.
+* Wir kontaktieren Sie über diese E-Mail-Adresse und senden alle gebuchten Leistungen, wie zum Beispiel Tickets, an diese Adresse.
+
+Bitte beachten Sie, dass abweichende E-Mail-Adressen nicht mehr verwendet werden können. Ihr neuer Benutzername muss Ihrer gewünschten Kontakt-E-Mail-Adresse entsprechen. Eine Änderung der E-Mail-Adresse im Bereich "Persönliche Daten" ist nicht möglich. Falls Sie die gewünschte E-Mail-Adresse schon als Kontakt verwenden, können Sie diese auch als Benutzernamen festlegen.
+
+ Der Zugang zu meinem DB Kundenkonto wurde gesperrt, weil ich mehrfach meine Daten falsch eingegeben habe. Was jetzt?
+----------
+
+Die temporäre Sperrung von Accounts bei mehrfach fehlgeschlagenen Login-Versuchen ist eine sicherheitsbedingte Vorsichtsmaßnahme. Ihr Zugang wird nach ca. 30 Minuten automatisch wieder freigeschaltet. Eine manuelle Entsperrung durch unsere Mitarbeitenden ist nicht möglich.
+
+Wenn Ihr Zugang zwischenzeitlich noch nicht wieder freigeschaltet worden sein sollte, können wir Ihnen nur empfehlen, noch ein wenig zu warten.
+
+ Wie kann ich meine Daten bzw. mein DB Kundenkonto löschen?
+----------
+
+Sie können jederzeit Ihr DB Kundenkonto löschen – vorausgesetzt, es gibt keine offenen Aufträge (Buchungen und Tickets) oder laufende Verträge (bspw. BahnCard-Abonnement).
+
+Um Ihr DB Kundenkonto zu löschen, loggen Sie sich bitte mit Ihrem Benutzernamen und Passwort ein und folgen diesen Schritten:
+
+**DB Navigator**:
+
+1. Gehen Sie im Menüpunkt "Profil" auf "Login und Sicherheit".
+2. Wählen Sie die Option "DB Kundenkonto löschen".
+3. Folgen Sie den Anweisungen zur Löschung.
+
+**Bahn.de**:
+
+1. Gehen Sie im Bereich "DB Kundenkonto verwalten" auf "Persönliche Daten".
+2. Wählen Sie im unteren Bereich die Option "Konto löschen".
+3. Folgen Sie den Anweisungen zur Löschung.
+
+ Ich möchte mein Passwort zurücksetzen und habe keine E-Mail erhalten, was kann ich tun?
+----------
+
+Sie können Ihr Passwort zurücksetzen, indem wir Ihnen einen Link per E-Mail senden.
+Wenn Sie keine E-Mail erhalten haben, gehen Sie so vor:
+
+* Prüfen Sie den Posteingang aller E-Mail-Adressen, die Sie bei uns angegeben haben.
+* Kontrollieren Sie auch Ihren Spam-Ordner.
+* Legen Sie die Absenderadresse in Ihrem E-Mail-Konto als akzeptiert fest. So vermeiden Sie, dass unsere E-Mails im Spam-Ordner landen.
+
+Sie können die E-Mail zum Zurücksetzen Ihres Passworts erneut anfordern: [Passwort zurücksetzen](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web&tab_id=6HbYCXjvCRc)
 
  Wie lang muss mein Passwort sein und welche Zeichen sind erlaubt?
 ----------
@@ -8002,193 +5890,220 @@ Hier haben wir 2 Tipps für Sie:
 1. Damit Sie sich Ihr kompliziertes Passwort gut merken können, bauen Sie sich doch eine kleine Eselsbrücke. Überlegen Sie sich einen Satz. Von jedem Wort in diesem Satz nehmen Sie dann den ersten Buchstaben (behalten Sie dabei die Groß- und Kleinschreibung) und bauen Sie noch Sonderzeichen oder Zahlen mit ein. Aus einem „ein“ könnte also eine 1 werden, aus einem „und“ ein „&“ und so weiter.
 2. Wenn es Ihnen zu umständlich ist, sich ein solches Passwort für jede Webseite zu merken, dann nutzen Sie doch einen Passwort Manager. Das ist eine App bzw. Programm, mit dem Sie sichere Passwörter erstellen und verwalten. Die wichtigsten Funktionen gibt es bereits als kostenlose Software (z.B. [Keepass](https://keepass.info/)). Kommerzielle Anbietende bieten darüber hinaus zusätzliche Funktionen – einen guten Überblick geben bekannte Verbraucher- und Computermagazine wie z.B. die [Stiftung Warentest](https://www.test.de/Passwort-Manager-im-Test-5231532-0/) oder [heise.de](https://www.heise.de/download/specials/Passwort-Manager-Tipps-Tools-fuer-die-Passwort-Verwaltung-6033009).
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lang-muss-mein-passwort-sein-und-welche-zeichen-sind-erlaubt)
-
- Wie lange bleibe ich in einem Statuslevel?
+ Ich habe mich neu registriert. Wo kann ich meine persönlichen Daten/meine Adresse, Zahlungsdaten hinterlegen?
 ----------
 
-Ein Statuslevel ist für 12 Monate gültig. In diesem Zeitraum kommt es zu keinem Leveldowngrade, ein Levelupdate hingegen erfolgt jederzeit, mit dem Erreichen der Punkteschwelle, für das nächsthöhere Statuslevel.
+Bitte loggen Sie sich hierzu mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Persönliche Daten" oder "Zahlungsdaten" auf. Bitte folgen Sie dort den Anweisungen zur Ergänzung oder Änderung Ihrer Daten.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-bleibe-ich-in-einem-statuslevel)
-
- Wie lange dauert die Bearbeitung meines Fahrgastrechteantrags?
+ Ich habe eine BahnCard 25/50, aber kein DB Kundenkonto, um meine digitale BahnCard nutzen zu können.
 ----------
 
-In der Regel erhalten Sie innerhalb eines Monats per Post oder E-Mail eine Rückmeldung aus dem Servicecenter Fahrgastrechte. Die tatsächliche Bearbeitungsdauer kann je nach Komplexität des Falls und dem generellen Antragaufkommen im Servicecenter variieren.
+Dann können Sie sich mit Ihrer BahnCard 25/50 Nummer für ein Kundenkonto registrieren.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-bearbeitung-meines-fahrgastrechte-antrags)
+Einfach [hier registrieren](https://www.bahn.de/buchung/bahncard-register).
 
- Wie erhalte ich meine Prämien und wie lange dauert die Zustellung?
+Zur [Schritt-für-Schritt Anleitung](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+
+ Welche Anpassungen an den persönlichen Daten kann ich in meinem DB Kundenkonto auf bahn.de oder im DB Navigator selbst vornehmen?
 ----------
 
-Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum Herunterladen oder digital in der BahnBonus App.
+Die **Adresse**, das **Zahlungsmittel** und die **E-Mail-Adresse** können Sie selbst im DB Kundenkonto auf bahn.de oder im DB Navigator anpassen.
 
-* Die Zustellung per Post als Brief oder Paket erfolgt innerhalb von 10 Tagen - für den Versand entstehen keine Kosten.
-* Die Zustellung per E-Mail erfolgt am Tag der Bestellung - spätestens innerhalb 4 Tagen.
-* Sofortbuchungen können Sie direkt als Online-Ticket oder Handy-Ticket herunterladen.
-* Der Bordgastronomie-Gutschein erscheint direkt als Barcode in der BahnBonus App.
+Sie können Ihren **Nachnamen** selbst ändern. Nochmalige Änderungen des **Nachnamens** ist nur mit Vorlage eines Nachweises möglich.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-dauert-die-zustellung-meiner-praemie)
+Eine Änderung des **Vornamens** und **Geburtsdatums** ist ausschließlich mit Vorlage eines Nachweises möglich.
 
- Ab wann und wie lange kann ich den DB Geschenkgutschein einlösen?
+Bitte wenden Sie sich mit dem Änderungswunsch und einem Nachweis (Kopie Personalausweis) an folgende E-Mail-Adresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
+
+Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse.
+
+ Wie melde ich mich mit einem BahnID-Account an?
 ----------
 
-Die DB Geschenkgutscheine der 10 % Rabattaktion können ab dem 05.12.2025 eingelöst werden und sind 5 Jahre gültig.
+Nutzen Sie Ihr bestehendes bahn.de-Login nach der Zusammenführung Ihres BahnID-Kontos mit dem Kundenkonto auf bahn.de zur Anmeldung.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-einloesen)
+Überprüfen Sie, ob für Ihre E-Mail-Adresse bereits ein DB Kundenkonto existiert. Wenn nicht, legen Sie bitte ein neues DB Kundenkonto an.
 
- Wie lange sind DB Geschenkgutscheine gültig?
+ Wie kann ich mich aus dem DB Kundenkonto ausloggen?
 ----------
 
-DB Geschenkgutscheine sind ab dem Zeitpunkt des Kaufes fünf Jahre lang gültig.
+So können Sie sich ausloggen:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-ist-db-geschenkgutschein-gueltig)
+1. Klicken Sie rechts oben im Browser auf bahn.de auf Ihren Profilnamen.
+2. Dort finden Sie an letzter Stelle das Feld "Logout". Hier können Sie sich ausloggen.
 
- Wie lange kann ich mein Ticket mittels Sofortstornierung zurückgeben?
+ Wie aktiviere ich die 2-Faktor-Authentifizierung?
 ----------
 
-Sie können Ihr Digitales Ticket bis zu 180 Minuten, also 3 Stunden, nach Ihrer Buchung sofort wieder stornieren.
+Bitte loggen Sie sich mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Login & Sicherheit“ auf.
 
-Sie erhalten nach dem Sofortstorno den kompletten Zahlungsbetrag automatisch auf das von Ihnen verwendete Zahlungsmittel zurückgebucht. E-Coupons werden nicht erstattet.
+Hier können Sie jetzt Ihren Login mit einem zweiten Faktor zu schützen, wenn Sie das möchten. Das heißt, dass Sie zusätzlich zu Ihrem Passwort eine weitere Eingabe machen müssen, um sich als rechtmäßiger Kundenkonto-Inhaber auszuweisen.
 
-Die Sofortstornierung ist nur vor dem 1. Geltungstag Ihres Tickets möglich.
+Wählen Sie, ob Sie sich mittels einer "Authenticator App" oder einer SMS-Tan authentifizieren möchten. Um die "2-Faktor-Authentifizierung" zu aktivieren, folgen Sie dann den weiteren Anweisungen.
 
-* [Weitere Informationen zum Thema Stornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-kann-ich-mein-ticket-mittels-sofortstornierung-zurueckgeben)
-
- Wie lange kann ich meine Rechnung abrufen?
+ Mein Gerät ist nicht mehr sicher. Wie aktiviere ich den 2. Faktor wieder?
 ----------
 
-Sie können die Rechnung zu Ihrem Ticket bis zu 14 Monate nach Buchungsdatum auf unserer Website bahn.de oder über die App DB Navigator abrufen.
+Wenn Ihr Gerät nicht mehr sicher ist, **entfernen Sie es aus der Geräteliste**.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-kann-ich-rechnung-abrufen)
+1. Melden Sie sich dazu in Ihrem DB Kundenkonto an
+2. Im Bereich “Login & Sicherheit“ entfernen Sie im Menüpunkt “2-Faktor-Authentifizierung“ unter “Geräte verwalten“ das entsprechende Gerät.
 
- Wie lange lagert die DB gefundene Gegenstände?
+Ein Gerät ist **nicht mehr sicher,** wenn es **verloren** gegangen ist, **gestohlen** wurde oder aus anderen Gründen (z.B. Verdacht auf Malware) unsicher wurde.
+
+Bei **Verlust** Ihres Geräts sollten Sie unbedingt das **Passwort Ihres DB Kundenkontos ändern**, um dieses zu schützen. Nach Änderung des Passwortes werden Sie automatisch aus allen DB Anwendungen (z.B. bahn.de und die App DB Navigator) ausgeloggt. Fremde können so nicht mehr auf Ihr DB Kundenkonto zugreifen.
+
+ Muss ich mich immer mit einem 2. Faktor authentifizieren?
 ----------
 
-* Wird beim Fundservice im Bahnhof ein Gegenstand abgegeben, nehmen wir ihn samt Beschreibung in eine Datenbank auf und lagern ihn **7 Tage** am Bahnhof in der Fundstelle ein. Übrigens: Wenn der Gegenstand nach dem Ende der Zugfahrt von unseren Mitarbeitern im Zug entdeckt wurde, wandert das Fundstück in der Regel in die Fundstelle des Bahnhofs, in dem die Fahrt endete.
-* Werden die Gegenstände **nach 7 Tagen** nicht vor Ort abgeholt, bringen wir sie in das zentrale Fundbüro in Wuppertal. Dort prüfen wir die Fundsachen erneut und überprüfen noch einmal in der Datenbank, ob jemand nach dem Gegenstand sucht. Hier werden die Fundsachen entsprechend ihrer Lagerfrist aufbewahrt.
-* Nach Ablauf der Lagerzeit werden die Fundsachen entsorgt oder zur Auktion freigegeben.
+Nein, wenn Sie die 2-Faktor-Authentifizierung in Ihrem DB Kundenkonto aktiviert haben und regelmäßig mit einem vertrauenswürdigen Gerät wie Ihrem Computer oder Smartphone auf z.B. bahn.de oder die App DB Navigator zugreifen, können Sie die Abfrage des 2. Faktors beim Login überspringen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-lagern-gegenstaende)
+**So speichern Sie ein vertrauenswürdiges Gerät:**
+Melden Sie sich mit dem 2. Faktor an und wählen Sie “Auf diesem Gerät nicht mehr nachfragen“. Damit wird das Gerät als vertrauenswürdig gespeichert.
 
- Wie lange sind Gutscheine gültig?
+Folgende Geräte sind nicht vertrauenswürdig und sollten immer mit einer Abfrage des 2.-Faktors genutzt werden:
+
+* öffentliche Geräte, wie z.B. Computer in Bibliotheken, Hotels oder Internetcafés
+* Geräte, die von mehreren Personen genutzt werden
+* Wenn Sie unsicher sind, ob das verwendete Gerät sicher ist (z. B. bei Verdacht auf Malware)
+
+ Wozu brauche ich eine 2-Faktor-Authentifizierung?
 ----------
 
-* DB Geschenkgutschein: 5 Jahre gültig
-* DB Geschenkkarte: 5 Jahre gültig
-* Stornogutschein: 3 Jahre gültig
-* Fahrgastrechtegutschein: 3 Jahre gültig
-* Kulanzgutschein: 1 Jahr gültig
-* Restwertgutschein: Gültigkeit analog des ursprünglichen Gutscheins
-* Aktionsgutscheine: Gültigkeit je nach Aktion
+Die 2-Faktor-Authentifizierung schützt Ihre Login und Ihre Kundendaten vor unerlaubten Zugriffen. Insbesondere das Phishing Ihrer Login-Daten wird durch die 2-Faktor-Authentifizierung unterbunden.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-sind-gutscheine-gueltig)
+Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre DB Kundenkonto-Daten zu gewährleisten. Es ist aber keine Pflicht.
 
- Wie löse ich bei Mehrfahrtenkarten mein zuvor gekauftes Guthaben ein?
+ Muss ich mein DB Kundenkonto zwingend mit einem zweiten Authentifizierungsfaktor schützen?
 ----------
 
-1. Wählen Sie eine Verbindung innerhalb des entsprechenden Verbunds.
-2. Klicken Sie in der Angebotsauswahl beim passenden Produkt auf "Entwerten" (zum Beispiel 10er Ticket "entwerten").
-3. Nach der Auswahl prüft das System Ihr Guthaben.
-4. Bei erfolgreicher Prüfung werden weitere Streifen bzw. Fahrten entwertet.
+Die 2-Faktor-Authentifizierung ist optional. Sie aktivieren diese Funktion nur, wenn Sie das möchten.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-loese-ich-bei-mehrfahrtenkarten-mein-zuvor-gekauftes-guthaben-ein)
+Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre DB Kundenkonto-Daten zu gewährleisten.
 
- Wie löse ich die Geschenkkarte auf bahn.de ein?
+ Wie kann ich den 2. Faktor deaktivieren/ ausschalten?
 ----------
 
-* **Reise suchen**
-   Tragen Sie in die Eingabefelder der Verbindungssuche Ihre Reisedaten ein. Dann klicken Sie auf "Suchen".
-* Entscheiden Sie sich aus den angezeigten Verbindungen für eine Hinfahrt. Wenn Sie gleich auch eine Rückfahrt mitbuchen möchten, klicken Sie auf "Rückfahrt hinzufügen" und suchen Sie sich das passende Angebot aus. Klicken Sie dann auf "Weiter".
-* **Einloggen**
-   Loggen Sie sich mit Ihren "Meine Bahn"-Kontodaten ein oder registrieren Sie sich für ein DB Kundenkonto. Sie müssen angemeldet sein, um eine Geschenkkarte einlösen zu können.
-   Jetzt können Sie z.B. auch noch einen Sitzplatz reservieren oder angeben, ob Sie das Ticket für jemand anderen kaufen.
-* **Zahlung**
-   Suchen Sie sich eine Zahlungsweise aus. **Bitte beachten Sie**: Die Zahlungsart "Lastschrift" steht für die Einlösung von Geschenkkarten leider nicht zur Verfügung.
-* **Code eingeben**
-   Wählen Sie unter "Sollen wir noch etwas berücksichtigen?" die Option **"Gutschein"**. Es klappt ein Eingabefeld aus; hier tragen Sie Ihren **7-stelligen Code** ein. Klicken Sie dann den Button "Anwenden".
-* **Buchung abschließen**
-   Der Wert von 30 Euro müsste jetzt bereits mit dem Ticketpreis verrechnet sein. Überprüfen Sie noch einmal alle Angaben und schließen Sie dann Ihre Buchung ab.
+1. Loggen Sie sich mit Ihrem Benutzernamen und Passwort ein.
+2. Rufen Sie den Bereich "Login & Sicherheit“ auf.
+3. Nun können Sie die zuvor von Ihnen aktivierte 2-Faktor-Authentifzierung deaktivieren. Folgen Sie einfach den Anweisungen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-loese-ich-die-geschenkkarte-auf-bahn-de-ein)
-
- Wie melde ich mich im Aboportal an?
+ Was kann ich tun, wenn ich den Code zur 2-Faktor-Authentifizierung nicht generieren oder empfangen kann?
 ----------
 
-Auf abo.bahn.de melden Sie sich mit dem Benutzernamen und Passwort Ihres Bahn-Accounts an. Hier können Sie auch einen neuen Bahn-Account anlegen.
+Falls Sie Ersatzcodes für die 2-Faktor-Authentifizierung generiert haben, können Sie beim Login stattdessen einen Ersatzcode verwenden. Jeder Ersatzcode ist nur einmal gültig und muss sicher aufbewahrt werden.
 
-Wenn bereits ein Abo verknüpft ist, sehen Sie dieses auf der Übersichtsseite des Aboportals.
+Falls Sie keine Ersatzcodes generiert haben oder keinen Zugriff auf Ihre Ersatzcodes haben, müssen Sie sich mit einer neuen E-Mail-Adresse ein neues DB Kundenkonto anlegen.
 
-Ist noch kein Abo verknüpft oder möchten Sie über "Abo hinzufügen" einen weiteren Abovertrag hinzufügen, gehen Sie folgendermaßen vor:
+Haben Sie keinen Zugriff mehr auf Ihren 2. Faktor, können wir diesen leider nicht zurücksetzen.
 
-* Wählen den Tarif Ihres Abos (ein Verbundgebiet oder DB). Diesen finden Sie auch in Ihrer Aktivierungsmail oder auf dem Handy-Ticket.
-* Füllen Sie die Felder aus.
+Ein DB Kundenkonto wird automatisch gelöscht, wenn über eine gewisse Zeit keine Aktivität erfolgt ist. Eine manuelle Löschung durch den Kundenservice ist nicht möglich.
 
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-* [Informationen zur Verwaltung eines Abos für eine andere Person](https://www.bahn.de/faq/abovertrag-fuer-andere-verwalten)
+Tipp: Wenn Sie dringend schnell buchen müssen, nutzen Sie am besten die "Buchung ohne Anmeldung".
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-im-aboportal-an)
-
- Wie melde ich mich mit einem Passkey an?
+ Wie kann ich meine Handy-Nummer für die 2-Faktor-Authentifizierung ändern?
 ----------
 
-* Wählen Sie beim Login "Login mit Passkey" aus.
-* Bestätigen Sie die Anmeldung auf Ihrem Gerät - zum Beispiel per Fingerabdruck, Gesichtserkennung oder PIN.
+Loggen Sie sich mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Login & Sicherheit“ auf. Hier können Sie die Mobilfunknummer ändern, die Sie für die 2-Faktor-Authentifizierung mittels SMS-Tan-Verfahren hinterlegt haben.
 
-Sie sind eingeloggt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-mit-passkey-an)
-
- Wie füge ich mein Abo im DB Navigator hinzu?
+ Brauche ich eine App, um die 2-Faktor-Authentifizierung nutzen zu können?
 ----------
 
-Falls Sie das Abo im DB Navigator für sich selbst gekauft haben, wird es direkt nach der Bestellung unter "Reisen" als neues Handy-Ticket hinzugefügt.​
+Sie brauchen nur dann eine zusätzliche "Authenticator-App", wenn Sie die 2-Faktor-Authentifizierung mit dem entsprechenden Verfahren aktiviert haben.
 
-Ansonsten können Sie es folgendermaßen hinzufügen:​
+Wenn Sie das Verfahren *SMS-Tan* wählen, ist keine zusätzliche Authenticator-App notwendig.
 
-1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
-2. Wechseln Sie zum Bereich "Reisen", tippen Sie oben auf das Plus-Icon (+) und geben Sie Ihre Abonummer und Ihren Nachnamen ein. Ein Login ist nicht erforderlich.
-   Wenn Sie die Fehlermeldung "Es konnte keine Übereinstimmung gefunden werden." erhalten, prüfen Sie bitte, ob Sie Ihre Abonummer und Ihren Nachnamen exakt wie in Ihrer Aktivierungsmail eingegeben haben.​
-
-Sie finden Ihre Abonummer oder die Mail nicht, aber sind angemeldet? Gehen Sie im DB Navigator auf "Profil" und "Abo verwalten". Wählen Sie das Abo aus und nutzen Sie die Funktion "Ticket im DB Navigator", um es aufzurufen.
-
-* [Weitere Tipps zum Abo als Handy-Ticket](https://www.bahn.de/faq/handyticket-zufuegen)
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
-* [Über die App](https://www.bahn.de/service/mobile/db-navigator)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-den-db-navigator-zur-anzeige-meines-db-abos)
-
- Wie nutze ich meine Statusvorteile?
+ Was, wenn bei der Einrichtung der 2-Faktor-Authentifizierung mit SMS-Tan meine Vorwahl nicht akzeptiert wird?
 ----------
 
-Alle Statusvorteile sind digital und einfach in der BahnBonus App einlösbar. Zum Beispiel in dem Sie Ihr Handy zum Abscannen des Codes vorzeigen.
+In diesem Fall wählen Sie die 2-Faktor-Authentifizierung via Authentifizierungs-App. Hierzu benötigen Sie eine zusätzliche Authentifizierungs-App, über die Sie das Einmalpasswort zur Authentifizierung generieren können.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-meine-statusvorteile)
-
- Wie oft kann ich den Rabatt für die Bordgastronomie nutzen?
+ Was sind Ersatzcodes für die 2-Faktor-Authentifizierung und wie verwende ich sie?
 ----------
 
-Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie können alle im Statuslevel Platin bis zu 4-mal täglich nutzen.
+Ersatzcodes sind Sicherheitscodes für den Notfall. Sie können einen Ersatzcode nutzen, wenn Sie keinen Zugriff auf Ihren zweiten Authentifizierungsfaktor haben, zum Beispiel weil Sie Ihr Mobilgerät verloren haben oder Ihre Mobilfunknummer geändert wurde.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-oft-kann-ich-den-rabatt-fuer-die-bordgastronomie-nutzen)
+So verwenden Sie einen Ersatzcode:
 
- Wie kann ich meinen Passkey löschen oder zurücksetzen?
+1. Melden Sie sich mit Benutzernamen und Passwort an.
+2. Wählen Sie bei der Zwei-Schritt-Verifizierung die Option "Kein Zugang zum zweiten Faktor?" aus.
+3. Für die Wiederherstellung des Zugriffs wählen Sie die Option "Ersatzcode".
+4. Geben Sie den Ersatzcode ein. Jeder Ersatzcode ist nur einmal gültig.
+
+Sie können Ersatzcodes nutzen, wenn Sie keine Codes per SMS oder App erhalten. Haben Sie keinen Ersatzcode, können Sie den Zugang zu Ihrem DB Kundenkonto nicht wiederherstellen
+
+Achten Sie darauf:
+
+* Bewahren Sie die Ersatzcodes sicher auf.
+* Die Codes sind nach dem Abmelden nicht mehr im Kundenkonto sichtbar.
+* Sie können jederzeit neue Ersatzcodes unter "Login & Sicherheit" generieren. Alte Ersatzcodes werden dann ungültig.
+
+ Wie kann ich (neue) Ersatzcodes für die 2-Faktor-Authentifizierung generieren?
 ----------
 
-Sie können Passkeys in Ihrem DB Kundenkonto im Account Manager unter "Login & Sicherheit" für jedes Gerät verwalten und löschen.
+So geht’s auf bahn.de:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-passskey-loeschen-zuruecksetzen)
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Öffnen Sie im Menüpunkt "Login & Sicherheit" den Account-Manager.
+3. Klicken Sie auf "2-Faktor-Authentifizierung" und dann auf "Ersatzcodes aktivieren".
 
- Wie richte ich die Benachrichtigungen zur Reise für meine Pendelstrecke ein?
+So geht’s im DB Navigator:
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Tippen Sie im Menübereich "Profil" unter "Login & Sicherheit" auf "Mehr".
+3. Wählen Sie "2-Faktor-Authentifizierung" aus und tippen Sie dann auf "Ersatzcodes aktivieren".
+
+Sichern Sie Ihre Ersatzcodes anschließend, indem Sie sie ausdrucken, herunterladen oder kopieren und an einem sicheren Ort aufbewahren.
+
+Aus Sicherheitsgründen sind die generierten Ersatzcodes nach dem Abmelden nicht mehr in Ihrem Kundenkonto verfügbar.
+
+Auch wenn Sie Ihre Ersatzcodes verloren haben, können Sie so neue generieren. Ihre alten Ersatzcodes werden dann ungültig.
+
+ Was sind Apps und Dienste?
 ----------
 
-Loggen Sie sich in Ihrem DB Kundenkonto ein. Suchen Sie anschließend nach der Verbindung, die Sie regelmäßig nutzen möchten. Klicken Sie dann in den Verbindungsdetails auf die 3 Punkte oben rechts und anschließend auf "Wiederholende Reise einstellen". Richten Sie ein, welche Benachrichtigungen Sie erhalten möchten und an welchen Tagen diese zugestellt werden sollen. Außerdem können Sie Ihrer Verbindung einen selbst gewählten Namen geben (z. B. "Zur Arbeit", "Zur Familie").
+Ihr DB Kundenkonto bietet Ihnen einen Zugang zu [bahn.de](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fbahn.de%2F&data=05%7C02%7CAnja.Iwanowski%40deutschebahn.com%7Cb450f316fc8f4e74310a08ddb3ee9f6a%7Ca1a72d9c49e64f6d9af65aafa1183bfd%7C0%7C0%7C638864559657760615%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rxKDQ%2BwGkuCUh0kPUgGkuNmkuSuHckpn8vAb1%2Ba3tm4%3D&reserved=0) und DB Navigator, aber auch weiteren Apps und digitalen Diensten.
 
-Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "Wiederholende Reisen". Hier können Sie die Benachrichtigungen auch pausieren, wenn Sie vorrübergehend keine Benachrichtigungen erhalten möchten. Wenn Sie auf eine alternative Verbindung ausweichen, pausiert die bereits eingerichtete "wiederholende Reise" für diesen Tag.
+Sie können Apps und digitale Dienste mit Ihrem Konto verbinden:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-richte-ich-die-benachrichtigungen-zur-reise-fuer-meine-pendelstrecke-ein)
+1. Öffnen Sie die gewünschte App.
+2. Melden Sie sich mit Ihrem DB Kundenkonto an.
+
+So prüfen Sie, welche digitalen Dienste mit Ihrem DB Kundenkonto verbunden sind:
+
+1. Öffnen Sie den Bereich "Persönliche Daten" in Ihrem DB Kundenkonto.
+2. Wählen Sie "Apps und Dienste" oder "digitale Dienste", um die neue Anwendung in der Übersicht zu sehen.
+
+ Warum wird mir unter Apps und Dienste nichts angezeigt?
+----------
+
+Apps und Dienste werden nur dann angezeigt, wenn Sie Ihre Daten für einen genutzten Dienst freigegeben haben. In der Übersicht können Sie einsehen, welche Daten mit diesen Diensten geteilt werden. Wenn momentan keine Dienste angezeigt werden, dann haben Sie in Ihrem DB Kundenkonto noch keinen solchen Dienst eingerichtet.
+
+ Wie beende ich das Teilen meiner persönlichen Daten mit Apps und Diensten im DB Kundenkonto?
+----------
+
+Melden Sie sich in Ihrem DB Kundenkonto an.
+
+1. Gehen Sie zu "Persönliche Daten".
+2. Wählen Sie "Apps und Dienste verwalten".
+3. Wählen Sie den betreffenden Dienst aus und folgen Sie den Schritten zur Beendigung der Datenfreigabe.
+
+Stellen Sie sicher, dass keine laufenden Verträge das Löschen verhindern.
+
+ Was ist ein Passkey?
+----------
+
+Ein Passkey ist eine moderne und sichere Anmeldemethode. Sie ersetzt das Passwort. Sie melden sich mit Ihrem Gerät, zum Beispiel Smartphone oder Laptop, in Ihrem DB Kundenkonto an. Dafür nutzen Sie biometrische Daten wie Fingerabdruck oder Gesichtserkennung. Alternativ können Sie auch eine PIN verwenden
+
+ Was ist der Vorteil von Passkeys?
+----------
+
+Mit Passkeys melden Sie sich einfach und sicher an. Sie nutzen Ihren Fingerabdruck, Ihre Gesichtserkennung oder Ihre Geräte-PIN statt eines Passworts. Geht ein Gerät verloren, bleibt Ihr DB Kundenkonto sicher und Sie können den Zugang wiederherstellen. Sie können sich auch weiterhin mit Ihrer E-Mail-Adresse und Ihrem Passwort anmelden.
+
+ Auf welchen Geräten kann ich Passkeys nutzen?
+----------
+
+Sie können Passkeys auf Geräten mit aktuellen Versionen der meisten Browser verwenden: Chrome, Safari, Edge und Firefox. Passkeys werden unterstützt von iOS, MacOS, Android und Windows.
 
  Wie richte ich einen Passkey ein?
 ----------
@@ -8199,132 +6114,269 @@ Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "
 
 Ihr Gerät führt Sie durch die weiteren Schritte zur Einrichtung.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-richte-ich-passkey-ein)
-
- Wie schütze ich mich vor Betrug beim Online-Kauf?
+ Wie melde ich mich mit einem Passkey an?
 ----------
 
-* Werden Sie wachsam, wenn Ihnen vermeintliche "Schnäppchen" über Drittanbieter, z.B. über Mitfahrer-Portale, angeboten werden.
-* Kaufen Sie Ihre Fahrkarte nur bei bahn.de oder einem vertrauenswürdigen etablierten Partnerportal mit integrierter Buchung.
-* Kaufen Sie nur dort, wo Sie selbst den kompletten Buchungsprozess durchlaufen und achten Sie dabei auf Sicherheitsstandards und verschlüsselte Übertragung (SSL).
-* Lassen Sie eine Buchung für Dritte online nur durch eine Ihnen bekannte Person durchführen.
-* Geben Sie Ihre sensiblen persönlichen Daten wie Ausweis- oder Kreditkartennummer nicht an fremde Personen per E-Mail weiter!
+* Wählen Sie beim Login "Login mit Passkey" aus.
+* Bestätigen Sie die Anmeldung auf Ihrem Gerät - zum Beispiel per Fingerabdruck, Gesichtserkennung oder PIN.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-schuetze-ich-mich-vor-betrug-beim-online-kauf)
+Sie sind eingeloggt.
 
- Wie sicher ist das WLAN-Netzwerk im Zug?
+ Kann ich Passkeys in meinem Passwortmanager speichern?
 ----------
 
-Beim WLAN-Netz im Zug handelt es sich um ein öffentliches WLAN-Netz, ähnlich bspw. einem öffentlichen WLAN-Angebot in Hotels oder Cafés. Wie bei jedem öffentlichen WLAN-Netz ist daher nicht garantiert, dass Kommunikationsverbindungen nicht abgefangen werden können.
+Ja. Viele moderne Passwortmanager unterstützen Passkeys und synchronisieren sie zwischen Ihren Geräten.
 
-Unser WLAN-System verfügt über Sicherheitstechnologien (bspw. die sogenannte Client Isolation, die den Datenzugriff zwischen den einzelnen User-Geräten im WLAN unterbindet), welche die Datenübertragung sicherer machen als in ähnlichen WLAN-Netzen, die in Cafés oder anderen öffentlichen Bereichen zu finden sind.
-
-Um eine sichere Übertragung zu gewährleisten, gerade bei sensiblen Daten, empfehlen wir Ihnen, eine VPN-Verbindung zu nutzen und ausschließlich https-Seiten aufzurufen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-sicher-ist-das-wlan-netzwerk-im-zug)
-
- Wie storniere ich das Digitale Ticket oder tausche es um?
+ Kann ich mich weiterhin mit meiner E-Mail-Adresse und meinem Passwort anmelden?
 ----------
 
-Digitale Tickets, die Sie im DB Reisezentrum erworben haben, können Sie auch **nur dort** stornieren oder umtauschen. Beachten Sie die tariflichen Bestimmungen des Angebots.
+Ja. Sie können sich jederzeit mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihr DB Kundenkonto einloggen.
 
-* [Details zu Umtausch und Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-storniere-ich-das-digitale-ticket-oder-tausche-es-um-wenn-ich-es-im-reisezentrum-gekauft-habe)
-
- Wie tausche ich ein Digitales Ticket um?
+ Wie kann ich meinen Passkey löschen oder zurücksetzen?
 ----------
 
-Der Umtausch Digitaler Tickets ist nicht möglich. Sie können Ihre Tickets stornieren und eine neue Reise buchen. In den ersten 3 Stunden nach der Buchung (sofern die Buchung vor dem ersten Geltungstag liegt) bieten wir Ihnen die Möglichkeit einer kostenfreien "Sofortstornierung" an - unabhängig von den tariflichen Bedingungen.
+Sie können Passkeys in Ihrem DB Kundenkonto im Account Manager unter "Login & Sicherheit" für jedes Gerät verwalten und löschen.
 
-* [Details zu Umtausch und Erstattung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
-* [FAQ zur Sofortstornierung](https://www.bahn.de/faq/wie-kann-ich-eine-sofortstornierung-vornehmen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-tausche-ich-ein-digitales-ticket-um)
-
- Wie und mit welchen Geräten können die Filme & Serien im ICE Portal genutzt werden?
+ Was tun, wenn die Anmeldung mit Passkey nicht funktioniert?
 ----------
 
-Das Film- & Serienangebot kann mit gängigen mobilen Endgeräten (Laptop, Smartphones und Tablet unterschiedlichster Betriebssysteme) genutzt werden. Dazu verbinden Sie sich mit dem kostenlosen Bord-WLAN (WIFIonICE), öffnen das ICE Portal und klicken auf „Filme & Serien“. Alternativ geben Sie direkt „[https://filme-serien.iceportal.de](https://filme-serien.iceportal.de/)“ in Ihren Browser ein. Die Inhalte werden direkt in Ihrem Browser abgespielt. Wir empfehlen den Google Chrome Browser.
+* Prüfen Sie, ob Ihr Gerät und Ihr Browser Passkeys unterstützen und ob Sie mit Ihrer Cloud verbunden sind.
+* Wenn das nicht klappt, können Sie sich wie gewohnt mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihr DB Kundenkonto einloggen.
 
-Bitte beachten Sie, dass Apple Geräte in der Regel erst ab dem iPhone 6s, dem iPhone SE (1ste Generation) und iPad (5te Generation) den VoD Service mit dem Standard Browser „Safari“ unterstützen. Ältere Apple Geräte sind aus Hardwaregründen nicht in der Lage Video Inhalte mit Safari abzuspielen.
-Bei diesen Geräten können Sie jedoch alternativ mit dem Google Chrome Browser Filme genießen. Es sind bspw.:
-
-* MacBook Pro 2015 / Catalina 10.15.6
-* MacBook Pro 2013 / Big Sur 11.2.3
-* MacBook Air 2013
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-und-mit-welchen-geraeten-koennen-die-filme-serien-im-ice-portal-genutzt-werden)
-
- Wie und wo bekomme ich auf bahn.de eine Rechnung zu meinem Ticket?
+ Was passiert mit meinen Passkey, wenn mein Gerät verloren geht oder gestohlen wird?
 ----------
 
-1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Gehen Sie zum Bereich "Meine Reisen".
-3. Wählen Sie die entsprechende Reise aus.
-4. Klicken Sie auf den Button "Rechnung erstellen" im unteren Seitenbereich.
-5. Geben Sie die Adressdaten ein, auf die die Rechnung ausgestellt werden soll.
+Wenn Sie Ihre Geräte mit Ihrer Cloud synchronisieren, haben Sie weiterhin Zugriff auf Ihre Passkeys. Sie können verlorene Geräte jederzeit im Account Manager unter "Login & Sicherheit" aus Ihrem DB Kundenkonto entfernen.
 
-**Hinweise:**
-
-* Sie können Rechnungen sowohl für aktuelle als auch für vergangene Reisen herunterladen.
-* Die Rechnungsadresse kann nur einmalig eingegeben werden und kann nachträglich nicht geändert werden, auch nicht durch den Kundenservice.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-und-wo-bekomme-ich-auf-bahn-de-eine-rechnung-zu-meinem-ticket)
-
- Wie und wo bekomme ich in der App DB Navigator eine Rechnung zu meinem Ticket?
+ Der Komfort Check-in ist nicht verfügbar. Woran kann das liegen?
 ----------
 
-1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Gehen Sie im unteren Bildschirmbereich auf "Reisen".
-3. Wählen Sie die entsprechende Reise aus.
-4. Tippen Sie auf "Weitere Aktionen".
-5. Klicken Sie auf "Rechnung öffnen".
-6. Geben Sie die Adressdaten ein, auf die die Rechnung ausgestellt werden soll.
+Der Komfort Check-in kann in bestimmten Situationen nicht verfügbar sein. Überprüfen Sie die folgenden Punkte:
 
-**Hinweise:**
+* **DB Navigator**: Der Komfort Check-in steht Ihnen im DB Navigator zur Verfügung.
+* **bahn.de**: Nutzen Sie den Link [bahn.de/jetzt-einchecken](https://bahn.de/jetzt-einchecken) für den Komfort Check-in.
+* **ICE Portal**: Der Komfort Check-in ist auch im ICE Portal möglich. Verbinden Sie sich mit dem WLAN WIFIonICE oder nutzen Sie Ihre mobile Verbindung und öffnen den Link [ICEportal.de](https://iceportal.de/). Der Komfort Check-in im ICE Portal ist auch ohne WLAN-Verbindung erreichbar.
 
-* Sie können Rechnungen sowohl für aktuelle als auch für vergangene Reisen herunterladen.
-* Die Rechnungsadresse kann nur einmalig eingegeben werden und kann nachträglich nicht geändert werden, auch nicht durch den Kundenservice.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-und-wo-bekomme-ich-im-dbnavigator-eine-rechnung-zu-meinem-ticket)
-
- Wie viele DB Geschenkkarten kann ich bei einem Buchungsvorgang einlösen?
+ Was ist der Komfort Check-in?
 ----------
 
-Pro Buchung sind maximal 10 DB Geschenkkarten gleichzeitig einlösbar.
+Mit dem Komfort Check-in der Deutschen Bahn können Sie sich selbst einchecken. Das bedeutet, dass Sie Ihr Ticket selbständig digital entwerten und dem Zugpersonal Ihren Sitzplatz mitteilen. Dadurch werden Sie in der Regel nicht mehr kontrolliert und können sich entspannt zurücklehnen. Zudem wird in den meisten Zügen der Check-in auf der Reservierungsanzeige angezeigt. Damit ist Ihr Sitzplatz auch bei einer kurzen Abwesenheit für andere Reisende sichtbar belegt.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viele-db-geschenkkarten-kann-ich-bei-einem-buchungsvorgang-einloesen)
-
- Wie viele DB Geschenkgutscheine kann ich bei einem Buchungsvorgang einlösen?
+ Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?
 ----------
 
-Pro Buchung sind maximal 10 DB Geschenkgutscheine gleichzeitig einlösbar. Abweichend hiervon ist am DB Fahrkartenautomaten die Anzahl nicht begrenzt. Es können aber nur Gutscheine mit einem maximalen Nennwert von 50 EUR und einem maximalen Gesamtwert von 150 EUR eingelöst werden.
+Für den Komfort Check-in benötigen Sie grundsätzlich ein mobiles Endgerät, am besten die aktuelle Version der DB Navigator App und eine Check-in fähige Reise (u.a. gültiges Ticket, eingenommener Sitzplatz und freigeschaltete Zugverbindung).
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viele-geschenkgutscheine-pro-buchungsvorgang)
+Details zu den Voraussetzungen können Sie der folgenden Aufstellung entnehmen.
 
- Wie wähle ich im ICE Portal meinen Ausstieg aus dem Zug?
+1) mobiles Endgerät mit einer Internetverbindung (z.B. ein Smartphone oder Laptop mit mobilem Datentarif)
+
+2) aktuelle Version des DB Navigators - alternativ Zugriff auf das ICE Portal oder die Website [www.bahn.de/jetzt-einchecken](https://int.bahn.de/en/buchung/jetzt-einchecken)
+
+3) zugelassenes, digitales DB-Ticket (z.B. erkennbar am Komfort Check-in-Button im Reiseplan Ihrer Verbindung)
+
+* Flex-, Spar- oder Super Sparpreis
+* mit und ohne BahnCard Rabatt
+* bis zu 5 Reisende (keine Hunde oder Fahrräder)
+* mit oder ohne Reservierung
+
+4) zugelassene Reisebedingungen
+
+* freigeschaltete Zugverbindung (erkennbar am Zusatz „Komfort Check-in verfügbar - wenn möglich bitte einchecken“ unter weitere Informationen im Reiseplan Ihrer Verbindung)
+* eingenommener, Check-in fähiger Sitzplatz
+* richtiger Zeitpunkt (Freischaltung erfolgt kurz vor Abfahrt des Zuges und es darf noch keine Kontrolle durch das Zugpersonal erfolgt sein)
+* Fahrt nach Reiseplan laut Ticket
+
+ Habe ich ein Anrecht auf einen Sitzplatz, auf den ich mich eingecheckt habe?
 ----------
 
-Über den „Reiseplaner" in der schwarzen Zuglaufleiste auf der Startseite öffnet sich ein Fenster, welches den Fahrtverlauf der aktuellen Verbindungen darstellt. Im Fahrtverlauf lässt sich nun im nächsten Schritt ein Bahnhof als Ausstiegs- bzw. Umsteigebahnhof auswählen, zusätzlich können Sie sich Ihre Anschlüsse am gewählten Bahnhof einsehen.
+Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-waehle-ich-meinen-ausstieg-aus-dem-zug)
+* **Mit Reservierung:** Sie haben Anspruch auf Ihren reservierten Sitzplatz, wenn Sie ihn innerhalb von 15 Minuten nach Abfahrt einnehmen. Nach Ablauf dieser Zeit verfällt der Anspruch, und der Platz kann von anderen Reisenden genutzt werden.
 
- Wie werden im ICE Portal Film- & Serieninhalte während der Bahnfahrt gestreamt?
+* **Ohne Reservierung:** Liegt für einen Sitzplatz keine Reservierung vor, haben Sie Anrecht auf einen Sitzplatz, wenn Sie als erstes auf dem freien Sitzplatz sitzen. Checken Sie sich bitte deshalb erst ein, wenn Sie Ihren Sitzplatz tatsächlich eingenommen haben.
+
+ Wie funktioniert der Komfort Check-in im DB Navigator?
 ----------
 
-Die Inhalte sind auf einem im ICE installierten Server abgelegt und werden über eine bahninterne WLAN-Verbindung gestreamt – nicht über das Internet. Sie können, ohne die Installation einer zusätzlichen App, alle Inhalte über herkömmliche Web-Browser auf Ihrem Endgerät ansehen. Sie benötigen keine zusätzliche App zum Streamen.
+**1) Sitzplatz einnehmen**
 
-**Hinweis:** Durch die Nutzung des Film- & Serienangebots wird Ihr persönliches Datenvolumen nicht verbraucht.
+* Setzen Sie sich auf den von Ihnen reservierten oder einen frei verfügbaren Sitzplatz.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-werden-film-serieninhalte-waehrend-der-bahnfahrt-gestreamt)
+**2) Check-in durchführen**
 
- Wie werden Sie bei Mobilitätshilfen entschädigt
+* Öffnen Sie in der DB Navigator App die Kategorie „Reisen“ und wählen Sie Ihr aktuelles Ticket (nicht die ggf. separat gebuchte Reservierung) aus.
+* Klicken Sie auf den Reiter „Reiseplan“ und weiter auf den Button „Komfort Check-in“ Ihrer aktuellen Verbindung.
+* Bestätigen Sie Ihren Sitzplatz (mit Reservierung) oder geben diesen manuell ein (ohne Reservierung) und klicken Sie auf „jetzt einchecken“.
+
+**3) Bestätigung**
+
+* Es erscheint ein grüner Bestätigungsbildschirm, d.h. Ihr Ticket wurde digital entwertet und muss in der Regel nicht mehr vorgezeigt werden.
+* Bei einem Sitzplatzwechsel nutzen Sie bitte den Button „Sitzplatz ändern“ im Reiseplan, um den sitzplatzgebundenen Check-in zu aktualisieren. Dadurch wird das Zugpersonal über Ihren neuen Sitzplatz informiert und Sie werden auch auf diesem in der Regel nicht mehr kontrolliert.
+
+Hinweis
+In bestimmten Fällen sind weiterhin Ticketkontrollen möglich (siehe Frage: [Warum werde ich trotz Komfort Check-in vom Personal kontrolliert?](https://www.bahn.de/faq/kontrolle-trotz-kci))
+
+**Tipps:**
+
+* Sie haben die Sitzplatzreservierung nicht zusammen mit dem Zugticket gebucht?
+
+Kein Problem. Einfach das Zugticket mit einem Klick auf „Reservierung verwenden“ verknüpfen. Hierzu benötigen Sie ggf. zusätzlich die Reservierungsnummer (Res. Nr.) aus der Bestätigungsemail oder den Reservierungsinfos (PDF).
+
+* Sie haben Ihre BahnCard noch nicht im DB Kundenkonto hinterlegt?
+
+Kein Problem. Geben Sie bitte Ihre BahnCard-Nummer während des Check-in-Prozesses manuell ein und speichern Sie diese idealerweise in Ihrem DB Kundenkonto. Bei Ihrem nächsten Check-in erfolgt die Überprüfung automatisch.
+
+* Sie wollen den Check-in bei Ihrer nächsten Reise noch unkomplizierter durchführen?
+
+Kein Problem. Einfach Mitteilungen der DB Navigator App auf Ihrem Smartphone aktivieren. Sie werden zukünftig von uns kurz vor Beginn Ihrer Reise an den Komfort Check-in erinnert und können innerhalb weniger Klicks einchecken.
+
+ Wann sollte ich den Komfort Check-in durchführen?
 ----------
 
-Verursacht das Eisenbahnunternehmen den Verlust oder die Beschädigung von für die Beförderung zugelassenen Mobilitätshilfen, einschließlich Rollstühlen und Hilfsmitteln oder den Verlust oder die Verletzung von Assistenzhunden, ist Schadensersatz zu leisten.
+Wir schalten den Komfort Check-in kurz vor Abfahrt des Zuges frei. Checken Sie sich daher am besten direkt nach Einnahme eines freien oder von Ihnen reservierten Sitzplatzes ein. Wenn Sie später einchecken, könnten Sie ggf. dennoch kontrolliert werden. Nachdem eine Kontrolle stattgefunden hat, ist ein nachträglicher Check-in nicht mehr möglich.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-werden-mobiltaetshilfen-entschaedigt)
+ Kann ich mich auch ohne Reservierung einchecken?
+----------
+
+Ja, Sie können sich auch ohne Reservierung auf einem freien, nicht reservierten Sitzplatz einchecken. Einfach Wagen- und Sitzplatznummer manuell eingeben und den Check-in Prozess abschließen.
+
+Alternativ können Sie für die Ermittlung der Wagen- und Sitzplatznummer wie folgt zusätzlich den QR-Code nutzen:
+
+1. Check-in im DB Navigator starten und mit Klick auf das QR-Code Icon die Kamera öffnen (ggf. müssen Sie noch der Verwendung Ihrer Kamera zustimmen)
+2. Scannen Sie den QR-Code. Den QR-Code finden Sie auf einem Aufkleber, der gewöhnlich an der Rückenlehne des Vordersitzes oder im Wandbereich des Fensters angebracht ist. Sollten auf dem Aufkleber zwei QR-Codes abgebildet sein, nutzen Sie den rechten.
+3. Die Wagen- und Sitzplatznummer wird über den QR-Code ermittelt. Klicken Sie auf den Button “Jetzt einchecken” um den Komfort Check-in abzuschließen.
+
+Lesen Sie hierzu auch
+
+ In welchen Zügen bzw. auf welchen Strecken kann ich den Komfort Check-in nutzen?
+----------
+
+Der Komfort Check-in ist grundsätzlich nur in Zügen der DB Fernverkehr AG und innerhalb Deutschlands gültig. Auf grenzüberschreitenden Reisen ins europäische Ausland ist der Komfort Check-in nur eingeschränkt verfügbar und Sie müssen mit einer Fahrkartenkontrolle rechnen.
+
+Ob Ihr Zug bzw. Reiseabschnitt für den Komfort Check-in freigeschaltet ist, erkennen Sie am Zusatz „Komfort Check-in verfügbar - wenn möglich bitte einchecken“ unter weitere Informationen im Reiseplan Ihrer Verbindung.
+
+ Wo finde ich den QR-Code zur automatischen Ermittlung des Wagens und des Sitzplatzes?
+----------
+
+Wenn Sie ohne Sitzplatzreservierung über die App DB Navigator einchecken, können Sie die Wagen- und Sitzplatznummer per QR-Code ermitteln.
+
+Klicken Sie hierzu auf das QR-Code Icon neben der Sitzplatzeingabe im Check-in Prozess und scannen Sie den QR-Code im Bereich Ihres Sitzplatzes. Bei Aufklebern mit zwei QR-Codes scannen Sie bitte den rechten Code. Je nach Zug und Sitzplatz variiert die Position des QR-Code Aufklebers:
+
+*Sitzplatz in einer Zweierreihe*
+
+Der QR-Code befindet sich auf der Rückenlehne des Vordersitzes oder auf der Trennscheibe vor dem Sitz.
+
+*Sitzplatz in einer Sitzgruppe*
+
+Der QR-Code befindet sich oberhalb des Tisches an der Seitenwand oder im Bereich des Fensters.
+
+*Sitzplatz in einem Abteil*
+
+Der QR-Code befindet sich hinter dem jeweiligen Sitz an der Wand oder oberhalb des Tisches an der Seitenwand bzw. im Bereich des Fensters.
+
+ Ich habe mich bereits an einem Sitzplatz eingecheckt, möchte mich aber nochmal umsetzen. Ist das möglich?
+----------
+
+Ja, Sie können einmalig Ihren Sitzplatz nach dem Komfort Check-in ändern.
+
+Öffnen Sie Ihren aktuellen Reiseplan im DB Navigator und klicken Sie auf “Sitzplatz ändern”. Geben Sie dann die neue Wagen- und Sitzplatznummer ein oder ermitteln diese mit dem QR-Code. Ergänzen Sie ggf. noch Ihre BahnCard-Nummer. Klicken Sie auf “Jetzt einchecken”. Sie sind dann auf dem neuen Sitzplatz eingecheckt.
+
+Alternativ können Sie auch über Ihren Browser [umchecken](https://www.bahn.de/web/#web).
+
+ Wie kann ich die Belegtanzeige mit dem Komfort Check-in nutzen?
+----------
+
+Nach dem Komfort Check-in ändert sich der Text auf der Reservierungsanzeige automatisch in „Belegt bis …“. Die Aktualisierung der Anzeige erfolgt meist innerhalb weniger Sekunden und bleibt bis kurz vor dem Ausstiegshalt bestehen. Dies ist auch der Fall, wenn unser Zugbegleitpersonal Sie bei der Kontrolle eincheckt.
+
+Hinweis: Die Belegtanzeige ist nicht in allen Zügen verfügbar.
+
+ Auf welchen Plätzen kann ich mich einchecken und was muss ich dabei beachten?
+----------
+
+Sie können sich grundsätzlich auf allen regulären und frei verfügbaren Plätzen einchecken, die sich nicht mit anderen Reservierungen überschneiden; als BahnBonus Statuskund:in mit Gold oder Platin auch im exklusiven Sitzplatzbereich. Details zu Check-in fähigen Sitzplätzen können Sie der folgenden Aufstellung entnehmen.
+
+Sie können sich auf allen Plätzen einchecken, die…
+• …frei sind, d.h. nicht durch andere Gäste oder einen Check-in belegt sind.
+• …reguläre Sitzplätze sind, d.h. keine Sondersitzplätze wie Schwerbehindertenplätze oder Plätze im Bistro/Bordrestaurant.
+• …sich im exklusiven BahnBonus Sitzplatzbereich befinden, sofern Sie BahnBonus Statuskund:in mit Level Gold oder Platin sind.
+• …mit „ggf. freigeben“ (Expressreservierungsplätze) gekennzeichnet sind, wenn Sie diese reserviert haben.
+• …bereits von anderen Reisenden reserviert wurden, wenn sich diese Reservierung nicht mit Ihrem Reiseabschnitt überschneidet.
+• …in oder gegen die Fahrtrichtung angeordnet sind, z.B. ist der Komfort Check-in nicht möglich auf quer angeordnete Plätze wie im doppelstöckigen IC2 Mehrzweckabteil.
+
+ Was muss ich beim Komfort Check-in beachten, wenn ich meine Reservierung nicht zusammen mit dem Ticket gekauft habe?
+----------
+
+Der Komfort Check-in ist auch mit einer separat gebuchten Reservierung möglich. Klicken Sie hierfür bei der Wagen- und Sitzplatzeingabe auf „Reservierung verwenden“ und wählen die entsprechende Reservierung aus. In bestimmten Situationen müssen Sie durch die Eingabe der Reservierungsnummer (Res. Nr.) Ihre Reservierung erst laden. Sie finden diese Nummer entweder in der Bestätigungsemail oder den Reservierungsinfos (PDF).
+
+Hinweis
+Beachten Sie bei der Nutzung einer separat gebuchten Reservierung, dass die Anzahl der Reisenden auf dem Ticket, die maximal eincheckbaren Personen bestimmt. Das bedeutet, wenn Sie z.B. ein Ticket für eine Person gebucht, aber nachträglich zwei Sitzplätze reserviert haben, kann nur ein Check-in durchgeführt werden.
+
+ Habe ich ein Anrecht auf einen Sitzplatz, auf den ich mich eingecheckt habe?
+----------
+
+Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
+
+* **Mit Reservierung**
+   Sie haben Anspruch auf Ihren reservierten Sitzplatz, wenn Sie ihn innerhalb von 15 Minuten nach Abfahrt einnehmen. Nach Ablauf dieser Zeit verfällt der Anspruch, und der Platz kann von anderen Reisenden genutzt werden.
+
+* **Ohne Reservierung**
+   Liegt für einen Sitzplatz keine Reservierung vor, haben Sie Anrecht auf einen Sitzplatz, wenn Sie als erstes auf dem freien Sitzplatz sitzen. Checken Sie sich bitte deshalb erst ein, wenn Sie Ihren Sitzplatz tatsächlich eingenommen haben.
+
+ Wie verhalte ich mich bei Problemen mit dem Check-in, wenn z.B. der Check-in-Button nicht sichtbar ist oder eine Fehlermeldung angezeigt wird?
+----------
+
+Prüfen Sie zunächst, ob alle Voraussetzungen für den Komfort Check-in erfüllt sind (Siehe: „[Welche Voraussetzungen sind für die Nutzung des Komfort Check-in notwendig?](https://www.bahn.de/faq/voraussetzungen-kci)“). Falls der Check-in weiterhin nicht verfügbar ist bzw. nicht funktioniert, kann dies verschiedene Ursachen haben. Mögliche Gründe für Probleme mit dem Check-in können Sie der folgenden Aufstellung entnehmen.
+
+* **Ticket nicht in der App:**
+   Stellen Sie sicher, dass Ihr Ticket im DB Navigator geladen ist und es sich um ein digitales Ticket handelt. Ältere Tickets oder bestimmte Ticketarten sind möglicherweise nicht kompatibel. Versuchen Sie alternativ, den Check-in über das ICE Portal oder die Webseite www.bahn.de/jetzt-einchecken.
+* **Ticket geändert oder storniert:**
+   Wenn Sie Ihr Ticket oder Ihre Reservierung geändert oder storniert haben, ist der Komfort Check-in nicht mehr möglich.
+* **Kein Internet:**
+   Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut, wenn Sie wieder eine Verbindung haben.
+* **Platz nicht verfügbar:**
+   Der Platz ist entweder reserviert, bereits von einem anderen Gast eingecheckt oder ein Sondersitzplatz. Prüfen Sie, ob ein anderer Platz verfügbar ist.
+* **Funktion (noch) nicht verfügbar:**
+   Der Komfort Check-in ist für diesen Reiseabschnitt deaktiviert oder noch nicht freigeschaltet. Im letzteren Fall warten Sie einige Minuten vor einem erneuten Check-in Versuch.
+* **Bereits kontrolliert:**
+   Wenn Ihr Ticket bereits geprüft wurde, ist der Komfort Check-in nicht mehr erforderlich.
+
+ Warum werde ich trotz Komfort Check-in vom Zugpersonal kontrolliert?
+----------
+
+Trotz Komfort Check-in kann es vorkommen, dass das Zugpersonal weiterhin Ticketkontrollen durchführt, um die Gültigkeit und Richtigkeit der eingecheckten Daten zu überprüfen. Dies dient der zusätzlichen Sicherheit und der Qualitätssicherung. Mögliche Gründe für eine Kontrolle trotz Check-in können Sie der folgenden Aufstellung entnehmen.
+
+* **Sie sitzen nicht auf dem eingecheckten Sitzplatz.**
+   Der Check-in ist an Ihren Sitzplatz gebunden. Wenn Sie sich im Gang, Bistro oder auf einem anderen Platz befinden, kann das Zugpersonal Ihren Check-in nicht erkennen. Falls Sie sich umgesetzt haben, ändern Sie Ihren Sitzplatz im Reiseplan der DB Navigator App über den Button „Sitzplatz ändern“.
+* **Ihr Check-in ist noch nicht übertragen.**
+   Es kann einige Minuten dauern, bis Ihr Check-in auf dem Kontrollgerät sichtbar ist. Checken Sie sich daher möglichst direkt nach Einnahme eines freien oder von Ihnen reservierten Sitzplatzes ein.
+* **Es handelt sich um eine Stichprobenkontrolle.**
+   Das Zugpersonal ist angehalten auch bei eingecheckten Fahrgästen gelegentlich Stichprobenkontrollen durchzuführen. Zur Überprüfung wählt das System hierfür zufällig eingecheckte Sitzplätze u.a. auf Basis des Tickettyps aus. Halten Sie daher Ihr Ticket, einen Lichtbildausweis und ggf. weitere Berechtigungsnachweise wie Ihre BahnCard bereit.
+
+ Kann ich den Komfort Check-in auch mit meiner BahnCard 100 nutzen?
+----------
+
+Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich, da hierfür ein Digitales Ticket zum Flex-, Spar- oder Super Sparpreis notwendig ist.
+
+ Woher weiß das Zugpersonal, dass ich eingecheckt bin und welche Kundendaten werden angezeigt?
+----------
+
+Die Mitarbeitenden an Bord sehen nur, dass eine Reisende oder ein Reisender auf einem Sitzplatz für eine bestimmte Strecke eingecheckt hat. Falls ein Ticket für eine Stichprobekontrolle vom System vorgeschlagen wurde, werden zudem die Gründe hierfür angezeigt. Weitere Ticketdaten werden nur angezeigt, wenn Ihr Ticket wie gewohnt kontrolliert wird.
+
+ Wo finde ich den Komfort Check-in und wie kann ich mich selbstständig einchecken?
+----------
+
+1. Öffnen Sie die App DB Navigator und navigieren Sie zum Tab "Reisen".
+2. Wählen Sie das einzucheckende Ticket aus.
+3. Gehen Sie zum Tab "Reiseplan".
+
+Alternativ können Sie den Komfort Check-in im Webbrowser unter [www.bahn.de/jetzt-einchecken](http://www.bahn.de/jetzt-einchecken) oder über das ICE Portal nutzen.
+
+Der Komfort Check-in-Button ist sichtbar, wenn die Voraussetzungen erfüllt sind.
+
+Bei Tickets für die Hin- und Rückfahrt wählen Sie bitte im DB Navigator den entsprechenden Reiseplan aus, für den Sie sich einchecken möchten.
+
+Das Zugpersonal kann Sie auch während der regulären Ticketkontrolle einchecken. Dadurch werden Folgekontrollen vermieden, die sonst beispielsweise bei Personalwechsel stattfinden. Das Zugpersonal informiert Sie anschließend über den erfolgreichen Check-in.
 
  Wieso erhalte ich die Nachricht, dass der Check-in nicht möglich ist?
 ----------
@@ -8348,690 +6400,434 @@ Dies kann in verschiedenen außergewöhnlichen Situationen vorkommen. Durch die 
 * *Sie wurden bereits kontrolliert. Der Komfort Check-in ist für diesen Reiseabschnitt nicht mehr erforderlich*
    Wurde das Ticket auf dieser Strecke bereits durch eine Zugbegleiterin oder einen Zugbegleiter kontrolliert, ist der Komfort Check-in für dieses Ticket im aktuellen Zug nicht mehr möglich.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-erhalte-ich-die-nachricht-dass-der-check-in-nicht-moeglich-ist)
-
- Wieso ist bei manchen Verbindungen keine Auslastungsinformation verfügbar?
+ Warum hupen die Züge jede Nacht mehrmals und teilweise noch sehr laut?
 ----------
 
-* In Einzelfällen können darüber hinaus für bestimmte Züge, insbesondere bei Zugfahrten ins Ausland, keine Informationen angezeigt werden.
-* Die Auslastungsinformation ist in der Regel 28 Tage vor dem Abfahrtstag verfügbar. Für Verbindungen, die weiter in der Zukunft liegen oder für die keine Auslastungsinformation verfügbar ist, wird keine Auslastungsinformation angezeigt.
+Die Züge hupen, wenn auf der Strecke Baumaßnahmen stattfinden. So warnen sie die dort arbeitenden Kolleg:innen, dass sich ein Zug nähert.
 
-Ist dies bei allen angezeigten Verbindungen der Fall, so wird die Spalte "Auslastung" nicht angezeigt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-ist-bei-manchen-verbindungen-keine-auslastungsinformation-verfuegbar)
-
- Wieso muss ich meine E-Mail-Adresse bestätigen / verifizieren?
+ Gibt es einen Chatbot auf bahn.de?
 ----------
 
-Die Verifikation der E-Mail-Adresse dient der Sicherheit Ihres DB Kundenkontos und stellt sicher, dass sich nur Nutzer registrieren können, die tatsächlich Zugang zu der angegebenen E-Mail-Adresse besitzen. Diese eindeutige E-Mail-Adresse benötigen Sie für die Verwaltung Ihres Login-Accounts. Auch erhalten Sie Buchungsbestätigungen und PDF-Tickets an diese E-Mail-Adresse.
+Ja, auf bahn.de wird aktuell **testweise** der **Chatbot Kiana** eingesetzt. Ein Teil angemeldeter Kundinnen und Kunden bekommt Kiana angezeigt und kann dem Chatbot Fragen stellen. Die Anzeige erfolgt zufallsbasiert.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-muss-ich-meine-e-mail-adresse-bestaetigen-verifizieren)
+Kiana informiert über **Angebote und Services** der Deutschen Bahn. Mit der KI-Assistenz können Sie **Verbindungen suchen, in Echtzeit über Fahrplanänderungen informiert werden, Fahrtzeiten abfragen, Routen planen, Fragen zu Bahnhöfen, Öffnungszeiten oder Services vor Ort stellen** sowie Informationen unter anderem zur **Barrierefreiheit** und zum **Deutschland-Ticket** erhalten.
 
- Wieso sind WLAN-Einwahl und VPN-Deaktivierung Voraussetzung, um das ICE Portal nutzen zu können?
+Die Funktionen werden während der Testphase gezielt weiterentwickelt und optimiert.
+
+Falls Sie mit Ihrem DB Kundenkonto eingeloggt sind, aber Ihnen Kiana unter "Hilfe & Kontakt" auf bahn.de nicht angezeigt wird, sind Sie aktuell nicht Teil der Testgruppe.
+
+ Bei welchen Anliegen hilft der Chatbot Kiana auf bahn.de?
 ----------
 
-Das ICE Portal bietet digitale Services in ICE-Zügen. Um eine stabile Funktion sowie Exklusivität für unsere Fahrgäste zu ermöglichen, sind die Inhalte nur über das Zug-WLAN im ICE erreichbar. Das ICE Portal ist dadurch unabhängig von der Internetverbindung. Stattdessen werden die Inhalte physisch von einer Festplatte direkt auf dem Zug abgerufen. Da sich das ICE Portal also nicht im Internet befindet, sind WLAN-Verbindung mit dem Zug und VPN-Deaktivierung Zugangsvoraussetzungen.
+Der KI-gestützte Chatbot Kiana auf bahn.de unterstützt Sie bei Fragen rund um die Deutsche Bahn. Dazu gehören unter anderem Verbindungs- und Fahrplanauskünfte, Echtzeit-Informationen zu Zügen, Informationen zu Bahnhöfen sowie Antworten auf häufige Fragen zu Angeboten und Services der Deutschen Bahn.
 
-**Hinweis zu VPN:**
+Aktuell befindet sich Kiana in einer Testphase. Daher kann der Chatbot noch nicht alle Anliegen bearbeiten. Kiana kann derzeit keine Buchungen, Umbuchungen oder Stornierungen durchführen und hat **keinen Zugriff auf** Ihr DB Kundenkonto. Kiana kann daher keine Anliegen zu Ihren gebuchten Tickets oder Aufträgen bearbeiten.
 
-Das ICE Portal funktioniert leider nicht über eine aktive VPN-Verbindung (VPN = Virtual Private Network). Das VPN ist eine spezielle Software, die eine Art „sicheren Tunnel“ ins Internet aufbaut. Das ICE Portal liegt jedoch nicht im Internet, sondern auf dem Zug auf speziellen Festplatten.
+Wenn Kiana Ihr Anliegen nicht lösen kann, verweist der Chatbot auf passende Kontaktformulare oder Servicenummern des Kundenservice der Deutschen Bahn.
 
-Sie deaktivieren VPN auf Ihrem Endgerät unter „Einstellungen“ ⇒ „Allgemein“ oder „Netzwerke & Internet“ ⇒ „VPN“. Wenn Sie dies bei Ihrem Gerät so nicht finden, suchen Sie „VPN“ unter „Einstellungen“. Hier können Sie nun die VPN-Verbindung trennen.
+Da Kiana ein KI-gestützter Chatbot ist, können vereinzelt fehlerhafte oder unvollständige Antworten auftreten. Die bereitgestellten Informationen dienen daher als Orientierungshilfe und stellen keine rechtsverbindliche Auskunft dar. Die Funktionen von Kiana werden während der Testphase kontinuierlich weiterentwickelt und optimiert.
 
-Wir empfehlen dringend die VPN-Software nach der Nutzung des ICE Portals wieder zu aktivieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-sind-wlan-einwahl-und-deaktivierung-der-vpn-verbindung-voraussetzung)
-
- Wieso wird bei manchen Verbindungen "Preisauskunft nicht möglich" angezeigt?
+ Kann ich über den Chatbot Kiana direkt mit dem Kundenservice chatten?
 ----------
 
-Bei manchen Verbindungen erscheint der Hinweis "Preisauskunft nicht möglich". Dies passiert, wenn die komplette Strecke oder ein Teil der Strecke nicht von Zügen der Deutschen Bahn befahren wird.
+Nein. Kiana ist ein KI-basierter Chatbot, der automatisiert Antworten auf Ihre Fragen bereitstellt. Eine direkte Kommunikation mit oder Weiterleitung an Mitarbeitende unseres Kundenservices ist über Kiana nicht möglich.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-wird-bei-manchen-verbindungen-preisauskunft-nicht-moeglich-angezeigt)
+Wenn Ihr Anliegen eine persönliche Prüfung oder Bearbeitung durch den Kundenservice der Deutschen Bahn erfordert, verweist Kiana auf die passenden Kontaktmöglichkeiten, beispielsweise ein Kontaktformular oder eine Telefonnummer.
 
- Wie viele BahnBonus Punkte erhalte ich bei jedem Kauf?
+ Was sind Sonderzüge?
 ----------
 
-Bei [sammelfähigen Angeboten der DB](https://www.bahn.de/service/bahnbonus/punkte-sammeln), bekommen Sie für jeden Euro Umsatz, den Sie tätigen, je einen Prämien- und je einen Statuspunkt gutgeschrieben, dabei wird aufgerundet.
+Sonderzüge sind zusätzliche Züge, die zur Entlastung an reisestarken Tagen wie Feiertagen, Groß-Veranstaltungen wie das Oktoberfest oder Sport-Events eingesetzt werden. Diese sind nicht gesondert gekennzeichnet. Die Züge werden zusätzlich eingesetzt, sind im Fahrplan integriert und können wie gewohnt gebucht werden.
 
-Bei [Sammelpartnern](https://www.bahn.de/service/bahnbonus/vorteile)ist die Punktegutschrift abhängig vom jeweiligen Partner.
+Ausnahme: Sogenannte Event-Züge, die meist nur mit einem Extraticket z.B. der Eintrittskarte genutzt werden können und besonders gekennzeichnet sind.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieviele-punkte-bei-kauf)
-
- Is wifi available on all routes to and from locations outside of Germany?
+ Wie erfolgt die Kontrolle des Tickets im Zug?
 ----------
 
-Yes. Free wifi is available on all of these connections. You can keep surfing even as you cross international borders and stay connected in Austria, Switzerland, France, Belgium and the Netherlands.
+Sie haben 3 Möglichkeiten, Ihr Ticket im Zug vorzuzeigen:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-abroad)
+1. Zeigen Sie das PDF-Dokument Ihres Tickets aus der Bestätigungsmail vor.
+2. Sie haben das Ticket in die App geladen und zeigen dort den Barcode des Tickets vor.
+3. Alternativ können Sie Ihr Ticket auch selbst entwerten. Nutzen Sie einfach den Komfort Check-In.
 
- What can I do with the wifi offered in first class?
+Bitte zeigen Sie bei der Kontrolle Ihren Lichtbildausweis und ggf. Ihre BahnCard vor.
+
+ Wie kann ich das ICE Portal aufrufen?
 ----------
 
-The wifi in first class is set up so that you can work reliably and free of charge. This means you can set up VPN connections, perform research online and send large e-mail attachments, as well as enjoying short videos and music streams.
+1. Verbinden Sie sich mit Ihrem mobilen Endgerät (Smartphone, Tablet oder Laptop) mit dem kostenfreien WLAN "WifionICE".
+2. Klicken Sie im Browser auf das ICE Portal oder geben Sie ICEportal.de ein.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-offered-first-class)
+Je nach Betriebssystem und Endgerätetyp kann es zu Unterschieden im Login-Prozess kommen. Außerhalb des Zuges werden Sie auf die [ICE Portal-Seite auf bahn.de](https://bahn.de/service/zug/ice-portal) weitergeleitet.
 
- What can I do with the wifi offered in second class?
+ Was bedeutet es, wenn eine Reservierung "vorübergehend nicht möglich" ist?
 ----------
 
-The wifi in second class lets you surf, mail and chat for free. VPN connections are also possible here.
+Die Anzeige "Reservierung vorübergehend nicht möglich" bedeutet, dass der Zug vorübergehend aus dem Reservierungssystem herausgenommen wurde. Das kann für wenige Stunden oder auch für mehrere Tage der Fall sein. Eventuell können Sie zu einem späteren Zeitpunkt einen Sitzplatz für den gewünschten Zug reservieren.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-offered-second-class)
-
- Which trains offer wifi?
+ How can I set the language on the bahn.de website?
 ----------
 
-Wifi is available on board all of our ICE trains, on some of our IC trains and on selected regional trains. We are gradually rolling out wifi for our entire long-distance fleet.
+Please go to our international website [int.bahn.de](http://int.bahn.de/) and select your preferred language.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-trains)
-
- Wird der Sparpreis Senioren für die 1. Klasse angeboten?
+ Sind Reisen im Fernverkehr unsicherer geworden, wenn die DB Fernverkehr AG jetzt Bodycams einsetzt?
 ----------
 
-Den Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
+Nein. Reisen im Fernverkehr sind weiterhin sicher.
 
-[Weitere Informationen zum Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-senioren)
+Damit das so bleibt, setzt die DB Fernverkehr AG schon heute verschiedene Maßnahmen für die Sicherheit ein. Dazu gehören zum Beispiel Mitarbeitende von DB Sicherheit in den Zügen.
 
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
+Gleichzeitig erleben Mitarbeitende im gesamten DB-Konzern und im öffentlichen Personenverkehr häufiger aggressives Verhalten. Bodycams ergänzen deshalb die bestehenden Maßnahmen als weiterer Sicherheitsbaustein.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wird-der-sparpreis-senioren-fuer-die-erste-klasse-angeboten)
-
- Wird der Super Sparpreis Senioren für die 1. Klasse angeboten?
+ Darf das Zugpersonal Fahrgäste mit der Bodycam filmen?
 ----------
 
-Den Super Sparpreis Senioren gibt es aktuell nur in der 2. Klasse.
+Ja, das Zugpersonal darf die Fahrgäste anlassbezogen mit Bodycams filmen.
 
-[Weitere Informationen zum Super Sparpreis Senioren](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-senioren)
+Die DB Fernverkehr AG verfolgt damit das berechtigte Interesse, seine Mitarbeitenden vor Übergriffen zu schützen.
 
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wird-der-super-sparpreis-senioren-fuer-die-erste-klasse-angeboten)
-
- Wird mein Datenvolumen verbraucht, wenn ich mir Inhalte im ICE Portal ansehe?
+ Wurde der Datenschutz im Zusammenhang mit dem Einsatz von Bodycams beachtet?
 ----------
 
-Sie können das ICE Portal nur nutzen, wenn Sie mit dem WLAN im ICE verbunden sind. Die Inhalte des ICE Portals werden von einer Festplatte im Zug abgerufen, deshalb wird Ihr Datenvolumen nicht belastet.
+Ja. Die DB hat die datenschutzrechtlichen Voraussetzungen geprüft und hält sie ein. Sie tauscht sich dazu fortlaufend mit den zuständigen Datenschutzaufsichtsbehörden aus.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wird-mein-datenvolumen-verbraucht-wenn-ich-mir-inhalte-auf-dem-ice-portal-ansehe)
+Für Reisende im Zug, die nicht digital unterwegs oder seheingeschränkt sind, haben die DB Mitarbeitenden die Datenschutzhinweise auf ihrem Handy hinterlegt und können diese bei Bedarf vorlesen.
 
- Wo kann ich die in der 10 % Rabattaktion erworbenen DB Geschenkgutscheine einlösen?
+ Zeichnet die Bodycam auch Gespräche oder Töne auf?
 ----------
 
-Die in der Aktion erworbenen DB Geschenkgutscheine können auf bahn.de, in der App DB Navigator, im DB Reisezentrum, in DB Agenturen und am DB Fahrkartenautomat eingelöst werden.
+Nein. Die Bodycam zeichnet derzeit nur Videos auf. Gespräche oder Töne nimmt sie zunächst nicht auf.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo--einloesen)
+Die DB plant, Audioaufzeichnungen im dritten Quartal 2026 zu testen. Diese können die deeskalierende Schutzwirkung der Bodycams und die Beweissicherung erweitern. Die DB klärt dafür aktuell rechtliche Fragen mit den zuständigen Behörden.
 
- Wo kann ich mir die BahnBonus App herunterladen?
+ Informieren mich die DB Mitarbeitenden, bevor sie die Bodycam aktivieren?
 ----------
 
-[Hier](https://www.bahn.de/service/mobile/bahnbonus-app) können Sie die BahnBonus App herunterladen.
+Ja. Die DB Mitarbeitenden informieren Sie, bevor sie die Bodycam aktivieren.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bahnbonusapp-herunterladen)
-
- Wo erhalte ich das Fahrgastrechte-Formular?
+ Wann wird die Bodycam aktiviert?
 ----------
 
-Sie erhalten das Formular
+Unser Zugpersonal aktiviert die Bodycam nur in eskalierenden Situationen. Vor Beginn der Aufnahme kündigt das Zugpersonal die Aufnahme deutlich an.
 
-* im Zug durch das Zugpersonal
-* an DB Informationen
-* in DB Reisezentren
-* hier als Download:
-
-* [Zum Fahrgastrechte-Formular (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
-* [Zur Seite Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-erhalte-ich-das-fahrgastrechte-formular)
-
- Auf welchen Strecken kann ich mein Fahrrad mit meiner Nahverkehrsfahrkarte auch in IC-Zügen mitnehmen?
+ Wie werden die Bodycam-Aufnahmen gespeichert und wie lange werden diese aufbewahrt?
 ----------
 
-Die Nahverkehrsfreigabe gilt nur für ausgewählte Fernverkehrsstrecken in Deutschland.
+Die Bodycam-Aufnahmen werden verschlüsselt gespeichert und auf einen geschützten Server übertragen. Dort bleiben sie 72 Stunden gespeichert. Danach löscht das System die Aufnahmen automatisch.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-fahrrad-mit-nahverkehrsfahrkarte-auch-in-ic-zuegen-mitnehmen)
-
- Wo finde ich Datenschutzhinweise zu BahnBonus?
+ Wer kann auf die Bodycam-Aufnahmen zugreifen?
 ----------
 
-Die aktuellen Datenschutzhinweise zu BahnBonus finden Sie [hier](http://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahnbonus).
+Nur die Bundespolizei kann auf die gespeicherten Bodycam-Aufnahmen zugreifen, falls ein entsprechender Strafantrag vorliegt und die Aufnahmen als Beweismittel genutzt werden. Die DB Fernverkehr AG kann die Aufnahmen nicht einsehen und wertet sie nicht aus.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-datenschutzhinweise-zu-bahnbonus)
+Die Daten werden nur anlassbezogen an die Bundespolizei weitergegeben.
 
- Wo finde ich den 1. Geltungstag auf meinem Ticket?
+ Wie werden Beschäftigte der DB Fernverkehr AG auf den Einsatz von Bodycams vorbereitet?
 ----------
 
-Der 1. Geltungstag entspricht dem 1. Gültigkeitstag Ihres Tickets. Bei Ihrem Online-Ticket ist die Gültigkeit neben dem Barcode aufgedruckt.
+Beschäftigte der DB Fernverkehr AG dürfen eine Bodycam nur nach absolvierter Pflichtschulung tragen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-den-1-geltungstag-auf-meinem-ticket)
+In der Schulung lernen sie:
 
- Wo finde ich den Komfort Check-in und wie kann ich mich selbstständig einchecken?
+* wie sie die Bodycam einsetzen
+* welche rechtlichen Vorgaben gelten
+* wie sie mit Aufnahmen umgehen müssen
+
+ Tragen die Mitarbeitenden die Bodycam auch außerhalb des Zugs?
 ----------
 
-1. Öffnen Sie die App DB Navigator und navigieren Sie zum Tab "Reisen".
-2. Wählen Sie das einzucheckende Ticket aus.
-3. Gehen Sie zum Tab "Reiseplan".
+Mitarbeitende können die Bodycam auf dem Bahngelände auf dem Weg zu ihrem Einsatz oder von ihrem Einsatz tragen. Im privaten Umfeld ist das Tragen der Bodycam nicht zulässig.
 
-Alternativ können Sie den Komfort Check-in im Webbrowser unter [www.bahn.de/jetzt-einchecken](http://www.bahn.de/jetzt-einchecken) oder über das ICE Portal nutzen.
-
-Der Komfort Check-in-Button ist sichtbar, wenn die Voraussetzungen erfüllt sind.
-
-Bei Tickets für die Hin- und Rückfahrt wählen Sie bitte im DB Navigator den entsprechenden Reiseplan aus, für den Sie sich einchecken möchten.
-
-Das Zugpersonal kann Sie auch während der regulären Ticketkontrolle einchecken. Dadurch werden Folgekontrollen vermieden, die sonst beispielsweise bei Personalwechsel stattfinden. Das Zugpersonal informiert Sie anschließend über den erfolgreichen Check-in.
-
-* [Zur ausführlichen Anleitung](https://www.bahn.de/service/zug/komfort-check-in)
-* [Voraussetzungen für den Komfort Check-in](https://www.bahn.de/faq/voraussetzungen-kci)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-den-komfort-check-in)
-
- Wo finde ich im ICE Portal den Warenkorb?
+ Warum tragen nicht alle Mitarbeitende im Fernverkehr eine Bodycam?
 ----------
 
-Bei aktiviertem Bestell-Service erscheint direkt an den Artikeln jeweils ein Warenkorb-Symbol, mit dem die Produkte in den Warenkorb gelegt werden können. Der Warenkorb wird nun am oberen Bildschirmrand unter den Reiseinformationen angezeigt. Klicken Sie diesen an, um in den Warenkorb zu gelangen und Ihre Bestellung abzuschließen.
+Die Technik wird auf freiwilliger Basis genutzt. Dies bedeutet, dass nicht das gesamte Zug- oder Lounge-Personal mit einer Bodycam ausgestattet sein muss.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-den-warenkorb)
-
- Wo finde ich die Datenschutzhinweise für den DB Navigator?
+ Welche Sicherheitsmaßnahmen gibt es schon in den Fernverkehrszügen zusätzlich zu den Bodycams?
 ----------
 
-Sie finden die Datenschutzhinweise zum DB Navigator im Appstore (für iOS) bzw. Google Play-Store (für Android) auf der Downloadseite der App sowie in der App DB Navigator im Bereich "Profil".
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-datenschutzhinweise-fuer-den-db-navigator)
-
- Wo finde ich die Partnervorteile?
-----------
-
-Alle Partnervorteile, inkl. der Statusvorteile bei Partnern, finden Sie in der BahnBonus App im Bereich Partnerdeals.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-partnervorteile)
-
- Wo finde ich die Sitzplatzreservierungen im Fernverkehr?
-----------
-
-Allgemeine Informationen:
-
-* Sie finden die Reservierungsanzeigen auf kleinen Displays unter der Gepäckablage oder außen an den Sitzplätzen am Gang.
-
-Im ICE 3neo:
-
-* Die neue LED-Statusleuchte zeigt bestehende Reservierungen oder Belegungen mit Farben an:
-  * **Rot:** Eine rote Statusleuchte zeigt an, dass es eine Reservierung oder Belegung ab dem aktuellen Halt gibt.
-  * **Gelb:** Eine gelbe Statusleuchte zeigt an, dass es eine Reservierung ab einem zukünftigen Halt gibt.
-  * **Grün:** Eine grüne Statusleuchte zeigt an, dass es keine Reservierung oder Belegung gibt. Ein Text wird in diesem Fall nicht angezeigt.
-
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-sitzplatzreservierungen-im-zug-fernverkehr)
-
- Wo finde ich die Zugnummer meines Zugs?
-----------
-
-Geben Sie in der Reiseauskunft Ihren gewünschten Start- und Zielort ein. In der Detailansicht Ihrer gewünschten Reiseverbindung steht im Bereich Produkte die Zugnummer der Züge.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-die-zugnummer-meines-zugs)
-
- Wo finde ich Informationen zu Rail & Fly?
-----------
-
-Mit "Rail&Fly" fahren Sie bequem mit dem Zug von Ihrem Bahnhof bis zum Flughafen und wieder zurück. Dieser Service ist bei vielen Fluggesellschaften im Angebot enthalten. Fragen Sie daher bei Ihrer Flugbuchung direkt nach! Auch viele Reiseveranstalter bieten Rail&Fly an.
-
-Bitte wenden Sie sich hierzu direkt an Ihren Reiseveranstalter. Diese Seite informiert ausschließlich Reisende, die Rail&Fly in Kombination mit einem internationalen Flugticket einer Airline gebucht haben.
-
-* [Rail & Fly](https://www.bahn.de/angebot/weiterreise/bahn-flug/rail-fly)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-informationen-zu-rail-fly)
-
- Wo finde ich im ICE Portal Informationen zur aktuellen Fahrt?
-----------
-
-In der schwarzen Zuglaufleiste, die sich auf der Startseite oder beim Stöbern durchs Portal am oberen Bildschirmrand befindet, haben Sie immer alle relevanten Informationen zur Fahrt griffbereit: Neben der Geschwindigkeit des Zuges, dem nächsten Halt und der Karte mit aktueller Position des Zuges, können Sie hier auch Ihren Ausstieg und Ihre Anschlussverbindungen auswählen. Bei eventuellen Verspätungen bekommen Sie eine Benachrichtigung, ob Sie den gewählten Anschlusszug noch erreichen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-informationen-zur-aktuellen-fahrt)
-
- Wo finde ich meine Auftragsnummer?
-----------
-
-Ihre 12-stellige Auftragsnummer finden Sie:
-
-* Im Bestätigungstext nach der Buchung
-* In der Bestätigungsmail nach der Buchung
-* Auf Ihrem Ticket (PDF oder Ausdruck) unter dem Barcode
-
-Als registrierter Kunde können Sie auf bahn.de in Ihrem DB Kundenkonto und in der App DB Navigator Ihre letzten Buchungen einsehen und dort die Auftragsnummer finden.
-
-Auf Fahrkarten aus dem Automaten oder im Reisebüro bzw. per Telefon gekauft, finden Sie die 9-stellige Auftragsnummer unten links. Sie ist farbig markiert.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-auftragsnummer)
-
- Wo finde ich meine gebuchten Tickets?
-----------
-
-Auf **bahn.de**:
-
-1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Klicken Sie auf den Reiter "Meine Reisen".
-3. Dort finden Sie Ihre Tickets unter "Nächste Reisen" und "Vergangene Reisen".
-
-Falls Ihre Tickets dort nicht erscheinen oder Sie sie nicht über Ihr DB Kundenkonto gebucht haben:
-
-1. Nutzen Sie die Funktion "Auftrag suchen".
-2. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein, um die Tickets nachträglich in Ihr DB Kundenkonto zu laden.
-
-In der **App DB Navigator**:
-
-1. Öffnen Sie die App und loggen Sie sich ein.
-2. Tippen Sie auf "Reisen", um Ihre aktuellen und vergangenen Reisen zu sehen.
-
-Falls ein Ticket nicht angezeigt wird oder Sie es nicht über Ihr DB Kundenkonto gebucht haben:
-
-1. Tippen Sie im Menübereich "Reisen" auf das Plus-Symbol oben rechts.
-2. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein, um das Ticket manuell hinzuzufügen.
-
-* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
-* [Deutschland-Ticket in die App laden](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-gebuchten-tickets)
-
- Wo gelten die Sitzplatzreservierungen?
-----------
-
-Die Reservierungen sind gültig für einfache Fahrten inkl. aller Anschlussreservierungen. Bei reservierungspflichtigen Zügen gibt es **keine** kostenfreie Anschlussreservierung.
-
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gelten-sitzplatzreservierungen)
-
- Wo finde ich Informationen zu Baustellen der Deutschen Bahn?
-----------
-
-Wir informieren wir Sie über Großbaustellen und Fahrplananpassungen auf der unten verlinkten Seite.
-
-* [Zu allen Großbaustellen](https://www.bahn.de/service/fahrplaene/bauarbeiten)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-infos-baustellen)
-
- Wo ist das ICE Portal verfügbar?
-----------
-
-Das ICE Portal ist in allen ICE-Zügen verfügbar.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-ist-das-ice-portal-verfuegbar)
-
- Wo kann ich einen DB Geschenkgutschein einlösen?
-----------
-
-DB Geschenkgutscheine können
-
-* auf bahn.de
-* im DB Navigator
-* im DB Reisezentrum
-* in DB Agenturen
-* am DB Fahrkartenautomaten
-
-eingelöst werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-db-geschenkgutschein-einloesen)
-
- Wo kann ich den (Super) Sparpreis Europa Ukraine kaufen?
-----------
-
-Fahrkarten zum Sparpreis Europa bzw. Super Sparpreis Europa in der 1. und 2. Klasse zu Zielen in der Ukraine können nur in DB Vertriebsstellen (**DB Reisezentrum, DB Agentur**) als Papiertickets gekauft werden. Ein Internetverkauf wird nicht angeboten.
-
-Hier können Sie einen Bahnhof auswählen und unter "Beratung und Unterstützung" sehen, ob ein DB Reisezentrum oder eine DB Agentur am gewählten Bahnhof verfügbar ist:
-
-* [www.bahnhof.de](https://www.bahnhof.de/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-den-sparpreis-europa-ukraine-kaufen)
-
- Wo kann ich die Benachrichtigungen zur Reise aktivieren?
-----------
-
-Um rechtzeitig zu Änderungen im Fahrplan informiert zu werden und Erinnerungen an Ein- und Umstiege zu erhalten, aktivieren Sie ganz einfach die Benachrichtigungen zur Reise. Die Informationen erhalten Sie dann in Form von Push-Benachrichtigungen auf Ihrem Smartphone.
-
-Sie können die Benachrichtigungen zur Reise in der App DB Navigator entweder bei der Ticketbuchung oder über die Funktionen "Reise merken" und "Wiederholende Reise einstellen" aktivieren.
-
-* [Anleitung zur Aktivierung von Push-Nachrichten](https://www.bahn.de/service/fahrplaene/digitale-reisebegleitung/verspaetungsalarm-push)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-die-benachrichtigungen-zur-reise-aktivieren)
-
- Wo kann ich die DB Geschenkkarte einlösen?
-----------
-
-Die DB Geschenkkarte ist ausschließlich innerhalb des Buchungsvorgangs auf unserer Website und in der App einlösbar - und zwar sowohl für den Kauf von DB Fahrkarten oder BahnCards als auch für Reservierungen. Dazu geben Sie den Gutscheincode auf der Zahlungs-Seite ein.
-Für den Kauf eines Abonnements wie z. B. dem Deutschland-Ticket kann die DB Geschenkkarte leider nicht verwendet werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-die-db-geschenkkarte-einloesen)
-
- Wo kann ich die DB Geschenkkarte kaufen?
-----------
-
-Die DB Geschenkkarte ist im Handel in den Filialen folgender Märkte erhältlich: Rewe, Penny, EDEKA oder Netto sowie bei weiteren Lebensmittelhändlern.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-die-db-geschenkkarte-kaufen)
-
- Wo kann ich im DB Navigator Informationen zum Zug oder zum Fahrtverlauf finden?
-----------
-
-Wählen Sie Ihre gewünschte Verbindung aus und klicken Sie in den Reisedetails bzw. Verbindungsdetails auf den Button "Fahrtinformationen". Dort sehen Sie den Fahrtverlauf und am Reisetag die aktuelle Wagenreihung.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-im-navigator-informationen-zum-zug-oder-zum-fahrtverlauf-finden)
-
- Wo kann ich mein Guthaben der Mehrfahrtenkarte einsehen?
-----------
-
-Sie gelangen zu einer Übersicht über Ihr verfügbares Guthaben, wenn Sie auf der Startseite des der App den Menüpunkt "Verbundtickets" und dann Ihren entsprechenden Verbund (Beispiel "Rhein-Ruhr" für VRR) auswählen. Auf der jeweiligen Verbundseite befindet sich der Button "Mehrfahrtenkarte-Guthaben", über welchen Sie sich Ihr verfügbares Guthaben anzeigen lassen können.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-mein-guthaben-der-mehrfahrtenkarte-einsehen)
-
- Welche Anpassungen an den persönlichen Daten kann ich in meinem DB Kundenkonto auf bahn.de oder im DB Navigator selbst vornehmen?
-----------
-
-Die **Adresse**, das **Zahlungsmittel** und die **E-Mail-Adresse** können Sie selbst im DB Kundenkonto auf bahn.de oder im DB Navigator anpassen.
-
-Sie können Ihren **Nachnamen** selbst ändern. Nochmalige Änderungen des **Nachnamens** ist nur mit Vorlage eines Nachweises möglich.
-
-Eine Änderung des **Vornamens** und **Geburtsdatums** ist ausschließlich mit Vorlage eines Nachweises möglich.
-
-Bitte wenden Sie sich mit dem Änderungswunsch und einem Nachweis (Kopie Personalausweis) an folgende E-Mail-Adresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
-
-Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-meine-persoenlichen-daten-anpassen)
+Schon heute sorgt die DB Fernverkehr AG mit verschiedenen Maßnahmen für mehr Sicherheit an Bord:
+
+* Sicherheitspersonal in stark frequentierten Regionen, im Nachtverkehr, an stark ausgelasteten Tagen, bei Großveranstaltungen und in besonderen Situationen
+* Verpflichtende Deeskalationstrainings und freiwillige Selbstschutztrainings für das Bordpersonal
+* Kostenlose Mitfahrt uniformierter Bundes- und Landespolizistinnen und -polizisten für mehr sichtbare Präsenz
 
  Wo kann ich mich über die aktuelle Verkehrslage informieren?
 ----------
 
 Informationen zur aktuellen Verkehrslage finden Sie unter:
 
-* [bahn.de/aktuell](https://www.bahn.de/service/fahrplaene/aktuell)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-mich-ueber-die-aktuelle-verkehrslage-informieren)
-
- Wo kann ich mich über meine Fahrgastrechte informieren?
+ Ab wann gilt die Pauschalversteuerung?
 ----------
 
-Es werden Broschüren "Ihre Rechte als unser Fahrgast" in den Verkaufsstellen und an DB Informationen ausgelegt sowie hier zum Download verlinkt. Neben den Informationen, die wir hier auf bahn.de/fahrgastrechte sowie auf [www.fahrgastrechte.info](http://www.fahrgastrechte.info/) online bereitstellen, gibt es noch Aushänge in den Bahnhöfen und in den DB Reisezentren.
+Die DB Fernverkehr AG übernimmt seit dem 1. Juli 2023 für das Vorteilsprogramm BahnBonus die Pauschalversteuerung nach § 37a EStG.
 
-Außerdem stellt die DB ihre Beförderungsbedingungen unter [www.bahn.de/agb](https://www.bahn.de/agb) und an DB-Automaten zur Verfügung. Zusätzlich gibt es eine speziell zu den Fahrgastrechten eingerichtete Servicehotline: **030 586020920**.
+Basis für die Berechnung des geldwerten, steuerpflichtigen Vorteils ist das Datum der Prämienpunkte-Einlösung. Das bedeutet: Prämienpunkte, die Sie vor dem 1. Juli 2023 eingelöst haben, müssen weiterhin in der individuellen Lohnsteuer angegeben werden.
 
-* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-mich-ueber-meine-fahrgastrechte-informieren)
-
- Wo kann ich weitere Aufwendungen aufgrund einer Verspätung geltend machen?
+ Warum führte die DB Fernverkehr AG die Pauschalversteuerung ein?
 ----------
 
-Die Erstattung erforderlicher Aufwendungen aufgrund einer Verspätung (z.B. Bus, Taxi, Hotel) können Sie ausschließlich beim Servicecenter Fahrgastrechte (DB Fernverkehr AG, Servicecenter Fahrgastrechte, 60647 Frankfurt am Main, Deutschland) beantragen.
+Durch die pauschale Versteuerung entfällt seit dem 1. Juli 2023 der administrative Aufwand sowohl für Arbeitnehmer:in als auch Arbeitgeber:in.
 
-Dazu müssen neben der Fahrkarte oder einer Kopie der Fahrkarte die Originalbelege zu den entstandenen Aufwendungen eingesendet werden.
+Bisher mussten, je nach Höhe, lohnsteuerpflichtige Geschäftsreisende den geldwerten, steuerpflichtigen Vorteil in ihrer persönlichen Steuererklärung angeben und ihre:n Arbeitgeber:in zwecks Meldung an das Finanzamt über die eingelösten Prämien informieren. Viele Arbeitgeber:innen haben daher die private Verwendung geschäftlich gesammelter Punkte oder die Teilnahme an BahnBonus im geschäftlichen Kontext untersagt.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-weitere-aufwendungen-aufgrund-einer-verspaetung-geltend-machen)
+Mit dieser Vereinfachung zieht die DB Fernverkehr AG mit anderen Vorteilsprogrammen (z.B. aus der Luftfahrt) gleich und erhöht die Attraktivität der Bahn für Geschäftsreisen.
 
- Wo kann ich mein Baby im Zug wickeln?
+ Darf ich dienstlich gesammelte BahnBonus Punkte privat nutzen?
 ----------
 
-* In ICE- und IC-Zügen gibt es in fast jedem Zug mindestens eine Wickelmöglichkeit (meist im [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich) oder auf den barrierefreien Toiletten, Hinweise an der Tür).
-* In Regionalzügen: Wickelmöglichkeiten meist in den barrierefreien WCs (Achtung: Ausstattung kann schwanken).
+Ob Sie grundsätzlich dienstlich gesammelte BahnBonus Punkte privat nutzen dürfen, entscheidet Ihr:e Arbeitgeber:in. Bitte beachten Sie diesbezüglich die Reiserichtlinie Ihres Unternehmens.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-wickeln)
+Die generelle Teilnahme am Vorteilsprogramm BahnBonus bzw. das Sammeln von BahnBonus Punkten durch private Bahnreisen muss nicht von den Arbeitgeber:innen genehmigt werden.
 
- Wo parke ich im Zug den Kinderwagen?
+ Kann ich als bahn.business-Kund:in mit dem Online-Ticket BahnBonus Punkte sammeln?
 ----------
 
-* Im [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich) oder im angrenzenden 1. Klasse-Wagen (hinter dem ersten Sitz).
-* Falls das [Kleinkindabteil](https://www.bahn.de/service/individuelle-reise/kinder/unterschied-kleinkindabteil-familienbereich) ausgebucht ist: In Familienbereichen oder bei Regional- und S-Bahnen im Mehrzweckbereich/Fahrradabteil.
-* Tipp: Beim Zugpersonal nachfragen, falls Sie keinen freien Stellplatz finden.
+Bei Buchung eines Online-Tickets können Sie auch als Geschäftskund:in BahnBonus Punkte sammeln, wenn Sie für BahnBonus angemeldet sind.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-parke-ich-den-kinderwagen)
-
- Wo sehe ich, wo der Zug am Gleis hält?
+ Erhalte ich BahnBonus Punkte beim Kauf einer BahnCard 100 für Geschäftsreisende?
 ----------
 
-Die aktuelle Wagenreihung finden Sie am Reisetag in der App DB Navigator in den Fahrtinformationen in den Verbindungsdetails. So wissen Sie direkt vor der Ankunft Ihres ICE, IC oder EC, in welchem Bereich des Gleises Ihr Wagen halten wird.
+Ja, Sie erhalten eine Gutschrift über die Summe der Jahresgebühr der BahnCard 100 für Geschäftsreisende in Form von Prämien- und Statuspunkten auf Ihr BahnBonus Punktekonto.
 
-* [So funktioniert die Wagenreihung](https://www.bahn.de/service/zug/so-funktioniert-die-wagenreihung)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sehe-ich-wo-der-zug-am-gleis-haelt)
-
- Wofür kann ich die erworbenen DB Geschenkgutscheine einlösen?
+ Do children up to 5 years of age have to be indicated on the ticket?
 ----------
 
-DB Geschenkgutscheine können beim Kauf von DB Produkten (z.B. BahnCards) im Bezahlvorgang mit eingelöst werden, jedoch nicht für den Kauf von DB Geschenkgutscheinen genutzt werden.
+Children up to 5 years of age travel free of charge on Deutsche Bahn long-distance trains and do not need to be indicated on the ticket. We recommend that you indicate children regardless of age, however, as this allows you to reserve a seat in the family compartment or toddler area. Accompanying children are only listed on the ticket from the age of 6.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer--einloesen)
-
- Wofür brauche ich die BahnBonus App?
+ Do children aged 6-14 have to be indicated on the ticket?
 ----------
 
-Mit der BahnBonus App können Sie ganz bequem am Vorteilsprogramm teilnehmen:
+Children aged 6 to 14 travel free of charge when accompanied by passengers aged 15 and over, but must be indicated when booking. Up to four children can travel on each ticket. It is not possible to add children on the adult's ticket once the journey has started.
 
-* Ihre digitale BahnBonus Karte und Sammelnummer haben Sie immer griffbereit
-* Behalten Sie Ihren aktuellen Prämien- und Statuspunktestand, inklusive aller Transaktionen und Hinweise zum Punkteverfall, immer im Blick
-* Als Statuskund:in lösen Sie Ihre Statusvorteile direkt über die App ein
-* Sie haben Zugang zu großartigen Angeboten und Aktionen bei der DB und Partnerunternehmen
-* Lösen Sie Ihre Prämienpunkte direkt gegen Prämien ein
-* Nur mit der App können Sie Prämienpunkte in der Bordgastronomie sammeln
-* Sie haben den Bordgastronomie Gutschein als Barcode direkt zum Einlösen bereit
-* Finden Sie Informationen zu Ihrer persönlichen CO₂-Einsparung
+If you are only using local transport, it is generally possible to take up to three children with you free of charge. Regional and transport association tariffs may deviate from this rule.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-brauche-ich-die-bahnbonus-app)
-
- Worauf basiert die Auslastungsinformation?
+ Can children travel free of charge to neighbouring countries?
 ----------
 
-Die Auslastungsinformation basiert auf Prognosen. In Einzelfällen kann es deshalb passieren, dass die tatsächliche Situation von der Vorhersage abweicht.
+Adults with a ticket for cross-border travel to Switzerland or Austria can take a child or grandchild up to the age of 5 free of charge (i.e. the child must accompany the parent or grandparent). It is not possible to add children on the adult's ticket once the journey has started.
 
-Zusätzlich bezieht sich die Information auf den gesamten Zug (je Klasse). Die Auslastung kann sich aber von Wagen zu Wagen zum Teil deutlich unterscheiden. Beispielsweise gibt es am Zuganfang und -ende häufig mehr freie Plätze als in der Mitte des Zuges.
+When travelling to Switzerland or Austria, children aged 6 to 14 travel free of charge. Children must be included on the adult's ticket.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woher-kommen-die-informationen)
-
- Woher weiß ich, dass es meinem Kind auf der Reise mit dem DB Junior Express gut geht?
+ What are the rules for travelling with children when using the City Ticket?
 ----------
 
-Die Kinder reisen in einer fest betreuten Gruppe. Die Betreuenden haben alle relevanten Informationen zur Reisegruppe vorliegen, darunter Kontaktdaten, Notfallkontakte und wichtige Hinweise zu den Kindern. Bei Auffälligkeiten, Zwischenfällen oder medizinischen Themen werden die hinterlegten Notfallkontakte informiert. Die Betreuenden achten durchgehend auf Orientierung, Sicherheit und Wohlbefinden der Kinder**.**
+If you are travelling with children using a City-Ticket issued with a saver or super saver fare, children pay the child fare for a single journey in the respective transport association.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wohlergehen-kind-kontaktdaten)
-
- Woran erkenne ich meine Statuslaufzeit?
+ Do children travel free of charge?
 ----------
 
-Ihre Statuslaufzeit sehen Sie in der BahnBonus App bei den Informationen zum Status sowie in Ihrem DB Kundenkonto auf bahn.de und im Navigator.
+Children up to 5 years of age always travel free of charge and do not need to be specified when booking. Children aged 6-14 travel free when accompanied by someone aged 15 or over. However, they must be specified at the time of booking. The ticket holder can bring up to 4 children per ticket.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woran-erkenne-ich-meine-statuslaufzeit)
-
- Woran erkenne ich, ob ich ein BahnBonus Statuslevel habe?
+ Are there different age rules for children?
 ----------
 
-Ob und welchen Statuslevel Sie haben, erkennen Sie in Ihrem BahnBonus Bereich in der BahnBonus App, sowie in Ihrem DB Kundenkonto auf bahn.de und im Navigator.
+In Germany, children up to the age of 14 always travel free of charge. Children aged 6-14 must be specified during booking.
+Different conditions for children apply to the following offers:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woran-erkenne-ich-ob-ich-ein-bahnbonus-statuslevel-habe)
+* Flexible fare
+* Saver fare Europe **London**, Saver fare Europe **France**, Saver fare Europe **Sweden** and Saver fare Europe **Czech Republic**
 
- Woran liegt es, dass das Hörbuch im ICE Portal während des Abspielens stoppt?
+ Can I take a pushchair with me?
 ----------
 
-Bei iOS Geräten kann es passieren, dass bei einem Hörbuch am Ende eines Kapitels die Wiedergabe stoppt wenn sich in der Zwischenzeit der Sperrbildschirm aktiviert. Sie sollten deshalb den Sperrbildschirm für die Dauer des Hörbuches deaktivieren.
+Yes. Please note that the space available on the train is limited. We recommend slings or pushchairs that can be easily folded and stowed away.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/woran-liegt-es-dass-das-hoerbuch-waehrend-des-abspielens-stoppt)
-
- Worauf sollte ich achten, wenn ich meinen Antrag auf Fahrgastrechte geltend machen möchte?
+ How can I purchase a DB gift voucher?
 ----------
 
-Wenn Sie in Zügen des Nah- und Fernverkehrs gereist sind, reichen Sie uns bitte online oder postalisch Ihre Fahrkarte für die Nutzung des Fernverkehrszuges auch sowie eine Kopie Ihres Schwerbehindertenausweises und eine Kopie Ihrer Wertmarke ein.
+To buy a DB gift voucher **online**, you need to log in to your customer account. DB gift vouchers are available with a value of EUR 10, 20, 50 or 100. You can also personalise your gift voucher during the ordering process. After you have completed the purchase, you will receive the DB gift voucher as a PDF sent to your e-mail address.
 
-Reichen Sie bitte alle Belege (zum Beispiel eine Quittung für ein Taxi oder eine Hotelrechnung), die aus Ihrer Sicht für die Bearbeitung Ihres Antrags ebenfalls wichtig sein könnten und im direkten Zusammenhang mit Ihrer Reise stehen, mit ein.
+Alternatively, you can also buy DB gift vouchers **at DB Travel Centres or DB agencies**.
 
-Stellen Sie uns ergänzende Informationen zur Verfügung, wodurch die von Ihnen verauslagten Kosten entstanden sind.
+It is **not possible to pay** for DB gift vouchers v**ia direct debit or using another voucher**.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/worauf-achten-bei-antrag-auf-fahrgastreche)
-
- Worauf muss ich beim ICE Portal besonders bei Android Geräten achten?
+ Where can I redeem a DB gift voucher?
 ----------
 
-Falls Sie ein Smartphone mit dem Betriebssystem Android nutzen, werden Sie nach der Herstellung der Verbindung mit dem Zug-WLAN betriebssystembedingt nicht automatisch auf das ICE Portal weitergeleitet. Daher müssen Sie nach der WLAN-Einwahl „**ICEportal.de**“ in den Browser eingeben.
+You can redeem DB gift vouchers:
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/worauf-muss-ich-besonders-bei-android-geraeten-achten)
+* On bahn.de
+* In the DB Navigator app
+* At a DB Travel Centre
+* At a DB agency
 
- Worauf muss beim ICE Portal besonders bei Apple Geräten achten?
+ For which products can I redeem a DB gift voucher?
 ----------
 
-Die Funktion „iCloud Private Relay“ ab iOS 15 soll u.a. für anonymisiertes Surfen im Internet sorgen. Im Zug hindert diese Funktion jedoch Ihr Endgerät daran, eine Verbindung zum ICE Portal herzustellen.
+DB gift vouchers can be redeemed for DB products (e.g. BahnCards), but cannot be used to purchase other DB gift vouchers and season tickets such as the Deutschland-Ticket. If the value of the DB gift voucher is higher than the purchase price of the product for which you redeem it, you will receive the remaining value in the form of a voucher.
 
-Für die Dauer der Nutzung des ICE Portals sollte diese Funktion deaktiviert sein. Ob die Funktion ausgeschaltet ist, können Sie unter „Einstellungen“ ⇒ „Apple-ID“ ⇒ „iCloud“ ⇒ „Private Relay“ kontrollieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/worauf-muss-ich-besonders-bei-apple-geraeten-achten)
-
- Wozu brauche ich eine 2-Faktor-Authentifizierung?
+ How long are DB gift vouchers valid?
 ----------
 
-Die 2-Faktor-Authentifizierung schützt Ihre Login und Ihre Kundendaten vor unerlaubten Zugriffen. Insbesondere das Phishing Ihrer Login-Daten wird durch die 2-Faktor-Authentifizierung unterbunden.
+DB gift vouchers are valid for five years from the date of purchase.
 
-Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre DB Kundenkonto-Daten zu gewährleisten. Es ist aber keine Pflicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wozu-benoetige-ich-eine-2-faktor-authentifizierung)
-
- Wer bearbeitet mein Entschädigungsanliegen und was ist das Servicecenter Fahrgastrechte?
+ How will I be refunded if I cancel a ticket purchased with a voucher?
 ----------
 
-Grundsätzlich werden Entschädigungsanliegen immer von dem Eisenbahnunternehmen bearbeitet, das das Ticket ausgegeben hat. In der Regel erkennen Sie das ausgebende Eisenbahnunternehmen am Logo auf dem Ticket.
+Refunds will be made to the respective means of payment used. If you paid by credit card, the refund amount will be credited back to your credit card. In the case of a bank transfer, the refund will be credited back to your bank account. If you paid with a voucher, the refund will also be made in the form of a voucher.
 
-Zur Abwicklung der Entschädigungsansprüche hat die Deutsche Bahn gemeinsam mit den Nichtbundeseigenen Eisenbahnen in Deutschland ein einheitliches Verfahren eingeführt.
+If you paid using multiple combined means of payment, the partial amounts will be refunded to the respective means of payment.
 
-Hierbei ist das Servicecenter Fahrgastrechte (SC FGR) zentraler Dienstleister zur Bearbeitung der Entschädigungsanträge. Neben der Deutschen Bahn lassen zahlreiche weitere Eisenbahnunternehmen die fahrgastrechtlichen Ansprüche Ihrer Kund:innen im SC FGR bearbeiten. Wenn Sie wissen möchten, welche Eisenbahnunternehmen das genau sind, finden Sie [hier](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/service-center) eine Übersicht.
-
-Wenn Sie ein Ticket an das SC FGR schicken, das von einem Eisenbahnunternehmen stammt, das nicht am gemeinsamen Verfahren teilnimmt, ist das kein Problem. In diesem Fall wird das SC FGR Ihr Anliegen selbstverständlich an die zuständige Bahn weiterleiten. Tipp: Um die Bearbeitungsdauer zu verkürzen, wenden Sie sich am besten direkt an das jeweilige Eisenbahnunternehmen, das Ihr Ticket ausgegeben hat.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wozu-brauchen-wir-ein-servicecenter-fahrgastrechte)
-
- Wozu ist der QR-Code auf dem Digitalen Ticket gut?
+ Which trains offer wifi?
 ----------
 
-Der QR Code auf dem Digitalen Ticket dient zur Ticketkontrolle im Zug. Das Digitale Ticket wird mit diesem Code in das Kontrollgerät eingelesen. Das Digitale Ticket enthält ein Zertifikat, das die 'Echtheit' des Tickets garantiert. Ihre persönlichen Daten (z. B. Adresse oder Telefonnummer) sind nicht enthalten.
+Wifi is available on board all of our ICE trains, on some of our IC trains and on selected regional trains. We are gradually rolling out wifi for our entire long-distance fleet.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wozu-ist-der-qr-code-auf-dem-online-ticket-gut)
-
- Wie viele Gutscheine kann ich in der Rabattaktion kaufen?
+ Is wifi available on all routes to and from locations outside of Germany?
 ----------
 
-Es können maximal 5 DB Geschenkgutscheine pro Warenkorb in der 10 % Rabattaktion beim Vertriebspartner cadooz GmbH erworben werden.
+Yes. Free wifi is available on all of these connections. You can keep surfing even as you cross international borders and stay connected in Austria, Switzerland, France, Belgium and the Netherlands.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wv-gutscheine-kann-ich-kaufen)
-
- Was kann ich tun, wenn ich bei Buchung eines Tickets und/oder einer Reservierung mehrmals belastet wurde?
+ Is the surfing time with free wifi limited?
 ----------
 
-Rufen Sie uns unter [030 2970](tel:030 2970) an.
+No, there is no time limit on free wifi use throughout the journey.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlung-doppelt-abgebucht)
-
- Welche Zahlungsarten sind für den Kauf der rabattierten DB Geschenkgutscheine zugelassen?
+ How many different devices can I connect to the wifi at the same time?
 ----------
 
-Die DB Geschenkgutscheine der 10 % Rabattaktion können per MasterCard, VISA, Apple Pay, Google Pay bei unserem Vertriebspartner cadooz GmbH bezahlt werden. Eine Zahlung per DB Geschenkgutschein oder per Lastschrift ist nicht möglich.
+You can use the internet on the train with as many devices as you like, such as your smartphone, tablet and laptop, simultaneously.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlungsarten)
-
- Zeigt mir das internationale Buchungssystem automatisch den günstigsten Preis an?
+ Why is the wifi on the Intercity called WIFIonICE and not, for example, WIFIonIC?
 ----------
 
-Wir versuchen, Ihnen auch bei internationalen Verbindungen den günstigsten Ticketpreis herauszusuchen. Eine Bestpreis-Garantie können wir aufgrund der Kombination aus verschiedenen Systemen und unterschiedlichen Angeboten je Land leider nicht gewährleisten, da wir abhängig von den Angeboten und Verfügbarkeiten in den verschiedenen Buchungssystemen sind.
+The wifi in the Intercity fleet is called WIFIonICE, just as it is in the ICE fleet, so you don't have to remember two different names and access variants.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeigt-mir-das-internationale-buchungssystem-automatisch-den-guenstigsten-preis-an)
-
- Welche Möglichkeiten habe ich bei einem Zugausfall oder Verspätung?
+ What can I do with the wifi offered in first class?
 ----------
 
-Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort haben Sie auch bei zuggebundenen Fahrkarten folgende Optionen:
+The wifi in first class is set up so that you can work reliably and free of charge. This means you can set up VPN connections, perform research online and send large e-mail attachments, as well as enjoying short videos and music streams.
 
-* Sie können bei nächster Gelegenheit die Fahrt auf der gleichen Strecke oder über eine andere Strecke fortsetzen.
-* Sie können die Fahrt zu einem späteren Zeitpunkt fortsetzen, wenn dadurch die Ankunftsverspätung am Zielbahnhof reduziert werden kann.
-* Sie können einen anderen, nicht reservierungspflichtigen Zug nutzen.
-
-Ausgenommen von dieser Regel sind reservierungspflichtige Züge, z.B. Nachtzüge.
-
-**Nutzung eines "höherwertigen" Zuges**
-Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen und einen höherwertigen Zug (z. B. Züge des Fernverkehrs, also IC/EC, ICE) nutzen möchten, müssen Sie zunächst die zusätzlich erforderliche Fahrkarte oder den Aufpreis bezahlen. Anschließend können Sie die Kosten im Rahmen Ihrer Fahrgastrechte zurückfordern.
-
-Diese Regelung gilt nicht bei stark ermäßigten Fahrkarten (z. B. Schönes-Wochenende-Ticket, Länder-Tickets).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zugausfall-verspaetung)
-
- In welchen Fällen ist die Zugbindung aufgehoben und was bedeutet das?
+ What can I do with the wifi offered in second class?
 ----------
 
-Bei Tickets mit Zugbindung (Sparpreisen) ist diese **Zugbindung** in **folgenden Fällen aufgehoben**:
+The wifi in second class lets you surf, mail and chat for free. VPN connections are also possible here.
 
-* Bei **erwartbarer Verspätung am Zielort** von:
-   mindestens 20 Minuten bei nationalen Reisen
-   mindestens 60 Minuten bei internationalen Reisen
-
-* Bei **Zugausfall**
-* Bei **Haltausfall**
-* Wenn Sie Ihren **Anschlusszug nicht erreichen**
-* Wenn es durch eine Fahrplanänderung zu einer **verfrühten Abfahrt** des Zuges kommt
-
-**Zugbindung aufgehoben bedeutet**:
-
-* Für Reisen mit Fernverkehr-Tickets: Sie können mit Ihrem ursprünglichen Ticket alle DB Fernverkehrszüge (ICE, IC/EC) und Nahverkehrszüge (RE, RB, IRE, S-Bahnen) nutzen.
-* Hinweis für die Nutzung von (Super) Sparpreisen, die nur in Zügen des Fernverkehrs (ICE/IC/EC) gültig sind: Für die Weiterfahrt in den Nahverkehrszügen der Westfalenbahn (RE 60, RE 70 und RE 15) auf den Streckenabschnitten Hannover-Hamm, Hannover-Osnabrück, Rheine – Osnabrück, Hannover – Braunschweig und Emden-Münster benötigen Sie ein zusätzliches Ticket zum Nahverkehrstarif. Die Kosten können Sie über das Servicecenter Fahrgastrechte erstatten lassen.
-* Für Reisen mit Fahrkarten des Nahverkehrs: Sie können einen anderen Nahverkehrszug nutzen. Bei Nutzung eines höherwertigen Zugs (z.B. IC/EC, ICE) müssen Sie ein zusätzliches Ticket kaufen. Die Kosten können Sie über das Servicecenter Fahrgastrechte erstatten lassen. Diese Regelung gilt nicht für erheblich ermäßigte Fahrkarten (z.B. Deutschland-Ticket, Länder-Tickets).
-* Sie können eine spätere Verbindung Ihrer Wahl nutzen (z.B. später am selben Reisetag, einen Tag später oder auch erst in 3 Wochen. Dies ist bis zu einem Jahr nach ursprünglichem Reisedatum möglich).
-* Für Reisen im Fernverkehr können Sie auch eine frühere Verbindung am selben Reisetag nehmen.
-* Sie haben freie Wahl der Reiseroute. Die Reise zum auf der Fahrkarte angegebenen Zielort kann also auch über eine andere Strecke führen.
-* Innerhalb Deutschlands benötigen Sie keine zusätzliche Bescheinigung zur Aufhebung der Zugbindung. Sie können sich aber auf expliziten Wunsch eine Bescheinigung ausstellen lassen (z.B. im Zug, im Reisezentrum oder an der DB Information).
-
-**Bei internationalen Reisen ist Folgendes zu beachten:**
-
-* Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
-* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen Zug einen neuen Sitzplatz kostenpflichtig selbst [auf der Sitzplatzreservierung-Seite](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
-
-Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
-
-* [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
-
- Wie kann ich mich zum BahnBonus Programm anmelden?
+ How secure is the wifi network on the train?
 ----------
 
-[Hier](http://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)können Sie sich zu BahnBonus anmelden.
+The wifi network on our trains is a public network, similar to the systems used in hotels or cafes. As with any public network, it is not possible to completely protect communication against interception.
+Our wifi system includes a range of security features that make data transfer safer than in similar wifi networks in cafes and other public places. These features include client isolation, which prevents one device in the network from accessing data on another device in the same network. To ensure secure transmission, especially for sensitive data, we recommend that you use a VPN connection and only access https pages.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden)
-
- Brauche ich eine BahnCard, um mich zum BahnBonus Programm anzumelden?
+ Can I take luggage on the train free of charge?
 ----------
 
-Nein, für die Teilnahme am BahnBonus Programm brauchen Sie keine BahnCard.
+Luggage such as briefcases, laptops, backpacks, suitcases, etc. can be taken along free of charge.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden-mit-bahncard)
-
- Welche Vorteile habe ich als BahnCard-Inhaber:in bei Anmeldung zum BahnBonus Programm?
+ Can I choose specific seats close to areas where I can easily stow my larger luggage?
 ----------
 
-Mit der Teilnahme am BahnBonus Programm, profitieren Sie bei BahnCard- und Fahrkartenkäufen, nicht nur von dem Rabatt Ihrer BahnCard, sondern sammeln gleichzeitig auch Prämien- und Statuspunkte. Als Vielfahrer können Sie somit auch einen BahnBonus Statuslevel erreichen. Für den Kauf der BahnCard Business erhält der Geschäftsreisende BahnBonus Punkte i.H.d. Kaufpreises der Karte.
+Yes. If you reserve a seat online, you can select a seat near a baggage rack in the second booking step using the graphical overview ("Reserve requested seat" and then "Select seat"). Alternatively, you can look for rows of seats in the graphical overview with the seat backs facing in opposite directions, i.e. back to back. This is because there is a space between the rows of seats in which you can store your luggage at floor level. Please put any wheeled suitcases down so that they do not roll away during the journey and endanger other passengers.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden-vorteile-mit-bahncard)
-
- Gibt es besondere Regelungen für die Mitnahme von zusammengelegten Fahrrädern in internationalen Zügen nach Österreich und/oder Norditalien?
+ Is it ok to place my luggage next to safety devices?
 ----------
 
-Zusammengelegte Fahrräder können in den DB-ÖBB-Kooperationszügen zwischen München und Norditalien (z.B. nach/von Verona, Venedig, Bologna) über Österreich mitgenommen werden, wenn sie die Maße 90x60x40 cm einhalten. Diese Räder sind unverpackt, wie Handgepäck über oder unter dem Sitz bzw. in den vorhandenen Gepäckregalen zu verstauen.
+Aisles, doors and safety devices such as fire extinguishers **must** remain unobstructed for your safety.
+Always follow the instructions of the on-board crew.
 
-Ein zusammengelegtes Fahrrad mit größeren Maßen gilt als kostenpflichtiges Fahrrad. Dies kann mit Fahrradkarte sowie einer Stellplatzreservierung mitgenommen werden. Dazu darf es jedoch nicht zusammengelegt sein.
-
-[Weitere Informationen zur Fahrradmitnahme im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zusammengelegte-raeder-italien-oesterreich)
-
- Warum ist beim Service DB Junior Express ein Ein- und Ausstieg an Zwischenhalten nicht möglich?
+ What items should I carry in my hand luggage rather than in my suitcase?
 ----------
 
-Der Service DB Junior Express befindet sich im Aufbau. Er begleitet Kinder ausschließlich vom Start- bis zum Zielbahnhof der gebuchten Direktverbindung. Eine den besonderen Sicherheitsanforderungen genügende Übergabe an den Unterwegshalten ist aktuell noch nicht möglich.
+Pack important and valuable items in your hand luggage and do not pack them in your suitcase. These include medicines, medical records, keys and laptops.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zwischenhalte-nicht-moeglich)
+ What other luggage items can I take on the train?
+----------
+
+In addition to bags, trolleys and suitcases, you can also take the following:
+
+**Prams and pushchairs:**
+For train journeys, we recommend easily foldable models or buggies that are easy to stow away. Some train types have spaces for prams and pushchairs in the family compartment, partly in the newly introduced family areas or in their immediate vicinity.
+
+Lots of families travel during holidays, on weekends or before public holidays. On these days, it can be difficult to take prams and pushchairs on board as there is only limited space available. You should always be able to store your luggage in the luggage compartment, the luggage rack or under the seat. This also applies to prams and pushchairs because aisles and door areas (escape routes) must remain clear, and safety devices such as fire extinguishers must be accessible.
+
+**Folding bicycles, folding pedelecs, small electric vehicles:**
+Folding bicycles, folding pedelecs and small electric vehicles (e.g. electric scooters, tread scooters, kickboards, etc.) may be carried when folded, provided they can be stowed safely (e.g. in the luggage rack) and do not obstruct or injure other passengers, or damage the carriage.
+
+**Bicycles:**
+The long-distance trains on which you may take bicycles are marked accordingly in the arrival and departure timetables, and in our travel information. You will need a long-distance transport bicycle ticket and a storage space reservation. The reservation is free of charge and included in the price of your bicycle ticket.
+
+Storage spaces are generally located in second class carriages. You can also reserve a seat on request. The seat and the storage space will generally be in the same carriage. In certain cases, however, the storage space and the seat may be in two different carriages. Each passenger can only take one bicycle.
+
+**Orthopaedic aids:**
+We will of course transport your orthopaedic aids, such as a wheelchair, rollator or walking frame, free of charge. Different regulations apply in some transport associations.
+
+ How big can my luggage items be?
+----------
+
+The following standard dimensions were assumed when dimensioning the luggage racks and almost always fit: 700 x 500 x 300 mm (height x width x depth).
+
+ How do I stow my luggage on the train?
+----------
+
+**Luggage under your own seat**
+Please ensure that you can stow your luggage independently in the luggage rack or underneath the seat.
+
+**Luggage racks in the open saloon section**
+Many of our trains offer luggage racks for large suitcases in the open saloon section. These are located either near the doors or in the middle of the carriage. If you wish to keep your bag with you, place it in one of the luggage racks above your seat or, if possible, under the seat.
+
+**Luggage racks in the compartment**
+Compartments only have luggage racks above the seats. The Intercity 2 is an exception, as the small shelves above the seats are not suitable for suitcases. Additional luggage racks are provided here.
+
+ How much luggage can I take on the train?
+----------
+
+In addition to your hand luggage, you are allowed to carry one additional larger piece of luggage or item free of charge, provided this load can be carried by one person alone. Due to its size, it may need to be stored outside your seating area, e.g. in the nearest luggage rack. Each passenger is responsible for supervising their own luggage.
+
+ How can I log into the ICE Portal?
+----------
+
+1. Connect your device to "**WIFIonICE**" on ICE train.
+2. On most devices, a login page will then open automatically. On this page, click to accept the General Terms and Conditions (GTC) and confirm by clicking on "Browse now for free". If you are not automatically directed to the login page, please enter "Login.WIFIonICE.de" in your browser.
+3. Once connected, you can open the ICE Portal by clicking on "Continue" on the browser page or by entering **"ICEportal.de"** in your browser.
+
+ Will my data allowance be used when I view content on the ICE Portal?
+----------
+
+You can only use the ICE Portal if you are connected to the wifi on ICE trains. The ICE Portal content is retrieved from a hard disk on the train, so your data allowance will not be affected.
+
+ Where is the ICE Portal available?
+----------
+
+The ICE Portal is available on all ICE trains.
+
+ How do I choose where I am getting off the train?
+----------
+
+A window opens up from the "Reiseplaner" on the black train progress bar on the home page, showing the route of the current journeys. You can then select a station on the route to get off at or make a connection. You can also view your connections at the selected station.
+
+ Where can I find information about my current trip in the ICE Portal?
+----------
+
+The black train progress bar, which is located on the home page or at the top of the screen when you are browsing the portal, always provides you with the relevant information about your journey. In addition to the speed of the train, the next stop and the map with the current position of the train, you can also select your stop and your connections here. In the event of any delays, you will receive a notification as to whether you will still reach the selected connecting train.
+
+ What do I have to pay particular attention to with Android devices in the ICE Portal?
+----------
+
+If you are using a smartphone with the Android operating system, you will not be automatically redirected to the ICE Portal after connecting to the train wifi due to the operating system. Therefore, you must enter **"ICEportal.de**" in your browser after connecting to the wifi.
+
+ What do I have to pay particular attention to with Apple devices in the ICE Portal?
+----------
+
+The "iCloud Private Relay" function from iOS 15 is intended, among other things, to ensure anonymous browsing on the internet. On the train, however, this function prevents your device from connecting to the ICE Portal.
+
+This function should be deactivated for the duration of use of the ICE Portal. You can check whether the function is switched off under "Settings" ⇒ "Apple ID" ⇒ "iCloud" ⇒ "Private Relay".
+
+ What does the ICE Portal's digital on-board catering service offer?
+----------
+
+The digital on-board catering service offers 1st class travellers on ICE trains the possibility to order food and drink to their seat digitally via the ICE Portal. You can also place your order with the 1st class service staff or visit the dining car or bistro car.
+
+Passengers in 2nd class can use the digital menu on the ICE Portal to find out about the food and drink available on the train. We are happy to take orders personally in the dining car or bistro car.
+
+ How do I know if my order can be accepted?
+----------
+
+After you have placed your order, you will first receive a message that your order has been sent to the staff. Close the information box and wait for an update on your order on the overview page.
+
+Keep the ICE Portal open in your browser until a message appears telling you that your order is being prepared. You can use the other services on the ICE Portal or visit other internet pages in a separate browser window while you are waiting for confirmation. You can retrieve your order summary at any time during this period.
+
+ Where can I find the shopping basket in the ICE Portal?
+----------
+
+When the ordering service is activated, a shopping basket symbol appears directly next to each item which you can use to place the products in the shopping basket. The shopping basket is then displayed at the top of the screen under the travel information. Click on it to navigate to the shopping basket and complete your order.

@@ -95,8 +95,6 @@ Ja, Sie wählen den gewünschten 1. Geltungstag und ab diesem Datum können Sie 
 
 Bitte beachten Sie: ab 3 Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 100 können Sie diese mit Ihrem Smartphone verknüpfen, spätestens jedoch vor Ihrem Reiseantritt. Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 im DB Navigator verfügbar. Diesen benötigen Sie bei der Ticketkontrolle.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-sofort-nutzen)
-
 ###  Wo finde ich meine digitale BahnCard 100 in der App DB Navigator und wo das zusätzliche Deutschland-Ticket?  ###
 
 Sie finden Ihre digitale BahnCard 100 und das zusätzliche Deutschland-Ticket im eingeloggten Zustand in der App DB Navigator im Menübereich "Reisen" unter "Zeitkarten & Abos".
@@ -104,8 +102,6 @@ Sie finden Ihre digitale BahnCard 100 und das zusätzliche Deutschland-Ticket im
 Sollten Sie Ihre BahnCard 100 nicht direkt sehen, wischen Sie einfach im Bereich "Zeitkarten & Abos" von rechts nach links bis Sie zu Ihrer gewünschten BahnCard 100 gelangen. Indem Sie diese antippen, können Sie den QR-Code der digitalen BahnCard 100 im DB Navigator jederzeit aufrufen. Diesen benötigen Sie bei der Ticketkontrolle.
 
 Bitte denken Sie daran, Ihre digitale BahnCard 100 vor dem Reiseantritt mit Ihrem Smartphone zu verknüpfen. Gehen Sie genauso für das zusätzliche Deutschland-Ticket vor.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-wo)
 
 ###  Wie verknüpfe ich meine digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket mit meinem Smartphone?  ###
 
@@ -115,25 +111,17 @@ Tippen Sie im Menübereich "Reisen" unter "Zeitkarten & Abos" auf Ihre BahnCard 
 
 Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 in der App DB Navigator verfügbar. Diesen benötigen Sie bei der Ticketkontrolle. Sie können den Code jederzeit aufrufen, indem Sie die BahnCard 100 im Menübereich "Reisen" unter "Zeitkarten & Abos" antippen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen)
-
 ###  Wie oft kann ich meine digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket mit einem anderen Smartphone verknüpfen?  ###
 
 Ihre BahnCard 100 als Jahreskarte können Sie während der Gültigkeit selbst dreimal mit einem anderen Gerät verknüpfen. Das gilt auch für das zusätzliche digitale Deutschland-Ticket. Bei einer Probe BahnCard 100 und dem zusätzlichen digitalen Deutschland-Ticket ist das einmal während der Gültigkeit möglich. Dabei können die BahnCard 100 und das Deutschland-Ticket unabhängig voneinander auf unterschiedlichen Geräten verknüpft werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-wie-oft)
 
 ###  Kann ich meine digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket nur auf einem Smartphone gemeinsam verknüpfen?  ###
 
 Nein, Sie können Ihre digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket auch getrennt voneinander auf unterschiedlichen Geräten verknüpfen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-gemeinsam-smartphone)
-
 ###  Ich habe kein Smartphone. Kann ich die digitale BahnCard 100 trotzdem nutzen?  ###
 
 In diesem Fall wenden Sie sich bitte an den [BahnCard Service](https://www.bahn.de/hilfe#/bahncard).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-kein-smartphone)
 
 ###  Ich finde meine neue digitale BahnCard 100 nicht in der App DB Navigator. Was muss ich tun?  ###
 
@@ -141,13 +129,9 @@ Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der B
 
 Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard 100 in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „Zeitkarten & Abos".
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-navigator)
-
 ###  Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard 100 trotzdem nutzen?  ###
 
 Der Kauf einer BahnCard 100 ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, zum Beispiel Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-keine-email-adresse)
 
 ###  Was passiert, wenn mein Smartphone-Akku leer ist oder ich mein Smartphone nicht bei mir habe?  ###
 
@@ -156,19 +140,13 @@ Wenn Sie Ihre BahnCard bei der Fahrkartenkontrolle nicht vorzeigen können, erha
 Für eine Rückerstattung (abzüglich Bearbeitungsgebühr) melden Sie sich innerhalb von 14 Tagen bequem online über [db-fn.de](https://db-fn.de/) oder in einem DB Reisezentrum. Sie brauchen dafür Ihre zum Zeitpunkt der
 Fahrt gültige BahnCard, den Fahrpreisnacherhebungsbeleg und bei einer BahnCard 25/50 die ursprüngliche Fahrkarte mit dem BahnCard-Rabatt.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-smartphone-akku-leer-ist-oder-ich-mein-smartphone-nicht-bei-mir-habe)
-
 ###  Kann ich den Komfort Check-in auch mit meiner BahnCard 100 nutzen?  ###
 
 Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht möglich, da hierfür ein Digitales Ticket zum Flex-, Spar- oder Super Sparpreis notwendig ist.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/nutzung-kci-mit-bc100)
-
 ###  Brauche ich die BahnCard Nummer, um BahnBonus Punkte zu sammeln?  ###
 
 Nein, Sie sammeln mit Ihrer BahnBonus Nummer. Diese finden Sie in Ihrem DB Kundenkonto, Bereich "BahnBonus".
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/brauche-ich-bahncard-nummer-um-bahnbonus-punkte-zu-sammeln)
 
 BahnCard Datenschutzhinweise
 ----------
