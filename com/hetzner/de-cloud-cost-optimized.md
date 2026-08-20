@@ -25,42 +25,18 @@ Da für diese Anwendungsbereiche weitergenutzte, bewährte Hardwaregenerationen 
 
  RAM
 
- SSD
-
- Preis
+ Drives
 
 []()
 
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
-CX23
-
- nicht verfügbar
-
- 2
-
- Intel®/AMD
-
- 4 GB
-
- 40 GB
-
-max.  /Monat
-
- /Stunde
+ Preis
 
  CX23
 
  nicht verfügbar
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  2
 
  Intel®/AMD
@@ -69,34 +45,36 @@ max.  /Monat
 
  40 GB
 
-CAX11
+ NVMe
 
- nicht verfügbar
+ ab  /Monat  ab /Monat
 
- 2
+ /Stunde  /Stunde
 
- Ampere®
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 4 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cx23&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
- 40 GB
+Details
 
-max.  /Monat
+ eu-central NBG1 HEL1
 
- /Stunde
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CAX11
 
  nicht verfügbar
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  2
 
  Ampere®
@@ -105,34 +83,36 @@ max.  /Monat
 
  40 GB
 
-CX33
+ NVMe
 
- nicht verfügbar
+ ab  /Monat  ab /Monat
 
- 4
+ /Stunde  /Stunde
 
- Intel®/AMD
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 8 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cax11&useIPv4=true&useIPv6=false&usePrivateNet=false&location=fsn1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
- 80 GB
+Details
 
-max.  /Monat
+ eu-central NBG1 HEL1
 
- /Stunde
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CX33
 
  nicht verfügbar
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  4
 
  Intel®/AMD
@@ -141,34 +121,36 @@ max.  /Monat
 
  80 GB
 
-CAX21
+ NVMe
 
- nicht verfügbar
+ ab  /Monat  ab /Monat
 
- 4
+ /Stunde  /Stunde
 
- Ampere®
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 8 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cx33&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
- 80 GB
+Details
 
-max.  /Monat
+ eu-central NBG1 HEL1
 
- /Stunde
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CAX21
 
  nicht verfügbar
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  4
 
  Ampere®
@@ -177,34 +159,36 @@ max.  /Monat
 
  80 GB
 
-CX43
+ NVMe
 
- nicht verfügbar
+ ab  /Monat  ab /Monat
 
- 8
+ /Stunde  /Stunde
 
- Intel®/AMD
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 16 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cax21&useIPv4=true&useIPv6=false&usePrivateNet=false&location=nbg1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
- 160 GB
+Details
 
-max.  /Monat
+ eu-central NBG1 HEL1
 
- /Stunde
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CX43
 
  nicht verfügbar
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  8
 
  Intel®/AMD
@@ -213,34 +197,36 @@ max.  /Monat
 
  160 GB
 
-CAX31
+ NVMe
 
- nicht verfügbar
+ ab  /Monat  ab /Monat
 
- 8
+ /Stunde  /Stunde
 
- Ampere®
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 16 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cx43&useIPv4=true&useIPv6=false&usePrivateNet=false&location=nbg1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
- 160 GB
+Details
 
-max.  /Monat
+ eu-central NBG1 HEL1
 
- /Stunde
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CAX31
 
  nicht verfügbar
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  8
 
  Ampere®
@@ -249,34 +235,36 @@ max.  /Monat
 
  160 GB
 
-CX53
+ NVMe
 
- nicht verfügbar
+ ab  /Monat  ab /Monat
 
- 16
+ /Stunde  /Stunde
 
- Intel®/AMD
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 32 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cax31&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
- 320 GB
+Details
 
-max.  /Monat
+ eu-central NBG1 HEL1
 
- /Stunde
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CX53
 
  nicht verfügbar
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  16
 
  Intel®/AMD
@@ -285,34 +273,36 @@ max.  /Monat
 
  320 GB
 
-CAX41
+ NVMe
 
- nicht verfügbar
+ ab  /Monat  ab /Monat
 
- 16
+ /Stunde  /Stunde
 
- Ampere®
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 32 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cx53&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
- 320 GB
+Details
 
-max.  /Monat
+ eu-central NBG1 HEL1
 
- /Stunde
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CAX41
 
  nicht verfügbar
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  16
 
  Ampere®
@@ -320,6 +310,38 @@ max.  /Monat
  32 GB
 
  320 GB
+
+ NVMe
+
+ ab  /Monat  ab /Monat
+
+ /Stunde  /Stunde
+
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
+
+[Erstellen](https://console.hetzner.com/create/server?type=cax41&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
+
+Details
+
+ eu-central NBG1 HEL1
+
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ Mehr Produkte anzeigen
+
+ Weniger Produkte anzeigen
+
+ Preis inkl. IPv4 ▪
 
  Verfügbare Standorte
 
@@ -362,7 +384,7 @@ Der unabhängige Preis-Leistungs-Check zeigt: Hetzner bietet im Wettbewerbsvergl
 
 [Cloud-Server erstellen](https://console.hetzner.com/)
 
-Alles drin, was man braucht.
+ Alles drin, was man braucht.
 ----------
 
 API

@@ -32,38 +32,16 @@ Entwicklerteams können ihn außerdem für Kubernetes-Cluster in Entwicklungs- u
 
  RAM
 
- SSD
+ Drives
+
+[]()
+
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
  Preis
 
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
-CPX12
-
- 1
-
- AMD
-
- 2 GB
-
- 40 GB
-
-max.  /Monat
-
- /Stunde
-
  CPX12
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  1
 
  AMD
@@ -72,30 +50,48 @@ max.  /Monat
 
  40 GB
 
-CPX22
+ NVMe
 
- 2
+ ab  /Monat  ab /Monat
 
- AMD
+ /Stunde  /Stunde
 
- 4 GB
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 80 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cpx12&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
-max.  /Monat
+Details
 
- /Stunde
+ eu-central FSN1 NBG1 HEL1
+
+ Traffic inklusive
+
+ 0.5 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ ap-southeast SIN1
+
+ Traffic inklusive
+
+ 0.5 TB
+
+[]()
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CPX22
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  2
 
  AMD
@@ -104,30 +100,48 @@ max.  /Monat
 
  80 GB
 
-CPX32
+ NVMe
 
- 4
+ ab  /Monat  ab /Monat
 
- AMD
+ /Stunde  /Stunde
 
- 8 GB
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 160 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cpx22&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
-max.  /Monat
+Details
 
- /Stunde
+ eu-central NBG1 HEL1
+
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ ap-southeast SIN1
+
+ Traffic inklusive
+
+ 1 TB
+
+[]()
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CPX32
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  4
 
  AMD
@@ -136,30 +150,48 @@ max.  /Monat
 
  160 GB
 
-CPX42
+ NVMe
 
- 8
+ ab  /Monat  ab /Monat
 
- AMD
+ /Stunde  /Stunde
 
- 16 GB
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 320 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cpx32&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
-max.  /Monat
+Details
 
- /Stunde
+ eu-central NBG1 HEL1
+
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ ap-southeast SIN1
+
+ Traffic inklusive
+
+ 2 TB
+
+[]()
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CPX42
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  8
 
  AMD
@@ -168,30 +200,48 @@ max.  /Monat
 
  320 GB
 
-CPX52
+ NVMe
 
- 12
+ ab  /Monat  ab /Monat
 
- AMD
+ /Stunde  /Stunde
 
- 24 GB
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 480 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cpx42&useIPv4=true&useIPv6=false&usePrivateNet=false&location=fsn1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
-max.  /Monat
+Details
 
- /Stunde
+ eu-central NBG1 HEL1
+
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ ap-southeast SIN1
+
+ Traffic inklusive
+
+ 3 TB
+
+[]()
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CPX52
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  12
 
  AMD
@@ -200,30 +250,48 @@ max.  /Monat
 
  480 GB
 
-CPX62
+ NVMe
 
- 16
+ ab  /Monat  ab /Monat
 
- AMD
+ /Stunde  /Stunde
 
- 32 GB
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 640 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cpx52&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
-max.  /Monat
+Details
 
- /Stunde
+ eu-central NBG1 HEL1
+
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ ap-southeast SIN1
+
+ Traffic inklusive
+
+ 4 TB
+
+[]()
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CPX62
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  16
 
  AMD
@@ -232,30 +300,48 @@ max.  /Monat
 
  640 GB
 
-CPX11
+ NVMe
 
- 2
+ ab  /Monat  ab /Monat
 
- AMD
+ /Stunde  /Stunde
 
- 2 GB
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 40 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cpx62&useIPv4=true&useIPv6=false&usePrivateNet=false&location=nbg1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
-max.  /Monat
+Details
 
- /Stunde
+ eu-central NBG1 HEL1
+
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ ap-southeast SIN1
+
+ Traffic inklusive
+
+ 5 TB
+
+[]()
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CPX11
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  2
 
  AMD
@@ -264,30 +350,48 @@ max.  /Monat
 
  40 GB
 
-CPX21
+ NVMe
 
- 3
+ ab  /Monat  ab /Monat
 
- AMD
+ /Stunde  /Stunde
 
- 4 GB
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 80 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cpx11&useIPv4=true&useIPv6=false&usePrivateNet=false&location=ash)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
-max.  /Monat
+Details
 
- /Stunde
+ us-west HIL1
+
+ Traffic inklusive
+
+ 1 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ us-east ASH1
+
+ Traffic inklusive
+
+ 1 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CPX21
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  3
 
  AMD
@@ -296,30 +400,48 @@ max.  /Monat
 
  80 GB
 
-CPX31
+ NVMe
 
- 4
+ ab  /Monat  ab /Monat
 
- AMD
+ /Stunde  /Stunde
 
- 8 GB
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 160 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cpx21&useIPv4=true&useIPv6=false&usePrivateNet=false&location=ash)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
-max.  /Monat
+Details
 
- /Stunde
+ us-west HIL1
+
+ Traffic inklusive
+
+ 2 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ us-east ASH1
+
+ Traffic inklusive
+
+ 2 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CPX31
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  4
 
  AMD
@@ -328,30 +450,48 @@ max.  /Monat
 
  160 GB
 
-CPX41
+ NVMe
 
- 8
+ ab  /Monat  ab /Monat
 
- AMD
+ /Stunde  /Stunde
 
- 16 GB
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
- 240 GB
+[Erstellen](https://console.hetzner.com/create/server?type=cpx31&useIPv4=true&useIPv6=false&usePrivateNet=false&location=ash)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
-max.  /Monat
+Details
 
- /Stunde
+ us-west HIL1
+
+ Traffic inklusive
+
+ 3 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ us-east ASH1
+
+ Traffic inklusive
+
+ 3 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
 
  CPX41
 
- max/mo.
-
- /hr.
-
-[]()
-
- Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
-
  8
 
  AMD
@@ -360,30 +500,48 @@ max.  /Monat
 
  240 GB
 
-CPX51
+ NVMe
 
- 16
+ ab  /Monat  ab /Monat
 
- AMD
-
- 32 GB
-
- 360 GB
-
-max.  /Monat
-
- /Stunde
-
- CPX51
-
- max/mo.
-
- /hr.
-
-[]()
+ /Stunde  /Stunde
 
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
+[Erstellen](https://console.hetzner.com/create/server?type=cpx41&useIPv4=true&useIPv6=false&usePrivateNet=false&location=ash)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
+
+Details
+
+ us-west HIL1
+
+ Traffic inklusive
+
+ 4 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ us-east ASH1
+
+ Traffic inklusive
+
+ 4 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ CPX51
+
  16
 
  AMD
@@ -391,6 +549,52 @@ max.  /Monat
  32 GB
 
  360 GB
+
+ NVMe
+
+ ab  /Monat  ab /Monat
+
+ /Stunde  /Stunde
+
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
+
+[Erstellen](https://console.hetzner.com/create/server?type=cpx51&useIPv4=true&useIPv6=false&usePrivateNet=false&location=ash)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
+
+Details
+
+ us-west HIL1
+
+ Traffic inklusive
+
+ 5 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ us-east ASH1
+
+ Traffic inklusive
+
+ 5 TB
+
+[]()
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ Mehr Produkte anzeigen
+
+ Weniger Produkte anzeigen
+
+ Preis inkl. IPv4 ▪
 
  Verfügbare Standorte
 
@@ -420,7 +624,7 @@ Aktuelle Generationen von Intel und AMD sorgen für mehr Leistung als beim Cost-
 
 [Cloud-Server erstellen](https://console.hetzner.com/)
 
-Alles drin, was man braucht.
+ Alles drin, was man braucht.
 ----------
 
 API

@@ -122,7 +122,7 @@ Die Dedicated Cloud-Server weisen deinem Projekt dedizierte vCPUs zu und ermögl
  Der Kostencheck für deinen Cloud-Server
 ----------
 
-Alles drin, was man braucht.
+ Alles drin, was man braucht.
 ----------
 
 API

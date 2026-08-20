@@ -38,11 +38,11 @@ Warn-App NINA herunterladen
 
 **Download**  vnd.android.package-archive, 33MB, Datei ist nicht barrierefrei
 
-[Herunterladen](/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=16)
+[Herunterladen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=16)
 
 Nicht bestellbar
 
-[](/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=16)
+[](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=16)
 
 Anfragen zur Warn-App NINA über NINA HelpDesk
 ----------
@@ -67,51 +67,51 @@ Nachfolgend erhalten Sie **Schritt-für-Schritt-Anleitungen** sowie spezielle he
 
 Die Informationen und Anleitungen zu wichtigen Smartphone-Einstellungen von Betriebssystemen und Geräteherstellern werden fortlaufend aktualisiert.
 
-* [Einstellungen für iOS](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
+* [Einstellungen für iOS](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
 
    Warn-App NINA
 
-  [](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
+  [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
 
-* [Einstellungen für Android](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
+* [Einstellungen für Android](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
 
    Warn-App NINA
 
-  [](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
+  [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
 
 Funktionen und Inhalte der Warn-App
 ----------
 
 ###  Funktionen und Inhalte: Warnmeldungen ###
 
-[Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Warnmeldungen/warnmeldungen_node.html)
+[Mehr erfahren](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Warnmeldungen/warnmeldungen_node.html)
 
-[](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Warnmeldungen/warnmeldungen_node.html)
+[](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Warnmeldungen/warnmeldungen_node.html)
 
 ###  Funktionen und Inhalte: Orte abonnieren ###
 
-[Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Orte-abonnieren/orte-abonnieren_node.html)
+[Mehr erfahren](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Orte-abonnieren/orte-abonnieren_node.html)
 
-[](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Orte-abonnieren/orte-abonnieren_node.html)
+[](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Orte-abonnieren/orte-abonnieren_node.html)
 
 ###  Funktionen und Inhalte: Kartenansicht ###
 
-[Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Kartenansicht/kartenansicht_node.html)
+[Mehr erfahren](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Kartenansicht/kartenansicht_node.html)
 
-[](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Kartenansicht/kartenansicht_node.html)
+[](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Kartenansicht/kartenansicht_node.html)
 
 ###  Funktionen und Inhalte: Themen ###
 
-[Mehr erfahren](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Infobereich/infobereich_node.html)
+[Mehr erfahren](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Infobereich/infobereich_node.html)
 
-[](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Infobereich/infobereich_node.html)
+[](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/Infobereich/infobereich_node.html)
 
  Daten und Fakten zur Technik der Warn-App NINA
 ----------
 
-[### 14 Mio. ### So viele Nutzerinnen und Nutzer sind von der Technik der Warn-App überzeugt. Infos zu Entwicklung und Technik](DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/entwicklung-technik_node.html)
+[### 14 Mio. ### So viele Nutzerinnen und Nutzer sind von der Technik der Warn-App überzeugt. Infos zu Entwicklung und Technik](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/entwicklung-technik_node.html)
 
-[### 46 ### Mit der Version 3.6 ist nun bereits der 46. Release der NINA Warn-App in den Stores. Versionshinweise](DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/Versionshinweise/versionhinweise_node.html)
+[### 46 ### Mit der Version 3.6 ist nun bereits der 46. Release der NINA Warn-App in den Stores. Versionshinweise](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/Versionshinweise/versionhinweise_node.html)
 
 [### 30 Sek. ### So lange dauert der durchschnittliche Versand einer Warnmeldung über das System der Warn-App NINA. Die Warnmeldungen sind auch im Web einsehbar. Warnung im Web warnung.bund.de](https://warnung.bund.de/meldungen)
 
@@ -277,34 +277,34 @@ Diese Meldungen können auch ortsbezogen ausgewählt werden. Sie können per **R
  Weiterführende Informationen
 ----------
 
-* [Betatest Geofencing](DE/Warnung-Vorsorge/Warn-App-NINA/Betatest/betatest_node.html)
+* [Betatest Geofencing](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Betatest/betatest_node.html)
 
    Warn-App NINA
 
-  [](DE/Warnung-Vorsorge/Warn-App-NINA/Betatest/betatest_node.html)
+  [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Betatest/betatest_node.html)
 
-* [iOS-Einstellungen für Push-Nachrichten](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
-
-   Warn-App NINA
-
-  [](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
-
-* [Android-Einstellungen für Push-Nachrichten](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
+* [iOS-Einstellungen für Push-Nachrichten](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
 
    Warn-App NINA
 
-  [](DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
+  [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-iOS/einstellungen-ios_node.html)
 
-* [Funktionen und Inhalte der Warn-App NINA](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/funktion-inhalt_node.html)
-
-   Warn-App NINA
-
-  [](DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/funktion-inhalt_node.html)
-
-* [Rechtliches: Impressum und Datenschutzerklärung](DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)
+* [Android-Einstellungen für Push-Nachrichten](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
 
    Warn-App NINA
 
-  [](DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)
+  [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Einstellungen-Android/einstellungen-android_node.html)
 
-[Warnung & Vorsorge](DE/Warnung-Vorsorge/warnung-vorsorge_node.html)
+* [Funktionen und Inhalte der Warn-App NINA](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/funktion-inhalt_node.html)
+
+   Warn-App NINA
+
+  [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Funktion-Inhalt/funktion-inhalt_node.html)
+
+* [Rechtliches: Impressum und Datenschutzerklärung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)
+
+   Warn-App NINA
+
+  [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)
+
+[Warnung & Vorsorge](https://www.bbk.bund.de/DE/Warnung-Vorsorge/warnung-vorsorge_node.html)
