@@ -694,6 +694,7 @@ Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 € Warenwert.
 * [AGB](https://www.strauss.com/de/de/Rechtliches/AGB)
 * [Impressum](https://www.strauss.com/de/de/Rechtliches/Impressum)
 * [Widerrufsbelehrung](https://www.strauss.com/de/de/Rechtliches/Widerrufsbelehrung)
+* [Ihre gesetzlichen Gewährleistungsrechte](https://www.strauss.com/de/de/Gewaehrleistungslabel_Redirect)
 
 [Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
 
