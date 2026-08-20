@@ -12,17 +12,17 @@ Framework Laptop 13 Pro delivers 20 hours of battery life [**ϟ**](#fw13pro-batt
 
 [Configure now Configure now](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new) [Learn more Learn more](/de/en/laptop13pro)
 
-[Learn more](/nextgen)
+[Learn more](/de/en/nextgen)
 
-### Configure once. Upgrade whenever ❤.  ###
+### Designed for joy. Built for ownership. ###
 
-Framework Laptop 16 is an endlessly customizable laptop with upgradeable graphics, powered by NVIDIA® GeForce RTX™ 5070 and AMD's latest Ryzen™ AI 300 Series Processors.
+Framework Laptop 12 is a 12.2" convertible with first-in-class Linux support. Now with Intel® Core™ Series 3 processors, Thunderbolt 4, and optional backlit keyboard and fingerprint reader.
 
-### Configure once. Upgrade whenever ❤.  ###
+### Designed for joy. Built for ownership. ###
 
-Framework Laptop 16 is an endlessly customizable laptop with upgradeable graphics, powered by NVIDIA® GeForce RTX™ 5070 and AMD's latest Ryzen™ AI 300 Series Processors.
+Framework Laptop 12 is a 12.2" convertible with first-in-class Linux support. Now with Intel® Core™ Series 3 processors, Thunderbolt 4, and optional backlit keyboard and fingerprint reader.
 
-[Configure now Configure now](/de/en/products/laptop16-diy-amd-ai300/configuration/new) [Learn more Learn more](/de/en/laptop16)
+[Configure now Configure now](/de/en/products/laptop12-diy-intel-series3/configuration/new) [Learn more Learn more](/de/en/laptop12)
 
 ### Framework Desktop is a big computer made mini.  ###
 
@@ -34,15 +34,15 @@ Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 
 
 [Configure now Configure now](/de/en/products/desktop-diy-amd-aimax300/configuration/new) [Learn more Learn more](/de/en/desktop)
 
-### Computers shouldn't be boring. ###
+### Configure once. Upgrade whenever ❤ ###
 
-Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
+Framework Laptop 16 is an endlessly customizable laptop with upgradeable graphics, powered by NVIDIA® GeForce RTX™ 5070 and AMD's latest Ryzen™ AI 300 Series Processors.
 
-### Computers shouldn't be boring. ###
+### Configure once. Upgrade whenever ❤ ###
 
-Framework Laptop 12 is a 12.2” convertible with stylus support. Designed for easy customization, upgrades, and repairs.
+Framework Laptop 16 is an endlessly customizable laptop with upgradeable graphics, powered by NVIDIA® GeForce RTX™ 5070 and AMD's latest Ryzen™ AI 300 Series Processors.
 
-[Configure now Configure now](/de/en/products/laptop12-diy-intel-13gen/configuration/new) [Learn more Learn more](/de/en/laptop12)
+[Configure now Configure now](/de/en/products/laptop16-diy-amd-ai300/configuration/new) [Learn more Learn more](/de/en/laptop16)
 
 ### Framework Laptop 13 isn’t our computer. It’s yours. ###
 
@@ -59,7 +59,7 @@ Upgrade, customize, and repair.
 
 Pick up new parts and modules for your Framework products.
 
-[Shop our Marketplace](/marketplace)
+[Shop our Marketplace](/de/en/marketplace)
 
 ### Keep track of what we’re working on with the Framework Newsletter. ###
 
@@ -147,7 +147,7 @@ Let’s fix 🪛 Consumer Electronics.
 
 The Consumer Electronics industry is broken. We’re here to fix it. We build high-performance products that are easy to repair, upgrade, and customize, so you can use them for as long as you'd like.
 
-[Learn more about us](/about)
+[Learn more about us](/de/en/about)
 
 **ϟ**
 
