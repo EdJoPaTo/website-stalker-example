@@ -230,7 +230,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 [By Shelly](https://kb.shelly.cloud/knowledge-base/by-shelly)
 * [Cury](https://kb.shelly.cloud/knowledge-base/cury)
 
-[Shelly X](https://kb.shelly.cloud/knowledge-base/shelly-x)
+[Powered by Shelly](https://kb.shelly.cloud/knowledge-base/powered-by-shelly)
 * [Smart HVAC thermostat](https://kb.shelly.cloud/knowledge-base/smart-hvac-thermostat)
 * [Smart floor heating thermostat](https://kb.shelly.cloud/knowledge-base/smart-floor-heating-thermostat)
 * [Ogemray smart relay 25A](https://kb.shelly.cloud/knowledge-base/ogemray-smart-relay-25a)
