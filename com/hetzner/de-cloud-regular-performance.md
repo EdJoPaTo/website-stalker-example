@@ -10,6 +10,8 @@ Flexibel und leistungsstark
 
  Neue Hardware-Generationen
 
+[Cloud-Instanz erstellen](https://console.hetzner.com/)
+
 Der flexible Tarif
 mit dem besten Preis-Leistungs-Verhältnis
 ----------
@@ -21,12 +23,6 @@ Im Vergleich zum Cost-Optimized-Tarif profitierst du von neueren Hardwaregenerat
 **Global verfügbar mit europäischer Datensicherheit.**
 
 Über 400.000 zufriedenen Kunden
-
-### Flexibilität trifft Performance ###
-
-Die Einsatzmöglichkeiten sind extrem vielfältig. Der Tarif eignet sich besonders für Dienste mit überschaubarer Nutzerzahl, wie beispielsweise Familien, Vereine oder kleine Unternehmen. Besonders sinnvoll ist er für Anwendungen mit wechselnder Auslastung, wie beispielsweise Groupware, geteilte Medienspeicher oder private Blogs.
-
-Entwicklerteams können ihn außerdem für Kubernetes-Cluster in Entwicklungs- und Staging-Umgebungen nutzen und neue Features testen, ohne teure Hardware bezahlen zu müssen.
 
  VCPU
 
@@ -623,6 +619,12 @@ Geeignet für Workloads, die mit wechselnder Prozessorleistung umgehen können.
 Aktuelle Generationen von Intel und AMD sorgen für mehr Leistung als beim Cost-Optimized-Tarif.
 
 [Cloud-Server erstellen](https://console.hetzner.com/)
+
+### Flexibilität trifft Performance ###
+
+Die Einsatzmöglichkeiten sind extrem vielfältig. Der Tarif eignet sich besonders für Dienste mit überschaubarer Nutzerzahl, wie beispielsweise Familien, Vereine oder kleine Unternehmen. Besonders sinnvoll ist er für Anwendungen mit wechselnder Auslastung, wie beispielsweise Groupware, geteilte Medienspeicher oder private Blogs.
+
+Entwicklerteams können ihn außerdem für Kubernetes-Cluster in Entwicklungs- und Staging-Umgebungen nutzen und neue Features testen, ohne teure Hardware bezahlen zu müssen.
 
  Alles drin, was man braucht.
 ----------

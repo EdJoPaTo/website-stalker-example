@@ -10,6 +10,8 @@ Günstiger Einstieg
 
  Geringe bis mittlere CPU-Auslastung
 
+[Cloud-Instanz erstellen](https://console.hetzner.com/)
+
 Preiswerte Cloud-Server
 ----------
 

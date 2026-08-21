@@ -1,7 +1,7 @@
 Cloud
 
 General Purpose:
-Für Business-Anwendungen
+For business applications
 ==========
 
  Konstant hohe CPU-Auslastung
@@ -9,6 +9,8 @@ Für Business-Anwendungen
  Planbare Performance
 
  Dedizierte vCPUs
+
+[Cloud-Instanz erstellen](https://console.hetzner.com/)
 
 Für Workloads
 mit großer CPU-Auslastung
