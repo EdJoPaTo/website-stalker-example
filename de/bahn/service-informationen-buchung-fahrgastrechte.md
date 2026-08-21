@@ -143,7 +143,7 @@ Nachfolgend finden Sie Links zu den wichtigsten Gesetzen und Verordnungen zum Th
 
 * [Verordnung (EU) 2021/782 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (Neufassung)](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32021R0782)
 * [Allgemeines Eisenbahngesetz (AEG)](https://www.gesetze-im-internet.de/aeg_1994/index.html)
-* [Eisenbahn-Verkehrsordnung (EVO)](https://www.gesetze-im-internet.de/evo_2023/index.html)
+* [Eisenbahnverkehrs-Verordnung (EVO)](https://www.gesetze-im-internet.de/evo_2023/index.html)
 
 ###  Verrechnung des Gutscheins im Internet oder am DB-Automaten  ###
 
