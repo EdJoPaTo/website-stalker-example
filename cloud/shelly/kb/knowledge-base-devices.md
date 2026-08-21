@@ -231,6 +231,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Cury](https://kb.shelly.cloud/knowledge-base/cury)
 
 [Powered by Shelly](https://kb.shelly.cloud/knowledge-base/powered-by-shelly)
+* [DC 12 V / 1 A power adaptor (for WS90)](https://kb.shelly.cloud/knowledge-base/dc-12-v-1-a-power-adaptor-for-ws90)
 * [Smart HVAC thermostat](https://kb.shelly.cloud/knowledge-base/smart-hvac-thermostat)
 * [Smart floor heating thermostat](https://kb.shelly.cloud/knowledge-base/smart-floor-heating-thermostat)
 * [Ogemray smart relay 25A](https://kb.shelly.cloud/knowledge-base/ogemray-smart-relay-25a)
