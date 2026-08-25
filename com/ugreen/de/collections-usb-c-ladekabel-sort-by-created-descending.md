@@ -4,6 +4,8 @@ NEU
 
 [UGREEN USB-C Kabel (240W, Digital Display, E-Marker Chip)](https://de.ugreen.com/products/usb-c-kabel-240w-digital-display-e-marker-chip)
 
+ (37)
+
 [UGREEN Nexode ausziehbares USB-C-Kabel (100W)](https://de.ugreen.com/products/nexode-100w-ausziehbares-usb-c-kabel)
 
 [UGREEN USB-C Kabel ( 100W ) mit E-Marker](https://de.ugreen.com/products/100w-usb-c-kabel-mit-e-marker)
@@ -17,6 +19,8 @@ NEU
 [UGREEN 240W USB-C auf USB-C PD 3.1 Ladekabel](https://de.ugreen.com/products/ugreen-240w-usb-c-auf-usb-c-ladekabel-power-delivery-3-1-kabel)
 
 [UGREEN USB-C auf USB Nylon Ladekabel](https://de.ugreen.com/products/snap-deal-ugreen-usb-c-ladekabel-usb-c-kabel-nylon-geflochtenes-usb-auf-usb-c-kabel-kompatibel-mit-galaxy-s22-s21-s20-a73-a72-a53-huawei-p30-lite-redmi-10-note-9-usw-0-5m)
+
+ (26)
 
 [UGREEN 100W USB-C auf USB-C Ladekabel (2 Stück)](https://de.ugreen.com/products/ugreen-100-w-usb-c-auf-usb-c-ladekabel-2-stuck)
 
