@@ -37,9 +37,9 @@ IN DEINER NÄHE!
 [HAMBURG](https://www.megamarsch.de/hamburg)
 ----------
 
-[Location](https://www.megamarsch.de)
+[Location](https://www.megamarsch.de/bremen)
 
-[BREMEN](https://www.megamarsch.de)
+[BREMEN](https://www.megamarsch.de/bremen)
 ----------
 
 [WESERBERGLAND](https://www.megamarsch.de/weserbergland)
@@ -47,20 +47,15 @@ IN DEINER NÄHE!
 
 [Location](https://www.megamarsch.de/weserbergland)
 
-[Location](https://www.megamarsch.de)
+[Location](https://www.megamarsch.de/hannover)
 
-[HANNOVER](https://www.megamarsch.de)
+[HANNOVER](https://www.megamarsch.de/hannover)
 ----------
 
 [BERLIN BEI NACHT](https://www.megamarsch.de/berlin)
 ----------
 
 [Location](https://www.megamarsch.de/berlin)
-
-[RÜGEN](https://www.megamarsch.de/ruegen)
-----------
-
-[Location](https://www.megamarsch.de/ruegen)
 
 [RUHRGEBIET BEI NACHT](https://www.megamarsch.de/ruhrgebiet-bei-nacht)
 ----------
@@ -87,15 +82,15 @@ IN DEINER NÄHE!
 [DRESDEN](https://www.megamarsch.de/dresden)
 ----------
 
-[Location](https://www.megamarsch.de)
+[Location](https://www.megamarsch.de/erfurt)
 
-[ERFURT](https://www.megamarsch.de)
+[ERFURT](https://www.megamarsch.de/erfurt)
 ----------
 
-[MÖNCHEN GLADBACH](https://www.megamarsch.de)
+[MÖNCHEN GLADBACH](https://www.megamarsch.de/moenchengladbach)
 ----------
 
-[Location](https://www.megamarsch.de)
+[Location](https://www.megamarsch.de/moenchengladbach)
 
 [Location](https://www.megamarsch.de/köln)
 
@@ -132,6 +127,11 @@ IN DEINER NÄHE!
 [MÜNCHEN](https://www.megamarsch.de/münchen)
 ----------
 
+[RÜGEN](https://www.megamarsch.de/ruegen)
+----------
+
+[Location](https://www.megamarsch.de/ruegen)
+
 [Location](https://www.megamarsch.de/schaffhausen)
 
 [SCHAFFHAUSEN](https://www.megamarsch.de/schaffhausen)
@@ -142,14 +142,14 @@ IN DEINER NÄHE!
 [BERN](https://www.megamarsch.de/bern)
 ----------
 
-[Location](https://www.megamarsch.de)
+[Location](https://www.megamarsch.de/luzern)
 
-[LUZERN](https://www.megamarsch.de)
+[LUZERN](https://www.megamarsch.de/luzern)
 ----------
 
-[Location](https://www.megamarsch.de)
+[Location](https://www.megamarsch.de/mittersill)
 
-[MITTERSILL](https://www.megamarsch.de)
+[MITTERSILL](https://www.megamarsch.de/mittersill)
 ----------
 
 [MALLORCA](https://www.megamarsch.de/mallorca)
