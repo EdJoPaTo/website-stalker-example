@@ -1011,7 +1011,7 @@ Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsaus
  Wie kann ich mein Gepäck durch Hermes bei meiner Wunschadresse abholen lassen?
 ----------
 
-Sie können Ihre Koffer bei sich zuhause abholen lassen und mit dem Hermes Gepäckversand an Ihre Wunschadresse liefern lassen. Das Partnerangebot ist für Bahnreisende buchbar.
+Sie können Ihre Koffer bei sich zuhause abholen lassen und mit dem Hermes Gepäckversand an Ihre Wunschadresse liefern lassen. Ihr Gepäck wird in der Regel **in 3 Werktagen** an Ihre Wunschadresse geliefert. Das Partnerangebot ist für Bahnreisende buchbar.
 
 Das bisherige Angebot DB Gepäckservice ist für Privatkunden nicht mehr erhältlich.
 
