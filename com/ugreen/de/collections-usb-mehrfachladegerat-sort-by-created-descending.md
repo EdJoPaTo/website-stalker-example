@@ -12,6 +12,8 @@
 
 [UGREEN Nexode Pro Ultra-Slim USB-C Ladegerät (65W, 3-Ports, GaN)](https://de.ugreen.com/products/nexode-pro-65w-usb-c-ladegerat-3-ports-ultra-slim-gan-schnellladegerat)
 
+ (83)
+
 [UGREEN Nexode Pro USB-C Mini Ladegerät (100W, 3-Ports, GaN)](https://de.ugreen.com/products/nexode-pro-100w-gan-ladegerat-schnellladegerat)
 
 [UGREEN Nexode Pro USB-C Ladegerät (160W, 4-Ports, GaN)](https://de.ugreen.com/products/ugreen-nexode-pro-160w-usb-c-ladegerat-superschlank-gan-wandladegerat)
