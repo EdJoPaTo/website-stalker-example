@@ -4550,17 +4550,6 @@ Sie können die Teilnahme am BahnBonus Vorteilsprogramm jederzeit ohne Angabe vo
 * im Kundenkonto auf bahn.de oder in der DB Navigator App
 * telefonisch beim BahnBonus Service
 
- Warum wurde ich vom BahnBonus-Vorteilsprogramm abgemeldet?
-----------
-
-Für die Teilnahme am BahnBonus Vorteilsprogramm ist seit dem 1. Mai 2025 ein DB Kundenkonto Voraussetzung.
-
-Sofern kein DB Kundenkonto vorliegt, erfolgt eine automatisierte Abmeldung vom BahnBonus Vorteilsprogramm. Die Abmeldung wurde zum 1. April 2026 umgesetzt.
-
-Haben Sie weitere Fragen zur automatisierten Abmeldung von BahnBonus oder ein Anliegen zu Ihrer beendeten Teilnahme?
-
-Sie erreichen unseren Kundenservice unter [030 2970.](tel:0302970)
-
  Wann muss ich mich als BahnBonus Teilnehmer:in ausweisen?
 ----------
 

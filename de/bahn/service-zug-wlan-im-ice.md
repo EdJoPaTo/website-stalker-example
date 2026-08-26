@@ -29,30 +29,50 @@ Häufige Fragen zu WLAN im ICE
 
 Das WLAN wird in der kompletten ICE-Flotte sowie aktuell in Teilen der Intercity-Flotte und in ausgewählten Regionalzügen angeboten. Nach und nach wird die gesamte Fernverkehrsflotte mit WLAN ausgestattet.
 
-###  Ist Internet über WLAN in den Zügen auf allen Strecken auch im Ausland verfügbar?  ###
-
-Ja, auf allen Strecken steht das WLAN kostenlos zur Verfügung. Ohne Unterbrechung beim Grenzübertritt kann in Österreich, der Schweiz, in Frankreich, Belgien und den Niederlanden weiter wie gewohnt gesurft werden.
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/in-welchen-zuegen-ist-internet-ueber-wlan-verfuegbar)
 
 ###  Ist die Surfdauer zeitlich begrenzt?  ###
 
 Nein, es gibt keine zeitliche Begrenzung der kostenlosen WLAN-Nutzung auf der gesamten Reise.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-die-surfdauer-zeitlich-begrenzt)
+
+###  Ist Internet über WLAN in den Zügen auf allen Strecken auch im Ausland verfügbar?  ###
+
+Ja, auf allen Strecken steht das WLAN kostenlos zur Verfügung. Ohne Unterbrechung beim Grenzübertritt kann in Österreich, der Schweiz, in Frankreich, Belgien und den Niederlanden weiter wie gewohnt gesurft werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-internet-ueber-wlan-in-den-zuegen-auf-allen-strecken-auch-im-ausland-verfuegbar)
 
 ###  Mit welcher Geschwindigkeit kann ich im Zug surfen?  ###
 
 Die Surf-Geschwindigkeit ist abhängig von der Verbindung zwischen den Zügen und Mobilfunknetzen sowie der Anzahl der Mitreisenden, die gleichzeitig im Zug online sind. Darüber hinaus variiert die Surf-Geschwindigkeit je nach Technologie des Gerätes und je nachdem, welche Mobilfunknetze entlang der Strecke von unserem System erreichbar sind. Die Surf-Geschwindigkeit kann unter dem liegen, was Sie von zuhause kennen.
 Verzichten Sie bitte, soweit möglich, auf bandbreitenintensive Anwendungen (z.B. App-Updates, Downloads, hochauflösenden Filme aus dem Internet, Betriebssystemupdates), um Ihr Online-Erlebnis und das Ihrer Mitreisenden zu verbessern.
 
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-welcher-geschwindigkeit-kann-ich-im-zug-surfen)
+
 ###  Mit wie vielen verschiedenen Geräten kann ich das WLAN gleichzeitig nutzen?  ###
 
 Sie können mit beliebig vielen Geräten – zum Beispiel Smartphone, Tablet und Laptop – gleichzeitig das Internet im Zug nutzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-wie-vielen-verschiedenen-geraeten-kann-ich-das-wlan-gleichzeitig-nutzen)
+
+###  Warum heißt das WLAN im Intercity WIFIonICE und nicht zum Beispiel WIFIonIC?  ###
+
+Das WLAN in der Intercity-Flotte heißt genauso wie in der ICE-Flotte WIFIonICE, damit Sie sich nicht zwei unterschiedliche Bezeichnungen und Zugangsvarianten merken müssen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-heisst-das-wlan-im-intercity-wifionice-und-nicht-zum-beispiel-wifionic)
 
 ###  Was ist mit dem WLAN-Angebot in der 1. Klasse alles möglich?  ###
 
 Das WLAN in der 1.Klasse ist so eingerichtet, dass Sie kostenlos und zuverlässig arbeiten können. Das bedeutet: VPN-Verbindungen sind möglich, Internet-Recherchen können durchgeführt werden und auch das Versenden von großen Mailanhängen und das Anschauen von kurzen Videos- und Musikstreams sind möglich.
 
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mit-dem-wlan-angebot-in-der-1-klasse-alles-moeglich)
+
 ###  Was ist mit dem WLAN-Angebot in der 2. Klasse alles möglich?  ###
 
 Das WLAN in der 2.Klasse ist so dimensioniert, dass Sie kostenlos surfen, mailen und chatten können. Auch VPN-Verbindungen sind hier möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mit-dem-wlan-angebot-in-der-2-klasse-alles-moeglich)
 
 ###  Wie sicher ist das WLAN-Netzwerk im Zug?  ###
 
@@ -62,6 +82,4 @@ Unser WLAN-System verfügt über Sicherheitstechnologien (bspw. die sogenannte C
 
 Um eine sichere Übertragung zu gewährleisten, gerade bei sensiblen Daten, empfehlen wir Ihnen, eine VPN-Verbindung zu nutzen und ausschließlich https-Seiten aufzurufen.
 
-###  Warum heißt das WLAN im Intercity WIFIonICE und nicht zum Beispiel WIFIonIC?  ###
-
-Das WLAN in der Intercity-Flotte heißt genauso wie in der ICE-Flotte WIFIonICE, damit Sie sich nicht zwei unterschiedliche Bezeichnungen und Zugangsvarianten merken müssen.
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-sicher-ist-das-wlan-netzwerk-im-zug)

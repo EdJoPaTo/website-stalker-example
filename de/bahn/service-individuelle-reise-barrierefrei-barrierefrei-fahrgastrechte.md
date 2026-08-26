@@ -12,77 +12,6 @@ Häufig gestellte Fragen
 
 Finden Sie Antworten auf Fragen rund um Fahrgastrechte für Fahrgäste mit Mobilitätseinschränkungen
 
-###  Sie haben bereits eine Fahrkarte mit oder ohne Reservierung gebucht, jedoch konnte eine Hilfeleistung durch den Service am Bahnhof für den Ein-, Um- bzw. Ausstieg aufgrund fehlender Kapazitäten nicht angeboten oder bestätigt werden?  ###
-
-Bei Fahrkarten mit Zugbindung ((Super) Sparpreis) heben wir in diesem Fall die Zugbindung auf. Das heißt:
-
-* Sie können mit Ihrem ursprünglichen Ticket am selben Reisetag
-  * eine frühere Verbindung oder
-  * eine spätere Verbindung nutzen.
-
-* Eine „spätere“ Verbindung kann sein
-  * später am selben Reisetag
-  * einen Tag später oder
-  * auch erst in drei Wochen oder
-  * auch bis zu einem Jahr nach dem ursprünglichen Reisedatum.
-
-Die Mobilitätsservice-Zentrale sucht gemeinsam mit Ihnen nach einer für Sie passenden neuen Reiseverbindung, zu der wir Ihnen eine Hilfeleistung bestätigen und Reservierungen anbieten können (falls gewünscht). Vorhandene Reservierungen buchen wir kostenfrei für Sie um.
-
-###  Wie werde ich bei bei Zugverspätungen entschädigt?  ###
-
-Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfrei Zug fahren dürfen, können wir Ihnen für diese kostenfrei befahrenen Strecken leider keine Entschädigung anbieten. Der Grund: Es wurde ja auch kein Fahrpreis gezahlt.
-
-Wenn Sie eine Fahrkarte gekauft haben, gelten die Regelungen für die Gesamtstrecke, einschließlich aller kostenfrei genutzten Streckenabschnitte. Die Höhe des Entschädigungsbetrags basiert auf dem Preis der gekauften Fahrkarte und der Gesamtverspätung.
-
-Damit wir den Sachverhalt prüfen können, senden Sie uns alle relevanten Informationen und **alle Belege** (z.B. eine Quittung für ein Taxi oder eine Hotelrechnung), die für die Bearbeitung Ihres Antrags wichtig sein könnten, sowie eine **Kopie Ihres Schwerbehindertenausweises** und wenn vorhanden eine **Kopie Ihrer Wertmarke**.
-
-**Zur Prüfung Ihrer Ansprüche stehen Ihnen folgende Möglichkeiten zur Verfügung:**
-
-**Digital** über Ihr Kundenkonto auf bahn.de oder in der DB Navigator App
-
-Hierfür nutzen Sie bitte die Ihnen angebotene Möglichkeit „Ich möchte meine Belege digital hochladen“ nachdem Sie die Frage erhalten „Wie möchten Sie die Belege einreichen?“
-
-**Per Post**
-
-Hierfür können Sie unser **barrierefreies Formular** als pdf nutzen, welches wir unter nachfolgendem Link zur Verfügung stellen oder Sie schildern uns Ihren Sachverhalt auch ganz einfach formlos in einem Brief an:
-
-DB Dialog GmbH Servicecenter Fahrgastrechte
-60647 Frankfurt am Main.
-
-###  Wie erstatten wir Ihre Kosten für die Nutzung anderer Züge?  ###
-
-**Ist Ihr Zug mindestens 20 Minuten verspätet,** können Sie einen anderen Zug nutzen. Reservierungspflichtige Züge, wie z.B. NightJets oder einige Züge ins Ausland sind hiervon ausgenommen.
-
-**Falls Sie das Verkehrsmittel wechseln wollen,** also z.B. von einem Nahverkehrszug in einen ICE, IC oder EC, müssen Sie sich dafür zunächst eine passende Fahrkarte kaufen. Anschließend können Sie sich die Kosten von uns erstatten lassen.
-
-Als Inhaberin oder Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wertmarke fahren Sie in allen Nahverkehrszügen (IRE, RE, FEX, MEX, RB und S-Bahnen) kostenfrei.
-
-###  Wie erstatten wir Ihre Kosten für Taxi oder Hotel?  ###
-
-Für kostenfrei Reisende mit Schwerbehindertenausweis mit Beiblatt und Wertmarke gelten die gleichen Regeln für die Inanspruchnahme von Taxi und Hotelübernachtungen wie für andere Reisende. Das gilt bei eingetragenem Merkzeichen B auch jeweils für eine Begleitperson.
-
-###  Wie werden Sie bei Mobilitätshilfen entschädigt  ###
-
-Verursacht das Eisenbahnunternehmen den Verlust oder die Beschädigung von für die Beförderung zugelassenen Mobilitätshilfen, einschließlich Rollstühlen und Hilfsmitteln oder den Verlust oder die Verletzung von Assistenzhunden, ist Schadensersatz zu leisten.
-
-###  Wie können Sie Ihre Fahrgastrechte geltend machen?  ###
-
-Um Ihre Fahrgastrechte geltend zu machen, stehen Ihnen verschiedene Wege zur Verfügung.
-
-Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gekauft haben bzw. das Ticket oder die Zeitkarte im DB Kundenkonto hinterlegt ist, können Sie Ihre Fahrgastrechte direkt aus dem DB Kundenkonto heraus beantragen. Dazu wählen Sie in Ihrem DB Kundenkonto die Reise/Zeitkarte aus, für die Sie die Entschädigung beantragen wollen. Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
-
-Für digital gekaufte Tickets, die nicht im DB Kundenkonto hinterlegt sind, können die Fahrgastrechte über die Auftragssuche auf bahn.de beantragt werden. Hierzu benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person. Zur Auftragssuche gelangen Sie über den folgenden Link: <https://www.bahn.de/buchung/meine-reisen>
-
-Sie können das barrierefreie Fahrgastrechte-Formular ausfüllen und uns per Post zusenden. Das Formular finden Sie unter folgendem Link: <https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print>
-
-Des Weiteren besteht auch die Möglichkeit, das EU-Antragsformular für Erstattungen und Entschädigungen zu [nutzen](https://www.bahn.de/faq/eu-formular). Grundsätzlich empfehlen wir die Nutzung der bestehenden Antragswege wie den digitalen Fahrgastrechte-Antrag oder das Fahrgastrechte-Formular.
-
-Eine weitere Option ist es, sich per E-Mail an die Mobilitätsservice-Zentrale (MSZ) zu wenden. Die Mitarbeitenden nehmen Ihr Anliegen auf und leiten es an die entsprechende Stelle weiter. Erforderlich ist hierfür die Angabe der vollständigen Adresse und/oder Ihrer Telefonnummer.
-
-Unter der Telefonnummer 030 586 020 920 können Sie sich auch direkt an das Servicecenter Fahrgastrechte wenden.
-
-Alternativ können Sie die Unterlagen auch in einem DB Reisezentrum oder Ihrer Verkaufsstelle abgeben.
-
 ###  Sie sind aufgrund einer Beeinträchtigung im barrierefreien Reiseverlauf verspätet an Ihrem Reiseziel angekommen? Oder Sie mussten aufgrund einer Beeinträchtigung Ihre Reise abbrechen bzw. konnten Sie diese nicht antreten?  ###
 
 Eine Reise ist **nicht barrierefrei**, wenn zum Beispiel
@@ -123,9 +52,103 @@ Kundendialog
 Postfach 10 06 07
 96058 Bamberg
 
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/beeintraechtigung-im-reiseverlauf-verspaetet-am-reiseziel-angekommen)
+
 ###  Was passiert, wenn wegen Verspätungen oder Zugausfall eine Weiterreise nicht mehr möglich ist?  ###
 
 Selten kann es vorkommen, dass wegen Verspätungen oder Zugausfall eine Weiterreise technisch oder organisatorisch nicht mehr möglich ist. In diesem Fall gelten die Entschädigungsregelungen ab dem Bahnhof, ab dem die Reise objektiv nicht mehr fortgesetzt werden kann.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erweiterte-haftung-bei-verspaetung-zugausfall)
+
+###  Sie haben bereits eine Fahrkarte mit oder ohne Reservierung gebucht, jedoch konnte eine Hilfeleistung durch den Service am Bahnhof für den Ein-, Um- bzw. Ausstieg aufgrund fehlender Kapazitäten nicht angeboten oder bestätigt werden?  ###
+
+Bei Fahrkarten mit Zugbindung ((Super) Sparpreis) heben wir in diesem Fall die Zugbindung auf. Das heißt:
+
+* Sie können mit Ihrem ursprünglichen Ticket am selben Reisetag
+  * eine frühere Verbindung oder
+  * eine spätere Verbindung nutzen.
+
+* Eine „spätere“ Verbindung kann sein
+  * später am selben Reisetag
+  * einen Tag später oder
+  * auch erst in drei Wochen oder
+  * auch bis zu einem Jahr nach dem ursprünglichen Reisedatum.
+
+Die Mobilitätsservice-Zentrale sucht gemeinsam mit Ihnen nach einer für Sie passenden neuen Reiseverbindung, zu der wir Ihnen eine Hilfeleistung bestätigen und Reservierungen anbieten können (falls gewünscht). Vorhandene Reservierungen buchen wir kostenfrei für Sie um.
+
+* [Informationen zur Aufhebung der Zugbindung finden Sie über diese Verlinkung.](https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrkarte-gebucht-ohne-bestaetigte-hilfeleistung)
+
+###  Wie erstatten wir Ihre Kosten für die Nutzung anderer Züge?  ###
+
+**Ist Ihr Zug mindestens 20 Minuten verspätet,** können Sie einen anderen Zug nutzen. Reservierungspflichtige Züge, wie z.B. NightJets oder einige Züge ins Ausland sind hiervon ausgenommen.
+
+**Falls Sie das Verkehrsmittel wechseln wollen,** also z.B. von einem Nahverkehrszug in einen ICE, IC oder EC, müssen Sie sich dafür zunächst eine passende Fahrkarte kaufen. Anschließend können Sie sich die Kosten von uns erstatten lassen.
+
+Als Inhaberin oder Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wertmarke fahren Sie in allen Nahverkehrszügen (IRE, RE, FEX, MEX, RB und S-Bahnen) kostenfrei.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-erstattung-nutzung-andere-zuege)
+
+###  Wie werde ich bei bei Zugverspätungen entschädigt, wenn ich einen Schwerbehindertenausweis besitze?  ###
+
+Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfrei Zug fahren dürfen, können wir Ihnen für diese kostenfrei befahrenen Strecken leider keine Entschädigung anbieten. Der Grund: Es wurde ja auch kein Fahrpreis gezahlt.
+
+Wenn Sie eine Fahrkarte gekauft haben, gelten die Regelungen für die Gesamtstrecke, einschließlich aller kostenfrei genutzten Streckenabschnitte. Die Höhe des Entschädigungsbetrags basiert auf dem Preis der gekauften Fahrkarte und der Gesamtverspätung.
+
+Damit wir den Sachverhalt prüfen können, senden Sie uns alle relevanten Informationen und **alle Belege** (z.B. eine Quittung für ein Taxi oder eine Hotelrechnung), die für die Bearbeitung Ihres Antrags wichtig sein könnten, sowie eine **Kopie Ihres Schwerbehindertenausweises** und wenn vorhanden eine **Kopie Ihrer Wertmarke**.
+
+**Zur Prüfung Ihrer Ansprüche stehen Ihnen folgende Möglichkeiten zur Verfügung:**
+
+**Digital** über Ihr Kundenkonto auf bahn.de oder in der DB Navigator App
+
+Hierfür nutzen Sie bitte die Ihnen angebotene Möglichkeit „Ich möchte meine Belege digital hochladen“ nachdem Sie die Frage erhalten „Wie möchten Sie die Belege einreichen?“
+
+**Per Post**
+
+Hierfür können Sie unser **barrierefreies Formular** als pdf nutzen, welches wir unter nachfolgendem Link zur Verfügung stellen oder Sie schildern uns Ihren Sachverhalt auch ganz einfach formlos in einem Brief an:
+
+DB Dialog GmbH Servicecenter Fahrgastrechte
+60647 Frankfurt am Main.
+
+* [Fahrgastrechte-Formular (PDF, 89 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Fahrgastrechte-Formular_deutsch-feb25-2.pdf)
+* [Reiseplanung und Beratung](https://www.bahn.de/service/individuelle-reise/barrierefrei/reiseplanung-und-beratung)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-bei-zugverspaetung-entschaedigt)
+
+###  Wie erstatten wir Ihre Kosten für Taxi oder Hotel?  ###
+
+Für kostenfrei Reisende mit Schwerbehindertenausweis mit Beiblatt und Wertmarke gelten die gleichen Regeln für die Inanspruchnahme von Taxi und Hotelübernachtungen wie für andere Reisende. Das gilt bei eingetragenem Merkzeichen B auch jeweils für eine Begleitperson.
+
+* [Mehr dazu in den "Häufigen Fragen" zum Thema Fahrgastrechte](https://www.bahn.de/hilfe?faq-search-term=fahrgastrechte&show-all=no)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erstattung-kosten-fuer-taxi-oder-hotel)
+
+###  Wie können Sie Ihre Fahrgastrechte geltend machen?  ###
+
+Um Ihre Fahrgastrechte geltend zu machen, stehen Ihnen verschiedene Wege zur Verfügung.
+
+Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gekauft haben bzw. das Ticket oder die Zeitkarte im DB Kundenkonto hinterlegt ist, können Sie Ihre Fahrgastrechte direkt aus dem DB Kundenkonto heraus beantragen. Dazu wählen Sie in Ihrem DB Kundenkonto die Reise/Zeitkarte aus, für die Sie die Entschädigung beantragen wollen. Klicken Sie innerhalb des Reiters "Fahrgastrechte" den Button "Entschädigung beantragen" an und folgen Sie den weiteren Schritten.
+
+Für digital gekaufte Tickets, die nicht im DB Kundenkonto hinterlegt sind, können die Fahrgastrechte über die Auftragssuche auf bahn.de beantragt werden. Hierzu benötigen Sie die Auftragsnummer und den Nachnamen der reisenden Person. Zur Auftragssuche gelangen Sie über den folgenden Link: <https://www.bahn.de/buchung/meine-reisen>
+
+Sie können das barrierefreie Fahrgastrechte-Formular ausfüllen und uns per Post zusenden. Das Formular finden Sie unter folgendem Link: <https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print>
+
+Des Weiteren besteht auch die Möglichkeit, das EU-Antragsformular für Erstattungen und Entschädigungen zu [nutzen](https://www.bahn.de/faq/eu-formular). Grundsätzlich empfehlen wir die Nutzung der bestehenden Antragswege wie den digitalen Fahrgastrechte-Antrag oder das Fahrgastrechte-Formular.
+
+Eine weitere Option ist es, sich per E-Mail an die Mobilitätsservice-Zentrale (MSZ) zu wenden. Die Mitarbeitenden nehmen Ihr Anliegen auf und leiten es an die entsprechende Stelle weiter. Erforderlich ist hierfür die Angabe der vollständigen Adresse und/oder Ihrer Telefonnummer.
+
+Unter der Telefonnummer 030 586 020 920 können Sie sich auch direkt an das Servicecenter Fahrgastrechte wenden.
+
+Alternativ können Sie die Unterlagen auch in einem DB Reisezentrum oder Ihrer Verkaufsstelle abgeben.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-koennen-fahrgastrechte-geltend-gemacht-werden)
+
+###  Wie werden Sie bei Mobilitätshilfen entschädigt  ###
+
+Verursacht das Eisenbahnunternehmen den Verlust oder die Beschädigung von für die Beförderung zugelassenen Mobilitätshilfen, einschließlich Rollstühlen und Hilfsmitteln oder den Verlust oder die Verletzung von Assistenzhunden, ist Schadensersatz zu leisten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-werden-mobiltaetshilfen-entschaedigt)
 
 Zugangsregeln
 ----------
