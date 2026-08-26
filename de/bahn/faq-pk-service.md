@@ -5022,12 +5022,12 @@ Je nach Prämie erfolgt die Zustellung per E-Mail, per Post, als Fahrkarte zum H
  Kann ich bereits bestellte Prämien umtauschen, erstatten oder reklamieren?
 ----------
 
-Unsere Prämien sind von Umtausch, Erstattung oder (Teil-)Auszahlung ausgeschlossen. Im Falle eines Defekts einer Sachprämie, nutzen Sie bitte unser [Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/bahnbonus-reklamation).
+Die Retoure Ihrer Prämienbestellung können Sie direkt in der [PrämienWelt](https://bahnbonus-praemienwelt.de/customer/orders)in Ihrer Bestellübersicht anstoßen.
 
  Wie kann ich eine bereits bestellte Prämie widerrufen?
 ----------
 
-Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag in Textform (z. B. Brief, E-Mail) zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
+Den Widerruf Ihrer Prämienbestellung können Sie direkt in der [PrämienWelt](https://bahnbonus-praemienwelt.de/customer/orders)in Ihrer Bestellübersicht anstoßen.
 
  Bei der Buchung einer Bahnprämie kam es zu einem Abbruch und meine Punkte waren weg, wann werden diese wieder gutgeschrieben?
 ----------
