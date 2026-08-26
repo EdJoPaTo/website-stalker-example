@@ -1099,7 +1099,7 @@ Hinweis: Nutzen Sie mit einer IC/EC Fahrkarte einen ICE Zug, zahlen Sie einen Pr
  Ist das City-Ticket im Flexpreis enthalten?
 ----------
 
-Ja. In **130 Städten** ist für Sie das **City-Ticket kostenfrei** enthalten. Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "**+City**" auf Ihrer Fahrkarte.
+Ja. In **140 Städten** ist für Sie das **City-Ticket kostenfrei** enthalten. Ob Ihr Start- oder Zielbahnhof dazugehört, erkennen Sie am Vermerk "**+City**" auf Ihrer Fahrkarte.
 
  Wie lange ist das Flexpreis-Ticket gültig, wenn ich eine einfache Fahrt buche? Kann ich einen Zwischenstopp einlegen?
 ----------
