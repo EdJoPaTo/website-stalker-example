@@ -22,7 +22,7 @@ For a summary of all entries with associated metadata, see [File Format Cross-Re
 
 #### Archive Files ####
 
-[android\_bootldr\_asus](android_bootldr_asus/) , [android\_bootldr\_huawei](android_bootldr_huawei/) , [android\_bootldr\_qcom](android_bootldr_qcom/) , [android\_dto](android_dto/) , [android\_img](android_img/) , [android\_sparse](android_sparse/) , [chrome\_pak](chrome_pak/) , [cpio\_old\_le](cpio_old_le/) , [gzip](gzip/) , [lzh](lzh/) , [mozilla\_mar](mozilla_mar/) , [phar\_without\_stub](phar_without_stub/) , [rar](rar/) , [respack](respack/) , [rpm](rpm/) , [xar](xar/) , [zip](zip/) , [zisofs](zisofs/)
+[android\_bootldr\_asus](android_bootldr_asus/) , [android\_bootldr\_huawei](android_bootldr_huawei/) , [android\_bootldr\_qcom](android_bootldr_qcom/) , [android\_dto](android_dto/) , [android\_img](android_img/) , [android\_sparse](android_sparse/) , [chrome\_pak](chrome_pak/) , [cpio\_old\_le](cpio_old_le/) , [gzip](gzip/) , [lzh](lzh/) , [mozilla\_mar](mozilla_mar/) , [phar\_without\_stub](phar_without_stub/) , [rar](rar/) , [respack](respack/) , [rpm](rpm/) , [xar](xar/) , [zchunk](zchunk/) , [zip](zip/) , [zisofs](zisofs/)
 
 #### CAD ####
 

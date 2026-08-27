@@ -6395,9 +6395,9 @@ Die Züge hupen, wenn auf der Strecke Baumaßnahmen stattfinden. So warnen sie d
  Gibt es einen Chatbot auf bahn.de?
 ----------
 
-Ja, auf bahn.de wird aktuell **testweise** der **Chatbot Kiana** eingesetzt. Ein Teil angemeldeter Kundinnen und Kunden bekommt Kiana angezeigt und kann dem Chatbot Fragen stellen. Die Anzeige erfolgt zufallsbasiert.
+Ja, auf bahn.de wird aktuell **testweise** der KI-gestützte **Chatbot Kiana** eingesetzt. Ein Teil angemeldeter Kundinnen und Kunden bekommt Kiana angezeigt und kann Kiana Fragen stellen. Die Anzeige erfolgt zufallsbasiert.
 
-Kiana informiert über **Angebote und Services** der Deutschen Bahn. Mit der KI-Assistenz können Sie **Verbindungen suchen, in Echtzeit über Fahrplanänderungen informiert werden, Fahrtzeiten abfragen, Routen planen, Fragen zu Bahnhöfen, Öffnungszeiten oder Services vor Ort stellen** sowie Informationen unter anderem zur **Barrierefreiheit** und zum **Deutschland-Ticket** erhalten.
+Kiana informiert über **Angebote und Services** der Deutschen Bahn. Mit dem KI-Chatbot können Sie **Verbindungen suchen, in Echtzeit über Fahrplanänderungen informiert werden, Fahrtzeiten abfragen, Fragen zu Bahnhöfen, Öffnungszeiten oder Services vor Ort stellen** sowie Informationen unter anderem zur **Barrierefreiheit** und zum **Deutschland-Ticket** erhalten.
 
 Die Funktionen werden während der Testphase gezielt weiterentwickelt und optimiert.
 
@@ -6406,11 +6406,11 @@ Falls Sie mit Ihrem DB Kundenkonto eingeloggt sind, aber Ihnen Kiana unter "Hilf
  Bei welchen Anliegen hilft der Chatbot Kiana auf bahn.de?
 ----------
 
-Der KI-gestützte Chatbot Kiana auf bahn.de unterstützt Sie bei Fragen rund um die Deutsche Bahn. Dazu gehören unter anderem Verbindungs- und Fahrplanauskünfte, Echtzeit-Informationen zu Zügen, Informationen zu Bahnhöfen sowie Antworten auf häufige Fragen zu Angeboten und Services der Deutschen Bahn.
+Der KI-gestützte Chatbot Kiana auf bahn.de unterstützt Sie bei Fragen rund um die Deutsche Bahn. Dazu gehören unter anderem Verbindungs- und Fahrplanauskünfte, Echtzeit-Informationen zu Zügen, Informationen zu Bahnhöfen sowie Antworten auf häufige Fragen zu Services der Deutschen Bahn.
 
-Aktuell befindet sich Kiana in einer Testphase. Daher kann der Chatbot noch nicht alle Anliegen bearbeiten. Kiana kann derzeit keine Buchungen, Umbuchungen oder Stornierungen durchführen und hat **keinen Zugriff auf** Ihr DB Kundenkonto. Kiana kann daher keine Anliegen zu Ihren gebuchten Tickets oder Aufträgen bearbeiten.
+Aktuell befindet sich Kiana in einer Testphase. Daher kann der KI-Chatbot noch nicht alle Anliegen bearbeiten. Kiana hat derzeit keinen Zugriff auf Ihr DB Kundenkonto und somit auch keine Informationen zu Ihren Buchungen. Kiana kann daher keine Anliegen zu Ihren gebuchten Tickets oder Aufträgen wie z.B. Umbuchungen oder Stornierungen durchführen, sondern nur allgemeine Informationen wiedergeben.
 
-Wenn Kiana Ihr Anliegen nicht lösen kann, verweist der Chatbot auf passende Kontaktformulare oder Servicenummern des Kundenservice der Deutschen Bahn.
+Wenn Kiana Ihr Anliegen nicht lösen kann, verweist der KI-Chatbot auf passende Kontaktformulare oder Servicenummern des Kundenservice der Deutschen Bahn.
 
 Da Kiana ein KI-gestützter Chatbot ist, können vereinzelt fehlerhafte oder unvollständige Antworten auftreten. Die bereitgestellten Informationen dienen daher als Orientierungshilfe und stellen keine rechtsverbindliche Auskunft dar. Die Funktionen von Kiana werden während der Testphase kontinuierlich weiterentwickelt und optimiert.
 

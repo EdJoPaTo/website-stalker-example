@@ -2530,7 +2530,7 @@ Bitte gehen Sie so vor:
  Wofür kann ich die Probe BahnCard 25 nutzen?
 ----------
 
-Mit der Probe BahnCard 25 erhalten Sie einen BahnCard-Rabatt in Höhe von 25 Prozent auf die Spar-, Spar- und Flexpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
+Mit der Probe BahnCard 25 erhalten Sie einen BahnCard-Rabatt in Höhe von 25 Prozent auf die Super Spar-, Spar- und Flexpreise innerhalb Deutschlands in der entsprechenden Wagenklasse.
 
 Dabei können Sie den ICE bzw. IC/EC, ÖBB-Nightjet-Züge (ggf. reservierungspflichtig) und die Züge des Nahverkehrs (IRE, RE, RB, S-Bahn) nutzen. Das kostenpflichtige City-Ticket beim Sparpreis und Super Sparpreis wird nicht rabattiert.
 
@@ -6807,7 +6807,7 @@ Wenn Ihr Ticket gekündigt wurde, noch nicht oder nicht mehr gültig ist, haben 
  Wie lange kann ich DB Benefits nutzen?
 ----------
 
-Sie können DB Benefits nutzen, solange Ihre Berechtigung besteht. Voraussetzung ist insbesondere ein gültiges Deutschland-Ticket der Deutschen Bahn im DTV-Tarif sowie ein aktives DB Kundenkonto.
+Sie können DB Benefits nutzen, solange Ihre Berechtigung besteht. Voraussetzung ist ein gültiges Deutschland-Ticket der Deutschen Bahn im DTV-Tarif sowie ein aktives DB Kundenkonto.
 
  Was passiert mit meiner Berechtigung für DB Benefits, wenn mein Deutschland-Ticket endet oder gekündigt wird?
 ----------
@@ -6843,7 +6843,7 @@ Damit Ihr Deutschland-Ticket zugeordnet werden kann, benötigen wir
  Wo kann ich für die Nutzung von DB Benefits meine Deutschland-Ticket Abonummer finden?
 ----------
 
-Ihre Abonummer können Sie folgendermaßen finden:
+Ihre Abonummer finden Sie:
 
 * in der Aktivierungs-E-Mail als "Abonummer"
 * auf Ihrem Handyticket unterhalb des QR-Codes in der Zeile "Auftrags-Nr." oder "Auftrags-/Abonummer"
@@ -6853,7 +6853,9 @@ Ihre Abonummer können Sie folgendermaßen finden:
  Meine Deutschland-Ticket Abonummer für die Nutzung von DB Benefits wird nicht erkannt oder akzeptiert.
 ----------
 
-Bitte prüfen Sie zuerst, ob Sie Ihre Abonummer korrekt eingegeben haben und ob Ihr Deutschland-Ticket zur aktuell berechtigten Kundengruppe gehört. Ihre Abonummer finden Sie folgendermaßen:
+Bitte prüfen Sie zuerst, ob Sie Ihre Abonummer korrekt eingegeben haben und ob Ihr Deutschland-Ticket zur aktuell berechtigten Kundengruppe gehört.
+
+Ihre Abonummer finden Sie:
 
 * in der Aktivierungs-E-Mail als "Abonummer"
 * auf Ihrem Handyticket unterhalb des QR-Codes in der Zeile "Auftrags-Nr." oder "Auftrags-/Abonummer"
@@ -6890,7 +6892,13 @@ Bitte prüfen Sie dort insbesondere Gültigkeit, Einlösezeitraum, Mindestbestel
  Mein DB Benefits Code funktioniert nicht. Was kann ich tun?
 ----------
 
-Bitte prüfen Sie zuerst die Einlösebedingungen des Angebots, insbesondere Gültigkeit, Mindestbestellwert, teilnehmende Produkte, Einlösezeitraum und Kombinierbarkeit mit anderen Aktionen.
+Bitte prüfen Sie zuerst die Einlösebedingungen des Angebots:
+
+* Gültigkeit
+* Mindestbestellwert
+* teilnehmende Produkte
+* Einlösezeitraum
+* Kombinierbarkeit mit anderen Aktionen
 
 Wenn der Code weiterhin nicht funktioniert, wenden Sie sich bitte an den in der Angebotsdetailseite genannten Kontakt oder direkt an den jeweiligen Anbieter.
 
@@ -6914,7 +6922,7 @@ Wenn DB Mitarbeiterinnen und Mitarbeiter ein gültiges Deutschland-Ticket der DB
 
 Wenn ein Angebot nicht mehr zur Verfügung steht, wird es nicht angezeigt.
 
-Das Angebot ist
+Das Angebot ist möglicherweise
 
 * zeitlich begrenzt
 * ausverkauft
@@ -6929,7 +6937,7 @@ Ein Gutschein kann abgelehnt werden, wenn
 * der Gutschein abgelaufen ist
 * der Gutschein schon genutzt wurde
 * der Gutschein nicht für die gewählten Produkte gilt
-* technische Probleme beim Anbieter vorliegen.
+* technische Probleme beim Anbieter vorliegen
 
 Bitte prüfen Sie die Bedingungen des Angebots und wenden Sie sich bei Bedarf an den Anbieter.
 
@@ -6946,7 +6954,7 @@ Bei Rückgabe, Reklamation, Widerruf oder Fragen zu einer Bestellung wenden Sie 
  Was passiert mit bereits gespeicherten oder abgerufenen DB Benefits Gutscheinen, wenn mein Zugang endet?
 ----------
 
-Wenn Sie einen Gutschein bereits erhalten, kopiert oder eingelöst haben, können die Bedingungen des jeweiligen Angebots weiterhin maßgeblich sein. Bitte prüfen Sie daher die Einlösebedingungen, insbesondere Gültigkeit, Einlösezeitraum und mögliche Einschränkungen. Nach Ende Ihrer Berechtigung kann der erneute Zugriff auf DB Benefits und damit auf gespeicherte Angebotsinformationen eingeschränkt sein.
+Wenn Sie einen Gutschein schon erhalten, kopiert oder eingelöst haben, können die Bedingungen des jeweiligen Angebots weiterhin maßgeblich sein. Bitte prüfen Sie daher die Einlösebedingungen, insbesondere Gültigkeit, Einlösezeitraum und mögliche Einschränkungen. Nach Ende Ihrer Berechtigung kann der erneute Zugriff auf DB Benefits und damit auf gespeicherte Angebotsinformationen eingeschränkt sein.
 
  Mein Deutschland-Ticket wird bei der Nutzung von DB Benefits nicht anerkannt?
 ----------
@@ -6962,7 +6970,7 @@ Nein. DB Benefits ist ein zusätzliches Vorteilsangebot für berechtigte Kundinn
  Fragen zu Rechnung oder Abbuchung des Deutschland-Tickets bei Nutzung von DB Benefits?
 ----------
 
-Bei Fragen zu Rechnung oder Abbuchung Ihres Deutschland-Tickets nutzen Sie bitte den Deutschland-Ticket-Self-Service im Aboportal oder die Informationen unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+Bei Fragen zu Rechnung oder Abbuchung Ihres Deutschland-Tickets nutzen Sie bitte den Deutschland-Ticket-Self-Service im [Aboportal](https://abo.bahn.de/portal/#/) oder die Informationen unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
 
  Wie kann ich mein Deutschland-Ticket kündigen oder Fragen zur Kündigung klären?
 ----------
@@ -6972,7 +6980,8 @@ Wenn Sie Ihr Deutschland-Ticket kündigen möchten oder Fragen zur Kündigung ha
  Wo finde ich Informationen zum Status meines Deutschland-Tickets?
 ----------
 
-Informationen zum Status Ihres Deutschland-Tickets finden Sie im [Aboportal](https://abo.bahn.de/portal/#/). Weitere Unterstützung erhalten unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+Informationen zum Status Ihres Deutschland-Tickets finden Sie im [Aboportal](https://abo.bahn.de/portal/#/).
+Weitere Unterstützung erhalten unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
 
  Wo erhalte ich Hilfe zum Deutschland-Ticket?
 ----------
@@ -6982,12 +6991,13 @@ Hilfe zum Deutschlandticket erhalten sie im [Aboportal](https://abo.bahn.de/port
  Wer hilft bei Tariffragen zum Deutschland-Ticket?
 ----------
 
-Die Deutschlandticket-Servicestellen helfen bei Fragen zum Tarif. Weitere Informationen erhalten sie unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+Die Deutschlandticket-Servicestellen helfen bei Fragen zum Tarif.
+Weitere Informationen erhalten sie unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
 
  Wer hilft bei Vertragsfragen zum Deutschland-Ticket?
 ----------
 
-Bei Vertragsfragen zu Ihrem Deutschland-Ticket nutzen Sie bitte den Deutschland-Ticket-Self-Service im Aboportal oder die Informationen unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+Bei Vertragsfragen zu Ihrem Deutschland-Ticket nutzen Sie bitte den Deutschland-Ticket-Self-Service im [Aboportal](https://abo.bahn.de/portal/#/) oder die Informationen unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
 
  Ich habe mein DB Benefts Passwort vergessen. Wie kann ich es zurücksetzen?
 ----------
@@ -7022,17 +7032,20 @@ Die E-Mail-Adresse können Sie über die Profilverwaltung im [DB Kundenkonto](ht
  Welche Daten werden für DB Benefits verarbeitet?
 ----------
 
-Für DB Benefits werden nur Daten verarbeitet, die für den Zugang, die Berechtigungsprüfung, den Betrieb des Portals, Tracking und die Nutzung der Angebote technisch bzw. fachlich erforderlich sind. Dazu können zum Beispiel Daten aus Ihrem DB Kundenkonto, Ihre Abonummer, Ihr Einwilligungsstatus und Nutzungsdaten innerhalb von DB Benefits gehören. Die aktuellen Datenschutzhinweise finden Sie auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/).
+Für DB Benefits werden nur Daten verarbeitet, die für den Zugang, die Berechtigungsprüfung, den Betrieb des Portals, Tracking und die Nutzung der Angebote technisch bzw. fachlich erforderlich sind. Dazu können zum Beispiel Daten aus Ihrem DB Kundenkonto, Ihre Abonummer, Ihr Einwilligungsstatus und Nutzungsdaten innerhalb von DB Benefits gehören.
+Auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/) finden Sie die [Datenschutzhinweise zu DB Benefits](https://www.db-vertrieb.com/dbvertrieb/datenschutzhinweise-abo-vertrieb-12720372).
 
  Werden meine DB Benefits Daten an Partnerunternehmen weitergegeben?
 ----------
 
-Bei der Einlösung werden keine personenbezogenen Daten aus DB Benefits an Partnerunternehmen weitergegeben. Wenn Sie ein Partnerangebot nutzen und auf die Seite des Partners wechseln, gelten dort die Bedingungen und Datenschutzhinweise des jeweiligen Partners. Die aktuellen Datenschutzhinweise zu DB Benefits finden sie auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/).
+Bei der Einlösung werden keine personenbezogenen Daten aus DB Benefits an Partnerunternehmen weitergegeben. Wenn Sie ein Partnerangebot nutzen und auf die Seite des Partners wechseln, gelten dort die Bedingungen und Datenschutzhinweise des jeweiligen Partners.
+Auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/) finden Sie die [Datenschutzhinweise zu DB Benefits](https://www.db-vertrieb.com/dbvertrieb/datenschutzhinweise-abo-vertrieb-12720372).
 
  Wie werden DB Benefits Daten geschützt?
 ----------
 
-Ihre Daten werden nach den geltenden Datenschutzanforderungen verarbeitet und geschützt. Dabei gilt das Prinzip der Datensparsamkeit: Es werden nur die Daten genutzt, die für den jeweiligen Zweck erforderlich sind. Die aktuellen Datenschutzhinweise finden sie auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/).
+Ihre Daten werden nach den geltenden Datenschutzanforderungen verarbeitet und geschützt. Dabei gilt das Prinzip der Datensparsamkeit: Es werden nur die Daten genutzt, die für den jeweiligen Zweck erforderlich sind.
+Auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/) finden Sie die [Datenschutzhinweise zu DB Benefits](https://www.db-vertrieb.com/dbvertrieb/datenschutzhinweise-abo-vertrieb-12720372).
 
  Kann ich Einwilligungen für die Datenverarbeitung für DB Benefits widerrufen?
 ----------

@@ -24,6 +24,8 @@
 
 [UGREEN USB-C ladegerät (65W, 3-Ports)](https://de.ugreen.com/products/ugreen-65-w-usb-c-schnellladegerat-mit-3-ports)
 
- (263)
+ (264)
 
 [UGREEN USB-C Ladegerät (100W, 4-Ports, GaN)](https://de.ugreen.com/products/ugreen-100-w-usb-c-gan-ladegerat-mit-4-ports)
+
+ (182)
