@@ -6415,7 +6415,7 @@ Ja. Das Deutschland-Ticket kann nur per Lastschrift bezahlt werden.
 
 Beim Kauf im Reisezentrum können Sie den 1. Monat bar oder mit Karte bezahlen. Für die Folgemonate ist die Angabe der Lastschrift weiterhin notwendig.
 
- Deutschlandticket für andere Person kaufen oder verschenken
+ Kann ich ein Deutschland-Ticket für andere Person kaufen oder verschenken?
 ----------
 
 Ja.
@@ -6759,6 +6759,290 @@ Ja, als Inhabende eines ICE- oder IC/EC-Abos können Sie bei bestimmten baustell
 Bei bestimmten Baustellen ist alternativ eine anteilige prozentuale Erstattung ohne Unterbrechung möglich, sofern dies zusätzlich als Kulanzregelung festgelegt wurde.
 
 Nutzen Sie für Ihre Anfrage bitte das Kontaktformular und tragen Sie die Angaben zur Baustelle und zum gewünschten Zeitraum im Freitextfeld ein.
+
+ Was ist die Vorteilswelt DB Benefits?
+----------
+
+DB Benefits ist die Vorteilswelt für berechtigte Kundinnen und Kunden mit einem Deutschland-Ticket der Deutschen Bahn im DTV-Tarif *("DTV" steht für Deutschlandtarifverbund)*.
+
+In DB Benefits finden Sie ausgewählte Angebote, Rabatte, Gutscheine und Aktionen von Partnerunternehmen sowie Angebote aus der DB-Welt. Die Angebote werden regelmäßig aktualisiert und können je nach Verfügbarkeit, Anbieter und Einlösebedingungen variieren.
+
+ Wer darf am Vorteilsangebot DB Benefits teilnehmen?
+----------
+
+An DB Benefits können aktuell Kundinnen und Kunden mit einem gültigen Deutschland-Ticket der Deutschen Bahn im DTV-Tarif teilnehmen *("DTV" steht für Deutschlandtarifverbund**)*. Voraussetzung für den Zugang ist außerdem ein DB Kundenkonto.
+
+Andere Varianten des Deutschland-Tickets, zum Beispiel Jobtickets, Studierenden- und Auszubildendentickets, Verbundangebote oder weitere Sonderformen, sind im aktuellen Pilotumfang noch nicht freigeschaltet. Eine spätere Erweiterung des berechtigten Kundenkreises ist vorgesehen.
+
+ Was kostet die Nutzung von DB Benefits?
+----------
+
+Die Nutzung von DB Benefits ist für berechtigte Kundinnen und Kunden kostenfrei.
+Kosten können nur entstehen, wenn Sie ein Angebot eines Partnerunternehmens nutzen oder dort eine Bestellung aufgeben. Es gelten dann die Preise und Bedingungen des jeweiligen Partners.
+
+ Warum kann ich trotz Deutschland-Ticket nicht an DB Benefits teilnehmen?
+----------
+
+Der Zugang zu DB Benefits ist aktuell auf bestimmte Deutschland-Ticket-Kundinnen und -Kunden der Deutschen Bahn beschränkt.
+
+Wenn Ihr Ticket nicht erkannt wird, liegt das zum Beispiel daran:
+
+* Ihr Deutschland-Ticket wird nicht im DTV-Tarif der Deutschen Bahn geführt
+* Ihr Deutschland-Ticket läuft über einen anderen Anbieter oder Verbund
+* Ihr Deutschland-Ticket gehört derzeit noch nicht zu den freigeschalteten Ticketarten
+* Sie haben kein [DB Kundenkonto](https://accounts.bahn.de/auth/realms/db/protocol/openid-connect/auth?redirect_uri=https%3A%2F%2Fwww.bahn.de%2Fpost-login-redirect&client_id=kf_web&response_type=code&state=3YE8cv0fzy&scope=openid%20vendo&corid=57e99384-d77b-4a86-b532-c68395b8a449_4439ac24-7832-488d-ab20-f19af08e5b72&response_mode=fragment&kc_locale=de&showRegisterWithBahnCard=true&code_challenge=sYr4yBNLoLTfqX_d52s4MxBkqfJjiBFX-UPxeGRxWos&code_challenge_method=S256).
+
+ Wird der Kundenkreis bei DB Benefits erweitert?
+----------
+
+Ja, eine schrittweise Erweiterung des berechtigen Kundenkreises ist vorgesehen.
+
+ Muss mein Deutschland-Ticket für die Teilnahme an DB Benefits gültig sein?
+----------
+
+Ja. Für die Nutzung von DB Benefits benötigen Sie ein gültiges Deutschland-Ticket der Deutschen Bahn im DTV-Tarif *("DTV" steht für "Deutschlandtarifverbund")*.
+
+Wenn Ihr Ticket gekündigt wurde, noch nicht oder nicht mehr gültig ist, haben Sie keinen Zugang mehr zu DB Benefits.
+
+ Wie lange kann ich DB Benefits nutzen?
+----------
+
+Sie können DB Benefits nutzen, solange Ihre Berechtigung besteht. Voraussetzung ist insbesondere ein gültiges Deutschland-Ticket der Deutschen Bahn im DTV-Tarif sowie ein aktives DB Kundenkonto.
+
+ Was passiert mit meiner Berechtigung für DB Benefits, wenn mein Deutschland-Ticket endet oder gekündigt wird?
+----------
+
+Wenn Ihr Deutschland-Ticket endet, gekündigt wurde oder nicht mehr gültig ist, kann auch Ihre Berechtigung für DB Benefits entfallen. Ein Zugang zu DB Benefits ist dann gegebenenfalls nicht mehr möglich.
+
+ Kann ich für DB Benefits mehrere DB Kundenkonten nutzen?
+----------
+
+Bitte nutzen Sie das [DB Kundenkonto](https://accounts.bahn.de/auth/realms/db/protocol/openid-connect/auth?redirect_uri=https%3A%2F%2Fwww.bahn.de%2Fpost-login-redirect&client_id=kf_web&response_type=code&state=3YE8cv0fzy&scope=openid%20vendo&corid=57e99384-d77b-4a86-b532-c68395b8a449_4439ac24-7832-488d-ab20-f19af08e5b72&response_mode=fragment&kc_locale=de&showRegisterWithBahnCard=true&code_challenge=sYr4yBNLoLTfqX_d52s4MxBkqfJjiBFX-UPxeGRxWos&code_challenge_method=S256), mit dem Ihr berechtigtes Deutschland-Ticket verknüpft ist. Ein Deutschland-Ticket kann nur einem passenden DB Kundenkonto bzw. Zugang zugeordnet werden.
+
+ Wird die Berechtigung für DB Benefits automatisch geprüft?
+----------
+
+Ja. Ihre Berechtigung wird anhand der vorliegenden Ticket- und Kontodaten geprüft. Im Pilotbetrieb kann die Prüfung teilweise etwas Zeit in Anspruch nehmen. Deshalb kann es vorkommen, dass eine Berechtigung nicht sofort bestätigt oder ein Zugang nachträglich angepasst wird.
+
+ Wo finde ich DB Benefits bzw. wie rufe ich die Vorteilswelt auf?
+----------
+
+Die Vorteilswelt DB Benefits finden Sie auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/). Dort können Sie sich über Ihr DB Kundenkonto anmelden. Nach erfolgreicher Berechtigungsprüfung können Sie die Vorteilswelt nutzen.
+
+ Wie melde ich mich bei DB Benefits an?
+----------
+
+Melden Sie sich in Ihrem [DB Kundenkonto](https://accounts.bahn.de/auth/realms/db/protocol/openid-connect/auth?redirect_uri=https%3A%2F%2Fwww.bahn.de%2Fpost-login-redirect&client_id=kf_web&response_type=code&state=3YE8cv0fzy&scope=openid%20vendo&corid=57e99384-d77b-4a86-b532-c68395b8a449_4439ac24-7832-488d-ab20-f19af08e5b72&response_mode=fragment&kc_locale=de&showRegisterWithBahnCard=true&code_challenge=sYr4yBNLoLTfqX_d52s4MxBkqfJjiBFX-UPxeGRxWos&code_challenge_method=S256) an. Danach werden die notwendigen Angaben und Einwilligungen abgefragt.
+
+Damit Ihr Deutschland-Ticket zugeordnet werden kann, benötigen wir
+
+* Ihre Abonummer
+* Ihr Geburtsdatum
+* Ihre Postleitzahl.
+
+ Wo kann ich für die Nutzung von DB Benefits meine Deutschland-Ticket Abonummer finden?
+----------
+
+Ihre Abonummer können Sie folgendermaßen finden:
+
+* in der Aktivierungs-E-Mail als "Abonummer"
+* auf Ihrem Handyticket unterhalb des QR-Codes in der Zeile "Auftrags-Nr." oder "Auftrags-/Abonummer"
+* auf Ihrem Kontoauszug im Verwendungszweck der Lastschrift
+* im Aboportal: Melden Sie sich auf [bahn.de/aboportal](https://bahn.de/aboportal) über Ihr DB Kundenkonto an, mit dem Sie bei der Bestellung des Abos angemeldet waren.
+
+ Meine Deutschland-Ticket Abonummer für die Nutzung von DB Benefits wird nicht erkannt oder akzeptiert.
+----------
+
+Bitte prüfen Sie zuerst, ob Sie Ihre Abonummer korrekt eingegeben haben und ob Ihr Deutschland-Ticket zur aktuell berechtigten Kundengruppe gehört. Ihre Abonummer finden Sie folgendermaßen:
+
+* in der Aktivierungs-E-Mail als "Abonummer"
+* auf Ihrem Handyticket unterhalb des QR-Codes in der Zeile "Auftrags-Nr." oder "Auftrags-/Abonummer"
+* auf Ihrem Kontoauszug im Verwendungszweck der Lastschrift
+* im Aboportal: Melden Sie sich auf [bahn.de/aboportal](https://bahn.de/aboportal) über Ihr DB Kundenkonto an, mit dem Sie bei der Bestellung des Abos angemeldet waren.
+
+ Brauche ich für den Zugang zu DB Benefits ein DB Kundenkonto?
+----------
+
+Ja. Für den Zugang zu DB Benefits benötigen Sie ein DB Kundenkonto. Darüber erfolgt der Login und die Zuordnung zu Ihrem Deutschland-Ticket.
+
+ Warum muss ich für die Nutzung von DB Benefits meine Einwilligung erteilen?
+----------
+
+Ihre Einwilligung ist erforderlich, damit Sie Informationen zu DB Benefits, Vorteilen, Partnerangeboten oder Aktionen erhalten können. Sie können eine erteilte Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen.
+Weitere Informationen finden Sie in den Datenschutzhinweisen auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/).
+
+ Kann ich DB Benefits auch mobil nutzen?
+----------
+
+Ja, Sie können DB Benefits auch auf dem Smartphone nutzen. Öffnen Sie dazu die Vorteilswelt im mobilen Browser und melden Sie sich in Ihrem DB Kundenkonto an.
+
+ Wo finde ich bei der Nutzung von DB Benefits Hilfe zu einem Angebot (Deal, Gutschein, Rabatt)?
+----------
+
+Hilfe zu einem Angebot finden Sie auf der jeweiligen Angebotsdetailseite unter "Kontakt". Dort ist angegeben, an wen Sie sich bei Fragen zum Deal, Gutschein oder Rabatt wenden können.
+
+ Wo finde ich die Einlösebedingungen der Angebote von DB Benefits?
+----------
+
+Die Einlösebedingungen finden Sie auf der jeweiligen Angebotsdetailseite.
+Bitte prüfen Sie dort insbesondere Gültigkeit, Einlösezeitraum, Mindestbestellwert, teilnehmende Produkte und mögliche Einschränkungen.
+
+ Mein DB Benefits Code funktioniert nicht. Was kann ich tun?
+----------
+
+Bitte prüfen Sie zuerst die Einlösebedingungen des Angebots, insbesondere Gültigkeit, Mindestbestellwert, teilnehmende Produkte, Einlösezeitraum und Kombinierbarkeit mit anderen Aktionen.
+
+Wenn der Code weiterhin nicht funktioniert, wenden Sie sich bitte an den in der Angebotsdetailseite genannten Kontakt oder direkt an den jeweiligen Anbieter.
+
+ Kann ich einen DB Benefits Gutschein mehrfach nutzen?
+----------
+
+Das hängt vom jeweiligen Angebot ab. Ob ein Gutschein einmalig oder mehrfach genutzt werden kann, steht in den Einlöse- bzw. Nutzungsbedingungen des Angebots.
+
+ Kann ich DB Benefits Gutscheine übertragen?
+----------
+
+Ob ein Gutschein übertragbar ist, hängt vom jeweiligen Gutschein und den Bedingungen des Gutscheinanbieters ab. Bitte prüfen Sie dazu die Angaben in den Angebotsdetails.
+
+ Sind DB Benefits Gutscheine auch für DB Mitarbeitende zugelassen?
+----------
+
+Wenn DB Mitarbeiterinnen und Mitarbeiter ein gültiges Deutschland-Ticket der DB im DTV-Tarif besitzen, sind DB-externe Gutscheine für sie zugelassen. Gutscheine für Angebote der Deutschen Bahn können von DB Mitarbeitenden nicht genutzt werden.
+
+ Warum ist ein DB Benefits Angebot nicht mehr sichtbar?
+----------
+
+Wenn ein Angebot nicht mehr zur Verfügung steht, wird es nicht angezeigt.
+
+Das Angebot ist
+
+* zeitlich begrenzt
+* ausverkauft
+* vom Anbieter beendet
+
+ Warum wurde mein DB Benefits Gutschein abgelehnt?
+----------
+
+Ein Gutschein kann abgelehnt werden, wenn
+
+* die Einlösebedingungen nicht erfüllt sind
+* der Gutschein abgelaufen ist
+* der Gutschein schon genutzt wurde
+* der Gutschein nicht für die gewählten Produkte gilt
+* technische Probleme beim Anbieter vorliegen.
+
+Bitte prüfen Sie die Bedingungen des Angebots und wenden Sie sich bei Bedarf an den Anbieter.
+
+ Wer ist mein Vertragspartner, wenn ich ein DB Benefits Angebot nutze?
+----------
+
+Wenn Sie ein Angebot eines Partnerunternehmens nutzen, kommt ein Vertrag direkt zwischen Ihnen und dem jeweiligen Partner zustande. Bitte beachten Sie deshalb auch die Bedingungen, Datenschutzinformationen und Kontaktmöglichkeiten des jeweiligen Partners.
+
+ Wer hilft mir, wenn ich bei Nutzung von DB Benefits eine Bestellung beim Partner widerrufen oder reklamieren möchte?
+----------
+
+Bei Rückgabe, Reklamation, Widerruf oder Fragen zu einer Bestellung wenden Sie sich bitte direkt an den jeweiligen Partner bzw. Anbieter. Der Vertrag kommt direkt zwischen Ihnen und dem Partner zustande. Die passenden Kontaktinformationen finden Sie auf der Angebotsdetailseite oder auf der Website des Partners.
+
+ Was passiert mit bereits gespeicherten oder abgerufenen DB Benefits Gutscheinen, wenn mein Zugang endet?
+----------
+
+Wenn Sie einen Gutschein bereits erhalten, kopiert oder eingelöst haben, können die Bedingungen des jeweiligen Angebots weiterhin maßgeblich sein. Bitte prüfen Sie daher die Einlösebedingungen, insbesondere Gültigkeit, Einlösezeitraum und mögliche Einschränkungen. Nach Ende Ihrer Berechtigung kann der erneute Zugriff auf DB Benefits und damit auf gespeicherte Angebotsinformationen eingeschränkt sein.
+
+ Mein Deutschland-Ticket wird bei der Nutzung von DB Benefits nicht anerkannt?
+----------
+
+Bitte beachten Sie, dass der Zugang zu DB Benefits aktuell nur berechtigten Deutschland-Ticket-Kundinnen und -Kunden der Deutschen Bahn im DTV-Tarif vorbehalten ist.
+Wenn Ihr Ticket nicht anerkannt wird, ist die Ticketart möglicherweise noch nicht freigeschaltet oder die Zuordnung zu Ihrem [DB Kundenkonto](https://accounts.bahn.de/auth/realms/db/protocol/openid-connect/auth?redirect_uri=https%3A%2F%2Fwww.bahn.de%2Fpost-login-redirect&client_id=kf_web&response_type=code&state=3YE8cv0fzy&scope=openid%20vendo&corid=57e99384-d77b-4a86-b532-c68395b8a449_4439ac24-7832-488d-ab20-f19af08e5b72&response_mode=fragment&kc_locale=de&showRegisterWithBahnCard=true&code_challenge=sYr4yBNLoLTfqX_d52s4MxBkqfJjiBFX-UPxeGRxWos&code_challenge_method=S256) nicht möglich.
+
+ Hat DB Benefits Auswirkungen auf mein Deutschland-Ticket?
+----------
+
+Nein. DB Benefits ist ein zusätzliches Vorteilsangebot für berechtigte Kundinnen und Kunden. Ihr Deutschland-Ticket bleibt davon unabhängig bestehen. Fragen zu Preis, Gültigkeit, Kündigung, Rechnung oder Abbuchung Ihres Deutschland-Tickets werden nicht in DB Benefits bearbeitet.
+
+ Fragen zu Rechnung oder Abbuchung des Deutschland-Tickets bei Nutzung von DB Benefits?
+----------
+
+Bei Fragen zu Rechnung oder Abbuchung Ihres Deutschland-Tickets nutzen Sie bitte den Deutschland-Ticket-Self-Service im Aboportal oder die Informationen unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+
+ Wie kann ich mein Deutschland-Ticket kündigen oder Fragen zur Kündigung klären?
+----------
+
+Wenn Sie Ihr Deutschland-Ticket kündigen möchten oder Fragen zur Kündigung haben, nutzen Sie bitte den Deutschland-Ticket-Self-Service im [Aboportal](https://abo.bahn.de/portal/#/) oder die Informationen unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+
+ Wo finde ich Informationen zum Status meines Deutschland-Tickets?
+----------
+
+Informationen zum Status Ihres Deutschland-Tickets finden Sie im [Aboportal](https://abo.bahn.de/portal/#/). Weitere Unterstützung erhalten unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+
+ Wo erhalte ich Hilfe zum Deutschland-Ticket?
+----------
+
+Hilfe zum Deutschlandticket erhalten sie im [Aboportal](https://abo.bahn.de/portal/#/) oder unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+
+ Wer hilft bei Tariffragen zum Deutschland-Ticket?
+----------
+
+Die Deutschlandticket-Servicestellen helfen bei Fragen zum Tarif. Weitere Informationen erhalten sie unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+
+ Wer hilft bei Vertragsfragen zum Deutschland-Ticket?
+----------
+
+Bei Vertragsfragen zu Ihrem Deutschland-Ticket nutzen Sie bitte den Deutschland-Ticket-Self-Service im Aboportal oder die Informationen unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+
+ Ich habe mein DB Benefts Passwort vergessen. Wie kann ich es zurücksetzen?
+----------
+
+Sie können den Button "Passwort vergessen" in der Login-Maske Ihres [DB Kundenkontos](https://accounts.bahn.de/auth/realms/db/protocol/openid-connect/auth?redirect_uri=https%3A%2F%2Fwww.bahn.de%2Fpost-login-redirect&client_id=kf_web&response_type=code&state=3YE8cv0fzy&scope=openid%20vendo&corid=57e99384-d77b-4a86-b532-c68395b8a449_4439ac24-7832-488d-ab20-f19af08e5b72&response_mode=fragment&kc_locale=de&showRegisterWithBahnCard=true&code_challenge=sYr4yBNLoLTfqX_d52s4MxBkqfJjiBFX-UPxeGRxWos&code_challenge_method=S256) auswählen und das Passwort zurücksetzen lassen.
+
+ Die Anmeldung bei DB Benefits ist nicht möglich. Was kann ich tun?
+----------
+
+Bitte prüfen Sie zuerst, ob Ihre Zugangsdaten korrekt sind. Falls Sie Ihr Passwort vergessen haben, können Sie Ihr Passwort in der Login-Maske zurücksetzen lassen.
+Sollte die Anmeldung weiterhin nicht funktionieren, versuchen Sie es bitte später erneut oder nutzen Sie die Hilfe unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+
+ Was mache ich bei technischen Problemen auf der DB Benefits-Seite?
+----------
+
+Wenn die Seite nicht lädt oder nicht richtig dargestellt wird, versuchen Sie bitte zunächst, die Seite neu zu laden, einen anderen Browser zu verwenden oder den Cache und die Cookies Ihres Browsers zu löschen. Prüfen Sie außerdem Ihre Internetverbindung. Sollte das Problem weiterhin bestehen, nutzen Sie bitte die Hilfe unter [Hilfe und Kontakt](https://www.bahn.de/hilfe#/abos-dticket).
+
+ Mein DB Konto ist gesperrt. Was kann ich tun?
+----------
+
+Wenn Ihr Zugang gesperrt wurde, weil Sie Ihre Login-Daten mehrfach falsch eingegeben haben, handelt es sich um eine temporäre Sicherheitsmaßnahme. Der Zugang wird nach ca. 30 Minuten automatisch wieder freigeschaltet. Eine manuelle Entsperrung ist in diesem Fall nicht möglich. Bitte warten Sie daher etwas und versuchen Sie es anschließend erneut.
+
+Wenn Sie Ihr Passwort nicht mehr wissen, nutzen Sie bitte die Funktion "Passwort vergessen" im Login-Bereich.
+
+Bei anderen Hinweisen zur Kontosperrung oder zu offenen Forderungen folgen Sie bitte den Informationen, die Sie ggf. per E-Mail oder Brief von der Deutschen Bahn erhalten haben.
+
+ Ich möchte meine E-Mail-Adresse für die Nutzung von DB Benefits ändern. Wie gehe ich vor?
+----------
+
+Die E-Mail-Adresse können Sie über die Profilverwaltung im [DB Kundenkonto](https://accounts.bahn.de/auth/realms/db/protocol/openid-connect/auth?redirect_uri=https%3A%2F%2Fwww.bahn.de%2Fpost-login-redirect&client_id=kf_web&response_type=code&state=3YE8cv0fzy&scope=openid%20vendo&corid=57e99384-d77b-4a86-b532-c68395b8a449_4439ac24-7832-488d-ab20-f19af08e5b72&response_mode=fragment&kc_locale=de&showRegisterWithBahnCard=true&code_challenge=sYr4yBNLoLTfqX_d52s4MxBkqfJjiBFX-UPxeGRxWos&code_challenge_method=S256) über bahn.de anpassen.
+
+ Welche Daten werden für DB Benefits verarbeitet?
+----------
+
+Für DB Benefits werden nur Daten verarbeitet, die für den Zugang, die Berechtigungsprüfung, den Betrieb des Portals, Tracking und die Nutzung der Angebote technisch bzw. fachlich erforderlich sind. Dazu können zum Beispiel Daten aus Ihrem DB Kundenkonto, Ihre Abonummer, Ihr Einwilligungsstatus und Nutzungsdaten innerhalb von DB Benefits gehören. Die aktuellen Datenschutzhinweise finden Sie auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/).
+
+ Werden meine DB Benefits Daten an Partnerunternehmen weitergegeben?
+----------
+
+Bei der Einlösung werden keine personenbezogenen Daten aus DB Benefits an Partnerunternehmen weitergegeben. Wenn Sie ein Partnerangebot nutzen und auf die Seite des Partners wechseln, gelten dort die Bedingungen und Datenschutzhinweise des jeweiligen Partners. Die aktuellen Datenschutzhinweise zu DB Benefits finden sie auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/).
+
+ Wie werden DB Benefits Daten geschützt?
+----------
+
+Ihre Daten werden nach den geltenden Datenschutzanforderungen verarbeitet und geschützt. Dabei gilt das Prinzip der Datensparsamkeit: Es werden nur die Daten genutzt, die für den jeweiligen Zweck erforderlich sind. Die aktuellen Datenschutzhinweise finden sie auf [www.bahn.de/dbbenefits](https://www.dbbenefits.de/).
+
+ Kann ich Einwilligungen für die Datenverarbeitung für DB Benefits widerrufen?
+----------
+
+Ja. Sie können eine erteilte Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der Verarbeitung bis zum Widerruf bleibt davon unberührt. Den Widerruf können Sie über die dafür vorgesehenen Einstellungen oder Hinweise in der Kommunikation vornehmen.
+
+ Wie lösche ich mein DB Kundenkonto?
+----------
+
+Im [DB Kundenkonto](https://accounts.bahn.de/auth/realms/db/protocol/openid-connect/auth?redirect_uri=https%3A%2F%2Fwww.bahn.de%2Fpost-login-redirect&client_id=kf_web&response_type=code&state=3YE8cv0fzy&scope=openid%20vendo&corid=57e99384-d77b-4a86-b532-c68395b8a449_4439ac24-7832-488d-ab20-f19af08e5b72&response_mode=fragment&kc_locale=de&showRegisterWithBahnCard=true&code_challenge=sYr4yBNLoLTfqX_d52s4MxBkqfJjiBFX-UPxeGRxWos&code_challenge_method=S256) können Sie den Dienst unter "Digitale DB Dienste" entfernen, dann wird eine Kündigung angestoßen. Bitte beachten Sie, dass sich dies auf die Nutzung einzelner digitaler DB-Angebote auswirken kann.
 
  Was sind Regio-Tickets und wo gelten sie?
 ----------

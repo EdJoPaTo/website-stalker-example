@@ -8,7 +8,7 @@ NEU
 
  NEU
 
-[[NEU] UGREEN x Honkai: Star Rail Magnetische Powerbank (10.000mAh, 30W, Qi2 15W)](https://de.ugreen.com/products/honkai-star-rail-magnetische-powerbank-10000mah-30w)
+[UGREEN x Honkai: Star Rail Magnetische Powerbank (10.000mAh, 30W, Qi2 15W)](https://de.ugreen.com/products/honkai-star-rail-magnetische-powerbank-10000mah-30w)
 
  NEU
 
