@@ -1,164 +1,28 @@
-[](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64327-1956.html?itemorigin=startseiteHW26)
+\+4
 
- Neue Kollektion
----
+ S1 1003 low
 
- Leicht & beweglich
----
-
- Personalisierbar für jedes Team
----
-
- Modern im Look.
-Stark im Preis.
-----------
-
----
-
- Neue Kollektion
----
-
- Leicht & beweglich
----
-
- Personalisierbar
----
-
- Modern im Look.
-Stark im Preis.
----
-
- Stretch Bundhose
-
- ab 51,05 €
+ ab 59,38 €
 
  (m. MwSt.)
 
- ab 42,90 € (ohne MwSt.)
+ ab 49,90 € (ohne MwSt.)
 
-[](https://www.strauss.com/de/de/bundhosen/stretch-bundhose-e-s-line-core-3165140-64331-1956.html?itemorigin=startseiteHW26)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-low-1101770-93151-685.html?itemorigin=startseiteHW26)
 
-[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
+ \+4
 
-[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-low-1101770-93152-7.html?itemorigin=startseiteHW26)
 
-[](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-padded-e-s-line-core-3135580-64348-1957.html?itemorigin=startseiteHW26)
+ S1 1003 low
 
- Neue Kollektion
----
-
- Leicht & beweglich
----
-
- Personalisierbar für jedes Team
----
-
- Modern im Look.
-Stark im Preis.
----
-
- Neue Kollektion
----
-
- Leicht & beweglich
----
-
- Personalisierbar
----
-
- Modern im Look.
-Stark im Preis.
----
-
-**Winterweste Padded**
-mit Fläche für Rückenprints
-
-[](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64347-1957.html?itemorigin=startseiteHW26)
-
-[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
-
-[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
-
-Alles für den Job:
-Profi-Arbeitskleidung vom Experten
-
-==========
-
----
-
-[Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
-
- S1 1003 mid
-
- ab 65,33 €
+ ab 59,38 €
 
  (m. MwSt.)
 
- ab 54,90 € (ohne MwSt.)
+ ab 49,90 € (ohne MwSt.)
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
-
- S1 1003 mid
-
- ab 65,33 €
-
- (m. MwSt.)
-
- ab 54,90 € (ohne MwSt.)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
-
- S1 1003 mid
-
- ab 65,33 €
-
- (m. MwSt.)
-
- ab 54,90 € (ohne MwSt.)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
-
- S1 1003 mid
-
- ab 65,33 €
-
- (m. MwSt.)
-
- ab 54,90 € (ohne MwSt.)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
-
- S1 1003 mid
-
- ab 65,33 €
-
- (m. MwSt.)
-
- ab 54,90 € (ohne MwSt.)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
-
- S1 1003 mid
-
- ab 65,33 €
-
- (m. MwSt.)
-
- ab 54,90 € (ohne MwSt.)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-low-1101770-93151-685.html?itemorigin=startseiteHW26)
 
  Neuzugänge
 ---
@@ -166,7 +30,7 @@ Profi-Arbeitskleidung vom Experten
  Stahlkappe
 ---
 
- Rutschhemmung
+ Mesh-Komfort
 ---
 
  Neuzugänge
@@ -175,11 +39,11 @@ Profi-Arbeitskleidung vom Experten
  Stahlkappe
 ---
 
- Rutschhemmung
+ Mesh-Komfort
 ---
 
- Jobrunner mit
-Schutzpaket
+ Sportlich auftreten?
+Aber sicher!
 ---
 
 [alle Schuhneuheiten entdecken](https://www.strauss.com/de/de/neuheiten-schuhe/)
@@ -194,68 +58,69 @@ Schutzpaket
 
  Sicherheitsschuhe mit Zehenschutz
 
- \+1
+Alles für den Job:
+Profi-Arbeitskleidung vom Experten
 
- Troyer thermo stretch
+==========
 
-[](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71382-1960.html?itemorigin=startseiteHW26)
-
- \+2
-
- Troyer thermo stretch
-
-[](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71382-1960.html?itemorigin=startseiteHW26)
-
- \+3
-
- Troyer thermo stretch
-
-[](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71332-1960.html?itemorigin=startseiteHW26)
-
- \+4
-
- Troyer thermo stretch
-
-[](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71332-1960.html?itemorigin=startseiteHW26)
-
- Neuzugänge
 ---
 
- Neuzugänge
+[Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
+
+ % Angebote des Monats %
 ---
 
- Volle Wärme.
-Volle Bewegung.
+ % Angebote des Monats %
 ---
 
-[für Damen](https://www.strauss.com/de/de/e-s-trail-damen/)
+ Bis zu
+\-54%
+----------
 
-[für Herren](https://www.strauss.com/de/de/e-s-trail/)
-
-[für Kinder](https://www.strauss.com/de/de/e-s-trail-kinder/)
-
-[für Damen](https://www.strauss.com/de/de/e-s-trail-damen/)
-
-[für Herren](https://www.strauss.com/de/de/e-s-trail/)
-
-[für Kinder](https://www.strauss.com/de/de/e-s-trail-kinder/)
-
-[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65971-1965.html?itemorigin=startseiteHW26)
-
- für Herren & Damen
 ---
 
- von Bundhose bis Funktionsjacke
+ Gültig bis 31.08.2026 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
+
+[](https://www.strauss.com/de/de/angebote-des-monats/)
+
+ % Sparen im Set %
 ---
 
- für Herren & Damen
+ % Sparen im Set %
 ---
 
- von Bundhose bis Funktionsjacke
+ SET: 2x Oberteil + 1x Hose e.s.trail
+---
+
+[für Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0056?variantId=13622c56-7b36-4fb8-9d44-93318c7e9e4f)
+
+[für Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0057?variantId=e16b45eb-c48f-4287-9d7d-92c6487fea00)
+
+[für Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0056?variantId=13622c56-7b36-4fb8-9d44-93318c7e9e4f)
+
+[für Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0057?variantId=e16b45eb-c48f-4287-9d7d-92c6487fea00)
+
+*
+*
+
+[](https://www.strauss.com/de/de/softshelljacken-damen/softshelljacke-e-s-motion-2020-damen-3130420-65822-1965.html?itemorigin=startseiteHW26)
+
+ Graphit-Feuerrot
+---
+
+ Für Herren & Damen
+---
+
+ Graphit-Feuerrot
+---
+
+ Für Herren & Damen
 ---
 
  Motion 2020
-graphit/feuerrot
+setzt neue Akzente
 ---
 
  Neue
@@ -269,6 +134,114 @@ Farbe
 [neue Farbe entdecken](https://www.strauss.com/de/de/e-s-motion-2020/)
 
 [Farbe entdecken](https://www.strauss.com/de/de/e-s-motion-2020/)
+
+[](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64347-1957.html?itemorigin=startseiteHW26)
+
+ Neue Kollektion
+---
+
+ Leicht & beweglich
+---
+
+ Personalisierbar für jedes Team
+---
+
+ Neue Kollektion
+---
+
+ Leicht & beweglich
+---
+
+ Personalisierbar
+---
+
+ Starke Leistung
+zum starken Preis
+---
+
+ Stretch Bundhose
+
+ ab 51,05 €
+
+ (m. MwSt.)
+
+ ab 42,90 € (ohne MwSt.)
+
+[](https://www.strauss.com/de/de/bundhosen/stretch-bundhose-e-s-line-core-3165140-64351-1957.html?itemorigin=startseiteHW26)
+
+[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
+
+[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
+
+ Neuzugänge
+---
+
+ extra warm & flexibel
+---
+
+ Neuzugänge
+---
+
+ extra warm & flexibel
+---
+
+ Troyer Thermo
+Stretch e.s.trail
+---
+
+[für Damen](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71386-1961.html?itemorigin=startseiteHW26)
+
+[für Herren](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71335-1964.html?itemorigin=startseiteHW26)
+
+[für Kinder](https://www.strauss.com/de/de/kinder-pullover-troyer/troyer-thermo-stretch-e-s-trail-kinder-3121980-71341-1959.html?itemorigin=startseiteHW26)
+
+[für Damen](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71386-1961.html?itemorigin=startseiteHW26)
+
+[für Herren](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71335-1964.html?itemorigin=startseiteHW26)
+
+[für Kinder](https://www.strauss.com/de/de/kinder-pullover-troyer/troyer-thermo-stretch-e-s-trail-kinder-3121980-71341-1959.html?itemorigin=startseiteHW26)
+
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail-damen/)
+
+[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail-damen/)
+
+[](https://www.strauss.com/de/de/straussboxen-unbestueckt/straussbox-340-maxi-7073120-5506276-0.html?itemorigin=startseiteHW26)
+
+ STRAUSSbox System
+---
+
+ STRAUSSbox System
+---
+
+ STRAUSSbox
+340 maxi
+---
+
+ Werkzeugbox mit extra großem Stauraum
+---
+
+ besonders lang und hoch für sperrige Werkzeuge
+---
+
+ mit anderen STRAUSSboxen stapel-, verklick- & transportierbar
+---
+
+ Werkzeugbox mit extra großem Stauraum
+---
+
+ besonders lang und hoch für sperrige Werkzeuge
+---
+
+ mit anderen STRAUSSboxen stapel-, verklick- & transportierbar
+---
+
+[STRAUSSbox 340 maxi](https://www.strauss.com/de/de/straussboxen-unbestueckt/straussbox-340-maxi-7073120-5506276-0.html)
+
+[alle STRAUSSboxen entdecken](https://www.strauss.com/de/de/straussbox-system/)
+
+[STRAUSSbox 340 maxi](https://www.strauss.com/de/de/straussboxen-unbestueckt/straussbox-340-maxi-7073120-5506276-0.html)
+
+[alle STRAUSSboxen entdecken](https://www.strauss.com/de/de/straussbox-system/)
 
  Druck & Stick - ab 1 Stück
 ----------
@@ -442,44 +415,6 @@ Stick: Direkteinstickung
 
 *
 *
-*
-*
-
- % Angebote des Monats %
----
-
- % Angebote des Monats %
----
-
- Bis zu
-\-54%
-----------
-
----
-
- Gültig bis 31.08.2026 | Solange der Vorrat reicht
-
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
-
-[](https://www.strauss.com/de/de/angebote-des-monats/)
-
- % Sparen im Set %
----
-
- % Sparen im Set %
----
-
- SET: 2x Oberteil + 1x Hose e.s.trail
----
-
-[für Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0056?variantId=13622c56-7b36-4fb8-9d44-93318c7e9e4f)
-
-[für Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0057?variantId=e16b45eb-c48f-4287-9d7d-92c6487fea00)
-
-[für Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0056?variantId=13622c56-7b36-4fb8-9d44-93318c7e9e4f)
-
-[für Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0057?variantId=e16b45eb-c48f-4287-9d7d-92c6487fea00)
-
 *
 *
 
