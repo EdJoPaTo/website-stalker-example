@@ -20,6 +20,8 @@
 
 [UGREEN Nexode Pro USB-C Ladegerät (160W, 4-Ports, GaN)](https://de.ugreen.com/products/ugreen-nexode-pro-160w-usb-c-ladegerat-superschlank-gan-wandladegerat)
 
+ (47)
+
 [UGREEN Set-Angebot: 30W USB-C Ladegerät + 60W USB-C Kabel (1M )](https://de.ugreen.com/products/ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel)
 
 [UGREEN Set-Angebot: 100W 4-Ports Ladegerät + 60W USB-C Kabel\*2 (1M )](https://de.ugreen.com/products/ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel)

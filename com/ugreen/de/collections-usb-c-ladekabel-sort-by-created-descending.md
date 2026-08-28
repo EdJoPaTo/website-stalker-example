@@ -12,6 +12,8 @@ NEU
 
 [UGREEN USB4 Kabel (1M, 80Gbps, 240W, 16K)](https://de.ugreen.com/products/usb4-kabel-80gbps-16k-240w)
 
+ (41)
+
 [UGREEN Uno USB-C auf USB-C Kabel (100W)](https://de.ugreen.com/products/ugreen-uno-usb-c-kabel-100w)
 
 [UGREEN 100W PD 3.0 USB-C auf USB-C Schnellladekabel](https://de.ugreen.com/products/45064)
