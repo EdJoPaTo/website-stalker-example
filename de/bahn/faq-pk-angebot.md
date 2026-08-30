@@ -2249,6 +2249,46 @@ Die BahnCard 25 können Sie gleich hier online kaufen.
 
 Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bahn und in der App.
 
+ Wie lange gibt es die BahnCard 25 zum Aktionspreis?
+----------
+
+Die Aktion gilt vom 1. bis zum 30. September 2026. In diesem Zeitraum kann man die BahnCard 25 zu einem Aktionspreis erwerben. Letztmöglicher erster Geltungstag ist der 30. September 2026.
+
+ Wer kann die BahnCard 25 zum Aktionspreis erwerben?
+----------
+
+Alle Reisenden können die BahnCard 25 zum Aktionspreis kaufen. Im Aktionszeitraum bietet die BahnCard 25 zum Aktionspreis für alle Zielgruppen den günstigsten Preis. Der letztmögliche erste Geltungstag muss innerhalb dieses Zeitraums liegen.
+
+Die BahnCard 25 hat eine Gültigkeit von 12 Monaten. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My BahnCard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
+
+ Wieviel kostet die BahnCard 25 zum Aktionspreis?
+----------
+
+Die BahnCard 25 zum Aktionspreis kostet:
+
+* 29,99 Euro in der 2. Klasse
+* 59,99 Euro in der 1. Klasse
+
+ Wie lange ist die BahnCard 25 zum Aktionspreis gültig?
+----------
+
+Die BahnCard 25 zum Aktionspreis hat eine Gültigkeit von 12 Monaten ab dem ersten Geltungstag. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My BahnCard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
+
+ Läuft die BahnCard 25 zum Aktionspreis in ein Abo über?
+----------
+
+Ja, die BahnCard 25 zum Aktionspreis geht nach Ablauf des Gültigkeitszeitraums von einem Jahr in ein BahnCard 25-Abonnement zum regulären Preis über, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird. Die Folgekarte ist, abhängig vom Alter sowie ggf. der Ermäßigungsberechtigung, entweder eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder eine My BahnCard der 1. beziehungsweise 2. Klasse.
+
+ Wo bestelle ich meine BahnCard 25 zum Aktionspreis?
+----------
+
+Die BahnCard 25 zum Aktionspreis können Sie online, in der App oder in den DB Reisezentren und DB Agenturen kaufen.
+
+ Kann ich meine bestehende BahnCard in eine BahnCard 25 zum Aktionspreis umtauschen?
+----------
+
+Nein, weder ein Upgrade noch ein Umtausch in eine BahnCard 25 zum Aktionspreis sind möglich. Eine Anrechnung der bestehenden BahnCard auf eine BahnCard zum Aktionspreis ist somit nicht möglich.
+
  Wofür kann ich die My BahnCard nutzen?
 ----------
 
