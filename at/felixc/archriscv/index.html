@@ -2,224 +2,354 @@
 	<head>
 	</head>
 	<body>
-		<h1>
-			Arch Linux RISC-V
-		</h1>
-		<p>
-			This is an Arch Linux port to the RISC-V architecture.
-		</p>
-		<h3>
-			Hardware Support
-		</h3>
-		<p>
-			The hardware baseline is RV64GC and the ABI is lp64d.
-		</p>
-		<p>
-			The main "linux" kernel package has enabled support, and tested for:
-		</p>
-		<li>
-			QEMU
-		</li>
-		<li>
-			HiFive Unmatched, HiFive Unleashed
-		</li>
-		<li>
-			PolarFire SoC Icicle Kit
-		</li>
-		<li>
-			VisionFive v2, Milk-V Mars
-		</li>
-		<li>
-			Nezha D1
-		</li>
-		<p>
-			In addition, the [unsupported] repository has experimental kernel packages for LicheePi 4A (TH1520) and Milk-V Pioneer (SG2042).
-		</p>
-		<p>
-			Other boards (except those with AX45MP) may work with a BSP or custom kernel.
-		</p>
-		<h3>
-			Porting Goal
-		</h3>
-		<p>
-			This port applies patches on top of Arch Linux's source packages. All our patches are maintained in the patch
-repository below.
-		</p>
-		<p>
-			The long term goal is to upstream our patches as much as possible, so that riscv64
-(riscv64gc) could be added to Arch Linux itself as an alternative architecture.
-		</p>
-		<h3>
-			Resources
-		</h3>
-		<a href="https://archriscv.felixc.at/images">
-			Images (rootfs)
-		</a>
-		(Default user/password: root/archriscv)
-		<br>
-		<a href="https://archriscv.felixc.at/repo">
-			Binary Package Repositories
-		</a>
-		([core], [extra], [unsupported])
-		<br>
-		<a href="https://github.com/felixonmars/archriscv-packages">
-			Patch Repository
-		</a>
-		(bug reports, wiki, ...)
-		<br>
-		<br>
-		<a href="https://hub.docker.com/r/riscfive/archlinux">
-			Docker Image
-		</a>
-		(third-party)
-		<h2>
-			Mirrors
-		</h2>
-		<h3>
-			Worldwide
-		</h3>
-		<a href="https://riscv.mirror.pkgbuild.com/">
-			PKGBUILD.com
-		</a>
-		(Recommended)
-		<h3>
-			Romania
-		</h3>
-		<a href="https://archriscv.felixc.at/">
-			Felixc.at
-		</a>
-		<br>
-		<h3>
-			Canada
-		</h3>
-		<a href="https://archriscv.paulsajna.com/">
-			Paul Sajna
-		</a>
-		<br>
-		<h3>
-			United States
-		</h3>
-		<a href="https://mirrors.felixc.at/archriscv/">
-			Felixc.at
-		</a>
-		<h3>
-			China
-		</h3>
-		<a href="https://mirror.iscas.ac.cn/archriscv/">
-			ISRC-ISCAS
-		</a>
-		<br>
-		<a href="https://mirror.nju.edu.cn/archriscv/">
-			NJU
-		</a>
-		<br>
-		<a href="https://mirror.nyist.edu.cn/archriscv/">
-			NYIST
-		</a>
-		<br>
-		<a href="https://mirrors.pku.edu.cn/archriscv/">
-			PKU
-		</a>
-		<br>
-		<a href="https://mirrors.sustech.edu.cn/archriscv/">
-			SUSTech
-		</a>
-		<br>
-		<a href="https://mirrors.wsyu.edu.cn/archriscv/">
-			WSYU
-		</a>
-		<h3>
-			Brazil
-		</h3>
-		<a href="https://mirrors.ic.unicamp.br/archriscv/">
-			Unicamp
-		</a>
-		<br>
-		<a href="https://mirror.ufscar.br/archriscv/">
-			UFSCar
-		</a>
-		<h2>
-			Getting Involved
-		</h2>
-		Please take a look at our
-		<a href="https://github.com/felixonmars/archriscv-packages/wiki/Contributing-Guide">
-			Contributing Guide
-		</a>
-		.
-		<h2>
-			Porting Progress
-		</h2>
-		<pre>
-		</pre>
-		<p>
-			<a href="https://archriscv.felixc.at/.status/status.htm">
-				detailed status...
-			</a>
-		</p>
-		<p>
-			Note: Except for those listed in the
-			<a href="https://github.com/felixonmars/archriscv-packages/blob/master/blacklist.txt">
-				blacklist
-			</a>
-			, all packages should be either up-to-date or listed in the detailed status page above.
-		</p>
-		<h2>
-			Last Updates
-		</h2>
-		<pre>
-		</pre>
-		<h2>
-			Community
-		</h2>
-		IRC: #archlinuxriscv at libera.chat
-		<br>
-		Matrix: #archlinux-riscv:matrix.org
-		<br>
-		<h2>
-			Thanks
-		</h2>
-		<li>
-			ISCAS for HiFive Unleashed/Unmatched, VisionFive v1, Milk-V Pioneer, PolarFire SoC Icicle Kit, LicheePi 4A, LicheePi Cluster 4A, Milk-V Duo (S, 256), Kendryte K230, BananaPi F3, ESWIN EIC7700 test boards
-		</li>
-		<li>
-			KUBUDS for many x86-based QEMU builders
-		</li>
-		<li>
-			DeepComputing for DC ROMA Laptops (I & II)
-		</li>
-		<li>
-			Milk-V for Mars, Jupiter and Vega test boards
-		</li>
-		<li>
-			ESWIN for EIC7700 test board
-		</li>
-		<li>
-			RISC-V International for StarFive VisionFive v1/v2 test boards
-		</li>
-		<li>
-			Sipeed for LicheeRV Nano test boards
-		</li>
-		<li>
-			@lrzlin for Huashan Pi test board
-		</li>
-		<li>
-			@liangyongxiang for Nezha D1 test board
-		</li>
-		<li>
-			Deepin for a x86-based QEMU builder
-		</li>
-		<li>
-			Loongson for a LoongArch-based QEMU builder
-		</li>
-		...and every contributor for keeping the port fresh:
-		<br>
-		<a href="https://github.com/felixonmars/archriscv-packages/graphs/contributors">
-		</a>
-		<br>
-		Made with
-		<a href="https://contrib.rocks/">
-			contrib.rocks
-		</a>
-		.
+		<header class="site-header">
+			<div class="container header-inner">
+				<h1>
+					Arch Linux RISC-V
+				</h1>
+				<p class="tagline">
+					This is an Arch Linux port to the RISC-V architecture.
+				</p>
+				<p class="platform">
+					Hardware baseline: RV64GC · ABI: lp64d
+				</p>
+			</div>
+		</header>
+		<main class="container">
+			<section id="resources">
+				<h2>
+					Resources
+				</h2>
+				<ul class="resource-list">
+					<li>
+						<a href="https://archriscv.felixc.at/images">
+							Images (rootfs)
+						</a>
+						<br>
+						<small>
+							Default user/password:
+							<code>
+								root/archriscv
+							</code>
+						</small>
+					</li>
+					<li>
+						<a href="https://archriscv.felixc.at/repo">
+							Binary package repositories
+						</a>
+						<br>
+						<small>
+							<code>
+								[core]
+							</code>
+							,
+							<code>
+								[extra]
+							</code>
+							,
+							<code>
+								[unsupported]
+							</code>
+						</small>
+					</li>
+					<li>
+						<a href="https://github.com/felixonmars/archriscv-packages">
+							Patch repository
+						</a>
+						<br>
+						<small>
+							Bug reports, wiki, and more
+						</small>
+					</li>
+					<li>
+						<a href="https://hub.docker.com/r/riscfive/archlinux">
+							Docker image
+						</a>
+						<br>
+						<small>
+							Third-party image
+						</small>
+					</li>
+				</ul>
+			</section>
+			<section id="hardware">
+				<h2>
+					Hardware Support
+				</h2>
+				<p>
+					The main
+					<code>
+						linux
+					</code>
+					kernel package has enabled support and has been tested for:
+				</p>
+				<ul>
+					<li>
+						QEMU
+					</li>
+					<li>
+						HiFive Unmatched and HiFive Unleashed
+					</li>
+					<li>
+						PolarFire SoC Icicle Kit
+					</li>
+					<li>
+						VisionFive v2 and Milk-V Mars
+					</li>
+					<li>
+						Nezha D1
+					</li>
+				</ul>
+				<p>
+					In addition, the
+					<code>
+						[unsupported]
+					</code>
+					repository has experimental kernel packages for LicheePi 4A (TH1520) and Milk-V Pioneer (SG2042).
+				</p>
+				<p>
+					Other boards, except those with AX45MP, may work with a BSP or custom kernel.
+				</p>
+			</section>
+			<section id="porting">
+				<h2>
+					Porting Goal
+				</h2>
+				<p>
+					This port applies patches on top of Arch Linux source packages. All patches are maintained in the
+					<a href="https://github.com/felixonmars/archriscv-packages">
+						patch repository
+					</a>
+					.
+				</p>
+				<p>
+					The long-term goal is to upstream as many patches as possible, so that
+					<code>
+						riscv64
+					</code>
+					(
+					<code>
+						riscv64gc
+					</code>
+					) can be added to Arch Linux itself as an alternative architecture.
+				</p>
+			</section>
+			<section id="mirrors">
+				<h2>
+					Mirrors
+				</h2>
+				<div class="mirror-grid">
+					<div>
+						<h3>
+							Worldwide
+						</h3>
+						<p>
+							<a href="https://riscv.mirror.pkgbuild.com/">
+								PKGBUILD.com
+							</a>
+							<small>
+								(Recommended)
+							</small>
+						</p>
+					</div>
+					<div>
+						<h3>
+							Romania
+						</h3>
+						<p>
+							<a href="https://archriscv.felixc.at/">
+								Felixc.at
+							</a>
+						</p>
+					</div>
+					<div>
+						<h3>
+							Canada
+						</h3>
+						<p>
+							<a href="https://archriscv.paulsajna.com/">
+								Paul Sajna
+							</a>
+						</p>
+					</div>
+					<div>
+						<h3>
+							United States
+						</h3>
+						<p>
+							<a href="https://mirrors.felixc.at/archriscv/">
+								Felixc.at
+							</a>
+						</p>
+					</div>
+					<div>
+						<h3>
+							China
+						</h3>
+						<p>
+							<a href="https://mirror.iscas.ac.cn/archriscv/">
+								ISRC-ISCAS
+							</a>
+						</p>
+						<p>
+							<a href="https://mirror.nju.edu.cn/archriscv/">
+								NJU
+							</a>
+						</p>
+						<p>
+							<a href="https://mirror.nyist.edu.cn/archriscv/">
+								NYIST
+							</a>
+						</p>
+						<p>
+							<a href="https://mirrors.pku.edu.cn/archriscv/">
+								PKU
+							</a>
+						</p>
+						<p>
+							<a href="https://mirrors.sustech.edu.cn/archriscv/">
+								SUSTech
+							</a>
+						</p>
+						<p>
+							<a href="https://mirrors.wsyu.edu.cn/archriscv/">
+								WSYU
+							</a>
+						</p>
+					</div>
+					<div>
+						<h3>
+							Brazil
+						</h3>
+						<p>
+							<a href="https://mirrors.ic.unicamp.br/archriscv/">
+								Unicamp
+							</a>
+						</p>
+						<p>
+							<a href="https://mirror.ufscar.br/archriscv/">
+								UFSCar
+							</a>
+						</p>
+					</div>
+				</div>
+			</section>
+			<section id="involved">
+				<h2>
+					Getting Involved
+				</h2>
+				<p>
+					Please take a look at our
+					<a href="https://github.com/felixonmars/archriscv-packages/wiki/Contributing-Guide">
+						Contributing Guide
+					</a>
+					.
+				</p>
+			</section>
+			<section id="progress">
+				<h2>
+					Porting Progress
+				</h2>
+				<div class="status-panel">
+				</div>
+				<p class="status-link">
+					<a href="https://archriscv.felixc.at/.status/status.htm">
+						Detailed status
+					</a>
+				</p>
+				<p>
+					Except for packages listed in the
+					<a href="https://github.com/felixonmars/archriscv-packages/blob/master/blacklist.txt">
+						blacklist
+					</a>
+					, all packages should be up-to-date or listed on the detailed status page.
+				</p>
+			</section>
+			<section id="updates">
+				<h2>
+					Last Updates
+				</h2>
+				<div class="updates-panel" id="last-updates-panel">
+					<div class="status-panel">
+					</div>
+					<div aria-hidden="true" class="updates-fade" hidden="" id="last-updates-fade">
+					</div>
+					<button aria-expanded="false" class="updates-toggle" hidden="" id="last-updates-toggle" type="button">
+						Show all
+					</button>
+				</div>
+			</section>
+			<section id="community">
+				<h2>
+					Community
+				</h2>
+				<div class="community">
+					<div>
+						IRC:
+						<a href="https://libera.chat/">
+							#archlinuxriscv at libera.chat
+						</a>
+					</div>
+					<div>
+						Matrix:
+						<a href="https://matrix.to/#/#archlinux-riscv:matrix.org">
+							#archlinux-riscv:matrix.org
+						</a>
+					</div>
+				</div>
+			</section>
+			<section id="thanks">
+				<h2>
+					Thanks
+				</h2>
+				<ul>
+					<li>
+						ISCAS for HiFive Unleashed/Unmatched, VisionFive v1, Milk-V Pioneer, PolarFire SoC Icicle Kit, LicheePi 4A, LicheePi Cluster 4A, Milk-V Duo (S, 256), Kendryte K230, BananaPi F3, and ESWIN EIC7700 test boards
+					</li>
+					<li>
+						KUBUDS for many x86-based QEMU builders
+					</li>
+					<li>
+						DeepComputing for DC ROMA Laptops (I & II)
+					</li>
+					<li>
+						Milk-V for Mars, Jupiter, and Vega test boards
+					</li>
+					<li>
+						ESWIN for EIC7700 test board
+					</li>
+					<li>
+						RISC-V International for StarFive VisionFive v1/v2 test boards
+					</li>
+					<li>
+						Sipeed for LicheeRV Nano test boards
+					</li>
+					<li>
+						@lrzlin for Huashan Pi test board
+					</li>
+					<li>
+						@liangyongxiang for Nezha D1 test board
+					</li>
+					<li>
+						Deepin for an x86-based QEMU builder
+					</li>
+					<li>
+						Loongson for a LoongArch-based QEMU builder
+					</li>
+				</ul>
+				<p>
+					...and every contributor for keeping the port fresh:
+				</p>
+				<a href="https://github.com/felixonmars/archriscv-packages/graphs/contributors">
+				</a>
+				<footer>
+					Made with
+					<a href="https://contrib.rocks/">
+						contrib.rocks
+					</a>
+					.
+				</footer>
+			</section>
+		</main>
 	</body>
 </html>
