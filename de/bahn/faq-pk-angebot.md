@@ -855,6 +855,17 @@ Der Preis wird bei der Buchung automatisch berechnet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-flexpreis-europa)
 
+ Kann ich für mein alleinreisendes Kind einen Flexpreis Young kaufen?
+----------
+
+Nein. **Das Angebot gilt nicht für alleinreisende Kinder.** Alleinreisende Kinder erhalten bereits 50 % Rabatt auf ihr Ticket.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/alleinreisendes-kind-flexpreis-young)
+
  Kann ich für mein alleinreisendes Kind einen Normalpreis kaufen?
 ----------
 
@@ -1064,6 +1075,17 @@ Sind Sie am 1. Reisetag 65 Jahre oder älter, dann können Sie den Super Sparpre
 [Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersangabe-ab-65-jahre)
+
+ Was bedeutet die Altersangabe "Unter 27 Jahre"?
+----------
+
+Das Angebot "Flexpreis Young" richtet sich speziell an die **junge Zielgruppe zwischen 15 und 26 Jahren**. Ausschlaggebend ist das Alter am ersten Reisetag, nicht beim Kauf des Tickets. Bei einer Hin- und Rückfahrt ist das Alter bei der ersten Fahrt (Hinfahrt) entscheidend.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersangabe-flexpreis-young)
 
  Ich habe ein älteres Smartphone und kann meine digitale BahnCard 25/50 nicht im DB Navigator nutzen. Was kann ich tun?
 ----------
@@ -1624,6 +1646,17 @@ Bitte prüfen Sie zunächst Ihre Internetverbindung. Vergewissern Sie sich bitte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ausleihe-kann-nicht-beendet-werden)
 
+ Ich bin unter 16 Jahren und besitze noch keinen Personalausweis. Wie kann ich mein Alter nachweisen?
+----------
+
+Generell gilt in Deutschland eine **Ausweispflicht ab 16 Jahren.** Alternativ zum Personalausweis kann aber auch ein Schülerausweis, Kinderreisepass oder Lichtbildausweis mitgeführt werden.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ausweis-flexpreis-young)
+
  Welche Auswertung steckt hinter den Graphen auf der Startseite?
 ----------
 
@@ -1920,6 +1953,19 @@ Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattier
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-europa)
+
+ Bekomme ich Rabatt auf den Flexpreis Young mit der BahnCard?
+----------
+
+Ja. **Mit der BahnCard 25 erhältst du 25 %** und **mit der** **BahnCard 50 erhältst du 50 % Rabatt.**
+
+* [Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-young)
 
  Bekomme ich beim Frühbucherangebot für Gruppen Rabatt mit der BahnCard?
 ----------
@@ -3164,6 +3210,23 @@ Wenn hingegen laut Buchungsanfrage ausschließlich Züge des DB Fernverkehrs ben
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-city-ticket-sp-ssp)
 
+ Wo und wie kann ich den Flexpreis Young kaufen?
+----------
+
+Den Flexpreis Young kannst du über **bahn.de** oder unsere **App DB Navigator** kaufen.
+
+Bitte wähle dazu bei der Buchung unter „Reisende, Fahrräder, BahnCards“ bzw. im DB Navigator unter „Reisende, Fahrräder, Ermäßigungen“ den **Reisendentyp „Person (15-26 Jahre)“** sowie die **2. Klasse** aus.
+
+Beachte, dass bei der gewünschten Fahrt mindestens eine **Teilstrecke in Zügen der Produktklassen ICE oder IC/EC** zurückgelegt werden muss.
+
+Darüber hinaus ist der Flexpreis Young auch in den DB Reisezentren sowie in ausgewählten DB Agenturen erhältlich.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-flexpreis-young)
+
  Ich habe Probleme bei der Buchung eines IC/EC-Abos. An wen kann ich mich wenden?
 ----------
 
@@ -3357,6 +3420,17 @@ Ja. In **140 Städten** ist für Sie das **City-Ticket kostenfrei** enthalten. 
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-flexpreis)
+
+ Ist das City-Ticket im Flexpreis Young enthalten?
+----------
+
+Ja. In **140 Städten ist das City-Ticket kostenfrei** enthalten. Ob dein Start- oder Zielbahnhof dazugehört, erkennst du an dem Vermerk **„+City“** auf deinem Ticket.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/city-ticket-flexpreis-young)
 
  Kann ich ein City-Ticket selbst hinzubuchen oder abwählen?
 ----------
@@ -6866,6 +6940,17 @@ Ja, der Flexpreis Europa ist auch für internationale Verbindungen buchbar.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis)
 
+ Ist der Flexpreis Young auch für internationale Fahrten buchbar?
+----------
+
+Nein. Der Flexpreis Young gilt **nur für Reisen innerhalb Deutschlands**.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis-young)
+
  Warum kann ich beim Frühbucherangebot für Gruppen keinen Preis für internationale Reisen sichern?
 ----------
 
@@ -8256,6 +8341,18 @@ Bis zu 4 Kinder im Alter von 6 bis 14 Jahren fahren in Begleitung von Reisenden 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-flexpreis)
 
+ Können Kinder mit dem Flexpreis Young kostenfrei reisen?
+----------
+
+* **Kinder bis 5 Jahre** fahren immer kostenfrei und müssen nicht bei der Buchung angegeben werden.
+* **Kinder von 6 bis 14** **Jahren** fahren in Begleitung einer Person ab 15 Jahre kostenfrei. Sie müssen aber bei der Buchung angegeben werden. Es können insgesamt maximal 5 Personen mit einem Ticket reisen.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-flexpreis-young)
+
  Können wir mit dem Frühbucherangebot kostenlos Kinder mitnehmen?
 ----------
 
@@ -8684,6 +8781,17 @@ Nein, eine Kindermitnahme ist bei Dienstantrittsreisen der Bundeswehr ausgeschlo
 [Zur Buchung 2. Klasse](https://www.bahn.de/buchung/intern/start#?ET=BW_DIENSTFAHRT)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kindermitnahme-bundeswehr-dienstantrittsreisen)
+
+ Kann ich mit meinem Flexpreis Young-Ticket für die 2. Klasse in der 1. Klasse reisen?
+----------
+
+Nein. **Den** **Flexpreis Young gibt es nur für die 2. Klasse**. Entsprechend ist ein Upgrade in die 1. Klasse leider nicht möglich.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/klasse-flexpreis-young)
 
  Was kostet das Bundeswehr-Ticket?
 ----------
@@ -10270,6 +10378,17 @@ Die Preise variieren je nach Strecke, Buchungs- und Reisedatum und gelten für e
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-flexpreis)
+
+ Was kostet ein Flexpreis Young-Ticket?
+----------
+
+Die **Preise variieren je nach Strecke, Buchungs- und Reisedatum** und gelten für eine einfache Fahrt innerhalb Deutschlands.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/preis-flexpreis-young)
 
  Was kostet ein Normalpreis-Ticket?
 ----------
@@ -11868,6 +11987,17 @@ Für die Rückerstattung des Reservierungsentgelts können Sie den Antrag formlo
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-flexpreis)
 
+ Ist beim Flexpreis Young eine Sitzplatzreservierung im Preis enthalten?
+----------
+
+Nein. Die Fahrkarte enthält **keine Sitzplatzreservierung**. Diese kannst du zusammen mit der Fahrkarte oder später separat kaufen.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sitzplatzreservierung-flexpreis-young)
+
  Kann ich auch eine Sitzplatzreservierung ohne Ticket buchen?
 ----------
 
@@ -12153,6 +12283,26 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr **Digitales 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis-europa)
 
+ Kann ich mein Flexpreis Young-Ticket umbuchen oder stornieren?
+----------
+
+Ja.
+
+* **Bis 1 Tag vor dem 1. Geltungstag** der Hinfahrt: kostenfrei
+* **Ab dem 1. Geltungstag** der Hinfahrt: 30 Euro pro Fahrkarte
+
+Unabhängig von den Angebots-Bedingungen:
+
+* Du kannst dein Digitales Ticket vor dem 1. Geltungstag innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren und erhälst den kompletten Betrag zurück.
+
+* [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-flexpreis-young)
+
  Kann ich mein Normalpreis-Ticket umbuchen oder stornieren?
 ----------
 
@@ -12353,6 +12503,17 @@ Als Ausnahme gilt, wenn Sie aufgrund Ihrer Fahrgastrechte Anspruch auf eine Rüc
 * [Mehr Informationen zu Fahrgastrechten](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/storno-umtausch)
+
+ Warum finde ich auf meiner Strecke den Flexpreis Young nicht?
+----------
+
+Du kannst das Angebot "Flexpreis Young" **für Reisen im Zeitraum vom 1. September bis 12. Dezember 2026** buchen. Eine **Teilstrecke** musst du dabei **in Zügen der Produktklasse ICE oder IC/EC** zurücklegen.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/strecke-flexpreis-young)
 
  Auf welchen Strecken gilt das waldbahn-Tagesticket?
 ----------
@@ -13894,6 +14055,17 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis-europa)
+
+ Wie lange im Voraus kann ich den Flexpreis Young kaufen?
+----------
+
+Beim Flexpreis Young handelt es sich um ein zeitlich begrenztes Angebot. **Es ist vom 1. September bis 12. Dezember 2026 buchbar** für **Reisen bis einschließlich 12. Dezember 2026.**
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-flexpreis-young)
 
  Wie lange im Voraus kann ich das Normalpreis-Ticket kaufen?
 ----------
@@ -15678,6 +15850,13 @@ Die Buchung eines Bundeswehr-Tickets ist **nur für die eigene Person** zulässi
 [Zur Buchung mit Zugangscode](https://www.bahn.de/buchung/intern/start#?ET=BUNDESWEHR)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitergabe-bundeswehr-ticket)
+
+ Kann ich mein Flexpreis Young-Ticket weitergeben, wenn ich selbst nicht reisen kann?
+----------
+
+Nein. Personalisierte Fahrkarten dürfen nur von der Person genutzt werden, deren Name auf der Fahrkarte vermerkt ist. Zur **Identifikation im Zug** muss ein **amtlicher Lichtbildausweis** (z. B. Personalausweis) oder eine entsprechende BahnCard vorgezeigt werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitergabe-flexpreis-young)
 
  Welche Adressen sind für DB Gepäckservice zulässig?
 ----------
@@ -20943,6 +21122,17 @@ Das gilt für
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarte-verkehrsmittel)
 
+ Wann kann ich den Flexpreis Young kaufen?
+----------
+
+Du kannst das Angebot vom **1. September bis 12. Dezember 2026** buchen für Reisen zwischen dem 1. September und 12. Dezember 2026.
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitraum-flexpreis-young)
+
  In welchem Zeitraum kann ich den Preis sichern?
 ----------
 
@@ -20995,6 +21185,25 @@ Hinweis: Nutzen Sie mit einer IC/EC Fahrkarte einen ICE Zug, zahlen Sie einen Pr
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-flexpreis)
+
+ Mit welchen Zügen kann ich mit dem Flexpreis Young reisen?
+----------
+
+Mit dem Flexpreis Young hast du keine Zugbindung.
+
+**ICE oder anderer Fernverkehrszug (Produktklasse ICE):**
+
+* Du kannst alle Fernverkehrszüge (z. B. ICE, RJ, RJX, IC/EC, TGV - ausgenommen reservierungspflichtige Züge -, ECE) und Züge des Nahverkehrs (z. B. IRE, RE, RB, S-Bahn) auf der gebuchten Strecke und am gebuchten Tag nutzen.
+
+**IC/EC Fahrkarte (Produktklasse IC/EC):**
+
+* Du kannst alle IC/EC und Züge des Nahverkehrs (z. B. IRE, RE, RB, S-Bahn) auf der gebuchten Strecke und am gebuchten Tag nutzen.
+
+[Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-flexpreis-young)
 
  Mit welchen Zügen kann ich mit dem Normalpreis reisen?
 ----------

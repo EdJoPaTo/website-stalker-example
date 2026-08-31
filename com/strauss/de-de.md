@@ -67,44 +67,6 @@ Profi-Arbeitskleidung vom Experten
 
 [Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
 
- % Angebote des Monats %
----
-
- % Angebote des Monats %
----
-
- Bis zu
-\-54%
-----------
-
----
-
- Gültig bis 31.08.2026 | Solange der Vorrat reicht
-
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
-
-[](https://www.strauss.com/de/de/angebote-des-monats/)
-
- % Sparen im Set %
----
-
- % Sparen im Set %
----
-
- SET: 2x Oberteil + 1x Hose e.s.trail
----
-
-[für Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0056?variantId=13622c56-7b36-4fb8-9d44-93318c7e9e4f)
-
-[für Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0057?variantId=e16b45eb-c48f-4287-9d7d-92c6487fea00)
-
-[für Herren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0056?variantId=13622c56-7b36-4fb8-9d44-93318c7e9e4f)
-
-[für Damen](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0057?variantId=e16b45eb-c48f-4287-9d7d-92c6487fea00)
-
-*
-*
-
 [](https://www.strauss.com/de/de/softshelljacken-damen/softshelljacke-e-s-motion-2020-damen-3130420-65822-1965.html?itemorigin=startseiteHW26)
 
  Graphit-Feuerrot
