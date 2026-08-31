@@ -185,8 +185,8 @@ zum starken Preis
  extra warm & flexibel
 ---
 
- Troyer Thermo
-Stretch e.s.trail
+ Troyer thermo
+stretch e.s.trail
 ---
 
 [für Damen](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71386-1961.html?itemorigin=startseiteHW26)

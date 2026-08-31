@@ -111,7 +111,7 @@ Funktionen und Inhalte der Warn-App
 
 [### 14 Mio. ### So viele Nutzerinnen und Nutzer sind von der Technik der Warn-App überzeugt. Infos zu Entwicklung und Technik](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/entwicklung-technik_node.html)
 
-[### 46 ### Mit der Version 3.6 ist nun bereits der 46. Release der NINA Warn-App in den Stores. Versionshinweise](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/Versionshinweise/versionhinweise_node.html)
+[### 47 ### Mit der Version 3.7 ist nun bereits der 47. Release der NINA Warn-App in den Stores. Versionshinweise](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/Versionshinweise/versionhinweise_node.html)
 
 [### 30 Sek. ### So lange dauert der durchschnittliche Versand einer Warnmeldung über das System der Warn-App NINA. Die Warnmeldungen sind auch im Web einsehbar. Warnung im Web warnung.bund.de](https://warnung.bund.de/meldungen)
 

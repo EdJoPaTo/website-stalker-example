@@ -195,6 +195,10 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Wave 1PM Mini](https://kb.shelly.cloud/knowledge-base/wave-1pm-mini-1)
 * [Wave PM Mini](https://kb.shelly.cloud/knowledge-base/wave-pm-mini-1)
 
+[Amazon-compatible devices](https://kb.shelly.cloud/knowledge-base/amazon-compatible-devices)
+* [Shelly AZ Plug](https://kb.shelly.cloud/knowledge-base/shelly-az-plug)
+* [Shelly AZ H&T](https://kb.shelly.cloud/knowledge-base/shelly-az-h-t)
+
 [Accessories](https://kb.shelly.cloud/knowledge-base/accessories)
 * [Shelly 2-Output Power Base for Wall Display](https://kb.shelly.cloud/knowledge-base/shelly-2-output-power-base-for-wall-display)
 * [Shelly Bypass](https://kb.shelly.cloud/knowledge-base/shelly-bypass)
@@ -214,10 +218,9 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Analog 0-30V Add-on](https://kb.shelly.cloud/knowledge-base/analog-0-30v-add-on)
 * [Cable Bracket](https://kb.shelly.cloud/knowledge-base/cable-bracket)
 * [Shelly Button Add-on](https://kb.shelly.cloud/knowledge-base/shelly-button-add-on)
-
-[Amazon-compatible devices](https://kb.shelly.cloud/knowledge-base/amazon-compatible-devices)
-* [Shelly AZ Plug](https://kb.shelly.cloud/knowledge-base/shelly-az-plug)
-* [Shelly AZ H&T](https://kb.shelly.cloud/knowledge-base/shelly-az-h-t)
+* [GaN Charger 30W](https://kb.shelly.cloud/knowledge-base/gan-charger-30w)
+* [GaN Charger 65W](https://kb.shelly.cloud/knowledge-base/gan-charger-65w)
+* [Cable USB-C to USB-C](https://kb.shelly.cloud/knowledge-base/cable-usb-c-to-usb-c)
 
 [Add-ons](https://kb.shelly.cloud/knowledge-base/add-ons)
 * [Shelly LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-lora-add-on)
