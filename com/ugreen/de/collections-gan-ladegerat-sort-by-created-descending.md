@@ -28,4 +28,4 @@
 
 [UGREEN 65W USB-C GaN Ladegerät + 60W USB-C Ladekabel\*2](https://de.ugreen.com/products/ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2)
 
- (7)
+ (8)

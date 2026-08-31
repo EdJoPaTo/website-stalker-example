@@ -1536,6 +1536,15 @@ Da Kiana ein KI-gestützter Chatbot ist, können vereinzelt fehlerhafte oder unv
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-anliegen)
 
+ Können Geschäftsreisende den KI-Chatbot Kiana aktuell nutzen?
+----------
+
+Nein. Kiana steht Nutzerinnen und Nutzern mit einem geschäftlichen DB Kundenkonto auf bahn.de derzeit nicht zur Verfügung.
+
+Der KI-Chatbot befindet sich aktuell in einer Testphase und wird nur eingeloggten Kundinnen und Kunden mit einem privaten DB Kundenkonto auf bahn.de ausgespielt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-bb)
+
  Kann ich über den Chatbot Kiana direkt mit dem Kundenservice chatten?
 ----------
 
