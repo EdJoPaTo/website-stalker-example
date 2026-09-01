@@ -7104,6 +7104,95 @@ Möchten Sie ihr Ticket stattdessen umbuchen, so können Sie dies bis 3 Monate n
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-eurostar-zugausfall)
 
+ Kann ich Railcards und sonstige Ermäßigungskarten aus Großbritannien verwenden?
+----------
+
+Bei Buchungen über die DB können Sie momentan keinerlei Ermäßigungskarten aus Großbritannien für Reisen mit National Rail verwenden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-national-rail-ermaessigungen)
+
+ Ich habe kein Ticket erhalten, sondern soll mein Ticket am Automat abholen. Was hat es damit auf sich?
+----------
+
+Bei manchen Strecken kann die Fahrkarte nicht als Online-Ticket erstellt werden. Dies hängt z.B. damit zusammen, dass die Gates zum Betreten oder Verlassen des Bahnsteigs keinen Barcodeleser besitzen. In solchen Fällen erhalten sie eine Buchungsreferenz, mit der sie eine physische Fahrkarte abholen können.
+
+Gehen Sie dafür in Großbritannien zu einem Fahrkartenautomaten oder Ticketschalter von National Rail und geben Sie dort Ihre Buchungsreferenz an. Verwenden Sie anschließend eine gültige Debit- oder Kreditkarte, um die Abholung zu bestätigen. Dies gilt nur zur Betätigung der Abholung – die Debit- oder Kreditkarte wird nicht erneut belastet. Entnehmen Sie Ihr ausgedrucktes Ticket. Bitte holen Sie Ihr Ticket in diesen Fällen rechtzeitig vor dem Fahrtantritt ab.
+
+Bitte beachten Sie: Bereits abgeholte Papiertickets für National Rail können nicht einfach erneut ausgestellt werden. Bei Verlust des physischen Tickets müssen Sie ein neues Ticket kaufen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-national-rail-kein-ticket-erhalten)
+
+ Kann ich für Züge innerhalb Großbritanniens bei der Buchung einen Sitzplatz reservieren?
+----------
+
+Tickets für Fernzüge einiger Betreiber enthalten bei Verfügbarkeit automatisch eine kostenlose Sitzplatzreservierung. Während der Buchung ist dies nicht erkennbar. Die Reservierung wird automatisch auf dem Ticket dargestellt.
+
+Sollten Sie für weitere Züge eine Sitzplatzreservierung benötigen, wenden Sie sich bitte an einen Ticketschalter von National Rail vor Ort in Großbritannien. Sie können sich auch online an den jeweiligen Zugbetreiber wenden. Eine Reservierung, die nicht automatisch mit der Buchung des Tickets erfolgt, ist über die DB momentan leider nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-national-rail-sitzplatz)
+
+ Welche Ticketarten gibt es bei National Rail?
+----------
+
+Die Angebote von National Rail unterscheiden sich grob zwischen Advance, Off-Peak/Super Off-Peak und Anytime:
+
+* **Advance** ist in der Regel günstiger, aber zuggebunden. Advance gilt nur für den gebuchten Zug
+* **Off-Peak** gilt nur außerhalb bestimmter Hauptverkehrszeiten
+* **Anytime** ist am flexibelsten, aber meist teurer. Jeder Zug auf der gebuchten Strecke kann verwendet werden
+
+Hinweis: Bitte prüfen Sie die Konditionen Ihres Tickets, da Flexibilität und Erstattungskonditionen je nach Tarif abweichen.
+
+Bei der DB können momentan nur einzelne Fahrten für Hin- und Rückfahrt verkauft werden. Der Verkauf von Hin- und Rückfahrt auf einem Ticket („Return Tickets“) ist leider nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-national-rail-ticketarten)
+
+ Für welche Verbindungen kann ich ein National Rail Ticket buchen?
+----------
+
+Grundsätzlich können Sie fast alle Fahrten mit Zügen innerhalb Großbritanniens buchen. Suchen Sie einfach in der Verbindungsauskunft Ihre gewünschte Verbindung.
+
+Reisen Sie z.B. von London
+
+* nach Edinburgh in rund 4:10 h
+* nach Manchester in rund 2:10 h
+* nach Cornwall (Newquay) in rund 5 h
+
+Neben diesen Fernstrecken können Sie auch für kürzere Verbindungen in ganz Großbritannien Tickets buchen.
+
+Bitte beachten Sie: Tickets für die Nachtzüge Caledonian Sleeper und Night Riviera (GWR) sind aktuell noch nicht über uns buchbar.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-national-rail-verbindungen)
+
+ Mein Zug innerhalb Großbritanniens war zu spät/ist ausgefallen. Wo erhalte ich Informationen zu Fahrgastrechten mit einem National Rail Ticket?
+----------
+
+Wenden Sie sich bitte nur an den jeweiligen Betreiber des verspäteten/ausgefallenen Zuges. Eine Übersicht mit entsprechenden Kontaktdaten finden Sie auf [www.nationalrail.co.uk](https://www.nationalrail.co.uk/travel-information/find-a-train-company/).
+
+Bitte kontaktieren Sie den Zugbetreiber auch für alle anderen Service-Anfragen rund um Ihre Zugreise direkt (Beschwerden, Lob, Kritik etc.).
+
+**Hinweis:** Bitte reichen Sie Ihr National Rail Ticket bezüglich Entschädigung/Erstattung nicht über das DB-Fahrgastrechteformular beim Servicecenter Fahrgastrechte ein. Da mit den Betreibern in Großbritannien keine entsprechenden Abkommen mit der DB bestehen, kann das Servicecenter diese Anträge nicht bearbeiten und dies würde den Prozess verzögern.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-national-rail-verspaetung)
+
+ Wie lange im Voraus kann ich National Rail Tickets buchen?
+----------
+
+Im Regelfall können Sie bis zu 12 Wochen vor der geplanten Fahrt National Rail Tickets buchen. Manche Betreiber ermöglichen längere Vorverkaufszeiträume.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-national-rail-vorausbuchung)
+
+ Was sollte ich bei Zugreisen in Großbritannien beachten?
+----------
+
+In Großbritannien läuft es grundsätzlich ähnlich wie in Deutschland ab, dennoch gibt es ein paar Dinge zu beachten.
+
+* An großen Bahnhöfen wird das Abfahrtsgleis des Zuges oft erst kurz vor Abfahrt bekanntgegeben. Werfen Sie dazu einen Blick auf die großen Anzeigetafeln im Bahnhof. Es erfolgen außerdem entsprechende Ansagen. Verlassen Sie sich bitte nicht auf die Gleisangaben im DB Navigator oder auf bahn.de, hier liegen keine Echtzeitinformationen vor.
+* Im Fahrplan werden keine Zugnummern veröffentlicht. In Großbritannien erfolgt die Zuordnung der Züge nach Betreibern sowie Abfahrtszeit und Fahrziel.
+* Bitte planen Sie Zeit ein für den Weg zum Bahnsteig und durch die Bahnsteigsperren. An den Bahnsteigsperren scannen Sie ihr Ticket ein, dann öffnet sich das Gate. Sollten Sie dabei Probleme haben, steht Ihnen vor Ort Personal zur Verfügung, welches Ihnen gerne weiterhilft.
+* Verkehrsmittel zum Bahnhofswechsel sind im Regelfall nicht im Ticket enthalten. Wenn Sie z.B. mit dem Eurostar aus Brüssel in London St. Pancras International ankommen und die Abfahrt des nächsten Zuges ist in London Waterloo, dann brauchen Sie für die London Underground ein zusätzliches Ticket. Sie können hier bequem Ihre Kreditkarte an den Gates nutzen und dort über ein Ein- und Auschecksystem Ihre Fahrtberechtigung kaufen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-national-rail-was-beachten)
+
  Wie lange im Voraus kann ich SBB-Fahrkarten buchen?
 ----------
 

@@ -30,6 +30,8 @@ NEU
 
 [UGREEN Nexode Powerbank (25000mAh, 165W, 2 integrierte USB-C Kabel)](https://de.ugreen.com/products/nexode-powerbank-25000mah-165w-integrierte-kabel)
 
+ (66)
+
 [UGREEN Nexode Powerbank (20000mAh, 145W, integriertem Kabel)](https://de.ugreen.com/products/nexode-powerbank-20000mah-145w-integriertes-kabel)
 
  (50)
