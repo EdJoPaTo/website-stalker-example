@@ -32,6 +32,8 @@ NEU
 
 [UGREEN Nexode Powerbank (20000mAh, 145W, integriertem Kabel)](https://de.ugreen.com/products/nexode-powerbank-20000mah-145w-integriertes-kabel)
 
+ (50)
+
 [UGREEN Nexode Magnetische Kabellose Powerbank (10000mAh, 15W, MagSafe-kompatibel)](https://de.ugreen.com/products/nexode-magnetische-kabellose-powerbank-10000mah-15w-magsafe)
 
 [UGREEN Nexode Powerbank (20000mAh, 130W, integriertem Kabel)](https://de.ugreen.com/products/nexode-powerbank-20000mah-130w-integriertem-kabel)

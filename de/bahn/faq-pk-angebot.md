@@ -858,7 +858,7 @@ Der Preis wird bei der Buchung automatisch berechnet.
  Kann ich für mein alleinreisendes Kind einen Flexpreis Young kaufen?
 ----------
 
-Nein. **Das Angebot gilt nicht für alleinreisende Kinder.** Alleinreisende Kinder erhalten bereits 50 % Rabatt auf ihr Ticket.
+Nein. **Das Angebot gilt nicht für alleinreisende Kinder.** Allein reisende Kinder erhalten 50 Prozent Rabatt auf Flexpreis- oder (Super) Sparpreis-Tickets. Die Kinderermäßigung gilt jedoch nicht für die „Young“-Angebote ((Super) Sparpreis Young, Flexpreis Young).
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
@@ -1649,7 +1649,7 @@ Bitte prüfen Sie zunächst Ihre Internetverbindung. Vergewissern Sie sich bitte
  Ich bin unter 16 Jahren und besitze noch keinen Personalausweis. Wie kann ich mein Alter nachweisen?
 ----------
 
-Generell gilt in Deutschland eine **Ausweispflicht ab 16 Jahren.** Alternativ zum Personalausweis kann aber auch ein Schülerausweis, Kinderreisepass oder Lichtbildausweis mitgeführt werden.
+Generell gilt in Deutschland eine **Ausweispflicht ab 16 Jahren.** Alternativ zum Personalausweis kann aber auch ein Schülerausweis, Reisepass oder Lichtbildausweis mitgeführt werden.
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
@@ -3219,7 +3219,7 @@ Bitte wähle dazu bei der Buchung unter „Reisende, Fahrräder, BahnCards“ bz
 
 Beachte, dass bei der gewünschten Fahrt mindestens eine **Teilstrecke in Zügen der Produktklassen ICE oder IC/EC** zurückgelegt werden muss.
 
-Darüber hinaus ist der Flexpreis Young auch in den DB Reisezentren sowie in ausgewählten DB Agenturen erhältlich.
+Darüber hinaus ist der Flexpreis Young auch in den DB Reisezentren sowie in DB Agenturen erhältlich.
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
@@ -5304,18 +5304,19 @@ If you indicate in your booking enquiry that you only need DB long-distance trai
 Die im DB Navigator verfügbaren Sharing-Anbieter sind wie folgt erreichbar:
 
 Call a Bike:
-E-Mail: info@callabike.de
-FAQ/Hilfebereich: <https://www.callabike.de/de/faq>
+Kontaktformular: <https://www.callabike.de/de/kontakt-maas>
+Formular Schaden melden: [https://www.callabike.de/webviews/de/schaden-melden](https://www.callabike.de/de/faq-maas)
+FAQ: <https://www.callabike.de/de/faq-maas>
 
 Dott:
-E-Mail: support@ridedott.com
+E-Mail: [support@ridedott.com](mailto:support@ridedott.com)
 Telefon: 030 46690493
 FAQ/Hilfebereich: <https://help.ridedott.com/de>
 
 Voi:
 E-Mail: support@voiapp.io
 Telefon: 0800 0002709
-FAQ/Hilfebereich: <https://www.voi.com/de/hilfe>
+FAQ/Hilfebereich: https://www.voi.com/de/hilfe
 
 * [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
 
@@ -5496,6 +5497,34 @@ Längerfristig bekannte Fahrplanänderungen sind im Reservierungssystem berücks
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrplanaenderungen-sitzplatzreservierung-nahverkehr)
 
+ Warum wurde meine Fahrt mit Call a Bike automatisch in Pause versetzt?
+----------
+
+Unsere Räder sollten immer an einer Station zurückgegeben werden. Nur an einer Station ist die Rückgabe kostenlos. Wir informieren Sie in der App und per SMS, wenn Sie außerhalb einer Station die Miete beenden. Ihre Miete wird automatisch in eine Pause versetzt. Sie haben dann 24 Stunden Zeit für eine der folgenden Aktionen:
+
+* Setzen Sie die Fahrt fort und stellen Sie das Bike anschließend an einer Station ab.
+* Pausieren Sie die Fahrt weiter (bis zu 24 Stunden).
+* Beenden Sie die Fahrt und zahlen Sie die Gebühr für die Rückgabe außerhalb einer Station.
+
+Wenn Sie nichts unternehmen, wird Ihre Miete nach 24 Stunden Pause automatisch beendet und neben dem Fahrtpreis wird auch eine Gebühr berechnet.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-fahrt-automatisch-pausiert)
+
+ Kann ich die Fahrt mit Call a Bike pausieren?
+----------
+
+Sie können während Ihrer Buchung gerne eine Fahrtpause machen, die jedoch maximal 24 Stunden dauern darf. Öffnen Sie die App und gehen Sie auf die laufende Fahrt. Dort finden Sie einen Button zum Pausieren. Nachdem Sie diesen gedrückt haben, sollte die LED am Schloss blinken und Sie hören ein Beep-Geräusch. Nun können Sie das Schloss am Rad verschließen.
+
+Wenn Sie Ihre Pause beenden möchten, gehen Sie in der App auf die laufende Fahrt, um das Schloss wieder zu öffnen und Sie können weiterfahren.
+
+Bitte beachten Sie, dass die Zeit, in der Sie Pause machen, Ihrer Fahrtzeit angerechnet wird. Dabei zahlen Sie maximal den Tagestarif. Wenn Ihr Fahrrad länger als 24 Stunden in Pause steht, wird die Buchung automatisch beendet.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-fahrt-pausieren)
+
  Darf ich mein Fahrrad mit dem Bayern-Ticket kostenfrei mitnehmen?
 ----------
 
@@ -5584,6 +5613,15 @@ Nein. Für die Mitnahme von Fahrrädern brauchen Sie eine Fahrradtageskarte pro 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-ticket-nrw)
 
+ Wie finde ich eine Station, an der ich das Call a Bike zurückgeben kann?
+----------
+
+Call a Bike verfügt über keine baulichen Stationen, sondern über virtuelle Rückgabezonen. Um die nächste Station in Ihrer Nähe zu finden, empfehlen wir Ihnen, der App die Ortung Ihres Standorts zu erlauben. Anschließend sehen Sie auf der Karte in der App die nächstgelegene Station, an der Sie ein Bike ausleihen oder ohne weitere Gebühren zurückgeben können.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-zurueck-geben)
+
  Kann ich meine Fahrradkarte für den Nahverkehr zusammen mit meiner Fahrkarte buchen?
 ----------
 
@@ -5631,6 +5669,25 @@ Um Fahrräder und Scooter im DB Navigator buchen zu können, führen Sie die fol
 * [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrraeder-scooter-nicht-per-gk-db-konto-buchbar)
+
+ Wie verschließe ich das Call a Bike und beende die Fahrt?
+----------
+
+1. Verschließen Sie das Schloss, indem Sie den Riegel am Bügelschloss ganz nach unten drücken. Vergewissern Sie sich, dass es abgeschlossen ist.
+2. Zur Bestätigung schauen Sie gerne noch einmal in der App, ob die Fahrt beendet ist.
+3. Bitte beachten Sie: Das Beenden einer Fahrt ist nur an Stationen kostenlos.
+
+Wir informieren Sie in der App und per SMS, wenn Sie außerhalb einer Station die Miete beenden. Ihre Miete wird automatisch in eine Pause versetzt. Sie haben dann 24 Stunden Zeit für eine der folgenden Aktionen:
+
+* Setzen Sie die Fahrt fort und stellen Sie das Bike anschließend an einer Station ab.
+* Pausieren Sie die Fahrt weiter (bis zu 24 Stunden).
+* Beenden Sie die Fahrt und zahlen Sie die Gebühr für die Rückgabe außerhalb einer Station.
+
+Wenn Sie nichts unternehmen, wird Ihre Miete nach 24 Stunden Pause automatisch beendet und neben dem Fahrtpreis wird auch eine Gebühr berechnet.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrt-beenden)
 
  Ich habe ein Fahrrad oder einen Scooter direkt in der App DB Navigator gebucht. Warum wird mir diese Fahrt nach dem Beenden der Ausleihe nicht im Bereich "Reisen" angezeigt?
 ----------
@@ -11732,6 +11789,18 @@ Ja, aber die Mitnahme ist **nicht kostenfrei**: Sie brauchen zu Ihrem Schleswig-
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schleswig-holstein-ticket-mitnahme-fahrrad)
 
+ Was kann ich tun, wenn das Fahrrad-Schloss (Call a Bike) nicht schließt?
+----------
+
+Es kann verschiedene Gründe geben, warum ein Schloss nicht schließt:
+
+1. Die Speichen des Hinterrades blockieren das Schloss: Bewegen Sie das Hinterrad ein wenig und versuchen Sie erneut, das Schloss zu schließen, indem Sie den Hebel am Schloss ganz nach unten drücken, bis ein Ton ertönt.
+2. Melden Sie den Schaden innerhalb der App mit der Kategorie „Schloss schließt nicht“.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/schloss-schliesst-nicht)
+
  Sie haben ein Schreiben eines Inkassounternehmens zu Ihrer BahnCard erhalten. Was können Sie tun?
 ----------
 
@@ -12770,6 +12839,17 @@ Sie erhalten die meisten SVG-Angebote als Online- bzw. Handy-Ticket. Dazu zähle
 Die Tabelle kann nach Abonnements, Status (aktiv, gekündigt, Kündigung eingeleitet) und dem Zeitraum (Abo-Beginn und Abo-Ende) gefiltert werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tabelle-kriterien)
+
+ Wie kann ich ein Call a Bike zum Tagespreis mieten?
+----------
+
+Der angezeigte Maximalpreis pro Tag (max. Preis / Tag / Fahrt) bezieht sich auf eine Fahrt mit einem Fahrrad bis zu 24 Stunden ab Startzeitpunkt der Buchung. Wenn Sie die Fahrt unterbrechen möchten, pausieren Sie die Fahrt, aber beenden Sie sie nicht. Neue Fahrten mit demselben oder einem anderen Fahrrad werden neu berechnet und zählen nicht zum Tagespreis Ihrer letzten Fahrt.
+
+Maximale Entleihdauer: Bikesharing soll schnelle und flexible Mobilität auf der letzten Meile sicherstellen. Die Räder sollen daher nur kurzzeitig geliehen werden und anschließend wieder für andere Nutzende bereitstehen. Bei den Bikesharing-Systemen der Deutschen Bahn Connect GmbH ist die maximale Entleihzeit auf 72 Stunden (drei Tage) pro Fahrt begrenzt. Danach kann die Entleihe von uns beendet werden. Für längere Entleihen empfehlen wir Ihnen einen klassischen Fahrradverleih.
+
+* [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tagespreis-mieten)
 
  Wo finde ich die Tarifbedingungen?
 ----------

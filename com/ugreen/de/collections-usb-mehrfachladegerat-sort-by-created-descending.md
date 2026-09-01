@@ -20,7 +20,7 @@
 
 [UGREEN Nexode Pro USB-C Ladegerät (160W, 4-Ports, GaN)](https://de.ugreen.com/products/ugreen-nexode-pro-160w-usb-c-ladegerat-superschlank-gan-wandladegerat)
 
- (47)
+ (48)
 
 [UGREEN Nexode PD ladegerät (300W, 5-Ports, GaN)](https://de.ugreen.com/products/nexode-300w-5-anschluss-gan-schnellladegerat)
 

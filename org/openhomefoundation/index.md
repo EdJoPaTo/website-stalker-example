@@ -26,7 +26,7 @@ And reduce your environmental impact. To ensure sustainability, devices must be 
 Our work
 ----------
 
-The Open Home Foundation owns and governs over**250 open source projects, standards, drivers, and libraries**like *Home Assistant*, *ESPHome*, *Music Assistant*,*HACS*, *Piper*, and more.
+The Open Home Foundation owns and governs over **250 open source projects, standards, drivers, and libraries** like *Home Assistant*, *ESPHome*, *Music Assistant*,*HACS*, *Piper*, and more.
 
 We also advocate for better privacy, choice, and sustainability across the smart home industry.
 

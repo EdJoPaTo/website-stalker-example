@@ -14,6 +14,7 @@ Ihre Vorteile
 * **Abonnement** wird automatisch verlängert.
 * **Monatlich kündbar** bis zum 10. jeden Monats - direkt im Handyticket oder Aboportal.
 * Gilt für **Kalendermonate** und ist bei rechtzeitiger Kündigung auch für **einen Monat** nutzbar.
+* Teilnahme an **DB Benefits: Angebote, Rabatte und exklusive Aktionen** von über 50 Partnern
 * Monatlich **BahnBonus Prämien- und Statuspunkte** sammeln
 
  63 Euro
