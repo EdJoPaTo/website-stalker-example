@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### berlin bei nacht ###
+### stuttgart ###
 
-### 29. - 30. August 2026 ###
+### 05.-06. september 2026 ###
 
-### 50 km ###
+### 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/berlin)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/stuttgart)
 
 [Location](https://www.megamarsch.de/ostsee)
 

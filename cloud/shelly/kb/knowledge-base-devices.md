@@ -195,6 +195,9 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Wave 1PM Mini](https://kb.shelly.cloud/knowledge-base/wave-1pm-mini-1)
 * [Wave PM Mini](https://kb.shelly.cloud/knowledge-base/wave-pm-mini-1)
 
+[Shelly smart cameras](https://kb.shelly.cloud/knowledge-base/shelly-smart-cameras)
+* [Shelly camera](https://kb.shelly.cloud/knowledge-base/shelly-camera)
+
 [Amazon-compatible devices](https://kb.shelly.cloud/knowledge-base/amazon-compatible-devices)
 * [Shelly AZ Plug](https://kb.shelly.cloud/knowledge-base/shelly-az-plug)
 * [Shelly AZ H&T](https://kb.shelly.cloud/knowledge-base/shelly-az-h-t)
