@@ -4,7 +4,7 @@ NEU
 
 [UGREEN USB-C Kabel (240W, Digital Display, E-Marker Chip)](https://de.ugreen.com/products/usb-c-kabel-240w-digital-display-e-marker-chip)
 
- (38)
+ (39)
 
 [UGREEN Nexode ausziehbares USB-C-Kabel (100W)](https://de.ugreen.com/products/nexode-100w-ausziehbares-usb-c-kabel)
 
@@ -19,6 +19,8 @@ NEU
 [UGREEN Uno USB-C auf USB-C Kabel (100W)](https://de.ugreen.com/products/ugreen-uno-usb-c-kabel-100w)
 
 [UGREEN 100W PD 3.0 USB-C auf USB-C Schnellladekabel](https://de.ugreen.com/products/45064)
+
+ (57)
 
 [UGREEN 240W USB-C auf USB-C PD 3.1 Ladekabel](https://de.ugreen.com/products/ugreen-240w-usb-c-auf-usb-c-ladekabel-power-delivery-3-1-kabel)
 

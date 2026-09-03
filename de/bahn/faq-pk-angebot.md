@@ -2173,11 +2173,18 @@ Ja. Mit einer BahnCard 25/50/100 erhalten Sie auf grenzüberschreitenden Verbind
  Kann ich die BahnCard (Business) 25/50 für die Kontrolle im Zug in mehreren DB Kundenkonten gleichzeitig hinterlegen?
 ----------
 
-Nein. Sie können die BahnCard (Business) 25/50 **nur in einem DB Kundenkonto** hinterlegen – entweder in einem geschäftlichen oder in einem privaten.
+Nein. Die BahnCard (Business) 25/50 kann nur in einem DB Kundenkonto für die Kontrolle im Zug hinterlegt sein.
 
-Sie können jedoch den BahnCard (Business) **Rabatt in mehreren DB Kundenkonten erhalten. Hinterlegen Sie hierfür die BahnCard Ermäßigung** im Bereich "BahnCard" unter "Ermäßigung hinterlegen".
+Sie haben verschiedene Möglichkeiten für die Kontrolle im Zug, wenn Tickets und BahnCard (Business) 25/50 **mit unterschiedlichen DB Kundenkonten gebucht** wurden:
 
-Beachten Sie die Reiserichtlinie Ihres Unternehmens für die private Nutzung.
+1. Nutzen Sie **mehrere Smartphones** und melden Sie sich auf jedem Gerät mit dem passenden DB Kundenkonto an. Bei der Kontrolle zeigen Sie einfach beide Smartphones vor.
+2. Melden Sie sich im DB Navigator mit dem DB Kundenkonto an, in dem die BahnCard (Business) 25/50 hinterlegt ist. **Fügen** Sie Tickets aus **anderen DB Kundenkonten** über den Bereich "**Reisen" per "Auftrag hinzufügen"** hinzu.\*
+3. Zeigen Sie **Tickets und ein Ersatzdokument** der BahnCard (Business) 25/50 in Papierform vor. Auch eine **Kombination** ist möglich, in dem Sie z. B. die BahnCard (Business) digital und das Ticket in Papierform vorzeigen. Das Ersatzdokument finden Sie in Ihrem DB Kundenkonto im Reiter "BahnCard" unter "Optionen", "Details und Rechnungen" zum Herunterladen und Ausdrucken.
+4. Mit einem **Login-Wechsel** im DB Navigator können Sie zwischen Ihren DB Kundenkonten wechseln. Halten Sie die Login-Daten beider Konten bereit.
+
+\* In der App DB Navigator sind Stornierungen und digitale Fahrgastrechte-Anträge nur über das DB Kundenkonto möglich, über das das Ticket ursprünglich gebucht wurde.
+
+* [Wie erhalte ich den BahnCard (Business) 25/50 Rabatt in mehreren DB Kundenkonten?](https://www.bahn.de/bahnbusiness/faq/bcb-uebertrag-kontrolle)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-mehrere-kundenkonten)
 
@@ -18299,7 +18306,7 @@ Die Jugend BahnCard ist ein Jahr gültig und läuft automatisch aus. Sie muss ni
 ----------
 
 * Die My **BahnCard 100** ist ab dem 1. Geltungstag 1 Jahr gültig.
-* Der letztmögliche erste Geltungstag der Karte ist der 30.06.2026.
+* Der letztmögliche erste Geltungstag der Karte ist der 13.12.2026.
 * Sie verlängert sich nicht automatisch.
 
 [Weitere Informationen zur My BahnCard 100](https://www.bahn.de/angebot/bahncard/junge-reisende/mybahncard100)
