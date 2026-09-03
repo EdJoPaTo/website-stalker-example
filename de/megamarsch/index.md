@@ -67,6 +67,11 @@ IN DEINER NÄHE!
 
 [Location](https://www.megamarsch.de/düsseldorf)
 
+[RÜGEN](https://www.megamarsch.de/ruegen)
+----------
+
+[Location](https://www.megamarsch.de/ruegen)
+
 [DÜSSELDORF (25KM)](https://www.megamarsch.de/duessseldorf-25km)
 ----------
 
@@ -126,11 +131,6 @@ IN DEINER NÄHE!
 
 [MÜNCHEN](https://www.megamarsch.de/münchen)
 ----------
-
-[RÜGEN](https://www.megamarsch.de/ruegen)
-----------
-
-[Location](https://www.megamarsch.de/ruegen)
 
 [Location](https://www.megamarsch.de/schaffhausen)
 

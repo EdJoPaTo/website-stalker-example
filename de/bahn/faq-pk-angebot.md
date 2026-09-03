@@ -15575,18 +15575,36 @@ Das City-Ticket ist eine Fahrkarte, mit der Sie der rund 140 City-Ticket Städte
 
 Ihnen stehen während der Gültigkeit Ihrer BahnCard:
 
-* 100 kostenfreie Sitzplatzreservierungen bei einer BahnCard 100, 1. Klasse
-* 25 kostenfreie Sitzplatzreservierungen bei einer Probe BahnCard 100, 1. Klasse zur Verfügung.
+* 120 kostenfreie Sitzplatzreservierungen bei einer BahnCard 100, 1. Klasse
+* 30 kostenfreie Sitzplatzreservierungen bei einer Probe BahnCard 100, 1. Klasse zur Verfügung.
 
 Bitte beachten Sie:
 
-* Das Kontingent ist verwendbar für Sitzplatzreservierungen ohne Ticketkauf
+* Das Kontingent ist verwendbar für Sitzplatzreservierungen oder die Mitnahme eines Fahrrads ohne Ticketkauf
 * Das Kontingent ist gültig für alle nicht reservierungspflichtigen Züge der DB AG
-* Nicht eingelöste Kontingente verfallen mit dem Gültigkeitsende der BahnCard bzw. mit der Kündigung der BahnCard. Bitte buchen Sie Ihre Sitplätze direkt eingeloggt in Ihrem DB Kundenkonto.
+* Nicht eingelöste Kontingente verfallen mit dem Gültigkeitsende der BahnCard bzw. mit der Kündigung der BahnCard. Bitte buchen Sie Ihre Sitzplätze direkt eingeloggt in Ihrem DB Kundenkonto.
 
 [Weitere Informationen zur BahnCard 100](https://www.bahn.de/angebot/bahncard/bahncard100)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-kostenlose-sitzplatzkontingent-bei-bahncard-100-1kl)
+
+ Was ist das kostenlose Sitzplatzkontingent bei einer BahnCard 100, 2. Klasse und wie kann ich es einlösen??
+----------
+
+Ihnen stehen während der Gültigkeit Ihrer BahnCard:
+
+* 20 kostenfreie Sitzplatzreservierungen bei einer BahnCard 100, 2. Klasse
+* 5 kostenfreie Sitzplatzreservierungen bei einer Probe BahnCard 100, 2. Klasse zur Verfügung.
+
+Bitte beachten Sie:
+
+* Das Kontingent ist verwendbar für Sitzplatzreservierungen oder die Mitnahme eines Fahrrads ohne Ticketkauf
+* Das Kontingent ist gültig für alle nicht reservierungspflichtigen Züge der DB AG
+* Nicht eingelöste Kontingente verfallen mit dem Gültigkeitsende der BahnCard bzw. mit der Kündigung der BahnCard. Bitte buchen Sie Ihre Sitzplätze direkt eingeloggt in Ihrem DB Kundenkonto.
+
+[Weitere Informationen zur BahnCard 100](https://www.bahn.de/angebot/bahncard/bahncard100)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-kostenlose-sitzplatzkontingent-bei-bahncard-100-2kl)
 
  Was ist die Vorteilswelt DB Benefits?
 ----------
@@ -16192,6 +16210,8 @@ Den Bestellschein finden Sie weiter unten.
 * Für beliebig viele Fahrten auf der gewählten Verbindung
 * Zusätzliche Anschlussmobilität: Nutzen Sie am Start- und Zielort Ihrer Fahrt die Stadt- und Straßenbahnen sowie Busse des jeweiligen Verbundes
 * Bei Kündigung wird lediglich der Preis einzeln gekaufter Monatskarten für jeden genutzten Monat angerechnen
+
+* [Bestellschein herunterladen (PDF, 289 KB)](https://assets.static-bahn.de/dam/jcr:b0365f10-2238-483a-abb4-665e92e95106/Bestellschein_bwTarif_inkl.DIGI-St%C3%B6rer.cd65b9530f907b9fa3a2b02ee4aac614.pdf)
 
 [Weitere Tickets aussuchen](https://www.bahn.de/buchung/intern/start#?VM=03,04,05,06,07,08,09)
 
@@ -18129,10 +18149,11 @@ Sie können die Rechnung unmittelbar nach dem Kauf oder der automatischen Verlä
 
 Sie können Ihr digitales Kontingent direkt eingeloggt in Ihrem DB Kundenkonto buchen. Entweder über bahn.de oder in der App DB Navigator.
 
-Das Sitzplatzkontingent können Sie auch:
+Das Reservierungskontingent können Sie nutzen für:
 
-* für Reservierungen in der 2. Klasse und
-* bei Reservierungen für bis zu 5 Personen in einem Zug nutzen.
+* Sitzplatzreservierungen
+* bei Reservierungen für bis zu 5 Personen
+* die Mitnahme eines Fahrrads.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-sitzplatz-aus-kostenlosen-kontingent-bahncard-100-1kl-buchen)
 

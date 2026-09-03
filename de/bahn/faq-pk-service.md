@@ -24,12 +24,19 @@ Sie können die Stellplatzreservierung und die Fahrkarte an allen bekannten Verk
 
 Wenn Sie die Fahrradmitnahme nicht vorab gebucht haben, können Sie das Fahrrad nicht mitnehmen.
 
-**Anleitung zur Buchung**
+**Anleitung zur Buchung über die Reiseauskunft**
 
 1. Fügen Sie in der Buchungsanfrage auf der Website neben dem Reisenden ein Fahrrad hinzu. Sie bekommen dann Verbindungen mit Fahrradmitnahme angezeigt. Wenn Sie auf den Buchen-Button auf dieser Seite klicken, sind ein Reisender und ein Fahrrad bereits voreingestellt.
 2. Das Fahrradsymbol zeigt Ihnen, ob noch Stellplätze im ICE, IC- oder EC-Zug frei sind (Rotes Fahrradsymbol = Fahrradstellplätze nicht mehr verfügbar).
 3. Sie können auch die Umsteigezeit verlängern, wenn Sie etwas mehr Zeit für den Umstieg mit Ihrem Fahrrad haben möchten.
 4. Wenn Sie schon ein Ticket für sich haben, ändern Sie in der Buchung online oder in der App bei der Auswahl "Reisende, Fahrräder" den Reisenden "Erwachsener" in "Fahrrad" um.
+
+**Anleitung zur Buchung in der App DB Navigator**
+
+1. Wählen Sie für die gewünschte Verbindung und Reisende, Fahrräder „Fahrrad und Anzahl“ aus
+2. Wählen Sie die gewünschte Verbindung
+3. Die Angebotsauswahl zeigt Ihnen die Optionen
+4. Nun können Sie Ihre Stellplatzreservierung und/oder die Fahrradkarte buchen
 
 **Andere Buchungswege**
 
@@ -1356,7 +1363,6 @@ Bei der Kontrolle im Zug müssen Sie sich mit einem der folgenden Ausweisdokumen
 * Deutscher oder internationaler Reisepass
 * Kinderreisepass
 * Von einer deutschen Behörde ausgestellte Dokumente für Flüchtlinge und Asylbewerber, z.B. BÜMA, BÜWA und Aufenthaltsgestattung
-* BahnCard (ggf. in Verbindung mit einem Lichtbildausweis)
 
 Führerschein, Schülerausweis, Truppenausweis und Schwerbehindertenausweis werden bei der Ticketkontrolle **nicht** als Ausweisdokument akzeptiert.
 
