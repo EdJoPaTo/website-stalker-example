@@ -62,7 +62,7 @@ Details
 
  Traffic inklusive
 
- 0.5 TB
+ 20 TB
 
 []()
 

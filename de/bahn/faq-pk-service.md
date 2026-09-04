@@ -8573,7 +8573,19 @@ Sie erhalten das Formular
  Auf welchen Strecken kann ich mein Fahrrad mit meiner Nahverkehrsfahrkarte auch in IC-Zügen mitnehmen?
 ----------
 
-Die Nahverkehrsfreigabe gilt nur für ausgewählte Fernverkehrsstrecken in Deutschland.
+Es gibt 7 Fernverkehrsstrecken, auf denen Sie Ihr Fahrrad mitnehmen können, auch wenn Sie eine Nahverkehrsfahrkarte haben, Sie müssen aber für Ihr Fahrrad noch eine Fahrradkarte dazu buchen und eventuell auch einen Stellplatz.
+
+* Bremen – Emden Außenhafen / Norddeich Mole
+* Rostock – Ribnitz-Damgarten West – Velgast – Stralsund
+* Rostock – Schwerin – Hamburg, **nur** im ICE 1521/1520)
+* Stuttgart – Singen – Konstanz (Gäubahn)
+* Stuttgart – Horb – Rottweil, die Regionalzüge der RE-Linien 14a bzw. 14b von/nach Rottweil bzw. Freudenstadt
+* Stuttgart – Singen – Konstanz, die Regionalzüge des Freizeitexpress der Linie RE4 (nur am Wochenende)
+* Dresden Hauptbahnhof – Freiberg (Sachs) – Chemnitz
+
+Die Mitnahmebedingungen sind unterschiedlich, informieren Sie sich bitte auf unseren Seiten.
+
+* [Mitnahme von Fahrrädern mit Nahverkehrsfreigabe](https://www.bahn.de/service/informationen-buchung/nahverkehrsfreigabe)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-fahrrad-mit-nahverkehrsfahrkarte-auch-in-ic-zuegen-mitnehmen)
 

@@ -50,7 +50,7 @@ For a summary of all entries with associated metadata, see [File Format Cross-Re
 
 #### Firmware ####
 
-[andes\_firmware](andes_firmware/) , [broadcom\_trx](broadcom_trx/) , [ines](ines/) , [uefi\_te](uefi_te/) , [uimage](uimage/)
+[andes\_firmware](andes_firmware/) , [broadcom\_trx](broadcom_trx/) , [ines](ines/) , [uefi\_te](uefi_te/) , [uf2](uf2/) , [uimage](uimage/)
 
 #### Fonts ####
 

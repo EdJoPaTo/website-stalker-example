@@ -70,7 +70,6 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Shutter](https://kb.shelly.cloud/knowledge-base/shelly-shutter)
 * [Shelly Duo Bulb E27 Gen3](https://kb.shelly.cloud/knowledge-base/shelly-duo-bulb-e27-gen3)
 * [Shelly Multicolor Bulb E27 Gen3](https://kb.shelly.cloud/knowledge-base/shelly-multicolor-bulb-e27-gen3)
-* [The Pill by Shelly](https://kb.shelly.cloud/knowledge-base/the-pill-by-shelly)
 * [Shelly Mini Gen3 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen3-devices)
 * [Enabling Matter support on Shelly Gen3 and newer devices](https://kb.shelly.cloud/knowledge-base/setting-up-gen3-devices-via-matter)
 * [Shelly BLU Gateway Gen3](https://kb.shelly.cloud/knowledge-base/shelly-blu-gateway-gen3)
@@ -196,7 +195,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Wave PM Mini](https://kb.shelly.cloud/knowledge-base/wave-pm-mini-1)
 
 [Shelly smart cameras](https://kb.shelly.cloud/knowledge-base/shelly-smart-cameras)
-* [Shelly camera](https://kb.shelly.cloud/knowledge-base/shelly-camera)
+* [Shelly Camera](https://kb.shelly.cloud/knowledge-base/shelly-camera)
 
 [Amazon-compatible devices](https://kb.shelly.cloud/knowledge-base/amazon-compatible-devices)
 * [Shelly AZ Plug](https://kb.shelly.cloud/knowledge-base/shelly-az-plug)
@@ -235,6 +234,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 
 [By Shelly](https://kb.shelly.cloud/knowledge-base/by-shelly)
 * [Cury](https://kb.shelly.cloud/knowledge-base/cury)
+* [The Pill by Shelly](https://kb.shelly.cloud/knowledge-base/the-pill-by-shelly)
 
 [Powered by Shelly](https://kb.shelly.cloud/knowledge-base/powered-by-shelly)
 * [DC 12 V / 1 A power adaptor (for WS90)](https://kb.shelly.cloud/knowledge-base/dc-12-v-1-a-power-adaptor-for-ws90)

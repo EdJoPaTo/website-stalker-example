@@ -1,3 +1,5 @@
+NEU
+
 [UGREEN MagFlow Pro Magnetische Powerbank (10.000 mAh, Qi2 25 W, integriertes 45-W-USB-C-Kabel)](https://de.ugreen.com/products/magflow-pro-magnetische-powerbank-10000mah-qi2-25w)
 
  Keine Bewertungen
