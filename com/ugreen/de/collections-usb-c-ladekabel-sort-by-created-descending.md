@@ -2,6 +2,8 @@ NEU
 
 [UGREEN 240W USB-C-Kabel mit 10Gbps Datenübertragung](https://de.ugreen.com/products/240w-usb-c-kabel-mit-10gbps-datenuebertragung)
 
+ (55)
+
 [UGREEN USB-C Kabel (240W, Digital Display, E-Marker Chip)](https://de.ugreen.com/products/usb-c-kabel-240w-digital-display-e-marker-chip)
 
  (39)
