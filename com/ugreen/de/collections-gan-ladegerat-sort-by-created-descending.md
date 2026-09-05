@@ -26,6 +26,8 @@
 
 [UGREEN Set-Angebot: 100W 4-Ports Ladegerät + 60W USB-C Kabel\*2 (1M )](https://de.ugreen.com/products/ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel)
 
+ (4)
+
 [UGREEN 65W USB-C GaN Ladegerät + 60W USB-C Ladekabel\*2](https://de.ugreen.com/products/ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2)
 
  (8)

@@ -57,7 +57,6 @@ GNOME Circle contains applications extending the GNOME ecosystem. It champions t
 * [**Boatswain**Control your Elgato Stream Decks](Boatswain/)
 * [**Bobby**View SQLite databases](Bobby/)
 * [**Bustle**Visualize D-Bus activity](Bustle/)
-* [**Cartridges**Launch all your games](Cartridges/)
 * [**Chess Clock**Time games of over-the-board chess](Chessclock/)
 * [**Citations**Manage your bibliography](Citations/)
 * [**Clairvoyant**Ask questions, get psychic answers](Clairvoyant/)
