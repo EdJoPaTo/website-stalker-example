@@ -1058,6 +1058,7 @@
 * [Sechskantmutter](https://www.wdrmaus.de/filme/sachgeschichten/sechskantmutter.php5)
 * [Seehundstation Teil 1](https://www.wdrmaus.de/filme/sachgeschichten/seehundstation_teil1.php5)
 * [Seehundstation Teil 2](https://www.wdrmaus.de/filme/sachgeschichten/seehundstation_teil2.php5)
+* [Seekühe](https://www.wdrmaus.de/filme/sachgeschichten/seekuehe.php5)
 * [Seepferdchen](https://www.wdrmaus.de/filme/sachgeschichten/seepferdchen.php5)
 * [Segelflugzeug](https://www.wdrmaus.de/filme/sachgeschichten/segelflugzeug.php5)
 * [Segeln gegen den Wind](https://www.wdrmaus.de/filme/sachgeschichten/segeln_gegen_den_wind.php5)
