@@ -108,9 +108,9 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
 []()
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
  /Monat  /Monat
 
@@ -186,9 +186,9 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
 []()
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
  /Monat  /Monat
 
@@ -264,9 +264,9 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
 []()
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
  /Monat  /Monat
 
@@ -342,9 +342,9 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
 []()
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
  /Monat  /Monat
 
@@ -420,9 +420,9 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
 []()
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
  /Monat  /Monat
 
@@ -498,9 +498,9 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
 []()
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
-Für Cloud-Server an AP-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
 
  /Monat  /Monat
 
