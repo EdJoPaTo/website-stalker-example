@@ -21,7 +21,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
   * [Preisliste Mittelwelle](/media/filer_public/3d/3a/3d3a4f16-3ef7-4ae3-a9ef-d1f32b9d405b/preisliste_03_mittelwelle_2025-10.pdf)
   * [Preisliste Megafon](/media/filer_public/09/19/0919816b-7e0f-495d-8d61-7dfd81697cdf/preisliste_04_megafon_2025-10.pdf)
   * [Preisliste Ueberschall](/media/filer_public/30/fc/30fc976f-b842-4d83-af54-dd829743169d/preisliste_05_ueberschall_2025-10.pdf)
-  * [Preisliste GigaMobil Unlimited](/media/filer_public/3b/14/3b1481fe-d155-4da9-bea9-f6717e5b60a9/preisliste_gigamobil_unlimited_bf_2026-03.pdf)
+  * [Preisliste GigaMobil Unlimited](/media/filer_public/63/43/634378c5-2649-417a-8788-3a3f864dadb9/preisliste_gigamobil_unlimited_bf_2026-03.pdf)
   * [Preisliste Sonderrufnummern](/media/filer_public/41/be/41bec59f-5359-45d1-a738-ec5d06afc939/preisliste_sonderrrufnummern.pdf)
   * [Preisliste Premium-SMS](/media/filer_public/b0/67/b067f2c0-b457-46e3-9b3f-94d1e40b0559/preisliste_premiumsms.pdf)
   * [Preisliste Premium-Voice](/media/filer_public/dc/5f/dc5f964e-9545-47bd-bbed-b53c67f8e599/preisliste_premiumvoice.pdf)
@@ -55,6 +55,9 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
   * [PIB Megafon ab 08/2023](/media/filer_public/b1/6c/b16ce750-52b9-4c4d-962b-a0decf108e74/pib_megafon_2023-08.pdf)
   * [PIB Megafon ab 08/2024](/media/filer_public/58/c4/58c4e1f9-a371-447f-a8cd-aba6338be59c/pib_megafon_2024-08.pdf)
   * [PIB Überschall ab 01/2023](/media/filer_public/65/02/65026fd5-c7fc-469a-aaa5-3dfc2d7c4444/pib_uberschall_2023-01.pdf)
+  * [PIB Nanoflex ab 03/2026](/media/filer_public/6b/4f/6b4fc8a7-99af-4a77-8c46-b1096c06f790/preisliste_nanoflex_bf_2026-03.pdf)
+  * [PIB Superflex ab 03/2026](/media/filer_public/61/14/6114c36e-1ab8-4334-a911-5789b8e852e9/preisliste_superflex_bf_2026-03.pdf)
+  * [PIB Gigaflex ab 03/2026](/media/filer_public/3e/45/3e45349d-813b-4ef3-8fc7-46b3eb05cef6/preisliste_gigaflex_bf_2026-03.pdf)
 
 * #### Abtretungserklärung der Rufnummer ####
 

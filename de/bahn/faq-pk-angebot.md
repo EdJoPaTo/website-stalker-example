@@ -5740,7 +5740,7 @@ Bitte kontaktieren Sie uns über das Kontaktformular auf [www.jobticket-bahn.de]
 
 [Jetzt buchen](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00001O201)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ferien-ticket-nrw)
 
@@ -20873,7 +20873,7 @@ Kein Verkauf im Zug!
 
 [Alle Infos zum Ferienticket NRW](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00001O201)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
