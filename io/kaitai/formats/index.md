@@ -70,7 +70,7 @@ For a summary of all entries with associated metadata, see [File Format Cross-Re
 
 #### Image Files ####
 
-[bmp](bmp/) , [dicom](dicom/) , [exif](exif/) , [gif](gif/) , [gimp\_brush](gimp_brush/) , [icc\_4](icc_4/) , [ico](ico/) , [jpeg](jpeg/) , [nitf](nitf/) , [pcx](pcx/) , [pcx\_dcx](pcx_dcx/) , [pif](pif/) , [png](png/) , [psx\_tim](psx_tim/) , [tga](tga/) , [wmf](wmf/) , [xwd](xwd/)
+[bmp](bmp/) , [dicom](dicom/) , [exif](exif/) , [gif](gif/) , [gimp\_brush](gimp_brush/) , [icc\_4](icc_4/) , [ico](ico/) , [jpeg](jpeg/) , [nitf](nitf/) , [pcx](pcx/) , [pcx\_dcx](pcx_dcx/) , [pif](pif/) , [png](png/) , [psx\_tim](psx_tim/) , [tga](tga/) , [webp](webp/) , [wmf](wmf/) , [xwd](xwd/)
 
 #### GNU/Linux-specific ####
 
