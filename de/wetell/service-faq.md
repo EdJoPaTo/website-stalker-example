@@ -9,7 +9,7 @@ Uns zeichnet also aus, dass wir mehr wollen: Mehr Klimaschutz, mehr Fairness, me
 
 #### Was bedeutet nachhaltiger Mobilfunk? ####
 
-Wir arbeiten Werte-basiert statt Profit-orientiert. Mit uns telefonierst und surfst du – dank CO<sub>2</sub>-Ausgleich - komplett klimaneutral. Gleichzeitig unterstützt du mit deinem Tarif den Ausbau von erneuerbaren Energien. Alle Details dazu erfährst du [hier](/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima).).
+Wir arbeiten Werte-basiert statt Profit-orientiert. Wir gleichen alle Emissionen, die durch deinen Mobilfunk entstehen, mit Pflanzenkohle aus. Gleichzeitig unterstützt du mit deinem Tarif den Ausbau von erneuerbaren Energien. Alle Details dazu erfährst du [hier](/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima).).
 
 Nachhaltigkeit hat für uns auch eine soziale Komponente. Deswegen setzen wir auf faire Tarifbedingungen, Datenschutz und einen menschlichen Service. Mehr dazu [hier](/warum-wetell/mobilfunk-neu-denken/#liebevoller_service). Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu; und wenn du Lust hast, schau mal bei unserem [GWÖ-Kiezfest](/gwoe/) vorbei.
 

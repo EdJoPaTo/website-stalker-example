@@ -1,24 +1,24 @@
-Mit der aktuellen Wagenreihung: Immer den richtigen Wagen finden
+Aktuelle Wagenreihung in der App DB Navigator
 ==========
 
-Unter den Fahrtinformationen in der App DB Navigator finden Sie nicht nur den gesamten Fahrtverlauf des Zuges, sondern auch die aktuelle Wagenreihung. So wissen Sie am Reisetag bereits vor der Ankunft Ihres ICE, IC oder EC, in welchem Bereich des Gleises Ihr Wagen halten wird und finden ganz einfach zu Ihrem reservierten Sitzplatz oder einem bestimmten Bereich, zum Beispiel dem Ruhebereich.
+Die aktuelle Wagenreihung in der App DB Navigator zeigt, in welchem Gleisabschnitt Ihr Wagen hält. Die Wagenreihung ist am Reisetag in den Fahrtinformationen für ICE-, IC- und EC-Züge verfügbar. Auch Bereiche wie Ruhebereich, Familienbereich und Fahrradstellplätze werden in der Wagenreihung angezeigt.
 
-Mit der aktuellen Wagenreihung: Immer den richtigen Wagen finden
+Aktuelle Wagenreihung in der App DB Navigator
 
-Unter den Fahrtinformationen in der App DB Navigator finden Sie nicht nur den gesamten Fahrtverlauf des Zuges, sondern auch die aktuelle Wagenreihung. So wissen Sie am Reisetag bereits vor der Ankunft Ihres ICE, IC oder EC, in welchem Bereich des Gleises Ihr Wagen halten wird und finden ganz einfach zu Ihrem reservierten Sitzplatz oder einem bestimmten Bereich, zum Beispiel dem Ruhebereich.
+Die aktuelle Wagenreihung in der App DB Navigator zeigt, in welchem Gleisabschnitt Ihr Wagen hält. Die Wagenreihung ist am Reisetag in den Fahrtinformationen für ICE-, IC- und EC-Züge verfügbar. Auch Bereiche wie Ruhebereich, Familienbereich und Fahrradstellplätze werden in der Wagenreihung angezeigt.
 
-Unter den Fahrtinformationen sehen Sie
+Welche Informationen zeigt die aktuelle Wagenreihung?
 ----------
 
-* den gesamten Fahrtverlauf des Zuges mit allen Haltbahnhöfen
-* welche Wagen ein bestimmter Zug (ICE, IC oder EC) hat
-* wo sich 1. und 2. Klasse befinden
-* in welche Richtung der Zug fährt
-* an welchem Abschnitt am Gleis ein bestimmter Wagen halten wird
-* wenn Sie eine Sitzplatzreservierung haben, an welchem Gleisabschnitt der Wagen hält, in dem sich Ihr gebuchter Sitzplatz befindet
-* welche Baureihe der Zug ist
+* den Fahrtverlauf mit allen Haltebahnhöfen
+* die Wagen des ICE-, IC- oder EC-Zuges
+* die Position der 1. und 2. Klasse
+* die Fahrtrichtung des Zuges
+* den Gleisabschnitt, in dem ein bestimmter Wagen hält
+* bei einer Sitzplatzreservierung den Gleisabschnitt Ihres Wagens
+* die Baureihe des Zuges
 
-Zusätzlich finden Sie auch Informationen zur Lage bestimmter Sitzplätze/Bereiche:
+Welche Bereiche zeigt die aktuelle Wagenreihung?
 ----------
 
 * Familienbereich
@@ -29,13 +29,13 @@ Zusätzlich finden Sie auch Informationen zur Lage bestimmter Sitzplätze/Bereic
 * Plätze für Rollstuhlfahrer
 * Stellplätze für Fahrräder
 
-So rufen Sie die Fahrtinformationen auf
+Wie rufe ich die aktuelle Wagenreihung auf?
 ----------
 
-* Rufen Sie am Reisetag die gewünschte Verbindung auf – entweder über die Verbindungssuche oder wählen Sie Ihre gebuchte oder gemerkte Reise im Menübereich „Reisen“ aus.
-* Klicken Sie dort auf den Button „Fahrtinformationen“. Hier finden Sie im Tab „Fahrtverlauf“ den gesamten Fahrtverlauf des Zuges und im Tab „Wagenreihung“ eine graphische Abbildung der aktuellen Wagenreihung mit Informationen zur Ausstattung des Zuges.
-* **Tipp:** Im Fahrtverlauf und in der Wagenreihung finden Sie oben rechts eine Zeitmarke. Diese zeigt Ihnen an, wann die Informationen das letzte Mal aktualisiert wurden.
-   Um die Inhalte zu aktualisieren, tippen Sie den Bildschirm an, ziehen die Inhalte leicht nach unten und lassen den Bildschirm dann wieder los.
+1. **Rufen Sie am Reisetag die gewünschte Verbindung auf.** Nutzen Sie dafür die Verbindungssuche oder öffnen Sie eine gebuchte beziehungsweise gemerkte Reise unter „Reisen“.
+2. **Wählen Sie „Fahrtinformationen“.** Unter „Fahrtverlauf“ sehen Sie den gesamten Reiseverlauf.
+3. **Öffnen Sie „Wagenreihung“.** Hier sehen Sie eine graphische Abbildung der aktuellen Wagenreihung mit Informationen zur Ausstattung des Zuges.
+4. **Prüfen Sie den Zeitstempel.** Der Zeitstempel zeigt, wann die angezeigten Informationen zuletzt aktualisiert wurden. Wischen Sie zum Aktualisieren auf dem Bildschirm nach unten.
 
 Häufig gestellte Fragen zu Fahrtinformationen
 ----------
@@ -99,7 +99,7 @@ Die aktuelle Wagenreihung finden Sie am Reisetag in der App DB Navigator in den 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sehe-ich-wo-der-zug-am-gleis-haelt)
 
-Hintergrundinformationen zu den Bereichen/ Sitzplätzen
+Was bedeuten die Bereiche in der Wagenreihung?
 ----------
 
 ###  Familienbereich  ###
