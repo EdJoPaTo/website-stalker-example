@@ -38,8 +38,10 @@ NEU
 
  (66)
 
+[UGREEN MagFlow Magnetische Powerbank (20000mAh, Qi2 25W, MagSafe-kompatibel)](https://de.ugreen.com/products/magflow-magnetische-kabellose-powerbank-20000mah-45w-magsafe)
+
+ Keine Bewertungen
+
 [UGREEN Nexode Powerbank (20000mAh, 145W, integriertem Kabel)](https://de.ugreen.com/products/nexode-powerbank-20000mah-145w-integriertes-kabel)
 
  (50)
-
-[UGREEN Nexode Magnetische Kabellose Powerbank (10000mAh, 15W, MagSafe-kompatibel)](https://de.ugreen.com/products/nexode-magnetische-kabellose-powerbank-10000mah-15w-magsafe)

@@ -217,7 +217,7 @@ Können Gutscheine auf netcup Deals angewendet werden?
 
  ###
 
-Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, stundenbasierte Tarife, VPS ARM, VPS Lite oder Merchandise. Eine Kombination aus mehreren Gutscheinen ist nicht möglich. Der Bestellwert muss höher sein als die Gutscheinsumme. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
+Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, stundenbasierte Tarife, VPS ARM, VPS Lite oder Merchandise. Der Gutschein ist nicht übertragbar und kann nicht in bar ausgezahlt werden. Pro Bestellung kann nur ein Gutschein eingelöst werden. Der Bestellwert muss höher sein als die Gutscheinsumme. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
 
 Wenn dein Gutscheincode nicht funktioniert, wende dich bitte an unseren [Support](https://helpcenter.netcup.com/de/support).
 

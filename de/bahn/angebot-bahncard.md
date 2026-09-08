@@ -1,13 +1,13 @@
 Finden Sie hier Ihre passende BahnCard
 ==========
 
-Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
+Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland.
 
 Jetzt die BahnCard 25 vom 1. bis zum 30. September 2026 zum Aktionspreis sichern und 25 % auf die Fahrt sparen.
 
 Finden Sie hier Ihre passende BahnCard
 
-Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland und garantiert klimafreundlich!
+Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland.
 
 Jetzt die BahnCard 25 vom 1. bis zum 30. September 2026 zum Aktionspreis sichern und 25 % auf die Fahrt sparen.
 

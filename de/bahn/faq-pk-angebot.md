@@ -15595,7 +15595,7 @@ Bitte beachten Sie:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-kostenlose-sitzplatzkontingent-bei-bahncard-100-1kl)
 
- Was ist das kostenlose Sitzplatzkontingent bei einer BahnCard 100, 2. Klasse und wie kann ich es einlösen??
+ Was ist das kostenfreie Sitzplatzkontingent bei einer BahnCard 100, 2. Klasse und wie kann ich es einlösen?
 ----------
 
 Ihnen stehen während der Gültigkeit Ihrer BahnCard:

@@ -1,11 +1,11 @@
 Die digitale BahnCard 100
 ==========
 
-Komfortabel, nachhaltig und sofort verfügbar!
+Komfortabel und sofort verfügbar.
 
 Die digitale BahnCard 100
 
-Komfortabel, nachhaltig und sofort verfügbar!
+Komfortabel und sofort verfügbar.
 
 Entdecken Sie die digitale BahnCard 100
 ----------
