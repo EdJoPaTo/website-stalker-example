@@ -58,7 +58,7 @@ System
 
    
 
-* System, Ultra X9 388H  Pre-order  €2,029
+* System, Ultra X9 388H  Pre-order  €2,139
   * Up to 5.1GHz, 4+8+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display

@@ -17565,7 +17565,7 @@ Ansprüche sind nach Kofferzustellung mit
 
 schriftlich geltend zu machen.
 
-Entweder direkt [hier](https://www.gepaeckservice-bahn.de/kontakt.xhtml) oder per Post an:
+Entweder direkt über [www.gepaeckservice-bahn.de](https://www.gepaeckservice-bahn.de/kontakt.xhtml) oder per Post an:
 
 Deutsche Bahn AG
 DB Gepäckservice
@@ -17926,7 +17926,7 @@ Sie können die BahnCard100 mit folgenden Zahlungsmitteln zahlen:
 
 Bitte überprüfen Sie vor der Zahlung, ob Ihr Verfügungsrahmen auf Ihrer Kreditkarte, bei PayPal oder Apple Pay ausreichend ist. Falls nicht, veranlassen Sie bei Ihrem Zahlungsdienstleister die Anpassung.
 
-Weitere Infos zur Authentifizierung mit Ihrer Kreditkarte finden Sie [hier](https://www.bahn.de/faq/3dsecure-bezahlen)
+Weitere Infos zur Authentifizierung mit Ihrer Kreditkarte finden Sie auf der Seite [www.bahn.de/faq/3dsecure-bezahlen](https://www.bahn.de/faq/3dsecure-bezahlen).
 
 [Weitere Informationen zur BahnCard 100](https://www.bahn.de/angebot/bahncard/bahncard100)
 
