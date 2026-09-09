@@ -6970,7 +6970,7 @@ Sie können das VVS Abo als Handy-Ticket im DB Navigator nutzen.
  Wo erhalte ich mehr Informationen zur digitalen BahnCard 25/50?
 ----------
 
-Zur Nutzung der digitalen BahnCard 25/50 benötigen Sie ein DB Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator). Erfahren Sie [hier](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) mehr über die digitale BahnCard und auch zur Alternative ohne Smartphone mit Schritt-für-Schritt-Anleitungen.
+Zur Nutzung der digitalen BahnCard 25/50 benötigen Sie ein DB Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator). Erfahren Sie auf der Seite [www.bahn.de/digitalebahncard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) mehr über die digitale BahnCard und auch zur Alternative ohne Smartphone mit Schritt-für-Schritt-Anleitungen.
 
 [Weitere Informationen zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
