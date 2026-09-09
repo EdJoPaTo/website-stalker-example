@@ -14,13 +14,13 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### stuttgart ###
+### Köln ###
 
-### 05.-06. september 2026 ###
+### 19. - 20. September 2026 ###
 
 ### 100 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/stuttgart)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/köln)
 
 [Location](https://www.megamarsch.de/ostsee)
 

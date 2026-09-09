@@ -99,6 +99,8 @@ Farbe
 
 [](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64347-1957.html?itemorigin=startseiteHW26)
 
+[](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64347-1957.html?itemorigin=startseiteHW26)
+
  Neue Kollektion
 ---
 
@@ -121,7 +123,17 @@ Farbe
 zum starken Preis
 ---
 
- Stretch Bundhose
+[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-line-core-3165120-64341-1957.html?itemorigin=startseiteHW26)
+
+ Bundhose
+
+ ab 41,53 €
+
+ (m. MwSt.)
+
+ ab 34,90 € (ohne MwSt.)
+
+ Winterjacke Padded
 
  ab 51,05 €
 
@@ -129,7 +141,7 @@ zum starken Preis
 
  ab 42,90 € (ohne MwSt.)
 
-[](https://www.strauss.com/de/de/bundhosen/stretch-bundhose-e-s-line-core-3165140-64351-1957.html?itemorigin=startseiteHW26)
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-padded-e-s-line-core-3135580-64348-1957.html?itemorigin=startseiteHW26)
 
 [neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
 
