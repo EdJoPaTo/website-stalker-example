@@ -2274,10 +2274,10 @@ Die BahnCard 25 zum Aktionspreis kostet:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc25herbst-preis)
 
- Kann ich meine bestehende BahnCard in eine BahnCard 25 zum Aktionspreis umtauschen?
+ Kann ich meine bestehende BahnCard (Business) in eine BahnCard 25 zum Aktionspreis umtauschen?
 ----------
 
-Nein, weder ein Upgrade noch ein Umtausch in eine BahnCard 25 zum Aktionspreis sind möglich. Eine Anrechnung der bestehenden BahnCard auf eine BahnCard zum Aktionspreis ist somit nicht möglich.
+Nein, weder ein Upgrade noch ein Umtausch in eine BahnCard (Business) 25 zum Aktionspreis sind möglich. Eine Anrechnung der bestehenden BahnCard (Business) auf eine BahnCard (Business) zum Aktionspreis ist somit nicht möglich.
 
 [Weitere Informationen zur Aktion](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25aktion)
 
@@ -15585,7 +15585,7 @@ Das City-Ticket ist eine Fahrkarte, mit der Sie der rund 140 City-Ticket Städte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-city-ticket)
 
- Was ist das kostenlose Sitzplatzkontingent bei einer BahnCard 100, 1. Klasse und wie kann ich es einlösen??
+ Was ist das kostenlose Sitzplatzkontingent bei einer BahnCard 100, 1. Klasse und wie kann ich es einlösen?
 ----------
 
 Ihnen stehen während der Gültigkeit Ihrer BahnCard:
@@ -16247,7 +16247,6 @@ Den Bestellschein finden Sie weiter unten.
 
 * Attraktiver Rabatt auf das Deutschland-Ticket
 * Auf dem Weg zur Arbeit, in der Freizeit und am Wochenende, an 365 Tagen im Jahr immer flexibel im Nahverkehr unterwegs
-* Gut für die Umwelt: Reduziert den CO₂-Ausstoß
 * Arbeitgeberzuschuss: mind. 25 % des Ticketpreises
 
 **Persönliche Abo-Monatskarte**
@@ -16431,7 +16430,6 @@ Das SchülerFreizeitTicket ist ein Ergänzungsticket. Sie dehnt den Aktionsradiu
 
 * Attraktiver Rabatt auf das Deutschland-Ticket
 * Auf dem Weg zur Arbeit, in der Freizeit und am Wochenende, an 365 Tagen im Jahr immer flexibel im Nahverkehr unterwegs
-* Gut für die Umwelt: Reduziert den CO₂-Ausstoß
 * Arbeitgeberzuschuss: mind. 25 % des Ticketpreises
 
 **Abo**
@@ -21041,7 +21039,7 @@ Außerdem wird die BahnCard 100 bei vielen Verkehrsverbünden, in Bussen und bei
 
 Außerdem ist seit dem 1. Mai 2023 das Deutschland-Ticket unentgeltlich in die BahnCard 100 integriert. Somit kann zusätzlich zum Leistungsumfang der BahnCard 100 mit City-Ticket der gesamte öffentlichen Nahverkehr (insbesondere auch Busse, U- und Straßenbahnen) im Geltungsbereich des Deutschland-Tickets bundesweit genutzt werden.
 
-Weitere Informationen erhalten Sie [hier](https://www.bahn.de/angebot/regio/deutschland-ticket)
+Weitere Informationen erhalten Sie auf der Seite [www.bahn.de/deutschland-ticket](https://www.bahn.de/angebot/regio/deutschland-ticket).
 
 [Weitere Informationen zur My BahnCard 100](https://www.bahn.de/angebot/bahncard/junge-reisende/mybahncard100)
 

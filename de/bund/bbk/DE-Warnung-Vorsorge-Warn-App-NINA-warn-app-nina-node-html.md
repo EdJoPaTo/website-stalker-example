@@ -34,15 +34,15 @@ Warn-App NINA herunterladen
 
 [](https://itunes.apple.com/de/app/nina/id949360949?mt=8)
 
-###  APK (Android App Package) der Warn-App NINA: Version 3.6.1 ###
+###  APK (Android App Package) der Warn-App NINA: Version 3.7 ###
 
 **Download**  vnd.android.package-archive, 33MB, Datei ist nicht barrierefrei
 
-[Herunterladen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=16)
+[Herunterladen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=17)
 
 Nicht bestellbar
 
-[](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=16)
+[](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=17)
 
 Anfragen zur Warn-App NINA über NINA HelpDesk
 ----------
