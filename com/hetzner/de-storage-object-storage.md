@@ -112,8 +112,6 @@ Profitiere von Flexibilität und Leistung für vielfältige Anwendungsfälle und
 
 [Create Bucket](https://console.hetzner.cloud/)
 
-[Daten von einem anderen Anbieter zu Hetzner migrieren Docs](https://docs.hetzner.com/de/cloud/servers/getting-started/migrate-data) [Festplattenpartitionen von einem anderen Anbieter zu Hetzner migrieren Docs](https://docs.hetzner.com/de/cloud/servers/getting-started/migrate-partition) [Getting started: Einen Server erstellen Docs](https://docs.hetzner.com/de/cloud/servers/getting-started/creating-a-server)
-
 ### Maximale Datensicherheit nach DSGVO-Standards ###
 
 Als Rechenzentren-Betreiber und Hosting-Provider mit Hauptsitz in Deutschland hat Datenschutz bei Hetzner oberste Priorität. Durch unsere strikte Einhaltung der Datenschutz-Grundverordnung (DSGVO) profitieren unsere Kunden von höchsten Sicherheitsstandards. Diese garantieren sowohl den Schutz persönlicher Daten als auch eine rechtssichere Verarbeitung.

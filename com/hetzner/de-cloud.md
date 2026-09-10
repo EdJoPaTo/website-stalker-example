@@ -5,7 +5,7 @@ Cloud
 
 Die beste Simple-Cloud-Lösung für deine anspruchsvollen Projekte. Einfach zu bedienen, flexibel und sicher.
 
-[Cloud-Server erstellen](https://console.hetzner.com/)
+[Cloud-Server erstellen](https://console.hetzner.com/create/server)
 
  Hetzner Cloud-Vorteile im Überblick
 

@@ -11,7 +11,7 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
 ###  BX11  ###
 
- Typ
+ Type
 
  max/mo.
 
@@ -27,7 +27,7 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
 ###  BX21  ###
 
- Typ
+ Type
 
  max/mo.
 
@@ -43,7 +43,7 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
 ###  BX31  ###
 
- Typ
+ Type
 
  max/mo.
 
@@ -59,7 +59,7 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
 ###  BX41  ###
 
- Typ
+ Type
 
  max/mo.
 

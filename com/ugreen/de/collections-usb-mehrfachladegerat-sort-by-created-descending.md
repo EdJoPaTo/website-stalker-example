@@ -32,4 +32,4 @@
 
 [UGREEN USB-C Ladegerät (100W, 4-Ports, GaN)](https://de.ugreen.com/products/ugreen-100-w-usb-c-gan-ladegerat-mit-4-ports)
 
- (183)
+ (184)

@@ -114,8 +114,6 @@ Benefit from flexibility and performance for a wide range of use cases and growi
 
  .cta-background { background-image: url('https://cdn.hetzner.com/assets/Uploads/Object-Storage\_startProject.jpg'); } @media (max-width: 768px) { .cta-background { background-image: url('https://cdn.hetzner.com/assets/Uploads/Object-Storage\_startProject\_mobile.jpg'); } }
 
-[Migrate data from another provider to Hetzner Docs](https://docs.hetzner.com/cloud/servers/getting-started/migrate-data) [Migrate partition from another provider to Hetzner Docs](https://docs.hetzner.com/cloud/servers/getting-started/migrate-partition) [Getting started: Creating a server Docs](https://docs.hetzner.com/cloud/servers/getting-started/creating-a-server)
-
 ### Maximum GDPR-compliant data security  ###
 
 As a data center operator and hosting provider headquartered in Germany, data protection is a top priority at Hetzner. Thanks to our strict compliance with the General Data Protection Regulation (GDPR), our customers benefit from the highest security standards. They guarantee both the protection of personal data and legally compliant processing.

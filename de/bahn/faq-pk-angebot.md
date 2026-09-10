@@ -3348,7 +3348,7 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wann kann ich das Super Sparpreis Last Minute-Ticket buchen?
 ----------
 
-Sie können den Super Sparpreis Last Minute vom 9. Mai bis 13. September 2026 an jedem Samstag und Sonntag buchen - für Reisen innerhalb Deutschlands für Montag bis Sonntag der Folgewoche.
+Sie können den Super Sparpreis Last Minute vom 9. Mai bis 27. September 2026 an jedem Samstag und Sonntag buchen - für Reisen innerhalb Deutschlands für Montag bis Sonntag der Folgewoche.
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
@@ -7546,7 +7546,7 @@ Ja.
 * Für Züge des Hochgeschwindigkeitsverkehrs zwischen Deutschland und Frankreich sowie für EuroCity-Züge zwischen München und Italien brauchst du einen Zuschlag inklusive Reservierung.
 * Reservierungskosten sind im Interrail Pass nicht enthalten.
 
-Du kannst deine Reservierung für fast alle europäischen Züge bis zu 6 Monate vor Abfahrt online [hier](https://www.bahn.de/buchung/start?KL=2&ET=PASSZUSCHLAG), in den DB Verkaufsstellen oder auf [www.interrail.eu](https://www.interrail.eu/de) vornehmen. Für einige Züge ist eine Reservierung bis zu 3 Monate vor Abfahrt möglich.
+Du kannst deine Reservierung für fast alle europäischen Züge bis zu 6 Monate vor Abfahrt online in der [bahn.de-Buchung](https://www.bahn.de/buchung/start?KL=2&ET=PASSZUSCHLAG), in den DB Verkaufsstellen oder auf [www.interrail.eu](https://www.interrail.eu/de) vornehmen. Für einige Züge ist eine Reservierung bis zu 3 Monate vor Abfahrt möglich.
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 
@@ -15585,7 +15585,7 @@ Das City-Ticket ist eine Fahrkarte, mit der Sie der rund 140 City-Ticket Städte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-das-city-ticket)
 
- Was ist das kostenlose Sitzplatzkontingent bei einer BahnCard 100, 1. Klasse und wie kann ich es einlösen?
+ Was ist das kostenfreie Sitzplatzkontingent bei einer BahnCard 100, 1. Klasse und wie kann ich es einlösen?
 ----------
 
 Ihnen stehen während der Gültigkeit Ihrer BahnCard:
@@ -15595,8 +15595,8 @@ Ihnen stehen während der Gültigkeit Ihrer BahnCard:
 
 Bitte beachten Sie:
 
-* Das Kontingent ist verwendbar für Sitzplatzreservierungen oder die Mitnahme eines Fahrrads ohne Ticketkauf
-* Das Kontingent ist gültig für alle nicht reservierungspflichtigen Züge der DB AG
+* Sie können das Kontingent für Sitzplatzreservierungen oder die Mitnahme eines Fahrrads ohne Ticketkauf verwenden.
+* Das Kontingent ist gültig für alle nicht reservierungspflichtigen Züge der Deutschen Bahn AG.
 * Nicht eingelöste Kontingente verfallen mit dem Gültigkeitsende der BahnCard bzw. mit der Kündigung der BahnCard. Bitte buchen Sie Ihre Sitzplätze direkt eingeloggt in Ihrem DB Kundenkonto.
 
 [Weitere Informationen zur BahnCard 100](https://www.bahn.de/angebot/bahncard/bahncard100)
@@ -15613,8 +15613,8 @@ Ihnen stehen während der Gültigkeit Ihrer BahnCard:
 
 Bitte beachten Sie:
 
-* Das Kontingent ist verwendbar für Sitzplatzreservierungen oder die Mitnahme eines Fahrrads ohne Ticketkauf
-* Das Kontingent ist gültig für alle nicht reservierungspflichtigen Züge der DB AG
+* Sie können das Kontingent für Sitzplatzreservierungen oder die Mitnahme eines Fahrrads ohne Ticketkauf verwenden.
+* Das Kontingent ist gültig für alle nicht reservierungspflichtigen Züge der Deutsche Bahn AG.
 * Nicht eingelöste Kontingente verfallen mit dem Gültigkeitsende der BahnCard bzw. mit der Kündigung der BahnCard. Bitte buchen Sie Ihre Sitzplätze direkt eingeloggt in Ihrem DB Kundenkonto.
 
 [Weitere Informationen zur BahnCard 100](https://www.bahn.de/angebot/bahncard/bahncard100)
@@ -17647,7 +17647,7 @@ Mehr Informationen zu den [Sharing-Diensten](https://www.bahn.de/faq/erreichbark
  Wie kann ich das Super Sparpreis Last Minute-Ticket buchen?
 ----------
 
-Der Super Sparpreis Last Minute ist vom 9. Mai bis 13. September 2026 in der regulären Verbindungsauskunft nur auf [**bahn.de**](https://www.bahn.de/), in der **App DB Navigator** und bei **Onlinevertriebspartnern der DB** zu finden. Auf [bahn.de](https://www.bahn.de/) und im DB Navigator ist das Angebot außerdem durch eine Krone mit der Bezeichnung "Aktion" gekennzeichnet.
+Der Super Sparpreis Last Minute ist vom 9. Mai bis 27. Dezember 2026 in der regulären Verbindungsauskunft nur auf [**bahn.de**](https://www.bahn.de/), in der **App DB Navigator** und bei **Onlinevertriebspartnern der DB** zu finden. Auf [bahn.de](https://www.bahn.de/) und im DB Navigator ist das Angebot außerdem durch eine Krone mit der Bezeichnung "Aktion" gekennzeichnet.
 
 [Weitere Informationen zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
