@@ -95,9 +95,9 @@ System
 
 Storage
 
-* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 500GB +€150
-* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 1TB +€285
-* Storage, WD\_BLACK™ SN770M NVMe™ - M.2 2230 - 2TB +€552
+* Storage, SANDISK SN770M PCIe® 4.0 M.2 2230 - 500GB +€150
+* Storage, SANDISK SN770M PCIe® 4.0 M.2 2230 - 1TB +€285
+* Storage, SANDISK SN770M PCIe® 4.0 M.2 2230 - 2TB +€552
 * Storage, None (bring your own)
 
 **Operating System**

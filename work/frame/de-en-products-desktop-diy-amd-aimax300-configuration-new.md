@@ -62,6 +62,7 @@ System
 
 Primary Storage (M.2 2280)
 
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB +€150
 * Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
 * Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
 * Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
@@ -79,6 +80,7 @@ Primary Storage (M.2 2280)
 
 Secondary Storage (M.2 2280)
 
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB +€150
 * Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
 * Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
 * Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979

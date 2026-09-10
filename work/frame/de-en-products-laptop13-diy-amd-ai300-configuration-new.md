@@ -107,6 +107,7 @@ Memory
 
 Storage
 
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB +€150
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
