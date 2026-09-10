@@ -67,6 +67,24 @@ Profi-Arbeitskleidung vom Experten
 
 [Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
 
+ % Angebote des Monats %
+---
+
+ % Angebote des Monats %
+---
+
+ Bis zu
+\-47%
+----------
+
+---
+
+ Gültig bis 30.09.2026 | Solange der Vorrat reicht
+
+[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
+
+[](https://www.strauss.com/de/de/angebote-des-monats/)
+
 [](https://www.strauss.com/de/de/softshelljacken-damen/softshelljacke-e-s-motion-2020-damen-3130420-65822-1965.html?itemorigin=startseiteHW26)
 
  Graphit-Feuerrot
