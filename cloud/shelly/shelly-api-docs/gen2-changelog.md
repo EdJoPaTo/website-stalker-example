@@ -18,6 +18,38 @@ Not all Shelly devices receive the same firmware updates. See [Firmware Update P
 Unreleased
 ----------
 
+**Available as `2.0.1-beta2`**
+
+### Fixed ###
+
+* ADE7953 power meters: Fix crashes during I2C register read
+* [BLE](/gen2/ComponentsAndServices/BLE): Fix use-after-free crash on [Matter](/gen2/ComponentsAndServices/Matter) commissioning disconnect
+* [BLE](/gen2/ComponentsAndServices/BLE): Report BT address and bonds while BT is not running
+* Cron: Harden expression parser (bounds/overflow checks)
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Fix potential buffer overflow when parsing chunked-encoding length line
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Fix use-after-free in channel teardown under HTTP flood
+* JSON: Fix out-of-bounds accesses in JSON and URL parsers
+* [LNM](/gen2/DynamicComponents/LNM/): Add missing `btn_down` event
+* [LNM](/gen2/DynamicComponents/LNM/): Report brightness, ct, rgb, rgbcct value changes over LNM
+* [LNM](/gen2/DynamicComponents/LNM/): Fix `stats.since` timestamps that predate the last boot
+* [LoRa](/gen2/Addons/ShellyLoRaAddon): Remove holdoff period for BR915
+* [Matter](/gen2/ComponentsAndServices/Matter): Additional fix for monotonic-clock abort
+* [Pill](/gen2/ComponentsAndServices/Pill): Add [Virtual Components](/gen2/DynamicComponents/Virtual/) manager and [BTHome](/gen2/DynamicComponents/BTHome/) support
+* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix empty `source` in [Light.GetStatus](/gen2/ComponentsAndServices/Light#lightgetstatus) after double push
+* [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix flickering on 60Hz grids
+* [ProEM](/gen2/Devices/Gen2/ShellyProEM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM): Index data files in RAM instead of scanning the directory
+* [ProRGBWWPM](/gen2/Devices/Gen2/ShellyProRGBWWPM): Increase MUX stack size
+* [Virtual Components](/gen2/DynamicComponents/Virtual/): Fix use-after-free
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix Basic cluster `powerSource` reporting `Unknown` instead of `Mains`
+
+### Local web ###
+
+### Fixed ###
+
+* [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4): Rename "Dimming Curve" to "Gamma Correction"
+* [OperationalCounters](/gen2/ComponentsAndServices/Switch): Remove redundant Save button and informational text
+* [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM): Fix NCT channel and readings not appearing after successful calibration
+
 **Available as `2.0.1-beta1`**
 
 ### Fixed ###

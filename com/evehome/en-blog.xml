@@ -6,6 +6,13 @@
 		<description>All things Eve &amp; HomeKit</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Efficient Retrofitting with the Busch-free@home®️ In-Wall Actuators plus Smart Switch wireless</title>
+			<link>https://www.evehome.com/en/blog/efficient-retrofitting-withbusch-free-home-actuators</link>
+			<content:encoded><![CDATA[Use Cases
+
+With the compact Busch-free@home®️ in-wall actuators combined with the wireless Smart Switch wireless, we have found the perfect solution for the challenges in our home: switches can be placed exactly where they are needed, without having to chase out walls, install new wiring, or undertake extensive renovation work.]]></content:encoded>
+		</item>
+		<item>
 			<title>All features of Eve Thermostat</title>
 			<link>https://www.evehome.com/en/all-features-eve-thermostat-eu</link>
 			<content:encoded><![CDATA[Product Features
@@ -71,13 +78,6 @@ Make the holiday season magical by following our tips on how to create the perfe
 			<content:encoded><![CDATA[Product Features
 
 Eve Thermo relies on the proven technology of Hessian specialist Eurotronic for heat regulation, which works in the heating controllers of many leading smart home providers. Leveraging HomeKit as well as Eve technologies, Eurotronic's drive and control algorithm ensure comfort and efficiency. This makes saving energy easy.  We're introducing you here to a hardware feature important for heat regulation: The adjustable Temperature Offset.]]></content:encoded>
-		</item>
-		<item>
-			<title>Smart heating in three easy steps</title>
-			<link>https://www.evehome.com/en/blog/smart-heating-in-three-easy-steps</link>
-			<content:encoded><![CDATA[Product Features
-
-Lower heating bills with smart thermostats. Saving heating energy is the order of the day, and smart technology is ideal for this. We'll show you how to use your iPhone to convert your rooms to smart heating using schedules in three simple steps - install, define schedules and optimise.]]></content:encoded>
 		</item>
 	</channel>
 </rss>
