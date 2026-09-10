@@ -312,12 +312,9 @@ sites:
     ignore_error: true # 429 too many requests on GitHub Actions
     editors:
       - css_select: .product-grid .ug-product-card-info
-      - css_remove: style, img, svg, .price_atc-box, .ug_product_code
+      - css_remove: style, img, svg, .price_atc-box, .ug_product_code, *[data-number-of-reviews]
       - html_url_canonicalize
       - html_markdownify
-      - regex_replace:
-          pattern: '[\s\n]*(No|\d+) reviews?'
-          replace: ''
 
   - url:
       - https://www.cirrus7.com/
