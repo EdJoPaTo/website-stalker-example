@@ -1562,6 +1562,24 @@ Wenn Ihr Anliegen eine persönliche Prüfung oder Bearbeitung durch den Kundense
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-kundenservice)
 
+ Warum kann ich Kiana nur nutzen, wenn ich eingeloggt bin?
+----------
+
+Der KI-Chatbot Kiana befindet sich aktuell in einer Testphase. Kiana wird nur eingeloggten Kundinnen und Kunden mit einem privaten DB Kundenkonto auf bahn.de angezeigt.
+
+Der Login ist erforderlich, damit Sie den Nutzungsbedingungen und Datenschutzhinweisen zustimmen können.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-login)
+
+ Warum kann ich Kiana nur nutzen, wenn ich eingeloggt bin?
+----------
+
+Der KI-Chatbot Kiana befindet sich aktuell in einer Testphase und wird nur eingeloggten Kundinnen und Kunden mit einem privaten DB Kundenkonto auf bahn.de angezeigt.
+
+Der Login ist erforderlich, damit Sie den Nutzungsbedingungen und Datenschutzhinweisen zustimmen können.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-login-en)
+
  Are there different age rules for children?
 ----------
 
