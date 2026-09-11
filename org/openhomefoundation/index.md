@@ -1,3 +1,5 @@
+[Community Day 2026 | Host a meetup near you on Saturday, November 7](https://www.openhomefoundation.org/community-day/)
+
 The **Open Home Foundation** fights for the fundamental principles of **privacy**, **choice**, and **sustainability** for smart homes. And for every person who lives in one. It does this by supporting the development of open source projects, and open connectivity and communication standards.
 
 [Learn more](https://www.openhomefoundation.org/about/)
