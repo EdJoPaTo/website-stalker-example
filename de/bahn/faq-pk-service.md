@@ -685,13 +685,6 @@ Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anspruch-auf-sitzplatz)
 
- Handelt es sich um Einsparungen der gesamten Deutschen Bahn oder nur des Fernverkehrs?
-----------
-
-Bei der Modellrechnung wird nur der Anteil des DB Fernverkehrs, also Reisen mit ICE-, IC und EC-Zügen, berücksichtigt. Die Einsparungen von DB Regio und DB Cargo sind nicht eingerechnet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anteil-einsparungen)
-
  Wie viel Gepäck darf ich im Zug mitnehmen?
 ----------
 
@@ -1570,15 +1563,6 @@ Der KI-Chatbot Kiana befindet sich aktuell in einer Testphase. Kiana wird nur ei
 Der Login ist erforderlich, damit Sie den Nutzungsbedingungen und Datenschutzhinweisen zustimmen können.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-login)
-
- Warum kann ich Kiana nur nutzen, wenn ich eingeloggt bin?
-----------
-
-Der KI-Chatbot Kiana befindet sich aktuell in einer Testphase und wird nur eingeloggten Kundinnen und Kunden mit einem privaten DB Kundenkonto auf bahn.de angezeigt.
-
-Der Login ist erforderlich, damit Sie den Nutzungsbedingungen und Datenschutzhinweisen zustimmen können.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/chatbot-kiana-login-en)
 
  Are there different age rules for children?
 ----------
@@ -8930,7 +8914,6 @@ Mit der BahnBonus App können Sie ganz bequem am Vorteilsprogramm teilnehmen:
 * Lösen Sie Ihre Prämienpunkte direkt gegen Prämien ein
 * Nur mit der App können Sie Prämienpunkte in der Bordgastronomie sammeln
 * Sie haben den Bordgastronomie Gutschein als Barcode direkt zum Einlösen bereit
-* Finden Sie Informationen zu Ihrer persönlichen CO₂-Einsparung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-brauche-ich-die-bahnbonus-app)
 
