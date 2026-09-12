@@ -36,7 +36,6 @@ Planned point releases to Q2 2027 are as follows:
 
 |   Date    |Versions|Notes|
 |-----------|--------|-----|
-|12 Sep 2026|  13.7  |     |
 |14 Nov 2026|  13.8  |     |
 |9 Jan 2027 |  13.9  |     |
 |13 Mar 2027| 13.10  |     |
