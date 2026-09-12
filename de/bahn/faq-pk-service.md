@@ -5659,7 +5659,8 @@ Nein, Ihre Punkte verfallen nicht. Sie können Ihre Punkte allerdings nicht mehr
  Wann ist das DB Familienticket erhältlich?
 ----------
 
-Das DB Familienticket ist vom 14.06. bis 12.09.2026 erhältlich für Reisen vom 26.06.-14.09.2026.
+Buchungszeitraum war bis zum 12.09.2026
+Reisezeitraum ist noch bis zum 14.09.2026
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verkaufszeitraum-familienticket)
 
@@ -6389,8 +6390,6 @@ Das DB Familienticket ist ein zeitlich begrenzt verfügbares Familienangebot. Mi
 Das Angebot kann auf bahn.de, im DB Navigator oder in personenbedienten Verkaufsstellen für 99,99 Euro erworben werden. Bei Verbindungen mit einer Teilstrecke im Nahverkehr (SPNV) liegt der Preis bei 143,99 Euro. Alternativ kann eine einfache Fahrt für 59,99 Euro erworben werden (mit Nahverkehr für 81,99 Euro).
 
 [Weitere Informationen zum Familienticket](https://www.bahn.de/angebot/kinder/familienticket)
-
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-familienticket)
 
