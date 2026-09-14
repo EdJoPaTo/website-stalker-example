@@ -5927,7 +5927,10 @@ Folgenden Ausnahmen gelten:
 * der Interrail Ireland Pass gilt in Irland und Nordirland
 * der Interrail Nordic Pass gilt in Dänemark, Finnland, Norwegen und Schweden
 
-**Hinweis:** Sie können als reisende Person den Interrail One Country Pass nicht für das Land kaufen, das auch Ihr Wohnsitz ist.
+**Hinweise:**
+
+* Der Interrail One Country Pass für Großbritannien (Great Britain) sowie für die Schweiz (Switzerland) dürfen nur von Kunden mit einem Wohnsitzland in Europa gekauft werden.
+* Sie können als reisende Person den Interrail One Country Pass nicht für das Land kaufen, das auch Ihr Wohnsitz ist.
 
 Beispiel: Ein Reisender mit Wohnsitz in den Niederlanden bucht einen Interrail Spanien Pass. Der Pass gilt nur für Spanien und kann nicht für die Fahrt von den Niederlanden nach Spanien genutzt werden.
 
@@ -7627,7 +7630,45 @@ Du kannst deinen Interrail Pass frühestens 11 Monate vor Beginn deiner Reise ka
  Kann ich mit meinem Interrail Pass in meinem Wohnsitzland fahren?
 ----------
 
-Ja, der Interrail Global Pass beinhaltet 2 Fahrten für das Land, in dem du deinen Wohnsitz hast. Eine dieser Fahrten ist für deine Reise ins Ausland und die andere für deine Reise aus dem Ausland zurück.
+Wenn du deinen Wohnsitz in einem der nachstehenden Ländern hast, beinhaltet der Interrail Global Pass 2 Fahrten im Wohnsitzland: eine der Fahrten für deine Reise ins Ausland und die andere für deine Reise aus dem Ausland zurück:
+
+* Belgien
+* Bosnien und Herzegowina
+* Bulgarien
+* Dänemark
+* **Deutschland**
+* Estland
+* Finnland
+* Frankreich
+* Griechenland
+* Irland
+* Italien
+* Kosovo
+* Kroatien
+* Lettland
+* Liechtenstein (gilt nicht bei Reisen in die Schweiz)
+* Litauen
+* Luxemburg
+* Monaco
+* Montenegro
+* Niederlande
+* Nordmazedonien
+* Norwegen
+* Österreich
+* Polen
+* Portugal
+* Rumänien
+* Schweden
+* Schweiz
+* Serbien
+* Slowakei
+* Slowenien
+* Spanien
+* Tschechien
+* Türkei
+* Ungarn
+* Vatikanstadt
+* Vereinigtes Königreich
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 
@@ -21150,7 +21191,7 @@ Mit Ihrem Brandenburg-Berlin-Ticket/Nacht können Sie frei alle Nahverkehrszüge
  Wer kann mit Interrail reisen?
 ----------
 
-Reisende mit Wohnsitz in Europa, der Türkei und Russland können einen Interrail Pass buchen. Der Pass ist nicht übertragbar.
+Reisende mit Wohnsitz in europäischen und nicht-europäischen Ländern können einen Interrail Pass buchen. Der Pass ist nicht übertragbar.
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 

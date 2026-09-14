@@ -156,11 +156,43 @@ Für dich, fürs Klima, für alle!
 
 * Unsere Tarife
 
-* 3GB
-* 7GB
-* 20GB
-* 40GB
-* 100GB
+* 2GB
+* 5GB
+* 15GB
+* 35GB
+* ∞GB
+
+Nanofunk
+----------
+
+**Angebot!?**
+Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
+
+**Mobilfunkinfos**
+
+* Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
+* SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
+* 2 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+* Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1789369235/1834/).
+
+**Tarifwechsel**
+Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
+
+Nanofunk
+----------
+
+2 GB
+
+* Daten 5G
+* Allnet Flat (Telefonie/SMS)
+* Monatlich kündbar
+
+* [Preisliste](https://www.wetell.de/filer/canonical/1789369235/1834/)
+* [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1789369286/1836/)
+
+12€ /Monat
+
+[Jetzt bestellen](https://www.wetell.de/shop/privat/nanofunk)
 
 Ultrakurz
 ----------
@@ -172,7 +204,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 
 * Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 * SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-* 3 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+* 5 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
 * Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1732624908/540/).
 
 **Tarifwechsel**
@@ -181,7 +213,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 Ultrakurz
 ----------
 
-3 GB
+5 GB
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
@@ -204,7 +236,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 
 * Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 * SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-* 7 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+* 15 GB Inklusiv-Datenvolumen mit max. 50 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
 * Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1741780586/808/).
 
 **Tarifwechsel**
@@ -213,7 +245,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 Mikrofon
 ----------
 
-7 GB
+15 GB
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
@@ -236,7 +268,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 
 * Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 * SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-* 20 GB Inklusiv-Datenvolumen mit max. 100 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+* 35 GB Inklusiv-Datenvolumen mit max. 100 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
 * Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1732624908/532/).
 
 **Tarifwechsel**
@@ -245,7 +277,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 Mittelwelle
 ----------
 
-20 GB
+35 GB
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
@@ -258,38 +290,6 @@ Mittelwelle
 
 [Jetzt bestellen](https://www.wetell.de/shop/privat/mittelwelle)
 
-Megafon
-----------
-
-**Angebot!?**
-Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir behalten uns vor dieses Angebot zu verlängern, damit es auch für Bestellungen im nächsten Monat gilt. Wir schreiben das, da wir euch nur durch diese formelle Befristung des Angebotes bereits jetzt bessere Konditionen weitergeben können. Erfahre mehr im [FAQ](https://www.wetell.de/service/faq/).
-
-**Mobilfunkinfos**
-
-* Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
-* SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-* 40 GB Inklusiv-Datenvolumen mit max. 100 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
-* Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1732624908/533/).
-
-**Tarifwechsel**
-Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde dich bei unserem Service. Downgrades bieten wir in Sonderfällen einmalig und dann dauerhaft an. Den Aufwand von mehrfachem Hin- und Herwechseln können wir nicht mehrfach leisten.
-
-Megafon
-----------
-
-40 GB
-
-* Daten 5G
-* Allnet Flat (Telefonie/SMS)
-* Monatlich kündbar
-
-* [Preisliste](https://www.wetell.de/filer/canonical/1732624908/533/)
-* [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/541/)
-
-30€ /Monat
-
-[Jetzt bestellen](https://www.wetell.de/shop/privat/megafon)
-
 Überschall
 ----------
 
@@ -300,7 +300,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 
 * Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 * SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-* 100 GB Inklusiv-Datenvolumen mit max. 150 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+* unlimited GB Inklusiv-Datenvolumen mit max. 100 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
 * Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1732624908/539/).
 
 **Tarifwechsel**
@@ -309,7 +309,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 Überschall
 ----------
 
-100 GB
+∞ GB
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)
@@ -318,7 +318,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 * [Preisliste](https://www.wetell.de/filer/canonical/1732624908/539/)
 * [Produktinformationsblatt](https://www.wetell.de/filer/canonical/1732624940/544/)
 
-45€ /Monat
+40€ /Monat
 
 [Jetzt bestellen](https://www.wetell.de/shop/privat/ueberschall)
 
