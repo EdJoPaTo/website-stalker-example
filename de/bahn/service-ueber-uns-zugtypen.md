@@ -36,7 +36,7 @@ Der ICE 3neo ist seit Ende 2022 mit zahlreichen Neuerungen und mehr Komfort für
 
 ### ICE 4: das neue Rückgrat ###
 
-Mehr Komfort, mehr Service, mehr Umweltschutz: Das bietet der ICE 4.
+Mehr Komfort, mehr Service. Das bietet der ICE 4.
 
 [Mehr zum ICE 4 erfahren](https://www.bahn.de/service/ueber-uns/zugtypen/ice-4)
 
