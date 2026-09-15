@@ -376,7 +376,7 @@ Wir leben unsere Werte - Jeden Tag.
 
 Freund\*innen werben & wirksam werden
 
-[Hol deine Leute zu WEtell und sichert euch je 25 € Bonus](https://www.wetell.de/community/youtell/)
+[Hol deine Leute zu WEtell und sichert euch tolle Prämien!](https://www.wetell.de/community/youtell/)
 
 Das sagen unsere Kund\*innen
 ----------
