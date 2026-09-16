@@ -398,13 +398,6 @@ Aktuell sind verstärkt betrügerische Aktivitäten basierend auf sogenannten Ph
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/6-warum-kann-ich-sparpreis-tickets-nicht-mit-lastschrift-bezahlen)
 
- Ab wann wurde die CO₂-Einsparung berechnet?
-----------
-
-Die Anzeige der CO₂-Sparuhr bezieht sich auf ein Kalenderjahr und läuft vom 1. Januar bis zum 31. Dezember eines jeden Jahres. Dann startet sie mit aktualisierten Daten neu.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-einsparung-co2)
-
  Ab wann gilt die Pauschalversteuerung?
 ----------
 
@@ -834,15 +827,6 @@ Wenn Sie eingeloggt sind: Suchen Sie unter "Meine Reisen" nach Ihrem Auftrag.
 [Zur Auftragssuche](https://next.bahn.de/buchung/meine-reisen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auftragssuche)
-
- Wird die Auslastung der Züge bei der CO₂-Einsparung berücksichtigt?
-----------
-
-Ja, die Auslastung der Züge wird beachtet. Die jährliche Verkehrsleistung, also wie viele Personen wie viele Kilometer in den Fernverkehrszügen zurückgelegt haben, bildet die Auslastung direkt ab. Bei der Berechnung der Emissionswerte wird eine durchschnittliche Auslastung von 46 % im Fernverkehr angenommen.
-
-Die CO₂-Sparuhr macht auch unterschiedliche Auslastungen zu unterschiedlichen Wochen- und Tageszeiten sichtbar: der CO₂-Wert steigt schneller oder langsamer, je nachdem wie viele Fahrgäste im jeweiligen Moment erfahrungsgemäß reisen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auslastung-zuege-einsparung-co2)
 
  Where is the ICE Portal available?
 ----------
@@ -1602,15 +1586,6 @@ Yes. If you reserve a seat online, you can select a seat near a baggage rack in 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/choose-specific-seats-close-to-areas-my-larger-luggage)
 
- Basiert die CO₂-Sparuhr auf Live-Daten?
-----------
-
-Nein, die CCO₂-Sparuhr basiert zwar nicht auf Live-Daten, berücksichtigt jedoch die üblichen Auslastungen je Tages- und Wochenzeit. Hierbei bilden wir durch unterschiedliche Geschwindigkeiten der Uhr nach, wie viele Menschen je nach Tageszeit und Wochentag in der Regel in den Fernverkehrszügen sitzen.
-
-Da CO₂-Emissionen erst nachträglich, z. B. zum Ende eines Jahres, bilanziert werden, ist es nicht möglich, die Einsparung live zu berechnen. Unser Hauptziel ist es, über eine nachvollziehbare Modellrechnung zu zeigen, welchen positiven Beitrag unsere Fahrgäste für das Klima leisten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/co2-uhr-livedaten)
-
  Darf ich dienstlich gesammelte BahnBonus Punkte privat nutzen?
 ----------
 
@@ -1985,29 +1960,6 @@ Ihr Schwerbehindertenausweis gilt für die Begleitperson als Fahrtberechtigung. 
 Wenn Sie bereits ein Ticket haben und nur noch einen Sitzplatz benötigen, wenden Sie sich zur Reservierung bitte an die Mobilitätsservice-Zentrale.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emaessigung-sba-b-ohne-rollstuhlplatz)
-
- Wieso werden die CO₂-Daten nur mit dem Pkw verglichen?
-----------
-
-Zugfahrten ersetzen häufiger Pkw-Fahrten als Flüge. Generell ist der Marktanteil von Pkw wesentlich höher als der des Flugzeugs. Um die Modellrechnung möglichst einfach und nachvollziehbar zu halten, bezieht sie sich nur auf den direkten Vergleich zum Pkw. Die zu erwartenden Einsparungen gegenüber einer Flugreise sind aber grundsätzlich noch deutlich größer.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emissionen-vergleich-pkw)
-
- Welcher Pkw-Vergleichswert wurde bei den Emissionen angesetzt?
-----------
-
-Der aktuelle Durchschnittwert für Emissionen von Pkw beziehen wir vom Umweltbundesamt: <https://www.umweltbundesamt.de/bild/vergleich-der-durchschnittlichen-emissionen-0>. Bei den durchschnittlichen Werten des Pkw ist die Auslastung von 1,4 Personen bereits eingerechnet. Der Wert beinhaltet alle Arten von Personenkraftwagen und Antrieben, also auch E-Autos. Das aktuelle Bezugsjahr wird jährlich angepasst.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emissionen-vergleich-pkw-wert)
-
- Wieso sind die genutzten Emissionsdaten nicht aktueller?
-----------
-
-Die Emissionsdaten für den Pkw entnehmen wir den Berichten des Umweltbundesamts. Diese werden am Ende des Vorjahres aktualisiert. Die Emissionsdaten des Fernverkehrs werden jedes Jahr im März mit dem Integrierten Bericht veröffentlicht. Daher können wir am Anfang des Jahres nur auf Daten des vorvergangenen Jahres zugreifen.
-
-Bei den Verkehrsleistungsdaten, also wie viele Personen wie viele Kilometer in den Fernverkehrszügen zurückgelegt haben, können wir dagegen auf die aktuellsten Daten zurückgreifen: Sie beziehen sich auf das Vorjahr.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/emissionsdaten-aktueller)
 
  Enthält meine Lufthansa Express Rail Buchung eine Sitzplatzreservierung?
 ----------
@@ -5948,18 +5900,6 @@ Auf bahn.de ist die Zahlung per Apple Pay nur möglich, wenn Sie mit einem Apple
 Abos können nur per Lastschrift gezahlt werden. Beim Kauf dieser Tickets wird Ihnen Apple Pay als Zahlungsmethode nicht angeboten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-apple-pay-nicht-angezeigt)
-
- Warum ist CO₂ einsparen wichtig?
-----------
-
-Kohlenstoffdioxid (CO₂) ist ein Treibhausgas, das vor allem durch die Verbrennung fossiler Energieträger entsteht. Im Verkehrssektor sind das vor allem Benzin und Diesel. Die immer höhere Konzentration von CO₂ in der Atmosphäre beschleunigt den Treibhauseffekt maßgeblich: Die Temperatur auf der Erde steigt und verändert damit empfindliche Ökosysteme. Jetzt liegt es an uns allen: Die nötige CO₂-Einsparung, um den Klimawandel zu bremsen, können wir nur gemeinsam schaffen.
-
-Im DB Fernverkehr reisen Sie seit Anfang 2018 auf elektrifizierten Strecken in Deutschland, die aktuell über 98 % der Verkehrsleistung des DB Fernverkehr ausmachen, mit 100 Prozent Ökostrom. Bis 2040 wird die Deutsche Bahn insgesamt klimaneutral.
-
-* [Mehr zum Thema Ökostrom](https://www.bahn.de/service/ueber-uns/umwelt/oekostrom)
-* [Mehr zum Thema Klimaschutz auf deutschebahn.com](https://nachhaltigkeit.deutschebahn.com/de/gruene-transformation/klimaschutz)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-co2-sparen)
 
  Warum gibt es das Fahrgastrechte-Formular?
 ----------
