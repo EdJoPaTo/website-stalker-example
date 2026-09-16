@@ -45,6 +45,8 @@ Finally, great battery life in a Framework Laptop
 250nit brightness, 30% volume,
 Windows 11
 
+[Watch the live demo](https://www.youtube.com/watch?v=bLYUD4IMvQI)
+
 #### 17 hours ####
 
 **Active web usage**
@@ -58,11 +60,25 @@ Windows 11
 250nit brightness, 30% volume,
 Windows 11
 
+Live demo coming soon
+
 #### 7 days ####
 
 **Standby without charging**
 
 Wi-Fi connected on Ubuntu
+
+**“This is their best build yet. They're finally doing what people have been asking for, a premium modular laptop.”**
+
+[Marques Brownlee - MKBHD](https://www.youtube.com/watch?v=_xjxwl1zLMc)
+
+**"The Framework Laptop 13 Pro delivers up to 20 hours of 4K Netflix streaming. That’s battery performance that rivals the 14-inch MacBook Pro. And unlike Apple’s sealed-in pack, our battery is fully user-replaceable, keeping your device running like new for years."**
+
+[Michael Larabel - Phoronix](https://www.phoronix.com/review/framework-laptop-13-pro)
+
+**“With a 74 watt-hour battery inside of it and a rather conservative processor, you’d expect that battery life would be a standout… and it is! The laptop lasted 22 hours and eight minutes.”**
+
+[Mark Hachman - PCWorld](https://www.pcworld.com/article/3199054/framework-laptop-13-pro-review.html)
 
 Intel® Core™ Ultra Series 3 processors
 ----------
@@ -111,6 +127,10 @@ A truly easy-to-repair laptop that’s built to respect your rights. Just scan t
 
 When you're ready for more performance, you can upgrade individual components instead of replacing your entire laptop. Install a new Mainboard for generational processor upgrades, add memory to handle heavier workloads, or expand your storage to increase capacity or enable dual booting. The [Framework Marketplace](https://frame.work/marketplace) makes it easy to find the compatible parts you need.
 
+**“The Framework Laptop 13 Pro is easily the best rendition of this ultra-repairable design yet.”**
+
+[Kyle Barr - Gizmodo](https://gizmodo.com/framework-laptop-13-pro-review-the-best-modular-laptop-ever-made-2000791804)
+
 Runs Linux. **Really well.**
 ----------
 
@@ -120,6 +140,14 @@ We don’t just support Linux; we live in it. Framework Laptop 13 Pro with Intel
 
 [Learn more](/de/en/linux)
 
+**“This feels like one of the most premium laptops for Linux that I have ever used.”**
+
+[Wendell Wilson - Level1Techs](https://www.youtube.com/watch?v=m4x12nhRGdY)
+
+**“The Framework Laptop 13 Pro is designed with great Linux compatibility in mind.”**
+
+[Michael Larabel - Phoronix](https://www.phoronix.com/review/framework-laptop-13-pro)
+
 A sensory upgrade
 ----------
 
@@ -127,13 +155,33 @@ A sensory upgrade
 
 A custom 13.5" 3:2 touchscreen display with sharp 2880×1920 resolution gives you the vertical space you need for coding and productivity. A 30–120Hz variable refresh rate keeps motion smooth while optimizing power, and with up to 700nits of brightness and a matte surface, it stays clear across a wide range of lighting conditions.
 
+**“The panel measured an astounding 709 nits on our light meter, handily surpassing the MacBook Pro's mini LED screen (558 nits) and the OLED panels on the Asus Zenbook Duo (456 nits) and HP OmniBook Ultra 14 (414 nits).”**
+
+[Andrew E. Freedman - Tom’s Hardware](https://www.tomshardware.com/laptops/framework-laptop-13-pro-review)
+
 ### A haptic touchpad that beats your expectations ###
 
 The large 123.7mm × 76.7mm Haptic Touchpad, powered by four piezoelectric actuators, delivers consistent, high-quality clicks across the surface. Feedback and gestures are fully tunable, so you can set it up exactly how you want.
 
+**“Framework also updated its laptop’s touchpad this year with its first haptic motor... It feels just as smooth and responsive as the top flagship laptops I've laid hands on.”**
+
+[Joe Osborne, PCMag](https://www.pcmag.com/reviews/framework-laptop-13-pro)
+
 ### The keyboard you love, now even better ###
 
 With 1.5mm of key travel, the keyboard delivers deeper, more tactile feedback than most modern laptops without increasing noise. A CNC aluminum Input Cover Frame reduces deck flex for a more solid and consistent feel. Available in multiple ANSI and ISO layouts, in black, black with lavender, and black with gray and orange.
+
+**“The keyboard, as mentioned, is pleasantly crunchy and I'm a big fan of the haptic touchpad, which really does feel like it came from a MacBook.”**
+
+[Michael Larabel - Phoronix](https://www.phoronix.com/review/framework-laptop-13-pro)
+
+**“The new, fully backlit keyboard has a 1.5mm key travel, but more than that, the key presses have a pleasant bouncy feel.”**
+
+[Kyle Barr - Gizmodo](https://gizmodo.com/framework-laptop-13-pro-review-the-best-modular-laptop-ever-made-2000791804)
+
+**“The Framework 13 Pro keyboard is better than both my MacBook Pro 16 and my MacBook Air keyboards. I honestly don't want to go back. MacBook keyboards are amazing, but the 13 Pro keyboard has more travel, and that makes it feel much nicer when typing.”**
+
+[@svpino](https://x.com/svpino/status/2053462675527700513)
 
 ### Dolby Atmos® audio ###
 
@@ -159,6 +207,10 @@ Height
 #### 1.4kg ####
 
 Weight
+
+**“This Framework is by far its best-built laptop, feeling more premium and rigid than ever before.”**
+
+[Andrew E. Freedman - Tom’s Hardware](https://www.tomshardware.com/laptops/framework-laptop-13-pro-review)
 
 Open source ecosystems
 ----------
