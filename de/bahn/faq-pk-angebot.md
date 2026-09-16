@@ -15732,15 +15732,6 @@ Zeitkarten sind zum Beispiel Wochen- und Monatskarten. Sie können sie für zahl
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-eine-zeitkarte)
 
- Was ist mein Bahn-Account?
-----------
-
-Alle Informationen zum DB Kundenkonto finden Sie unter:
-
-* [Wissenwertes zum DB Kundenkonto](https://www.bahn.de/info/kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mein-bahn-account)
-
  Was ist der Move-Tarif?
 ----------
 

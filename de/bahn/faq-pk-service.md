@@ -489,21 +489,6 @@ Bei akuten Rückfragen am Reisetag erreichen Sie das Betreuungsteam über die Se
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-am-reisetag)
 
- Was muss ich bei der Änderung meiner Daten beachten, wenn ich ein Abo habe?
-----------
-
-Für die Änderung des Namens, Geschlechts oder Geburtsdatums im DB Kundenkonto prüfen Sie bitte die [Hilfestellungen zur Änderung persönlicher Daten](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/kundenkonto/persoenliche-daten). Die Änderungen werden nur in bestimmten Fällen auch für Ihren Abovertrag übernommen.
-
-Wenn Sie die Änderungen im DB Kundenkonto vorgenommen haben, überprüfen Sie im Aboportal unter "Meine Daten", ob diese übernommen wurden. Falls nicht, übersenden Sie uns Ihren Änderungswunsch über das Kontaktformular mit dem entsprechenden Nachweis.
-
-Bei der Neubestellung eines Abos werden die aktuellen Daten aus dem DB Kundenkonto übernommen.
-
-* [Zum Kontaktformular](https://abo.bahn.de/kontakt/personendaten_aenderung)
-* [Weitere Informationen zur Namensänderung](https://www.bahn.de/hilfe#/abos-dticket/daten-verwalten/namen-aendern)
-* [Für Anliegen zur BahnCard hier klicken](https://www.bahn.de/hilfe?dbkanal_007=headerlinks-hilfe#/bahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderungen-kundenkonto)
-
  Kann ich als bahn.business-Kund:in mit dem Online-Ticket BahnBonus Punkte sammeln?
 ----------
 
@@ -1151,23 +1136,6 @@ Ansonsten sind zusammengelegte/gefaltete und/oder verpackte Fahrräder von der B
 * [Gepäck während der Fahrt richtig verstauen](https://www.bahn.de/service/zug/gepaeck-im-zug)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/besonderheiten-internationale-reisen)
-
- Ich habe nach meiner Bestellung keine Rückmeldung erhalten. Was kann ich tun?
-----------
-
-* Wenn Ihre Online-Bestellung erfolgreich angenommen wurde, erhalten Sie innerhalb weniger Minuten eine Aktivierungsmail mit der Abonummer.
-* Das Handy-Ticket ist nach Erhalt der Aktivierungsmail sofort in der App abrufbar, indem Sie es mit der Abonummer oder per Link hinzufügen.
-
-**Sie haben keine Aktivierungsmail erhalten?**
-
-* Prüfen Sie Ihren Spam-Ordner nach einer E-Mail von [noreply@bahn.de](mailto:noreply@bahn.de)
-* Prüfen Sie das Postfach der E-Mail-Adresse, die Sie im DB Kundenkonto angegeben haben
-* Bei einem Jobticket oder einem ermäßigten Ticket mit Nachweisprüfung erhalten Sie die Aktivierungsmail erst nach der Freigabe.
-* Kann Ihre Bestellung nicht akzeptiert werden, zum Beispiel aufgrund einer Sperre Ihres Kontos, erhalten Sie eine Ablehnungsmail.
-
-Tipp: Melden Sie sich im Aboportal auf abo.bahn.de mit dem gleichen DB Kundenkonto an, das Sie bei der Bestellung genutzt haben. Nun sehen Sie Ihr Abo, sobald es aktiviert wurde.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bestellung-keine-rueckmeldung)
 
  Was passiert, wenn mein Kind während der Fahrt mit dem DB Junior Express ins Bordrestaurant oder auf die Toilette gehen möchte?
 ----------
@@ -2964,25 +2932,6 @@ Wenn der Button "Entschädigung beantragen" bei einer Buchung nicht angezeigt wi
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-bin-mit-wifioniceverbunden-aber-surfen-oder-mailversand-ist-nicht-moeglich-was-kann-ich-tun)
 
- Warum finde ich mein Abo nicht im Aboportal?
-----------
-
-Über “Abo hinzufügen” können Sie ein Abo mit Ihrem Kundenkonto im Aboportal verknüpfen und verwalten, sofern es noch nicht automatisch bei der Bestellung verknüpft wurde.
-
-Erhalten Sie beim Hinzufügen eine Fehlermeldung, prüfen Sie bitte folgendes:
-
-1. **Haben Sie den richtigen Tarif bzw. Verbund ausgewählt?**
-   Ihr Abo kann nur gefunden werden, wenn der richtige Tarif bzw. Verkehrsverbund ausgewählt wurde. Den Verbund bzw. die Verbundabkürzung finden Sie in Ihrer Bestellbestätigung oder als Logo auf Ihrem Ticket.
-2. **Stimmen Ihre Angaben mit den beim Abo hinterlegten Daten überein?**
-   Geben Sie die Abonummer ein, die Sie in Ihrer Aktivierungsmail oder auf Ihrem Ticket finden und achten auf die angezeigten Eingabehinweise.
-   Die Postleitzahl und das Geburtsdatum geben Sie genau so ein, wie sie bei Vertragsabschluss erfasst wurden. In der Regel wurden ihre Daten bei der Bestellung aus Ihrem Kundenkonto übernommen. Haben sich Ihre Daten inzwischen geändert, verwenden Sie bitte die ursprünglich hinterlegten Angaben. Wenn Sie beispielsweise umgezogen sind, ist zunächst die bei der Bestellung angegebene Postleitzahl zu verwenden. Nach der Verknüpfung können Sie Ihre Adresse im Aboportal unter „Meine Daten“ aktualisieren.
-3. **Wurde Ihr Abo bei einem anderen Verkehrsunternehmen abgeschlossen?**
-   Über das Aboportal können nur Abos verwaltet werden, die von der DB Vertrieb GmbH betreut werden. Wenn Ihr Abo von einem anderen Verkehrsunternehmen stammt, kann es hier nicht hinzugefügt werden.
-
-* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-finde-mein-abo-im-aboportal-nicht-wie-kann-das-sein)
-
  Ich habe alle meine Statusvorteile aufgebraucht. Wann bekomme ich neue?
 ----------
 
@@ -3169,18 +3118,6 @@ Der Film kann, nach dem Ausstieg aus dem Zug, nicht zu Ende geschaut werden. Wec
 * Wenn Sie als Startseite eine https-gesicherte Seite nutzen, erscheint die Startseite nicht automatisch, da wir keine sichere Datenverbindung des Fahrgastes unterbrechen. Jedes Endgerät würde eine sogenannte "Man in the Middle"-Manipulation anzeigen. Geben Sie als Adresse "login.WIFIonICE.de" in Ihren Browser ein, damit erreichen Sie jederzeit die Landing Page. Nun sehen Sie, ob Sie noch eingeloggt sind oder sich erneut einloggen können.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-werde-nicht-automatisch-auf-die-log-in-seite-weitergeleitet-was-kann-ich-tun)
-
- Ich will im Aboportal ein weiteres Abo hinzufügen. Wie mache ich das?
-----------
-
-Ein weiteres Abo kann einzeln hinzugefügt werden. Soweit es technisch möglich ist, werden Ihnen automatisch alle bei der DB Vertrieb GmbH gekauften Abos angezeigt, bei denen Sie als Kunde mit eingetragen sind. Sollten Sie dennoch ein Abo vermissen, können Sie es wie folgt hinzufügen:
-
-1. Melden Sie sich im Aboportal an
-2. Gehen Sie auf der Startseite bzw. unter "Meine Abos" auf den Bereich "Abo hinzufügen" und führen Sie den Prozess aus. Sie benötigen für die entsprechende Abonummer, das jeweilige und die passende Postleitzahl zu dem Abo.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-will-im-aboportal-ein-weiteres-abo-hinzufuegen-wie-mache-ich-das)
 
  In welchen Zügen ist Internet über WLAN verfügbar?
 ----------
@@ -6267,15 +6204,6 @@ Mit dem Komfort Check-in der Deutschen Bahn können Sie sich selbst einchecken. 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-kci)
 
- Was ist mein Bahn-Account?
-----------
-
-Alle Informationen zum DB Kundenkonto finden Sie unter:
-
-* [Wissenwertes zum DB Kundenkonto](https://www.bahn.de/info/kundenkonto)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mein-bahn-account)
-
  Was ist mit dem WLAN-Angebot in der 1. Klasse alles möglich?
 ----------
 
@@ -8051,23 +7979,6 @@ Sie können die Rechnung zu Ihrem Ticket bis zu 14 Monate nach Buchungsdatum auf
    Der Wert von 30 Euro müsste jetzt bereits mit dem Ticketpreis verrechnet sein. Überprüfen Sie noch einmal alle Angaben und schließen Sie dann Ihre Buchung ab.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-loese-ich-die-geschenkkarte-auf-bahn-de-ein)
-
- Wie melde ich mich im Aboportal an?
-----------
-
-Auf abo.bahn.de melden Sie sich mit dem Benutzernamen und Passwort Ihres Bahn-Accounts an. Hier können Sie auch einen neuen Bahn-Account anlegen.
-
-Wenn bereits ein Abo verknüpft ist, sehen Sie dieses auf der Übersichtsseite des Aboportals.
-
-Ist noch kein Abo verknüpft oder möchten Sie über "Abo hinzufügen" einen weiteren Abovertrag hinzufügen, gehen Sie folgendermaßen vor:
-
-* Wählen den Tarif Ihres Abos (ein Verbundgebiet oder DB). Diesen finden Sie auch in Ihrer Aktivierungsmail oder auf dem Handy-Ticket.
-* Füllen Sie die Felder aus.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-* [Informationen zur Verwaltung eines Abos für eine andere Person](https://www.bahn.de/faq/abovertrag-fuer-andere-verwalten)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-im-aboportal-an)
 
  Wie melde ich mich mit einem Passkey an?
 ----------

@@ -579,5 +579,10 @@
 	"Not Found",
 	"http://www.netcup.com/api/v2/content/sections/35",
 	"No section found",
+	[
+		"NuxtError"
+	],
+	"[GET] \"/api/v2/content/sections/2786\": 404 Not Found",
+	"http://www.netcup.com/api/v2/content/sections/2786",
 	{}
 ]

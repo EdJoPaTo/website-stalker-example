@@ -223,7 +223,7 @@ Bei offenen Fragen steht unser Support-Team jederzeit zur Verfügung. [Hier geht
 
 ### Weitere Angebote ###
 
-[Root-Server Generation 12](https://www.netcup.com/de/server/root-server)
+[Root-Server](https://www.netcup.com/de/server/root-server)
 
 [Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
 
@@ -231,7 +231,7 @@ Bei offenen Fragen steht unser Support-Team jederzeit zur Verfügung. [Hier geht
 
 [netcup Labs](https://www.netcup.com/de/server/labs)
 
-[VPS (x86) Generation 12](https://www.netcup.com/de/server/vps)
+[VPS (x86)](https://www.netcup.com/de/server/vps)
 
 [vServer Lite](https://www.netcup.com/de/server/vps-lite)
 
@@ -239,7 +239,7 @@ Bei offenen Fragen steht unser Support-Team jederzeit zur Verfügung. [Hier geht
 
 [Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
 
-[VPS (ARM64) Generation 11](https://www.netcup.com/de/server/arm-server)
+[VPS (ARM64)](https://www.netcup.com/de/server/arm-server)
 
 [Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)
 
