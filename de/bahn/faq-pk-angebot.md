@@ -539,15 +539,6 @@ Tickets des Schleswig-Holstein-Tarifs können **90 Tage im Voraus** über [bah
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-buchbar-sh-tarif)
 
- Ab wann ist die digitale BahnCard gültig?
-----------
-
-Die digitale BahnCard ist ab dem gewünschten ersten Geltungstag gültig und nutzbar.
-
-[Weitere Informationen zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-ist-die-digitale-bahncard-gueltig)
-
  Ab wann ist meine DB Monatskarte im Abo gültig?
 ----------
 
@@ -1086,20 +1077,6 @@ Das Angebot "Flexpreis Young" richtet sich speziell an die **junge Zielgruppe zw
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altersangabe-flexpreis-young)
-
- Ich habe ein älteres Smartphone und kann meine digitale BahnCard 25/50 nicht im DB Navigator nutzen. Was kann ich tun?
-----------
-
-Der DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
-
-* Android ab Version 8.0
-* iOS ab Version 15.0.
-
-Nutzen Sie ein älteres Betriebssystem, dann können Sie in Ihrem DB Kundenkonto auf [bahn.de](http://bahn.de/) ein Ersatzdokument als PDF-Dokument mit QR-Code abrufen. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen. Das Ersatzdokument wird in Ihrem DB Kundenkonto zur Verfügung gestellt.
-
-Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/altes-smartphone-digitale-bahncard-nicht-nutzbar)
 
  An welchen Stationen kann ich in Bayern mit dem Regio120-Ticket aussteigen?
 ----------
@@ -4637,19 +4614,6 @@ Bitte denken Sie daran, Ihre digitale BahnCard 100 vor dem Reiseantritt mit Ihre
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-wo)
 
- Die digitale BahnCard 25/50 kann nicht auf mein Smartphone geladen werden.
-----------
-
-Überprüfen Sie die Daten, die Sie auf bahn.de und in den BahnCard Services hinterlegt haben (z.B. persönliche Angaben oder Zahlungsdaten). Falls sich diese unterscheiden, kann die BahnCard in manchen Fällen nicht auf das Smartphone geladen werden.
-
-Wenn Sie noch nicht zu den BahnCard-Services angemeldet sind, fordern Sie einen PIN zur Freischaltung über [bahn.de/bcregister](https://www.bahn.de/buchung/bahncard-register?lang=de) an.
-
-Sollte das Problem dennoch bestehen, setzen Sie sich mit dem [BahnCard Service](https://www.bahn.de/hilfe#/bahncard) in Verbindung.
-
-Weitere Informationen finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-kann-nicht-auf-smartphone-geladen-werden)
-
  Wo finde ich Informationen zum Gemeinschaftstarif DING?
 ----------
 
@@ -6637,9 +6601,7 @@ Erhalten Sie beim Hinzufügen eine Fehlermeldung, prüfen Sie bitte folgendes:
  Ich habe kein Smartphone - kann ich die digitale BahnCard 25/50 trotzdem nutzen?
 ----------
 
-Ja. Sie können in Ihrem DB Kundenkonto auf bahn.de ein Ersatzdokument als PDF-Dokument mit QR-Code abrufen. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen. Das Ersatzdokument wird in Ihrem DB Kundenkonto zur Verfügung gestellt.
-
-Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+Ja. Sie finden das Ersatzdokument als pdf-Dokument in Ihrem DB Kundenkonto. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen.
 
 [Alles zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
@@ -6729,7 +6691,7 @@ Digitale Tickets, die auf bahn.de oder der App DB Navigator gebucht wurden, kön
 
 Der Kauf einer BahnCard 25/50 ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, z. B. Informationen zur Nutzung Ihrer digitalen BahnCard 25/50 oder die Buchungsbestätigung nach Kauf der BahnCard 25/50. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
 
-Falls Sie Ihre BahnCard 25/50 vor Juni 2023 gekauft haben und noch kein DB Kundenkonto auf bahn.de besitzen, müssen Sie zur Nutzung der digitalen BahnCard 25/50 ein DB Kundenkonto anlegen. Loggen Sie sich dann mit Ihrem DB Kundenkonto in der App DB Navigator ein. Ihre digitale BahnCard 25/50 laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren". Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard 25/50 benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+Falls Sie Ihre BahnCard 25/50 vor Juni 2023 gekauft haben und noch kein DB Kundenkonto auf bahn.de besitzen, müssen Sie zur Nutzung der digitalen BahnCard 25/50 ein DB Kundenkonto anlegen. Loggen Sie sich dann mit Ihrem DB Kundenkonto in der App DB Navigator ein. Ihre digitale BahnCard 25/50 laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-keine-e-mail-adresse-kann-ich-die-digitale-bahncard-trotzdem-nutzen)
 
@@ -13170,15 +13132,6 @@ Ihr Ticket hat im Fernverkehr eine Gültigkeit von 5 Tagen. 1 Tag vor und bis 3 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umbuchung-bundeswehr-dienstantrittsreisen)
 
- Ich tue mich mit der Umstellung auf die digitale BahnCard 25/50 sehr schwer. Wohin kann ich mich wenden ?
-----------
-
-Unsere Mitarbeitenden in den DB Reisezentren sowie im BahnCard Service helfen Ihnen gerne, die digitale BahnCard 25/50 in der App DB Navigator oder auf bahn.de zu nutzen. Bei Bedarf helfen sie Ihnen auch beim Ausdrucken des Ersatzdokuments als Alternative zur digitalen BahnCard 25/50.
-
-[Weitere Informationen zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/umstellung-digitale-bahncard)
-
  Kann ich mein Verbundticket umtauschen oder stornieren?
 ----------
 
@@ -17873,15 +17826,6 @@ Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsaus
 [Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-super-sparpreis-senioren-buchen)
-
- Wie kann ich die auf bahn.de gekaufte digitale BahnCard in der App DB Navigator speichern?
-----------
-
-Sofern Sie ihre BahnCard im eingeloggten Zustand über Ihr DB Kundenkonto gekauft haben, wird die BahnCard in Ihrem Profil im DB Navigator unter „BahnCard“ angezeigt
-
-[Weitere Informationen zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-auf-bahnde-gekaufte-digitale-bc-in-der-app-speichern)
 
  Wie kann ich die BahnCard 100 bezahlen?
 ----------
