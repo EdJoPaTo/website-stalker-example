@@ -18,6 +18,18 @@ Not all Shelly devices receive the same firmware updates. See [Firmware Update P
 Unreleased
 ----------
 
+**Available as `2.0.1-beta3`**
+
+### Fixed ###
+
+* [Cury](/gen2/Devices/PoweredByShelly/ShellyCury): Add periodic telemetry to backend
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Bound concurrent HTTP server connections
+* [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Expose lux values in [Matter](/gen2/ComponentsAndServices/Matter)
+* [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Fix light sensor state instability
+* [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Improve overheating protection
+* [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Introduce radar configuration presets
+* [Pro CB](/gen2/Devices/Gen2/ShellyProCB): Prevent unexpected auto reclosure
+
 **Available as `2.0.1-beta2`**
 
 ### Fixed ###

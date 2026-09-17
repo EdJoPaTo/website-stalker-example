@@ -113,13 +113,6 @@ bereits ab monatlich
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-8000-g12-ip-12m#rs-8000-g12-ip-12m-nue)
 
-Neuigkeit unlocked: Erweiterte Netzwerk-Konfiguration für Root Server
-----------
-
-Ab sofort kannst du bei **neuen Root Server Bestellungen ab G12** selbst bestimmen, welche öffentliche Netzwerkanbindung du benötigst: IPv4+IPv6, nur IPv6 oder ausschließlich Cloud vLAN. Mehr Flexibilität, mehr Kontrolle – passend für jedes Setup.
-
-[Mehr erfahren\>](https://www.netcup.com/de/blog/root-server/erweiterte-netzwerk-konfiguration)
-
 Root Server auf KVM-Basis
 ----------
 
