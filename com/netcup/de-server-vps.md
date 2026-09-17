@@ -3,8 +3,6 @@ Virtuelle Server (VPS)
 ==========
 
 * Viel Compute-Power zum besten Preis
-* Stundenbasierte Abrechnung möglich
-* Keine Mindestvertragslaufzeit wählbar
 * Erweiterbar mit zusätzlichem Storage
 * Vorkonfigurierte vServer Images
 * DDoS-Schutz

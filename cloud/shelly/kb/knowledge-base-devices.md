@@ -233,6 +233,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Pro Sensor Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-sensor-add-on)
 * [Shelly Pro LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-lora-add-on)
 * [Shelly Pro Modbus Add-on](https://kb.shelly.cloud/knowledge-base/shelly-pro-modbus-add-on)
+* [Modbus RS485 Add-on for The Pill by Shelly](https://kb.shelly.cloud/knowledge-base/modbus-rs485-add-on-for-the-pill-by-shelly)
 
 [By Shelly](https://kb.shelly.cloud/knowledge-base/by-shelly)
 * [Cury](https://kb.shelly.cloud/knowledge-base/cury)

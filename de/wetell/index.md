@@ -322,7 +322,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 
 [Jetzt bestellen](https://www.wetell.de/shop/privat/ueberschall)
 
-Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: -5 € bis +5 € / Monat
+Jeweils zzgl. 10 € einmalige Bereitstellungsgebühr& ggf. FAIRstärker Option: -5 € bis +5 € / Monat& ggf. FAIRstärker Option: -5 € bis +5 € / Monat& ggf. FAIRstärker Option: -5 € bis +5 € / Monat& ggf. FAIRstärker Option: -5 € bis +5 € / Monat& ggf. FAIRstärker Option: -5 € bis +5 € / Monat
 
 Wir leben unsere Werte - Jeden Tag.
 ----------
