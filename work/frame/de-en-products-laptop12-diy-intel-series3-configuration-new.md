@@ -278,7 +278,7 @@ Quick select
 
  \+€45
 
- WisdPi 10G Ethernet
+ WisdPi 10G Ethernet - WisdPi 10G Ethernet
 
 [Details](/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1439&helpable_type=variant)
 
