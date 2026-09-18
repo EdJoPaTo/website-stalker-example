@@ -33,21 +33,6 @@ ab 5,50 Euro
 Wie kann ich einen Sitzplatz im Nahverkehr reservieren?
 ----------
 
-### Dauerreservierung im Nahverkehr ###
-
-• Preis: 40 Euro im Jahr, im Süwex kostenfrei
-• Bequem pendeln mit einem festen Sitzplatz
-
-[Weitere Informationen](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-db-regio)
-
-[Einloggen & buchen](https://www.mein-sitzplatz-regio.de/#/login)
-
-### Einzelreservierung im Nahverkehr ###
-
-Reservieren Sie Ihren Sitzplatz für ausgewählte Verbindungen in Regionalzügen.
-
-[Zu den Reservierungsmöglichkeiten](https://regional.bahn.de/service/sitzplatzreservierung-in-regionalzuegen)
-
 Häufig gestellte Fragen zur Sitzplatzreservierung
 ----------
 
