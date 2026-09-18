@@ -1,12 +1,12 @@
 [
 	"/deals",
-	"2026-07-17T06:12:27.272Z",
+	"2026-09-18T17:53:58.190Z",
 	"de",
 	"normal",
 	"2024-09-19T11:27:09.462Z",
 	"strapi",
 	"2024-09-11T08:16:24.287Z",
-	"2026-07-17T06:12:27.212Z",
+	"2026-09-18T17:53:58.240Z",
 	"en",
 	"2024-09-19T11:33:08.213Z",
 	"netcup Deals | Günstige Server, Webhosting und Domains",
@@ -582,7 +582,7 @@
 	[
 		"NuxtError"
 	],
-	"[GET] \"/api/v2/content/sections/2786\": 404 Not Found",
-	"http://www.netcup.com/api/v2/content/sections/2786",
+	"[GET] \"/api/v2/content/sections/2828\": 404 Not Found",
+	"http://www.netcup.com/api/v2/content/sections/2828",
 	{}
 ]
