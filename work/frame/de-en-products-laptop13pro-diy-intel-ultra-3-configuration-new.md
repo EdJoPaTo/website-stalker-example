@@ -130,7 +130,6 @@ Operating System
 Bezel
 
 * Bezel, Black
-* Bezel, Green
 * Bezel, Red
 * Bezel, Translucent
 * Bezel, Orange +€10
@@ -262,7 +261,7 @@ Quick select
 
  \+€45
 
- WisdPi 10G Ethernet
+ WisdPi 10G Ethernet - WisdPi 10G Ethernet
 
 [Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=1439&helpable_type=variant)
 

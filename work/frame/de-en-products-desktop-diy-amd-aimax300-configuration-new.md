@@ -314,7 +314,7 @@ Quick select
 
  \+€45
 
- WisdPi 10G Ethernet
+ WisdPi 10G Ethernet - WisdPi 10G Ethernet
 
 [Details](/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=1439&helpable_type=variant)
 

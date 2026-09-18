@@ -60,7 +60,7 @@ Windows 11
 250nit brightness, 30% volume,
 Windows 11
 
-Live demo coming soon
+[Watch the live demo](https://www.youtube.com/watch?v=_Us6EeUP0_Q)
 
 #### 7 days ####
 

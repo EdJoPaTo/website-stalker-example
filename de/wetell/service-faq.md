@@ -323,9 +323,7 @@ Solange dein Smartphone es zulässt, kannst du auch mit uns deine Visual Voicema
 
 #### Wie kann ich eine Anrufumleitung einstellen? ####
 
-Anrufumleitungen lassen sich durch [festgelegte Tastenkombinationen](https://www.vodafone.de/hilfe/mobiles-telefonieren/telefonieren.html#wie-schalte-ich-eine-rufumleitung-am-handy-ein-und-aus) einrichten.
-
-Wenn du den Ultrakurz-Tarif 2GB nutzt, belastet jede angefangene Minute, in der ein Gespräch umgeleitet wird, deine 100 Freiminuten. Sind diese verbraucht, kostet die Umleitung pro Minute 0,19 €.
+Anrufumleitungen lassen sich durch [festgelegte Tastenkombinationen](hhttps://www.chip.de/ratgeber/handy/vodafone-rufumleitung-einrichten-so-geht-s_5f84efa1-c031-4ddf-8d86-1cb26d66cdc1.html) einrichten.
 
 #### Ich möchte meine Daten ändern, wie kann ich das tun? ####
 
