@@ -410,19 +410,6 @@ Stick: Direkteinstickung
 *
 *
 
- Hallo Nürnberg!
-
-###  Messe  ###
-
----
-
- 15.09. - 18.09.2026 | Nürnberg
----
-
- Halle 4A, Stand 117
-
-[mehr Informationen](https://www.galabau-messe.com/)
-
 [Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/)
 
  Von Workwear
