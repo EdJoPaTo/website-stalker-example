@@ -3148,7 +3148,7 @@ Sie bekommen die meisten bodo-Angebote als Handy-Ticket in der App DB Navigator 
  Brauche ich die BahnCard Nummer, um BahnBonus Punkte zu sammeln?
 ----------
 
-Nein, Sie sammeln mit Ihrer BahnBonus Nummer. Diese finden Sie in Ihrem DB Kundenkonto, Bereich "BahnBonus".
+Nein, Sie sammeln mit Ihrer BahnBonus Nummer. Diese finden Sie in Ihrem DB Kundenkonto, Bereich „BahnBonus".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/brauche-ich-bahncard-nummer-um-bahnbonus-punkte-zu-sammeln)
 
@@ -4540,15 +4540,6 @@ Stellen Sie bitte sicher, dass Ihre digitale BahnCard 100 vor Reiseantritt mit I
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-mehrere-geraete)
 
- Ich finde meine neue digitale BahnCard 100 nicht in der App DB Navigator. Was muss ich tun?
-----------
-
-Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der BahnCard 100 eine Nachricht mit dem Betreff "Wichtige Informationen zu Ihrer digitalen BahnCard" erhalten. Dort ist ein Link zur Aktivierung Ihrer BahnCard 100 enthalten.
-
-Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard 100 in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „Zeitkarten & Abos".
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-navigator)
-
  Kann ich die digitale BahnCard 100 sofort in der App DB Navigator nutzen?
 ----------
 
@@ -4613,6 +4604,15 @@ Sollten Sie Ihre BahnCard 100 nicht direkt sehen, wischen Sie einfach im Bereich
 Bitte denken Sie daran, Ihre digitale BahnCard 100 vor dem Reiseantritt mit Ihrem Smartphone zu verknüpfen. Gehen Sie genauso für das zusätzliche Deutschland-Ticket vor.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-wo)
+
+ Ich finde meine neue digitale BahnCard nicht in der App DB Navigator. Was muss ich tun?
+----------
+
+Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der BahnCard eine Nachricht mit dem Betreff „Wichtige Informationen zu Ihrer digitalen BahnCard" erhalten. Dort ist ein Link zur Aktivierung Ihrer BahnCard enthalten.
+
+Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „Zeitkarten & Abos".
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-navigator)
 
  Wo finde ich Informationen zum Gemeinschaftstarif DING?
 ----------
@@ -6689,9 +6689,7 @@ Digitale Tickets, die auf bahn.de oder der App DB Navigator gebucht wurden, kön
  Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard 25/50 trotzdem nutzen?
 ----------
 
-Der Kauf einer BahnCard 25/50 ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, z. B. Informationen zur Nutzung Ihrer digitalen BahnCard 25/50 oder die Buchungsbestätigung nach Kauf der BahnCard 25/50. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
-
-Falls Sie Ihre BahnCard 25/50 vor Juni 2023 gekauft haben und noch kein DB Kundenkonto auf bahn.de besitzen, müssen Sie zur Nutzung der digitalen BahnCard 25/50 ein DB Kundenkonto anlegen. Loggen Sie sich dann mit Ihrem DB Kundenkonto in der App DB Navigator ein. Ihre digitale BahnCard 25/50 laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren".
+Der Kauf einer BahnCard 25/50 ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, zum Beispiel Informationen zur Nutzung Ihrer digitalen BahnCard 25/50 oder die Buchungsbestätigung nach Kauf der BahnCard 25/50. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-keine-e-mail-adresse-kann-ich-die-digitale-bahncard-trotzdem-nutzen)
 
@@ -9773,6 +9771,8 @@ Bei Monats- und Jahreskarten im Abo ist eine Zahlung nur per Lastschrift möglic
 Suchen Sie sich über die Reiseauskunft Ihre passende Verbindung aus. Anschließend werden alle verfügbaren Angebote angezeigt. Wählen Sie oben rechts den Button „Zeitkarten“ aus.
 
 Die Mehrfahrten-Tickets des Fernverkehrs sind über [mehrfahrten-ticket-bahn.de](https://www.mehrfahrten-ticket-bahn.de/) erhältlich.
+
+* [Bestellschein Deutschlandtarif Jahreskarte/Monatskarte im Abo (PDF, 354 KB)](https://assets.static-bahn.de/dam/jcr:64fa9176-a129-4101-8f6b-3c4ce03053d8/Bestellschein_DB_Standard_DT_ab_1.1.25.2025-01-10-14-15-32.pdf)
 
 [Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
 
@@ -19744,6 +19744,13 @@ Ihre Abonummer können Sie folgendermaßen finden:
 * [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-abonummer)
+
+ Wo finde ich meine digitale BahnCard 25/50 im DB Navigator?
+----------
+
+Sie finden Ihre digitale BahnCard 25 und 50 im eingeloggten Zustand in der App DB Navigator im Menübereich „Reisen" unter „BahnCards, Zeitkarten & Abos". Sollten Sie Ihre BahnCard 25 und 50 nicht direkt sehen, wischen Sie einfach im Bereich „BahnCards, Zeitkarten & Abos" von rechts nach links bis Sie zu Ihrer gewünschten BahnCard gelangen. Indem Sie diese antippen, können Sie den QR-Code der digitalen BahnCard im DB Navigator jederzeit aufrufen. Diesen benötigen Sie bei der Ticketkontrolle.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-digitale-bahncard-25-50-im-navigator)
 
  Wo finde ich meinen reservierten Sitzplatz im Nahverkehr?
 ----------

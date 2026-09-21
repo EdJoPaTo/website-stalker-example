@@ -39,25 +39,6 @@ Anerkannt werden:
 * Quer-durchs-Land-Tickets
 * Ländertickets Sachsen, Sachsen-Anhalt und Thüringen
 
-###  Dillenburg – Iserlohn-Letmathe – Dortmund Hbf  ###
-
-#### Dillenburg – Iserlohn-Letmathe – Dortmund Hbf ####
-
-Sie können mit einem Nahverkehrs-Ticket alle Intercity-Züge nutzen, die auf der Strecke Dortmund – Witten – Iserlohn-Letmathe – Altena (Westf) – Werdohl – Plettenberg – Finnentrop – Lennestadt-Grevenbrück – Lennestadt-Altenhundem – Kreuztal – Siegen-Weidenau – Siegen Hbf - Dillenburg (Hessen) **an allen genannten Bahnhöfen halten.**. Das sind die folgenden Intercity-Züge:
-IC 2223, 2225, 2229, 2323, 2325, 2327
-IC 2222, 2224, 2226, 2320, 2324, 2326.
-
-**Regionale Zusatztickets zum Deutschland-Ticket (z.B. für die Mitnahme von weiteren Personen, Fahrrädern oder der 1. Klasse-Beförderung) werden nicht anerkannt.**
-
-Anerkannt werden:
-
-* Deutschland-Ticket
-* Fahrkarten des Westfalen-Tarifs
-* Fahrkarten des NRW-Tarifs
-* Quer-durchs-Land-Tickets
-* SchönerTagTicket NRW (ab 01.01.2026 24hTicket NRW)
-* Tickets gemäß Beförderungsbedingungen der Deutschen Bahn bzw. DTV-Tickets (seit 1. Januar 2022)
-
 ###  Bremen - Emden Außenhafen/Norddeich Mole  ###
 
 #### Bremen - Emden Außenhafen/Norddeich Mole ####
@@ -98,23 +79,27 @@ Diese Tickets werden nicht anerkannt:
 
 *
 
-###  Erfurt - Weimar - Jena – Gera  ###
+###  Rostock – Schwerin – Hamburg  ###
 
-#### Erfurt - Weimar - Jena – Gera ####
+#### Details zur Strecke Rostock – Schwerin – Hamburg ####
 
-Sie können alle IC-Züge auf der Strecke Erfurt – Weimar – Jena - Gera mit einem Nahverkehrs-Ticket nutzen.
+Sie können mit bestimmten Tickets im Deutschlandtarif auf der Strecke Rostock Hauptbahnhof – Schwerin Hauptbahnhof – Hamburg Hauptbahnhof folgende ICE nutzen: **ICE 1521/1520**
 
-**Regionale Zusatztickets zum Deutschland-Ticket (z.B. für die Mitnahme von weiteren Personen, Fahrrädern oderfür die 1. Klasse) werden nicht anerkannt.**
+Folgende Tickets des Deutschlandtarifs werden anerkannt:
 
-Auf der obigen Strecke werden Verbund-Tickets des VMT im Rahmen ihres örtlichen Geltungsbereiches anerkannt.
+* Deutschland-Ticket
+* Normalpreis-Fahrkarten
+* Gruppe & Spar-Fahrkarten
+* Zeitkarten
+* AzubiTicket M-V
 
-Anerkennung von:
+**Regionale Zusatztickets zum Deutschland-Ticket (z. B. für die Mitnahme von weiteren Personen, Fahrrädern oder der für die 1. Klasse) werden nicht anerkannt.**
 
-* Deutschland-Tickets
+Diese Tickets werden nicht anerkannt:
+
 * Quer-durchs-Land-Tickets
-* Ländertickets Thüringen, Sachsen-Anhalt und Sachsen
-
-ICE- und IC-Wochen-, Monats- und Jahreskarten gelten auf dieser Strecke nur in Fernverkehrszügen.
+* Schleswig-Holstein-Tickets
+* Mecklenburg-Vorpommern-Tickets
 
 ###  Stuttgart - Singen (Htw) – Konstanz (Gäubahn)  ###
 

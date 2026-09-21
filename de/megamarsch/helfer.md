@@ -3,10 +3,6 @@ CHALLENGE IHRES LEBENS! ####
 
 [JETZT ANMELDEN!](https://www.megamarsch.de/helfer#helferwerden)
 
-Du möchtest einen Blick hinter die Kulissen werfen und unsere Teilnehmer, Deine Freunde oder Deinen Partner bei der Challenge ihres Lebens unterstützen? Dann werde durch deine Hilfe
-bei einem unserer Events zum Megamarsch Buddy und unterstütze uns am Start, am Ziel oder
-an einer Verpflegungsstation. Als Dankeschön erhältst Du nicht nur ein Buddy-T-Shirt oder eine Buddy-Mütze, sondern auch ein Freiticket für einen Megamarsch Deiner Wahl (außer Sylt). (Einlösung nur für ein Ticket im Wert von bis zu 69,95 € möglich). Du möchtest selber nicht teilnehmen? Kein Problem! Du kannst Dein Freiticket gerne weitergeben oder verkaufen.
-
 ### WAS WIR DIR BIETEN ###
 
 * Werde durch Deine Hilfe zum Megamarsch Buddy

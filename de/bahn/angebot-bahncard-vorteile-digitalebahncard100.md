@@ -135,13 +135,13 @@ In diesem Fall wenden Sie sich bitte an den [BahnCard Service](https://www.bahn.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-kein-smartphone)
 
-###  Ich finde meine neue digitale BahnCard 100 nicht in der App DB Navigator. Was muss ich tun?  ###
+###  Ich finde meine neue digitale BahnCard nicht in der App DB Navigator. Was muss ich tun?  ###
 
-Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der BahnCard 100 eine Nachricht mit dem Betreff "Wichtige Informationen zu Ihrer digitalen BahnCard" erhalten. Dort ist ein Link zur Aktivierung Ihrer BahnCard 100 enthalten.
+Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der BahnCard eine Nachricht mit dem Betreff „Wichtige Informationen zu Ihrer digitalen BahnCard" erhalten. Dort ist ein Link zur Aktivierung Ihrer BahnCard enthalten.
 
-Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard 100 in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „Zeitkarten & Abos".
+Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „Zeitkarten & Abos".
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-navigator)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-navigator)
 
 ###  Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard 100 trotzdem nutzen?  ###
 
@@ -168,7 +168,7 @@ Nein, leider ist der Komfort Check-in mit einer BahnCard 100 derzeit nicht mögl
 
 ###  Brauche ich die BahnCard Nummer, um BahnBonus Punkte zu sammeln?  ###
 
-Nein, Sie sammeln mit Ihrer BahnBonus Nummer. Diese finden Sie in Ihrem DB Kundenkonto, Bereich "BahnBonus".
+Nein, Sie sammeln mit Ihrer BahnBonus Nummer. Diese finden Sie in Ihrem DB Kundenkonto, Bereich „BahnBonus".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/brauche-ich-bahncard-nummer-um-bahnbonus-punkte-zu-sammeln)
 
