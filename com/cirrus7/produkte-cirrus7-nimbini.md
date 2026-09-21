@@ -120,9 +120,9 @@ cirrus nimbini v4 - Pro Edition
   * PCIe 3.0 x4
   * PCIe 4.0 x4
 
-  * Patriot P300 128GBPatriot P300 256GB (79,00 €)Patriot P300 512GB (109,00 €)
+  * Patriot P300 128GB (49,00 €)Patriot P300 256GB (89,00 €)Patriot P300 512GB (119,00 €)
 
-  * Samsung SSD 990 Pro 1TB (269,00 €)Samsung SSD 990 Pro 2TB (399,00 €)Samsung SSD 990 Pro 4TB (699,00 €)
+  * Samsung SSD 990 Pro 1TB (269,00 €)Samsung SSD 990 Pro 2TB (419,00 €)Samsung SSD 990 Pro 4TB (749,00 €)
 
   ##### SSD #####
 
@@ -130,7 +130,7 @@ cirrus nimbini v4 - Pro Edition
 
   SATA Slot 1
 
-  * KeineCrucial BX500 240GB (99,00 €)Crucial BX500 500GB (149,00 €)Crucial BX500 1TB (199,00 €)Crucial BX500 2TB (299,00 €)Crucial BX500 4TB (599,00 €)
+  * KeineCrucial BX500 240GB (99,00 €)Crucial BX500 500GB (159,00 €)Crucial BX500 1TB (219,00 €)Crucial BX500 2TB (319,00 €)Crucial BX500 4TB (699,00 €)
 
   ##### VESA Wand- und Bildschirmhalterung #####
 
