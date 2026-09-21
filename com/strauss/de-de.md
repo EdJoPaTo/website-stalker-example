@@ -67,6 +67,28 @@ Profi-Arbeitskleidung vom Experten
 
 [Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
 
+ e.s. Adventskalender Edition 8
+---
+
+ Hinter jeder Tür ein Tool
+----------
+
+---
+
+24 Türchen voller Werkzeug und Zubehör, das jedes Handwerkerherz höherschlagen lässt. Verpackt in 2 superkompakten Toolboxen – so hält die Freude das ganze Jahr über!
+
+[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
+
+[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
+
+ NEU
+---
+
+ NEU
+---
+
  % Angebote des Monats %
 ---
 
