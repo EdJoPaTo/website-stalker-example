@@ -10,7 +10,7 @@ Preisoptimierte vServer Tarife
 
 Unsere vServer Lite Tarife sind **dauerhaft preisoptimiert** und bieten ein **besonders attraktives Preis-Leistungs-Verhältnis** – ohne Abstriche in Stabilität und Zuverlässigkeit. Ideal für Anwendungen mit moderatem Traffic und preisbewusste Workloads.
 
-VPS Lite 1 G12s
+VPS Lite 1 G12.5s
 
 * 2 vCore (x86)
 
@@ -28,13 +28,13 @@ VPS Lite 1 G12s
 
 monatlich nur
 
-4,88 €
+5,86 €
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-1-g12s-6m)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-1-g12.5s-6m)
 
-VPS Lite 2 G12s
+VPS Lite 2 G12.5s
 
 * 4 vCore (x86)
 
@@ -52,13 +52,13 @@ VPS Lite 2 G12s
 
 monatlich nur
 
-7,92 €
+9,50 €
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-2-g12s-3m)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-2-g12.5s-3m)
 
-VPS Lite 3 G12s
+VPS Lite 3 G12.5s
 
 * 8 vCore (x86)
 
@@ -76,13 +76,13 @@ VPS Lite 3 G12s
 
 monatlich nur
 
-13,89 €
+16,66 €
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-3-g12s-2m)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-3-g12.5s-2m)
 
-VPS Lite 4 G12s
+VPS Lite 4 G12.5s
 
 * 16 vCore (x86)
 
@@ -100,11 +100,11 @@ VPS Lite 4 G12s
 
 monatlich nur
 
-25,72 €
+30,86 €
 
 (inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-4-g12s-1m)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-4-g12.5s-1m)
 
 Bleibe auf dem Laufenden
 ----------

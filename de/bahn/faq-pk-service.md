@@ -2111,8 +2111,6 @@ Grundsätzlich ist die Mitnahme von Fahrrädern in Baden-Württemberg außerhalb
 
 Soweit die kostenlose Mitnahme nicht gilt, wird im bwtarif das Ticket bwFAHRRAD angeboten. Es ermöglicht in Verbindung mit einem bwtarif-Fahrschein die Mitnahme eines Fahrrads in den Zügen des Nahverkehrs sowie in Regiobussen.
 
-Eine Übersicht der Strecken, auf denen ein zusätzliches Fahrradticket nötig ist, finden Sie auf [bwtarif.info](https://www.bwtarif.info/).
-
 [Weitere Informationen zum bwFahrrad-Ticket](https://www.bahn.de/angebot/zusatzticket/fahrrad/bw)
 
 [Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/BWTRADL00001O201)

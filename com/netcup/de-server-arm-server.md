@@ -9,159 +9,156 @@ vServer (ARM64)
 * Energieeffizienz und Kostenoptimierung mit ARM Architektur
 * ARM64-Optionen für flexible Hosting-Lösungen
 
-Unsere VPS ARM sind aktuell ausverkauft. Du benötigst trotzdem sofort Rechenleistung? Entdecke unsere VPS x86 als leistungsstarke Alternative!
-
-[Zu den VPS x86 Tarifen\>](https://www.netcup.com/de/server/vps)
-
 **ARM-Server**
 ----------
 
 Mit **ARMv8** und **Aarch64-Unterstützung** bieten unsere ARM-Server eine breite Kompatibilität für verschiedene Softwareanforderungen (wie Webanwendungen, Datenbanken, Content-Management-Systeme uvm.). Wenn du auf der Suche nach einer **kosteneffizienten und leistungsstarken Hosting-Lösung** bist, sind unsere [Server](https://www.netcup.com/de/server) die ideale Wahl.
 
-VPS 1000 ARM G11
+1M1 Monat12M12 Monate−13%24M24 Monate−26%
 
-* 6 vCore (ARM64)
+ 30 Tage Geld-Zurück-Garantie
 
-* 8 GB RAM
+### VPS 500 ARM G12.5 ###
 
-* 256 GB NVMe
+* 2 vCore
 
-* Traffic inklusive
+  (ARM64)
 
-* Konsole zur Fernwartung
+* 4 GB
 
-* Backupsystem uvm...
+  RAM
 
- Details \>
+* 64 GB
 
-bereits ab monatlich
-
-7,77 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-1000-arm-g11-mnz#vps-1000-arm-g11-nue)
-
-VPS 2000 ARM G11
-
-* 10 vCore (ARM64)
-
-* 16 GB RAM
-
-* 512 GB NVMe
+  NVMe
 
 * Traffic inklusive
 
-* Konsole zur Fernwartung
+* Konsole, Backupsystem uvm.
 
-* Backupsystem uvm...
+Alle Details ansehen
 
- Details \>
+12 Monate Vertragslaufzeit, ab monatlich
 
-bereits ab monatlich
+8,26 €
 
-13,41 €
+9,50 €(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-500-arm-g12.5-24m-eu#vps-500-arm-g12.5-12m-eu)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-2000-arm-g11-mnz#vps-2000-arm-g11-nue)
+### VPS 1000 ARM G12.5 ###
 
-VPS 3000 ARM G11
+* 4 vCore
 
-* 12 vCore (ARM64)
+  (ARM64)
 
-* 24 GB RAM
+* 8 GB
 
-* 768 GB NVMe
+  RAM
 
-* Traffic inklusive
+* 128 GB
 
-* Konsole zur Fernwartung
-
-* Backupsystem uvm...
-
- Details \>
-
-bereits ab monatlich
-
-18,96 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-3000-arm-g11-mnz#vps-3000-arm-g11-nue)
-
-VPS 4000 ARM G11
-
-* 14 vCore (ARM64)
-
-* 32 GB RAM
-
-* 1024 GB NVMe
+  NVMe
 
 * Traffic inklusive
 
-* Konsole zur Fernwartung
+* Konsole, Backupsystem uvm.
 
-* Backupsystem uvm...
+Alle Details ansehen
 
- Details \>
+12 Monate Vertragslaufzeit, ab monatlich
 
-bereits ab monatlich
+14,50 €
 
-25,06 €
+16,68 €(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-1000-arm-g12.5-24m-eu#vps-1000-arm-g12.5-12m-eu)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-4000-arm-g11-mnz#vps-4000-arm-g11-nue)
+### VPS 2000 ARM G12.5 ###
 
-VPS 6000 ARM G11
+* 8 vCore
 
-* 16 vCore (ARM64)
+  (ARM64)
 
-* 48 GB RAM
+* 16 GB
 
-* 1536 GB NVMe
+  RAM
 
-* Traffic inklusive
+* 256 GB
 
-* Konsole zur Fernwartung
-
-*
-* Backupsystem uvm...
-
- Details \>
-
-bereits ab monatlich
-
-32,21 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-6000-arm-g11-mnz#vps-6000-arm-g11-nue)
-
-VPS 8000 ARM G11
-
-* 18 vCore (ARM64)
-
-* 64 GB RAM
-
-* 2048 GB NVMe
+  NVMe
 
 * Traffic inklusive
 
-* Konsole zur Fernwartung
+* Konsole, Backupsystem uvm.
 
-* Backupsystem uvm...
+Alle Details ansehen
 
- Details \>
+12 Monate Vertragslaufzeit, ab monatlich
 
-bereits ab monatlich
+26,92 €
 
-39,98 €
+30,96 €(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-2000-arm-g12.5-24m-eu#vps-2000-arm-g12.5-12m-eu)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-8000-arm-g11-mnz#vps-8000-arm-g11-nue)
+### VPS 4000 ARM G12.5 ###
+
+* 12 vCore
+
+  (ARM64)
+
+* 32 GB
+
+  RAM
+
+* 512 GB
+
+  NVMe
+
+* Traffic inklusive
+
+* Konsole, Backupsystem uvm.
+
+Alle Details ansehen
+
+12 Monate Vertragslaufzeit, ab monatlich
+
+45,36 €
+
+52,17 €(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-4000-arm-g12.5-24m-eu#vps-4000-arm-g12.5-12m-eu)
+
+### VPS 8000 ARM G12.5 ###
+
+* 16 vCore
+
+  (ARM64)
+
+* 64 GB
+
+  RAM
+
+* 1 TB
+
+  NVMe
+
+* Traffic inklusive
+
+* Konsole, Backupsystem uvm.
+
+Alle Details ansehen
+
+12 Monate Vertragslaufzeit, ab monatlich
+
+67,11 €
+
+77,16 €(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/arm-server/vps-8000-arm-g12.5-24m-eu#vps-8000-arm-g12.5-12m-eu)
+
+Alle Features vergleichen
 
 Hier geht es zu den [ARM-Server FAQs](https://www.netcup.com/de/server/arm-server#FAQs)
 

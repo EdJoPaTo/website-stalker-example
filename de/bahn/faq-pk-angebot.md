@@ -5287,9 +5287,14 @@ Telefon: 030 46690493
 FAQ/Hilfebereich: <https://help.ridedott.com/de>
 
 Voi:
-E-Mail: support@voiapp.io
+E-Mail: [support@voiapp.io](mailto:support@voiapp.io)
 Telefon: 0800 0002709
-FAQ/Hilfebereich: https://www.voi.com/de/hilfe
+FAQ/Hilfebereich: <https://www.voi.com/de/hilfe>
+
+Bolt:
+E-Mail: [germany@bolt.eu](mailto:germany@bolt.eu)
+Telefon: +4930568373989
+FAQ/Hilfebereich: <https://bolt.eu/de-de/support/sections/360001770654/>
 
 * [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
 
@@ -15305,7 +15310,7 @@ Handy-Tickets sind personalisierte Tickets, enthalten also auch den Namen des Ku
  Warum sind nicht alle Fahrräder und Scooter, die im Bereich "Umgebung" angezeigt werden, direkt in der App DB Navigator buchbar?
 ----------
 
-Aktuell sind nur Fahrräder und Scooter des Sharing-Anbieters Dott direkt in der App DB Navigatior buchbar. Wir bauen unser Angebot jedoch stetig weiter aus.
+Aktuell sind nur Fahrzeuge der Sharing-Anbieter Dott und Call a Bike direkt in der App DB Navigator buchbar. Wir bauen unser Angebot jedoch stetig weiter aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-weiterleitung-sharing-anbieter)
 
@@ -17547,9 +17552,9 @@ Trotz der konkreten Verbindungseingabe ist das Ticket für beliebig viele Fahrte
  Wie buche ich Fahrräder und Scooter in der App DB Navigator?
 ----------
 
-Um Fahrräder oder Scooter in der App DB Navigator zu buchen, tippen Sie auf den Menübereich "Umgebung" und wählen Sie anschließend den Modus "Fahrrad" oder "Scooter" aus. Sobald Ihnen Fahrräder oder Scooter auf der Karte angezeigt werden, können Sie ein bestimmtes Fahrrad oder einen bestimmten Scooter antippen. Die Buchung von Fahrrädern und Scootern des Sharing-Anbieters Dott können Sie direkt über die App DB Navigator abschließen.
+Um Fahrräder oder Scooter in der App DB Navigator zu buchen, tippen Sie auf den Menübereich "Umgebung" und wählen Sie anschließend den Modus "Fahrrad" oder "Scooter" aus. Sobald Ihnen Fahrräder oder Scooter auf der Karte angezeigt werden, können Sie ein bestimmtes Fahrrad oder einen bestimmten Scooter antippen. Die Buchung von Fahrzeugen der Sharing-Anbieter Dott und Call a Bike können Sie direkt über die App DB Navigator abschließen.
 
-Wenn Sie Fahrzeuge von Call a Bike und Voi auswählen, werden Sie zur App des jeweiligen Sharing-Anbieters weitergeleitet, wenn Sie dessen App schon installiert haben. Falls Sie die App des jeweiligen Sharing-Anbieters noch nicht installiert haben, werden Sie zum Download der App in den Google Play Store oder App Store weitergeleitet.
+Wenn Sie Fahrzeuge von Bolt und Voi auswählen, werden Sie zur App des jeweiligen Sharing-Anbieters weitergeleitet, wenn Sie dessen App schon installiert haben. Falls Sie die App des jeweiligen Sharing-Anbieters noch nicht installiert haben, werden Sie zum Download der App in den Google Play Store oder App Store weitergeleitet.
 
 Mehr Informationen zu den [Sharing-Diensten](https://www.bahn.de/faq/erreichbarkeit-sharingdienste).
 

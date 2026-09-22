@@ -13,125 +13,151 @@ vServer günstig mieten
 
 vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder NVMe-Speicherplatz aus. Mit der Möglichkeit der stundenbasierten Abrechnung, dem [DDoS-Schutz](https://www.netcup.com/de/ueber-netcup/ddos-schutz), den vorkonfigurierten Images sind unsere vServer **vielseitig zu dem besten Preis-Leistungs-Verhältnis einsetzbar**.
 
-VPS 500 G12
+1M1 Monat12M12 Monate−13%24M24 Monate−26%
 
-* 2 vCore (x86)
+ 30 Tage Geld-Zurück-Garantie
 
-* 4 GB DDR5 RAM (ECC)
+### VPS 500 G12.5 ###
 
-* 128 GB NVMe
+* 2 vCore
 
-* Traffic inklusive
+  (x86)
 
-* Snapshots (Copy-On-Write)
+* 4 GB
 
-* Remote-Konsole uvm...
+  RAM
 
- Details \>
+* 64 GB
 
-0,010 €/Stunde oder je Monat ab
-
-5,91 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-500-g12-12m#vps-500-g12-12m-nue)
-
-VPS 1000 G12
-
-* 4 vCore (x86)
-
-* 8 GB DDR5 RAM (ECC)
-
-* 256 GB NVMe
+  SSD
 
 * Traffic inklusive
 
-* Snapshots (Copy-On-Write)
+* Snapshots, Remote-Konsole uvm.
 
-* Remote-Konsole uvm...
+Alle Details ansehen
 
- Details \>
+12 Monate Vertragslaufzeit, ab monatlich
 
-0,017 €/Stunde oder je Monat ab
+8,26 €
 
-10,36 €
+9,50 €(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-500-g12.5-24m-eu#vps-500-g12.5-12m-eu)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-1000-g12-12m#vps-1000-g12-12m-nue)
+### VPS 1000 G12.5 ###
 
-VPS 2000 G12
+* 4 vCore
 
-* 8 vCore (x86)
+  (x86)
 
-* 16 GB DDR5 RAM (ECC)
+* 8 GB
 
-* 512 GB NVMe
+  RAM
 
-* Traffic inklusive
+* 128 GB
 
-* Snapshots (Copy-On-Write)
-
-* Remote-Konsole uvm...
-
- Details \>
-
-0,031 €/Stunde oder je Monat ab
-
-19,24 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-2000-g12-12m#vps-2000-g12-12m-nue)
-
-VPS 4000 G12
-
-* 12 vCore (x86)
-
-* 32 GB DDR5 RAM (ECC)
-
-* 1024 GB NVMe
+  SSD
 
 * Traffic inklusive
 
-* Snapshots (Copy-On-Write)
+* Snapshots, Remote-Konsole uvm.
 
-* Remote-Konsole uvm...
+Alle Details ansehen
 
- Details \>
+12 Monate Vertragslaufzeit, ab monatlich
 
-0,052 €/Stunde oder je Monat ab
+14,50 €
 
-32,41 €
+16,68 €(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-1000-g12.5-24m-eu#vps-1000-g12.5-12m-eu)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-4000-g12-12m#vps-4000-g12-12m-nue)
+### VPS 2000 G12.5 ###
 
-VPS 8000 G12
+* 8 vCore
 
-* 16 vCore (x86)
+  (x86)
 
-* 64 GB DDR5 RAM (ECC)
+* 16 GB
 
-* 2048 GB NVMe
+  RAM
+
+* 256 GB
+
+  SSD
 
 * Traffic inklusive
 
-* Snapshots (Copy-On-Write)
+* Snapshots, Remote-Konsole uvm.
 
-* Remote-Konsole uvm...
+Alle Details ansehen
 
- Details \>
+12 Monate Vertragslaufzeit, ab monatlich
 
-0,076 €/Stunde oder je Monat ab
+26,92 €
 
-47,94 €
+30,96 €(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-2000-g12.5-24m-eu#vps-2000-g12.5-12m-eu)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-8000-g12-12m#vps-8000-g12-12m-nue)
+### VPS 4000 G12.5 ###
+
+* 12 vCore
+
+  (x86)
+
+* 32 GB
+
+  RAM
+
+* 512 GB
+
+  SSD
+
+* Traffic inklusive
+
+* Snapshots, Remote-Konsole uvm.
+
+Alle Details ansehen
+
+12 Monate Vertragslaufzeit, ab monatlich
+
+45,36 €
+
+52,16 €(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-4000-g12.5-24m-eu#vps-4000-g12.5-12m-eu)
+
+### VPS 8000 G12.5 ###
+
+* 16 vCore
+
+  (x86)
+
+* 64 GB
+
+  RAM
+
+* 1 TB
+
+  SSD
+
+* Traffic inklusive
+
+* Snapshots, Remote-Konsole uvm.
+
+Alle Details ansehen
+
+12 Monate Vertragslaufzeit, ab monatlich
+
+67,11 €
+
+77,16 €(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-8000-g12.5-24m-eu#vps-8000-g12.5-12m-eu)
+
+Alle Features vergleichen
 
 Hier geht es zu den [vServer FAQs](https://www.netcup.com/de/server/vps#FAQs)
 
@@ -150,45 +176,45 @@ Basierend auf einer möglichst flexiblen Mindestvertragslaufzeit bieten unsere v
 VPS-Server im Vergleich
 ----------
 
-* [VPS 500](https://www.netcup.com/de/server/vps/vps-500-g12-12m#vps-500-g12-12m-nue)
+* [VPS 500 G12.5](https://www.netcup.com/de/server/vps/vps-500-g12.5-24m-eu#vps-500-g12.5-24m-nue)
 
-  ### VPS 500 ###
+  ### VPS 500 G12.5 ###
 
   eignet sich für **kleine bis mittelgroße Webprojekte**, persönliche oder geschäftliche **Webseiten** sowie für **Entwicklungs- und Testumgebungen**. Auch einfache E-Mail-Server, kleinere Online-Shops und leichte Backend-Anwendungen lassen sich zuverlässig betreiben.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-500-g12-12m#vps-500-g12-12m-nue)
+  [Zum Produkt](https://www.netcup.com/de/server/vps/vps-500-g12.5-24m-eu#vps-500-g12.5-24m-nue)
 
-* [VPS 1000](https://www.netcup.com/de/server/vps/vps-1000-g12-12m#vps-1000-g12-12m-nue)
+* [VPS 1000 G12.5](https://www.netcup.com/de/server/vps/vps-1000-g12.5-24m-eu#vps-1000-g12.5-24m-nue)
 
-  ### VPS 1000 ###
+  ### VPS 1000 G12.5 ###
 
   bietet ausreichend Leistungsreserven für **wachsende Webauftritte**, dynamische Unternehmensseiten und **mittelgroße E-Commerce-Projekte**. Zusätzlich eignet sich dieser Plan für APIs, Anwendungen mit höherem Datenaufkommen sowie für produktive Datenbanken und Services.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-1000-g12-12m#vps-1000-g12-12m-nue)
+  [Zum Produkt](https://www.netcup.com/de/server/vps/vps-1000-g12.5-24m-eu#vps-1000-g12.5-24m-nue)
 
-* [VPS 2000](https://www.netcup.com/de/server/vps/vps-2000-g12-12m#vps-2000-g12-12m-nue)
+* [VPS 2000 G12.5](https://www.netcup.com/de/server/vps/vps-2000-g12.5-24m-eu#vps-2000-g12.5-24m-nue)
 
-  ### VPS 2000 ###
+  ### VPS 2000 G12.5 ###
 
   ist ausgelegt für **leistungsintensivere Webanwendungen**, größere **Online-Shops** und stark frequentierte **Unternehmensplattformen**. Darüber hinaus eignet er sich für komplexere Backend-Systeme, größere **Datenbanken** und **datenverarbeitende Anwendungen**.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-2000-g12-12m#vps-2000-g12-12m-nue)
+  [Zum Produkt](https://www.netcup.com/de/server/vps/vps-2000-g12.5-24m-eu#vps-2000-g12.5-24m-nue)
 
-* [VPS 4000](https://www.netcup.com/de/server/vps/vps-4000-g12-12m#vps-4000-g12-12m-nue)
+* [VPS 4000 G12.5](https://www.netcup.com/de/server/vps/vps-4000-g12.5-24m-eu#vps-4000-g12.5-24m-nue)
 
-  ### VPS 4000 ###
+  ### VPS 4000 G12.5 ###
 
   richtet sich an anspruchsvolle Projekte mit hohem Ressourcenbedarf, etwa umfangreiche Plattformen, **Enterprise-Anwendungen** oder rechenintensive Workloads. Auch Container-Umgebungen, komplexe Analysen und spezialisierte Software lassen sich effizient betreiben.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-4000-g12-12m#vps-4000-g12-12m-nue)
+  [Zum Produkt](https://www.netcup.com/de/server/vps/vps-4000-g12.5-24m-eu#vps-4000-g12.5-24m-nue)
 
-* [VPS 8000](https://www.netcup.com/de/server/vps/vps-8000-g12-12m#vps-8000-g12-12m-nue)
+* [VPS 8000 G12.5](https://www.netcup.com/de/server/vps/vps-8000-g12.5-24m-eu#vps-8000-g12.5-24m-nue)
 
-  ### VPS 8000 ###
+  ### VPS 8000 G12.5 ###
 
   stellt maximale Leistung für **professionelle Großprojekte**, unternehmenskritische Anwendungen und sehr **rechenintensive Szenarien** bereit. Er eignet sich für umfangreiche **Entwicklungsumgebungen**, Big-Data-Verarbeitung, Simulationen sowie **komplexe Software- und Analyseplattformen**.
 
-  [Zum Produkt \>](https://www.netcup.com/de/server/vps/vps-8000-g12-12m#vps-8000-g12-12m-nue)
+  [Zum Produkt](https://www.netcup.com/de/server/vps/vps-8000-g12.5-24m-eu#vps-8000-g12.5-24m-nue)
 
 Managed vServer möglich
 ----------
@@ -244,7 +270,7 @@ Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server?
 
 Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei denen du Zugriff auf deinen eigenen virtuellen Server erhältst.
 
-Der Hauptunterschied liegt in der zugrundeliegenden Architektur und der Art der Bereitstellung:
+Der Hauptunterschied liegt in der zugrunde liegenden Architektur und der Art der Bereitstellung:
 
 * VPS x86: Basierend auf der x86-Architektur und 64-Bit-fähig. Geeignet für eine breite Palette von Anwendungen
 * VPS ARM: Basierend auf der ARM-Architektur und ebenfalls 64-Bit-fähig. Besonders effizient für spezialisierte Workloads wie IoT-Anwendungen, Edge Computing oder ressourcenschonende Serveranwendungen.
@@ -258,7 +284,7 @@ Wo ist der Standort meines VPS?
 
  ###
 
-Den Serverstandort wählst du bereits vor der Bestellung direkt auf der Produktseite aus. Zur Auswahl stehen:
+Den Serverstandort deines VPS wählst du bereits vor der Bestellung direkt auf der Produktseite aus. Zur Auswahl stehen:
 
 * Wien (VIE)
 * Nürnberg (NUE)
@@ -266,17 +292,15 @@ Den Serverstandort wählst du bereits vor der Bestellung direkt auf der Produkts
 * Manassas/USA (MNZ) und
 * Singapur (SIN)
 
-Die jeweilige Abkürzung zeigt dir, in welchem Rechenzentrum dein Server physisch betrieben wird.
-
 Zusätzlich gibt es die Option **„Keine Präferenz Europa“** - dabei kannst du den genauen Standort nicht festlegen, dein Server wird jedoch ausschließlich in einem europäischen Rechenzentrum (z. B. Wien, Nürnberg oder Amsterdam) eingerichtet, abhängig von den verfügbaren Kapazitäten.
 
 ###
 
-Welche Vertragslaufzeiten sind für VPS Server G12 verfügbar?
+Welche Vertragslaufzeiten sind für VPS G12.5 verfügbar?
 
  ###
 
- Wir bieten bei unseren Regulärtarifen eine 12-monatige Vertragslaufzeit an. Alternativ kannst du das stundenbasierte Abrechnungsmodell wählen. Sondertarife können abweichende Laufzeiten haben.
+Wähle zwischen einer Mindestvertragslaufzeit von **einem**, **zwölf** oder **24 Monaten**. Je länger du dich bindest, desto günstiger wird es: Bei einer Vertragslaufzeit von zwölf Monaten sparst du gegenüber der monatlichen Abrechnungsvariante, bei 24 Monaten profitierst du sogar noch stärker.
 
 ###
 
@@ -284,24 +308,13 @@ Kann ich meinen VPS mit Local Block Storage erweitern?
 
  ###
 
-Ja, du kannst deinen VPS nach Einrichtung mit Local Block Storage erweitern. Dies bietet dir **zusätzlichen Speicherplatz für deine Daten und Anwendungen**, um deine Leistung und Speicheranforderungen zu erweitern.
+Ja, du kannst deinen VPS nach Einrichtung mit Local Block Storage erweitern. Das bietet dir **zusätzlichen Speicherplatz für deine Daten und Anwendungen**, um deine Leistung und Speicheranforderungen zu erweitern.
 
-VPS Tarife der Generation 10 aufwärts können bis zu einem **Maximum** von **8 TB** erweitert werden. Bei Tarifen der Generation VPS G11s (VPS pico G11s, VPS nano G11s) ist keine Erweiterung mit Local Block Storage möglich. VPS Lite G12-Tarife sind auf **bis zu 4 TB** erweiterbar.
+Bitte beachte, dass die maximale Größe nach Tarifgruppe variieren kann:
 
-###
-
-Wie werden die Server abgerechnet?
-
- ###
-
-Die vServer werden je nach Auswahl auf zwei Arten abgerechnet:
-
-* **stundenbasiert**
-* oder auf einer **12-Monats-Basis**
-
-Bei den stundenbasierten Tarifen zahlst du monatlich im Voraus und die Abrechnung erfolgt auf Stundenbasis, wenn du den Vertrag beendest. Es gibt keine Mindestvertragslaufzeiten oder Kündigungsfristen.
-
-Die 12-Monats-Abrechnung bietet dir langfristige Planungssicherheit und mögliche Kosteneinsparungen bei einer längeren Vertragslaufzeit und Vorauszahlung.
+* Reguläre VPS-Tarife (ab G10) können bis zu einem **Maximum** von **8 TB** erweitert werden.
+* Bei Tarifen der Generation VPS G11s / G11.5s (VPS pico, VPS nano) ist **keine Erweiterung** mit Local Block Storage möglich.
+* **VPS Lite** G12.5-Tarife sind auf **bis zu 4 TB** erweiterbar.
 
 ###
 
@@ -317,25 +330,27 @@ Kann ich zwischen unterschiedlichen VPS Server-Varianten wechseln, wenn mein Pro
 
  ###
 
- Ja, du kannst innerhalb derselben Generation (z.B. VPS 1000 G12s zu VPS 2000 G12s) bzw. Tarifgruppe (z.B. VPS Lite 1 G12s auf VPS Lite 2 G12s) auf einen höheren Tarif upgraden. Nutze dazu die Upgrade-Funktion im Customer Control Panel (CCP). Upgrades von und zu Aktionsprodukten oder Sonderprodukten sind nicht möglich.
+Ja, du kannst innerhalb derselben Generation (z.B. VPS 1000 G12.5s zu VPS 2000 G12.5s) bzw. Tarifgruppe (z.B. VPS Lite 1 G12.5s auf VPS Lite 2 G12.5s) auf einen höheren Tarif upgraden. Nutze dazu die Upgrade-Funktion im Customer Control Panel (CCP). Upgrades von und zu Aktionsprodukten oder Sonderprodukten sind nicht möglich.
 
 Hier erfährst du mehr über [Produkt-Upgrades](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade).
 
 ###
 
-Kann ich von VPS G11 auf VPS G12 upgraden?
+Kann ich von VPS G12 auf VPS G12.5 upgraden?
 
  ###
 
-Ein direktes Upgrade ist nicht möglich. Du kannst jedoch einen VPS G12-Tarif bestellen, den VPS G11-Tarif zum Ende deiner Mindestvertragslaufzeit kündigen und deine Daten migrieren.
+Ein direktes Upgrade ist nicht möglich. Du kannst jedoch einen VPS G12.5-Tarif bestellen, den VPS G12-Tarif zum Ende deiner Mindestvertragslaufzeit kündigen und deine Daten migrieren.
+
+Hier erfährst du mehr über [Produkt-Upgrades](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade).
 
 ###
 
-Sind VPS G11 Produkte weiterhin bestellbar?
+Sind VPS G12 Produkte weiterhin bestellbar?
 
  ###
 
-Unsere aktuelle Tarifstruktur baut auf Produkten der Generation 12 auf. Produkte der Generation 11 stehen daher in der Regel nicht weiter zum Verkauf. Upgrades innerhalb der Generation 11 sind weiterhin möglich.
+Unsere aktuelle Tarifstruktur baut auf Produkten der Generation 12.5 auf. Produkte der Generation 12 stehen daher in der Regel nicht weiter zum Verkauf. Upgrades innerhalb der Generation 12 sind weiterhin möglich.
 
 ###
 
@@ -357,7 +372,7 @@ Kann ich meinen Serverstandort nachträglich ändern?
 
  ###
 
-Nein, du kannst den Standort deines Servers nachträglich nicht ändern. Eine Migration ist nur möglich, indem du am gewünschten Standort neu bestellst und alle Daten manuell übernimmst.
+Nein, du kannst den Standort deines Servers nachträglich nicht ändern. Eine Migration ist nur möglich, indem du am gewünschten Standort neu bestellst und alle Daten manuell migrierst.
 
 ###
 

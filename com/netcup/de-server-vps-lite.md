@@ -13,149 +13,175 @@ Preisoptimierte vServer Tarife
 
 Unsere vServer Lite Tarife sind **dauerhaft preisoptimiert** und bieten ein **besonders attraktives Preis-Leistungs-Verhältnis** – ohne Abstriche in Stabilität und Zuverlässigkeit. Ideal für Anwendungen mit moderatem Traffic und preisbewusste Workloads.
 
-VPS pico G11s
+### VPS pico G11.5s ###
 
-* 1 vCore (x86)
+* 1
 
-* 1 GB RAM
+  vCore (x86)
 
-* 30 GB SSD
+* 1 GB
 
-* Traffic inklusive
+  RAM
 
-* Snapshots (Copy-On-Write)
+* 30 GB
 
-* Remote-Konsole uvm...
-
- Details \>
-
-monatlich nur
-
-1,84 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-pico-g11s-12m-nue)
-
-VPS nano G11s
-
-* 2 vCore (x86)
-
-* 2 GB RAM
-
-* 60 GB SSD
+  SSD
 
 * Traffic inklusive
 
-* Snapshots (Copy-On-Write)
+* Snapshots, Remote-Konsole uvm.
 
-* Remote-Konsole uvm...
+Alle Details ansehen
 
- Details \>
+12 Monate Vertragslaufzeit, ab monatlich
 
-monatlich nur
+2,21 €
 
-3,08 €
+0(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-pico-g11.5s-12m-nue)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-nano-g11s-6m-nue)
+### VPS nano G11.5s ###
 
-VPS Lite 1 G12s
+* 2
 
-* 2 vCore (x86)
+  vCore (x86)
 
-* 4 GB RAM
+* 2 GB
 
-* 80 GB SSD
+  RAM
 
-* Traffic inklusive
+* 60 GB
 
-* Snapshots (Copy-On-Write)
-
-* Remote-Konsole uvm...
-
- Details \>
-
-monatlich nur
-
-4,88 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-1-g12s-6m)
-
-VPS Lite 2 G12s
-
-* 4 vCore (x86)
-
-* 8 GB RAM
-
-* 160 GB SSD
+  SSD
 
 * Traffic inklusive
 
-* Snapshots (Copy-On-Write)
+* Snapshots, Remote-Konsole uvm.
 
-* Remote-Konsole uvm...
+Alle Details ansehen
 
- Details \>
+6 Monate Vertragslaufzeit, ab monatlich
 
-monatlich nur
+3,69 €
 
-7,92 €
+0(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-nano-g11.5s-6m-nue)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-2-g12s-3m)
+### VPS Lite 1 G12.5s ###
 
-VPS Lite 3 G12s
+* 2
 
-* 8 vCore (x86)
+  vCore (x86)
 
-* 16 GB RAM
+* 4 GB
 
-* 320 GB SSD
+  RAM
 
-* Traffic inklusive
+* 80 GB
 
-* Snapshots (Copy-On-Write)
-
-* Remote-Konsole uvm...
-
- Details \>
-
-monatlich nur
-
-13,89 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-3-g12s-2m)
-
-VPS Lite 4 G12s
-
-* 16 vCore (x86)
-
-* 32 GB RAM
-
-* 640 GB SSD
+  SSD
 
 * Traffic inklusive
 
-* Snapshots (Copy-On-Write)
+* Snapshots, Remote-Konsole uvm.
 
-* Remote-Konsole uvm...
+Alle Details ansehen
 
- Details \>
+6 Monate Vertragslaufzeit, ab monatlich
 
-monatlich nur
+5,86 €
 
-25,72 €
+0(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-1-g12.5s-6m)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-4-g12s-1m)
+### VPS Lite 2 G12.5s ###
+
+* 4
+
+  vCore (x86)
+
+* 8 GB
+
+  RAM
+
+* 160 GB
+
+  SSD
+
+* Traffic inklusive
+
+* Snapshots, Remote-Konsole uvm.
+
+Alle Details ansehen
+
+3 Monate Vertragslaufzeit, ab monatlich
+
+9,50 €
+
+0(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-2-g12.5s-3m)
+
+### VPS Lite 3 G12.5s ###
+
+* 8
+
+  vCore (x86)
+
+* 16 GB
+
+  RAM
+
+* 320 GB
+
+  SSD
+
+* Traffic inklusive
+
+* Snapshots, Remote-Konsole uvm.
+
+Alle Details ansehen
+
+2 Monate Vertragslaufzeit, ab monatlich
+
+16,66 €
+
+0(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-3-g12.5s-2m)
+
+### VPS Lite 4 G12.5s ###
+
+* 16
+
+  vCore (x86)
+
+* 32 GB
+
+  RAM
+
+* 640 GB
+
+  SSD
+
+* Traffic inklusive
+
+* Snapshots, Remote-Konsole uvm.
+
+Alle Details ansehen
+
+1 Monat Vertragslaufzeit, ab monatlich
+
+30,86 €
+
+0(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-4-g12.5s-1m)
+
+Alle Features vergleichen
 
 Wir sind nominiert: Webhoster des Jahres 2026
 ----------
@@ -220,17 +246,19 @@ Wo ist der Standort meines VPS Lite?
 
  ###
 
-VPS Lite-Tarife werden je nach Verfügbarkeit an europäischen Rechenzentrumsstandorten (Nürnberg, Wien, Amsterdam) bereitgestellt. VPS pico G11s und VPS nano G11s sind ausschließlich am Standort Nürnberg verfügbar.
+VPS Lite-Tarife werden je nach Verfügbarkeit an europäischen Rechenzentrumsstandorten (Nürnberg, Wien, Amsterdam) bereitgestellt.
+
+VPS pico G11.5s und VPS nano G11.5s sind ausschließlich am Standort Nürnberg verfügbar.
 
 Wechsle zu unseren regulären [VPS-Tarifen](https://www.netcup.com/de/server/vps), um den Standort deines Servers selbst zu wählen.
 
 ###
 
-Wie unterscheiden sich VPS Lite-Tarife von VPS G12-Tarifen?
+Wie unterscheiden sich VPS Lite-Tarife von VPS G12.5-Tarifen?
 
  ###
 
-Unsere VPS Lite-Angebote sind dauerhaft kostenoptimiert und bieten ein besonders attraktives Preis-Leistungs-Verhältnis. VPS Lite-Tarife kennzeichnen sich im Vergleich zu den regulären VPS-Tarifen durch reduzierte Bandbreite und geringere Interface-Geschwindigkeit sowie SSD- statt NVMe-Speicher. So können wir diese Server zu einem besonders günstigen Preis anbieten – ohne Abstriche bei Stabilität und Zuverlässigkeit.
+Unsere **VPS Lite**-Angebote sind dauerhaft kostenoptimiert und bieten ein besonders attraktives Preis-Leistungs-Verhältnis. VPS Lite-Tarife kennzeichnen sich im Vergleich zu den regulären VPS-Tarifen durch reduzierte Bandbreite und geringere Interface-Geschwindigkeit. So können wir diese Server zu einem besonders günstigen Preis anbieten – ohne Abstriche bei Stabilität und Zuverlässigkeit.
 
 ###
 
@@ -238,7 +266,9 @@ Kann ich meinen VPS Lite mit Local Block Storage erweitern?
 
  ###
 
-Ja, du kannst deine VPS Lite-Tarife mit Local Block Storage **bis zu max. 4 TB** erweitern. Dies bietet dir zusätzlichen Speicherplatz für deine Daten und Anwendungen, um deine Leistung und Speicheranforderungen zu erweitern. Bei der G11s Generation (VPS piko, VPS nano) ist eine Erweiterung nicht möglich.
+Ja, du kannst deine VPS Lite-Tarife mit Local Block Storage **bis zu max. 4 TB** erweitern. Dies bietet dir zusätzlichen Speicherplatz für deine Daten und Anwendungen, um deine Leistung und Speicheranforderungen zu erweitern.
+
+Bei Tarifen mit **G11.5s**-Kennzeichnung (VPS piko, VPS nano) ist eine Erweiterung mit Local Block Storage **nicht möglich**.
 
 ###
 
@@ -246,9 +276,9 @@ Kann ich zwischen VPS Lite-Tarifen wechseln, wenn mein Projekt wächst?
 
  ###
 
-Das Upgrade **innerhalb einer Generation und Tarifgruppe** (z.B. von VPS Lite 1 G12s zu VPS Lite 2 G12s) ist möglich und kann direkt im Customer Control Panel (CCP) durchgeführt werden.
+Das Upgrade **innerhalb einer Generation und Tarifgruppe** (z.B. von VPS Lite 1 G12.5s zu VPS Lite 2 G12.5s) ist möglich und kann direkt im Customer Control Panel (CCP) durchgeführt werden.
 
-Ein Wechsel auf kleinere Tarife, andere Generationen (z.B. von VPS nano G11s zu VPS Lite 1 G12s) oder zwischen Tarifgruppen (z.B. von VPS Lite G12s zu VPS 1000 G12) ist nicht über ein Upgrade möglich. In diesem Fall kündige bitte deinen alten Tarif und bestelle den gewünschten neuen Tarif. [Hier findest du weitere Informationen zu Produktupgrades](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade).
+Ein Wechsel auf kleinere Tarife, andere Generationen (z.B. von VPS nano G11.5s zu VPS Lite 1 G12.5s) oder zwischen Tarifgruppen (z.B. von VPS Lite G12.5s zu VPS 1000 G12.5) ist nicht über ein Upgrade möglich. In diesem Fall kündige bitte deinen alten Tarif und bestelle den gewünschten neuen Tarif. [Hier findest du weitere Informationen zu Produktupgrades](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade).
 
 ###
 
