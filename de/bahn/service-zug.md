@@ -91,7 +91,7 @@ Entertainment
 
 ### ICE Portal ###
 
-Das kostenlose Infotainment-Angebot bietet Ihnen u.a. Filme, Serien und Nachrichten.
+Das kostenlose Infotainment-Angebot bietet u.a. Filme, Serien und Nachrichten an.
 
 [Das läuft im ICE Portal](https://www.bahn.de/service/zug/ice-portal)
 

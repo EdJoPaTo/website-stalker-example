@@ -323,7 +323,15 @@ Solange dein Smartphone es zulässt, kannst du auch mit uns deine Visual Voicema
 
 #### Wie kann ich eine Anrufumleitung einstellen? ####
 
-Anrufumleitungen lassen sich durch [festgelegte Tastenkombinationen](hhttps://www.chip.de/ratgeber/handy/vodafone-rufumleitung-einrichten-so-geht-s_5f84efa1-c031-4ddf-8d86-1cb26d66cdc1.html) einrichten.
+Anrufweiterleitungen lassen sich durch festgelegte Steuercodes einrichten. Du kannst diese Codes über das Tastenfeld deines Handys eingeben. Die wichtigsten Codes lauten:
+
+sofortige automatische Weiterleitung aktivieren: \*\*21\*ZIELRUFNUMMER#
+sofortige automatische Weiterleitung deaktivieren: ##21#
+
+Weiterleitung bei Nichterreichbarkeit aktivieren: \*\*004\*ZIELRUFNUMMER#
+Weiterleitung bei Nichterreichbarkeit deaktivieren: ##004#
+
+Wichtig: Weiterleitungen in Ausland können sehr hohe Kosten verursachen und lösen daher eine Sicherheitssperre bei uns aus.
 
 #### Ich möchte meine Daten ändern, wie kann ich das tun? ####
 
