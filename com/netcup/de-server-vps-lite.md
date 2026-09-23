@@ -334,8 +334,6 @@ Weitere Antworten findest du im [FAQ-Bereich](https://helpcenter.netcup.com/de/f
 
 [CD-ROMs / DVDs / Images](https://www.netcup.com/de/server/vserver-images)
 
-[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
-
 [VPS (ARM64)](https://www.netcup.com/de/server/arm-server)
 
 [Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)

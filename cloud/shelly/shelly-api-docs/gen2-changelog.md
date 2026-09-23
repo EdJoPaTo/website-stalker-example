@@ -18,40 +18,55 @@ Not all Shelly devices receive the same firmware updates. See [Firmware Update P
 Unreleased
 ----------
 
-**Available as `2.0.1-beta3`**
+[2.0.1] 2026-09-23
+----------
 
 ### Fixed ###
 
+* ADE7953 power meters: Fix crashes during I2C register read
+* [Authentication](/gen2/General/Authentication): Echo digest `algorithm` only when the challenge carried it
+* [Authentication](/gen2/General/Authentication): Fix digest nonce table slot leak on TTL expiry
+* [BLE](/gen2/ComponentsAndServices/BLE): Bound the scan manager's pending result queue
+* [BLE](/gen2/ComponentsAndServices/BLE): Fix use-after-free crash on [Matter](/gen2/ComponentsAndServices/Matter) commissioning disconnect
+* [BLE](/gen2/ComponentsAndServices/BLE): Report BT address and bonds while BT is not running
+* Cron: Harden expression parser (bounds/overflow checks)
 * [Cury](/gen2/Devices/PoweredByShelly/ShellyCury): Add periodic telemetry to backend
+* [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4): Do not reject transition duration of 0
+* dns-sd: Ignore mDNS packets from own MAC addresses
+* [Eth](/gen2/ComponentsAndServices/Eth): Increase ESP32 EMAC `emac_rx` task stack size
 * [HTTP](/gen2/ComponentsAndServices/HTTP): Bound concurrent HTTP server connections
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Close idle non-WebSocket connections to bound main-queue pressure
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Do not hold the connection lock across the TCPIP close
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Do not post main-queue callbacks for idle connections
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Fix potential buffer overflow when parsing chunked-encoding length line
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Fix use-after-free in channel teardown under HTTP flood
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Honour quoted-strings when splitting header params
+* JSON: Fix out-of-bounds accesses in JSON and URL parsers
+* [Light](/gen2/ComponentsAndServices/Light): Fix inconsistent `tag` on delayed status changes
+* [LNM](/gen2/DynamicComponents/LNM/): Add missing `btn_down` event
+* [LNM](/gen2/DynamicComponents/LNM/): Fix `stats.since` timestamps that predate the last boot
+* [LNM](/gen2/DynamicComponents/LNM/): Report brightness, ct, rgb, rgbcct value changes over LNM
+* [LoRa](/gen2/Addons/ShellyLoRaAddon): Remove holdoff period for BR915
+* [Matter](/gen2/ComponentsAndServices/Matter): Fix monotonic-clock abort
+* [OperationalCounters](/gen2/ComponentsAndServices/Switch): Fix [Switch](/gen2/ComponentsAndServices/Switch) status changes when counters are enabled/disabled
+* [OperationalCounters](/gen2/ComponentsAndServices/Switch): Fix missing reset timestamps in notifications
+* [Pill](/gen2/ComponentsAndServices/Pill): Add [Virtual Components](/gen2/DynamicComponents/Virtual/) manager and [BTHome](/gen2/DynamicComponents/BTHome/) support
+* [PlusUni](/gen2/Devices/Gen2/ShellyPlusUni): Add missing `io` field to `OneWireScan` response
 * [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Expose lux values in [Matter](/gen2/ComponentsAndServices/Matter)
 * [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Fix light sensor state instability
 * [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Improve overheating protection
 * [Presence Gen4](/gen2/Devices/Gen4/ShellyPresenceG4): Introduce radar configuration presets
 * [Pro CB](/gen2/Devices/Gen2/ShellyProCB): Prevent unexpected auto reclosure
-
-**Available as `2.0.1-beta2`**
-
-### Fixed ###
-
-* ADE7953 power meters: Fix crashes during I2C register read
-* [BLE](/gen2/ComponentsAndServices/BLE): Fix use-after-free crash on [Matter](/gen2/ComponentsAndServices/Matter) commissioning disconnect
-* [BLE](/gen2/ComponentsAndServices/BLE): Report BT address and bonds while BT is not running
-* Cron: Harden expression parser (bounds/overflow checks)
-* [HTTP](/gen2/ComponentsAndServices/HTTP): Fix potential buffer overflow when parsing chunked-encoding length line
-* [HTTP](/gen2/ComponentsAndServices/HTTP): Fix use-after-free in channel teardown under HTTP flood
-* JSON: Fix out-of-bounds accesses in JSON and URL parsers
-* [LNM](/gen2/DynamicComponents/LNM/): Add missing `btn_down` event
-* [LNM](/gen2/DynamicComponents/LNM/): Report brightness, ct, rgb, rgbcct value changes over LNM
-* [LNM](/gen2/DynamicComponents/LNM/): Fix `stats.since` timestamps that predate the last boot
-* [LoRa](/gen2/Addons/ShellyLoRaAddon): Remove holdoff period for BR915
-* [Matter](/gen2/ComponentsAndServices/Matter): Additional fix for monotonic-clock abort
-* [Pill](/gen2/ComponentsAndServices/Pill): Add [Virtual Components](/gen2/DynamicComponents/Virtual/) manager and [BTHome](/gen2/DynamicComponents/BTHome/) support
+* [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon): Fix reporting of DS18B20 negative temperature values
 * [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix empty `source` in [Light.GetStatus](/gen2/ComponentsAndServices/Light#lightgetstatus) after double push
 * [ProDimmer1PM](/gen2/Devices/Gen2/ShellyProDimmer1PM), [ProDimmer2PM](/gen2/Devices/Gen2/ShellyProDimmer2PM): Fix flickering on 60Hz grids
+* [ProEM](/gen2/Devices/Gen2/ShellyProEM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM): Feed WDT during data-file directory scans
 * [ProEM](/gen2/Devices/Gen2/ShellyProEM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM): Index data files in RAM instead of scanning the directory
 * [ProRGBWWPM](/gen2/Devices/Gen2/ShellyProRGBWWPM): Increase MUX stack size
+* [RPC](/gen2/General/RPCChannels): Fix `udp_in` channel type
+* [Sensor Add-on](/gen2/Addons/ShellySensorAddon): Fix trailing chars in `SensorAddon.AddPeripheral` error
 * [Virtual Components](/gen2/DynamicComponents/Virtual/): Fix use-after-free
+* [Webhook](/gen2/ComponentsAndServices/Webhook): Bump eJS varcount on battery-operated devices
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Fix Basic cluster `powerSource` reporting `Unknown` instead of `Mains`
 
 ### Local web ###
@@ -59,42 +74,12 @@ Unreleased
 ### Fixed ###
 
 * [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4): Rename "Dimming Curve" to "Gamma Correction"
-* [OperationalCounters](/gen2/ComponentsAndServices/Switch): Remove redundant Save button and informational text
-* [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM): Fix NCT channel and readings not appearing after successful calibration
-
-**Available as `2.0.1-beta1`**
-
-### Fixed ###
-
-* [Authentication](/gen2/General/Authentication): Echo digest `algorithm` only when the challenge carried it
-* [Authentication](/gen2/General/Authentication): Fix digest nonce table slot leak on TTL expiry
-* [BLE](/gen2/ComponentsAndServices/BLE): Bound the scan manager's pending result queue
-* [Dimmer Gen3](/gen2/Devices/Gen3/ShellyDimmerG3), [Dimmer Gen4](/gen2/Devices/Gen4/ShellyDimmerG4): Do not reject transition duration of 0
-* dns-sd: Ignore mDNS packets from own MAC addresses
-* [Eth](/gen2/ComponentsAndServices/Eth): Increase ESP32 EMAC `emac_rx` task stack size
-* [HTTP](/gen2/ComponentsAndServices/HTTP): Close idle non-WebSocket connections to bound main-queue pressure
-* [HTTP](/gen2/ComponentsAndServices/HTTP): Do not hold the connection lock across the TCPIP close
-* [HTTP](/gen2/ComponentsAndServices/HTTP): Do not post main-queue callbacks for idle connections
-* [HTTP](/gen2/ComponentsAndServices/HTTP): Honour quoted-strings when splitting header params
-* [Light](/gen2/ComponentsAndServices/Light): Fix inconsistent `tag` on delayed status changes
-* [Matter](/gen2/ComponentsAndServices/Matter): Fix monotonic-clock abort
-* [OperationalCounters](/gen2/ComponentsAndServices/Switch): Fix [Switch](/gen2/ComponentsAndServices/Switch) status changes when counters are enabled/disabled
-* [OperationalCounters](/gen2/ComponentsAndServices/Switch): Fix missing reset timestamps in notifications
-* [PlusUni](/gen2/Devices/Gen2/ShellyPlusUni): Add missing `io` field to `OneWireScan` response
-* [Pro Sensor Add-On](/gen2/Addons/ShellyProSensorAddon): Fix reporting of DS18B20 negative temperature values
-* [ProEM](/gen2/Devices/Gen2/ShellyProEM), [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM): Feed WDT during data-file directory scans
-* [RPC](/gen2/General/RPCChannels): Fix `udp_in` channel type
-* [Sensor Add-on](/gen2/Addons/ShellySensorAddon): Fix trailing chars in `SensorAddon.AddPeripheral` error
-* [Webhook](/gen2/ComponentsAndServices/Webhook): Bump eJS varcount on battery-operated devices
-
-### Local web ###
-
-### Fixed ###
-
 * Fix incorrect device profile change warning
 * Fix missing global WebUI timeout when device goes offline
 * Fix static IP checkbox resetting after reboot
 * Fix TLS configuration file uploads
+* [OperationalCounters](/gen2/ComponentsAndServices/Switch): Remove redundant Save button and informational text
+* [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM): Fix NCT channel and readings not appearing after successful calibration
 * [Pro4PM](/gen2/Devices/Gen2/ShellyPro4PM): Fix freezing Device UI page
 
 [2.0.0] 2026-07-13

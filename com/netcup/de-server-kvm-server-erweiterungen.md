@@ -121,8 +121,6 @@ Wir bieten dir Service Level an, die die regulären Garantien zur Verfügbarkeit
 
 [CD-ROMs / DVDs / Images](https://www.netcup.com/de/server/vserver-images)
 
-[Vergleich Root-Server vs. VPS](https://www.netcup.com/de/server/vergleich-root-server-vps)
-
 [VPS (ARM64)](https://www.netcup.com/de/server/arm-server)
 
 [Erweiterungen](https://www.netcup.com/de/server/kvm-server-erweiterungen)

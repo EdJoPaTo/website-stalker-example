@@ -1234,6 +1234,7 @@
 * [Thermoskanne](https://www.wdrmaus.de/filme/sachgeschichten/thermoskanne.php5)
 * [Tiefkühlerbsen](https://www.wdrmaus.de/filme/sachgeschichten/tiefkuehlerbsen.php5)
 * [Tiere im Winter](https://www.wdrmaus.de/filme/sachgeschichten/tiere_im_winter.php5)
+* [Tierfutter aus Insektenlarven](https://www.wdrmaus.de/filme/sachgeschichten/tierfutter_aus_fliegenlarven.php5)
 * [Tischfeuerwerk](https://www.wdrmaus.de/filme/sachgeschichten/tischfeuerwerk.php5)
 * [Tofu](https://www.wdrmaus.de/filme/sachgeschichten/tofu.php5)
 * [Toilettenbecken](https://www.wdrmaus.de/filme/sachgeschichten/toilettenbecken.php5)
