@@ -14,13 +14,17 @@ IN DEINER NÄHE!
 
 #### DIe nächsten Megamärsche: ####
 
-### Köln ###
+### freiburg ###
 
-### 19. - 20. September 2026 ###
+### 26. September 2026 ###
 
-### 100 km ###
+### 50 km ###
 
-[JETZT TICKET SICHERN!](https://www.megamarsch.de/köln)
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/freiburg)
+
+### 25 km ###
+
+[JETZT TICKET SICHERN!](https://www.megamarsch.de/freiburg-25km)
 
 [Location](https://www.megamarsch.de/ostsee)
 

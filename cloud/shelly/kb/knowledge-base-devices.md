@@ -240,6 +240,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [The Pill by Shelly](https://kb.shelly.cloud/knowledge-base/the-pill-by-shelly)
 
 [Powered by Shelly](https://kb.shelly.cloud/knowledge-base/powered-by-shelly)
+* [LightSolutions HiluX DS8 US, HiluX DS4 US](https://kb.shelly.cloud/knowledge-base/lightsolutions-hilux-ds8-us-hilux-ds4-us)
 * [DC 12 V / 1 A power adaptor (for WS90)](https://kb.shelly.cloud/knowledge-base/dc-12-v-1-a-power-adaptor-for-ws90)
 * [Smart HVAC thermostat](https://kb.shelly.cloud/knowledge-base/smart-hvac-thermostat)
 * [Smart floor heating thermostat](https://kb.shelly.cloud/knowledge-base/smart-floor-heating-thermostat)
