@@ -5,106 +5,61 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 [Zum Newsletter\>](https://www.netcup.com/de/deals#newsletter)
 
-Preisoptimierte vServer Tarife
-----------
+1M1 Monat12M12 Monate−13%24M24 Monate−26%
 
-Unsere vServer Lite Tarife sind **dauerhaft preisoptimiert** und bieten ein **besonders attraktives Preis-Leistungs-Verhältnis** – ohne Abstriche in Stabilität und Zuverlässigkeit. Ideal für Anwendungen mit moderatem Traffic und preisbewusste Workloads.
+ 30 Tage Geld-Zurück-Garantie
 
-VPS Lite 1 G12.5s
+### VPS 500 G12.5 ###
 
-* 2 vCore (x86)
+* 2 vCore
 
-* 4 GB RAM
+  (x86)
 
-* 80 GB SSD
+* 4 GB
 
-* Traffic inklusive
+  RAM
 
-* Snapshots (Copy-On-Write)
+* 64 GB
 
-* Remote-Konsole uvm...
-
- Details \>
-
-monatlich nur
-
-5,86 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-1-g12.5s-6m)
-
-VPS Lite 2 G12.5s
-
-* 4 vCore (x86)
-
-* 8 GB RAM
-
-* 160 GB SSD
+  SSD
 
 * Traffic inklusive
 
-* Snapshots (Copy-On-Write)
+* Snapshots, Remote-Konsole uvm.
 
-* Remote-Konsole uvm...
+12 Monate Vertragslaufzeit, ab monatlich
 
- Details \>
+8,26 €
 
-monatlich nur
+9,50 €(inkl. 19% MwSt.)
 
-9,50 €
+[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-500-g12.5-24m-eu#vps-500-g12.5-12m-eu)
 
-(inkl. 19% MwSt.)
+### RS 500 G12.5 ###
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-2-g12.5s-3m)
+* AMD EPYC™ 9645
 
-VPS Lite 3 G12.5s
+* 2
 
-* 8 vCore (x86)
+  dedizierte Kerne
 
-* 16 GB RAM
+* 4 GB
 
-* 320 GB SSD
+  RAM
 
-* Traffic inklusive
+* 64 GB
 
-* Snapshots (Copy-On-Write)
+  NVMe
 
-* Remote-Konsole uvm...
+* Snapshots, Remote-Konsole uvm.
 
- Details \>
+12 Monate Vertragslaufzeit, ab monatlich
 
-monatlich nur
+12,93 €
 
-16,66 €
+14,87 €(inkl. 19% MwSt.)
 
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-3-g12.5s-2m)
-
-VPS Lite 4 G12.5s
-
-* 16 vCore (x86)
-
-* 32 GB RAM
-
-* 640 GB SSD
-
-* Traffic inklusive
-
-* Snapshots (Copy-On-Write)
-
-* Remote-Konsole uvm...
-
- Details \>
-
-monatlich nur
-
-30,86 €
-
-(inkl. 19% MwSt.)
-
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-lite-4-g12.5s-1m)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-500-g12.5-24m-eu#rs-500-g12.5-24m-nue#rs-500-g12.5-12m-eu)
 
 Bleibe auf dem Laufenden
 ----------

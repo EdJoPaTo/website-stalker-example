@@ -3039,11 +3039,7 @@ Bei einer Kombination (also z.B. Gutschein und Restsumme Kreditkarte) geht der T
  Ich habe eine BahnCard 25/50, aber kein DB Kundenkonto, um meine digitale BahnCard nutzen zu können.
 ----------
 
-Dann können Sie sich mit Ihrer BahnCard 25/50 Nummer für ein Kundenkonto registrieren.
-
-Einfach [hier registrieren](https://www.bahn.de/buchung/bahncard-register).
-
-Zur [Schritt-für-Schritt Anleitung](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+Wenn Sie Ihre BahnCard 25/50 in Verbindung mit einem DB Kundenkonto gekauft haben, ist diese automatisch in Ihrem DB Kundenkonto hinterlegt. Alternativ können Sie eine BahnCard 25/50 auch nachträglich in Ihrem DB Kundenkonto hinterlegen. Nutzen Sie hierfür den Aktivierungslink, welchen Sie direkt nach dem Kauf per Mail erhalten haben. Sie werden durch die einzelnen Schritte geleitet.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-schon-eine-bahncard-kann-ich-mich-dennoch-registrieren)
 
@@ -3532,13 +3528,6 @@ Ja, Sie können viele 2. Klasse-Tickets im DB Fernverkehr auf die 1. Klasse upgr
 Nein, eine Übertragung der Punkte auf ein BahnBonus Konto anderer Teilnehmer:innen ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahnbonus-punkte-auf-punktekonten-anderer-teilnehmender-uebertragen)
-
- Kann ich meine BahnCard 25/50 im DB Kundenkonto hinterlegen?
-----------
-
-Wenn Sie Ihre BahnCard 25/50 in Verbindung mit einem DB Kundenkonto gekauft haben, ist diese automatisch in Ihrem DB Kundenkonto hinterlegt. Alternativ können Sie eine BahnCard 25/50 auch nachträglich in Ihrem DB Kundenkonto hinterlegen. Bitte loggen Sie sich dazu ein. Im Bereich „BahnCards oder BahnBonus Cards übertragen" können Sie Ihre BahnCard 25/50 nachträglich zu Ihrem DB Kundenkonto hinzufügen. Für das Hinzufügen benötigen Sie einmalig eine PIN. Diese können Sie ebenfalls im Dialogfeld anfordern. Falls Sie Unterstützung bei der Nutzung der digitalen BahnCard 25/50 benötigen, finden Sie weiterführende Informationen unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bahncard-im-kundenkonto-hinterlegen)
 
  Kann ich meine Bankdaten oder Identität über die Servicenummern der DB oder im Reisezentrum bestätigen?
 ----------

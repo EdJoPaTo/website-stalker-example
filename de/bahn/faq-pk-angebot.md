@@ -10331,7 +10331,7 @@ Weitere Informationen zu den Niedersachsen-Tickets sowie Tarifbestimmungen und B
 
 Sie können die Beförderungsbedingungen für den Niedersachsentarif hier herunterladen.
 
-[niedersachsentarif.de](https://www.niedersachsentarif.de/service-kontakt/befoerderungsbedingungen)
+[Mehr unter niedersachsentarif.de](https://www.niedersachsentarif.de/service-kontakt/befoerderungsbedingungen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/niedersachsentarif-befoerderungsbedingungen)
 
@@ -16590,7 +16590,7 @@ Wenn Sie bereits ein Abo haben, werden Sie über die Beendigung Ihres Abo-Vert
 * JobTicket
 * Rhein-Neckar-Ticket
 
-[Abo auswählen](https://abo.bahn.de/bestellen/?tarifid=79,110,1,70,71,2,4,5,44,45,101,102,104,105)
+[Abo auf abo.bahn.de auswählen](https://abo.bahn.de/bestellen/?tarifid=79,110,1,70,71,2,4,5,44,45,101,102,104,105)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-angebote-vrn)
 
