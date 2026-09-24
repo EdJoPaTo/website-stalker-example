@@ -49,6 +49,8 @@ Alle Details ansehen
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-500-g12.5-24m-eu#rs-500-g12.5-24m-nue#rs-500-g12.5-12m-eu)
 
+Empfohlen
+
 ### RS 1000 G12.5 ###
 
 * AMD EPYC™ 9645
@@ -75,7 +77,7 @@ Alle Details ansehen
 
 25,00 €(inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-1000-g12.5-24m-eu#rs-1000-g12.5-24m-nue#rs-1000-g12.5-12m-eu)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-1000-g12.5-24m-eu#rs-1000-g12.5-12m-eu)
 
 ### RS 2000 G12.5 ###
 
@@ -103,7 +105,7 @@ Alle Details ansehen
 
 46,81 €(inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-2000-g12.5-24m-eu#rs-2000-g12.5-24m-nue#rs-2000-g12.5-12m-eu)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-2000-g12.5-24m-eu#rs-2000-g12.5-12m-eu)
 
 ### RS 4000 G12.5 ###
 
@@ -159,7 +161,7 @@ Alle Details ansehen
 
 170,69 €(inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-8000-g12.5-24m-eu#rs-8000-g12.5-24m-nue#rs-8000-g12.5-12m-eu)
+[Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-8000-g12.5-24m-eu#rs-8000-g12.5-12m-eu)
 
 ### RS 12000 G12.5 ###
 
