@@ -11,7 +11,7 @@ Virtuelle Server (VPS)
 vServer günstig mieten
 ----------
 
-vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder NVMe-Speicherplatz aus. Mit der Möglichkeit der stundenbasierten Abrechnung, dem [DDoS-Schutz](https://www.netcup.com/de/ueber-netcup/ddos-schutz), den vorkonfigurierten Images sind unsere vServer **vielseitig zu dem besten Preis-Leistungs-Verhältnis einsetzbar**.
+vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder SSD-Speicherplatz aus. Mit Traffic Flatrate, [DDoS-Schutz](https://www.netcup.com/de/ueber-netcup/ddos-schutz), sowie den vorkonfigurierten Images sind unsere vServer **vielseitig zum besten Preis-Leistungs-Verhältnis einsetzbar**.
 
 1M1 Monat12M12 Monate−13%24M24 Monate−26%
 
@@ -43,7 +43,7 @@ Alle Details ansehen
 
 9,50 €(inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/vps/vps-500-g12.5-24m-eu#vps-500-g12.5-12m-eu)
+Jetzt bestellen\>
 
 ### VPS 1000 G12.5 ###
 
