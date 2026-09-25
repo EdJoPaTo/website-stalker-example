@@ -4099,6 +4099,8 @@ Die App DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
 * Android ab Version Android 8
 * iOS ab Version iOS 15
 
+Die Funktionalität des DB Navigator kann nur für die aufgeführten Betriebssysteme gewährleistet werden. Modifizierte oder davon abgeleitete Betriebssysteme sind davon ausgenommen.
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-welchen-betriebssystem-versionen-kann-ich-den-db-navigator-nutzen)
 
  Mit welchen Geräten kann ich im ICE Portal Zeitungen und Magazine herunterladen und lesen?

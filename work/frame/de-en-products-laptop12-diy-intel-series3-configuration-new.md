@@ -85,35 +85,6 @@ System
 
    
 
-**Storage**
-
- Choose an option
-
- Batch Number  Configure to see batch
-
-[FAQ](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=319&faqable_type=section)
-
-Storage
-
-* Storage, SANDISK SN770M PCIe® 4.0 M.2 2230 - 500GB +€150
-* Storage, SANDISK SN770M PCIe® 4.0 M.2 2230 - 1TB +€285
-* Storage, SANDISK SN770M PCIe® 4.0 M.2 2230 - 2TB +€552
-* Storage, None (bring your own)
-
-**Operating System**
-
- Choose an option
-
- Batch Number  Configure to see batch
-
-[FAQ](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=318&faqable_type=section)
-
-Operating System
-
-* Operating System, Windows 11 Home (Download) +€145
-* Operating System, Windows 11 Pro (Download) +€259
-* Operating System, None (bring your own)
-
 **Memory**
 
  Choose an option
@@ -129,6 +100,39 @@ Memory
 * Memory, DDR5-5600 - 32GB (1 x 32GB) +€452
 * Memory, DDR5-5600 - 48GB (1 x 48GB) +€735
 * Memory, None (bring your own)
+
+  Check current memory prices at [PCPartPicker](https://pcpartpicker.com/products/memory/#ff=ddr5_sodimm&xcx=0&sort=modules&page=1&S=5600).
+
+**Storage**
+
+ Choose an option
+
+ Batch Number  Configure to see batch
+
+[FAQ](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=319&faqable_type=section)
+
+Storage
+
+* Storage, SANDISK SN770M PCIe® 4.0 M.2 2230 - 500GB +€150
+* Storage, SANDISK SN770M PCIe® 4.0 M.2 2230 - 1TB +€285
+* Storage, SANDISK SN770M PCIe® 4.0 M.2 2230 - 2TB +€552
+* Storage, None (bring your own)
+
+  Note: Make sure to use a 2230-sized module.
+
+**Operating System**
+
+ Choose an option
+
+ Batch Number  Configure to see batch
+
+[FAQ](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=318&faqable_type=section)
+
+Operating System
+
+* Operating System, Windows 11 Home (Download) +€145
+* Operating System, Windows 11 Pro (Download) +€259
+* Operating System, None (bring your own)
 
  Customization
 ----------
