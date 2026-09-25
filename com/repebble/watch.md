@@ -22,7 +22,7 @@ For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functio
 
 $199
 
-New orders ship in September - [Status](https://help.repebble.com/en/articles/14892130-shipping-timelines#h_b089356189)
+New orders ship in December - [Status](https://help.repebble.com/en/articles/14892130-shipping-timelines#h_b089356189)
 
 I want one!
 
