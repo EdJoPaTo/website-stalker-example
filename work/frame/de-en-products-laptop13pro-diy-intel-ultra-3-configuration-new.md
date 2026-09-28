@@ -129,6 +129,8 @@ Operating System
 
 Bezel
 
+ Available Colors
+
 * Bezel, Black
 * Bezel, Red
 * Bezel, Translucent
