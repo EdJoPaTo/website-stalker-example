@@ -4099,7 +4099,9 @@ Die App DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
 * Android ab Version Android 8
 * iOS ab Version iOS 15
 
-Die Funktionalität des DB Navigator kann nur für die aufgeführten Betriebssysteme gewährleistet werden. Modifizierte oder davon abgeleitete Betriebssysteme sind davon ausgenommen.
+Die einwandfreie Nutzung des DB Navigators können wir nur auf offiziell unterstützten Android- und iOS-Versionen sicherstellen. Auf veränderten Betriebssystemen können Einschränkungen oder Fehler auftreten.
+
+Für ein optimales Nutzungserlebnis empfehlen wir immer die neueste Version der App DB Navigator zu installieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-welchen-betriebssystem-versionen-kann-ich-den-db-navigator-nutzen)
 
