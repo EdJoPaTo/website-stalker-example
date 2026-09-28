@@ -1295,6 +1295,7 @@
 * [Waschmaschine](https://www.wdrmaus.de/filme/sachgeschichten/waschmaschine.php5)
 * [Wasser in der Wüste](https://www.wdrmaus.de/filme/sachgeschichten/wasser_in_der_wueste.php5)
 * [Wasser schneidet Metall](https://www.wdrmaus.de/filme/sachgeschichten/wasser_schneidet_metall.php5)
+* [Wasser-Sprühdüsen](https://www.wdrmaus.de/filme/sachgeschichten/wasser_spruehduesen.php5)
 * [Wasserball](https://www.wdrmaus.de/filme/sachgeschichten/wasserball.php5)
 * [Wasserbüffel](https://www.wdrmaus.de/filme/sachgeschichten/wasserbueffel.php5)
 * [Wasserhahn](https://www.wdrmaus.de/filme/sachgeschichten/wasserhahn.php5)
