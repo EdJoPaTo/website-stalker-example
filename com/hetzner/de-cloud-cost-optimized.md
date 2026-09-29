@@ -21,7 +21,7 @@ Da für diese Anwendungsbereiche weitergenutzte, bewährte Hardwaregenerationen 
 
 **DSGVO-konform**
 
-Über 400.000 zufriedenen Kunden
+Über 1.000.000 zufriedenen Kunden
 
  VCPU
 

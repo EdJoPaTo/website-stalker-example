@@ -3,6 +3,8 @@ Unsere starken Partner im Getränkesortiment
 
  **Lernen Sie hier unsere Kooperationspartner kennen die Qualität genauso großschreiben, wie wir.**
 
+[www.starbuckschilledcoffee.com](https://www.starbuckschilledcoffee.com/de/whats-cool/pumpkin-spice-frappuccino/)
+
 [www.dallmayr.com/de](https://www.dallmayr.com/de/)
 
 [www.oatly.com/de-de](https://www.oatly.com/de-de)
@@ -21,7 +23,7 @@ Unsere starken Partner im Getränkesortiment
 
 [www.coca-cola-deutschland.de](https://www.coca-cola-deutschland.de/)
 
-[voelkel.bio](https://voelkel.bio/produkt/oktoberfest-ingwer-shot-95ml/)
+[voelkel.bio](https://voelkel.bio/produktart/shots/)
 
 [www.paulaner.de](https://www.paulaner.de/produkte/bierspezialitaten/oktoberfest-bier)
 
@@ -35,7 +37,7 @@ Unsere starken Partner im Getränkesortiment
 
 [de.erdinger.de](https://de.erdinger.de/)
 
-[www.hellosiegfried.com](https://www.hellosiegfried.com/at/siegfried-summer-gin/)
+[www.hellosiegfried.com](https://www.hellosiegfried.com/at/siggi/)
 
 [www.weingut-keth.de](https://www.weingut-keth.de)
 

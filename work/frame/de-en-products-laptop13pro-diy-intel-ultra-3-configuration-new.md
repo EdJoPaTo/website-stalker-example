@@ -63,7 +63,7 @@ System
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
-     Notify me
+   
 
 **Memory**
 
@@ -78,8 +78,8 @@ LPCAMM2 memory on the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) r
 Memory
 
 * Memory, LPCAMM2 - LPDDR5X - 16GB +€269
-* Memory, LPCAMM2 - LPDDR5X - 32GB +€895
-* Memory, LPCAMM2 - LPDDR5X - 64GB +€1,790
+* Memory, LPCAMM2 - LPDDR5X - 32GB +€670
+* Memory, LPCAMM2 - LPDDR5X - 64GB +€1,340
 * Memory, None (bring your own)
 
 **Storage**

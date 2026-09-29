@@ -33,6 +33,6 @@ Mehr über die Bordgastronomie
 
 [Entdecken Sie unsere Aktion](/aktion)
 
- Das ist grün – Mit der Grünen Transformation werden wir unserer ökologischen und gesellschaftlichen Verantwortung gerecht. Erfahren Sie mehr über unsere Strategie und unsere vielfältigen Maßnahmen.
+ Nachhaltigkeit wird bei der Bahn großgeschrieben. Deshalb unterstützen wir Produkte und Initiativen, die den Klima- und Naturschutz fördern. So übernehmen wir gemeinsam soziale Verantwortung und schonen überlebenswichtige Ressourcen.
 
-[Nachhaltigkeit der Deutschen Bahn](https://gruen.deutschebahn.com/de)
+[Unser Engagement](/philosophie)

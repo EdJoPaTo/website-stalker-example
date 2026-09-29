@@ -18,6 +18,12 @@ Not all Shelly devices receive the same firmware updates. See [Firmware Update P
 Unreleased
 ----------
 
+**Available as `2.1.0-beta1`**
+
+### Added ###
+
+* PM & Energy Metering Devices: Add support for Shelly Cloud NILM services (Non-Intrusive Load Monitoring)
+
 [2.0.1] 2026-09-23
 ----------
 

@@ -1,12 +1,10 @@
-Zur Oktoberfestzeit feiern wir bayerische Genussmomente
+Winterzauber im Bordbistro
 ==========
 
-O’zapft is! – August & September 2026
+Oktober bis Januar 2026
 ----------
 
-### Wiesn-Freuden, jetzt wird angestoßen! ###
-
- Perfekt für den kleinen Wiesn‑Moment zwischendurch: **Bio‑Fleischkäse im knusprigen Brötchen**, dazu ein **Oktoberfestbier von Paulaner** oder ein **spritziger Almdudler** – bayerische Klassiker, modern serviert. Oder gesund mit einem belebenden **Voelkel Oktoberfest Ingwer Shot**, auch in leckeren Menüs erhältlich.
+ Ein echter Klassiker für kalte Tage: probieren Sie unser wärmendes **Brauhausgulasch mit Nudeln**, online auch im **Menü mit Starnberger Hell** erhältlich. Oder entdecken Sie unsere **vegetarische Pinsa mit Spinat**, getrockneten Tomaten und Mozzarella, einzeln für den kleinen Hunger zwischendurch und im **Menü mit Bier nach Wahl** (0,33 l Flasche).
 
  Gleich stöbern und genießen: [https://iceportal.de/speisekarte](/rl?t=w_iceportal)
 

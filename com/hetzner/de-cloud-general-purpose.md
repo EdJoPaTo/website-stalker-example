@@ -22,7 +22,7 @@ Klassische Einsatzbereiche sind ERP- und Warenwirtschaftssysteme, Multi-User-Umg
 
 **Global verfügbar mit europäischer Datensicherheit.**
 
-Über 400.000 zufriedenen Kunden
+Über 1.000.000 zufriedenen Kunden
 
  VCPU
 

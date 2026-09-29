@@ -1,23 +1,23 @@
 Aktuelles aus der Bordgastronomie
 ==========
 
-[](/aktion/oktoberfest)
+[](/aktion/winter-herzhaft)
 
-[](/aktion/oktoberfest)
+[](/aktion/winter-suess)
 
 [](/rl/?t=w_bahn-bonus-2501)
 
  Entdecken Sie die Bordgastronomie
 ----------
 
-[](/aktion/oktoberfest)
+[](/aktion/winter-herzhaft)
 
 ### Aktion & Neuigkeiten ###
 
  Immer wieder Neues aus der Bordgastronomie, erfahren Sie hier ein paar Hintergründe zu unserem Sortiment.
 
-[Wiesn-Freuden, jetzt wird angestoßen!](/aktion/oktoberfest)
-[Genuss-Burger in Block House Qualität](/aktion/block-burger)
+[Süßes zur Winterzeit](/aktion/winter-suess)
+[Festtagsstimmung im Zug](/aktion/winter-herzhaft)
 [Gastgeschenk in der 1. Klasse](/aktion/gastgeschenk)
 [Unsere Partner im Speisensortiment](/partner/speisen)
 [Unsere Partner im Getränkesortiment](/partner/getraenke)
@@ -38,10 +38,8 @@ Aktuelles aus der Bordgastronomie
 
 ### Über die Bordgastronomie ###
 
- Erleben Sie hohe Qualität, die man sieht und schmeckt, und erfahren Sie mehr über unser nachhaltiges Engagement.
-
 [Unser Engagement](/philosophie)
-[Unser Qualitätsversprechen](/qualitaet)
+[Rund um Produkt & Verpackung](/qualitaet)
 [FAQ](/faq)
 
  window.addEventListener('load', function() { $('.db-slider').slick({ dots: true, dotsClass: 'slick-dots slider-dots', autoplay: true, autoplaySpeed: 6000, regionLabel: 'Slider Aktionen und Neuigkeiten' }) })

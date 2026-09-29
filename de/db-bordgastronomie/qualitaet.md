@@ -1,4 +1,4 @@
-Unser Qualitätsversprechen
+Rund um Produkt & Verpackung
 ==========
 
 **Bio, fair & Co. – hier informieren wir Sie über Qualität und Nachhaltigkeit der Bordgastronomie**
@@ -30,12 +30,17 @@ Wir servieren Ihnen faire Produkte
 Fairtrade-zertifiziert – Unsere Auswahl an Heißgetränken finden Sie in der [digitalen Speisekarte](/digitalespeisekarte)
 .
 
+Zur PPWR
+----------
+
+ Die Sicherheit unserer Fahrgäste spielt in der DB Bordgastronomie eine zentrale Rolle, weshalb wir die Vorgaben der EU-Verpackungsverordnung (PPWR) konsequent umsetzen. Bevor eine DB-eigene Verpackung bei uns an Bord kommt, durchläuft sie deshalb eine Konformitätsbewertung, deren technische Dokumentation wir für fünf bis zehn Jahre aufbewahren. Für maximale Transparenz trägt jede unserer neuen Verpackungen eine eindeutige Chargen- oder Typennummer zur Identifikation. Ihre Gesundheit schützen wir zudem durch eine strenge Materialauswahl, bei der bedenkliche Stoffe wie bestimmte Schwermetalle oder PFAS-Chemikalien strikt auf das absolute Minimum begrenzt sind. Weiterhin reduzieren wir Gewicht und Volumen unserer Verpackungen auf das Notwendigste. Um Abfall zu vermeiden haben wir uns entschieden, bereits produzierte Verpackungen erst vollständig aufzubrauchen, anstatt diese ungenutzt zu entsorgen. Daher sind unsere Einwegverpackungen für den Sofortverzehr noch nicht mit dem künftig geforderten QR-Code bedruckt; unser Impressum und alle Kontaktwege finden Sie bis zur Umstellung ganz einfach hier über unsere Website.
+
 Mehr über die Bordgastronomie
 ----------
 
- Das ist grün – Mit der Grünen Transformation werden wir unserer ökologischen und gesellschaftlichen Verantwortung gerecht. Erfahren Sie mehr über unsere Strategie und unsere vielfältigen Maßnahmen.
+ Nachhaltigkeit wird bei der Bahn großgeschrieben. Deshalb unterstützen wir Produkte und Initiativen, die den Klima- und Naturschutz fördern. So übernehmen wir gemeinsam soziale Verantwortung und schonen überlebenswichtige Ressourcen.
 
-[Nachhaltigkeit der Deutschen Bahn](https://gruen.deutschebahn.com/de)
+[Unser Engagement](/philosophie)
 
  Immer wieder Neues aus der Bordgastronomie. Freuen Sie sich auf unser wechselndes Aktionsangebot!
 

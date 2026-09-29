@@ -3,11 +3,23 @@ Unsere starken Partner im Speisensortiment
 
  **Lernen Sie hier unsere Kooperationspartner kennen die Qualität genauso großschreiben, wie wir.**
 
- **100 % REGIONAL BLOCK HOUSE-Qualität aus Norddeutschland**
+ **Popkorn vom Allerfeinsten**
 
- Einzigartige Qualität erfordert eine einzigartige Aufzucht: Seit über einem Jahrzehnt setzt BLOCK HOUSE mit dem eigenen Rinderaufzuchtprogramm ein regionales und nachhaltiges Zeichen.
+ Wir backen außergewöhnliche Kreationen in unserer Berliner Popkornditorei. Fettfrei gepoppt, in Karamell gerührt, mit natürlichen Zutaten verfeinert und im Ofen knusprig gebacken.
 
-[BLOCK HOUSE Rinderaufzuchtprogramm](https://l.ead.me/bgW6Mz)
+[knalle.berlin](https://knalle.berlin/)
+
+ **Purer Kartoffelgeschmack**
+
+ Hergestellt aus ausgewählten Bio Zutaten für puren Genuss. Der perfekte Snack für jede Reise, knusprig bis zum Ziel.
+
+[heimatgut.com](https://heimatgut.com/products/kartoffelchips-meersalz-mini-to-go)
+
+ **KITKAT ist der zeitlose Klassiker unter den Knusper-Schokoriegeln.**
+
+ Seine einzigartige Kombination aus zartschmelzender Milchschokolade und knuspriger Waffel macht KITKAT zum leckeren Pausensnack.
+
+[www.kitkat.de](https://www.kitkat.de/produkt/kitkat-breaks-good-classic-milk)
 
  **Der Klassiker nun in Vegan!**
 
@@ -27,21 +39,15 @@ Unsere starken Partner im Speisensortiment
 
 [haferkater.com](https://haferkater.com)
 
- **Innovativ, regional, nachhaltig und unfassbar lecker!**
-
- Ausgewählte Zutaten mit nachhaltiger Herstellung und ungewöhnlichen Geschmacksrichtungen, inspiriert durch die Nähe zum Schwarzwald, sorgen für unvergleichlichen Eis-Genuss.
-
-[www.blackforesticecream.de](https://www.blackforesticecream.de)
-
  **Schokolade, 100% frei von Ausbeutung und Zwangsarbeit**
 
  Mit dem leckeren Riegel aus Vollmilchschokolade, Karamell und Meersalz von Tony’s Chocolonely unterstützen Sie diese Mission jetzt ganz einfach im Bordbistro.
 
 [tonyschocolonely.com/de/de/](https://tonyschocolonely.com/de/de/mission/unsere-mission/)
 
- **Nächster Halt: Veganer Genuss!**
+ **Snack Hunger: Geriegelt**
 
- Der KoRo Proteinriegel mit schokoladigem Brownie-Geschmack lässt Herzen von Sportler:innen, Naschkatzen und Naschkatern gleichermaßen höher schlagen.
+ Fruchtige Himbeere, zartschmelzende Schoko und der ideale Genussmoment für Deine Reise. Hol Dir den neuen KoRo Protein Bar Deluxe Vegan Raspberry Choc direkt im Bordbistro!
 
 [korodrogerie.de](https://www.korodrogerie.de/db)
 
@@ -54,4 +60,4 @@ Mehr über die Bordgastronomie
 
  Mit unserem gastronomischen Service leisten wir nicht nur einen Beitrag zum Genuss an Bord, sondern übernehmen auch Verantwortung für die Gesundheit, Gesellschaft und die Umwelt.
 
-[Mehr zu unserem Qualitätsversprechen](/qualitaet)
+[Rund um Produkt & Verpackung](/qualitaet)
