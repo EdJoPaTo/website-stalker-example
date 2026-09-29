@@ -61,6 +61,8 @@ We also seed hardware to a range of emerging and relevant distros to encourage c
 
 **PikaOS**
 
+**RakuOS**
+
 **Rhino Linux**
 
 **Ubuntu**
