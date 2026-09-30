@@ -1377,10 +1377,9 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
 Hier können Sie Ihre Gruppenreise buchen:
 
-* **online**
+* online **bahn.de**
 * App **DB Navigator** (bis zu max. 99 Personen)
 * **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [+49 30 2970](tel:+49302970) (Kosten abhängig vom Provider)
 
 Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
@@ -1404,10 +1403,9 @@ Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft*
  Wo kann ich den Super Sparpreis Europa Gruppe buchen?
 ----------
 
-* **online**
+* **online bahn.de**
 * App **DB Navigator** (bis zu max. 99 Personen)
 * **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
 
 Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
@@ -1418,10 +1416,13 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wo kann ich den Super Sparpreis Gruppe buchen?
 ----------
 
-* **online**
+Hier können Sie Ihre Gruppenreise buchen:
+
+* online **bahn.de**
 * App **DB Navigator** (bis zu max. 99 Personen)
 * **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
+
+Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
@@ -4741,13 +4742,7 @@ Liegt der vorgeschlagene neue Starthalt vor dem ursprünglich gebuchten Starthal
  Kann ich einzelne Reisende beim Sparpreis Gruppe stornieren?
 ----------
 
-Bei einer Buchung über Ihre **DB Verkaufsstelle vor Ort oder telefonisch**
-
-* **Ja,** Sie können einzelne Teilnehmer stornieren. Bis 14 Tage vor Reisetag geht das kostenfrei. Ab 13 Tage bis einen Tag vor dem 1. Geltungstag fallen 5 Euro pro zu stornierender Person je Fahrkarte an. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen
-
-Bei einer **Online-Buchung**:
-
-* **Nein**, Sie können einzelne Teilnehmer nicht stornieren.
+Ja, Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-sparpreis-gruppe)
 
@@ -4761,7 +4756,7 @@ Für den Super Sparpreis Europa Gruppe ist eine Stornierung einzelner Reisende
  Kann ich einzelne Reisende beim Super Sparpreis Gruppe stornieren?
 ----------
 
-Eine Stornierung einzelner Reisender ist nicht möglich.
+Ja, Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-gruppe)
 
@@ -5252,15 +5247,13 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ti
  Kann ich mein Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
 ----------
 
-Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder umbuchen.
+Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder eine Teilnehmerreduktion vornehmen.
 
-* Bei online gebuchten Sparpreis Gruppen-Tickets können Sie die gesamte Fahrt bis 7 Tage vor Reiseantritt für 19 EUR je Gruppenticket stornieren.
-* Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch können Sie die gesamte Fahrt bis 14 Tage vor dem Reisetag kostenfrei umbuchen oder stornieren. Danach ist ein Umtausch ausgeschlossen. Sie können die gesamte Gruppenreise für 5 Euro je stornierender Person und Ticket bis einen Tag vor Abfahrt erstatten lassen.
-* Bei einer Onlinebuchung können Sie Tickets nicht umtauschen und einzelne Teilnehmer nicht stornieren.
+Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten lassen.
 
 **Sofortstornierung**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -5312,11 +5305,13 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ti
  Kann ich mein Super Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
 ----------
 
-Eine Änderung, Umbuchung oder Stornierung des Super Sparpreis Gruppe-Tickets ist nicht möglich.
+Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder eine Teilnehmerreduktion vornehmen.
+
+Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten lassen.
 
 **Sofortstornierung**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -5692,11 +5687,11 @@ Fahrkarten zum Sparpreis Europa bzw. Super Sparpreis Europa in der 1. und 2. Kla
  Wie lange im Voraus kann ich den Super Sparpreis Europa Gruppe kaufen?
 ----------
 
-Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien, Niederlande, Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus.)
+Fahrkarten können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
 
-Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt buchen.
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+* **online** [**bahn.de**](http://bahn.de/)
+* App **DB Navigator** (bis zu max. 99 Personen)
+* **DB Reisezentrum** oder **DB Agentur**
 
 [Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 

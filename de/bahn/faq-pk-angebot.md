@@ -1189,15 +1189,6 @@ Bundeswehr-Tickets dürfen **nur auf den eigenen Namen** gebucht werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/andere-person-bundeswehr-ticket)
 
- Kann ich meine Anfrage zum Frühbucherangebot "Sparpreis Gruppe" ändern oder stornieren?
-----------
-
-Ja, mit dem Link in Ihrer Auftragsmail können Sie Ihre Anfrage bis 30. September anpassen (Anzahl Reisende und/oder Name) oder stornieren. Die Strecke oder die Reisedaten können Sie leider nicht anpassen. Wenn Sie Strecke oder Reisedatum anpassen wollen, müssen Sie Ihre Anfrage stornieren und eine neue Anfrage stellen.
-
-Nach Eingang der Anzahlung buchen wir Sie entsprechend Ihrer Anfrage zum Tarif "Sparpreis Gruppe" ein. Sie können Ihre Buchung anpassen oder stornieren. Eine kostenlose Stornierung ist bis 14 Tage vor Reisebeginn möglich. Es gelten dann die Bedingungen des Tarifs "Sparpreis Gruppe" in personalbedienten Verkaufsstellen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anfrage-aendern-stornieren-fruehbucherangebot)
-
  Unter „Regionale Angebote“ finde ich in der App DB Navigator nicht das gewünschte Angebot. Wie kann ich es in der App buchen?
 ----------
 
@@ -1333,13 +1324,9 @@ Bei Online-Buchung zahlen Sie den Gesamtpreis sofort.
  Reicht für den Sparpreis Gruppe eine Anzahlung bei der Buchung?
 ----------
 
-Bei Buchung im **DB Reisezentrum** oder in einer **DB Agentur**:
+Bei Buchung unter **bahn.de**, im **DB Reisezentrum** oder in einer **DB Agentur**:
 
-* Ja. Die Anzahlung beträgt **6 Euro pro Person**. Die Restzahlung ist spätestens 14 Tage vor Reiseantritt fällig.
-
-Bei **Online-Buchung**:
-
-* Nein, Sie zahlen den Gesamtpreis sofort.
+Ja. Die Anzahlung beträgt **6 Euro pro Person und Richtung**. Die Restzahlung ist spätestens 30 Tage vor Reiseantritt fällig.
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
@@ -1357,7 +1344,9 @@ Für den Super Sparpreis Europa Gruppe ist eine Anzahlung nicht möglich.
  Genügt für den Super Sparpreis Gruppe eine Anzahlung bei der Buchung?
 ----------
 
-Eine Anzahlung für das Super Sparpreis Gruppe-Ticket ist nicht möglich.
+Bei Buchung **unter bahn.de**, im **DB Reisezentrum** oder in einer **DB Agentu**r:
+
+Ja. Die Anzahlung beträgt **6 Euro pro Person und Richtung**. Die Restzahlung ist spätestens 30 Tage vor Reiseantritt fällig.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
@@ -1937,13 +1926,6 @@ Ja. **Mit der BahnCard 25 erhältst du 25 %** und **mit der** **BahnCard 50 erh�
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-young)
 
- Bekomme ich beim Frühbucherangebot für Gruppen Rabatt mit der BahnCard?
-----------
-
-Nein. Das Frühbucherangebot für Gruppen und Klassenfahrten ist eine Preissicherung. Bei Einbuchung gelten die Konditionen des Tarifs "Sparpreis Gruppe". Bei diesem Tarif gibt es aktuell keinen BahnCard-Rabatt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-fruehbucherangebot)
-
  Haben Sie schon ein SEPA-Lastschriftmandat eingerichtet und trotzdem eine Mahnung für Ihre BahnCard erhalten?
 ----------
 
@@ -2112,7 +2094,7 @@ Nein. Die digitale BahnCard 100 ist fest an das DB Kundenkonto gebunden, in dem 
 
 BahnCards können bis zu 6 Monate im Voraus gekauft werden. Tickets hingegen können bis zu 12 Monate im Voraus (jeweils ab dem Fahrplanwechsel im Juni und Dezember) gebucht werden. Es ist allerdings nicht notwendig, zum Buchungszeitpunkt bereits eine gültige BahnCard für eine in der Zukunft geplante Reise zu haben. Nur am Reisetag ist eine gültige BahnCard vorzuzeigen.
 
-**Die kostenfreie Jugend BahnCard** kann bis zum 30. September 2026 bestellt werden. Letzter erster Geltungstag ist der 31. Oktober 2026.
+**Die kostenfreie Jugend BahnCard** kann vom 7. Oktober bis zum 12. Dezember 2026 bestellt werden. Letzter erster Geltungstag ist der 10. Juni 2027.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-im-voraus-kaufen)
 
@@ -2204,74 +2186,6 @@ Besitzen Sie eine physische BahnCard 100, rufen Sie uns am besten unter [030 297
 Halten Sie bitte Ihre BahnCard-Nummer bereit. ​
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc100-verloren)
-
- Läuft die BahnCard 25 zum Aktionspreis in ein Abo über?
-----------
-
-Ja, die BahnCard 25 zum Aktionspreis geht nach Ablauf des Gültigkeitszeitraums von einem Jahr in ein BahnCard 25-Abonnement zum regulären Preis über, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird. Die Folgekarte ist, abhängig vom Alter sowie ggf. der Ermäßigungsberechtigung, entweder eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder eine My BahnCard der 1. beziehungsweise 2. Klasse.
-
-[Weitere Informationen zur Aktion](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25aktion)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc25herbst-abo)
-
- Wo bestelle ich meine BahnCard 25 zum Aktionspreis?
-----------
-
-Die BahnCard 25 zum Aktionspreis können Sie online, in der App oder in den DB Reisezentren und DB Agenturen kaufen.
-
-[Weitere Informationen zur Aktion](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25aktion)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc25herbst-bestellwege)
-
- Wie lange ist die BahnCard 25 zum Aktionspreis gültig?
-----------
-
-Die BahnCard 25 zum Aktionspreis hat eine Gültigkeit von 12 Monaten ab dem ersten Geltungstag. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My BahnCard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
-
-[Weitere Informationen zur Aktion](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25aktion)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc25herbst-gueltigkeit)
-
- Wieviel kostet die BahnCard 25 zum Aktionspreis?
-----------
-
-Die BahnCard 25 zum Aktionspreis kostet:
-
-* 29,99 Euro in der 2. Klasse
-* 59,99 Euro in der 1. Klasse
-
-[Weitere Informationen zur Aktion](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25aktion)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc25herbst-preis)
-
- Kann ich meine bestehende BahnCard (Business) in eine BahnCard 25 zum Aktionspreis umtauschen?
-----------
-
-Nein, weder ein Upgrade noch ein Umtausch in eine BahnCard (Business) 25 zum Aktionspreis sind möglich. Eine Anrechnung der bestehenden BahnCard (Business) auf eine BahnCard (Business) zum Aktionspreis ist somit nicht möglich.
-
-[Weitere Informationen zur Aktion](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25aktion)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc25herbst-umtausch)
-
- Wer kann die BahnCard 25 zum Aktionspreis erwerben?
-----------
-
-Alle Reisenden können die BahnCard 25 zum Aktionspreis kaufen. Im Aktionszeitraum bietet die BahnCard 25 zum Aktionspreis für alle Zielgruppen den günstigsten Preis. Der letztmögliche erste Geltungstag muss innerhalb dieses Zeitraums liegen.
-
-Die BahnCard 25 hat eine Gültigkeit von 12 Monaten. Sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird, ist die Folgekarte eine reguläre oder ermäßigte BahnCard bzw. eine Senioren BahnCard oder My BahnCard der 1. bzw. 2. Klasse. Anhand ihres Geburtsdatums wird geprüft, welche BahnCard die Folgekarte ist.
-
-[Weitere Informationen zur Aktion](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25aktion)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc25herbst-wer)
-
- Wie lange gibt es die BahnCard 25 zum Aktionspreis?
-----------
-
-Die Aktion gilt vom 1. bis zum 30. September 2026. In diesem Zeitraum kann man die BahnCard 25 zu einem Aktionspreis erwerben. Letztmöglicher erster Geltungstag ist der 30. September 2026.
-
-[Weitere Informationen zur Aktion](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25aktion)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc25herbst-wie-lange)
 
  Wie wird die BahnCard 100 und das Deutschland-Ticket im Zug kontrolliert?
 ----------
@@ -3263,10 +3177,9 @@ Der (Super) Sparpreis Europa Young ist in der Verbindungsauskunft auf unserer We
 
 Hier können Sie Ihre Gruppenreise buchen:
 
-* **online**
+* online **bahn.de**
 * App **DB Navigator** (bis zu max. 99 Personen)
 * **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [+49 30 2970](tel:+49302970) (Kosten abhängig vom Provider)
 
 Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
@@ -3290,10 +3203,9 @@ Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft*
  Wo kann ich den Super Sparpreis Europa Gruppe buchen?
 ----------
 
-* **online**
+* **online bahn.de**
 * App **DB Navigator** (bis zu max. 99 Personen)
 * **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
 
 Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
@@ -3304,10 +3216,13 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wo kann ich den Super Sparpreis Gruppe buchen?
 ----------
 
-* **online**
+Hier können Sie Ihre Gruppenreise buchen:
+
+* online **bahn.de**
 * App **DB Navigator** (bis zu max. 99 Personen)
 * **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
+
+Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
@@ -5745,29 +5660,6 @@ Die Einladungs-E-Mail erhalten Sie vom Absender [invites@microsoft.com](mailto:i
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/freischaltung)
 
- Kann ich das Deutschlandticket mit dem Frühbucherangebot für Gruppen kombinieren?
-----------
-
-Nein, Sie können das Frühbucherangebot nicht mit dem Deutschlandticket kombinieren.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fruehbucherangebot-deutschlandticket)
-
- Können wir mit dem Frühbucherangebot für Gruppen Fahrräder mitnehmen?
-----------
-
-Nein, bei diesem Angebot können Sie Ihr Fahrrad nicht mitnehmen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fruehbucherangebot-fahrradmitnahme)
-
- Wir reisen beim Frühbucherangebot für Gruppen mit mobilitätseingeschränkten Personen. Was müssen wir beachten?
-----------
-
-Reisenden im Rollstuhl und Reisenden mit Schwerbehinderungen empfehlen wir dringend eine Voranmeldung vorzunehmen. Die Voranmeldung und weitere Informationen können Sie bei der Anfrage zum Frühbucherangebot für Gruppen direkt hinterlegen.
-
-* [Mehr Informationen für Fahrgäste mit Mobilitätseinschränkung](https://www.bahn.de/service/individuelle-reise/barrierefrei/eingeschraenkte-mobilitaet)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fruehbucherangebot-mobilitaetseinschraenkungen)
-
  Für welche Fahrten gilt der Reiseschutz?
 ----------
 
@@ -6935,15 +6827,6 @@ Zur Nutzung der digitalen BahnCard 25/50 benötigen Sie ein DB Kundenkonto sowie
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/info-digitale-bahncard)
 
- Wo finde ich Informationen zu meiner Anfrage zum Frühbucherangebot?
-----------
-
-Informationen zu Ihrer Anfrage haben Sie mit Ihrer Bestätigungsmail bekommen (Absender: noreply@db-fruehbucher.de). In dieser E-Mail finden Sie einen Link. Mit diesem Link können Sie Ihre Anfrage ändern.
-
-Sie haben Ihre Bestätigungsmail verloren? Kontaktieren Sie unseren Kundenservice per Mail unter [db-fruehbucher@deutschebahn.com](mailto:db-fruehbucher@deutschebahn.com) oder telefonisch unter +49 (0) 721 938 5386 (Montag bis Freitag von 9 bis 12 Uhr und 14 bis 17 Uhr (zum Ortstarif)).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/informationen-anfrage-fruehbucherangebot)
-
  Wie kann ich Dokumente zu meinem Abo, zum Beispiel einen Insolvenzbeschluss, übermitteln?
 ----------
 
@@ -6975,13 +6858,6 @@ Nein. Der Flexpreis Young gilt **nur für Reisen innerhalb Deutschlands**.
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis-young)
-
- Warum kann ich beim Frühbucherangebot für Gruppen keinen Preis für internationale Reisen sichern?
-----------
-
-Das Frühbucherangebot für Gruppen und Klassenfahrten ist ein neues Angebot, das wir aktuell nur für nationale Reisen anbieten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-fahrt-fruehbucherangebot)
 
  Auf meinem Ticket für die internationale Reise befinden sich keine Angaben zum Abfahrtsgleis. Wo fährt mein Zug ab?
 ----------
@@ -8379,7 +8255,7 @@ Hier finden Sie die Busfahrpläne:
 
 Nein. Mit dem Baden Württemberg-Ticket werden Reisen bereits stark vergünstigt, daher gibt es keine zusätzlichen Rabatte.
 
-[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-man-eine-bahncard25-mit-dem-baden-wuerttemberg-ticket-kombinieren)
 
@@ -8504,14 +8380,6 @@ Bis zu 4 Kinder im Alter von 6 bis 14 Jahren fahren in Begleitung von Reisenden 
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-flexpreis-young)
-
- Können wir mit dem Frühbucherangebot kostenlos Kinder mitnehmen?
-----------
-
-* **Kinder von 0 bis 5 Jahren** reisen immer kostenfrei; ohne eigene Fahrkarte und ohne kostenfreie Sitzplatzreservierung.
-* **Kinder von 6 bis 14 Jahren** erhalten 50 % Ermäßigung auf den Preis, den Erwachsene zahlen. Eine kostenfreie Sitzplatzreservierung ist enthalten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-fruehbucherangebot)
 
  Können Kinder kostenfrei mit dem Flexpreis Europa reisen?
 ----------
@@ -9093,7 +8961,7 @@ Ja, diese BahnCard verlängert sich immer automatisch um ein Jahr, sofern sie ni
 
 [Rückfragen zum Abo](https://www.bahn.de/hilfe#/bahncard)
 
-[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laeuft-die-bahncard-25-in-ein-abo-ueber)
 
@@ -11440,13 +11308,7 @@ Nein, das Ticket ist zweckgebunden und darf nicht für andere Reisen genutzt wer
  Kann ich einzelne Reisende beim Sparpreis Gruppe stornieren?
 ----------
 
-Bei einer Buchung über Ihre **DB Verkaufsstelle vor Ort oder telefonisch**
-
-* **Ja,** Sie können einzelne Teilnehmer stornieren. Bis 14 Tage vor Reisetag geht das kostenfrei. Ab 13 Tage bis einen Tag vor dem 1. Geltungstag fallen 5 Euro pro zu stornierender Person je Fahrkarte an. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen
-
-Bei einer **Online-Buchung**:
-
-* **Nein**, Sie können einzelne Teilnehmer nicht stornieren.
+Ja, Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-sparpreis-gruppe)
 
@@ -11460,7 +11322,7 @@ Für den Super Sparpreis Europa Gruppe ist eine Stornierung einzelner Reisende
  Kann ich einzelne Reisende beim Super Sparpreis Gruppe stornieren?
 ----------
 
-Eine Stornierung einzelner Reisender ist nicht möglich.
+Ja, Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-gruppe)
 
@@ -12457,15 +12319,13 @@ Unabhängig von den tariflichen Angebotskonditionen kannst du auf unserer Websit
  Kann ich mein Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
 ----------
 
-Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder umbuchen.
+Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder eine Teilnehmerreduktion vornehmen.
 
-* Bei online gebuchten Sparpreis Gruppen-Tickets können Sie die gesamte Fahrt bis 7 Tage vor Reiseantritt für 19 EUR je Gruppenticket stornieren.
-* Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch können Sie die gesamte Fahrt bis 14 Tage vor dem Reisetag kostenfrei umbuchen oder stornieren. Danach ist ein Umtausch ausgeschlossen. Sie können die gesamte Gruppenreise für 5 Euro je stornierender Person und Ticket bis einen Tag vor Abfahrt erstatten lassen.
-* Bei einer Onlinebuchung können Sie Tickets nicht umtauschen und einzelne Teilnehmer nicht stornieren.
+Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten lassen.
 
 **Sofortstornierung**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -12531,11 +12391,13 @@ Unabhängig von den tariflichen Angebotskonditionen kannst du auf bahn.de oder i
  Kann ich mein Super Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
 ----------
 
-Eine Änderung, Umbuchung oder Stornierung des Super Sparpreis Gruppe-Tickets ist nicht möglich.
+Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder eine Teilnehmerreduktion vornehmen.
+
+Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten lassen.
 
 **Sofortstornierung**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -13139,12 +13001,7 @@ Der Unterschied liegt in der Bezahlung und dem damit verbundenen Preis des Produ
  Kann ich das Sparpreis Gruppe-Ticket unverbindlich reservieren?
 ----------
 
-Ja, bis zu 2 Monate vor Reiseantritt können Sie die gewünschte Gruppenreise kostenfrei und unverbindlich für 21 Tage reservieren.
-
-**Hier bekommen Sie Ihre Optionsbuchung:**
-
-* **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [+49 30 2970](tel:+49302970) (Kosten abhängig vom Provider)
+Ja, bis zu 60 Tage vor Reiseantritt können Sie die gewünschte Gruppenreise kostenfrei und unverbindlich für 14 Tage reservieren.
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
@@ -13162,7 +13019,7 @@ Für den Super Sparpreis Europa Gruppe ist eine Optionsbuchung nicht möglich.
  Kann ich das Super Sparpreis Gruppe-Ticket unverbindlich reservieren?
 ----------
 
-Eine Reservierung für das Super Sparpreis Gruppe-Ticket ist nicht möglich.
+Ja, bis zu 60 Tage vor Reiseantritt können Sie die gewünschte Gruppenreise kostenfrei und unverbindlich für 14 Tage reservieren.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
@@ -14204,9 +14061,9 @@ Fahrkarten zum Sparpreis Europa bzw. Super Sparpreis Europa in der 1. und 2. Kla
  Wie lange im Voraus kann ich den Sparpreis Gruppe kaufen?
 ----------
 
-**Online,** im **DB Reisezentrum**, in der **DB Agentur** oder per **Telefon** können Sie bis zu 12 Monate im Voraus buchen.
+**Online,** im **DB Reisezentrum** oder in der **DB Agentur** können Sie bis zu 12 Monate im Voraus buchen.
 
-Für mehr Planungssicherheit können Gruppen ab 20 Personen sich mit unserem Frühbucherangebot für Gruppen schon heute Preise für die nächste Fahrplan-Periode sichern.
+Für mehr Planungssicherheit können sich Gruppen ab 20 Personen mit unserem Frühbucherangebot für Gruppen schon heute Preise für die nächste Fahrplan-Periode sichern.
 
 * [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 * [Weitere Informationen zum Frühbucherangebot für Gruppen](https://www.bahn.de/angebot/gruppen/fruehbucherangebot-gruppen)
@@ -14216,11 +14073,11 @@ Für mehr Planungssicherheit können Gruppen ab 20 Personen sich mit unserem Fr�
  Wie lange im Voraus kann ich den Super Sparpreis Europa Gruppe kaufen?
 ----------
 
-Tickets können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien, Niederlande, Luxemburg** und **Schweiz bis zu 12 Monate** im Voraus.)
+Fahrkarten können bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden.
 
-Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu **12 Monate im Voraus** und bis kurz vor Abfahrt buchen.
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+* **online** [**bahn.de**](http://bahn.de/)
+* App **DB Navigator** (bis zu max. 99 Personen)
+* **DB Reisezentrum** oder **DB Agentur**
 
 [Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
@@ -14229,11 +14086,13 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
  Wie lange im Voraus kann ich den Super Sparpreis Gruppe kaufen?
 ----------
 
-Sie können das Super Sparpreis Gruppe-Ticket **bis zu 6 Monate im Voraus** buchen.
+**Online,** im **DB Reisezentrum** oder in der **DB Agentur** können Sie bis zu 12 Monate im Voraus buchen.
 
-[Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
+Für mehr Planungssicherheit können sich Gruppen ab 20 Personen mit unserem Frühbucherangebot für Gruppen schon heute Preise für die nächste Fahrplan-Periode sichern.
 
-[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+[Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
+
+[Weitere Informationen zum Frühbucherangebot für Gruppen](https://www.bahn.de/angebot/gruppen/fruehbucherangebot-gruppen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vorverkauf-super-sparpreis-gruppe)
 
@@ -15303,19 +15162,6 @@ Sind Sie am 1. Reisetag 65 Jahre oder älter, dann können Sie den Sparpreis Sen
 [Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=12:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-die-altersangabe-ab-65-jahre)
-
- Was bedeutet "Preis sichern" beim Frühbucherangebot für Gruppen?
-----------
-
-Wir können Ihnen ab dem 1. Februar einen Preis für Ihre Gruppenreise in der nächsten Fahrplan-Periode nennen. Eine konkrete Verbindung teilen wir Ihnen automatisch später mit.
-
-Wenn der neue Fahrplan Mitte Oktober veröffentlicht ist, teilen wir Ihnen eine konkrete Verbindung mit. Sie erhalten dann auch eine Rechnung für eine Anzahlung in Höhe von 6 Euro pro Person und Richtung. Nach erfolgtem Zahlungseingang buchen wir Sie für diese Verbindung ein. Es gelten die Bedingungen vom Tarif "Sparpreis Gruppe" in personalbedienten Verkaufsstellen. Mehr Informationen zum Sparpreis Gruppe finden Sie unter dem Link unten.
-
-Hinweis: In absoluten Ausnahmefällen (z. B. unvorhergesehen Baustellen) können wir eine Beförderung nicht sicherstellen. Dadurch können wir von der Preisauskunft zurücktreten. In diesen Fällen melden wir uns ohne Verzögerung bei Ihnen und helfen Ihnen, auf Alternativen umzuplanen.
-
-* [Zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-preis-sichern-fruehbucherangebot)
 
  Was beinhalten die beiden Varianten des Garmischer Sommer-Tickets?
 ----------
@@ -17123,7 +16969,7 @@ Für die Kontrolle im Zug benötigen wir zusätzlich Ihren amtlichen Lichtbildna
 * Personen bis einschließlich 64 Jahren, die wegen voller Erwerbsminderung eine Rente beziehen und schwerbehinderte Menschen mit einem Grad der Behinderung von mindestens 70 haben Anspruch auf eine ermäßigte BahnCard
 * Für Personen ab 65 Jahren ist die Senioren BahnCard erhältlich
 
-[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-bahncard-25-erwerben)
 
@@ -18145,7 +17991,7 @@ Die BahnCard 100 ist ab dem 1. Geltungstag 1 Jahr gültig.
 
 Die BahnCard hat eine Gültigkeit von 12 Monaten. Die BahnCard 25 gilt ab dem 1. Geltungstag 1 Jahr lang. Sie wird automatisch um ein weiteres Jahr verlängert, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird.
 
-[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-ist-eine-bahncard-25-gueltig)
 
@@ -19222,7 +19068,7 @@ Die Kosten der BahnCard 25 betragen
 * 62,90 Euro für die 2. Klasse und
 * 125 Euro für die 1. Klasse.
 
-[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-die-bahncard-25)
 
@@ -19241,7 +19087,7 @@ Die BahnCard 50 kostet
  Wie viel kostet die Jugend BahnCard?
 ----------
 
-Nur bis 30. September 2026: Die Jugend BahnCard kostet 0 Euro statt 7,90 Euro pro Jahr (1. und 2. Kl.) bis einschließlich 18 Jahre.
+Vom 7. Oktober bis 12. Dezember 2026: Die Jugend BahnCard kostet 0 Euro statt 7,90 Euro pro Jahr (1. und 2. Kl.) bis einschließlich 18 Jahre.
 
 [Weitere Informationen zur Jugend BahnCard](https://www.bahn.de/angebot/bahncard/junge-reisende/jugendbahncard25)
 
@@ -19531,7 +19377,7 @@ Die BahnCard 25 können Sie gleich hier online kaufen.
 
 Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bahn und in der App.
 
-[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-bahncard-25)
 
@@ -20842,7 +20688,7 @@ Manche Verbünde gewähren Inhaberinnen und Inhabern der BahnCard 25 einen Rabat
 
 * [Link zu diesen Tarif- und Beförderungsbedingungen](https://www.bahn.de/agb)
 
-[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-kann-ich-die-bahncard-25-nutzen)
 
@@ -21134,15 +20980,6 @@ Die Reise ist für Sie kostenlos. Die Buchung des Tickets wird durch einen Aktio
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlung-bundeswehr-dienstantrittsreisen)
 
- Wann muss ich das Frühbucherangebot zahlen?
-----------
-
-Nach der Öffnung des Fahrplans bekommen Sie Ihre konkrete Reiseverbindung und eine Rechnung zur Anzahlung (6 Euro pro Person und Richtung). Diese müssen Sie innerhalb von zwei Wochen nach Erhalt zahlen.
-
-Wenn Ihre Zahlung bei uns eingegangen ist, überführen wir die von uns erstellte Verbindung in eine verbindliche Buchung. Sie müssen den Restbetrag vor Antritt der Reise zahlen. Hierzu gelten die dann geltenden Konditionen vom Sparpreis Gruppe in personalbedienten Verkaufsstellen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zahlung-fruehbucherangebot)
-
  Ist bei Abonnements ein Zahlungsaufschub möglich?
 ----------
 
@@ -21210,13 +21047,6 @@ Du kannst das Angebot vom **1. September bis 12. Dezember 2026** buchen für Rei
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitraum-flexpreis-young)
-
- In welchem Zeitraum kann ich den Preis sichern?
-----------
-
-Für den nächsten Fahrplan können Sie Ihren Preis für Ihre geplante Gruppenreise oder Klassenfahrt sichern. Das ist bis zum 30. September möglich. Den Preis für den übernächsten Fahrplan (für Reisen ab Mitte Dezember des folgenden Jahres) können Sie erst ab Dezember sichern.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitraum-preis-sichern-fruehbucherangebot)
 
  Mit welchen Zügen kann ich bei Dienstantrittsreisen fahren?
 ----------
@@ -21561,7 +21391,7 @@ Fahrkarten für Strecken über 100 km gelten insgesamt 2 Tage plus 3 Stunden, al
 
 Das Ticket gilt **nur** für die Fernverkehrszüge (ICE, IC/EC) und Tage, die auf Ihrer Fahrkarte angegeben sind.
 
-Für die Züge des Nahverkehrs (RE, RB, IRE, S-Bahn) auf Ihrem Ticket besteht keine Zugbindung.
+Für die Züge des Nahverkehrs (RE, RB, IRE, S-Bahn) auf Ihrem Ticket besteht keine Zugbindung. Anmeldepflichtig ab 21 Personen auf [mein-sitzplatz-regio.de](https://mein-sitzplatz-regio.de/gruppenanmeldung/index.html#/)
 
 [Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
 
@@ -21581,13 +21411,9 @@ Mit dem (Super) Sparpreis Young kannst du nur auf der gebuchten Verbindung reise
  Mit welchen Zügen können wir mit dem Super Sparpreis Europa Gruppe reisen?
 ----------
 
-Das Ticket gilt nur für die Fernverkehrszüge (ICE, IC/EC) und Tage, die auf Ihrer Fahrkarte angegeben sind.
-
-Für Züge des Nahverkehrs (RE, RB, IRE, S-Bahn), die für die Anreise zum Bahnhof und Weiterreise zum Zielort genutzt werden, besteht keine Zugbindung.
-
-Fahrkarten für Verbindungen bis 100 km gelten am Reisetag und bis 3 Uhr des Folgetages.
-
-Fahrkarten für Strecken über 100 km gelten insgesamt 2 Tage plus 3 Stunden, also bis 3 Uhr des zweiten Tages nach dem Reisetag.
+* Das Fahrkarte gilt nur für die Fernverkehrszüge (ICE, IC/EC) und Tage, die auf Ihrer Fahrkarte angegeben sind.
+* Für die Züge des Nahverkehrs (RE, RB, IRE, S-Bahn) auf Ihrer Fahrkarte besteht **keine** Zugbindung. Anmeldepflichtig ab 21 Personen auf [mein-sitzplatz-regio.de](https://mein-sitzplatz-regio.de/gruppenanmeldung/index.html#/)
+* Auch für Züge des Nahverkehrs (RE, RB, IRE, S-Bahn), die für die Anreise zum Bahnhof und Weiterreise zum Zielort genutzt werden, besteht **keine** Zugbindung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zuege-super-sparpreis-europa-gruppe)
 
@@ -21596,7 +21422,7 @@ Fahrkarten für Strecken über 100 km gelten insgesamt 2 Tage plus 3 Stunden, al
 
 Das Ticket gilt **nur** für die Fernverkehrszüge (ICE, IC/EC) und Tage, die auf Ihrer Fahrkarte angegeben sind.
 
-Für die Züge des Nahverkehrs (RE, RB, IRE, S-Bahn) auf Ihrem Ticket besteht keine Zugbindung.
+Für die Züge des Nahverkehrs (RE, RB, IRE, S-Bahn) auf Ihrem Ticket besteht keine Zugbindung. Anmeldepflichtig ab 21 Personen auf [mein-sitzplatz-regio.de](https://mein-sitzplatz-regio.de/gruppenanmeldung/index.html#/)
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
@@ -21697,13 +21523,6 @@ Sie erhalten die meisten ZVON-Angebote als Online- oder Handy-Ticket in unserer 
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zvon-wo-kaufen)
-
- Warum kann ich beim Frühbucherangebot für Gruppen nur einen Preis für die 2. Klasse sichern?
-----------
-
-Gruppen bevorzugen aus unserer Erfahrung die zweite Klasse für ihre Reise. Daher führen wir das neue Frühbucherangebot für Gruppen zunächst nur für die zweite Klasse ein. Eine Erweiterung auf die erste Klasse wird zu einem späteren Zeitpunkt geprüft.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zweite-klasse-fruehbucherangebot)
 
  Was muss ich beim Flexpreis Europa beachten, wenn ich einen Zwischenstopp einlegen will?
 ----------

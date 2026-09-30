@@ -1,62 +1,22 @@
-\+4
+[](https://www.strauss.com/de/de/westen/winter-softshellweste-e-s-motion-2020-3140160-65680-766.html?itemorigin=StartseiteHW26)
 
- S1 1003 low
+[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65541-766.html?itemorigin=StartseiteHW26)
 
- ab 59,38 €
+[](https://www.strauss.com/de/de/arbeitswesten-damen/winter-softshellweste-e-s-motion-2020-damen-3140170-65710-766.html?itemorigin=StartseiteHW26)
 
- (m. MwSt.)
+[](https://www.strauss.com/de/de/berufshosen-damen/damenhose-e-s-motion-2020-3310080-65711-766.html?itemorigin=StartseiteHW26)
 
- ab 49,90 € (ohne MwSt.)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-low-1101770-93151-685.html?itemorigin=startseiteHW26)
-
- \+4
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-low-1101770-93152-7.html?itemorigin=startseiteHW26)
-
- S1 1003 low
-
- ab 59,38 €
-
- (m. MwSt.)
-
- ab 49,90 € (ohne MwSt.)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-low-1101770-93151-685.html?itemorigin=startseiteHW26)
-
- Neuzugänge
+ Gemeinsam
+ anpacken
 ---
 
- Stahlkappe
----
+ e.s.motion 2020: Starke Arbeitskleidung fürs ganze Team
 
- Mesh-Komfort
----
+[für Herren](https://www.strauss.com/de/de/e-s-motion-2020/?itemorigin=StartseiteHW26)
 
- Neuzugänge
----
+[für Damen](https://www.strauss.com/de/de/e-s-motion-2020-damen/?itemorigin=StartseiteHW26)
 
- Stahlkappe
----
-
- Mesh-Komfort
----
-
- Sportlich auftreten?
-Aber sicher!
----
-
-[alle Schuhneuheiten entdecken](https://www.strauss.com/de/de/neuheiten-schuhe/)
-
- S1
----
-
- Sicherheitsschuhe mit Zehenschutz
-
- S1
----
-
- Sicherheitsschuhe mit Zehenschutz
+[für Kinder](https://www.strauss.com/de/de/e-s-motion-2020-kinder/?itemorigin=StartseiteHW26)
 
 Alles für den Job:
 Profi-Arbeitskleidung vom Experten
@@ -89,173 +49,290 @@ Profi-Arbeitskleidung vom Experten
  NEU
 ---
 
- % Angebote des Monats %
+[](https://www.strauss.com/de/de/warnschutzjacken/warnschutz-winter-softshellparka-e-s-motion-24-7-3211130-84591-1498.html?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/warnschutzhosen-bundhosen/warnschutz-bundhose-e-s-motion-24-7-3211000-84501-1498.html?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/warnjacken-damen/warnschutz-winter-softshellj-e-s-motion-24-7-dam-3211040-84571-1498.html?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/warnschutzhosen-damen/warnschutz-bundhose-e-s-motion-24-7-damen-3211010-84551-1498.html?itemorigin=StartseiteHW26)
+
+ Team-Warnschutz:
+sicher & wetterfest
 ---
 
- % Angebote des Monats %
----
+[für Herren](https://www.strauss.com/de/de/warnschutzkleidung-en20471/?itemorigin=StartseiteHW26)
 
- Bis zu
-\-47%
-----------
+[für Damen](https://www.strauss.com/de/de/warnschutzkleidung-en20471-damen/?itemorigin=StartseiteHW26)
 
----
+[für Herren](https://www.strauss.com/de/de/warnschutzkleidung-en20471/?itemorigin=StartseiteHW26)
 
- Gültig bis 30.09.2026 | Solange der Vorrat reicht
+[für Damen](https://www.strauss.com/de/de/warnschutzkleidung-en20471-damen/?itemorigin=StartseiteHW26)
 
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/)
+ Softshelljacke
 
-[](https://www.strauss.com/de/de/angebote-des-monats/)
+ ab 47,48 €
 
-[](https://www.strauss.com/de/de/softshelljacken-damen/softshelljacke-e-s-motion-2020-damen-3130420-65822-1965.html?itemorigin=startseiteHW26)
+ (m. MwSt.)
 
- Graphit-Feuerrot
----
+[](https://www.strauss.com/de/de/arbeits-softshelljacken/softshelljacke-e-s-line-core-3135560-64342-1957.html?itemorigin=StartseiteHW26)
 
- Für Herren & Damen
----
+[](https://www.strauss.com/de/de/arbeits-softshelljacken/softshelljacke-e-s-line-core-3135560-64342-1957.html?itemorigin=StartseiteHW26)
 
- Graphit-Feuerrot
----
+ Softshelljacke
 
- Für Herren & Damen
----
+ ab 47,48 €
 
- Motion 2020
-setzt neue Akzente
----
+ (m. MwSt.)
 
- Neue
-Farbe
----
+[](https://www.strauss.com/de/de/arbeits-softshelljacken/softshelljacke-e-s-line-core-3135560-64342-1957.html?itemorigin=StartseiteHW26)
 
- Neue
-Farbe
----
+[](https://www.strauss.com/de/de/arbeits-softshelljacken/softshelljacke-e-s-line-core-3135560-64342-1957.html?itemorigin=StartseiteHW26)
 
-[neue Farbe entdecken](https://www.strauss.com/de/de/e-s-motion-2020/)
+[](https://www.strauss.com/de/de/fleecejacken-strickjacken/jacke-double-climafoam-e-s-line-core-3155570-64349-1957.html?itemorigin=StartseiteHW26)
 
-[Farbe entdecken](https://www.strauss.com/de/de/e-s-motion-2020/)
-
-[](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64347-1957.html?itemorigin=startseiteHW26)
-
-[](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64347-1957.html?itemorigin=startseiteHW26)
-
- Neue Kollektion
----
-
- Leicht & beweglich
----
-
- Personalisierbar für jedes Team
----
-
- Neue Kollektion
----
-
- Leicht & beweglich
----
-
- Personalisierbar
----
-
- Starke Leistung
-zum starken Preis
----
-
-[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-line-core-3165120-64341-1957.html?itemorigin=startseiteHW26)
-
- Bundhose
+ Jacke double climafoam
 
  ab 41,53 €
 
  (m. MwSt.)
 
- ab 34,90 € (ohne MwSt.)
+[](https://www.strauss.com/de/de/fleecejacken-strickjacken/jacke-double-climafoam-e-s-line-core-3155570-64349-1957.html?itemorigin=StartseiteHW26)
 
- Winterjacke Padded
+ Jacke double climafoam
 
- ab 51,05 €
+ ab 41,53 €
 
  (m. MwSt.)
 
- ab 42,90 € (ohne MwSt.)
+[](https://www.strauss.com/de/de/fleecejacken-strickjacken/jacke-double-climafoam-e-s-line-core-3155570-64349-1957.html?itemorigin=StartseiteHW26)
 
-[](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-padded-e-s-line-core-3135580-64348-1957.html?itemorigin=startseiteHW26)
+[](https://www.strauss.com/de/de/fleecejacken-strickjacken/jacke-double-climafoam-e-s-line-core-3155570-64349-1957.html?itemorigin=StartseiteHW26)
 
-[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
+ Flexible Wärme
+für den Herbst
+---
 
-[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
+Warme, leichte Arbeitsjacken für den Übergang
+
+[Softshelljacken](https://www.strauss.com/de/de/arbeits-softshelljacken/?itemorigin=StartseiteHW26)
+
+[Fleecejacken](https://www.strauss.com/de/de/fleecejacken-strickjacken/?itemorigin=StartseiteHW26)
+
+[Troyer](https://www.strauss.com/de/de/pullover-troyer/?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/fleecejacken-strickjacken-damen/fleecejacke-e-s-vintage-damen-3133880-71311-1352.html?itemorigin=StartseiteHW26)
+
+ Flexible Wärme
+für den Herbst
+---
+
+Warme, leichte Arbeitsjacken für den Übergang
+
+[Softshelljacken](https://www.strauss.com/de/de/softshelljacken-damen/?itemorigin=StartseiteHW26)
+
+[Fleecejacken](https://www.strauss.com/de/de/fleecejacken-strickjacken-damen/?itemorigin=StartseiteHW26)
+
+[Troyer](https://www.strauss.com/de/de/pullover-troyer-damen/?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/fleecejacken-strickjacken-kinder/faserpelz-jacke-e-s-vintage-kinder-3133830-71371-1343.html?itemorigin=StartseiteHW26)
+
+ Flexible Wärme
+für den Herbst
+---
+
+Warme, leichte Arbeitsjacken für den Übergang
+
+[Softshelljacken](https://www.strauss.com/de/de/softshelljacken-kinder/?itemorigin=StartseiteHW26)
+
+[Fleecejacken](https://www.strauss.com/de/de/fleecejacken-strickjacken-kinder/?itemorigin=StartseiteHW26)
+
+[Troyer](https://www.strauss.com/de/de/kinder-pullover-troyer/?itemorigin=StartseiteHW26)
+
+ \+1
+
+ S3 3002 mid
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93186-1.html?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93186-1.html?itemorigin=StartseiteHW26)
+
+ \+2
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93189-1944.html?itemorigin=StartseiteHW26)
+
+ S3 3002 mid
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93186-1.html?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93186-1.html?itemorigin=StartseiteHW26)
+
+ Trittfest in
+jedem Job
+---
+
+[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/?itemorigin=StartseiteHW26)
+
+[alle Berufsschuhe](https://www.strauss.com/de/de/berufsschuhe/?itemorigin=StartseiteHW26)
+
+[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/?itemorigin=StartseiteHW26)
+
+[alle Berufsschuhe](https://www.strauss.com/de/de/berufsschuhe/?itemorigin=StartseiteHW26)
+
+ S3
+---
+
+ Sicherheitsschuhe mit Zehenschutz
+
+ S3
+---
+
+ Sicherheitsschuhe mit Zehenschutz
+
+ Gut geschützt in
+jedem Einsatzbereich
+---
+
+[Arbeitsschutz entdecken](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=StartseiteHW26)
+
+[Arbeitsschutz entdecken](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=StartseiteHW26)
+
+ Gehörschutz
+---
+
+[](https://www.strauss.com/de/de/gehoerschutz/?itemorigin=StartseiteHW26)
+
+ Handschuhe
+---
+
+[](https://www.strauss.com/de/de/arbeitshandschuhe/?itemorigin=StartseiteHW26)
 
  Neuzugänge
 ---
 
- extra warm & flexibel
+ Neuzugänge
+---
+
+ STRAUSS X *MLB™*
+---
+
+[](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=StartseiteHW26)
+
+ Herren
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+
+ Damen
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+
+ Kinder
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+
+ \*KI-generierter Hintergrund
+
+ Neuzugänge
 ---
 
  Neuzugänge
 ---
 
- extra warm & flexibel
+ STRAUSS X *MLB™*
 ---
 
- Troyer thermo
-stretch e.s.trail
+[](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=StartseiteHW26)
+
+ Herren
 ---
 
-[für Damen](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71386-1961.html?itemorigin=startseiteHW26)
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
 
-[für Herren](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71335-1964.html?itemorigin=startseiteHW26)
-
-[für Kinder](https://www.strauss.com/de/de/kinder-pullover-troyer/troyer-thermo-stretch-e-s-trail-kinder-3121980-71341-1959.html?itemorigin=startseiteHW26)
-
-[für Damen](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71386-1961.html?itemorigin=startseiteHW26)
-
-[für Herren](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71335-1964.html?itemorigin=startseiteHW26)
-
-[für Kinder](https://www.strauss.com/de/de/kinder-pullover-troyer/troyer-thermo-stretch-e-s-trail-kinder-3121980-71341-1959.html?itemorigin=startseiteHW26)
-
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail-damen/)
-
-[Kollektion entdecken](https://www.strauss.com/de/de/e-s-trail-damen/)
-
-[](https://www.strauss.com/de/de/straussboxen-unbestueckt/straussbox-340-maxi-7073120-5506276-0.html?itemorigin=startseiteHW26)
-
- STRAUSSbox System
+ Damen
 ---
 
- STRAUSSbox System
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+
+ Kinder
 ---
 
- STRAUSSbox
-340 maxi
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+
+ Neuzugänge
 ---
 
- Werkzeugbox mit extra großem Stauraum
+ Neuzugänge
 ---
 
- besonders lang und hoch für sperrige Werkzeuge
+ STRAUSS X *MLB™*
 ---
 
- mit anderen STRAUSSboxen stapel-, verklick- & transportierbar
+[](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=StartseiteHW26)
+
+ Herren
 ---
 
- Werkzeugbox mit extra großem Stauraum
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+
+ Damen
 ---
 
- besonders lang und hoch für sperrige Werkzeuge
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+
+ Kinder
 ---
 
- mit anderen STRAUSSboxen stapel-, verklick- & transportierbar
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+
+ Neuzugänge
 ---
 
-[STRAUSSbox 340 maxi](https://www.strauss.com/de/de/straussboxen-unbestueckt/straussbox-340-maxi-7073120-5506276-0.html)
+ Neuzugänge
+---
 
-[alle STRAUSSboxen entdecken](https://www.strauss.com/de/de/straussbox-system/)
+ STRAUSS X *MLB™*
+---
 
-[STRAUSSbox 340 maxi](https://www.strauss.com/de/de/straussboxen-unbestueckt/straussbox-340-maxi-7073120-5506276-0.html)
+[](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=StartseiteHW26)
 
-[alle STRAUSSboxen entdecken](https://www.strauss.com/de/de/straussbox-system/)
+ Herren
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+
+ Damen
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+
+ Kinder
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+
+*
+*
+*
+*
 
  Druck & Stick - ab 1 Stück
 ----------
@@ -267,7 +344,7 @@ stretch e.s.trail
 
 zu den Produkten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteHW26)
 
  Druck & Stick - ab 1 Stück
 ---
@@ -277,7 +354,7 @@ zu den Produkten
 
 zu den Produkten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteHW26)
 
  mehr bestellen, mehr sparen
 ---
@@ -305,134 +382,7 @@ Stick: Direkteinstickung
 
  Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
 
- Neuzugänge
----
-
- Neuzugänge
----
-
- STRAUSS X *MLB™*
----
-
-[](https://www.strauss.com/de/de/mlb-x-strauss/)
-
- Herren
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
-
- Damen
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
-
- Kinder
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
-
- \*KI-generierter Hintergrund
-
- Neuzugänge
----
-
- Neuzugänge
----
-
- STRAUSS X *MLB™*
----
-
-[](https://www.strauss.com/de/de/mlb-x-strauss/)
-
- Herren
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
-
- Damen
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
-
- Kinder
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
-
- Neuzugänge
----
-
- Neuzugänge
----
-
- STRAUSS X *MLB™*
----
-
-[](https://www.strauss.com/de/de/mlb-x-strauss/)
-
- Herren
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
-
- Damen
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
-
- Kinder
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
-
- Neuzugänge
----
-
- Neuzugänge
----
-
- STRAUSS X *MLB™*
----
-
-[](https://www.strauss.com/de/de/mlb-x-strauss/)
-
- Herren
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
-
- Damen
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
-
- Kinder
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
-
-*
-*
-*
-*
-
-[Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/)
+[Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/?itemorigin=StartseiteHW26)
 
  Von Workwear
 bis Werkzeug – Über
@@ -441,13 +391,13 @@ bis Werkzeug – Über
 
 ---
 
-[Arbeitsschuhe](https://www.strauss.com/de/de/arbeitsschuhe/)
+[Arbeitsschuhe](https://www.strauss.com/de/de/arbeitsschuhe/?itemorigin=StartseiteHW26)
 
-[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/)
+[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=StartseiteHW26)
 
-[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/)
+[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?itemorigin=StartseiteHW26)
 
-[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/)
+[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?itemorigin=StartseiteHW26)
 
  Newsletter
 ----------
@@ -457,7 +407,7 @@ bis Werkzeug – Über
  abonnieren & sparen
 ---
 
-[](https://www.strauss.com/de/de/Service/Newsletter)
+[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
 
  Sonder- & Rabattaktionen
 ---
@@ -468,24 +418,24 @@ bis Werkzeug – Über
  exklusive Gutscheine
 ---
 
-[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter) [](https://www.strauss.com/de/de/Service/Newsletter)
+[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26) [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
 
  Exklusive Newsletter-Vorteile sichern
 ---
 
-[](https://www.strauss.com/de/de/Service/Newsletter)
+[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
 
  30 TAGE RÜCKGABERECHT
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
+[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch?itemorigin=StartseiteHW26)
 
  KOSTENLOSE RÜCKSENDUNGEN
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
+[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch?itemorigin=StartseiteHW26)
 
  KAUF AUF RECHNUNG
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen)
+[mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen?itemorigin=StartseiteHW26)
 
 [Strauss America, English](https://us.strauss.com/)
 
