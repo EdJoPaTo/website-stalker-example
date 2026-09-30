@@ -2278,8 +2278,8 @@ Die Aktion gilt vom 1. bis zum 30. September 2026. In diesem Zeitraum kann man d
 
 Für die **Kontrolle im Zug** gibt es bei der BahnCard 100 und dem **integrierten Deutschland-Ticket** folgende Regelungen:
 
-* Zeigen Sie Ihre BahnCard100 in der DB Navigator App im Menübereich "Reisen" unter "Zeitkarten & Abos" vor.
-* Das integrierte Deutschland-Ticket müssen Sie in ein (geschäftliches oder privates) Kundenkonto laden und **digital in der DB Navigator App** vorzeigen.
+* Zeigen Sie Ihre BahnCard100 in der DB Navigator App im Menübereich "Reisen" unter "BahnCards, Zeitkarten & Abos" vor.
+* Das integrierte Deutschland-Ticket müssen Sie in ein (geschäftliches oder privates) DB Kundenkonto laden und **digital in der DB Navigator App** vorzeigen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bcb100-dticket-kontrolle)
 

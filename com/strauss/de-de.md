@@ -625,9 +625,9 @@ Sprachauswahl
 
 de en fr
 
-Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 € Warenwert.
+Alle Preise zzgl. Versandkosten bei Bestellungen unter 178.50 € Warenwert.
 
- Alle Preise zzgl. gesetzlicher MwSt. zzgl. Versandkosten bei Bestellungen unter 150,00 € Warenwert.
+ Alle Preise zzgl. gesetzlicher MwSt. zzgl. Versandkosten bei Bestellungen unter 150.00 € Warenwert.
 
 * [Datenschutz](https://www.strauss.com/de/de/Rechtliches/Datenschutz)
 * [AGB](https://www.strauss.com/de/de/Rechtliches/AGB)

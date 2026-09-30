@@ -3,6 +3,14 @@ Framework Desktop
 
  Framework Desktop DIY Edition (AMD Ryzen™ AI Max 300 Series)
 
+[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
+
+[Pre-built Ready to use with OS pre-installed.](/de/en/products/desktop-amd-aimax400/configuration/new)
+
+[Pre-order AI Max 400 Series Starting at €7,659.00](/de/en/products/desktop-diy-amd-aimax400/configuration/new)
+
+[AI Max 300 Series Starting at €1,429.00](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
+
 [View product details](/de/en/desktop?slug=desktop-diy-amd-aimax300&tab=specs)
 
 Ordering more than 1 computer?
