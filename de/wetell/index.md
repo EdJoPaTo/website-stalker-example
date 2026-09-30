@@ -72,7 +72,6 @@ Menü [](https://www.wetell.de/)
   Fürs Business
   * [Fürs Business](https://www.wetell.de/fuers-business/)
   * [Businesstarife](https://www.wetell.de/fuers-business/businesstarife/)
-  * [GigaMobil](https://www.wetell.de/fuers-business/businesstarife/gigamobil/)
   * [SmartTech](https://www.wetell.de/fuers-business/businesstarife/smarttech/)
   * [Optionen](https://www.wetell.de/fuers-business/businesstarife/optionen/)
     * [FAIRstärker](https://www.wetell.de/fuers-business/businesstarife/optionen/fairstarker/)
@@ -467,7 +466,6 @@ Ich möchte den monatlichen WEtell Newsletter erhalten und akzeptiere die [Daten
 
 * [Fürs Business](https://www.wetell.de/fuers-business/)
 * [Businesstarife](https://www.wetell.de/fuers-business/businesstarife/)
-* [GigaMobil](https://www.wetell.de/fuers-business/businesstarife/gigamobil/)
 * [SmartTech](https://www.wetell.de/fuers-business/businesstarife/smarttech/)
 * [Optionen](https://www.wetell.de/fuers-business/businesstarife/optionen/)
 * [Wechselservice](https://www.wetell.de/fuers-business/businesstarife/wechselservice/)

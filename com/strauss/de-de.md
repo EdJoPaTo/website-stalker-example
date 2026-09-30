@@ -584,6 +584,7 @@ zzgl. Versandkosten
 
 * Zahlarten
 
+  * [Wero](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Apple Pay](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Google Pay](https://www.strauss.com/de/de/Service/Bezahlen)
   * [PayPal](https://www.strauss.com/de/de/Service/Bezahlen)
