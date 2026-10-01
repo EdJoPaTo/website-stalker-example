@@ -418,7 +418,9 @@ bis Werkzeug – Über
  exklusive Gutscheine
 ---
 
-[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26) [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
+[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
 
  Exklusive Newsletter-Vorteile sichern
 ---

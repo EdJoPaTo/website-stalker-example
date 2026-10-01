@@ -19,8 +19,6 @@ Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](htt
 
 1M1 Monat12M12 Monate−13%24M24 Monate−26%
 
- 30 Tage Geld-Zurück-Garantie
-
 ### RS 500 G12.5 ###
 
 * AMD EPYC™ 9645

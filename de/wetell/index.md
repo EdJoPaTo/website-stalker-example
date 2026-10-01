@@ -308,7 +308,7 @@ Wenn du später in einen größeren Tarif wechseln willst (Tarifupgrade), melde 
 Überschall
 ----------
 
-∞ GB
+Unbegrenzt
 
 * Daten 5G
 * Allnet Flat (Telefonie/SMS)

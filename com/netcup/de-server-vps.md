@@ -15,8 +15,6 @@ vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder 
 
 1M1 Monat12M12 Monate−13%24M24 Monate−26%
 
- 30 Tage Geld-Zurück-Garantie
-
 ### VPS 500 G12.5 ###
 
 * 2 vCore

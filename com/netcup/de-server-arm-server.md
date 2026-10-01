@@ -16,8 +16,6 @@ Mit **ARMv8** und **Aarch64-Unterstützung** bieten unsere ARM-Server eine breit
 
 1M1 Monat12M12 Monate−13%24M24 Monate−26%
 
- 30 Tage Geld-Zurück-Garantie
-
 ### VPS 500 ARM G12.5 ###
 
 * 2 vCore

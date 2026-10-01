@@ -578,13 +578,17 @@ See [RFC 2093](https://github.com/rust-lang/rfcs/blob/master/text/2093-infer-out
 
 >
 >
-> Warning
+> Note
 >
 >
 >
-> Implicit lifetime bounds are not semantically equivalent to explicit ones since the latter
-> may affect the implicit lifetime bound of trait object types that are passed as arguments
-> to the overarching struct, enum or union.
+> This lint intentionally doesn’t get emitted for explicit outlives-bounds on type
+> parameters that aren’t bounded by `Sized` (unless they’re higher-ranked) since unlike
+> implicit outlives-bounds these may affect the implicit lifetime bound of trait object
+> types that are passed as arguments to the overarching struct, enum or union.
+>
+>
+>
 > Rephrased, they participate in [trait object lifetime defaulting](https://doc.rust-lang.org/reference/lifetime-elision.html#default-trait-object-lifetimes).
 >
 >
@@ -608,9 +612,23 @@ See [RFC 2093](https://github.com/rust-lang/rfcs/blob/master/text/2093-infer-out
 >
 >
 >
-> Consequently, removing explicit outlives-bounds on type parameters of publicly reachable types
-> constitutes a **breaking change** if the lifetime refers to a lifetime parameter and
-> the type parameter is not bounded by `Sized` (thereby admitting trait object types).
+> Due to the explicit outlives-bound the function `render` above is equivalent to:
+>
+>
+>
+> ```
+> fn render<'r>(_: Ref<'r, dyn std::fmt::Display + 'r>) {}
+> ```
+>
+>
+>
+> If it wasn’t for that explicit bound then the function would mean the following instead:
+>
+>
+>
+> ```
+> fn render<'r>(_: Ref<'r, dyn std::fmt::Display + 'static>) {}
+> ```
 >
 >
 
@@ -1628,6 +1646,64 @@ would not be exhaustive. This lets the user be informed if new fields/variants w
 ----------
 
 The lint `or-patterns-back-compat` has been renamed to [`rust-2021-incompatible-or-patterns`](#rust-2021-incompatible-or-patterns).
+
+[raw-borrows-via-references](#raw-borrows-via-references)
+----------
+
+The `raw_borrows_via_references` lint checks for references that decay immediately into raw borrows.
+
+### Example ###
+
+```
+#![warn(raw_borrows_via_references)]
+
+fn via_ref(x: *const (i32, i32)) -> *const i32 {
+    unsafe { &(*x).0 as *const i32 }
+}
+
+fn main() {
+    let x = (0, 1);
+    let _r = via_ref(&x);
+}
+```
+
+This will produce:
+
+```
+warning: creating an intermediate reference implies aliasing requirements even when immediately cast to a raw pointers
+ --> lint_example.rs:4:14
+  |
+4 |     unsafe { &(*x).0 as *const i32 }
+  |              ^^^^^^^^^^^^^^^^^^^^^
+  |
+note: the lint level is defined here
+ --> lint_example.rs:1:9
+  |
+1 | #![warn(raw_borrows_via_references)]
+  |         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+help: consider using `&raw const` for a safer and more explicit raw pointer
+  |
+4 -     unsafe { &(*x).0 as *const i32 }
+4 +     unsafe { &raw const (*x).0 }
+  |
+
+```
+
+### Explanation ###
+
+Creating unnecessary references is discouraged because it makes code
+less explicit and can lead to undefined behavior. Creating a reference
+induces aliasing assumptions that the compiler relies on, so an
+otherwise-pointless reference can cause undefined behavior even when the
+reference is never read through. Avoiding them keeps the code more
+explicit and easier to reason about.
+
+See the [Reference](https://doc.rust-lang.org/reference/behavior-considered-undefined.html) for the full set of validity requirements that
+references must uphold.
+
+This lint is “allow” by default because it will trigger for a large
+amount of existing Rust code.
+Eventually it is desired for this to become warn-by-default.
 
 [redundant-imports](#redundant-imports)
 ----------
@@ -2837,7 +2913,7 @@ note: the lint level is defined here
 1 | #![deny(unsafe_code)]
   |         ^^^^^^^^^^^
 
-error: usage of the unsafe `#[no_mangle]` attribute
+error: usage of the unsafe `no_mangle` attribute
  --> lint_example.rs:8:3
   |
 8 | #[no_mangle]
@@ -2845,7 +2921,7 @@ error: usage of the unsafe `#[no_mangle]` attribute
   |
   = note: the linker's behavior with multiple libraries exporting duplicate symbol names is undefined and Rust cannot provide guarantees when you manually override them
 
-error: usage of the unsafe `#[export_name]` attribute
+error: usage of the unsafe `export_name` attribute
   --> lint_example.rs:11:3
    |
 11 | #[export_name = "exported_symbol_name"]
@@ -2853,7 +2929,7 @@ error: usage of the unsafe `#[export_name]` attribute
    |
    = note: the linker's behavior with multiple libraries exporting duplicate symbol names is undefined and Rust cannot provide guarantees when you manually override them
 
-error: usage of the unsafe `#[no_mangle]` attribute
+error: usage of the unsafe `no_mangle` attribute
   --> lint_example.rs:14:3
    |
 14 | #[no_mangle]
@@ -2861,7 +2937,7 @@ error: usage of the unsafe `#[no_mangle]` attribute
    |
    = note: the linker's behavior with multiple libraries exporting duplicate symbol names is undefined and Rust cannot provide guarantees when you manually override them
 
-error: usage of the unsafe `#[link_section]` attribute
+error: usage of the unsafe `link_section` attribute
   --> lint_example.rs:15:3
    |
 15 | #[link_section = ".example_section"]

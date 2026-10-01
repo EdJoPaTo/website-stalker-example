@@ -18,6 +18,12 @@ Not all Shelly devices receive the same firmware updates. See [Firmware Update P
 Unreleased
 ----------
 
+**Available as `2.1.0-beta2`**
+
+### Fixed ###
+
+* [Pro3EM](/gen2/Devices/Gen2/ShellyPro3EM): Fix NILM startup
+
 **Available as `2.1.0-beta1`**
 
 ### Added ###

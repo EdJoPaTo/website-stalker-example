@@ -8255,7 +8255,7 @@ Hier finden Sie die Busfahrpläne:
 
 Nein. Mit dem Baden Württemberg-Ticket werden Reisen bereits stark vergünstigt, daher gibt es keine zusätzlichen Rabatte.
 
-[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-man-eine-bahncard25-mit-dem-baden-wuerttemberg-ticket-kombinieren)
 
@@ -8747,6 +8747,24 @@ Die Konditionen einzelner Länder können davon abweichen. Informationen dazu fi
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-sparpreis-gruppe)
 
+ Gibt es für kostenfrei mitreisende Kleinkinder kostenfreie Sitzplatzreservierungen beim Sparpreis Gruppe?
+----------
+
+Nein. Reservierungen für Kleinkinder sind optional und können hinzu gebucht werden.
+
+* 5,50 Euro für die 2. Klasse
+* 6,90 Euro für die 1. Klasse
+
+Sie können Ihre Sitzplatzreservierung für ein mitreisendes Kleinkind nicht umbuchen oder umtauschen. Wenn Sie eine andere Sitzplatzreservierung brauchen, buchen Sie sich bitte eine neue Reservierung.
+
+* [Sitzplatz buchen](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr-nur-sitzplatz)
+
+[Weitere Informationen zum Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/sparpreis-gruppe)
+
+[Günstigen Preis finden](https://www.bahn.de/buchung/intern/start#?R=13:16:KLASSENLOS:6)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-sparpreis-gruppe-sitzplatzreservierung)
+
  Können wir mit dem Super Sparpreis Gruppe kostenlos Kinder mitnehmen?
 ----------
 
@@ -8961,7 +8979,7 @@ Ja, diese BahnCard verlängert sich immer automatisch um ein Jahr, sofern sie ni
 
 [Rückfragen zum Abo](https://www.bahn.de/hilfe#/bahncard)
 
-[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/laeuft-die-bahncard-25-in-ein-abo-ueber)
 
@@ -16969,7 +16987,7 @@ Für die Kontrolle im Zug benötigen wir zusätzlich Ihren amtlichen Lichtbildna
 * Personen bis einschließlich 64 Jahren, die wegen voller Erwerbsminderung eine Rente beziehen und schwerbehinderte Menschen mit einem Grad der Behinderung von mindestens 70 haben Anspruch auf eine ermäßigte BahnCard
 * Für Personen ab 65 Jahren ist die Senioren BahnCard erhältlich
 
-[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-die-bahncard-25-erwerben)
 
@@ -17991,7 +18009,7 @@ Die BahnCard 100 ist ab dem 1. Geltungstag 1 Jahr gültig.
 
 Die BahnCard hat eine Gültigkeit von 12 Monaten. Die BahnCard 25 gilt ab dem 1. Geltungstag 1 Jahr lang. Sie wird automatisch um ein weiteres Jahr verlängert, sofern sie nicht 4 Wochen vor Laufzeitende in Textform gekündigt wird.
 
-[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-lange-ist-eine-bahncard-25-gueltig)
 
@@ -19068,7 +19086,7 @@ Die Kosten der BahnCard 25 betragen
 * 62,90 Euro für die 2. Klasse und
 * 125 Euro für die 1. Klasse.
 
-[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-die-bahncard-25)
 
@@ -19086,6 +19104,8 @@ Die BahnCard 50 kostet
 
  Wie viel kostet die Jugend BahnCard?
 ----------
+
+Die Jugend BahnCard kostet 7,90 Euro.
 
 Vom 7. Oktober bis 12. Dezember 2026: Die Jugend BahnCard kostet 0 Euro statt 7,90 Euro pro Jahr (1. und 2. Kl.) bis einschließlich 18 Jahre.
 
@@ -19377,7 +19397,7 @@ Die BahnCard 25 können Sie gleich hier online kaufen.
 
 Sie ist außerdem erhältlich in DB Reisezentren und Agenturen der Deutschen Bahn und in der App.
 
-[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bestelle-ich-meine-bahncard-25)
 
@@ -20688,7 +20708,7 @@ Manche Verbünde gewähren Inhaberinnen und Inhabern der BahnCard 25 einen Rabat
 
 * [Link zu diesen Tarif- und Beförderungsbedingungen](https://www.bahn.de/agb)
 
-[Weitere Informationen zur BahnCard 25](https://int.bahn.de/en/offers/bahncard/digitalbahncard100/bahncard25)
+[Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wofuer-kann-ich-die-bahncard-25-nutzen)
 

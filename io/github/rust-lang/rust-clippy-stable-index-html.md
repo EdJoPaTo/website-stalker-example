@@ -163,6 +163,17 @@ Added in: 1.63.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+as_underscore)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/casts/mod.rs)
 
+assert\_is\_empty
+
+pedantic allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+assert_is_empty)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/assert_is_empty.rs)
+
 assertions\_on\_constants
 
 style warn
@@ -278,7 +289,7 @@ big\_endian\_bytes
 restriction allow
 ----------
 
-Applicability: Unspecified
+Applicability: MaybeIncorrect
 
 Added in: 1.72.0
 
@@ -305,6 +316,17 @@ Applicability: Unspecified
 Added in: 1.47.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+blanket_clippy_restriction_lints)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/attrs/mod.rs)
+
+block\_scrutinee
+
+suspicious warn
+----------
+
+Applicability: MaybeIncorrect
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+block_scrutinee)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/block_scrutinee.rs)
 
 blocks\_in\_conditions
 
@@ -718,7 +740,7 @@ chunks\_exact\_to\_as\_chunks
 style warn
 ----------
 
-Applicability: Unspecified
+Applicability: MachineApplicable
 
 Added in: 1.93.0
 
@@ -1075,6 +1097,17 @@ Applicability: Unspecified
 Added in: 1.60.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+default_union_representation)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/default_union_representation.rs)
+
+definition\_in\_module\_root
+
+restriction allow
+----------
+
+Applicability: Unspecified
+
+Added in: 1.99.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+definition_in_module_root)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/definition_in_module_root.rs)
 
 deprecated\_cfg\_attr
 
@@ -2269,7 +2302,7 @@ host\_endian\_bytes
 restriction allow
 ----------
 
-Applicability: Unspecified
+Applicability: MaybeIncorrect
 
 Added in: 1.72.0
 
@@ -3358,7 +3391,7 @@ little\_endian\_bytes
 restriction allow
 ----------
 
-Applicability: Unspecified
+Applicability: MaybeIncorrect
 
 Added in: 1.72.0
 
@@ -3451,6 +3484,17 @@ Applicability: MachineApplicable
 Added in: 1.45.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_async_fn)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/manual_async_fn.rs)
+
+manual\_bit\_width
+
+pedantic allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+manual_bit_width)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/bit_width.rs)
 
 manual\_bits
 
@@ -4441,6 +4485,17 @@ Applicability: Unspecified
 Deprecated in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+misaligned_transmute)
+
+mismatched\_bit\_width\_type
+
+suspicious warn
+----------
+
+Applicability: MaybeIncorrect
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+mismatched_bit_width_type)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/bit_width.rs)
 
 mismatching\_type\_param\_order
 
@@ -5476,6 +5531,17 @@ Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+nonminimal_bool)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/booleans.rs)
 
+nonnull\_unchecked\_on\_box\_ptr
+
+complexity warn
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.98.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+nonnull_unchecked_on_box_ptr)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/nonnull_unchecked_on_box_ptr.rs)
+
 nonsensical\_open\_options
 
 correctness deny
@@ -5489,7 +5555,7 @@ Added in: pre 1.29.0
 
 nonstandard\_macro\_braces
 
-nursery allow
+style warn
 ----------
 
 Applicability: MachineApplicable
@@ -6652,6 +6718,17 @@ Applicability: MachineApplicable
 Added in: 1.43.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+rest_pat_in_fully_bound_structs)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/matches/mod.rs)
+
+rest\_pattern\_accessible\_field
+
+restriction allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.99.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+rest_pattern_accessible_field)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/rest_when_destructuring_struct.rs)
 
 result\_filter\_map
 
@@ -8291,6 +8368,17 @@ Applicability: MachineApplicable
 Added in: 1.62.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unnecessary_owned_empty_strings)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/unnecessary_owned_empty_strings.rs)
+
+unnecessary\_rest\_pattern
+
+restriction allow
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.99.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+unnecessary_rest_pattern)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/rest_when_destructuring_struct.rs)
 
 unnecessary\_result\_map\_or\_else
 
