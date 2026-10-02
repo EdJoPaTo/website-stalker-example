@@ -20189,9 +20189,8 @@ Im grenzüberschreitenden Verkehr zwischen DB-Bahnhöfen im Saarland (u. a. Saar
 
 Sie können das Angebot auf diesen Wegen buchen:
 
-* online
+* Online hier auf bahn.de
 * Vor Ort, im DB Reisezentrum oder DB Agentur
-* Telefonisch unter [030 2970](tel:+49302970)
 * Bis maximal 20 Personen ist das Angebot auch am Ticketautomaten buchbar.
 
 [Zur Reiseauskunft](https://www.bahn.de/buchung/intern/start)
