@@ -615,7 +615,7 @@ updated 2025-03-19
 
 adc, dac, datasheet
 
-updated 2024-08-12
+updated 2026-10-02
 
 [Datasheet Studio ADC](https://www.hifiberry.com/docs/data-sheets/datasheet-studio-adc/)
 

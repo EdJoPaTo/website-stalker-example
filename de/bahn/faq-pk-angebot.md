@@ -13294,7 +13294,7 @@ Sie erhalten VBN-Tickets ausschließlich als Handy-Ticket. Dazu gehören u.a.:
  Auf welchen Verbindungen verkehren ÖBB Nightjet Züge?
 ----------
 
-Informationen zum Streckennetz der ÖBB Nightjet Züge, sowie weiterer Nachtzüge erhalten Sie [hier](https://www.bahn.de/angebot/international/nachtzug).
+Informationen zum Streckennetz der ÖBB Nightjet Züge sowie weiterer Nachtzüge erhalten Sie auf [www.bahn.de/nachtzug](https://www.bahn.de/angebot/international/nachtzug).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verbindungen-oebb-nightjet)
 
