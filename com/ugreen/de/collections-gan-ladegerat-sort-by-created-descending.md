@@ -1,3 +1,5 @@
+[UGREEN Set-Angebot: 100-W-4-Port-Ladegerät + Nexode-Powerbank mit 25.000 mAh und 145 W](https://de.ugreen.com/products/ugreen-set-angebot-100-w-4-port-ladegerat-nexode-powerbank-mit-25-000-mah-und-145-w)
+
 [UGREEN Nexode Desktop Ladegerät (200W, 8-Port, GaN)](https://de.ugreen.com/products/nexode-200w-8-port-gan-desktop-ladegeraet)
 
 [UGREEN Uno Magnetisches Kabelloses Ladegerät (15W, 2-IN-1)](https://de.ugreen.com/products/ugreen-uno-2-in-1-magnetisches-kabelloses-ladegerat-15w)
@@ -19,5 +21,3 @@
 [UGREEN Set-Angebot: 30W USB-C Ladegerät + 60W USB-C Kabel (1M )](https://de.ugreen.com/products/ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel)
 
 [UGREEN Set-Angebot: 100W 4-Ports Ladegerät + 60W USB-C Kabel\*2 (1M )](https://de.ugreen.com/products/ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel)
-
-[UGREEN 65W USB-C GaN Ladegerät + 60W USB-C Ladekabel\*2](https://de.ugreen.com/products/ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2)
