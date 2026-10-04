@@ -478,6 +478,7 @@
 * [Heftpflaster](https://www.wdrmaus.de/filme/sachgeschichten/heftpflaster.php5)
 * [Heizung](https://www.wdrmaus.de/filme/sachgeschichten/heizung.php5)
 * [Helilandeplatz](https://www.wdrmaus.de/filme/sachgeschichten/helilandeplatz.php5)
+* [Helium](https://www.wdrmaus.de/filme/sachgeschichten/helium.php5)
 * [Hemd aus Holz](https://www.wdrmaus.de/filme/sachgeschichten/hemd_aus_holz.php5)
 * [Hermannsdenkmal](https://www.wdrmaus.de/filme/sachgeschichten/hermansdenkmal.php5)
 * [Herr Wehrli räumt auf: Bruegel](https://www.wdrmaus.de/filme/sachgeschichten/herr_wehrli_raeumt_auf_bruegel.php5)
