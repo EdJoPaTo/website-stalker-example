@@ -1756,7 +1756,7 @@ Ja. Mit der My BahnCard 100 und dem kostenlos inkludierten digitalen Deutschland
  Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
 ----------
 
-Wenn die im DB Kundenkonto hinterlegte BahnCard für jede Buchung automatisch berücksichtigt werden soll, muss diese im DB Kundenkonto dafür voreingestellt werden. Gehen Sie dafür bitte in den Bereich "Profil" und wählen Sie anschließend unter "BahnCard" die Kachel "BahnCard verwalten" aus. Fügen Sie anschließend unter "Ermäßigung hinterlegen" die passende BahnCard-Ermäßigung hinzu. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
+Dafür müssen Sie in Ihrem DB Kundenkonto im Bereich "BahnCard" unter "Ermäßigung hinterlegen" mit dem Plus-Zeichen die passende BahnCard hinzufügen. Diese ist nun für alle Buchungen automatisch vor belegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-buchung-automatisch-beruecksichtigt)
 
@@ -1929,7 +1929,7 @@ Ja. **Mit der BahnCard 25 erhältst du 25 %** und **mit der** **BahnCard 50 erh�
  Haben Sie schon ein SEPA-Lastschriftmandat eingerichtet und trotzdem eine Mahnung für Ihre BahnCard erhalten?
 ----------
 
-Das ist möglich. Bitte beachten Sie: Das Erteilen des SEPA-Lastschriftmandats im DB Kundenkonto gilt nur für Ticket-Buchungen, **nicht aber für die BahnCard**.
+Das ist möglich. Am besten fügen Sie direkt in Ihrem DB Kundenkonto für diesen BahnCard-Vertrag die Zahlung mit dem SEPA-Lastschriftmandat hinzu. So werden künftige Zahlungen zu Ihrem BahnCard-Vertrag automatisch per SEPA-Lastschrift eingezogen.
 
 [Anmeldung zum SEPA-Lastschriftmandat für die BahnCard](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/bahncard/Anmeldung-SEPA-Lastschriftmandat_BahnCard_20260216.pdf)
 
@@ -2172,9 +2172,7 @@ Ja. Mit einer BahnCard 25/50/100 erhalten Sie auf grenzüberschreitenden Verbind
  Wie lange im Voraus kann ich eine BahnCard 100 kaufen?
 ----------
 
-Bis einschließlich 13. Juni 2026 kann die BahnCard 100 und einem 1. Geltungstag bis maximal 30. Juni 2026 noch als Plastikkarte bestellt werden.
-
-Ab dem 14. Juni 2026 wird die gekaufte BahnCard 100 wieder mit einer Vorkaufsfrist von 180 Tagen angeboten. Diese BahnCard 100 wird nicht mehr als Plastikkarte ausgegeben, sondern in digitaler Form.
+Die BahnCard 100 kann mit einer Vorkaufsfrist von 180 Tagen gekauft werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc100-im-voraus-kaufen)
 
@@ -6486,7 +6484,7 @@ Erhalten Sie beim Hinzufügen eine Fehlermeldung, prüfen Sie bitte folgendes:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-finde-mein-abo-im-aboportal-nicht-wie-kann-das-sein)
 
- Ich habe kein Smartphone - kann ich die digitale BahnCard 25/50 trotzdem nutzen?
+ Ich habe kein Smartphone - kann ich die digitale BahnCard trotzdem nutzen?
 ----------
 
 Ja. Sie finden das Ersatzdokument als pdf-Dokument in Ihrem DB Kundenkonto. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen.
@@ -9681,19 +9679,18 @@ Sie haben jetzt die Möglichkeit, dies ganz unkompliziert zu erledigen und Ihre 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-meine-gruppe-anmelden-deutschlandtarif)
 
- Muss ich meine Probe BahnCard kündigen?
+ Wie kann ich meine BahnCard 25 oder BahnCard 50 kündigen?
 ----------
 
-Ja, die Probe BahnCard 25/50 müssen Sie bis zu 4 Wochen vor Laufzeitende in Textform kündigen.
+Sie können Ihre Probe BahnCard 25/50 bis zu 4 Wochen in Textform vor Laufzeitende in Textform kündigen.
 
-So kündigen Sie am einfachsten:
-1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Klicken Sie auf den Menüpunkt „BahnCard" und danach auf "Optionen".
-3. Prüfen Sie, ob die Option „BahnCard kündigen" vorhanden ist.
-4. Wählen Sie „BahnCard kündigen" und bestätigen Sie. Ist die Option „BahnCard kündigen" nicht vorhanden, ist die Kündigungsfrist überschritten und die Kündigung nicht mehr möglich.
-5. Sie erhalten die Kündigungsbestätigung per E-Mail.
+So kündigen Sie online:
 
-Für die Probe BahnCard 100 ist keine Kündigung notwendig. Sie endet am letzten Geltungstag automatisch.
+In Ihr DB Kundenkonto unter: [BahnCard](https://www.bahn.de/buchung/kundenkonto/bahncard) einloggen.
+Auf "BahnCard" klicken und "Optionen" auswählen.
+Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
+Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
+Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet. Für die Probe BahnCard 100 ist keine Kündigung notwendig. Sie endet am letzten Geltungstag automatisch.
 
 [Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
 
@@ -17036,7 +17033,7 @@ Bitte führe immer einen amtlichen Lichtbildausweis für die Kontrolle im Zug mi
  Wer kann die My BahnCard 100 erwerben?
 ----------
 
-Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 30.06.2026.
+Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 09.06.2027.
 
 Die BahnCard 100 erhalten Sie ohne Foto. Bitte führen Sie einen amtlichen Lichtbildausweis für die Kontrolle im Zug mit. Bei Kunden unter 16 Jahren ist kein Lichtbildausweis erforderlich.
 
@@ -17865,11 +17862,10 @@ Sie können Ihre **BahnCard 25** oder **BahnCard 50** bis zu 4 Wochen vor Laufze
 
 So kündigen Sie online:
 
-* In Ihr DB Kundenkonto einloggen.
-* Auf "BahnCard" klicken und "Optionen" auswählen.
-* Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
-* Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
-
+In Ihr DB Kundenkonto unter: [BahnCard](https://www.bahn.de/buchung/kundenkonto/bahncard) einloggen.
+Auf "BahnCard" klicken und "Optionen" auswählen.
+Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
+Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
 Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
 
 [Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
@@ -18044,7 +18040,7 @@ Die Jugend BahnCard ist ein Jahr gültig und läuft automatisch aus. Sie muss ni
 ----------
 
 * Die My **BahnCard 100** ist ab dem 1. Geltungstag 1 Jahr gültig.
-* Der letztmögliche erste Geltungstag der Karte ist der 13.12.2026.
+* Der letztmögliche erste Geltungstag der Karte ist der 09.06.2027.
 * Sie verlängert sich nicht automatisch.
 
 [Weitere Informationen zur My BahnCard 100](https://www.bahn.de/angebot/bahncard/junge-reisende/mybahncard100)
@@ -20677,7 +20673,7 @@ Nein, das Deutschland-Ticket ist bei Wochen- und Monatskarten nicht inklusive.
  Wofür brauche ich die BahnCard Services?
 ----------
 
-Verwalten Sie mit den BahnCard Services Ihre BahnCard und profitieren Sie von den digitalen Services. Zum Beispiel können Sie Rechnungen anfordern oder Ihre BahnCard 25/50 kündigen.
+Verwalten Sie mit den BahnCard Services Ihre BahnCard und profitieren Sie von den digitalen Selfservice Funktionen. Zum Beispiel können Sie Rechnungen anfordern, ihre BahnCard kündigen oder Zahldaten verwalten.
 
 [BahnCard verwalten](https://www.bahn.de/link_bc-selfservices)
 

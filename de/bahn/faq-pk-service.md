@@ -832,7 +832,7 @@ Als Vielfahrende erhalten Sie ab 1.500 gesammelten Statuspunkten ein Statuslevel
  Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
 ----------
 
-Wenn die im DB Kundenkonto hinterlegte BahnCard für jede Buchung automatisch berücksichtigt werden soll, muss diese im DB Kundenkonto dafür voreingestellt werden. Gehen Sie dafür bitte in den Bereich "Profil" und wählen Sie anschließend unter "BahnCard" die Kachel "BahnCard verwalten" aus. Fügen Sie anschließend unter "Ermäßigung hinterlegen" die passende BahnCard-Ermäßigung hinzu. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
+Dafür müssen Sie in Ihrem DB Kundenkonto im Bereich "BahnCard" unter "Ermäßigung hinterlegen" mit dem Plus-Zeichen die passende BahnCard hinzufügen. Diese ist nun für alle Buchungen automatisch vor belegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-buchung-automatisch-beruecksichtigt)
 

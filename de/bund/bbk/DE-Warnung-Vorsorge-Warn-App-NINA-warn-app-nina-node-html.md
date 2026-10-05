@@ -38,11 +38,11 @@ Warn-App NINA herunterladen
 
 **Download**  vnd.android.package-archive, 33MB, Datei ist nicht barrierefrei
 
-[Herunterladen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=17)
+[Herunterladen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=18)
 
 Nicht bestellbar
 
-[](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=17)
+[](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Warn-App-NINA/download_apk_nina.apk?__blob=publicationFile&v=18)
 
 Anfragen zur Warn-App NINA über NINA HelpDesk
 ----------
