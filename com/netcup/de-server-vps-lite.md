@@ -212,6 +212,8 @@ Frequently Asked Questions
 
 Was ist ein VPS?
 
+[](https://www.netcup.com/de/server/vps-lite#was-ist-ein-vps)
+
  ###
 
 Ein VPS (Virtual Private Server), auch bekannt als vServer, ist eine **virtuelle Maschine, die auf einem physischen Server gehostet wird** und es Benutzern ermöglicht, isolierte Serverumgebungen mit eigenen Betriebssystemen und Anwendungen zu nutzen. VPS bieten **Flexibilität und Kontrolle** ähnlich dedizierten Servern, jedoch zu einem erschwinglichen Preis. Sie sind ideal für Nutzer, die einen eigenen Server benötigen, aber nicht die Kosten und die Verwaltung eines physischen Servers tragen möchten.
@@ -220,6 +222,8 @@ Ein VPS (Virtual Private Server), auch bekannt als vServer, ist eine **virtuelle
 
 Was sind die Vorteile eines VPS?
 
+[](https://www.netcup.com/de/server/vps-lite#was-sind-die-vorteile-eines-vps)
+
  ###
 
 Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis**. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
@@ -227,6 +231,8 @@ Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Si
 ###
 
 Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server?
+
+[](https://www.netcup.com/de/server/vps-lite#was-ist-der-unterschied-zwischen-einem-vps-x86-vps-arm64-und-root-server)
 
  ###
 
@@ -244,6 +250,8 @@ Für alle diese Produkte empfehlen wir Kenntnisse in der Administration von Serv
 
 Wo ist der Standort meines VPS Lite?
 
+[](https://www.netcup.com/de/server/vps-lite#wo-ist-der-standort-meines-vps-lite)
+
  ###
 
 VPS Lite-Tarife werden je nach Verfügbarkeit an europäischen Rechenzentrumsstandorten (Nürnberg, Wien, Amsterdam) bereitgestellt.
@@ -256,6 +264,8 @@ Wechsle zu unseren regulären [VPS-Tarifen](https://www.netcup.com/de/server/vps
 
 Wie unterscheiden sich VPS Lite-Tarife von VPS G12.5-Tarifen?
 
+[](https://www.netcup.com/de/server/vps-lite#wie-unterscheiden-sich-vps-lite-tarife-von-vps-g12.5-tarifen)
+
  ###
 
 Unsere **VPS Lite**-Angebote sind dauerhaft kostenoptimiert und bieten ein besonders attraktives Preis-Leistungs-Verhältnis. VPS Lite-Tarife kennzeichnen sich im Vergleich zu den regulären VPS-Tarifen durch reduzierte Bandbreite und geringere Interface-Geschwindigkeit. So können wir diese Server zu einem besonders günstigen Preis anbieten – ohne Abstriche bei Stabilität und Zuverlässigkeit.
@@ -263,6 +273,8 @@ Unsere **VPS Lite**-Angebote sind dauerhaft kostenoptimiert und bieten ein beson
 ###
 
 Kann ich meinen VPS Lite mit Local Block Storage erweitern?
+
+[](https://www.netcup.com/de/server/vps-lite#kann-ich-meinen-vps-lite-mit-local-block-storage-erweitern)
 
  ###
 
@@ -274,6 +286,8 @@ Bei Tarifen mit **G11.5s**-Kennzeichnung (VPS piko, VPS nano) ist eine Erweiteru
 
 Kann ich zwischen VPS Lite-Tarifen wechseln, wenn mein Projekt wächst?
 
+[](https://www.netcup.com/de/server/vps-lite#kann-ich-zwischen-vps-lite-tarifen-wechseln-wenn-mein-projekt-waechst)
+
  ###
 
 Das Upgrade **innerhalb einer Generation und Tarifgruppe** (z.B. von VPS Lite 1 G12.5s zu VPS Lite 2 G12.5s) ist möglich und kann direkt im Customer Control Panel (CCP) durchgeführt werden.
@@ -284,6 +298,8 @@ Ein Wechsel auf kleinere Tarife, andere Generationen (z.B. von VPS nano G11.5s z
 
 Kann ich einen Windows Server mieten?
 
+[](https://www.netcup.com/de/server/vps-lite#kann-ich-einen-windows-server-mieten)
+
  ###
 
 netcup bietet keine **vorgefertigten Windows Server** an. Du hast jedoch die Möglichkeit, Windows auf deinem Server **über das SCP selbst zu installieren**. Bitte beachte, dass es sich dabei um eine **180-tägige Testlizenz** handelt. Darüber hinaus kannst du über netcup keine Windows-Softwarelizenzen erwerben.
@@ -291,6 +307,8 @@ netcup bietet keine **vorgefertigten Windows Server** an. Du hast jedoch die Mö
 ###
 
 Welche Netzwerkkonfigurationen stehen für VPS Lite Tarife zur Verfügung?
+
+[](https://www.netcup.com/de/server/vps-lite#welche-netzwerkkonfigurationen-stehen-fuer-vps-lite-tarife-zur-verfuegung)
 
  ###
 
@@ -306,6 +324,8 @@ Lies dir bei Unklarheiten am besten alle Infos zu [Netzwerkkonfiguration im Help
 
 Kann ich meinen Serverstandort nachträglich ändern?
 
+[](https://www.netcup.com/de/server/vps-lite#kann-ich-meinen-serverstandort-nachtraeglich-aendern)
+
  ###
 
 Nein, du kannst den Standort deines Servers nachträglich nicht ändern. Eine Migration ist nur möglich, indem du am gewünschten Standort neu bestellst und alle Daten manuell übernimmst.
@@ -313,6 +333,8 @@ Nein, du kannst den Standort deines Servers nachträglich nicht ändern. Eine Mi
 ###
 
 Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
+
+[](https://www.netcup.com/de/server/vps-lite#meine-frage-ist-hier-nicht-aufgelistet.-wo-finde-ich-eine-antwort)
 
  ###
 

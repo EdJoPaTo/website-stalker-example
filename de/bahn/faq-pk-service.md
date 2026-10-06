@@ -261,7 +261,7 @@ Ersatzcodes sind Sicherheitscodes für den Notfall. Sie können einen Ersatzcode
 
 So verwenden Sie einen Ersatzcode:
 
-1. Melden Sie sich mit Benutzernamen und Passwort an.
+1. Melden Sie sich mit Ihrer E-Mail-Adresse und Passwort an.
 2. Wählen Sie bei der Zwei-Schritt-Verifizierung die Option "Kein Zugang zum zweiten Faktor?" aus.
 3. Für die Wiederherstellung des Zugriffs wählen Sie die Option "Ersatzcode".
 4. Geben Sie den Ersatzcode ein. Jeder Ersatzcode ist nur einmal gültig.
@@ -288,7 +288,7 @@ So geht’s auf bahn.de:
 So geht’s im DB Navigator:
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Tippen Sie im Menübereich "Profil" unter "Login & Sicherheit" auf "Mehr".
+2. Öffnen Sie im Menüpunkt "Profil" den Bereich unter "Login & Sicherheit".
 3. Wählen Sie "2-Faktor-Authentifizierung" aus und tippen Sie dann auf "Ersatzcodes aktivieren".
 
 Sichern Sie Ihre Ersatzcodes anschließend, indem Sie sie ausdrucken, herunterladen oder kopieren und an einem sicheren Ort aufbewahren.
@@ -1080,13 +1080,6 @@ Hinweis: Die Belegtanzeige ist nicht in allen Zügen verfügbar.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/belegtanzeige-nutzen-mit-kci)
 
- Benötige ich für das DB Kundenkonto eine App?
-----------
-
-Der Zugriff auf das DB Kundenkonto erfolgt wie gewohnt über den Kanal, den Sie bevorzugen. Das kann der DB Navigator sein oder auch die Website bahn.de/int.bahn.de.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/benoetige-ich-eine-app-fuer-kundenkonto)
-
  Brauche ich eine App, um die 2-Faktor-Authentifizierung nutzen zu können?
 ----------
 
@@ -1165,6 +1158,15 @@ Die Betreuung beginnt mit der persönlichen Übergabe des Kindes an die Betreuen
 [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betreuung-kind)
+
+ Gibt es Betreuungsangebote für allein reisende Kinder im Fernverkehr?
+----------
+
+Ja, der [DB Junior Express](https://www.bahn.de/faq/pk/$%7Blink:%7Buuid:%7B466a3805-d6a0-4750-95a8-f96461b0dfcf%7D,repository:%7Bwebsite%7D,provider:%7Bjcr%7D,path:%7B/next-bahn/de/service/individuelle-reise/kinder/db-junior-express%7D%7D%7D) bietet **durchgehende Gruppenbegleitung** von Start- bis Zielbahnhof durch geschulte Kinderbetreuer. Für Kinder von 6 bis 14 Jahren, auf ausgewählten Strecken.
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betreuungsangebote-alleinreisende-kinder)
 
  Bis wann sind Prämiengutscheine gültig?
 ----------
@@ -1765,6 +1767,15 @@ You can use the internet on the train with as many devices as you like, such as 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/different-devices)
 
+ Welche digitalen Angebote gibt es für Kinder im ICE?
+----------
+
+Neben der Kinderwelt im [ICE-Portal](https://www.bahn.de/faq/pk/$%7Blink:%7Buuid:%7B2e3580f9-b04c-4c56-ad35-0af1c78743d4%7D,repository:%7Bwebsite%7D,provider:%7Bjcr%7D,path:%7B/next-bahn/de/service/zug/ice-portal%7D%7D%7D) bietet die Webseite „[Der kleine ICE](https://www.der-kleine-ice.de/)“ Online-Spiele, Comic-Abenteuer und Hörspiele.
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-angebote-ice)
+
  Wie erhalte ich eine Rechnung mit Mehrwertsteuerangaben für mein Digitales Ticket?
 ----------
 
@@ -2339,6 +2350,21 @@ Wenn Sie bereits ein Ticket haben und nur noch einen Rollstuhlplatz benötigen, 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/faltbarer-rollstuhl)
 
+ Was bietet der Familienbereich im ICE und in Intercity-Zügen?
+----------
+
+Der Familienbereich im ICE und in Intercity Zügen richtet sich speziell an Familien mit Kindern im Kindergarten- oder Grundschulalter.
+
+Die Familienbereiche sind günstig gelegen in der Nähe zu:
+
+* Eingängen
+* Gepäckabstellflächen
+* WC
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/familienbereich-ice-ic)
+
  Es kommt zu einem Fehler beim Hinzufügen eines Tickets in die App DB Navigator. Was kann ich tun?
 ----------
 
@@ -2556,6 +2582,17 @@ Beachten Sie bitte folgende Hinweise:
 Weitere Partnerbahnen finden Sie über eine Internetsuche.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gegenstand-verloren-zug-international)
+
+ Kann Gepäck vorab an den Zielort geschickt werden?
+----------
+
+Mit dem [**Hermes Gepäckversand**](https://www.bahn.de/angebot/zusatzticket/hermes-gepaeckversand) kann Gepäck ganz einfach vorab an den Zielort gesendet werden.
+
+**Ideal für Familien**: Mehr Komfort für alle die mit kleinen Kindern oder viel Gepäck reisen.
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gepaeck-verschicken)
 
  Wie verstaue ich mein Gepäck im Zug?
 ----------
@@ -3024,7 +3061,7 @@ Sie sollten eine schriftliche Bestätigung vom Zugpersonal oder von Mitarbeitend
  Ich habe mich neu registriert. Wo kann ich meine persönlichen Daten/meine Adresse, Zahlungsdaten hinterlegen?
 ----------
 
-Bitte loggen Sie sich hierzu mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Persönliche Daten" oder "Zahlungsdaten" auf. Bitte folgen Sie dort den Anweisungen zur Ergänzung oder Änderung Ihrer Daten.
+Bitte loggen Sie sich hierzu ein und rufen den Bereich "Persönliche Daten" oder "Zahlungsmittel" auf. Bitte folgen Sie dort den Anweisungen zur Ergänzung oder Änderung Ihrer Daten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mich-neu-registriert-wo-kann-ich-meine-persoenlichen-daten-hinterlege)
 
@@ -3083,13 +3120,13 @@ Servicecenter Fahrgastrechte
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-konnte-meine-reservierung-nicht-nutzen-kann-ich-diese-auch-im-rahmen-der-fahrgastrechte-einreichen)
 
- Ich möchte mein Passwort zurücksetzen und habe keine E-Mail erhalten, was kann ich tun?
+ Ich möchte mein Passwort für das DB Kundenkonto zurücksetzen und habe keine E-Mail erhalten, was kann ich tun?
 ----------
 
 Sie können Ihr Passwort zurücksetzen, indem wir Ihnen einen Link per E-Mail senden.
 Wenn Sie keine E-Mail erhalten haben, gehen Sie so vor:
 
-* Prüfen Sie den Posteingang aller E-Mail-Adressen, die Sie bei uns angegeben haben.
+* Prüfen Sie den Posteingang der E-Mail-Adresse, die Sie bei uns angegeben haben.
 * Kontrollieren Sie auch Ihren Spam-Ordner.
 * Legen Sie die Absenderadresse in Ihrem E-Mail-Konto als akzeptiert fest. So vermeiden Sie, dass unsere E-Mails im Spam-Ordner landen.
 
@@ -3749,6 +3786,30 @@ Tipp: Wenn Sie dringend schnell buchen müssen, nutzen Sie am besten die "Buchun
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keinen-zugriff-mehr-auf-handy-und-2-fa-aktiviert--neues-passwort-anfordern)
 
+ Welche Fahrvergünstigungen gibt es für allein reisende Kinder im Fernverkehr?
+----------
+
+Kinder von **6 bis 14 Jahren**, die allein reisen, erhalten **50 % Rabatt** auf den Fahrpreis.
+
+Ab August bieten wir zudem den Begleitservice [**DB Junior Express**](https://www.bahn.de/faq/pk/$%7Blink:%7Buuid:%7B466a3805-d6a0-4750-95a8-f96461b0dfcf%7D,repository:%7Bwebsite%7D,provider:%7Bjcr%7D,path:%7B/next-bahn/de/service/individuelle-reise/kinder/db-junior-express%7D%7D%7D) für allein reisende Kinder an.
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-fahrverguenstigung-fernverkehr)
+
+ Welche Kinder reisen kostenfrei im Fernverkehr?
+----------
+
+Kinder von **0 bis einschließlich 5 Jahren** reisen im Fernverkehr **innerhalb Deutschlands kostenlos** und benötigen kein eigenes Ticket. Kinder müssen bei der Buchung angegeben werden, um auf dem Ticket aufgeführt zu werden.
+
+Kinder von **6 bis einschließlich 14 Jahren** reisen im Fernverkehr kostenfrei mit einer Begleitperson, die mindestens 15 Jahre alt ist. Kinder müssen bei der Buchung angegeben werden, um auf dem Ticket aufgeführt zu werden.
+
+Ein **Verwandtschaftsverhältnis ist nicht notwendig**.
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-kostenfrei-im-fernverkehr)
+
  Can children travel free of charge to neighbouring countries?
 ----------
 
@@ -3769,6 +3830,30 @@ If you are travelling with children using a City-Ticket issued with a saver or s
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-mitnahme-city-ticket-en)
 
+ Ist es möglich, Zubehör für Reisen mit Kind zu mieten?
+----------
+
+Ja, Sie können über unseren Kooperationspartner **nomadi.de** alles, was Ihre Kinder im Urlaub brauchen, mieten. Beispielsweise können Kindersitze, Buggys oder Roller gemietet werden.
+
+Lassen Sie es sich **deutschlandweit** direkt **in die Unterkunft schicken** oder holen Sie es über den Click&Collect Service "Box - Die Abholstation" an einem von über 30 Bahnhöfen ab.
+
+[Weitere Infos zum Kinder-Zubehör](https://www.bahn.de/faq/pk/$%7Blink:%7Buuid:%7B6b4cb46f-0704-493a-9cbb-55b2311dd02e%7D,repository:%7Bwebsite%7D,provider:%7Bjcr%7D,path:%7B/next-bahn/de/service/individuelle-reise/kinder/kinderleicht-db-nomadi%7D%7D%7D)
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinder-zubehoer-verleih-nomadi)
+
+ Gibt es Kinderanimation im ICE?
+----------
+
+An ausgewählten Tagen und in bestimmten Zügen bieten erfahrene und geschulte Kinderbetreuer ein **abwechslungsreiches Unterhaltungsprogramm für Kinder** an. Kostenfrei und ohne Voranmeldung.
+
+Mehr Informationen zum [Unterhaltungsprogramm für Kinder](https://www.bahn.de/faq/pk/$%7Blink:%7Buuid:%7Bfb4b91c3-33e0-4c37-a8e0-13654e7ace46%7D,repository:%7Bwebsite%7D,provider:%7Bjcr%7D,path:%7B/next-bahn/de/service/individuelle-reise/kinder/kinderanimation-an-bord%7D%7D%7D)
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinderanimation-im-ice)
+
  Wie verhält sich die kostenfreie Kindermitnahme bei Reisen in die Schweiz und nach Österreich?
 ----------
 
@@ -3786,6 +3871,18 @@ Während der Reise ist ein altersgerechtes Begleit- und Beschäftigungsangebot v
 [Mehr Infos zum DB Junior Express](https://www.bahn.de/service/individuelle-reise/kinder/db-junior-express)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kinderprogramm-waehrend-fahrt)
+
+ Was bietet das Kleinkindabteil im ICE?
+----------
+
+* Einen geschützten Raum für Kinder und deren Begleiter
+* Räumliche Nähe zum WC mit Wickeltisch (sofern nicht im Abteil bereits vorhanden)
+* Zusätzliche Fläche für Gepäck und Kinderwagen
+* Kindgerecht gestaltete Tische, Wände und Wandspiele
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kleinkindabteil-im-ice)
 
  Die Klimaanlage im Zug ist defekt und Sie können Ihren reservierten Sitzplatz nicht einnehmen?
 ----------
@@ -3920,8 +4017,14 @@ Bitte prüfen Sie zunächst Ihre Unterlagen. Wenn offene Forderungen der Deutsch
 
 So können Sie sich ausloggen:
 
+**bahn.de**
+
 1. Klicken Sie rechts oben im Browser auf bahn.de auf Ihren Profilnamen.
 2. Dort finden Sie an letzter Stelle das Feld "Logout". Hier können Sie sich ausloggen.
+
+**DB Navigator**
+
+Wählen Sie im unteren Bereich des Menüpunkts "Profil" die Option "Abmelden".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kundenkonto-logout)
 
@@ -4013,13 +4116,15 @@ Achtung: Mehrfahrtenkarten sind (wie ein Einzelticket) immer ab sofort gültig.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mehrfahrtenkarte-dritte-restguthaben-app)
 
- Mein Gerät ist nicht mehr sicher. Wie aktiviere ich den 2. Faktor wieder?
+ Mein Gerät, mit dem ich das DB Kundenkonto nutze, ist nicht mehr sicher. Wie aktiviere ich den 2. Faktor wieder?
 ----------
 
 Wenn Ihr Gerät nicht mehr sicher ist, **entfernen Sie es aus der Geräteliste**.
 
 1. Melden Sie sich dazu in Ihrem DB Kundenkonto an
-2. Im Bereich “Login & Sicherheit“ entfernen Sie im Menüpunkt “2-Faktor-Authentifizierung“ unter “Geräte verwalten“ das entsprechende Gerät.
+2. Rufen Sie den Account-Manager unter “Login & Sicherheit“ auf.
+3. Wählen Sie den Menüpunkt “2-Faktor-Authentifizierung“.
+4. Deaktivieren Sie das entsprechende Gerät aus der Liste der vertrauenswürdigen Geräte.
 
 Ein Gerät ist **nicht mehr sicher,** wenn es **verloren** gegangen ist, **gestohlen** wurde oder aus anderen Gründen (z.B. Verdacht auf Malware) unsicher wurde.
 
@@ -4179,7 +4284,7 @@ Nicht zugelassene Dokumente:
  Muss ich ein DB Kundenkonto haben, um die Benachrichtigungen zur Reise aktivieren zu können?
 ----------
 
-Ja, die Benachrichtigungen zur Reise können nur dann aktiviert werden, wenn Sie die entsprechenden Verbindungen über ein "Meine Reisen"-DB Kundenkonto gebucht oder in Ihrem DB Kundenkonto hinterlegt haben.
+Ja, die Benachrichtigungen zur Reise können nur dann aktiviert werden, wenn Sie die entsprechenden Verbindungen über ein DB Kundenkonto gebucht oder in Ihrem DB Kundenkonto hinterlegt haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-ein-db-kundenkonto-haben-um-die-benachrichtigungen-zur-reise-aktivieren-zu-koennen)
 
@@ -4226,14 +4331,14 @@ Ja, Sie zahlen ein Bearbeitungsentgelt, wenn Sie einen verlorenen Gegenstand aus
  Muss ich mich immer mit einem 2. Faktor authentifizieren?
 ----------
 
-Nein, wenn Sie die 2-Faktor-Authentifizierung in Ihrem DB Kundenkonto aktiviert haben und regelmäßig mit einem vertrauenswürdigen Gerät wie Ihrem Computer oder Smartphone auf z.B. bahn.de oder die App DB Navigator zugreifen, können Sie die Abfrage des 2. Faktors beim Login überspringen.
+Nein, wenn Sie die 2-Faktor-Authentifizierung in Ihrem DB Kundenkonto aktiviert haben und regelmäßig mit einem vertrauenswürdigen Gerät wie Ihrem Computer oder Smartphone auf z. B. bahn.de oder die App DB Navigator zugreifen, können Sie die Abfrage des 2. Faktors beim Login überspringen.
 
 **So speichern Sie ein vertrauenswürdiges Gerät:**
-Melden Sie sich mit dem 2. Faktor an und wählen Sie “Auf diesem Gerät nicht mehr nachfragen“. Damit wird das Gerät als vertrauenswürdig gespeichert.
+Melden Sie sich mit dem 2. Faktor an und wählen Sie dabei die Option, die erneute Abfrage auf diesem Gerät für einen bestimmten Zeitraum auszusetzen. Damit wird das Gerät für diesen Zeitraum als vertrauenswürdig gespeichert. Anschließend wird der 2. Faktor erneut abgefragt.
 
 Folgende Geräte sind nicht vertrauenswürdig und sollten immer mit einer Abfrage des 2.-Faktors genutzt werden:
 
-* öffentliche Geräte, wie z.B. Computer in Bibliotheken, Hotels oder Internetcafés
+* öffentliche Geräte, wie z. B. Computer in Bibliotheken, Hotels oder Internetcafés
 * Geräte, die von mehreren Personen genutzt werden
 * Wenn Sie unsicher sind, ob das verwendete Gerät sicher ist (z. B. bei Verdacht auf Malware)
 
@@ -4893,6 +4998,15 @@ Passengers in 2nd class can use the digital menu on the ICE Portal to find out a
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/services-ice-portal)
 
+ Welche Services bieten wir für Kinder während der Fahrt im ICE?
+----------
+
+Überraschungen an Bord: Spielfiguren vom kleinem ICE & Kinderzeitschriften, Kindermenüs, Kinderwelt im ICE-Portal. Weitere Infos zu [Services für Kinder im ICE](https://www.bahn.de/faq/pk/$%7Blink:%7Buuid:%7B0e5e17a3-492f-47a7-bfbc-9b28237e8b9b%7D,repository:%7Bwebsite%7D,provider:%7Bjcr%7D,path:%7B/next-bahn/de/service/individuelle-reise/kinder/services-fuer-kinder-im-zug%7D%7D%7D)
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/services-kinder-ice)
+
  Sind die von der Deutschen Bahn beauftragten Unternehmen für die Sicherheit beim Lastschriftverfahren zuverlässig?
 ----------
 
@@ -5405,6 +5519,15 @@ Für Reisende, die nicht auf bestimmte Uhrzeiten festgelegt sind, ist es sinnvol
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tipps-guenstige-preise-bestpreissuche-randzeiten)
 
+ Weshalb wird für das Reisen mit Kind eine Tragehilfe statt Kinderwagen empfohlen?
+----------
+
+Stellplätze für Kinderwägen im Zug sind nur begrenzt vorhanden. Mit Kinderwagen ist die Fortbewegung im Zug oft eingeschränkt.
+
+* [Alle Angebote und Informationen für Reisen mit Kindern](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tragehilfe-statt-kinderwagen)
+
  How do I choose where I am getting off the train?
 ----------
 
@@ -5852,21 +5975,6 @@ Das WLAN in der Intercity-Flotte heißt genauso wie in der ICE-Flotte WIFIonICE,
 Die Züge hupen, wenn auf der Strecke Baumaßnahmen stattfinden. So warnen sie die dort arbeitenden Kolleg:innen, dass sich ein Zug nähert.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-hupen-die-zuege-mehrmals-und-teilweise-noch-sehr-laut)
-
- Warum kann ich in der App DB Navigator meine BahnCard 25/50 nicht laden?
-----------
-
-Das kann daran liegen, dass Ihr BahnCard-Vertrag nicht Ihrem DB Kundenkonto zugeordnet werden kann.
-
-Bisher war es erforderlich, Ihr DB Kundenkonto unter "Meine Bahn" immer mit Ihrem BahnCard-Vertrag manuell zu verknüpfen. Durch das neue DB Kundenkonto entfällt diese Notwendigkeit und alle BahnCard-Verträge werden automatisch im Kundenkonto angezeigt. Falls die Daten des DB Kundenkontos jedoch nicht mit den Daten des BahnCard Vertrags exakt übereinstimmen (beispielsweise durch die Angabe weiterer Vornamen) kann die Verknüpfung im System nicht erfolgen.
-
-Für diesen Fall können Sie auf bahn.de Ihre BahnCard 25/50 selbst hinterlegen.
-
-Danach können Sie auf Ihre gültige bzw. demnächst gültige BahnCard 25/50 in dieser App zugreifen.
-
-* [Zum Kundenkonto Login](https://www.bahn.de/buchung/reiseuebersicht)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-ich-im-dbnavigator-meine-bahncard-nicht-laden)
 
  Warum kann ich meine Daten nicht in der BahnBonus App bearbeiten?
 ----------
@@ -6829,11 +6937,11 @@ You can redeem DB gift vouchers:
  Wie aktiviere ich die 2-Faktor-Authentifizierung?
 ----------
 
-Bitte loggen Sie sich mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Login & Sicherheit“ auf.
+Bitte loggen Sie sich ein und rufen Sie den Account-Manager unter "Login & Sicherheit“ auf.
 
 Hier können Sie jetzt Ihren Login mit einem zweiten Faktor zu schützen, wenn Sie das möchten. Das heißt, dass Sie zusätzlich zu Ihrem Passwort eine weitere Eingabe machen müssen, um sich als rechtmäßiger Kundenkonto-Inhaber auszuweisen.
 
-Wählen Sie, ob Sie sich mittels einer "Authenticator App" oder einer SMS-Tan authentifizieren möchten. Um die "2-Faktor-Authentifizierung" zu aktivieren, folgen Sie dann den weiteren Anweisungen.
+Wählen Sie, ob Sie sich mittels einer "Authenticator App" oder einer SMS-Tan authentifizieren möchten. Um die "2-Faktor-Authentifizierung" zu aktivieren, folgen Sie dann den weiteren Anweisungen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-aktiviere-ich-die-2-faktor-authentifizierung)
 
@@ -7216,7 +7324,7 @@ Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Si
 ----------
 
 1. Loggen Sie sich mit Ihrem Benutzernamen und Passwort ein.
-2. Rufen Sie den Bereich "Login & Sicherheit“ auf.
+2. Rufen Sie den Account Manager im Bereich "Login & Sicherheit“ auf.
 3. Nun können Sie die zuvor von Ihnen aktivierte 2-Faktor-Authentifzierung deaktivieren. Folgen Sie einfach den Anweisungen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-2-faktor-deaktivieren-ausschalten)
@@ -7279,14 +7387,12 @@ Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsaus
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-super-sparpreis-senioren-buchen)
 
- Wie kann ich meine E-Mail-Adresse ändern?
+ Wie kann ich meine E-Mail-Adresse im DB Kundenkonto ändern?
 ----------
 
-* Sie können Ihre E-Mail-Adresse in Ihrem DB Kundenkonto im Bereich "Login & Sicherheit" unter "Benutzername/E-Mail ändern" aktualisieren.
+* Sie können Ihre E-Mail-Adresse in Ihrem DB Kundenkonto im Bereich "Login & Sicherheit" aktualisieren.
 * Diese E-Mail-Adresse wird sowohl für den Login als auch für Buchungen verwendet.
 * Wir kontaktieren Sie über diese E-Mail-Adresse und senden alle gebuchten Leistungen, wie zum Beispiel Tickets, an diese Adresse.
-
-Bitte beachten Sie, dass abweichende E-Mail-Adressen nicht mehr verwendet werden können. Ihr neuer Benutzername muss Ihrer gewünschten Kontakt-E-Mail-Adresse entsprechen. Eine Änderung der E-Mail-Adresse im Bereich "Persönliche Daten" ist nicht möglich. Falls Sie die gewünschte E-Mail-Adresse schon als Kontakt verwenden, können Sie diese auch als Benutzernamen festlegen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-e-mail-adresse-aendern)
 
@@ -7575,9 +7681,9 @@ Sie können die Teilnahme am BahnBonus Vorteilsprogramm jederzeit ohne Angabe vo
  Wie kann ich meine Daten bzw. mein DB Kundenkonto löschen?
 ----------
 
-Sie können jederzeit Ihr DB Kundenkonto löschen – vorausgesetzt, es gibt keine offenen Aufträge (Buchungen und Tickets) oder laufende Verträge (bspw. BahnCard-Abonnement).
+Sie können jederzeit Ihr DB Kundenkonto löschen – vorausgesetzt, es gibt keine offenen Aufträge (Buchungen und Tickets) oder laufende Verträge (beispielsweise BahnCard-Abonnement).
 
-Um Ihr DB Kundenkonto zu löschen, loggen Sie sich bitte mit Ihrem Benutzernamen und Passwort ein und folgen diesen Schritten:
+Um Ihr DB Kundenkonto zu löschen, loggen Sie sich bitte ein und folgen diesen Schritten:
 
 **DB Navigator**:
 
@@ -7683,7 +7789,8 @@ Sie können Ihre Entschädigung auf folgende Weise beantragen:
  Wie kann ich meine Handy-Nummer für die 2-Faktor-Authentifizierung ändern?
 ----------
 
-Loggen Sie sich mit Ihrem Benutzernamen und Passwort ein und rufen den Bereich "Login & Sicherheit“ auf. Hier können Sie die Mobilfunknummer ändern, die Sie für die 2-Faktor-Authentifizierung mittels SMS-Tan-Verfahren hinterlegt haben.
+1. Loggen Sie sich ein und rufen den Account-Manager unter "Login & Sicherheit“ auf.
+2. Unter "2-Faktor-Authentifizierung" können Sie die Mobilfunknummer ändern, die Sie für die 2-Faktor-Authentifizierung mittels SMS-Tan-Verfahren hinterlegt haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-mobilnummer-fuer-die-2-faktor-authentifizierung-aendern)
 
@@ -8012,7 +8119,7 @@ Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie können alle im St
  Wie kann ich meinen Passkey löschen oder zurücksetzen?
 ----------
 
-Sie können Passkeys in Ihrem DB Kundenkonto im Account Manager unter "Login & Sicherheit" für jedes Gerät verwalten und löschen.
+Sie können Passkeys in Ihrem DB Kundenkonto im Account Manager unter "Login & Sicherheit" über den Menüpunkt "Alternative Login-Methoden" für jedes Gerät verwalten und löschen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-passskey-loeschen-zuruecksetzen)
 
@@ -8028,9 +8135,8 @@ Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "
  Wie richte ich einen Passkey ein?
 ----------
 
-* Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihrem DB Kundenkonto an.
-* Öffnen Sie im Account Manager den Bereich "Login & Sicherheit".
-* Wählen Sie unter "Alternative Login-Methoden" die Option, einen Passkey für Ihr Gerät hinzuzufügen.
+* Melden Sie sich in Ihrem DB Kundenkonto an.
+* Sie können im Account Manager unter "Login & Sicherheit" über den Menüpunkt "Alternative Login-Methoden" Passkey einrichten
 
 Ihr Gerät führt Sie durch die weiteren Schritte zur Einrichtung.
 
@@ -8195,10 +8301,12 @@ Ist dies bei allen angezeigten Verbindungen der Fall, so wird die Spalte "Auslas
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-ist-bei-manchen-verbindungen-keine-auslastungsinformation-verfuegbar)
 
- Wieso muss ich meine E-Mail-Adresse bestätigen / verifizieren?
+ Wieso muss ich meine E-Mail-Adresse für das DB Kundenkonto bestätigen bzw. verifizieren?
 ----------
 
-Die Verifikation der E-Mail-Adresse dient der Sicherheit Ihres DB Kundenkontos und stellt sicher, dass sich nur Nutzer registrieren können, die tatsächlich Zugang zu der angegebenen E-Mail-Adresse besitzen. Diese eindeutige E-Mail-Adresse benötigen Sie für die Verwaltung Ihres Login-Accounts. Auch erhalten Sie Buchungsbestätigungen und PDF-Tickets an diese E-Mail-Adresse.
+Die Verifikation der E-Mail-Adresse dient der Sicherheit Ihres DB Kundenkontos und stellt sicher, dass sich nur Nutzerinnen und Nutzer registrieren können, die tatsächlich Zugang zu der angegebenen E-Mail-Adresse besitzen. Diese eindeutige E-Mail-Adresse benötigen Sie für die Verwaltung Ihres DB Kundenkontos.
+
+Sie erhalten auch Buchungsbestätigungen und PDF-Tickets an diese E-Mail-Adresse.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-muss-ich-meine-e-mail-adresse-bestaetigen-verifizieren)
 
@@ -8447,9 +8555,9 @@ Ihre 12-stellige Auftragsnummer finden Sie:
 * In der Bestätigungsmail nach der Buchung
 * Auf Ihrem Ticket (PDF oder Ausdruck) unter dem Barcode
 
-Als registrierter Kunde können Sie auf bahn.de in Ihrem DB Kundenkonto und in der App DB Navigator Ihre letzten Buchungen einsehen und dort die Auftragsnummer finden.
+Wenn Sie ein DB Kundenkonto haben, können Sie auf bahn.de und in der App DB Navigator Ihre letzten Buchungen einsehen und dort die Auftragsnummer finden.
 
-Auf Fahrkarten aus dem Automaten oder im Reisebüro bzw. per Telefon gekauft, finden Sie die 9-stellige Auftragsnummer unten links. Sie ist farbig markiert.
+Auf Fahrkarten aus dem Automaten oder im Reisebüro oder per Telefon gekauft, finden Sie die 9-stellige Auftragsnummer unten links. Sie ist farbig markiert.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-auftragsnummer)
 
@@ -8738,7 +8846,7 @@ Für die Dauer der Nutzung des ICE Portals sollte diese Funktion deaktiviert s
  Wozu brauche ich eine 2-Faktor-Authentifizierung?
 ----------
 
-Die 2-Faktor-Authentifizierung schützt Ihre Login und Ihre Kundendaten vor unerlaubten Zugriffen. Insbesondere das Phishing Ihrer Login-Daten wird durch die 2-Faktor-Authentifizierung unterbunden.
+Die 2-Faktor-Authentifizierung schützt Ihre Login- und Kundendaten vor unerlaubten Zugriffen. Insbesondere das Phishing Ihrer Login-Daten wird durch die 2-Faktor-Authentifizierung unterbunden.
 
 Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre DB Kundenkonto-Daten zu gewährleisten. Es ist aber keine Pflicht.
 

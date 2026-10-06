@@ -231,6 +231,8 @@ Frequently Asked Questions
 
 Welche Software kann auf ARM-Servern ausgeführt werden?
 
+[](https://www.netcup.com/de/server/arm-server#welche-software-kann-auf-arm-servern-ausgefuehrt-werden)
+
  ###
 
 ARM-Server sind vielseitig einsetzbar und unterstützen gängige Software, darunter **Linux-Anwendungen, Webserver (wie Apache oder Nginx), Datenbanken (z. B. MySQL, MongoDB)** und viele weitere Anwendungen.
@@ -238,6 +240,8 @@ ARM-Server sind vielseitig einsetzbar und unterstützen gängige Software, darun
 ###
 
 Gibt es Einschränkungen bei der x86-Kompatibilität von ARM-Servern?
+
+[](https://www.netcup.com/de/server/arm-server#gibt-es-einschraenkungen-bei-der-x86-kompatibilitaet-von-arm-servern)
 
  ###
 
@@ -247,6 +251,8 @@ ARM-Server können x86-basierte Anwendungen nicht ausführen. Es ist wichtig, di
 
 Welche Vorteile bieten Ampere Altra Max CPUs?
 
+[](https://www.netcup.com/de/server/arm-server#welche-vorteile-bieten-ampere-altra-max-cpus)
+
  ###
 
 Ampere Altra Max CPUs zeichnen sich durch ihre **beeindruckende Energieeffizienz** und Leistung aus, was zu **niedrigeren Betriebskosten** führt.
@@ -254,6 +260,8 @@ Ampere Altra Max CPUs zeichnen sich durch ihre **beeindruckende Energieeffizienz
 ###
 
 Sind ARM-Server kosteneffizient?
+
+[](https://www.netcup.com/de/server/arm-server#sind-arm-server-kosteneffizient)
 
  ###
 

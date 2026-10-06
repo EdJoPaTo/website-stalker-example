@@ -106,49 +106,33 @@ Eigene Domain kaufen
 
 Wenn du bereit bist, dir eine eigene Internet-Domain zu kaufen, kannst du dies **schnell und einfach über unsere Website** tun. Wenn du bereits ein Kunde bist, empfehlen wir dir deine Domain über das netcup Customer Control Panel zu bestellen. Bei vielen Registries wird die Bestellung dort in Echtzeit ausgeführt. Wir bieten eine **große Auswahl an Domain-Endungen zu fairen Preisen**, so dass du sicher eine eigene Domain finden kannst, die zu deinem Unternehmen oder deiner Marke passt. Wir freuen uns darauf, dich dadurch beim Aufbau deiner Online-Präsenz zu unterstützen.
 
-Domain kaufen - FAQ
+FAQs zum Domainkauf
 ----------
 
-###
+* #### Was ist eine Domain? ####
 
-Was ist eine Domain?
+  Eine Internet-Domain ist der Name, unter dem eine Website im Internet erreichbar ist. Jede Webseite oder jeder Internetdienst hat eine eindeutige Nummer, die so genannte IP-Adresse. Da es aber schwierig ist, sich lange Nummern zu merken und zu unterscheiden, wurden Domain-Namen eingeführt. Dabei handelt es sich um ein frei wählbares Wort, welches durch einen Punkt von der Top-Level-Domain getrennt ist. Das Wort bzw. die Domain in Verbindung mit der Top-Level-Domain kann weltweit nur einmal registriert werden, um die eindeutige Zuordnung zu einer eindeutigen IP-Adresse zu gewährleisten.
 
- ###
+  Wenn jemand eine Webseite besuchen möchte, gibt die Person den Domainnamen in den Browser ein. Der Browser sucht dann automatisch nach der zugehörigen IP-Adresse und zeigt den Inhalt der Webseite an.
 
-Eine Internet-Domain ist der Name, unter dem eine Website im Internet erreichbar ist. Jede Webseite oder jeder Internetdienst hat eine eindeutige Nummer, die so genannte IP-Adresse. Da es aber schwierig ist, sich lange Nummern zu merken und zu unterscheiden, wurden Domain-Namen eingeführt. Dabei handelt es sich um ein frei wählbares Wort, welches durch einen Punkt von der Top-Level-Domain getrennt ist. Das Wort bzw. die Domain in Verbindung mit der Top-Level-Domain kann weltweit nur einmal registriert werden, um die eindeutige Zuordnung zu einer eindeutigen IP-Adresse zu gewährleisten.
+  Domains werden auch verwendet, um individuelle und unverwechselbare E-Mail-Adressen zu erstellen. Eine E-Mail-Adresse besteht typischerweise aus einem Benutzernamen, gefolgt von einem @-Symbol und der Domain-Endung.
 
-Wenn jemand eine Webseite besuchen möchte, gibt die Person den Domainnamen in den Browser ein. Der Browser sucht dann automatisch nach der zugehörigen IP-Adresse und zeigt den Inhalt der Webseite an.
+  Zusammenfassend kann festgestellt werden, dass eine Internet-Domain ein wichtiger Bestandteil des Internets ist, der ein einfaches und intuitives Auffinden von Websites und Online-Diensten ermöglicht.
 
-Domains werden auch verwendet, um individuelle und unverwechselbare E-Mail-Adressen zu erstellen. Eine E-Mail-Adresse besteht typischerweise aus einem Benutzernamen, gefolgt von einem @-Symbol und der Domain-Endung.
+* #### Kann ich eine Domain für immer kaufen? ####
 
-Zusammenfassend kann festgestellt werden, dass eine Internet-Domain ein wichtiger Bestandteil des Internets ist, der ein einfaches und intuitives Auffinden von Websites und Online-Diensten ermöglicht.
+  Eine Domain kann nicht für immer gekauft werden, sondern ist je nach den Bedingungen der jeweiligen Registrierungsstelle nur für einen begrenzten Zeitraum nutzbar. Nach Ablauf des Registrierungszeitraums muss die Domain erneut verlängert werden, um weiter genutzt werden zu können.
 
-###
+  Es ist jedoch möglich, eine Domain über einen längeren Zeitraum zu besitzen, indem man sie regelmäßig verlängert und die entsprechenden Gebühren bezahlt. Viele Domain-Registrare bieten auch automatische Verlängerungsoptionen an, die sicherstellen, dass die Domain nicht versehentlich ausläuft und verloren geht.
 
-Kann ich eine Domain für immer kaufen?
+* #### Wie geht es, günstig eine Domain zu registrieren? ####
 
- ###
+  Der Preis einer Domain hängt in erster Linie von der gewünschten Top-Level-Domain ab. Je nach Verfügbarkeit und Beliebtheit variieren die Preise stark. Netcup bietet viele verschiedene Top-Level-Domains zu sehr günstigen Jahresgebühren an.
 
-Eine Domain kann nicht für immer gekauft werden, sondern ist je nach den Bedingungen der jeweiligen Registrierungsstelle nur für einen begrenzten Zeitraum nutzbar. Nach Ablauf des Registrierungszeitraums muss die Domain erneut verlängert werden, um weiter genutzt werden zu können.
+* #### Wie kann ich eine bereits vergebene Domain kaufen? ####
 
-Es ist jedoch möglich, eine Domain über einen längeren Zeitraum zu besitzen, indem man sie regelmäßig verlängert und die entsprechenden Gebühren bezahlt. Viele Domain-Registrare bieten auch automatische Verlängerungsoptionen an, die sicherstellen, dass die Domain nicht versehentlich ausläuft und verloren geht.
+  Wenn du eine vergebene Domain kaufen möchtest, musst du den aktuellen Inhaber kontaktieren und diesem ein Kaufangebot unterbreiten.
 
-###
+  In der Regel ist der Kauf einer bereits vergebenen Domain wesentlich teurer als der Kauf einer neuen Domain, da der aktuelle Inhaber sehr wahrscheinlich einen höheren Preis für die Abgabe der Domain verlangt. Außerdem kann es sein, dass der aktuelle Inhaber die gewünschte Domain nicht verkaufen möchte.
 
-Wie geht es, günstig eine Domain zu registrieren?
-
- ###
-
-Der Preis einer Domain hängt in erster Linie von der gewünschten Top-Level-Domain ab. Je nach Verfügbarkeit und Beliebtheit variieren die Preise stark. Netcup bietet viele verschiedene Top-Level-Domains zu sehr günstigen Jahresgebühren an.
-
-###
-
-Wie kann ich eine bereits vergebene Domain kaufen?
-
- ###
-
-Wenn du eine vergebene Domain kaufen möchtest, musst du den aktuellen Inhaber kontaktieren und diesem ein Kaufangebot unterbreiten.
-
-In der Regel ist der Kauf einer bereits vergebenen Domain wesentlich teurer als der Kauf einer neuen Domain, da der aktuelle Inhaber sehr wahrscheinlich einen höheren Preis für die Abgabe der Domain verlangt. Außerdem kann es sein, dass der aktuelle Inhaber die gewünschte Domain nicht verkaufen möchte.
-
-Wenn du eine vergebene Domain kaufst, stelle auf jeden Fall sicher, dass alle Bedingungen vom Verkäufer erfüllt werden und die Domain erfolgreich auf dich übertragen wird.
+  Wenn du eine vergebene Domain kaufst, stelle auf jeden Fall sicher, dass alle Bedingungen vom Verkäufer erfüllt werden und die Domain erfolgreich auf dich übertragen wird.

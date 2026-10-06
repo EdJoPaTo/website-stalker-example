@@ -129,12 +129,6 @@ Nein, Sie können Ihre digitale BahnCard 100 und das zusätzliche digitale Deuts
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-gemeinsam-smartphone)
 
-###  Ich habe kein Smartphone. Kann ich die digitale BahnCard 100 trotzdem nutzen?  ###
-
-In diesem Fall wenden Sie sich bitte an den [BahnCard Service](https://www.bahn.de/hilfe#/bahncard).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-kein-smartphone)
-
 ###  Ich finde meine neue digitale BahnCard nicht in der App DB Navigator. Was muss ich tun?  ###
 
 Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der BahnCard eine Nachricht mit dem Betreff „Wichtige Informationen zu Ihrer digitalen BahnCard" erhalten. Dort ist ein Link zur Aktivierung Ihrer BahnCard enthalten.

@@ -81,6 +81,8 @@ FAQ
 
 Wie erfolgt die Abrechnung von Local Block Storage?
 
+[](https://www.netcup.com/de/server/local-block-storage#wie-erfolgt-die-abrechnung-von-local-block-storage)
+
  ###
 
 Die **Abrechnung erfolgt alle 30 Tage**. Wenn keine Kündigung oder ein Upgrade vorgenommen wurde, wird der Storage in die Warteschlange gestellt. Die Kosten für die Nutzung werden mit der nächsten Rechnung fällig, basierend auf der Menge an gebuchtem Speichervolumen (30 Tage x Preis pro GB).
@@ -88,6 +90,8 @@ Die **Abrechnung erfolgt alle 30 Tage**. Wenn keine Kündigung oder ein Upgrade 
 ###
 
 Wie erfolgt die Abrechnung von Local Block Storage im Falle einer Kündigung oder eines Upgrades?
+
+[](https://www.netcup.com/de/server/local-block-storage#wie-erfolgt-die-abrechnung-von-local-block-storage-im-falle-einer-kuendigung-oder-eines-upgrades)
 
  ###
 
@@ -99,6 +103,8 @@ Bei einem Upgrade wird die Nutzung ebenfalls bis zum Zeitpunkt des Upgrades zum 
 
 Gibt es bei Local Block Storage Limitierungen hinsichtlich Dateisysteme?
 
+[](https://www.netcup.com/de/server/local-block-storage#gibt-es-bei-local-block-storage-limitierungen-hinsichtlich-dateisysteme)
+
  ###
 
 Nein, es bestehen **keine Einschränkungen** bei der Wahl des Dateisystems auf unseren Local Block Storages.
@@ -106,6 +112,8 @@ Nein, es bestehen **keine Einschränkungen** bei der Wahl des Dateisystems auf u
 ###
 
 Können VPS der G10s sowie G11s ebenso um Speicherplatz erweitert werden?
+
+[](https://www.netcup.com/de/server/local-block-storage#koennen-vps-der-g10s-sowie-g11s-ebenso-um-speicherplatz-erweitert-werden)
 
  ###
 
@@ -115,6 +123,8 @@ Für VPS x86 der G10s ist eine **Speichererweiterung leider nicht möglich**. Be
 
 Gibt es ein Mindest- und Maximalvolumen an Speicherkapazität für Local Block Storage bei netcup?
 
+[](https://www.netcup.com/de/server/local-block-storage#gibt-es-ein-mindest-und-maximalvolumen-an-speicherkapazitaet-fuer-local-block-storage-bei-netcup)
+
  ###
 
 Die **minimale Kapazität liegt bei 1 GB**. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab Generation G9, VPS x86 ab Generation G10 und ARM64 ab Generation G11 (jeweils erweiterbar bis max. 8 TB) sowie für ausgewählte Angebote der VPS x86 ab Generation G11s (bis max. 2 TB erweiterbar). **vGPU-Produkte können bis insgesamt max. 4 TB** **erweitert werden**.
@@ -123,6 +133,8 @@ Die **minimale Kapazität liegt bei 1 GB**. Local Block Storage ist verfügbar f
 
 Ist es möglich die Disks zu verkleinern?
 
+[](https://www.netcup.com/de/server/local-block-storage#ist-es-moeglich-die-disks-zu-verkleinern)
+
  ###
 
 Nein, dies ist **nicht möglich**. Möchte man seine gewählte Speicherkapazität reduzieren, so ist hierzu eine **neue, kleinere Speichereinheit zu wählen**, die Dateien der bestehenden Einheit in die neue, kleinere Kapazitätsgröße zu **übertragen**, um im Anschluss die **bestehende**, größere Speichereinheit zu **kündigen**.
@@ -130,6 +142,8 @@ Nein, dies ist **nicht möglich**. Möchte man seine gewählte Speicherkapazitä
 ###
 
 Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
+
+[](https://www.netcup.com/de/server/local-block-storage#meine-frage-ist-hier-nicht-aufgelistet.-wo-finde-ich-eine-antwort)
 
  ###
 

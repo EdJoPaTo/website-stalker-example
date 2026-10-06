@@ -4487,26 +4487,6 @@ Nein, Sie können Ihre digitale BahnCard 100 und das zusätzliche digitale Deuts
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-gemeinsam-smartphone)
 
- Ich habe kein Smartphone. Kann ich die digitale BahnCard 100 trotzdem nutzen?
-----------
-
-In diesem Fall wenden Sie sich bitte an den [BahnCard Service](https://www.bahn.de/hilfe#/bahncard).
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-kein-smartphone)
-
- Wie verknüpfe ich die digitale BahnCard 100 mit meinem Smartphone?
-----------
-
-Ihre BahnCard 100 wird mit Ihrem mobilen Endgerät, zum Beispiel mit einem Smartphone, fest verknüpft. ​
-
-Ab 3 Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 100 können Sie diese mit Ihrem Smartphone verknüpfen, spätestens jedoch vor Ihrem Reiseantritt. Das gleiche gilt für Ihr zusätzliches kostenfreie Deutschland-Ticket.
-
-Sie haben Fragen zur Gerätebindung? Rufen Sie gerne unter [030 2970](tel:030 2970) an.
-
-Halten Sie bitte Ihre BahnCard-Nummer bereit.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-sperre)
-
  Wie oft kann ich meine digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket mit einem anderen Smartphone verknüpfen?
 ----------
 
@@ -6586,13 +6566,6 @@ Digitale Tickets, die auf bahn.de oder der App DB Navigator gebucht wurden, kön
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-fuer-eine-andere-person-ein-einzelticket-gekauft-kann-diese-es-sich-auf-ihrem-smartphone-anzeigen-lassen)
 
- Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard 25/50 trotzdem nutzen?
-----------
-
-Der Kauf einer BahnCard 25/50 ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, zum Beispiel Informationen zur Nutzung Ihrer digitalen BahnCard 25/50 oder die Buchungsbestätigung nach Kauf der BahnCard 25/50. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-keine-e-mail-adresse-kann-ich-die-digitale-bahncard-trotzdem-nutzen)
-
  Was tun bei verlorenem, gestohlenem oder stark beschädigtem Abo-Ticket?
 ----------
 
@@ -6605,27 +6578,6 @@ Falls Ihr Ticket verloren gegangen ist, gestohlen wurde oder stark beschädigt i
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mein-ticket-verloren-es-wurde-mir-gestohlen-stark-beschaedigt-wie-und-wo-bekomme-ich-ersatz)
-
- Ich habe meine BahnCard 25 bzw. 50 verloren. Wie erhalte ich eine neue Plastikkarte?
-----------
-
-Seit dem 9. Juni 2024 wird die BahnCard 25/50 als rein digitale BahnCard angeboten. Eine Plastikkarte wird nicht mehr ausgestellt.
-
-Nutzen Sie stattdessen Ihre digitale BahnCard in der App DB Navigator:
-
-1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Gehen Sie zum Bereich "BahnCard".
-3. Wählen Sie die BahnCard aus, die Sie in die App laden möchten.
-
-Falls Sie kein Smartphone haben:
-
-* Gehen Sie in Ihr DB Kundenkonto auf bahn.de.
-* Rufen Sie ein Ersatzdokument als PDF mit QR-Code ab.
-* Drucken Sie dieses Dokument aus und führen Sie es bei Ihrer Reise mit.
-
-Eine Anleitung zum Abruf finden Sie unter [www.bahn.de/digitalebc](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-meine-bahncard-25-50-verloren)
 
  Ich hatte mir ein Mehrfahrten-Ticket gekauft. Wo finde ich mein Guthaben/meine noch nicht eingelösten Tickets?
 ----------
@@ -9662,17 +9614,6 @@ Weiterhin erhalten Sie
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?sts=false&vm=03,04,05,06,07,08,09)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/move-tickets-wo-kaufen)
-
- Muss ich die digitale BahnCard 25/50 in der App DB Navigator aktualisieren?
-----------
-
-Nein, die digitale BahnCard 25/50 wird einmal pro Monat automatisch aktualisiert.
-
-Falls bestimmte Einstellungen auf Ihrem Smartphone die automatische Aktualisierung verhindern, lösen Sie die Aktualisierung manuell aus.
-
-[Weitere Informationen zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-die-digitale-bahncard-in-der-app-db-navigator-aktualisieren)
 
  Muss ich meine Gruppe im Gruppenpreis Deutschlandtarif anmelden?
 ----------
@@ -17682,15 +17623,6 @@ Die **BahnCard 100** muss nicht gekündigt werden. Die Karte läuft automatisch
 [Weitere Informationen zur BahnCard 100](https://www.bahn.de/angebot/bahncard/bahncard100)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-bahncard-100-kuendigen)
-
- Wie kann ich die digitale BahnCard 25/50 in der App DB Navigator speichern?
-----------
-
-Loggen Sie sich mit Ihrem DB Kundenkonto in der App DB Navigator ein. Ihre digitale BahnCard laden Sie nun unter „Profil" im Bereich "BahnCard". Wischen Sie dazu nach links bis zum Punkt "BahnCard aktualisieren".
-
-[Weitere Informationen zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-digitale-bahncard-in-der-app-db-navigator-speichern)
 
  Wie kann ich die Jugend BahnCard bestellen?
 ----------

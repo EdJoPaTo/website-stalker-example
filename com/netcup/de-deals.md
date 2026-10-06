@@ -126,6 +126,8 @@ netcup Deals - FAQ
 
 Welche Angebote bietet netcup bei Root-Server, VPS, Domains und Webhosting an?
 
+[](https://www.netcup.com/de/deals#welche-angebote-bietet-netcup-bei-root-server-vps-domains-und-webhosting-an)
+
  ###
 
 Wir bieten dir zu wiederkehrenden Sale-Events eine immer unterschiedliche Auswahl aus den beliebten netcup Produktkategorien, wie Root-Server, VPS, Domains und Webhosting zu besonders günstigen Konditionen. Die Aktionsprodukte sind dabei nur für kurze Zeit als Deal verfügbar und unterscheiden sich zu den regulären Produkten im Preis und/oder Spezifikationen wie Speicherplatz und/oder CPU-Leistung.
@@ -134,6 +136,8 @@ Wir bieten dir zu wiederkehrenden Sale-Events eine immer unterschiedliche Auswa
 
 Wie lange sind netcup Deals verfügbar?
 
+[](https://www.netcup.com/de/deals#wie-lange-sind-netcup-deals-verfuegbar)
+
  ###
 
 Für gewöhnlich sind unsere Deals für 24 bis 72 Stunden aktiv. Bei manchen Aktionen können sie jedoch auch über einen längeren oder kürzeren Zeitraum zu Verfügung stehen. Bitte beachte die Informationen auf unserer Website. Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
@@ -141,6 +145,8 @@ Für gewöhnlich sind unsere Deals für 24 bis 72 Stunden aktiv. Bei manchen Akt
 ###
 
 Wie erfahre ich von aktuellen und zukünftigen Deals bei netcup?
+
+[](https://www.netcup.com/de/deals#wie-erfahre-ich-von-aktuellen-und-zukuenftigen-deals-bei-netcup)
 
  ###
 
@@ -152,6 +158,8 @@ Abonniere zusätzlich gerne unseren [WhatsApp-Kanal](https://www.whatsapp.com/ch
 
 Ändert sich der Preis nach dem ersten Jahr bzw. der ersten Abrechnungsperiode?
 
+[](https://www.netcup.com/de/deals#aendert-sich-der-preis-nach-dem-ersten-jahr-bzw.-der-ersten-abrechnungsperiode)
+
  ###
 
 Nein, der Preis der Aktion ist dauerhaft gültig - sofern nicht anders angegeben. Eine Ausnahme besteht für notwendige, allgemeine Preiserhöhungen entsprechend unserer [AGB](https://www.netcup.com/de/agb).
@@ -160,6 +168,8 @@ Nein, der Preis der Aktion ist dauerhaft gültig - sofern nicht anders angegeben
 
 Was ist ein Flash Deal und wie lange bleibt dieser verfügbar?
 
+[](https://www.netcup.com/de/deals#was-ist-ein-flash-deal-und-wie-lange-bleibt-dieser-verfuegbar)
+
  ###
 
 Bei Flash Deals handelt es sich um zusätzliche, attraktive „Blitzangebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 2-4 Stunden. Du erkennst einen Flash Deal am speziellen Blitz-Icon. Sobald ein Flash Deal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
@@ -167,6 +177,8 @@ Bei Flash Deals handelt es sich um zusätzliche, attraktive „Blitzangebote“,
 ###
 
 Können Gutscheine auf netcup Deals angewendet werden?
+
+[](https://www.netcup.com/de/deals#koennen-gutscheine-auf-netcup-deals-angewendet-werden)
 
  ###
 
@@ -178,6 +190,8 @@ Wenn dein Gutscheincode nicht funktioniert, wende dich bitte an unseren [Support
 
 Sind Deals durch limitierte Stückzahlen begrenzt?
 
+[](https://www.netcup.com/de/deals#sind-deals-durch-limitierte-stueckzahlen-begrenzt)
+
  ###
 
 Für gewöhnlich sind Aktionsprodukte nicht in der Stückzahl begrenzt. Es kann jedoch vorkommen, dass gewisse Angebote aus diversen Gründen nur bis zu einem gewissen Limit bestellt werden können. In diesem Fall weisen wir jedoch auf der Aktionsseite darauf hin.
@@ -185,6 +199,8 @@ Für gewöhnlich sind Aktionsprodukte nicht in der Stückzahl begrenzt. Es kann 
 ###
 
 Ist die Bestpreis- und Zufriedenheitsgarantie auf die Aktionen anwendbar?
+
+[](https://www.netcup.com/de/deals#ist-die-bestpreis-und-zufriedenheitsgarantie-auf-die-aktionen-anwendbar)
 
  ###
 
@@ -194,6 +210,8 @@ Nein, die Bestpreisgarantie ist nicht auf Aktionen anwendbar. Die Zufriedenheits
 
 Ich habe die Aktion verpasst. Gibt es eine Möglichkeit, die Aktionsprodukte nachträglich zu bestellen?
 
+[](https://www.netcup.com/de/deals#ich-habe-die-aktion-verpasst.-gibt-es-eine-moeglichkeit-die-aktionsprodukte-nachtraeglich-zu-bestellen)
+
  ###
 
 Nein, das ist leider nicht möglich. Die Angebote sind zeitlich begrenzt und nach Ablauf der Aktion sind die Produkte nicht mehr zum Aktionspreis verfügbar. Allerdings gibt es bei netcup auf regelmäßiger Basis Aktionen und neue Angebote. Komme also gerne zu einem späteren Zeitpunkt wieder oder wirf einen Blick auf unsere regulären Produkte wie Webhosting, Domains oder Server-Produkte, die auch außerhalb von Aktionen mit einem attraktiven Preis-Leistungs-Verhältnis überzeugen.
@@ -201,6 +219,8 @@ Nein, das ist leider nicht möglich. Die Angebote sind zeitlich begrenzt und nac
 ###
 
 Kann ich bestehende Produkte / Verträge auf Aktionen upgraden?
+
+[](https://www.netcup.com/de/deals#kann-ich-bestehende-produkte-vertraege-auf-aktionen-upgraden)
 
  ###
 
@@ -210,6 +230,8 @@ Nein, ein Upgrade bestehender Produkte oder Verträge auf Aktionsprodukte ist ni
 
 Kann ich Aktionsprodukte später auch auf größere, reguläre Produkte upgraden?
 
+[](https://www.netcup.com/de/deals#kann-ich-aktionsprodukte-spaeter-auch-auf-groessere-regulaere-produkte-upgraden)
+
  ###
 
 Für manche Produkte, die zu Regulär-Preisen über unsere Website gekauft wurden, ist ein [Upgrade](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade) innerhalb derselben Produktgruppe und Generation möglich.
@@ -218,6 +240,8 @@ Upgrades von und zu Produkten, die innerhalb einer Aktion gekauft wurden, sind j
 ###
 
 Wie lange dauert es, bis mein bestelltes Produkt verfügbar ist?
+
+[](https://www.netcup.com/de/deals#wie-lange-dauert-es-bis-mein-bestelltes-produkt-verfuegbar-ist)
 
  ###
 
@@ -231,6 +255,8 @@ Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter
 
 Was bedeutet "Pro" bei unseren Aktionsprodukten?
 
+[](https://www.netcup.com/de/deals#was-bedeutet-pro-bei-unseren-aktionsprodukten)
+
  ###
 
 Unsere bisherigen „SE“-Produkte (Special Edition) heißen ab sofort „Pro“. Diese Kennzeichnung steht für exklusive Aktionsvarianten unserer regulären Angebote.
@@ -242,6 +268,8 @@ Beachte: Pro-Produkte sind nur im Rahmen zeitlich begrenzter Aktionen verfügbar
 ###
 
 Was bedeutet "Ultra" bei unseren Aktionsprodukten?
+
+[](https://www.netcup.com/de/deals#was-bedeutet-ultra-bei-unseren-aktionsprodukten)
 
  ###
 
