@@ -832,7 +832,7 @@ Als Vielfahrende erhalten Sie ab 1.500 gesammelten Statuspunkten ein Statuslevel
  Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
 ----------
 
-Dafür müssen Sie in Ihrem DB Kundenkonto im Bereich "BahnCard" unter "Ermäßigung hinterlegen" mit dem Plus-Zeichen die passende BahnCard hinzufügen. Diese ist nun für alle Buchungen automatisch vor belegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
+Dafür müssen Sie in Ihrem DB Kundenkonto im Bereich "BahnCard" unter "Ermäßigung hinterlegen" mit dem Plus-Zeichen die passende BahnCard hinzufügen. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-buchung-automatisch-beruecksichtigt)
 
@@ -3229,7 +3229,7 @@ Sie können Bonvoyo für die Zahlung auf bahn.de und im DB Navigator generell nu
 Hier können Sie **nicht** mit **Bonvoyo** bezahlen:
 
 * im Fahrkartenshop
-* im bahn.business Portal
+* im BahnBusiness Portal
 
 Gutscheine können nicht mit Bonvoyo erworben werden
 

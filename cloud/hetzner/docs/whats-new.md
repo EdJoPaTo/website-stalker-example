@@ -3,6 +3,12 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+### New Cloud server plan in EU and SIN: CPX02 ###
+
+To expand our range of cost-effective cloud servers, we have now introduced the "Regular Performance" server CPX02, featuring 1 vCPU, 1 GB RAM and 20 GB storage, at our European locations (FSN1, HEL1 and NBG1) and in Singapore (SIN).
+
+This server is particularly suitable for applications with very low resource usage and minimal system requirements, such as static websites, blogs or simple single-service web applications.
+
 ### New experimental platform ###
 
 For everyone who enjoys experimenting and trying out new things, we have made a new platform available: [https://experiments.hetzner.com](https://experiments.hetzner.com/)

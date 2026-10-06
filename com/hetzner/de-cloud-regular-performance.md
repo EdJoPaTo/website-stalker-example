@@ -36,6 +36,58 @@ Im Vergleich zum Cost-Optimized-Tarif profitierst du von neueren Hardwaregenerat
 
  Preis
 
+ CPX02
+
+ Neu
+
+ 1
+
+ AMD
+
+ 1 GB
+
+ 20 GB
+
+ NVMe
+
+ ab  /Monat  ab /Monat
+
+ /Stunde  /Stunde
+
+ Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
+
+[Erstellen](https://console.hetzner.com/create/server?type=cpx02&useIPv4=true&useIPv6=false&usePrivateNet=false&location=nbg1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
+
+Details
+
+ eu-central FSN1 NBG1 HEL1
+
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten  verrechnet.
+
+ /Monat  /Monat
+
+ ap-southeast SIN1
+
+ Traffic inklusive
+
+ 0.5 TB
+
+[]()
+
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten  verrechnet.
+
+ /Monat  /Monat
+
  CPX12
 
  1

@@ -1744,6 +1744,20 @@ Bahn.business- Kund:innen mit einem Flexpreis oder Flexpreis Business Ticket erh
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahn-business-city-ticket)
 
+ Kann ich bei diesem Ticket BahnBonus Punkte sammeln?
+----------
+
+Ja, mit diesem regionalen Ticket können Sie BahnBonus Punkte sammeln.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnbonus-ja)
+
+ Kann ich bei diesem Ticket BahnBonus Punkte sammeln?
+----------
+
+Nein, für dieses Ticket können Sie leider keine BahnBonus Punkte sammeln. Bestimmte Tickets sind aufgrund ihrer Angebots‑ oder Tarifbedingungen ausgeschlossen; eine Punktegutschrift ist in diesen Fällen nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnbonus-nein)
+
  Gibt es die BahnCard 100 für Studierende?
 ----------
 
@@ -1756,7 +1770,7 @@ Ja. Mit der My BahnCard 100 und dem kostenlos inkludierten digitalen Deutschland
  Warum wird meine BahnCard nicht bei jeder Buchung auf bahn.de oder im DB Navigator automatisch berücksichtigt?
 ----------
 
-Dafür müssen Sie in Ihrem DB Kundenkonto im Bereich "BahnCard" unter "Ermäßigung hinterlegen" mit dem Plus-Zeichen die passende BahnCard hinzufügen. Diese ist nun für alle Buchungen automatisch vor belegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
+Dafür müssen Sie in Ihrem DB Kundenkonto im Bereich "BahnCard" unter "Ermäßigung hinterlegen" mit dem Plus-Zeichen die passende BahnCard hinzufügen. Diese ist nun für alle Buchungen automatisch vorbelegt, sofern Sie in Ihrem DB Kundenkonto eingeloggt sind.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-buchung-automatisch-beruecksichtigt)
 
@@ -5933,9 +5947,9 @@ Bis zu 4 Mitreisende fahren vergünstigt. Das heißt, je mehr Personen mitfahren
  Gibt es für jedes Bundesland ein Länder-Ticket?
 ----------
 
-Im Prinzip ja, manche Länder-Tickets, wie zum Beispiel das Sachsen-Ticket, gelten aber auch in den benachbarten Bundesländern. Manche, wie zum Beispiel das Baden-Württemberg-Ticket, gielten sogar bis nach Basel.
+Im Prinzip ja, manche Länder-Tickets, wie zum Beispiel das Sachsen-Ticket, gelten aber auch in den benachbarten Bundesländern. Manche, wie zum Beispiel das Baden-Württemberg-Ticket, gelten sogar bis nach Basel.
 
-Sie können mit einem Länder-Ticket allein oder in der Gruppe bis zu 5 Personen günstig einen Tag lang im Geltungsbereich des jeweiiligen Tickets fahren.
+Sie können mit einem Länder-Ticket allein oder in der Gruppe bis zu 5 Personen günstig einen Tag lang im Geltungsbereich des jeweiligen Tickets fahren.
 
 [Zu den Länder-Tickets](https://www.bahn.de/angebot/regio/laender_tickets)
 
@@ -8964,7 +8978,7 @@ Für diese Länder können Sie das Angebot buchen: Belgien, Dänemark, Frankreic
  Lohnt sich der Kauf eines Länder-Tickets noch, wo es doch jetzt das Deutschland-Ticket gibt?
 ----------
 
-Ja, definitiv! Wenn Sie zum Beispiel gemeinsam mit mehreren Personen reisen und nur Sie selbst ein Deutschland-Ticket haben. Bis zu 5 Mitfahrer:innen fahren mit einem Länderticket als Kleingruppe günstiger
+Ja, definitiv! Wenn Sie zum Beispiel gemeinsam mit mehreren Personen reisen und nur Sie selbst ein Deutschland-Ticket haben. Bis zu 5 Mitfahrer:innen fahren mit einem Länderticket als Kleingruppe günstiger.
 
 [Zu den Länder-Tickets](https://www.bahn.de/angebot/regio/laender_tickets)
 
@@ -9471,7 +9485,7 @@ Mit der digitalen BahnCard können Sie auch BahnBonus Punkte sammeln. Wenn Sie I
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-digitaler-bahncard-bahnbonus-punkte-sammeln)
 
- Können meine Mitfahrer:innen beim Länder-Ticket oderr Quer-durchs-Land-Ticket einfach dazu steigen?
+ Können meine Mitfahrer:innen beim Länder-Ticket oder Quer-durchs-Land-Ticket einfach dazu steigen?
 ----------
 
 * Ja. Ihr Länder-Ticket oder Ihr Quer-durchs-Land-Ticket kann als günstiges Gruppenticket genutzt werden und Ihre Mitfahrer:innen können auch unterwegs dazu steigen.
@@ -9679,18 +9693,18 @@ Sie haben jetzt die Möglichkeit, dies ganz unkompliziert zu erledigen und Ihre 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-meine-gruppe-anmelden-deutschlandtarif)
 
- Wie kann ich meine BahnCard 25 oder BahnCard 50 kündigen?
+ Wie kann ich meine Probe BahnCard 25 oder Probe BahnCard 50 kündigen?
 ----------
 
-Sie können Ihre Probe BahnCard 25/50 bis zu 4 Wochen in Textform vor Laufzeitende in Textform kündigen.
+Ja, die Probe BahnCard 25/50 müssen Sie bis zu 4 Wochen vor Laufzeitende in Textform kündigen. In Ihrem DB Kundenkonto kündigen Sie am einfachsten.
 
 So kündigen Sie online:
 
-In Ihr DB Kundenkonto unter: [BahnCard](https://www.bahn.de/buchung/kundenkonto/bahncard) einloggen.
-Auf "BahnCard" klicken und "Optionen" auswählen.
-Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
-Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
-Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet. Für die Probe BahnCard 100 ist keine Kündigung notwendig. Sie endet am letzten Geltungstag automatisch.
+* In Ihr DB Kundenkonto unter: [BahnCard](https://www.bahn.de/buchung/kundenkonto/bahncard) einloggen.
+* Auf "BahnCard" am BahnCard-Vertrag klicken und "Optionen" auswählen.
+* Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
+* Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
+* Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet. Für die Probe BahnCard 100 ist keine Kündigung notwendig. Sie endet am letzten Geltungstag automatisch.
 
 [Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
 
@@ -17211,13 +17225,6 @@ Eine Person und bis zu 4 Mitfahrer.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-regio-ticket-werdenfels-plus-innsbruck-fahren)
 
- Wer kann mit dem Sachsen-Böhmen-Ticket fahren?
-----------
-
-Das Sachsen-Böhmen-Ticket gilt für **bis zu 5 Personen**. Bis zu **3 Kinder im Alter zwischen 6 und unter 15 Jahren fahren kostenfrei mit** - unabhängig ob eigene oder nicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-kann-mit-dem-sachsen-boehmen-ticket-fahren)
-
  Wer kann mit dem Regio-Ticket Donau-Isar fahren?
 ----------
 
@@ -17858,15 +17865,15 @@ Fügen Sie in der Buchungsanfrage auf der Website unter "Reisende" den Reisenden
  Wie kann ich meine BahnCard 25 oder BahnCard 50 kündigen?
 ----------
 
-Sie können Ihre **BahnCard 25** oder **BahnCard 50** bis zu 4 Wochen vor Laufzeitende in Textform kündigen.
+Sie können Ihre BahnCard 25 oder BahnCard 50 bis zu 4 Wochen vor Laufzeitende in Textform kündigen. In Ihrem DB Kundenkonto kündigen Sie am einfachsten.
 
 So kündigen Sie online:
 
-In Ihr DB Kundenkonto unter: [BahnCard](https://www.bahn.de/buchung/kundenkonto/bahncard) einloggen.
-Auf "BahnCard" klicken und "Optionen" auswählen.
-Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
-Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
-Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
+* In Ihr DB Kundenkonto unter: [BahnCard](https://www.bahn.de/buchung/kundenkonto/bahncard) einloggen.
+* Auf "BahnCard" am BahnCard-Vertrag klicken und "Optionen" auswählen.
+* Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
+* Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
+* Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
 
 [Zum Kundenkonto](http://www.bahn.de/link_bc-selfservices)
 
@@ -18909,6 +18916,8 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 ----------
 
 Das Tagesticket für **eine Person** kostet **37 Euro**, jede **weitere Person** in einer Gruppe bis 5 Personen zahlt **7,50 Euro**.
+
+Beachten Sie bitte, dass das Ticket nur noch bis zum Fahrplanwechsel am 13. Dezember 2026 erhältlich ist.
 
 [Ticket auswählen](https://www.next-bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00015C215)
 
@@ -20598,9 +20607,7 @@ Kein Verkauf im Zug!
  Wo kann ich das Sachsen-Böhmen-Ticket kaufen?
 ----------
 
-* An DB Verkaufstellen (mit persönlicher Beratung 2 Euro mehr)
-* An DB Automaten
-* Gleich hier online
+Das Sachsen-Böhmen-Ticket wird nur noch bis zum Fahrplanwechsel am 13. Dezember 2026 auf bahn.de verkauft. Beachten Sie bitte die Vorverkaufszeiten.
 
 [Ticket auswählen](https://www.next-bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00015C215)
 
