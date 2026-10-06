@@ -291,143 +291,91 @@ Unsere Zufriedenheitsgarantie
 
 Bevor du dich an einen Vertrag mit uns bindest, möchten wir, dass du von unseren Root Server Produkten überzeugt bist und diese zu deine Anforderungen passen. Solltest du **innerhalb von 30 Tagen nach der Bestellung** mit deinem **Root Server** nicht zufrieden sein, kannst du diesen **zurückgeben und du erhältst die komplette Grundgebühr** (Preis pro Monat mal Abrechnungsperiode) zurück erstattet.
 
-Frequently Asked Questions
+FAQs zu Root Servern
 ----------
 
-###
+* #### Was ist ein Root Server? ####
 
-Was ist ein Root Server?
+  Bei einem Root Server handelt es sich um einen Server, bei dem du **vollständigen administrativen Zugriff (Root-Zugriff)** erhältst. Du bekommst klar definierte Ressourcen, die deinem Server zur Verfügung stehen. Du kannst i**ndividuelle Systemsoftware betreiben** und hast dabei vollständige administrative Kontrolle. Ein Root Server **setzt demzufolge Kenntnisse in der Administration von Serversystemen voraus.**
 
- ###
+* #### Was kann ich mit einem Root Server machen? ####
 
-Bei einem Root Server handelt es sich um einen Server, bei dem du **vollständigen administrativen Zugriff (Root-Zugriff)** erhältst. Du bekommst klar definierte Ressourcen, die deinem Server zur Verfügung stehen. Du kannst i**ndividuelle Systemsoftware betreiben** und hast dabei vollständige administrative Kontrolle. Ein Root Server **setzt demzufolge Kenntnisse in der Administration von Serversystemen voraus.**
+  Root Server eignen sich ideal für **Shop-Lösungen, große Websites, Mobile App Services oder als E-Mail Server** für Unternehmen, als auch Privatpersonen mit größeren Projekten. So agierst du mit **höchster Flexibilität, Sicherheit und Qualität bei maximaler Performance.**
 
-###
+* #### Was ist der Unterschied zwischen einem dedizierten Server, einem Root Server und einem VPS? ####
 
-Was kann ich mit einem Root Server machen?
+  Die Begriffe dedizierter Server und Root Server werden in der IT-Branche oft synonym verwendet und stellen ähnliche Konzepte dar: Mit einem **dedizierten Server erhältst du exklusiven Zugriff auf einen physischen Server**. Bei VPS und Root Server handelt es sich **bei netcup um virtualisierte Server mit Root-Zugriff.** Während bei einem VPS die CPU-Leistung nicht garantiert werden kann, vereint ein Root Server jedoch die Vorteile dedizierter Server und virtualisierter Server: Einem Root Server wird die angegebene CPU-Leistung garantiert zugewiesen, zudem ist das **Anlegen von Snapshots** sowie die Verwaltung über ein Panel durch die Virtualisierung wie auch bei VPS möglich.
 
- ###
+* #### Wo wird mein Root Server gehostet? ####
 
-Root Server eignen sich ideal für **Shop-Lösungen, große Websites, Mobile App Services oder als E-Mail Server** für Unternehmen, als auch Privatpersonen mit größeren Projekten. So agierst du mit **höchster Flexibilität, Sicherheit und Qualität bei maximaler Performance.**
+  Deinen Root-Server-Standort wählst du bei netcup bereits vor der Bestellung direkt auf der Produktseite aus. Zur Auswahl stehen:
 
-###
+  * Wien (VIE)
+  * Nürnberg (NUE)
+  * Manassas/USA (MNZ) und
+  * Singapur (SIN)
 
-Was ist der Unterschied zwischen einem dedizierten Server, einem Root Server und einem VPS?
+  Zusätzlich gibt es die Option „Keine Präferenz Europa“ – dabei kannst du den genauen Standort nicht festlegen, dein Server wird jedoch ausschließlich in einem europäischen Rechenzentrum (z. B. Wien oder Nürnberg) eingerichtet, abhängig von den verfügbaren Kapazitäten.
 
- ###
+* #### Was sind die Vorteile eines Root Servers? ####
 
-Die Begriffe dedizierter Server und Root Server werden in der IT-Branche oft synonym verwendet und stellen ähnliche Konzepte dar: Mit einem **dedizierten Server erhältst du exklusiven Zugriff auf einen physischen Server**. Bei VPS und Root Server handelt es sich **bei netcup um virtualisierte Server mit Root-Zugriff.** Während bei einem VPS die CPU-Leistung nicht garantiert werden kann, vereint ein Root Server jedoch die Vorteile dedizierter Server und virtualisierter Server: Einem Root Server wird die angegebene CPU-Leistung garantiert zugewiesen, zudem ist das **Anlegen von Snapshots** sowie die Verwaltung über ein Panel durch die Virtualisierung wie auch bei VPS möglich.
+  Insgesamt bietet die Verwendung eines Root Servers die Flexibilität, Leistung und Kontrolle, die für anspruchsvolle Internetanwendungen und -dienste erforderlich sind.
 
-###
+  1. **Vollständige Kontrolle:** Als Betreiber eines Root Servers hast du die volle Kontrolle über die Konfiguration, Ressourcenallokation und Sicherheitsrichtlinien. Dies ermöglicht es dir, die Serverumgebung deinen spezifischen Anforderungen anzupassen und flexibel auf Veränderungen zu reagieren.
 
-Wo wird mein Root Server gehostet?
+  2. **Hohe Leistung:** Root Server werden oft auf leistungsstarker Hardware betrieben, die eine schnelle Datenverarbeitung und -übertragung ermöglicht. Dies ist besonders wichtig für Anwendungen, die hohe Anforderungen an Rechenleistung und Bandbreite haben, wie z.B. große Datenbanken, E-Commerce-Websites oder Multimedia-Streaming-Dienste.
 
- ###
+  3. **Anpassungsfähigkeit:** Mit einem Root Server kannst du die Betriebssystemumgebung und die Software nach deinen Wünschen anpassen. Dies ermöglicht es dir, spezifische Anwendungen oder Dienste zu installieren und zu konfigurieren, die für deine Anforderungen optimiert sind.
 
-Deinen Root-Server-Standort wählst du bei netcup bereits vor der Bestellung direkt auf der Produktseite aus. Zur Auswahl stehen:
+  4. **Datenschutz und Sicherheit:** Durch die Verwaltung deines eigenen Root Servers kannst du die Sicherheitsmaßnahmen implementieren, die deinen Datenschutz- und Sicherheitsanforderungen entsprechen. Du hast die Kontrolle über den Zugriff auf den Server und kannst Maßnahmen wie Firewalls, Verschlüsselung und regelmäßige Sicherheitsupdates implementieren.
 
-* Wien (VIE)
-* Nürnberg (NUE)
-* Manassas/USA (MNZ) und
-* Singapur (SIN)
+  5. **Unabhängigkeit von Drittanbietern:** Mit einem eigenen Root Server bist du nicht von Drittanbietern abhängig, um deine Internetinfrastruktur zu verwalten. Du hast die volle Kontrolle über deine Serverumgebung und bist nicht von den Richtlinien oder Einschränkungen anderer Unternehmen abhängig.
 
-Zusätzlich gibt es die Option „Keine Präferenz Europa“ – dabei kannst du den genauen Standort nicht festlegen, dein Server wird jedoch ausschließlich in einem europäischen Rechenzentrum (z. B. Wien oder Nürnberg) eingerichtet, abhängig von den verfügbaren Kapazitäten.
+  6. **Entwicklungsfreiheit:** Für Entwickler bietet ein Root Server maximale Freiheit bei der Entwicklung und Bereitstellung von Anwendungen. Du kannst verschiedene Programmiersprachen, Frameworks und Bibliotheken verwenden und die Serverumgebung nach Bedarf anpassen, um innovative Lösungen zu entwickeln.
 
-###
+* #### Welche Leistung bieten die Root Server G12.5 Tarife? ####
 
-Was sind die Vorteile eines Root Servers?
+  Die Root Server Generation 12.5 setzt auf moderne Hardware und State-of-the-Art-Technologie. Damit kannst du diese Tarife besonders für Szenarien einsetzen, die höchste Leistung und maximale Stabilität erfordern.
 
- ###
+  Im Überblick:
 
-Insgesamt bietet die Verwendung eines Root Servers die Flexibilität, Leistung und Kontrolle, die für anspruchsvolle Internetanwendungen und -dienste erforderlich sind.
+  * Aktuelle AMD EPYC™ 9645 CPU mit bis zu 3,7 GHz Taktfrequenz
+  * DDR5 ECC RAM für maximale Datensicherheit und Geschwindigkeit
+  * NVMe-Speicher für schnelle Speicher-Zugriffe
 
-1. **Vollständige Kontrolle:** Als Betreiber eines Root Servers hast du die volle Kontrolle über die Konfiguration, Ressourcenallokation und Sicherheitsrichtlinien. Dies ermöglicht es dir, die Serverumgebung deinen spezifischen Anforderungen anzupassen und flexibel auf Veränderungen zu reagieren.
+  Klicke auf der Tarif-Übersicht auf *Details \>*, um Eigenschaften zwischen den Tarifen zu vergleichen.
 
-2. **Hohe Leistung:** Root Server werden oft auf leistungsstarker Hardware betrieben, die eine schnelle Datenverarbeitung und -übertragung ermöglicht. Dies ist besonders wichtig für Anwendungen, die hohe Anforderungen an Rechenleistung und Bandbreite haben, wie z.B. große Datenbanken, E-Commerce-Websites oder Multimedia-Streaming-Dienste.
+* #### Kann ich meinen vorhandenen Root Server auf eine neuere Generation upgraden? ####
 
-3. **Anpassungsfähigkeit:** Mit einem Root Server kannst du die Betriebssystemumgebung und die Software nach deinen Wünschen anpassen. Dies ermöglicht es dir, spezifische Anwendungen oder Dienste zu installieren und zu konfigurieren, die für deine Anforderungen optimiert sind.
+  Nein, ein Upgrade von einer alten Generation auf eine neue (z.B. G11 auf G12) ist leider nicht möglich. Du kannst bei Bedarf einen neuen Tarif bestellen und entweder eine manuelle oder tool-assistierte Migration deiner Daten vornehmen. Im Helpcenter findest du weitere Informationen zum Thema [Server migrieren](https://www.netcup.com/de/helpcenter/dokumentation/server/server-migrieren).
 
-4. **Datenschutz und Sicherheit:** Durch die Verwaltung deines eigenen Root Servers kannst du die Sicherheitsmaßnahmen implementieren, die deinen Datenschutz- und Sicherheitsanforderungen entsprechen. Du hast die Kontrolle über den Zugriff auf den Server und kannst Maßnahmen wie Firewalls, Verschlüsselung und regelmäßige Sicherheitsupdates implementieren.
+* #### Sind Root Server vorheriger Generationen (z.B. G11 oder älter) weiterhin bestellbar? ####
 
-5. **Unabhängigkeit von Drittanbietern:** Mit einem eigenen Root Server bist du nicht von Drittanbietern abhängig, um deine Internetinfrastruktur zu verwalten. Du hast die volle Kontrolle über deine Serverumgebung und bist nicht von den Richtlinien oder Einschränkungen anderer Unternehmen abhängig.
+  Je nach Verfügbarkeit älterer Hardware bieten wir Root-Server vorheriger Generationen z.B. im Rahmen von Aktionen oder zu besonderen Anlässen weiterhin an. Darüber hinaus sind nur die aktuellsten Tarife bestellbar.
 
-6. **Entwicklungsfreiheit:** Für Entwickler bietet ein Root Server maximale Freiheit bei der Entwicklung und Bereitstellung von Anwendungen. Du kannst verschiedene Programmiersprachen, Frameworks und Bibliotheken verwenden und die Serverumgebung nach Bedarf anpassen, um innovative Lösungen zu entwickeln.
+  Solltest du jedoch bereits einen Server besitzen, kannst du je nach Verfügbarkeit und Tarif auf einen größeren Tarif derselben Generation wechseln. Weitere Informationen zu Upgrade-Möglichkeiten findest du im Artikel [Product-Upgrade](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade) im Helpcenter.
 
-###
+* #### Welche Vertragslaufzeiten sind für Root Server G12.5 verfügbar? ####
 
-Welche Leistung bieten die Root Server G12.5 Tarife?
+  Wähle zwischen einer Mindestvertragslaufzeit von **einem**, **zwölf** oder **24 Monaten**. Je länger du dich bindest, desto günstiger wird es: Bei einer Vertragslaufzeit von zwölf Monaten sparst du gegenüber der monatlichen Abrechnungsvariante, bei 24 Monaten profitierst du sogar noch stärker.
 
- ###
+* #### Kann ich zwischen unterschiedlichen Root Server-Varianten wechseln, wenn mein Projekt wächst? ####
 
-Die Root Server Generation 12.5 setzt auf moderne Hardware und State-of-the-Art-Technologie. Damit kannst du diese Tarife besonders für Szenarien einsetzen, die höchste Leistung und maximale Stabilität erfordern.
+  Ja, ein Wechsel innerhalb derselben Produktgeneration (z. B. von einem RS 2000 G12.5 zu einem RS 4000 G12.5) ist möglich und kann bequem im Customer Control Panel (CCP) durchgeführt werden. Ein Wechsel zwischen verschiedenen Generationen (z. B. G11 zu G12.5) oder zwischen verschiedenen Produktarten (z. B. VPS zu Root-Server) ist aus technischen und vertraglichen Gründen nicht möglich.
 
-Im Überblick:
+  Bitte beachte außerdem, dass ein Tarifupgrade nur zu größeren Tarifen oder Tarifen mit längeren Mindestvertragslaufzeiten möglich ist. [Hier findest du weitere Informationen zum Thema Produkt-Upgrades.](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade)
 
-* Aktuelle AMD EPYC™ 9645 CPU mit bis zu 3,7 GHz Taktfrequenz
-* DDR5 ECC RAM für maximale Datensicherheit und Geschwindigkeit
-* NVMe-Speicher für schnelle Speicher-Zugriffe
+* #### Sind Root Server gegen DDoS-Angriffe geschützt? ####
 
-Klicke auf der Tarif-Übersicht auf *Details \>*, um Eigenschaften zwischen den Tarifen zu vergleichen.
+  Ja! Ein Schutz vor DDoS-Angriffen ist in allen Tarifen ohne Aufpreis inkludiert und gehört für uns zum Standard.
 
-###
+* #### Was bedeutet die 30-Tage-Geld-Zurück-Garantie? ####
 
-Kann ich meinen vorhandenen Root Server auf eine neuere Generation upgraden?
+  Wir legen großen Wert darauf, dass du mit unserem Angebot zufrieden bist – deswegen bieten wir eine Zufriedenheitsgarantie an. Solltest du also mit deinem Root Server nicht zufrieden sein, kannst du innerhalb der ersten 30 Tage ab Bestellung die Zufriedenheitsgarantie nutzen und erhältst dein Geld zurück.
 
- ###
+* #### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ####
 
-Nein, ein Upgrade von einer alten Generation auf eine neue (z.B. G11 auf G12) ist leider nicht möglich. Du kannst bei Bedarf einen neuen Tarif bestellen und entweder eine manuelle oder tool-assistierte Migration deiner Daten vornehmen. Im Helpcenter findest du weitere Informationen zum Thema [Server migrieren](https://www.netcup.com/de/helpcenter/dokumentation/server/server-migrieren).
-
-###
-
-Sind Root Server vorheriger Generationen (z.B. G11 oder älter) weiterhin bestellbar?
-
- ###
-
-Je nach Verfügbarkeit älterer Hardware bieten wir Root-Server vorheriger Generationen z.B. im Rahmen von Aktionen oder zu besonderen Anlässen weiterhin an. Darüber hinaus sind nur die aktuellsten Tarife bestellbar.
-
-Solltest du jedoch bereits einen Server besitzen, kannst du je nach Verfügbarkeit und Tarif auf einen größeren Tarif derselben Generation wechseln. Weitere Informationen zu Upgrade-Möglichkeiten findest du im Artikel [Product-Upgrade](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade) im Helpcenter.
-
-###
-
-Welche Vertragslaufzeiten sind für Root Server G12.5 verfügbar?
-
- ###
-
-Wähle zwischen einer Mindestvertragslaufzeit von **einem**, **zwölf** oder **24 Monaten**. Je länger du dich bindest, desto günstiger wird es: Bei einer Vertragslaufzeit von zwölf Monaten sparst du gegenüber der monatlichen Abrechnungsvariante, bei 24 Monaten profitierst du sogar noch stärker.
-
-###
-
-Kann ich zwischen unterschiedlichen Root Server-Varianten wechseln, wenn mein Projekt wächst?
-
- ###
-
-Ja, ein Wechsel innerhalb derselben Produktgeneration (z. B. von einem RS 2000 G12.5 zu einem RS 4000 G12.5) ist möglich und kann bequem im Customer Control Panel (CCP) durchgeführt werden. Ein Wechsel zwischen verschiedenen Generationen (z. B. G11 zu G12.5) oder zwischen verschiedenen Produktarten (z. B. VPS zu Root-Server) ist aus technischen und vertraglichen Gründen nicht möglich.
-
-Bitte beachte außerdem, dass ein Tarifupgrade nur zu größeren Tarifen oder Tarifen mit längeren Mindestvertragslaufzeiten möglich ist. [Hier findest du weitere Informationen zum Thema Produkt-Upgrades.](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade)
-
-###
-
-Sind Root Server gegen DDoS-Angriffe geschützt?
-
- ###
-
-Ja! Ein Schutz vor DDoS-Angriffen ist in allen Tarifen ohne Aufpreis inkludiert und gehört für uns zum Standard.
-
-###
-
-Was bedeutet die 30-Tage-Geld-Zurück-Garantie?
-
- ###
-
-Wir legen großen Wert darauf, dass du mit unserem Angebot zufrieden bist – deswegen bieten wir eine Zufriedenheitsgarantie an. Solltest du also mit deinem Root Server nicht zufrieden sein, kannst du innerhalb der ersten 30 Tage ab Bestellung die Zufriedenheitsgarantie nutzen und erhältst dein Geld zurück.
-
-###
-
-Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
-
- ###
-
-Weitere Antworten findest du im [FAQ-Bereich.](https://www.netcup.com/de/helpcenter/faq)
+  Weitere Antworten findest du im [FAQ-Bereich.](https://www.netcup.com/de/helpcenter/faq)
 
 ### Weitere Angebote ###
 

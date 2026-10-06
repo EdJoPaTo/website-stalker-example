@@ -233,152 +233,96 @@ Günstige VPS-Tarife
 
 Bei uns bekommst du unterschiedliche **VPS-Tarife mit einem überzeugenden Preis-Leistungs-Verhältnis** für viele Anforderungen - ideal für Hosting mit skalierbaren Ressourcen, sofort einsatzbereit, mit viel Leistung zum kleinen Preis. Du bist auf der Suche nach weiteren attraktiven Angeboten? Abonniere unsere Kanäle und entdecke unsere [Deals](https://www.netcup.com/de/deals).
 
-Frequently Asked Questions
+FAQs zu vServern/VPS
 ----------
 
-###
+* #### Was ist ein VPS? ####
 
-Was ist ein VPS?
+  Ein VPS (Virtual Private Server), auch bekannt als vServer, ist eine **virtuelle Maschine, die auf einem physischen Server gehostet wird** und es Benutzern ermöglicht, isolierte Serverumgebungen mit eigenen Betriebssystemen und Anwendungen zu nutzen. VPS bieten **Flexibilität und Kontrolle** ähnlich dedizierten Servern, jedoch zu einem erschwinglichen Preis. Sie sind ideal für Nutzer, die einen eigenen Server benötigen, aber nicht die Kosten und die Verwaltung eines physischen Servers tragen möchten.
 
- ###
+* #### Was kann ich mit einem VPS machen? ####
 
-Ein VPS (Virtual Private Server), auch bekannt als vServer, ist eine **virtuelle Maschine, die auf einem physischen Server gehostet wird** und es Benutzern ermöglicht, isolierte Serverumgebungen mit eigenen Betriebssystemen und Anwendungen zu nutzen. VPS bieten **Flexibilität und Kontrolle** ähnlich dedizierten Servern, jedoch zu einem erschwinglichen Preis. Sie sind ideal für Nutzer, die einen eigenen Server benötigen, aber nicht die Kosten und die Verwaltung eines physischen Servers tragen möchten.
+  Mit einem vServer hast du die Möglichkeit, verschiedene Aufgaben auszuführen, darunter **Webhosting, Datenbankverwaltung, Gaming Server, Entwicklungsumgebungen** und mehr. Ein VPS bietet eine **skalierbare und anpassbare Plattform** für eine Vielzahl von Anwendungen, sowohl für Linux als auch für Windows-Betriebssysteme.
 
-###
+* #### Was sind die Vorteile eines VPS? ####
 
-Was kann ich mit einem VPS machen?
+  Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis**. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
 
- ###
+* #### Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server? ####
 
-Mit einem vServer hast du die Möglichkeit, verschiedene Aufgaben auszuführen, darunter **Webhosting, Datenbankverwaltung, Gaming Server, Entwicklungsumgebungen** und mehr. Ein VPS bietet eine **skalierbare und anpassbare Plattform** für eine Vielzahl von Anwendungen, sowohl für Linux als auch für Windows-Betriebssysteme.
+  Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei denen du Zugriff auf deinen eigenen virtuellen Server erhältst.
 
-###
+  Der Hauptunterschied liegt in der zugrunde liegenden Architektur und der Art der Bereitstellung:
 
-Was sind die Vorteile eines VPS?
+  * VPS x86: Basierend auf der x86-Architektur und 64-Bit-fähig. Geeignet für eine breite Palette von Anwendungen
+  * VPS ARM: Basierend auf der ARM-Architektur und ebenfalls 64-Bit-fähig. Besonders effizient für spezialisierte Workloads wie IoT-Anwendungen, Edge Computing oder ressourcenschonende Serveranwendungen.
+  * Root-Server: Die CPU-Leistung steht exklusiv dem Kunden zur Verfügung, wodurch diese Systeme besonders für ressourcenintensive oder spezielle Anwendungen geeignet sind.
 
- ###
+  Für alle diese Produkte empfehlen wir Kenntnisse in der Administration von Serversystemen, um die Möglichkeiten optimal nutzen zu können.
 
-Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis**. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
+* #### Wo ist der Standort meines VPS? ####
 
-###
+  Den Serverstandort deines VPS wählst du bereits vor der Bestellung direkt auf der Produktseite aus. Zur Auswahl stehen:
 
-Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server?
+  * Wien (VIE)
+  * Nürnberg (NUE)
+  * Amsterdam (AMS)
+  * Manassas/USA (MNZ) und
+  * Singapur (SIN)
 
- ###
+  Zusätzlich gibt es die Option **„Keine Präferenz Europa“** - dabei kannst du den genauen Standort nicht festlegen, dein Server wird jedoch ausschließlich in einem europäischen Rechenzentrum (z. B. Wien, Nürnberg oder Amsterdam) eingerichtet, abhängig von den verfügbaren Kapazitäten.
 
-Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei denen du Zugriff auf deinen eigenen virtuellen Server erhältst.
+* #### Welche Vertragslaufzeiten sind für VPS G12.5 verfügbar? ####
 
-Der Hauptunterschied liegt in der zugrunde liegenden Architektur und der Art der Bereitstellung:
+  Wähle zwischen einer Mindestvertragslaufzeit von **einem**, **zwölf** oder **24 Monaten**. Je länger du dich bindest, desto günstiger wird es: Bei einer Vertragslaufzeit von zwölf Monaten sparst du gegenüber der monatlichen Abrechnungsvariante, bei 24 Monaten profitierst du sogar noch stärker.
 
-* VPS x86: Basierend auf der x86-Architektur und 64-Bit-fähig. Geeignet für eine breite Palette von Anwendungen
-* VPS ARM: Basierend auf der ARM-Architektur und ebenfalls 64-Bit-fähig. Besonders effizient für spezialisierte Workloads wie IoT-Anwendungen, Edge Computing oder ressourcenschonende Serveranwendungen.
-* Root-Server: Die CPU-Leistung steht exklusiv dem Kunden zur Verfügung, wodurch diese Systeme besonders für ressourcenintensive oder spezielle Anwendungen geeignet sind.
+* #### Kann ich meinen VPS mit Local Block Storage erweitern? ####
 
-Für alle diese Produkte empfehlen wir Kenntnisse in der Administration von Serversystemen, um die Möglichkeiten optimal nutzen zu können.
+  Ja, du kannst deinen VPS nach Einrichtung mit Local Block Storage erweitern. Das bietet dir **zusätzlichen Speicherplatz für deine Daten und Anwendungen**, um deine Leistung und Speicheranforderungen zu erweitern.
 
-###
+  Bitte beachte, dass die maximale Größe nach Tarifgruppe variieren kann:
 
-Wo ist der Standort meines VPS?
+  * Reguläre VPS-Tarife (ab G10) können bis zu einem **Maximum** von **8 TB** erweitert werden.
+  * Bei Tarifen der Generation VPS G11s / G11.5s (VPS pico, VPS nano) ist **keine Erweiterung** mit Local Block Storage möglich.
+  * **VPS Lite** G12.5-Tarife sind auf **bis zu 4 TB** erweiterbar.
 
- ###
+* #### Kann ich einen Windows Server mieten? ####
 
-Den Serverstandort deines VPS wählst du bereits vor der Bestellung direkt auf der Produktseite aus. Zur Auswahl stehen:
+  netcup bietet keine **vorgefertigten Windows Server** an. Du hast jedoch die Möglichkeit, Windows auf deinem Server **über das SCP selbst zu installieren**. Bitte beachte, dass es sich dabei um eine **180-tägige Testlizenz** handelt. Darüber hinaus kannst du über netcup keine Windows-Softwarelizenzen erwerben.
 
-* Wien (VIE)
-* Nürnberg (NUE)
-* Amsterdam (AMS)
-* Manassas/USA (MNZ) und
-* Singapur (SIN)
+* #### Kann ich zwischen unterschiedlichen VPS Server-Varianten wechseln, wenn mein Projekt wächst? ####
 
-Zusätzlich gibt es die Option **„Keine Präferenz Europa“** - dabei kannst du den genauen Standort nicht festlegen, dein Server wird jedoch ausschließlich in einem europäischen Rechenzentrum (z. B. Wien, Nürnberg oder Amsterdam) eingerichtet, abhängig von den verfügbaren Kapazitäten.
+  Ja, du kannst innerhalb derselben Generation (z.B. VPS 1000 G12.5s zu VPS 2000 G12.5s) bzw. Tarifgruppe (z.B. VPS Lite 1 G12.5s auf VPS Lite 2 G12.5s) auf einen höheren Tarif upgraden. Nutze dazu die Upgrade-Funktion im Customer Control Panel (CCP). Upgrades von und zu Aktionsprodukten oder Sonderprodukten sind nicht möglich.
 
-###
+  Hier erfährst du mehr über [Produkt-Upgrades](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade).
 
-Welche Vertragslaufzeiten sind für VPS G12.5 verfügbar?
+* #### Kann ich von VPS G12 auf VPS G12.5 upgraden? ####
 
- ###
+  Ein direktes Upgrade ist nicht möglich. Du kannst jedoch einen VPS G12.5-Tarif bestellen, den VPS G12-Tarif zum Ende deiner Mindestvertragslaufzeit kündigen und deine Daten migrieren.
 
-Wähle zwischen einer Mindestvertragslaufzeit von **einem**, **zwölf** oder **24 Monaten**. Je länger du dich bindest, desto günstiger wird es: Bei einer Vertragslaufzeit von zwölf Monaten sparst du gegenüber der monatlichen Abrechnungsvariante, bei 24 Monaten profitierst du sogar noch stärker.
+  Hier erfährst du mehr über [Produkt-Upgrades](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade).
 
-###
+* #### Sind VPS G12 Produkte weiterhin bestellbar? ####
 
-Kann ich meinen VPS mit Local Block Storage erweitern?
+  Unsere aktuelle Tarifstruktur baut auf Produkten der Generation 12.5 auf. Produkte der Generation 12 stehen daher in der Regel nicht weiter zum Verkauf. Upgrades innerhalb der Generation 12 sind weiterhin möglich.
 
- ###
+* #### Welche Netzwerkkonfigurationen stehen für VPS Tarife zur Verfügung? ####
 
-Ja, du kannst deinen VPS nach Einrichtung mit Local Block Storage erweitern. Das bietet dir **zusätzlichen Speicherplatz für deine Daten und Anwendungen**, um deine Leistung und Speicheranforderungen zu erweitern.
+  Es stehen dir folgende drei Optionen zur Verfügung:
 
-Bitte beachte, dass die maximale Größe nach Tarifgruppe variieren kann:
+  * IPv4 und IPv6 Connectivity
+  * IPv6 Connectivity
+  * Cloud vLAN only
 
-* Reguläre VPS-Tarife (ab G10) können bis zu einem **Maximum** von **8 TB** erweitert werden.
-* Bei Tarifen der Generation VPS G11s / G11.5s (VPS pico, VPS nano) ist **keine Erweiterung** mit Local Block Storage möglich.
-* **VPS Lite** G12.5-Tarife sind auf **bis zu 4 TB** erweiterbar.
+  Lies dir bei Unklarheiten am besten alle Infos zu [Netzwerkkonfiguration im Help Center](https://www.netcup.com/de/helpcenter/dokumentation/server/netzwerk-konfiguration) durch.
 
-###
+* #### Kann ich meinen Serverstandort nachträglich ändern? ####
 
-Kann ich einen Windows Server mieten?
+  Nein, du kannst den Standort deines Servers nachträglich nicht ändern. Eine Migration ist nur möglich, indem du am gewünschten Standort neu bestellst und alle Daten manuell migrierst.
 
- ###
+* #### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ####
 
-netcup bietet keine **vorgefertigten Windows Server** an. Du hast jedoch die Möglichkeit, Windows auf deinem Server **über das SCP selbst zu installieren**. Bitte beachte, dass es sich dabei um eine **180-tägige Testlizenz** handelt. Darüber hinaus kannst du über netcup keine Windows-Softwarelizenzen erwerben.
-
-###
-
-Kann ich zwischen unterschiedlichen VPS Server-Varianten wechseln, wenn mein Projekt wächst?
-
- ###
-
-Ja, du kannst innerhalb derselben Generation (z.B. VPS 1000 G12.5s zu VPS 2000 G12.5s) bzw. Tarifgruppe (z.B. VPS Lite 1 G12.5s auf VPS Lite 2 G12.5s) auf einen höheren Tarif upgraden. Nutze dazu die Upgrade-Funktion im Customer Control Panel (CCP). Upgrades von und zu Aktionsprodukten oder Sonderprodukten sind nicht möglich.
-
-Hier erfährst du mehr über [Produkt-Upgrades](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade).
-
-###
-
-Kann ich von VPS G12 auf VPS G12.5 upgraden?
-
- ###
-
-Ein direktes Upgrade ist nicht möglich. Du kannst jedoch einen VPS G12.5-Tarif bestellen, den VPS G12-Tarif zum Ende deiner Mindestvertragslaufzeit kündigen und deine Daten migrieren.
-
-Hier erfährst du mehr über [Produkt-Upgrades](https://www.netcup.com/de/helpcenter/dokumentation/general/tarif-upgrade).
-
-###
-
-Sind VPS G12 Produkte weiterhin bestellbar?
-
- ###
-
-Unsere aktuelle Tarifstruktur baut auf Produkten der Generation 12.5 auf. Produkte der Generation 12 stehen daher in der Regel nicht weiter zum Verkauf. Upgrades innerhalb der Generation 12 sind weiterhin möglich.
-
-###
-
-Welche Netzwerkkonfigurationen stehen für VPS Tarife zur Verfügung?
-
- ###
-
-Es stehen dir folgende drei Optionen zur Verfügung:
-
-* IPv4 und IPv6 Connectivity
-* IPv6 Connectivity
-* Cloud vLAN only
-
-Lies dir bei Unklarheiten am besten alle Infos zu [Netzwerkkonfiguration im Help Center](https://www.netcup.com/de/helpcenter/dokumentation/server/netzwerk-konfiguration) durch.
-
-###
-
-Kann ich meinen Serverstandort nachträglich ändern?
-
- ###
-
-Nein, du kannst den Standort deines Servers nachträglich nicht ändern. Eine Migration ist nur möglich, indem du am gewünschten Standort neu bestellst und alle Daten manuell migrierst.
-
-###
-
-Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
-
- ###
-
-Weitere Antworten findest du im [FAQ-Bereich](https://www.netcup.com/de/helpcenter/faq) unseres Help Centers.
+  Weitere Antworten findest du im [FAQ-Bereich](https://www.netcup.com/de/helpcenter/faq) unseres Help Centers.
 
 ### Weitere Angebote ###
 

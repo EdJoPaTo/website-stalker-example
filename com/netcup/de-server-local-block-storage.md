@@ -74,80 +74,38 @@ Anwendungsfälle mit Local Block Storage
 * **Schnelle Bereitstellung von Ressourcen**
   Local Block Storage ermöglicht die schnelle Bereitstellung von zusätzlichem Speicherplatz, um auf unvorhergesehene Bedarfsspitzen oder auf exponentiell wachsende Datenmengen reagieren zu können.
 
-FAQ
+FAQs zu Local Block Storage
 ----------
 
-###
+* #### Wie erfolgt die Abrechnung von Local Block Storage? ####
 
-Wie erfolgt die Abrechnung von Local Block Storage?
+  Die **Abrechnung erfolgt alle 30 Tage**. Wenn keine Kündigung oder ein Upgrade vorgenommen wurde, wird der Storage in die Warteschlange gestellt. Die Kosten für die Nutzung werden mit der nächsten Rechnung fällig, basierend auf der Menge an gebuchtem Speichervolumen (30 Tage x Preis pro GB).
 
-[](https://www.netcup.com/de/server/local-block-storage#wie-erfolgt-die-abrechnung-von-local-block-storage)
+* #### Wie erfolgt die Abrechnung von Local Block Storage im Falle einer Kündigung oder eines Upgrades? ####
 
- ###
+  Bei einer Kündigung wird **nur die Nutzung bis zum Kündigungsdatum berechnet**. Das bedeutet, es wird der Zeitraum seit der letzten Abrechnung bis zur Kündigung (zB. 15 Tage mit 100 GB) erfasst und in die Warteschlange gestellt, um mit der nächsten Rechnung abgerechnet zu werden.
 
-Die **Abrechnung erfolgt alle 30 Tage**. Wenn keine Kündigung oder ein Upgrade vorgenommen wurde, wird der Storage in die Warteschlange gestellt. Die Kosten für die Nutzung werden mit der nächsten Rechnung fällig, basierend auf der Menge an gebuchtem Speichervolumen (30 Tage x Preis pro GB).
+  Bei einem Upgrade wird die Nutzung ebenfalls bis zum Zeitpunkt des Upgrades zum alten Preis berechnet und in die Warteschlange aufgenommen. Danach wird der neue Preis abgerechnet, sofern 30 Tage ohne weitere Upgrades vergangen sind.
 
-###
+* #### Gibt es bei Local Block Storage Limitierungen hinsichtlich Dateisysteme? ####
 
-Wie erfolgt die Abrechnung von Local Block Storage im Falle einer Kündigung oder eines Upgrades?
+  Nein, es bestehen **keine Einschränkungen** bei der Wahl des Dateisystems auf unseren Local Block Storages.
 
-[](https://www.netcup.com/de/server/local-block-storage#wie-erfolgt-die-abrechnung-von-local-block-storage-im-falle-einer-kuendigung-oder-eines-upgrades)
+* #### Können VPS der G10s sowie G11s ebenso um Speicherplatz erweitert werden? ####
 
- ###
+  Für VPS x86 der G10s ist eine **Speichererweiterung leider nicht möglich**. Bei den VPS x86 der G11s hingegen können ausgewählte Angebote bis max. 2 TB erweitert werden.
 
-Bei einer Kündigung wird **nur die Nutzung bis zum Kündigungsdatum berechnet**. Das bedeutet, es wird der Zeitraum seit der letzten Abrechnung bis zur Kündigung (zB. 15 Tage mit 100 GB) erfasst und in die Warteschlange gestellt, um mit der nächsten Rechnung abgerechnet zu werden.
+* #### Gibt es ein Mindest- und Maximalvolumen an Speicherkapazität für Local Block Storage bei netcup? ####
 
-Bei einem Upgrade wird die Nutzung ebenfalls bis zum Zeitpunkt des Upgrades zum alten Preis berechnet und in die Warteschlange aufgenommen. Danach wird der neue Preis abgerechnet, sofern 30 Tage ohne weitere Upgrades vergangen sind.
+  Die **minimale Kapazität liegt bei 1 GB**. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab Generation G9, VPS x86 ab Generation G10 und ARM64 ab Generation G11 (jeweils erweiterbar bis max. 8 TB) sowie für ausgewählte Angebote der VPS x86 ab Generation G11s (bis max. 2 TB erweiterbar). **vGPU-Produkte können bis insgesamt max. 4 TB** **erweitert werden**.
 
-###
+* #### Ist es möglich die Disks zu verkleinern? ####
 
-Gibt es bei Local Block Storage Limitierungen hinsichtlich Dateisysteme?
+  Nein, dies ist **nicht möglich**. Möchte man seine gewählte Speicherkapazität reduzieren, so ist hierzu eine **neue, kleinere Speichereinheit zu wählen**, die Dateien der bestehenden Einheit in die neue, kleinere Kapazitätsgröße zu **übertragen**, um im Anschluss die **bestehende**, größere Speichereinheit zu **kündigen**.
 
-[](https://www.netcup.com/de/server/local-block-storage#gibt-es-bei-local-block-storage-limitierungen-hinsichtlich-dateisysteme)
+* #### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ####
 
- ###
-
-Nein, es bestehen **keine Einschränkungen** bei der Wahl des Dateisystems auf unseren Local Block Storages.
-
-###
-
-Können VPS der G10s sowie G11s ebenso um Speicherplatz erweitert werden?
-
-[](https://www.netcup.com/de/server/local-block-storage#koennen-vps-der-g10s-sowie-g11s-ebenso-um-speicherplatz-erweitert-werden)
-
- ###
-
-Für VPS x86 der G10s ist eine **Speichererweiterung leider nicht möglich**. Bei den VPS x86 der G11s hingegen können ausgewählte Angebote bis max. 2 TB erweitert werden.
-
-###
-
-Gibt es ein Mindest- und Maximalvolumen an Speicherkapazität für Local Block Storage bei netcup?
-
-[](https://www.netcup.com/de/server/local-block-storage#gibt-es-ein-mindest-und-maximalvolumen-an-speicherkapazitaet-fuer-local-block-storage-bei-netcup)
-
- ###
-
-Die **minimale Kapazität liegt bei 1 GB**. Local Block Storage ist verfügbar für unsere Produkte Root-Server ab Generation G9, VPS x86 ab Generation G10 und ARM64 ab Generation G11 (jeweils erweiterbar bis max. 8 TB) sowie für ausgewählte Angebote der VPS x86 ab Generation G11s (bis max. 2 TB erweiterbar). **vGPU-Produkte können bis insgesamt max. 4 TB** **erweitert werden**.
-
-###
-
-Ist es möglich die Disks zu verkleinern?
-
-[](https://www.netcup.com/de/server/local-block-storage#ist-es-moeglich-die-disks-zu-verkleinern)
-
- ###
-
-Nein, dies ist **nicht möglich**. Möchte man seine gewählte Speicherkapazität reduzieren, so ist hierzu eine **neue, kleinere Speichereinheit zu wählen**, die Dateien der bestehenden Einheit in die neue, kleinere Kapazitätsgröße zu **übertragen**, um im Anschluss die **bestehende**, größere Speichereinheit zu **kündigen**.
-
-###
-
-Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
-
-[](https://www.netcup.com/de/server/local-block-storage#meine-frage-ist-hier-nicht-aufgelistet.-wo-finde-ich-eine-antwort)
-
- ###
-
-Mehr Informationen in unserem Help Center unter: [Local Block Storage](https://www.netcup.com/de/helpcenter/dokumentation/server/local-block-storage)
+  Mehr Informationen in unserem Help Center unter: [Local Block Storage](https://www.netcup.com/de/helpcenter/dokumentation/server/local-block-storage)
 
 ### Weitere Angebote ###
 

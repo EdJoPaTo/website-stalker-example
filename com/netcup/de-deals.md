@@ -119,165 +119,81 @@ Kosteneffizienz
 
 Wir bieten wettbewerbsfähige Preise mit transparenten Kostenstrukturen und Rabattaktionen, was ein einzigartiges Preis-Leistungs-Verhältnis für dich sicherstellt. Somit hast du bei uns immer den besten Preis!
 
-netcup Deals - FAQ
+FAQs zu netcup Deals
 ----------
 
-###
+* #### Welche Angebote bietet netcup bei Root-Server, VPS, Domains und Webhosting an?  ####
 
-Welche Angebote bietet netcup bei Root-Server, VPS, Domains und Webhosting an?
+  Wir bieten dir zu wiederkehrenden Sale-Events eine immer unterschiedliche Auswahl aus den beliebten netcup Produktkategorien, wie Root-Server, VPS, Domains und Webhosting zu besonders günstigen Konditionen. Die Aktionsprodukte sind dabei nur für kurze Zeit als Deal verfügbar und unterscheiden sich zu den regulären Produkten im Preis und/oder Spezifikationen wie Speicherplatz und/oder CPU-Leistung.
 
-[](https://www.netcup.com/de/deals#welche-angebote-bietet-netcup-bei-root-server-vps-domains-und-webhosting-an)
+* #### Wie lange sind netcup Deals verfügbar? ####
 
- ###
+  Für gewöhnlich sind unsere Deals für 24 bis 72 Stunden aktiv. Bei manchen Aktionen können sie jedoch auch über einen längeren oder kürzeren Zeitraum zu Verfügung stehen. Bitte beachte die Informationen auf unserer Website. Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
 
-Wir bieten dir zu wiederkehrenden Sale-Events eine immer unterschiedliche Auswahl aus den beliebten netcup Produktkategorien, wie Root-Server, VPS, Domains und Webhosting zu besonders günstigen Konditionen. Die Aktionsprodukte sind dabei nur für kurze Zeit als Deal verfügbar und unterscheiden sich zu den regulären Produkten im Preis und/oder Spezifikationen wie Speicherplatz und/oder CPU-Leistung.
+* #### Wie erfahre ich von aktuellen und zukünftigen Deals bei netcup? ####
 
-###
+  Um immer als Erster von unseren Deals zu erfahren, lohnt es sich, unseren Kanäle zu folgen oder unseren [Newsletter](https://www.netcup.com/de/newsletter)zu abonnieren. Dort erfährst du, dass ein Sale-Event startet und neue netcup Deals verfügbar sind. Zusätzlich findest du dort auch immer wieder weitere Aktionen, Goodies oder Gewinnspiele.
 
-Wie lange sind netcup Deals verfügbar?
+  Abonniere zusätzlich gerne unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de), um über neue Deals und Aktionen informiert zu werden.
 
-[](https://www.netcup.com/de/deals#wie-lange-sind-netcup-deals-verfuegbar)
+* #### Ändert sich der Preis nach dem ersten Jahr bzw. der ersten Abrechnungsperiode? ####
 
- ###
+  Nein, der Preis der Aktion ist dauerhaft gültig - sofern nicht anders angegeben. Eine Ausnahme besteht für notwendige, allgemeine Preiserhöhungen entsprechend unserer [AGB](https://www.netcup.com/de/agb).
 
-Für gewöhnlich sind unsere Deals für 24 bis 72 Stunden aktiv. Bei manchen Aktionen können sie jedoch auch über einen längeren oder kürzeren Zeitraum zu Verfügung stehen. Bitte beachte die Informationen auf unserer Website. Es lohnt sich aber auf jeden Fall, unsere Kanäle zu abonnieren, um bei neuen netcup Deals schnell zugreifen zu können.
+* #### Was ist ein Flash Deal und wie lange bleibt dieser verfügbar? ####
 
-###
+  Bei Flash Deals handelt es sich um zusätzliche, attraktive „Blitzangebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 2-4 Stunden. Du erkennst einen Flash Deal am speziellen Blitz-Icon. Sobald ein Flash Deal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
 
-Wie erfahre ich von aktuellen und zukünftigen Deals bei netcup?
+* #### Können Gutscheine auf netcup Deals angewendet werden? ####
 
-[](https://www.netcup.com/de/deals#wie-erfahre-ich-von-aktuellen-und-zukuenftigen-deals-bei-netcup)
+  Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, stundenbasierte Tarife, VPS ARM, VPS Lite oder Merchandise. Der Gutschein ist nicht übertragbar und kann nicht in bar ausgezahlt werden. Pro Bestellung kann nur ein Gutschein eingelöst werden. Der Bestellwert muss höher sein als die Gutscheinsumme. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
 
- ###
+  Wenn dein Gutscheincode nicht funktioniert, wende dich bitte an unseren [Support](https://helpcenter.netcup.com/de/support).
 
-Um immer als Erster von unseren Deals zu erfahren, lohnt es sich, unseren Kanäle zu folgen oder unseren [Newsletter](https://www.netcup.com/de/newsletter)zu abonnieren. Dort erfährst du, dass ein Sale-Event startet und neue netcup Deals verfügbar sind. Zusätzlich findest du dort auch immer wieder weitere Aktionen, Goodies oder Gewinnspiele.
+* #### Sind Deals durch limitierte Stückzahlen begrenzt? ####
 
-Abonniere zusätzlich gerne unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de), um über neue Deals und Aktionen informiert zu werden.
+  Für gewöhnlich sind Aktionsprodukte nicht in der Stückzahl begrenzt. Es kann jedoch vorkommen, dass gewisse Angebote aus diversen Gründen nur bis zu einem gewissen Limit bestellt werden können. In diesem Fall weisen wir jedoch auf der Aktionsseite darauf hin.
 
-###
+* #### Ist die Bestpreis- und Zufriedenheitsgarantie auf die Aktionen anwendbar? ####
 
-Ändert sich der Preis nach dem ersten Jahr bzw. der ersten Abrechnungsperiode?
+  Nein, die Bestpreisgarantie ist nicht auf Aktionen anwendbar. Die Zufriedenheitsgarantie ist allerdings für Aktionen zu Webhosting- und Root-Server-Produkten gültig.
 
-[](https://www.netcup.com/de/deals#aendert-sich-der-preis-nach-dem-ersten-jahr-bzw.-der-ersten-abrechnungsperiode)
+* #### Ich habe die Aktion verpasst. Gibt es eine Möglichkeit, die Aktionsprodukte nachträglich zu bestellen? ####
 
- ###
+  Nein, das ist leider nicht möglich. Die Angebote sind zeitlich begrenzt und nach Ablauf der Aktion sind die Produkte nicht mehr zum Aktionspreis verfügbar. Allerdings gibt es bei netcup auf regelmäßiger Basis Aktionen und neue Angebote. Komme also gerne zu einem späteren Zeitpunkt wieder oder wirf einen Blick auf unsere regulären Produkte wie Webhosting, Domains oder Server-Produkte, die auch außerhalb von Aktionen mit einem attraktiven Preis-Leistungs-Verhältnis überzeugen.
 
-Nein, der Preis der Aktion ist dauerhaft gültig - sofern nicht anders angegeben. Eine Ausnahme besteht für notwendige, allgemeine Preiserhöhungen entsprechend unserer [AGB](https://www.netcup.com/de/agb).
+* #### Kann ich bestehende Produkte / Verträge auf Aktionen upgraden? ####
 
-###
+  Nein, ein Upgrade bestehender Produkte oder Verträge auf Aktionsprodukte ist nicht möglich.
 
-Was ist ein Flash Deal und wie lange bleibt dieser verfügbar?
+* #### Kann ich Aktionsprodukte später auch auf größere, reguläre Produkte upgraden? ####
 
-[](https://www.netcup.com/de/deals#was-ist-ein-flash-deal-und-wie-lange-bleibt-dieser-verfuegbar)
+  Für manche Produkte, die zu Regulär-Preisen über unsere Website gekauft wurden, ist ein [Upgrade](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade) innerhalb derselben Produktgruppe und Generation möglich.
+  Upgrades von und zu Produkten, die innerhalb einer Aktion gekauft wurden, sind jedoch nicht möglich. Solltest du zu einem späteren Zeitpunkt bemerken, dass dein gebuchter Tarif doch nicht ausreicht, kannst du den Tarif regulär kündigen und einen neuen direkt über unsere Website bestellen.
 
- ###
+* #### Wie lange dauert es, bis mein bestelltes Produkt verfügbar ist? ####
 
-Bei Flash Deals handelt es sich um zusätzliche, attraktive „Blitzangebote“, die nur für kurze Zeit verfügbar sind. Die genaue Dauer kann variieren, beläuft sich aber meist auf 2-4 Stunden. Du erkennst einen Flash Deal am speziellen Blitz-Icon. Sobald ein Flash Deal verfügbar ist, erfährst du es über unseren [WhatsApp-Kanal](https://www.whatsapp.com/channel/0029VaDh2HxAjPXVb2gv191w), [Telegram-Kanal](https://t.me/netcupofficalint) oder [RSS-Feed](https://www.netcup.com/rss/deals/de). Also stelle am besten gleich sicher, dass du einen dieser Kanäle abonniert und die Push Notifications aktiviert hast, um keinen zusätzlichen Deal zu verpassen.
+  Solltest du erstmalig bei netcup bestellen, muss zunächst deine Identität nachgewiesen und bestätigt werden. Dieser Verifizierungsprozess ist ein wichtiges Sicherheitsinstrument, um mögliche Betrugsfälle zu vermeiden und kann nicht übersprungen werden. Du erhältst unmittelbar nach der Bestellung weitere Informationen zur Verifizierung per E-Mail.
 
-###
+  Das bestellte Produkt wird daraufhin unmittelbar oder unter Umständen durch eine:n Mitarbeiter:in von netcup eingerichtet. Für Bestandskunden entfällt der erste Schritt.
 
-Können Gutscheine auf netcup Deals angewendet werden?
+  Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter Nachfrage unter Umständen etwas dauern kann. Wir sind sehr bemüht, jedem Kunden das bestmögliche Service zu bieten und danken für das Verständnis.
 
-[](https://www.netcup.com/de/deals#koennen-gutscheine-auf-netcup-deals-angewendet-werden)
+* #### Was bedeutet "Pro" bei unseren Aktionsprodukten? ####
 
- ###
+  Unsere bisherigen „SE“-Produkte (Special Edition) heißen ab sofort „Pro“. Diese Kennzeichnung steht für exklusive Aktionsvarianten unserer regulären Angebote.
 
-Gutscheine können grundsätzlich auch auf Aktionsprodukte eingelöst werden, jedoch nicht für Domains, stundenbasierte Tarife, VPS ARM, VPS Lite oder Merchandise. Der Gutschein ist nicht übertragbar und kann nicht in bar ausgezahlt werden. Pro Bestellung kann nur ein Gutschein eingelöst werden. Der Bestellwert muss höher sein als die Gutscheinsumme. Bitte beachte außerdem etwaige Hinweise auf der jeweiligen Produktseite.
+  Mit einem „Pro“-Produkt erhältst du weiterhin das, was unsere Aktionsangebote auszeichnet: mehr Leistung bzw. mehr Speicher zu besonders attraktiven Preisen – zum Beispiel bis zu 100 % mehr SSD-Speicher, mehr vCores oder eine Kombination aus beidem.
 
-Wenn dein Gutscheincode nicht funktioniert, wende dich bitte an unseren [Support](https://helpcenter.netcup.com/de/support).
+  Beachte: Pro-Produkte sind nur im Rahmen zeitlich begrenzter Aktionen verfügbar.
 
-###
+* #### Was bedeutet "Ultra" bei unseren Aktionsprodukten?	 ####
 
-Sind Deals durch limitierte Stückzahlen begrenzt?
+  „Ultra“ ist unsere neue Leistungsklasse für Aktionsprodukte. Diese Kennzeichnung steht für noch mehr Power zu einem weiterhin attraktiven Preis.
 
-[](https://www.netcup.com/de/deals#sind-deals-durch-limitierte-stueckzahlen-begrenzt)
+  Im Vergleich zu unseren „Pro“-Produkten bieten „Ultra“-Produkte noch mehr Leistung bzw. mehr Speicher zum top Preis. Dich erwarten zusätzliche vCores, mehr RAM und bis zu 100 % mehr SSD-Speicher.
 
- ###
-
-Für gewöhnlich sind Aktionsprodukte nicht in der Stückzahl begrenzt. Es kann jedoch vorkommen, dass gewisse Angebote aus diversen Gründen nur bis zu einem gewissen Limit bestellt werden können. In diesem Fall weisen wir jedoch auf der Aktionsseite darauf hin.
-
-###
-
-Ist die Bestpreis- und Zufriedenheitsgarantie auf die Aktionen anwendbar?
-
-[](https://www.netcup.com/de/deals#ist-die-bestpreis-und-zufriedenheitsgarantie-auf-die-aktionen-anwendbar)
-
- ###
-
-Nein, die Bestpreisgarantie ist nicht auf Aktionen anwendbar. Die Zufriedenheitsgarantie ist allerdings für Aktionen zu Webhosting- und Root-Server-Produkten gültig.
-
-###
-
-Ich habe die Aktion verpasst. Gibt es eine Möglichkeit, die Aktionsprodukte nachträglich zu bestellen?
-
-[](https://www.netcup.com/de/deals#ich-habe-die-aktion-verpasst.-gibt-es-eine-moeglichkeit-die-aktionsprodukte-nachtraeglich-zu-bestellen)
-
- ###
-
-Nein, das ist leider nicht möglich. Die Angebote sind zeitlich begrenzt und nach Ablauf der Aktion sind die Produkte nicht mehr zum Aktionspreis verfügbar. Allerdings gibt es bei netcup auf regelmäßiger Basis Aktionen und neue Angebote. Komme also gerne zu einem späteren Zeitpunkt wieder oder wirf einen Blick auf unsere regulären Produkte wie Webhosting, Domains oder Server-Produkte, die auch außerhalb von Aktionen mit einem attraktiven Preis-Leistungs-Verhältnis überzeugen.
-
-###
-
-Kann ich bestehende Produkte / Verträge auf Aktionen upgraden?
-
-[](https://www.netcup.com/de/deals#kann-ich-bestehende-produkte-vertraege-auf-aktionen-upgraden)
-
- ###
-
-Nein, ein Upgrade bestehender Produkte oder Verträge auf Aktionsprodukte ist nicht möglich.
-
-###
-
-Kann ich Aktionsprodukte später auch auf größere, reguläre Produkte upgraden?
-
-[](https://www.netcup.com/de/deals#kann-ich-aktionsprodukte-spaeter-auch-auf-groessere-regulaere-produkte-upgraden)
-
- ###
-
-Für manche Produkte, die zu Regulär-Preisen über unsere Website gekauft wurden, ist ein [Upgrade](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade) innerhalb derselben Produktgruppe und Generation möglich.
-Upgrades von und zu Produkten, die innerhalb einer Aktion gekauft wurden, sind jedoch nicht möglich. Solltest du zu einem späteren Zeitpunkt bemerken, dass dein gebuchter Tarif doch nicht ausreicht, kannst du den Tarif regulär kündigen und einen neuen direkt über unsere Website bestellen.
-
-###
-
-Wie lange dauert es, bis mein bestelltes Produkt verfügbar ist?
-
-[](https://www.netcup.com/de/deals#wie-lange-dauert-es-bis-mein-bestelltes-produkt-verfuegbar-ist)
-
- ###
-
-Solltest du erstmalig bei netcup bestellen, muss zunächst deine Identität nachgewiesen und bestätigt werden. Dieser Verifizierungsprozess ist ein wichtiges Sicherheitsinstrument, um mögliche Betrugsfälle zu vermeiden und kann nicht übersprungen werden. Du erhältst unmittelbar nach der Bestellung weitere Informationen zur Verifizierung per E-Mail.
-
-Das bestellte Produkt wird daraufhin unmittelbar oder unter Umständen durch eine:n Mitarbeiter:in von netcup eingerichtet. Für Bestandskunden entfällt der erste Schritt.
-
-Bitte beachte, dass die Verifizierung und Bereitstellung zu Zeiten mit erhöhter Nachfrage unter Umständen etwas dauern kann. Wir sind sehr bemüht, jedem Kunden das bestmögliche Service zu bieten und danken für das Verständnis.
-
-###
-
-Was bedeutet "Pro" bei unseren Aktionsprodukten?
-
-[](https://www.netcup.com/de/deals#was-bedeutet-pro-bei-unseren-aktionsprodukten)
-
- ###
-
-Unsere bisherigen „SE“-Produkte (Special Edition) heißen ab sofort „Pro“. Diese Kennzeichnung steht für exklusive Aktionsvarianten unserer regulären Angebote.
-
-Mit einem „Pro“-Produkt erhältst du weiterhin das, was unsere Aktionsangebote auszeichnet: mehr Leistung bzw. mehr Speicher zu besonders attraktiven Preisen – zum Beispiel bis zu 100 % mehr SSD-Speicher, mehr vCores oder eine Kombination aus beidem.
-
-Beachte: Pro-Produkte sind nur im Rahmen zeitlich begrenzter Aktionen verfügbar.
-
-###
-
-Was bedeutet "Ultra" bei unseren Aktionsprodukten?
-
-[](https://www.netcup.com/de/deals#was-bedeutet-ultra-bei-unseren-aktionsprodukten)
-
- ###
-
-„Ultra“ ist unsere neue Leistungsklasse für Aktionsprodukte. Diese Kennzeichnung steht für noch mehr Power zu einem weiterhin attraktiven Preis.
-
-Im Vergleich zu unseren „Pro“-Produkten bieten „Ultra“-Produkte noch mehr Leistung bzw. mehr Speicher zum top Preis. Dich erwarten zusätzliche vCores, mehr RAM und bis zu 100 % mehr SSD-Speicher.
-
-Beachte: Ultra-Tarife sind ausschließlich im Rahmen zeitlich begrenzter Aktionen erhältlich.
+  Beachte: Ultra-Tarife sind ausschließlich im Rahmen zeitlich begrenzter Aktionen erhältlich.
 
 netcup Angebote zu VPS und Root-Server
 ----------
