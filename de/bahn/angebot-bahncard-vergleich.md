@@ -126,27 +126,27 @@ Tabelle Rabattübersicht
 |BahnCard 50 |      50 %      |      25 %      |
 |BahnCard 100|     100 %      |     100 %      |
 
-### BahnCard 25, 2. Klasse ###
+### BahnCard 25 ###
 
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25-2-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25)
 
-62,90 Euro
+ab 62,90 Euro
 
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O205)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00002O205)
 
-### BahnCard 50, 2. Klasse ###
+### BahnCard 50 ###
 
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50/bahncard50)
 
-244 Euro
+ab 244 Euro
 
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00002O204)
 
-### BahnCard 100, 2. Klasse ###
+### BahnCard 100 ###
 
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard100-2-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard100/bahncard100)
 
-4.899 Euro
+ab 4.899 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001A240)
 

@@ -7,92 +7,92 @@ Finden Sie hier Ihre passende BahnCard
 
 Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland.
 
-### Probe BahnCard 25, 2. Klasse ###
+### Probe BahnCard 25 ###
 
-**3 Monate testen**: 25 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise in der **2. Klasse**
+**3 Monate testen**: 25 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise
 
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/probebahncard25-2-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25/probebahncard25)
 
-19,90 Euro
+ab 19,90 Euro
 
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O209)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00002O209)
 
-### Probe BahnCard 25, 1. Klasse ###
+### BahnCard 25 ###
 
-**3 Monate testen**: 25 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise in der **1. Klasse**
+**25 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreise** des Fernverkehrs
 
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/probebahncard25-1-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25/bahncard25)
 
-39,90 Euro
+ab 62,90 Euro
 
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O109)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00002O205)
 
-### BahnCard 25, 2. Klasse ###
+### Probe BahnCard 50 ###
 
-**25 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreise** des Fernverkehrs in der **2. Klasse**
+**3 Monate testen**: 50 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise.
 
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25-2-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50/probebahncard50)
 
-62,90 Euro
+ab 76,90 Euro
 
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O205)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00002O210)
 
-### BahnCard 25, 1. Klasse ###
+### BahnCard 50 ###
 
-**25 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreise** des Fernverkehrs in der **1. Klasse**
+**50 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreise** des Fernverkehrs.
 
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25-1-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50/bahncard50)
 
-125 Euro
+ab 244 Euro
 
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O105)
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00002O204)
 
-### Probe BahnCard 50, 2. Klasse ###
-
-**3 Monate testen**: 50 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise in der **2. Klasse**
-
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/probebahncard50-2-klasse)
-
-76,90 Euro
-
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O210)
-
-### Probe BahnCard 50, 1. Klasse ###
-
-**3 Monate testen**: 50 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise in der **1. Klasse**
-
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/probebahncard50-1-klasse)
-
-152 Euro
-
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O110)
-
-### BahnCard 50, 2. Klasse ###
-
-**50 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreise** des Fernverkehrs in der **2. Klasse**
-
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-2-klasse)
-
-244 Euro
-
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O204)
-
-### BahnCard 50, 1. Klasse ###
-
-**50 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreise** des Fernverkehrs in der **1. Klasse**
-
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50-1-klasse)
-
-492 Euro
-
-[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001O104)
-
-### Probe BahnCard 100, 2. Klasse ###
+### Probe BahnCard 100 ###
 
 **3 Monate flexibel deutschlandweit reisen**
 
-[Weitere Informationen](https://www.bahn.de/angebot/bahncard/probebahncard100-2-klasse)
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard100/probebahncard100)
 
-1.459 Euro
+ab 1.459 Euro
 
 [Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001A241)
+
+### BahnCard 100 ###
+
+**1 Jahr flexibel** deutschlandweit reisen.
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard100/bahncard100)
+
+ab 4.899 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00001A240)
+
+### My BahnCard 25 ###
+
+**Für alle unter 27 Jahre**: 25 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise.
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25/mybahncard25)
+
+ab 39,90 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00002O211)
+
+### Senioren BahnCard 25 ###
+
+**Für alle ab 65 Jahre:** 25 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25/seniorenbahncard25)
+
+ab 40,90 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00002O208)
+
+### Jugend BahnCard 25  ###
+
+**25 % Rabatt** auf Flex- und Sparpreise**.** Für alle **bis einschließlich 18 Jahre.**
+
+[Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard25/jugendbahncard25)
+
+0 Euro statt 7,90 Euro
+
+[Jetzt bestellen](https://www.bahn.de/buchung/katalog/BC/FVKBACI00002O106)
