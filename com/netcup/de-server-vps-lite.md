@@ -205,140 +205,74 @@ Günstige VPS-Tarife
 
 Bei uns bekommst du unterschiedliche **VPS-Tarife mit einem überzeugenden Preis-Leistungs-Verhältnis** für viele Anforderungen - ideal für Hosting mit skalierbaren Ressourcen, sofort einsatzbereit, mit viel Leistung zum kleinen Preis. Du bist auf der Suche nach weiteren attraktiven Angeboten? Abonniere unsere Kanäle und entdecke unsere [Deals](https://www.netcup.com/de/deals).
 
-Frequently Asked Questions
+FAQs zu vServern/VPS
 ----------
 
-###
+* #### Was ist ein VPS? ####
 
-Was ist ein VPS?
+  Ein VPS (Virtual Private Server), auch bekannt als vServer, ist eine **virtuelle Maschine, die auf einem physischen Server gehostet wird** und es Benutzern ermöglicht, isolierte Serverumgebungen mit eigenen Betriebssystemen und Anwendungen zu nutzen. VPS bieten **Flexibilität und Kontrolle** ähnlich dedizierten Servern, jedoch zu einem erschwinglichen Preis. Sie sind ideal für Nutzer, die einen eigenen Server benötigen, aber nicht die Kosten und die Verwaltung eines physischen Servers tragen möchten.
 
-[](https://www.netcup.com/de/server/vps-lite#was-ist-ein-vps)
+* #### Was sind die Vorteile eines VPS? ####
 
- ###
+  Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis**. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
 
-Ein VPS (Virtual Private Server), auch bekannt als vServer, ist eine **virtuelle Maschine, die auf einem physischen Server gehostet wird** und es Benutzern ermöglicht, isolierte Serverumgebungen mit eigenen Betriebssystemen und Anwendungen zu nutzen. VPS bieten **Flexibilität und Kontrolle** ähnlich dedizierten Servern, jedoch zu einem erschwinglichen Preis. Sie sind ideal für Nutzer, die einen eigenen Server benötigen, aber nicht die Kosten und die Verwaltung eines physischen Servers tragen möchten.
+* #### Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server? ####
 
-###
+  Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei denen du Zugriff auf deinen eigenen virtuellen Server erhältst.
 
-Was sind die Vorteile eines VPS?
+  Der Hauptunterschied liegt in der zugrundeliegenden Architektur und der Art der Bereitstellung:
 
-[](https://www.netcup.com/de/server/vps-lite#was-sind-die-vorteile-eines-vps)
+  * VPS x86: Basierend auf der x86-Architektur und 64-Bit-fähig. Geeignet für eine breite Palette von Anwendungen
+  * VPS ARM: Basierend auf der ARM-Architektur und ebenfalls 64-Bit-fähig. Besonders effizient für spezialisierte Workloads wie IoT-Anwendungen, Edge Computing oder ressourcenschonende Serveranwendungen.
+  * Root-Server: Die CPU-Leistung steht exklusiv dem Kunden zur Verfügung, wodurch diese Systeme besonders für ressourcenintensive oder spezielle Anwendungen geeignet sind.
 
- ###
+  Für alle diese Produkte empfehlen wir Kenntnisse in der Administration von Serversystemen, um die Möglichkeiten optimal nutzen zu können.
 
-Ein VPS bietet zahlreiche Vorteile, darunter **Flexibilität, Skalierbarkeit, Sicherheit und Kostenersparnis**. Du kannst deine Ressourcen je nach Bedarf skalieren, deine Umgebung anpassen und isolierte Serverumgebungen für verbesserte Sicherheit nutzen. Mit einem VPS kannst du die Kontrolle über deine Serverumgebung behalten, ohne die Kosten und den Aufwand eines dedizierten Servers zu tragen.
+* #### Wo ist der Standort meines VPS Lite? ####
 
-###
+  VPS Lite-Tarife werden je nach Verfügbarkeit an europäischen Rechenzentrumsstandorten (Nürnberg, Wien, Amsterdam) bereitgestellt.
 
-Was ist der Unterschied zwischen einem VPS x86, VPS ARM64 und Root-Server?
+  VPS pico G11.5s und VPS nano G11.5s sind ausschließlich am Standort Nürnberg verfügbar.
 
-[](https://www.netcup.com/de/server/vps-lite#was-ist-der-unterschied-zwischen-einem-vps-x86-vps-arm64-und-root-server)
+  Wechsle zu unseren regulären [VPS-Tarifen](https://www.netcup.com/de/server/vps), um den Standort deines Servers selbst zu wählen.
 
- ###
+* #### Wie unterscheiden sich VPS Lite-Tarife von VPS G12.5-Tarifen? ####
 
-Sowohl VPS (Virtual Private Server) als auch Root-Server sind Hosting-Lösungen, bei denen du Zugriff auf deinen eigenen virtuellen Server erhältst.
+  Unsere **VPS Lite**-Angebote sind dauerhaft kostenoptimiert und bieten ein besonders attraktives Preis-Leistungs-Verhältnis. VPS Lite-Tarife kennzeichnen sich im Vergleich zu den regulären VPS-Tarifen durch reduzierte Bandbreite und geringere Interface-Geschwindigkeit. So können wir diese Server zu einem besonders günstigen Preis anbieten – ohne Abstriche bei Stabilität und Zuverlässigkeit.
 
-Der Hauptunterschied liegt in der zugrundeliegenden Architektur und der Art der Bereitstellung:
+* #### Kann ich meinen VPS Lite mit Local Block Storage erweitern? ####
 
-* VPS x86: Basierend auf der x86-Architektur und 64-Bit-fähig. Geeignet für eine breite Palette von Anwendungen
-* VPS ARM: Basierend auf der ARM-Architektur und ebenfalls 64-Bit-fähig. Besonders effizient für spezialisierte Workloads wie IoT-Anwendungen, Edge Computing oder ressourcenschonende Serveranwendungen.
-* Root-Server: Die CPU-Leistung steht exklusiv dem Kunden zur Verfügung, wodurch diese Systeme besonders für ressourcenintensive oder spezielle Anwendungen geeignet sind.
+  Ja, du kannst deine VPS Lite-Tarife mit Local Block Storage **bis zu max. 4 TB** erweitern. Dies bietet dir zusätzlichen Speicherplatz für deine Daten und Anwendungen, um deine Leistung und Speicheranforderungen zu erweitern.
 
-Für alle diese Produkte empfehlen wir Kenntnisse in der Administration von Serversystemen, um die Möglichkeiten optimal nutzen zu können.
+  Bei Tarifen mit **G11.5s**-Kennzeichnung (VPS piko, VPS nano) ist eine Erweiterung mit Local Block Storage **nicht möglich**.
 
-###
+* #### Kann ich zwischen VPS Lite-Tarifen wechseln, wenn mein Projekt wächst? ####
 
-Wo ist der Standort meines VPS Lite?
+  Das Upgrade **innerhalb einer Generation und Tarifgruppe** (z.B. von VPS Lite 1 G12.5s zu VPS Lite 2 G12.5s) ist möglich und kann direkt im Customer Control Panel (CCP) durchgeführt werden.
 
-[](https://www.netcup.com/de/server/vps-lite#wo-ist-der-standort-meines-vps-lite)
+  Ein Wechsel auf kleinere Tarife, andere Generationen (z.B. von VPS nano G11.5s zu VPS Lite 1 G12.5s) oder zwischen Tarifgruppen (z.B. von VPS Lite G12.5s zu VPS 1000 G12.5) ist nicht über ein Upgrade möglich. In diesem Fall kündige bitte deinen alten Tarif und bestelle den gewünschten neuen Tarif. [Hier findest du weitere Informationen zu Produktupgrades](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade).
 
- ###
+* #### Kann ich einen Windows Server mieten? ####
 
-VPS Lite-Tarife werden je nach Verfügbarkeit an europäischen Rechenzentrumsstandorten (Nürnberg, Wien, Amsterdam) bereitgestellt.
+  netcup bietet keine **vorgefertigten Windows Server** an. Du hast jedoch die Möglichkeit, Windows auf deinem Server **über das SCP selbst zu installieren**. Bitte beachte, dass es sich dabei um eine **180-tägige Testlizenz** handelt. Darüber hinaus kannst du über netcup keine Windows-Softwarelizenzen erwerben.
 
-VPS pico G11.5s und VPS nano G11.5s sind ausschließlich am Standort Nürnberg verfügbar.
+* #### Welche Netzwerkkonfigurationen stehen für VPS Lite Tarife zur Verfügung? ####
 
-Wechsle zu unseren regulären [VPS-Tarifen](https://www.netcup.com/de/server/vps), um den Standort deines Servers selbst zu wählen.
+  Es stehen dir folgende drei Optionen zur Verfügung:
 
-###
+  * IPv4 und IPv6 Connectivity
+  * IPv6 Connectivity
+  * Cloud vLAN only
 
-Wie unterscheiden sich VPS Lite-Tarife von VPS G12.5-Tarifen?
+  Lies dir bei Unklarheiten am besten alle Infos zu [Netzwerkkonfiguration im Help Center](https://helpcenter.netcup.com/de/wiki/server/netzwerk-konfiguration/) durch.
 
-[](https://www.netcup.com/de/server/vps-lite#wie-unterscheiden-sich-vps-lite-tarife-von-vps-g12.5-tarifen)
+* #### Kann ich meinen Serverstandort nachträglich ändern? ####
 
- ###
+  Nein, du kannst den Standort deines Servers nachträglich nicht ändern. Eine Migration ist nur möglich, indem du am gewünschten Standort neu bestellst und alle Daten manuell übernimmst.
 
-Unsere **VPS Lite**-Angebote sind dauerhaft kostenoptimiert und bieten ein besonders attraktives Preis-Leistungs-Verhältnis. VPS Lite-Tarife kennzeichnen sich im Vergleich zu den regulären VPS-Tarifen durch reduzierte Bandbreite und geringere Interface-Geschwindigkeit. So können wir diese Server zu einem besonders günstigen Preis anbieten – ohne Abstriche bei Stabilität und Zuverlässigkeit.
+* #### Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort? ####
 
-###
-
-Kann ich meinen VPS Lite mit Local Block Storage erweitern?
-
-[](https://www.netcup.com/de/server/vps-lite#kann-ich-meinen-vps-lite-mit-local-block-storage-erweitern)
-
- ###
-
-Ja, du kannst deine VPS Lite-Tarife mit Local Block Storage **bis zu max. 4 TB** erweitern. Dies bietet dir zusätzlichen Speicherplatz für deine Daten und Anwendungen, um deine Leistung und Speicheranforderungen zu erweitern.
-
-Bei Tarifen mit **G11.5s**-Kennzeichnung (VPS piko, VPS nano) ist eine Erweiterung mit Local Block Storage **nicht möglich**.
-
-###
-
-Kann ich zwischen VPS Lite-Tarifen wechseln, wenn mein Projekt wächst?
-
-[](https://www.netcup.com/de/server/vps-lite#kann-ich-zwischen-vps-lite-tarifen-wechseln-wenn-mein-projekt-waechst)
-
- ###
-
-Das Upgrade **innerhalb einer Generation und Tarifgruppe** (z.B. von VPS Lite 1 G12.5s zu VPS Lite 2 G12.5s) ist möglich und kann direkt im Customer Control Panel (CCP) durchgeführt werden.
-
-Ein Wechsel auf kleinere Tarife, andere Generationen (z.B. von VPS nano G11.5s zu VPS Lite 1 G12.5s) oder zwischen Tarifgruppen (z.B. von VPS Lite G12.5s zu VPS 1000 G12.5) ist nicht über ein Upgrade möglich. In diesem Fall kündige bitte deinen alten Tarif und bestelle den gewünschten neuen Tarif. [Hier findest du weitere Informationen zu Produktupgrades](https://helpcenter.netcup.com/de/wiki/general/tarif-upgrade).
-
-###
-
-Kann ich einen Windows Server mieten?
-
-[](https://www.netcup.com/de/server/vps-lite#kann-ich-einen-windows-server-mieten)
-
- ###
-
-netcup bietet keine **vorgefertigten Windows Server** an. Du hast jedoch die Möglichkeit, Windows auf deinem Server **über das SCP selbst zu installieren**. Bitte beachte, dass es sich dabei um eine **180-tägige Testlizenz** handelt. Darüber hinaus kannst du über netcup keine Windows-Softwarelizenzen erwerben.
-
-###
-
-Welche Netzwerkkonfigurationen stehen für VPS Lite Tarife zur Verfügung?
-
-[](https://www.netcup.com/de/server/vps-lite#welche-netzwerkkonfigurationen-stehen-fuer-vps-lite-tarife-zur-verfuegung)
-
- ###
-
-Es stehen dir folgende drei Optionen zur Verfügung:
-
-* IPv4 und IPv6 Connectivity
-* IPv6 Connectivity
-* Cloud vLAN only
-
-Lies dir bei Unklarheiten am besten alle Infos zu [Netzwerkkonfiguration im Help Center](https://helpcenter.netcup.com/de/wiki/server/netzwerk-konfiguration/) durch.
-
-###
-
-Kann ich meinen Serverstandort nachträglich ändern?
-
-[](https://www.netcup.com/de/server/vps-lite#kann-ich-meinen-serverstandort-nachtraeglich-aendern)
-
- ###
-
-Nein, du kannst den Standort deines Servers nachträglich nicht ändern. Eine Migration ist nur möglich, indem du am gewünschten Standort neu bestellst und alle Daten manuell übernimmst.
-
-###
-
-Meine Frage ist hier nicht aufgelistet. Wo finde ich eine Antwort?
-
-[](https://www.netcup.com/de/server/vps-lite#meine-frage-ist-hier-nicht-aufgelistet.-wo-finde-ich-eine-antwort)
-
- ###
-
-Weitere Antworten findest du im [FAQ-Bereich](https://helpcenter.netcup.com/de/faq#server) unseres Help Centers.
+  Weitere Antworten findest du im [FAQ-Bereich](https://helpcenter.netcup.com/de/faq#server) unseres Help Centers.
 
 ### Weitere Angebote ###
 

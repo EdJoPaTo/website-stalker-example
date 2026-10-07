@@ -9437,7 +9437,7 @@ Mit der digitalen BahnCard können Sie auch BahnBonus Punkte sammeln. Wenn Sie I
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mit-digitaler-bahncard-bahnbonus-punkte-sammeln)
 
- Können meine Mitfahrer:innen beim Länder-Ticket oder Quer-durchs-Land-Ticket einfach dazu steigen?
+ Können meine Mitreisenden beim Länder-Ticket oder Quer-durchs-Land-Ticket einfach dazu steigen?
 ----------
 
 * Ja. Ihr Länder-Ticket oder Ihr Quer-durchs-Land-Ticket kann als günstiges Gruppenticket genutzt werden und Ihre Mitfahrer:innen können auch unterwegs dazu steigen.

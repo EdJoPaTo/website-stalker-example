@@ -254,7 +254,7 @@ Wenn Sie Ihr Fahrrad in einem EC-Zug nach Italien (via Österreich/Brenner) mitn
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/19muss-ich-mein-fahrrad-fuer-die-mitnahme-in-fernverkehrszuegen-kennzeichnen)
 
- Was sind Ersatzcodes für die 2-Faktor-Authentifizierung und wie verwende ich sie?
+ Was sind Ersatzcodes für die 2-Faktor-Authentifizierung und wie verwende ich sie für das DB Kundenkonto?
 ----------
 
 Ersatzcodes sind Sicherheitscodes für den Notfall. Sie können einen Ersatzcode nutzen, wenn Sie keinen Zugriff auf Ihren zweiten Authentifizierungsfaktor haben, zum Beispiel weil Sie Ihr Mobilgerät verloren haben oder Ihre Mobilfunknummer geändert wurde.
@@ -276,7 +276,7 @@ Achten Sie darauf:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-fa-ersatzcodes)
 
- Wie kann ich (neue) Ersatzcodes für die 2-Faktor-Authentifizierung generieren?
+ Wie kann ich (neue) Ersatzcodes für die 2-Faktor-Authentifizierung ins DB Kundenkonto generieren?
 ----------
 
 So geht’s auf bahn.de:
@@ -632,7 +632,7 @@ Ein **Digitales Ticket** können Sie wie folgt stornieren:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anleitung-online-gebuchtes-ticket-stornieren)
 
- Kann ich mich weiterhin mit meiner E-Mail-Adresse und meinem Passwort anmelden?
+ Kann ich mich weiterhin im DB Kundenkonto mit meiner E-Mail-Adresse und meinem Passwort anmelden?
 ----------
 
 Ja. Sie können sich jederzeit mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihr DB Kundenkonto einloggen.
@@ -3058,10 +3058,11 @@ Sie sollten eine schriftliche Bestätigung vom Zugpersonal oder von Mitarbeitend
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-meinen-anschlusszug-aufgrund-einer-zugverspaetung-verpasst-kann-ich-einen-anderen-zug-nutzen)
 
- Ich habe mich neu registriert. Wo kann ich meine persönlichen Daten/meine Adresse, Zahlungsdaten hinterlegen?
+ Ich habe mich neu für ein DB Kundenkonto registriert. Wo kann ich meine persönlichen Daten wie Adresse oder Zahlungsdaten hinterlegen?
 ----------
 
-Bitte loggen Sie sich hierzu ein und rufen den Bereich "Persönliche Daten" oder "Zahlungsmittel" auf. Bitte folgen Sie dort den Anweisungen zur Ergänzung oder Änderung Ihrer Daten.
+1. Bitte loggen Sie sich hierzu ein und rufen den Bereich "Persönliche Daten" oder "Zahlungsmittel" auf.
+2. Folgen Sie den Anweisungen zur Ergänzung oder Änderung Ihrer Daten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mich-neu-registriert-wo-kann-ich-meine-persoenlichen-daten-hinterlege)
 
@@ -3126,11 +3127,13 @@ Servicecenter Fahrgastrechte
 Sie können Ihr Passwort zurücksetzen, indem wir Ihnen einen Link per E-Mail senden.
 Wenn Sie keine E-Mail erhalten haben, gehen Sie so vor:
 
-* Prüfen Sie den Posteingang der E-Mail-Adresse, die Sie bei uns angegeben haben.
-* Kontrollieren Sie auch Ihren Spam-Ordner.
-* Legen Sie die Absenderadresse in Ihrem E-Mail-Konto als akzeptiert fest. So vermeiden Sie, dass unsere E-Mails im Spam-Ordner landen.
+1. Prüfen Sie den Posteingang der E-Mail-Adresse, die Sie bei uns angegeben haben.
+2. Kontrollieren Sie auch Ihren Spam-Ordner.
+3. Legen Sie die Absenderadresse in Ihrem E-Mail-Konto als akzeptiert fest. So vermeiden Sie, dass unsere E-Mails im Spam-Ordner landen.
 
-Sie können die E-Mail zum Zurücksetzen Ihres Passworts erneut anfordern: [Passwort zurücksetzen](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web&tab_id=6HbYCXjvCRc)
+Sie können die E-Mail zum Zurücksetzen Ihres Passworts erneut anfordern:
+
+* [Passwort zurücksetzen](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web&tab_id=6HbYCXjvCRc)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-moechte-mein-passwort-zuruecksetzen-und-habe-keine-e-mail-erhalten-was-kann-ich-tun)
 
@@ -4328,7 +4331,7 @@ Ja, Sie zahlen ein Bearbeitungsentgelt, wenn Sie einen verlorenen Gegenstand aus
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-etwas-zahlen)
 
- Muss ich mich immer mit einem 2. Faktor authentifizieren?
+ Muss ich mich für das DB Kundenkonto immer mit einem 2. Faktor authentifizieren?
 ----------
 
 Nein, wenn Sie die 2-Faktor-Authentifizierung in Ihrem DB Kundenkonto aktiviert haben und regelmäßig mit einem vertrauenswürdigen Gerät wie Ihrem Computer oder Smartphone auf z. B. bahn.de oder die App DB Navigator zugreifen, können Sie die Abfrage des 2. Faktors beim Login überspringen.
@@ -6575,7 +6578,7 @@ Ausnahme: Sogenannte Event-Züge, die meist nur mit einem Extraticket z.B. der E
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-sind-sonderzuege)
 
- Was tun, wenn die Anmeldung mit Passkey nicht funktioniert?
+ Was tun, wenn die Anmeldung ins DB Kundenkonto mit Passkey nicht funktioniert?
 ----------
 
 * Prüfen Sie, ob Ihr Gerät und Ihr Browser Passkeys unterstützen und ob Sie mit Ihrer Cloud verbunden sind.
@@ -6583,7 +6586,7 @@ Ausnahme: Sogenannte Event-Züge, die meist nur mit einem Extraticket z.B. der E
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-tun-wenn-anmeldung-nicht-funktioniert)
 
- Was passiert mit meinen Passkey, wenn mein Gerät verloren geht oder gestohlen wird?
+ Was passiert mit meinem Passkey für das DB Kundenkonto, wenn mein Gerät verloren geht oder gestohlen wird?
 ----------
 
 Wenn Sie Ihre Geräte mit Ihrer Cloud synchronisieren, haben Sie weiterhin Zugriff auf Ihre Passkeys. Sie können verlorene Geräte jederzeit im Account Manager unter "Login & Sicherheit" aus Ihrem DB Kundenkonto entfernen.
@@ -6934,7 +6937,7 @@ You can redeem DB gift vouchers:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/where-can-i-redeem-a-gift-voucher)
 
- Wie aktiviere ich die 2-Faktor-Authentifizierung?
+ Wie aktiviere ich die 2-Faktor-Authentifizierung für das DB Kundenkonto?
 ----------
 
 Bitte loggen Sie sich ein und rufen Sie den Account-Manager unter "Login & Sicherheit“ auf.
@@ -7320,7 +7323,7 @@ Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Si
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-das-kleinkindabteil-reservieren)
 
- Wie kann ich den 2. Faktor deaktivieren/ ausschalten?
+ Wie kann bei der 2-Faktor-Authentifzierung für das DB Kundenkonto den 2. Faktor deaktivieren?
 ----------
 
 1. Loggen Sie sich mit Ihrem Benutzernamen und Passwort ein.
@@ -7786,10 +7789,10 @@ Sie können Ihre Entschädigung auf folgende Weise beantragen:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-entschaedigung-beantragen)
 
- Wie kann ich meine Handy-Nummer für die 2-Faktor-Authentifizierung ändern?
+ Wie kann ich meine Handy-Nummer für die 2-Faktor-Authentifizierung ins DB Kundenkonto ändern?
 ----------
 
-1. Loggen Sie sich ein und rufen den Account-Manager unter "Login & Sicherheit“ auf.
+1. Loggen Sie sich ein und rufen Sie den Account-Manager unter "Login & Sicherheit“ auf.
 2. Unter "2-Faktor-Authentifizierung" können Sie die Mobilfunknummer ändern, die Sie für die 2-Faktor-Authentifizierung mittels SMS-Tan-Verfahren hinterlegt haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-mobilnummer-fuer-die-2-faktor-authentifizierung-aendern)
@@ -8073,13 +8076,16 @@ Sie können die Rechnung zu Ihrem Ticket bis zu 14 Monate nach Buchungsdatum auf
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-loese-ich-die-geschenkkarte-auf-bahn-de-ein)
 
- Wie melde ich mich mit einem Passkey an?
+ Wie melde ich mich im DB Kundenkonto mit einem Passkey an?
 ----------
 
-* Wählen Sie beim Login "Login mit Passkey" aus.
-* Bestätigen Sie die Anmeldung auf Ihrem Gerät - zum Beispiel per Fingerabdruck, Gesichtserkennung oder PIN.
+1. Zuerst müssen Sie Passkey eingerichtet haben. Eine Anleitung finden Sie weiter unten.
+2. Wählen Sie beim Login "Login mit Passkey" aus.
+3. Bestätigen Sie die Anmeldung auf Ihrem Gerät — zum Beispiel per Fingerabdruck, Gesichtserkennung oder PIN.
 
 Sie sind eingeloggt.
+
+* [Wie richte ich Passkey ein?](https://www.bahn.de/faq/wie-richte-ich-passkey-ein)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-mit-passkey-an)
 
@@ -8116,7 +8122,7 @@ Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie können alle im St
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-oft-kann-ich-den-rabatt-fuer-die-bordgastronomie-nutzen)
 
- Wie kann ich meinen Passkey löschen oder zurücksetzen?
+ Wie kann ich meinen Passkey im DB Kundenkonto löschen oder zurücksetzen?
 ----------
 
 Sie können Passkeys in Ihrem DB Kundenkonto im Account Manager unter "Login & Sicherheit" über den Menüpunkt "Alternative Login-Methoden" für jedes Gerät verwalten und löschen.
@@ -8132,7 +8138,7 @@ Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-richte-ich-die-benachrichtigungen-zur-reise-fuer-meine-pendelstrecke-ein)
 
- Wie richte ich einen Passkey ein?
+ Wie richte ich einen Passkey für das DB Kundenkonto ein?
 ----------
 
 * Melden Sie sich in Ihrem DB Kundenkonto an.
@@ -8843,7 +8849,7 @@ Für die Dauer der Nutzung des ICE Portals sollte diese Funktion deaktiviert s
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/worauf-muss-ich-besonders-bei-apple-geraeten-achten)
 
- Wozu brauche ich eine 2-Faktor-Authentifizierung?
+ Wozu brauche ich eine 2-Faktor-Authentifizierung für das DB Kundenkonto?
 ----------
 
 Die 2-Faktor-Authentifizierung schützt Ihre Login- und Kundendaten vor unerlaubten Zugriffen. Insbesondere das Phishing Ihrer Login-Daten wird durch die 2-Faktor-Authentifizierung unterbunden.
