@@ -1,58 +1,139 @@
-netcup Labs
-
+Root Server -
+volle Leistung,
+volle Kontrolle
 ==========
 
-netcup Entwicklungslabor
+Profitiere von garantierten Ressourcen auf leistungsstarker Hardware, mit Root Zugriff ab der ersten Minute. Ideal für Projekte, bei denen Performance zählt.
 
-**Bitte beachte: Alle freien Testplätze sind bereits vergeben. Wir nehmen derzeit und bis auf Weiteres keine Bestellungen an. Bereits vorhandene Testsysteme können weiterhin genutzt werden.**
+[Jetzt entdecken\>](https://www.netcup.com/de/server/root-server)
 
-Was ist netcup Labs?
+Stimme für netcup als Webhoster des Jahres
+
+Vote für uns in den Kategorien vServer, Domains & Webhosting und gewinne tolle Preise.
+
+[Jetzt abstimmen\>](https://anx.io/F1uQb)
+
+Root-Server
+
+Dedizierte CPU-Power mit AMD EPYC™ Prozessoren
+
+bereits ab monatlich
+
+10,99 €
+
+(inkl. 19% MwSt.)
+
+[Root-Server-Angebote\>](https://www.netcup.com/de/server/root-server)
+
+vServer (x86)
+
+Leistungsstark und vielseitig zum günstigen Preis
+
+bereits ab monatlich
+
+7,03 €
+
+(inkl. 19% MwSt.)
+
+[VPS x86-Angebote\>](https://www.netcup.com/de/server/vps)
+
+Webhosting
+
+Preiswertes Webhosting mit Mail-Speicher
+
+bereits ab monatlich
+
+2,69 €
+
+(inkl. 19% MwSt.)
+
+[Webhosting-Angebote\>](https://www.netcup.com/de/hosting)
+
+.de Domain
+
+Über 400 Domain-Endungen für dein Projekt
+
+pro Monat
+
+0,42 €
+
+(inkl. 19% MwSt.)
+
+[Jetzt bestellen\>](https://www.netcup.com/de/domain/zusaetzliche-domain-de)
+
+netcup Blog
 ----------
 
-Im netcup Entwicklungslabor (kurz netcup Labs) testen wir neue Produkte. Auch werden anstehende Änderungen an unseren Produktivumgebungen zunächst unter netcup Labs getestet, bevor diese zur Qualitätsoptimierung auf allen Systemen eingespielt werden. Um in netcup Labs möglichst reale Test-Bedingungen erzielen zu können, vermitteln wir über diese Seite Produkte zum Testen an interessierte Kunden.
+### Wie viel Ökostrom erzeugt netcups Muttergesellschaft Anexia selbst? ###
 
-Die Tests sind in der Regel kostenlos oder kosten nur einen sehr geringen Geldbetrag. Sie laufen über einen längeren Zeitraum bzw. dauerhaft, je nach getestetem Produkt. Unter anderem stellen wir unter netcup Labs kostenlose vServer und stark im Preis reduzierte Webhostingprodukte bereit. Als Gegenleistung erwarten wir, dass die kostenlos zur Verfügung gestellten Produkte aktiv genutzt werden und wir regelmäßig Feedback erhalten, welches wir ausschließlich zur Qualitätsverbesserung einsetzen.
+Wer einen Server bei netcup mietet, nutzt automatisch Strom aus der eigenen Energieerzeugung der Muttergesellschaft Anexia. Dieser Beitrag blickt transparent auf die Zahlen, Hintergründe und Grenzen der eigenen Stromerzeugung.
 
-Wir versuchen in der Testumgebung die Nichterreichbarkeit von zu testenden Produkten möglichst gering zu halten. Da bei Tests Fehler auftreten können, können wir bei den Testprodukten aber keine Mindestverfügbarkeit garantieren. Gilt Ihr Interesse fehlerfreien, stabilen Systemen, empfehlen wir unsere [regulären Produkte](https://www.netcup.com/de).
+[Zum Blogbeitrag\>](https://www.netcup.com/de/blog/news/netcup-webhoster-des-jahres-2026)
 
-kostenlose vServer
+### netcup als Webhoster des Jahres 2026 nominiert ###
+
+Die Community entscheidet: netcup ist auch 2026 wieder in mehreren Kategorien für den Publikumspreis von hosttest.de nominiert, von Webhosting über vServer bis Domains. Wir freuen uns über jede Stimme und sagen schon jetzt Danke für das Vertrauen.
+
+[Mehr lesen \>](https://www.netcup.com/de/blog/news/netcup-webhoster-des-jahres-2026)
+
+### Platin-Auszeichnung: 1. Platz für netcup beim Service Provider Award 2026 ###
+
+Ein schöner Erfolg für netcup: Beim diesjährigen Service Provider Award wurde netcup in der Kategorie „Managed Hosting Service Provider" mit Platin ausgezeichnet.
+
+[Mehr lesen \>](https://www.netcup.com/de/blog/news/service-provider-award-2026)
+
+### Wir stellen ein! ###
+
+Wir haben aktuell 27 freie Stellen. z.B.:
+
+[(Senior) Linux System Engineer - netcup Platform (m/w/d)](https://www.netcup.com/de/jobs/senior-linux-system-engineer-netcup-platform-m-w-d)[Account Manager – IT-Services (m/w/d)](https://www.netcup.com/de/jobs/account-manager-it-services-m-w-d)[Business Development Manager – IT-Services (m/w/d)](https://www.netcup.com/de/jobs/business-development-manager-it-services-m-w-d)[Cloud Infrastructure Engineer (m/w/d)](https://www.netcup.com/de/jobs/cloud-infrastructure-engineer-m-w-d)
+
+[Alle Jobs anzeigen\>](https://www.netcup.com/de/jobs)
+
+ Über netcup
 ----------
 
-Wir vertreiben [vServer](https://www.netcup.com/de/server/vps) auf Basis von KVM. Die Verwaltung der vServer geschieht über unser eigenes Control-Panel, dem netcup SCP. Jede Weiterentwicklung und Optimierung wird vor der Veröffentlichung zunächst in den netcup Labs getestet. Hierfür stellen wir kostenlose vServer an freiwillige Tester bereit.
+netcup.com ist die Vertriebsplattform von netcup GmbH, deinem Ansprechpartner für qualitatives [Webhosting](https://www.netcup.com/de/hosting), Servermanagement und weiteren Internetdienstleistungen, um einen erfolgreichen, zuverlässigen und sicheren Internetauftritt zu ermöglichen. Wir setzen alles in Bewegung, um deiner Internetpräsenz ein gutes Zuhause zu bieten, ganz individuell auf deine Wünsche zugeschnitten.
 
-Weitere Leistungen stellen wir gegebenenfalls nach Bedarf bereit.
+[Mehr über netcup \>](https://www.netcup.com/de/ueber-netcup)
 
-**Wir stellen kostenlose vServer aus unserer Testumgebung zur Verfügung. Als Gegenleistung erwarten wir eine kontinuierliche Nutzung des vServers, so wie ein regelmäßiges Feedback über Ihre Erfahrungen mit dem Testprodukt.**
-
-**Bitte nutzen Sie folgendes Formular für Ihre Bewerbung um einen kostenlosen vServer:**
-
-**Bitte beachte: Alle freien Testplätze sind bereits vergeben. Wir nehmen derzeit und bis auf Weiteres keine Bestellungen an. Bereits vorhandene Testsysteme können weiterhin genutzt werden.**
-
-Wir werden Ihre Bewerbung nach dem Einreichen prüfen. Dabei achten wir bei unserer Auswahl insbesondere darauf, dass unsere Testumgebung möglichst realitätsnah ausgelastet ist. Bitte haben Sie Verständnis, dass wir daher nicht jede Bewerbung berücksichtigen können.
-
-Wenn wir Ihre Bewerbung angenommen haben, erhalten Sie von uns einen Code, über den Sie Ihren kostenlosen vServer in unserem Webshop bestellen können.
-
-Webhosting dauerhaft 90% Rabatt
+Ausgezeichnet gut - Lösungen, die überzeugen
 ----------
 
-**Wir bieten Ihnen dauerhaft fast kostenloses und zu 100% werbefreies Webhosting mit echten DE-Domains!**
+* Reader's Choice Service Provider Awards 2025 Gold
 
-Um optimale Benchmarks unserer neuen Webhosting-Nodes (Server) zu erhalten und um Updates so wie neue Funktionen testen zu können, stellen wir Ihnen im Rahmen der ncLabs stark preis-reduzierte (selbstverständlich vollständig werbefreie) Webhosting-Accounts zur Verfügung. Dabei orientieren wir uns an unseren regulären Webhosting-Tarifen mit der Ausnahme, dass sie nur 10% des regulären Preises kosten und sie keine garantierte Mindestverfügbarkeit haben.
+* HOSTtest Webhoster des Jahres 2025
 
-**Regeln und Bedingungen:**
+* Reader's Choice Service Provider Awards 2024 Silver
 
-Folgende Regeln und Bedingungen gelten für das kosten-reduzierte Webhosting der ncLabs:
+Ökostrom
+----------
 
-* Es gilt als wohlverstanden, dass die in den netcup-Labs registrierten Domains auch genutzt werden. Bitte registrieren Sie die Domains erst, wenn Sie die Anzahl der Besucher auch erreichen.
-* Keine reinen statischen Daten. Wir erwarten das Scripte wie PHP, NodeJS oder Ruby genutzt werden.
-* Kein Filehosting.
-* Feedback über das Kundenforum ist erwünscht.
-* Keine garantierte Mindestverfügbarkeit.
-* Vertrag jeder Zeit mit einer Frist von 31 Tagen beidseitig kündbar. Eventuell im Voraus gezahlte Grundgebühren werden in dem Fall von netcup zurück erstattet.
-* Kein Anspruch an kostenlosen Support.
+netcup schont die Umwelt und setzt auf Strom aus regenerativen Quellen sowie auf besonders energieeffiziente Hardware.
 
-Sind keine öffentlichen Inhalte auf dem gebuchten Webhostingaccount erreichbar oder wird die Besucher-Anzahl von durchschnittlich 20 je Tag für mehr als 7 Tage unterschritten, kann netcup den Vertrag innerhalb von 31 Tagen kündigen. Sie haben so ausreichend Zeit, um den Account netcup-Labs Tarif zum Beispiel in einen regulären Tarif umzuziehen oder zu einen anderen Anbieter zu wechseln.
+[Mehr zu Ökostrom \>](https://www.netcup.com/de/ueber-netcup/oekostrom)
 
-Bitte beachten Sie, dass auch bei kostenfreien Leistungen ein Dienstleistungsvertrag zwischen Ihnen und der netcup GmbH zu Stande kommt. Alle eingehenden Bestellungen werden daher auf Gültigkeit der genannten Daten geprüft und verifiziert. Von einer Nutzung zu illegalen Zwecken ist entsprechend abzusehen. Es gelten des weiteren die zum Zeitpunkt der Bestellung gültigen AGB, denen Sie in der Bestellung zusätzlich zustimmen müssen.
+Top zertifiziert
+----------
 
-**Wir freuen uns auf Ihr Feedback und wünschen viel Erfolg mit netcup Labs!**
+Dass du bei netcup auf Qualität und Stabilität bauen kannst, garantieren unsere regelmäßigen Zertifizierungen.
+
+ISO 9001
+----------
+
+Alle Prozesse von netcup sind im Rahmen unseres Qualitätsmanagement- Systems seit 2023 nach ISO 9001 zertifiziert.
+
+ISO 27001
+----------
+
+Wirksamkeit sowie kontinuierliche Verbesserung unseres Informationssicherheits- Managementsystems nach ISO 27001 wird jährlich validiert.
+
+ISO 27701
+----------
+
+Durch ISO 27701 zeigt netcup Engagement für den Schutz der Privatsphäre und den verantwortungsvollen Umgang mit sensiblen Daten.
+
+ISO 14001
+----------
+
+Durch das ISO 14001 Zertifikat wird sichergestellt, dass netcup sämtliche Umweltauflagen erfasst, bewertet und erfüllt.

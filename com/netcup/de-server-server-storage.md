@@ -86,8 +86,6 @@ Der Storage Space kann **zu einem bestehenden Server über das CCP** gebucht wer
 
 [Storage Space](https://www.netcup.com/de/server/server-storage)
 
-[netcup Labs](https://www.netcup.com/de/server/labs)
-
 [VPS (x86)](https://www.netcup.com/de/server/vps)
 
 [vServer Lite](https://www.netcup.com/de/server/vps-lite)

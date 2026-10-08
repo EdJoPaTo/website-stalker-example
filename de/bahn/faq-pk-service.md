@@ -1614,7 +1614,7 @@ können Sie:
 **Bei internationalen Reisen ist Folgendes zu beachten:**
 
 * Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
-* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen [Sitzplatz kostenpflichtig buchen](https://www.bahn.de/faq/pk/$%7Blink:%7Buuid:%7Bd5a994fa-7f80-4117-8b0d-0f71dbe742b1%7D,repository:%7Bwebsite%7D,provider:%7Bjcr%7D,path:%7B/next-bahn/de/angebot/zusatzticket/sitzplatzreservierung%7D%7D%7D). Das ist auch im DB Navigator möglich. Die Kosten können Sie Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
+* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen [neuen Sitzplatz kostenpflichtig](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) buchen. Das ist auch im DB Navigator möglich. Die Kosten können Sie Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
 
 Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
 
@@ -1732,9 +1732,11 @@ Für Buchungen, die Sie **vor** der Registrierung durchgeführt haben, können n
 
 Der D-Ticket-Filter zeigt gezielt Verbindungen an, die Sie mit dem Deutschland-Ticket ohne Aufpreis nutzen können. Sie aktivieren ihn mit dem Schieberegler "Nur D-Ticket-Verbindungen".
 
-Im **DB Navigator** finden Sie diesen Regler unter "**Optionen**", auf **bahn.de** unten in der **Verbindungsauskunft**.
+Im **DB Navigator** finden Sie diesen Regler unter "**Optionen**", auf **bahn.de** unten in der **Verbindungsauskunft** ganz rechts.
 
 Um wieder alle Verbindungen, einschließlich Fernverkehr, angezeigt zu bekommen, können Sie den Filter dort auch jederzeit deaktivieren.
+
+* [Mehr Informationen zum Filter "Nur D-Ticket-Verbindungen"](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-im-db-navigator)
 
@@ -2923,15 +2925,6 @@ If you paid using multiple combined means of payment, the partial amounts will b
 If you are using a smartphone with the Android operating system, you will not be automatically redirected to the ICE Portal after connecting to the train wifi due to the operating system. Therefore, you must enter **"ICEportal.de**" in your browser after connecting to the wifi.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ice-portal-android)
-
- What do I have to pay particular attention to with Apple devices in the ICE Portal?
-----------
-
-The "iCloud Private Relay" function from iOS 15 is intended, among other things, to ensure anonymous browsing on the internet. On the train, however, this function prevents your device from connecting to the ICE Portal.
-
-This function should be deactivated for the duration of use of the ICE Portal. You can check whether the function is switched off under "Settings" ⇒ "Apple ID" ⇒ "iCloud" ⇒ "Private Relay".
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ice-portal-ios)
 
  Ich befinde mich in der 1. Klasse aber mir werden die Tageszeitungen im ICE Portal nicht als kostenlos angezeigt, was kann ich tun?
 ----------
@@ -4750,6 +4743,25 @@ Sie können in den Verbindungsdetails und in der Reisevorschau unter "Weitere Ab
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-abfahrten-verbindungsdetails)
 
+ Kann ich Adressen oder Sehenswürdigkeiten als Haltestelle wählen?
+----------
+
+Sie können auch von Adresse zu Adresse planen. Sie können zum Beispiel Ihr Hotel oder eine bestimmte Sehenswürdigkeit angeben. Dann bekommen Sie eine Verbindung mit allen öffentlichen Verkehrsmitteln inklusive Fußweg zur nächstgelegenen Haltestelle.
+
+Das gilt für Orte aus den folgenden Kategorien:
+
+* Kultur, Film, Bühne (Museen, Theater, Kinos u.ä.)
+* Ausgehen (Restaurants, Bars, Cafés)
+* Übernachten (Hotels, Pensionen, Touristikinformationen)
+* Sehenswürdigkeiten, Freizeiteinrichtungen (Vergnügungsparks, Parks, historische Stätte)
+* Handel (Einkaufscenter, Messen)
+* Sport (Sportcenter, Stadien, Eislaufbahnen, Skiressorts)
+* Bildung, öffentliche Einrichtungen (Schulen, Bibliotheken, Rathäuser, Krankenhäuser)
+* Fähr-, Yacht- und Flughäfen
+* Adressen
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-adresse-sehenswuerdigkeit-als-haltestelle)
+
  Was bedeutet "Aktuelle Alternative"?
 ----------
 
@@ -4758,6 +4770,13 @@ Sie können in den Verbindungsdetails und in der Reisevorschau unter "Weitere Ab
 * Eine aktuelle Alternative wird beim nächsten Klick eventuell nicht mehr angezeigt, weil sich Änderungen ergeben haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-aktuelle-alternative)
+
+ Kann ich in der Reiseauskunft Autokennzeichen statt einen Ort eingeben?
+----------
+
+Bei größeren Bahnhöfen können Sie bei der Suche auch nur das KFZ-Kennzeichen eingeben – z. B. "B" für Berlin oder "KI" für Kiel.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-autokennzeichen-statt-ort)
 
  Was ist ein Ersatzfahrplan?
 ----------
@@ -4812,6 +4831,15 @@ Ob tatsächlich noch Stellplätze im ICE, IC- oder EC-Zug frei sind, erkennen Si
 [Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-verfuegbare-fahrradstellplaetze-finden)
+
+ Wie kann ich bei der Buchung das Verkehrsmittel (die Zug-Art) auswählen?
+----------
+
+1. Klicken Sie in der Reiseauskunft auf den Filter "Verkehrsmittel". Im DB Navigator finden Sie diesen Filter unter "Optionen", auf bahn.de in der Verbindungsauskunft.
+2. Wählen Sie zwischen "Nur Nahverkehr", "Nur Fernverkehr" oder "Alle". Sie können auch manuell verschiedene Verkehrsmittel an- und abwählen.
+3. Sie erhalten dann nur Verbindungen mit den Verkehrsmitteln, die Sie aktiviert haben – zum Beispiel nur ICE- oder nur Nahverkehrs-Züge.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reiseauskunft-verkehrsmittelwahl)
 
  Kann ich eine Verbindung unter "Weitere Abfahrten" einfach so nutzen?
 ----------
@@ -5555,7 +5583,7 @@ Die Übergabe wird durch die Betreuenden digital dokumentiert.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/uebergabe-kind)
 
- Wie kann ich die Zeit für meinen Umstieg verlängern?
+ Wie kann ich die Zeit für meinen Umstieg anpassen?
 ----------
 
 Wenn Sie beim Umsteigen mehr Zeit brauchen, können Sie das bei der Verbindungssuche einstellen:
@@ -5856,7 +5884,8 @@ Auch bei Zugausfall gilt dies, wenn es die letzte geplante Verbindung des Tages 
 * Kein anderes Verkehrsmittel wird vom Eisenbahnunternehmen gestellt.
 * Kontaktaufnahme mit dem Eisenbahnunternehmen vor Ort (DB Verkaufsstelle, DB Information oder Zugpersonal) ist nicht möglich.
 
-Wenn das Eisenbahnunternehmen ein Ersatzverkehrsmittel stellt, hat dies Vorrang.
+**Bitte beachten Sie:**
+Stellt Ihnen das Eisenbahnunternehmen ein anderes Verkehrsmittel zur Verfügung, so hat dessen Nutzung grundsätzlich Vorrang vor einer selbst organisierten Alternative. Sollten Sie dennoch eine selbstorgansierte Alternative nutzen, können Sie keinen Ersatz der Kosten verlangen, soweit Sie sich nicht erfolglos um Kontaktaufnahme vor Ort mit der Fahrkartenverkaufs- oder Informationsstelle des Eisenbahnunternehmens oder Personal des genutzten Zuges bemüht haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-darf-ich-ein-taxi-nutzen)
 
@@ -6418,7 +6447,7 @@ können Sie:
 **Bei internationalen Reisen ist Folgendes zu beachten:**
 
 * Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
-* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen Sitzplatz kostenpflichtig selbst [hier](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
+* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen Sitzplatz kostenpflichtig selbst auf der Seite [www.bahn.de/sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
 
 Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
 
@@ -7048,7 +7077,7 @@ Mit Lufthansa Express Rail können Sie ab 30 Stunden vor Abflug und bis 15 Minut
  Wie kann ich meinen erworbenen DB Geschenkgutschein in ein DB Produkt einlösen?
 ----------
 
-Eine Hilfestellung zur Einlösung finden Sie [hier](https://www.bahn.de/service/gutscheine/gutscheine-einloesen)
+Eine Hilfestellung zur Einlösung finden Sie auf dieser Seite: [www.bahn.de/gutscheine-einloesen](https://www.bahn.de/service/gutscheine/gutscheine-einloesen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-einloesen)
 
@@ -7529,10 +7558,14 @@ Sie haben einen Gutschein der Deutschen Bahn und möchten diesen einlösen?
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-dbnavigator-bezahlen)
 
- Wie kann ich im DB Navigator einen Zwischenhalt hinzufügen?
+ Wie kann ich bei der Buchung einen Zwischenhalt hinzufügen?
 ----------
 
-Sie können Ihre Reise individualisieren, indem Sie auf der Startseite des DB Navigators unter der Verbindungssuche auf "Optionen" klicken. Über "Zwischenhalte" können Sie für Ihre Reise einen bestimmten Bahnhof oder eine bestimmte Haltestelle auswählen, über die Ihre Reiseroute verlaufen soll. Außerdem können Sie für den Zwischenhalt auch eine gewünschte Aufenthaltsdauer einstellen.
+* Sie können auf Ihrer Reise bis zu 2 Zwischenstopps einplanen.
+* Im DB Navigator finden Sie die "Zwischenhalte" unter "Optionen", auf bahn.de in der Verbindungsauskunft.
+* Wählen Sie den gewünschten Bahnhof oder die bestimmte Haltestelle aus, über die Ihre Reiseroute verlaufen soll. Geben Sie auch an, wie lange Ihr Zwischenstopp dauern soll.
+* Das Ganze können Sie für Hin- und Rückfahrt getrennt tun.
+* Ihre Gesamt-Reisezeit inklusive Aufenthaltsdauer pro Fahrtrichtung darf nicht länger als 2 Kalendertage sein (max. 48 Stunden).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-einen-zwischenhalt-hinzufuegen)
 
@@ -8368,13 +8401,6 @@ The wifi in second class lets you surf, mail and chat for free. VPN connections 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-offered-second-class)
 
- Which trains offer wifi?
-----------
-
-Wifi is available on board all of our ICE trains, on some of our IC trains and on selected regional trains. We are gradually rolling out wifi for our entire long-distance fleet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wifi-trains)
-
  Wird der Sparpreis Senioren für die 1. Klasse angeboten?
 ----------
 
@@ -8414,7 +8440,7 @@ Die in der Aktion erworbenen DB Geschenkgutscheine können auf bahn.de, in der A
  Wo kann ich mir die BahnBonus App herunterladen?
 ----------
 
-[Hier](https://www.bahn.de/service/mobile/bahnbonus-app) können Sie die BahnBonus App herunterladen.
+ Auf der Seite [www.bahn.de/bahnbonus-app](https://www.bahn.de/service/mobile/bahnbonus-app) können Sie die BahnBonus App herunterladen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-bahnbonusapp-herunterladen)
 
@@ -8455,7 +8481,7 @@ Die Mitnahmebedingungen sind unterschiedlich, informieren Sie sich bitte auf uns
  Wo finde ich Datenschutzhinweise zu BahnBonus?
 ----------
 
-Die aktuellen Datenschutzhinweise zu BahnBonus finden Sie [hier](http://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahnbonus).
+Die aktuellen Datenschutzhinweise zu BahnBonus finden Sie auf der Seite [www.db-fernverkehr.com/datenschutz-bahnbonus](http://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahnbonus).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-datenschutzhinweise-zu-bahnbonus)
 
@@ -8865,7 +8891,7 @@ Grundsätzlich werden Entschädigungsanliegen immer von dem Eisenbahnunternehmen
 
 Zur Abwicklung der Entschädigungsansprüche hat die Deutsche Bahn gemeinsam mit den Nichtbundeseigenen Eisenbahnen in Deutschland ein einheitliches Verfahren eingeführt.
 
-Hierbei ist das Servicecenter Fahrgastrechte (SC FGR) zentraler Dienstleister zur Bearbeitung der Entschädigungsanträge. Neben der Deutschen Bahn lassen zahlreiche weitere Eisenbahnunternehmen die fahrgastrechtlichen Ansprüche Ihrer Kund:innen im SC FGR bearbeiten. Wenn Sie wissen möchten, welche Eisenbahnunternehmen das genau sind, finden Sie [hier](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/service-center) eine Übersicht.
+Hierbei ist das Servicecenter Fahrgastrechte (SC FGR) zentraler Dienstleister zur Bearbeitung der Entschädigungsanträge. Neben der Deutschen Bahn lassen zahlreiche weitere Eisenbahnunternehmen die fahrgastrechtlichen Ansprüche Ihrer Kundinnen und Kunden im SC FGR bearbeiten. Wenn Sie wissen möchten, welche Eisenbahnunternehmen das genau sind, finden Sie auf der Seite [www.bahn.de/service-center](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/service-center) eine Übersicht.
 
 Wenn Sie ein Ticket an das SC FGR schicken, das von einem Eisenbahnunternehmen stammt, das nicht am gemeinsamen Verfahren teilnimmt, ist das kein Problem. In diesem Fall wird das SC FGR Ihr Anliegen selbstverständlich an die zuständige Bahn weiterleiten. Tipp: Um die Bearbeitungsdauer zu verkürzen, wenden Sie sich am besten direkt an das jeweilige Eisenbahnunternehmen, das Ihr Ticket ausgegeben hat.
 
@@ -8949,7 +8975,7 @@ Bei Tickets mit Zugbindung (Sparpreisen) ist diese **Zugbindung** in **folgen
 **Bei internationalen Reisen ist Folgendes zu beachten:**
 
 * Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
-* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen Zug einen neuen Sitzplatz kostenpflichtig selbst [auf der Sitzplatzreservierung-Seite](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
+* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen Zug einen neuen Sitzplatz kostenpflichtig selbst auf der Seite [www.bahn.de/sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
 
 Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
 
@@ -8960,7 +8986,7 @@ Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch
  Wie kann ich mich zum BahnBonus Programm anmelden?
 ----------
 
-[Hier](http://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung)können Sie sich zu BahnBonus anmelden.
+Auf der Seite [www.bahn.de/bahnbonus-anmeldung](http://www.bahn.de/service/bahnbonus/bahnbonus-anmeldung) können Sie sich zu BahnBonus anmelden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zum-bahnbonus-programm-anmelden)
 

@@ -282,8 +282,6 @@ FAQs zu vServern/VPS
 
 [Storage Space](https://www.netcup.com/de/server/server-storage)
 
-[netcup Labs](https://www.netcup.com/de/server/labs)
-
 [VPS (x86)](https://www.netcup.com/de/server/vps)
 
 [vServer Lite](https://www.netcup.com/de/server/vps-lite)

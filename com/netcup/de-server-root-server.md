@@ -19,6 +19,8 @@ Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](htt
 
 1M1 Monat12M12 Monate−13%24M24 Monate−26%
 
+30 Tage Geld-Zurück-Garantie
+
 ### RS 500 G12.5 ###
 
 * AMD EPYC™ 9645
@@ -384,8 +386,6 @@ FAQs zu Root Servern
 [Local Block Storage](https://www.netcup.com/de/server/local-block-storage)
 
 [Storage Space](https://www.netcup.com/de/server/server-storage)
-
-[netcup Labs](https://www.netcup.com/de/server/labs)
 
 [VPS (x86)](https://www.netcup.com/de/server/vps)
 

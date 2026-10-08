@@ -99,9 +99,9 @@ Bitte beachten Sie: ab 3 Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 1
 
 ###  Wo finde ich meine digitale BahnCard 100 in der App DB Navigator und wo das zusätzliche Deutschland-Ticket?  ###
 
-Sie finden Ihre digitale BahnCard 100 und das zusätzliche Deutschland-Ticket im eingeloggten Zustand in der App DB Navigator im Menübereich "Reisen" unter "Zeitkarten & Abos".
+Sie finden Ihre digitale BahnCard 100 und das zusätzliche Deutschland-Ticket im eingeloggten Zustand in der App DB Navigator im Menübereich "Reisen" unter "BahnCards, Zeitkarten & Abos".
 
-Sollten Sie Ihre BahnCard 100 nicht direkt sehen, wischen Sie einfach im Bereich "Zeitkarten & Abos" von rechts nach links bis Sie zu Ihrer gewünschten BahnCard 100 gelangen. Indem Sie diese antippen, können Sie den QR-Code der digitalen BahnCard 100 im DB Navigator jederzeit aufrufen. Diesen benötigen Sie bei der Ticketkontrolle.
+Sollten Sie Ihre BahnCard 100 nicht direkt sehen, wischen Sie einfach im Bereich "BahnCards, Zeitkarten & Abos" von rechts nach links bis Sie zu Ihrer gewünschten BahnCard 100 gelangen. Indem Sie diese antippen, können Sie den QR-Code der digitalen BahnCard 100 im DB Navigator jederzeit aufrufen. Diesen benötigen Sie bei der Ticketkontrolle.
 
 Bitte denken Sie daran, Ihre digitale BahnCard 100 vor dem Reiseantritt mit Ihrem Smartphone zu verknüpfen. Gehen Sie genauso für das zusätzliche Deutschland-Ticket vor.
 
@@ -111,9 +111,9 @@ Bitte denken Sie daran, Ihre digitale BahnCard 100 vor dem Reiseantritt mit Ihre
 
 Ab 3 Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 100 können Sie diese mit Ihrem Smartphone verknüpfen, spätestens jedoch vor Ihrem Reiseantritt.
 
-Tippen Sie im Menübereich "Reisen" unter "Zeitkarten & Abos" auf Ihre BahnCard 100. Jetzt können Sie Ihre BahnCard 100 verknüpfen, indem auf den Button "Mit diesem Gerät verknüpfen" tippen.
+Tippen Sie im Menübereich "Reisen" unter "BahnCards, Zeitkarten & Abos" auf Ihre BahnCard 100. Jetzt können Sie Ihre BahnCard 100 verknüpfen, indem auf den Button "Mit diesem Gerät verknüpfen" tippen.
 
-Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 in der App DB Navigator verfügbar. Diesen benötigen Sie bei der Ticketkontrolle. Sie können den Code jederzeit aufrufen, indem Sie die BahnCard 100 im Menübereich "Reisen" unter "Zeitkarten & Abos" antippen.
+Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 in der App DB Navigator verfügbar. Diesen benötigen Sie bei der Ticketkontrolle. Sie können den Code jederzeit aufrufen, indem Sie die BahnCard 100 im Menübereich "Reisen" unter "BahnCards, Zeitkarten & Abos" antippen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen)
 
@@ -133,13 +133,13 @@ Nein, Sie können Ihre digitale BahnCard 100 und das zusätzliche digitale Deuts
 
 Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der BahnCard eine Nachricht mit dem Betreff „Wichtige Informationen zu Ihrer digitalen BahnCard" erhalten. Dort ist ein Link zur Aktivierung Ihrer BahnCard enthalten.
 
-Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „Zeitkarten & Abos".
+Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „BahnCards, Zeitkarten & Abos".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-navigator)
 
-###  Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard 100 trotzdem nutzen?  ###
+###  Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard trotzdem nutzen?  ###
 
-Der Kauf einer BahnCard 100 ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, zum Beispiel Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
+Der Kauf einer BahnCard ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, zum Beispiel Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-keine-email-adresse)
 

@@ -1927,19 +1927,6 @@ Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattier
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-europa)
 
- Bekomme ich Rabatt auf den Flexpreis Young mit der BahnCard?
-----------
-
-Ja. **Mit der BahnCard 25 erhältst du 25 %** und **mit der** **BahnCard 50 erhältst du 50 % Rabatt.**
-
-* [Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
-
-[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-young)
-
  Haben Sie schon ein SEPA-Lastschriftmandat eingerichtet und trotzdem eine Mahnung für Ihre BahnCard erhalten?
 ----------
 
@@ -2187,15 +2174,6 @@ Ja. Mit einer BahnCard 25/50/100 erhalten Sie auf grenzüberschreitenden Verbind
 Die BahnCard 100 kann mit einer Vorkaufsfrist von 180 Tagen gekauft werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc100-im-voraus-kaufen)
-
- Was mache ich, wenn ich meine BahnCard 100 verloren habe?
-----------
-
-Besitzen Sie eine physische BahnCard 100, rufen Sie uns am besten unter [030 2970](tel:030 2970) an. ​
-
-Halten Sie bitte Ihre BahnCard-Nummer bereit. ​
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc100-verloren)
 
  Wie wird die BahnCard 100 und das Deutschland-Ticket im Zug kontrolliert?
 ----------
@@ -3908,9 +3886,11 @@ Bei Weiterfahrt mit Bus, Straßenbahn o.ä. müssen Sie möglicherweise eine wei
 
 Der D-Ticket-Filter zeigt gezielt Verbindungen an, die Sie mit dem Deutschland-Ticket ohne Aufpreis nutzen können. Sie aktivieren ihn mit dem Schieberegler "Nur D-Ticket-Verbindungen".
 
-Im **DB Navigator** finden Sie diesen Regler unter "**Optionen**", auf **bahn.de** unten in der **Verbindungsauskunft**.
+Im **DB Navigator** finden Sie diesen Regler unter "**Optionen**", auf **bahn.de** unten in der **Verbindungsauskunft** ganz rechts.
 
 Um wieder alle Verbindungen, einschließlich Fernverkehr, angezeigt zu bekommen, können Sie den Filter dort auch jederzeit deaktivieren.
+
+* [Mehr Informationen zum Filter "Nur D-Ticket-Verbindungen"](https://www.bahn.de/service/informationen-buchung/filter-deutschland-ticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-filter-im-db-navigator)
 
@@ -4422,17 +4402,6 @@ Nein. Ihre Zeitkarte im Fernverkehr bleibt vom Deutschland-Ticket unberührt. Da
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zeitkarte-fv)
 
- Was muss ich tun, um das Deutschland-Ticket zu meiner My BahnCard 100 zu nutzen?
-----------
-
-Für bis einschließlich 13. Juni 2026 gekaufte BahnCards 100 erhalten Sie das Deutschland Deutschland-Ticket in digitaler Form per E-Mail nach dem Kauf der BahnCard 100.
-
-Für ab dem 14. Juni 2026 gekaufte BahnCards 100 finden Sie das Deutschland-Ticket direkt in Ihrem Navigator unter "Meine Reisen", "Zeitkarten & Abos".
-
-[Weitere Informationen zur My BahnCard 100](https://www.bahn.de/angebot/bahncard/junge-reisende/mybahncard100)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zu-meiner-mybc100-nutzen)
-
  Wo erhalte ich mehr Informationen zur digitalen BahnCard 100?
 ----------
 
@@ -4442,10 +4411,10 @@ Zur Nutzung der digitalen BahnCard 100 benötigen Sie ein DB Kundenkonto sowie d
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digibc100-infos)
 
- Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard 100 trotzdem nutzen?
+ Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard trotzdem nutzen?
 ----------
 
-Der Kauf einer BahnCard 100 ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, zum Beispiel Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
+Der Kauf einer BahnCard ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, zum Beispiel Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-keine-email-adresse)
 
@@ -4472,9 +4441,9 @@ Bitte beachten Sie: ab 3 Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 1
 
 Ab 3 Tagen vor Gültigkeitsbeginn Ihrer digitalen BahnCard 100 können Sie diese mit Ihrem Smartphone verknüpfen, spätestens jedoch vor Ihrem Reiseantritt.
 
-Tippen Sie im Menübereich "Reisen" unter "Zeitkarten & Abos" auf Ihre BahnCard 100. Jetzt können Sie Ihre BahnCard 100 verknüpfen, indem auf den Button "Mit diesem Gerät verknüpfen" tippen.
+Tippen Sie im Menübereich "Reisen" unter "BahnCards, Zeitkarten & Abos" auf Ihre BahnCard 100. Jetzt können Sie Ihre BahnCard 100 verknüpfen, indem auf den Button "Mit diesem Gerät verknüpfen" tippen.
 
-Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 in der App DB Navigator verfügbar. Diesen benötigen Sie bei der Ticketkontrolle. Sie können den Code jederzeit aufrufen, indem Sie die BahnCard 100 im Menübereich "Reisen" unter "Zeitkarten & Abos" antippen.
+Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 in der App DB Navigator verfügbar. Diesen benötigen Sie bei der Ticketkontrolle. Sie können den Code jederzeit aufrufen, indem Sie die BahnCard 100 im Menübereich "Reisen" unter "BahnCards, Zeitkarten & Abos" antippen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen)
 
@@ -4495,9 +4464,9 @@ Ihre BahnCard 100 als Jahreskarte können Sie während der Gültigkeit selbst dr
  Wo finde ich meine digitale BahnCard 100 in der App DB Navigator und wo das zusätzliche Deutschland-Ticket?
 ----------
 
-Sie finden Ihre digitale BahnCard 100 und das zusätzliche Deutschland-Ticket im eingeloggten Zustand in der App DB Navigator im Menübereich "Reisen" unter "Zeitkarten & Abos".
+Sie finden Ihre digitale BahnCard 100 und das zusätzliche Deutschland-Ticket im eingeloggten Zustand in der App DB Navigator im Menübereich "Reisen" unter "BahnCards, Zeitkarten & Abos".
 
-Sollten Sie Ihre BahnCard 100 nicht direkt sehen, wischen Sie einfach im Bereich "Zeitkarten & Abos" von rechts nach links bis Sie zu Ihrer gewünschten BahnCard 100 gelangen. Indem Sie diese antippen, können Sie den QR-Code der digitalen BahnCard 100 im DB Navigator jederzeit aufrufen. Diesen benötigen Sie bei der Ticketkontrolle.
+Sollten Sie Ihre BahnCard 100 nicht direkt sehen, wischen Sie einfach im Bereich "BahnCards, Zeitkarten & Abos" von rechts nach links bis Sie zu Ihrer gewünschten BahnCard 100 gelangen. Indem Sie diese antippen, können Sie den QR-Code der digitalen BahnCard 100 im DB Navigator jederzeit aufrufen. Diesen benötigen Sie bei der Ticketkontrolle.
 
 Bitte denken Sie daran, Ihre digitale BahnCard 100 vor dem Reiseantritt mit Ihrem Smartphone zu verknüpfen. Gehen Sie genauso für das zusätzliche Deutschland-Ticket vor.
 
@@ -4508,7 +4477,7 @@ Bitte denken Sie daran, Ihre digitale BahnCard 100 vor dem Reiseantritt mit Ihre
 
 Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der BahnCard eine Nachricht mit dem Betreff „Wichtige Informationen zu Ihrer digitalen BahnCard" erhalten. Dort ist ein Link zur Aktivierung Ihrer BahnCard enthalten.
 
-Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „Zeitkarten & Abos".
+Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „BahnCards, Zeitkarten & Abos".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-navigator)
 
@@ -7022,9 +6991,9 @@ Reservierungspflichtig sind ebenfalls die EC-Züge zwischen der Schweiz und Ital
 
 Wenn Sie mehrere Fahrten in einem Zeitraum, beispielsweise im Rahmen einer Rundreise planen, lohnt sich eventuell der Kauf eines Interrail- oder Swiss Travel Passes.
 
-Mit einem [**Interrail One Country Pass**](https://www.bahn.de/angebot/international/one-country-pass) reisen Sie an 3 bis 8 Tagen innerhalb eines Monats zum Pauschalpreis im ganzen Land. Der [**Interrail Global Pass**](https://www.bahn.de/angebot/international/global-pass) beinhaltet außerdem die An- und Abreise aus dem Wohnsitzland und gilt in vielen weiteren Ländern. Weitere Informationen zu Interrail finden Sie [hier](https://www.bahn.de/angebot/international/interrail).
+Mit einem [**Interrail One Country Pass**](https://www.bahn.de/angebot/international/one-country-pass) reisen Sie an 3 bis 8 Tagen innerhalb eines Monats zum Pauschalpreis im ganzen Land. Der [**Interrail Global Pass**](https://www.bahn.de/angebot/international/global-pass) beinhaltet außerdem die An- und Abreise aus dem Wohnsitzland und gilt in vielen weiteren Ländern. Weitere Informationen zu Interrail finden Sie auf [www.bahn.de/interrail](https://www.bahn.de/angebot/international/interrail).
 
-Der **Swiss Travel Pass** gilt zusätzlich zu den Zügen auch in vielen Bussen, Schiffen und öffentlichen Verkehrsmitteln in über 90 Schweizer Städten. Mehr Informationen, auch zum Geltungsbereich des Swiss Travel Pass finden Sie [hier](https://www.sbb.ch/de/angebote/swiss-travel-pass).
+Der **Swiss Travel Pass** gilt zusätzlich zu den Zügen auch in vielen Bussen, Schiffen und öffentlichen Verkehrsmitteln in über 90 Schweizer Städten. Mehr Informationen, auch zum Geltungsbereich des Swiss Travel Pass finden Sie auf [www.sbb.ch/swiss-travel-pass](https://www.sbb.ch/de/angebote/swiss-travel-pass).
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-sbb-spezielle-angebote)
 
@@ -7273,7 +7242,7 @@ Wenn Sie mehrere Fahrten im Ausland planen, lohnt sich oft ein [Interrail Pass](
 
 Sie werden in mehreren Ländern unterwegs sein? Hier lohnt sich oft der [Interrail Global Pass](https://www.bahn.de/angebot/international/global-pass), den Sie in insgesamt 33 europäischen Ländern nutzen können. Innerhalb von 2 Tagen der Geltungsdauer dürfen Sie den Pass auch in Ihrem Wohnsitzland nutzen.
 
-Hinweis: Für einige reservierungspflichtige Züge benötigen Sie einen separaten Aufpreis. Mehr Infos dazu [www.interrail.com](https://www.interrail.com/de/book-reservations/how-do-i-book-seats).
+Hinweis: Für einige reservierungspflichtige Züge benötigen Sie einen separaten Aufpreis. Mehr Infos dazu auf [www.interrail.com](https://www.interrail.com/de/book-reservations/how-do-i-book-seats).
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 
@@ -7982,21 +7951,6 @@ Ja, wenn es die Kapazitäten zulassen. Aber Sie brauchen eine **Fahrradtageskart
 [Strecke auswählen](https://next.bahn.de/buchung/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-fahrrad-im-niedersachsentarif-mitnehmen)
-
- Kann ich meine BahnCard 25/50 online kündigen?
-----------
-
-Ja, Sie können Ihre BahnCard 25 oder BahnCard 50 bis zu 4 Wochen vor Laufzeitende in Textform kündigen.
-
-So kündigen Sie online:
-
-* In Ihr DB Kundenkonto einloggen.
-* Auf "BahnCard" klicken und "Optionen" auswählen.
-* Dort erhalten Sie die Info, ob eine Kündigung möglich ist.
-* Wenn dies möglich ist, bestätigen Sie den Button "BahnCard kündigen".
-* Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-meine-bc-kuendigen)
 
  Kann ich meine Dauer-Sitzplatzreservierung ändern?
 ----------
@@ -15653,7 +15607,7 @@ Oder rufen Sie uns an: [+49 (0)30 2970](tel:+490302970)
  Was passiert, wenn ich innerhalb des Geltungszeitraums 27 werde?
 ----------
 
-Ausschlaggebend für den Erwerb der Karte ist das Alter zum 1. Geltungstag. Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der My BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard 100 zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 30.06.2026.
+Ausschlaggebend für den Erwerb der Karte ist das Alter zum 1. Geltungstag. Alle Reisenden, die am 1. Geltungstag unter 27 Jahre alt sind, können die My BahnCard 100 erwerben. Beim Erwerb der My BahnCard 100 wird anhand Ihres Geburtsdatums geprüft, ob Sie berechtigt sind, die My BahnCard 100 zu erwerben. Der letztmögliche erste Geltungstag der Karte ist der 09.06.2027.
 
 [Weitere Informationen zur My BahnCard 100](https://www.bahn.de/angebot/bahncard/junge-reisende/mybahncard100)
 
@@ -17377,6 +17331,19 @@ The "+City" on your ticket indicates that the City-Ticket option covers your sta
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erkenne-ich-ob-das-city-ticket-bei-meiner-fahrkarte-mit-dabei-ist-en)
 
+ Wie kann ich die Fahrradmitnahme mit einer BahnCard 100 buchen?
+----------
+
+So können Sie für Ihre kostenfreie Fahrradmitnahme einen Stellplatz reservieren:
+
+* Wenn Sie eine digitale BahnCard 100 ab dem 02.09.20226 erworben haben, können Sie die Fahrradmitnahme direkt in ihrem DB Kundenkonto mit Ihrem Reservierungskontingent buchen.
+
+Ansonsten rufen Sie uns unter +4930586020900 an oder gehen Sie in eins unserer DB Reisezentren.
+
+[Weitere Informationen zur BahnCard 100](https://www.bahn.de/angebot/bahncard/bahncard100)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-fahrrad-buchen-bc100)
+
  Wie finde ich meinen Sitzplatz bei einer Reservierung in einem Nahverkehrszug?
 ----------
 
@@ -17413,27 +17380,6 @@ Die Wagen mit Reservierungsbereich sind von außen gekennzeichnet. Im Wagen lots
 * Sie erhalten eine Reservierungsbestätigung. Führen Sie diese bitte auf der Fahrt mit sich und zeigen Sie sie auf Verlangen zusammen mit der Fahrkarte vor.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-einzelreservierung-eines-sitzplatzes-im-nahverkehr)
-
- Wie funktioniert die kostenfreie Sitzplatzreservierung für Inhaber einer BahnCard 100, 1. Klasse?
-----------
-
-Alle BahnCard 100, 1. Klasse Inhaber erhalten ein kostenfreies, digitales Reservierungskontingent für 100 Sitzplatzreservierungen pro Jahr.
-
-* Verwendbar für Sitzplatzreservierung ohne Ticketkauf
-* Gültig für alle nicht reservierungspflichtigen Züge der DB AG
-* Nicht eingelöste Kontingente verfallen mit dem Gültigkeitsende der BahnCard bzw. mit der Kündigung der BahnCard (Kündigung des BahnCard 100 Abo-Produktes)
-* Probe BahnCard 100, 1. Klasse Inhaber erhalten 25 kostenfreie Sitzplatzreservierungen
-
-Das Reservierungskontingent können Sie in den folgenden Vertriebskanälen nutzen:
-
-* bahn.de
-* DB Navigator
-
-[Weitere Informationen zur Sitzplatzreservierung](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung/sitzplatzreservierung-fernverkehr)
-
-[Sitzplatz und Ticket buchen](https://www.bahn.de/buchung/intern/start#?RW=true)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-funktioniert-die-kostenfreie-sitzplatzreservierung-fuer-inhaber-einer-bahncard-100-1-klasse)
 
  Was muss bei einer Monatskarte für Schüler beim Reisen mit Bus & Bahn beachtet werden?
 ----------
