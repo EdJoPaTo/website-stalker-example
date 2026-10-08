@@ -750,7 +750,7 @@ Load Balancer
 
 Und das alles ganz simpel: von der Einrichtung bis hin zur Nutzung. Bei Fragen helfen dir unsere Docs und Tutorials weiter.
 
-[Cloud Server erstellen](https://accounts.hetzner.com/login)
+[Cloud Server erstellen](https://console.hetzner.com/)
 
 [Cloud Docs Docs](https://docs.hetzner.com/cloud) [Cloud Guides Tutorials](https://community.hetzner.com/tutorials) [API Docs Docs](https://docs.hetzner.cloud/)
 

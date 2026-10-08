@@ -1597,7 +1597,7 @@ Minderjährige können sich mit Zustimmung ihrer Sorgeberechtigten (in der Regel
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-ich-mich-als-minderjaehriger-im-db-navigator-registrieren-und-darueber-tickets-kaufen)
 
- In welchen Situationen darf ich mit einem anderen Zug oder Verkehrsmittel weiterfahren und was muss ich beachten?
+ Darf ich bei Verspätungen mit einem anderen Zug weiterfahren?
 ----------
 
 Bei einer erwarteten Verspätung am Zielbahnhof Ihrer Fahrkarte von
@@ -1614,7 +1614,7 @@ können Sie:
 **Bei internationalen Reisen ist Folgendes zu beachten:**
 
 * Wählen Sie bitte nur Züge derselben Beförderer, die Sie ursprünglich gebucht hatten (z.B. DB, SNCF, ÖBB, etc.).
-* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen Sitzplatz kostenpflichtig selbst [hier](https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung) oder im DB Navigator buchen und die Kosten Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
+* Falls Sie einen reservierungspflichtigen Zug gebucht hatten (durch ein „R"-Symbol an der Zugnummer im Fahrplan gekennzeichnet), ist Ihre bisherige Sitzplatzreservierung nur für den ursprünglich gebuchten Zug gültig. Wenn Sie einen anderen Zug nehmen, können Sie für diesen einen neuen [Sitzplatz kostenpflichtig buchen](https://www.bahn.de/faq/pk/$%7Blink:%7Buuid:%7Bd5a994fa-7f80-4117-8b0d-0f71dbe742b1%7D,repository:%7Bwebsite%7D,provider:%7Bjcr%7D,path:%7B/next-bahn/de/angebot/zusatzticket/sitzplatzreservierung%7D%7D%7D). Das ist auch im DB Navigator möglich. Die Kosten können Sie Ihrer ursprünglichen nicht genutzten Sitzplatzreservierung im Servicecenter Fahrgastrechte zur Erstattung einreichen. Alternativ erhalten Sie eine neue Sitzplatzreservierung kostenfrei in einem DB Reisezentrum.
 
 Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch aufgehoben.
 

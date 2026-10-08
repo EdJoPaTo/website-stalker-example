@@ -1761,7 +1761,7 @@ Nein, für dieses Ticket können Sie leider keine BahnBonus Punkte sammeln. Best
  Gibt es die BahnCard 100 für Studierende?
 ----------
 
-Ja. Mit der My BahnCard 100 und dem kostenlos inkludierten digitalen Deutschland-Ticket können Studierende bis 27 Jahre unbegrenzt ein Jahr lang im Nah- und Fernverkehr flexibel in Deutschland reisen.
+Ja. Mit der My BahnCard 100 und dem kostenlos inkludierten digitalen Deutschland-Ticket können alle unter 27 Jahre unbegrenzt ein Jahr lang im Nah- und Fernverkehr in Deutschland reisen. Das Angebot richtet sich an Reisende unter 27 Jahre, unabhängig eines Studierenden- oder Ausbildungsstatus.
 
 [Mehr zur My BahnCard](https://www.bahn.de/angebot/bahncard/junge-reisende/mybahncard)
 
@@ -1946,8 +1946,6 @@ Ja. **Mit der BahnCard 25 erhältst du 25 %** und **mit der** **BahnCard 50 erh�
 Das ist möglich. Am besten fügen Sie direkt in Ihrem DB Kundenkonto für diesen BahnCard-Vertrag die Zahlung mit dem SEPA-Lastschriftmandat hinzu. So werden künftige Zahlungen zu Ihrem BahnCard-Vertrag automatisch per SEPA-Lastschrift eingezogen.
 
 [Anmeldung zum SEPA-Lastschriftmandat für die BahnCard](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/bahncard/Anmeldung-SEPA-Lastschriftmandat_BahnCard_20260216.pdf)
-
-Rufen Sie bei weiteren Fragen an unter [030 2970](tel:030 2970) oder nutzen Sie das Kontaktformular.
 
 * [Zum Kontaktformular](https://www.bahn.de/kontakt/serviceanliegen/bahncard-mahnung)
 
@@ -3790,7 +3788,7 @@ Ja. In Regional-Express, Regionalbahn und S-Bahn nutzen Sie weiterhin die 1. Kla
 
 Ja, Sie können das Deutschland-Ticket mit Ihrer BahnCard 100 im kompletten bundesweiten Nahverkehr, SPNV und ÖPNV, also in Nahverkehrszügen, S-Bahnen, U-Bahnen und Bussen, nutzen.
 
-Für bis einschließlich 13. Juni 2026 gekaufte BahnCards 100 erhalten Sie das Deutschland Deutschland-Ticket in digitaler Form per E-Mail nach dem Kauf der BahnCard 100. Für ab dem 14. Juni 2026 gekaufte BahnCards 100 finden Sie das Deutschland-Ticket direkt in Ihrem Navigator unter "Meine Reisen", "Zeitkarten & Abos".
+Für bis einschließlich 13. Juni 2026 gekaufte BahnCards 100 erhalten Sie das Deutschland-Ticket in digitaler Form per E-Mail nach dem Kauf der BahnCard 100. Für ab dem 14. Juni 2026 gekaufte BahnCards 100 finden Sie das Deutschland-Ticket direkt in Ihrem Navigator unter "Meine Reisen", "BahnCards, Zeitkarten & Abos".
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahncard100-ab-wann)
 
@@ -6785,7 +6783,7 @@ Sie können das VVS Abo als Handy-Ticket im DB Navigator nutzen.
  Wo erhalte ich mehr Informationen zur digitalen BahnCard 25/50?
 ----------
 
-Zur Nutzung der digitalen BahnCard 25/50 benötigen Sie ein DB Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator). Erfahren Sie auf der Seite [www.bahn.de/digitalebahncard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) mehr über die digitale BahnCard und auch zur Alternative ohne Smartphone mit Schritt-für-Schritt-Anleitungen.
+Zur Nutzung der digitalen BahnCard 25/50 benötigen Sie ein DB Kundenkonto sowie die [App DB Navigator](https://www.bahn.de/service/mobile/db-navigator). Erfahren Sie auf der Seite [www.bahn.de/digitalebahncard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard) mehr über die digitale BahnCard.
 
 [Weitere Informationen zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
@@ -7275,7 +7273,7 @@ Wenn Sie mehrere Fahrten im Ausland planen, lohnt sich oft ein [Interrail Pass](
 
 Sie werden in mehreren Ländern unterwegs sein? Hier lohnt sich oft der [Interrail Global Pass](https://www.bahn.de/angebot/international/global-pass), den Sie in insgesamt 33 europäischen Ländern nutzen können. Innerhalb von 2 Tagen der Geltungsdauer dürfen Sie den Pass auch in Ihrem Wohnsitzland nutzen.
 
-Hinweis: Für einige reservierungspflichtige Züge benötigen Sie einen separaten Aufpreis. Mehr Infos dazu [hier](https://www.interrail.com/de/book-reservations/how-do-i-book-seats).
+Hinweis: Für einige reservierungspflichtige Züge benötigen Sie einen separaten Aufpreis. Mehr Infos dazu [www.interrail.com](https://www.interrail.com/de/book-reservations/how-do-i-book-seats).
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 
@@ -7757,7 +7755,7 @@ Nein, für Tickets mit einem Streckenabschnitt der Nichtbundeseigenen Eisenbahne
  Kann ich die digitale BahnCard 25/50 sofort auf mein Smartphone laden?
 ----------
 
-Sie können die digitale BahnCard 25/50 direkt nach dem Kauf in die App DB Navigator auf Ihrem Smartphone laden und ab dem ersten Geltungstag nutzen.
+Ja. Sie wählen den gewünschten 1. Geltungstag und ab diesem Datum können Sie die digitale BahnCard 25/50 direkt im DB Navigator nutzen.
 
 [Weitere Informationen zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
@@ -9020,8 +9018,10 @@ Ihre Senioren BahnCard können Sie bis zu 4 Wochen vor Laufzeitende in Textform 
 Nutzen Sie für die Online-Kündigung einfach Ihr DB Kundenkonto:
 
 1. Loggen Sie sich in Ihr [Kundenkonto](https://www.bahn.de/link_bc-selfservices)ein.
-2. Klicken Sie danach auf "Optionen". Sie erhalten dort die Information, ob eine Kündigung möglich ist.
+2. Klicken Sie danach im Bereich "BahnCard" am BahnCard-Vertrag auf "Optionen". Sie erhalten dort die Information, ob eine Kündigung möglich ist.
 3. Ist die Kündigung möglich, bestätigen Sie den Button „BahnCard kündigen“.
+
+Die Kündigungsbestätigung wird an Ihre hinterlegte E-Mail-Adresse gesendet.
 
 [Rückfragen zum Abo](https://www.bahn.de/hilfe#/bahncard)
 
@@ -16935,9 +16935,10 @@ Für die Kontrolle im Zug benötigen wir zusätzlich Ihren amtlichen Lichtbildna
 
 **Unsere Tipps für Sie:**
 
-* Für Reisende im Alter zwischen 6 und 26 Jahren gibt es die My BahnCard
-* Personen bis einschließlich 64 Jahren, die wegen voller Erwerbsminderung eine Rente beziehen und schwerbehinderte Menschen mit einem Grad der Behinderung von mindestens 70 haben Anspruch auf eine ermäßigte BahnCard
-* Für Personen ab 65 Jahren ist die Senioren BahnCard erhältlich
+* Für Reisende im Alter zwischen 6 und 18 Jahren gibt es die Jugend BahnCard.
+* Für Reisende im Alter bis 26 Jahren gibt es die My BahnCard.
+* Personen zwischen 27 bis einschließlich 64 Jahren, die wegen voller Erwerbsminderung eine Rente beziehen und schwerbehinderte Menschen mit einem Grad der Behinderung von mindestens 70 haben Anspruch auf eine ermäßigte BahnCard.
+* Für Personen ab 65 Jahren ist die Senioren BahnCard erhältlich.
 
 [Weitere Informationen zur BahnCard 25](https://www.bahn.de/angebot/bahncard/bahncard25)
 
@@ -16952,9 +16953,10 @@ Für die Kontrolle im Zug benötigen wir zusätzlich Ihren amtlichen Lichtbildna
 
 **Unsere Tipps für Sie:**
 
-* Für Reisende im Alter zwischen 6 und 26 Jahren gibt es die My BahnCard
-* Personen bis einschließlich 64 Jahren, die wegen voller Erwerbsminderung eine Rente beziehen und schwerbehinderte Menschen mit einem Grad der Behinderung von mindestens 70 haben Anspruch auf eine ermäßigte BahnCard
-* Für Personen ab 65 Jahren ist die Senioren BahnCard erhältlich
+* Für Reisende im Alter zwischen 6 und 18 Jahren gibt es die Jugend BahnCard.
+* Für Reisende im Alter bis 26 Jahren gibt es die My BahnCard.
+* Personen zwischen 27 bis einschließlich 64 Jahren, die wegen voller Erwerbsminderung eine Rente beziehen und schwerbehinderte Menschen mit einem Grad der Behinderung von mindestens 70 haben Anspruch auf eine ermäßigte BahnCard.
+* Für Personen ab 65 Jahren ist die Senioren BahnCard erhältlich.
 
 [Weitere Informationen zur BahnCard 50](https://www.bahn.de/angebot/bahncard/bahncard50)
 
@@ -16965,10 +16967,10 @@ Für die Kontrolle im Zug benötigen wir zusätzlich Ihren amtlichen Lichtbildna
 
 Eine ermäßigte BahnCard 25/50 erhalten:
 
-* Personen, die wegen **voller Erwerbsminderung eine Rente beziehen**
+* Personen zwischen 27-64 Jahren, die wegen **voller Erwerbsminderung eine Rente beziehen**
 * Schwerbehinderte Menschen mit einem **Grad der Behinderung von mindestens 70**
 
-Die Ermäßigungsberechtigung müssen Sie durch einen amtlichen Nachweis (z. B. Schwerbehindertenausweis) belegen. Kunden, die unter 27 Jahre alt sind, erhalten automatisch die My BahnCard.
+Die Ermäßigungsberechtigung müssen Sie durch einen amtlichen Nachweis (z. B. Schwerbehindertenausweis) belegen. Kunden die unter 27 Jahre oder ab 65 Jahre alt sind können die sich eine My BahnCard oder eine Senioren BahnCard buchen.
 
 [Weitere Informationen zur ermäßigten BahnCard](https://www.bahn.de/angebot/bahncard/ermaessigte-bahncard)
 
@@ -17820,7 +17822,7 @@ Sie können die Rechnung unmittelbar nach dem Kauf oder der automatischen Verlä
 2. Klicken Sie auf den Menüpunkt "BahnCard".
 3. Unter "Optionen" der jeweiligen BahnCard finden Sie den Punkt "Details und Rechnungen"
 
-[Alle BahnCards im Überblick](https://www.bahn.de/angebot/bahncard)
+[Zum Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahncard)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-online-eine-rechnung-fuer-meine-bahncard-anfordern)
 
