@@ -30,6 +30,13 @@ Unreleased
 
 * PM & Energy Metering Devices: Add support for Shelly Cloud NILM services (Non-Intrusive Load Monitoring)
 
+[2.0.2] 2026-10-09
+----------
+
+### Fixed ###
+
+* [BLU Gateway Gen3](/gen2/Devices/Gen3/ShellyBluGwG3): Fix slow/stalled updates
+
 [2.0.1] 2026-09-23
 ----------
 

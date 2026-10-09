@@ -68,7 +68,7 @@ netcup Blog
 
 Wer einen Server bei netcup mietet, nutzt automatisch Strom aus der eigenen Energieerzeugung der Muttergesellschaft Anexia. Dieser Beitrag blickt transparent auf die Zahlen, Hintergründe und Grenzen der eigenen Stromerzeugung.
 
-[Zum Blogbeitrag\>](https://www.netcup.com/de/blog/news/netcup-webhoster-des-jahres-2026)
+[Zum Blogbeitrag\>](https://www.netcup.com/de/blog/nachhaltigkeit/netcup-oekostrom-wasserkraft-photovoltaik)
 
 ### netcup als Webhoster des Jahres 2026 nominiert ###
 

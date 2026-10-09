@@ -6,6 +6,13 @@
 		<description>All things Eve &amp; HomeKit</description>
 		<generator>website-stalker https://github.com/EdJoPaTo/website-stalker</generator>
 		<item>
+			<title>Ikea Blinds Made Smart: How to Install the Eve Motionblinds Upgrade Motor for Small Diameter Tubes</title>
+			<link>https://www.evehome.com/en/blog/ikea-blinds-made-smart</link>
+			<content:encoded><![CDATA[Use Cases
+
+When the sun is beating down or you want to block prying eyes from outside, smart motors from Eve Motionblinds automatically provide shade and privacy. Find out here how to effortlessly upgrade your existing Ikea and Gardinia roller blinds.]]></content:encoded>
+		</item>
+		<item>
 			<title>Retrofit efficiently with Busch-free@home®️ In-Wall Actuators and Smart Switch wireless</title>
 			<link>https://www.evehome.com/en/blog/efficient-retrofitting-withbusch-free-home-actuators</link>
 			<content:encoded><![CDATA[Use Cases
@@ -71,13 +78,6 @@ While technological progress and legislation have cut the power consumption of m
 HomeKit
 
 Make the holiday season magical by following our tips on how to create the perfect mood.]]></content:encoded>
-		</item>
-		<item>
-			<title>Eve Thermo: Understanding and adjusting Temperature Offset</title>
-			<link>https://www.evehome.com/en/blog/eve-thermo-temperatur-offset</link>
-			<content:encoded><![CDATA[Product Features
-
-Eve Thermo relies on the proven technology of Hessian specialist Eurotronic for heat regulation, which works in the heating controllers of many leading smart home providers. Leveraging HomeKit as well as Eve technologies, Eurotronic's drive and control algorithm ensure comfort and efficiency. This makes saving energy easy.  We're introducing you here to a hardware feature important for heat regulation: The adjustable Temperature Offset.]]></content:encoded>
 		</item>
 	</channel>
 </rss>

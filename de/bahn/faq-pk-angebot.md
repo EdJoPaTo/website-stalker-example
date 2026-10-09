@@ -6448,7 +6448,7 @@ Erhalten Sie beim Hinzufügen eine Fehlermeldung, prüfen Sie bitte folgendes:
  Ich habe kein Smartphone - kann ich die digitale BahnCard trotzdem nutzen?
 ----------
 
-Ja. Sie finden das Ersatzdokument als pdf-Dokument in Ihrem DB Kundenkonto. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen.
+Ja. Sie finden das Ersatzdokument als PDF-Dokument in Ihrem DB Kundenkonto. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen.
 
 [Alles zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
