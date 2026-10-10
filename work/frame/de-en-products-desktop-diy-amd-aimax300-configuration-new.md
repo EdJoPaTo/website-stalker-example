@@ -7,7 +7,7 @@ Framework Desktop
 
 [Pre-built Ready to use with OS pre-installed.](/de/en/products/desktop-amd-aimax400/configuration/new)
 
-[Pre-order AI Max 400 Series Starting at €7,659.00](/de/en/products/desktop-diy-amd-aimax400/configuration/new)
+[Pre-order AI Max PRO 400 Series Starting at €7,659.00](/de/en/products/desktop-diy-amd-aimax400/configuration/new)
 
 [AI Max 300 Series Starting at €1,429.00](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
 
