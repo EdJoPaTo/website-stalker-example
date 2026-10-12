@@ -11,18 +11,14 @@ Hier finden Sie Informationen, welche Entschädigung Ihnen bei Zugverspätungen,
 
 Sie können bei uns Ihre Fahrgastrechte für alle Züge der Deutschen Bahn geltend machen: S-Bahn, RB, RE, IRE, IC/EC, ICE sowie Nachtzüge.
 
-Diese Ansprüche haben Sie im Rahmen Ihrer Fahrgastrechte
-----------
-
-* [Erfahren Sie, welche Ansprüche Ihnen unter welchen Voraussetzungen zustehen.](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen)
-
 So können Sie Ihren Entschädigungsanspruch geltend machen...
 ----------
 
+* [Welche Ansprüche stehen Ihnen unter welchen Voraussetzungen zu (neue Seite)](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen)
 * [Springe zu: digital über das DB Kundenkonto auf bahn.de oder im DB Navigator](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digi)
 * [Springe zu: digital über die Auftragssuche auf bahn.de oder im DB Navigator](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#digineu)
 * [Springe zu: mit dem Fahrgastrechte-Formular](https://www.bahn.de/service/informationen-buchung/fahrgastrechte#print)
-* [mit dem EU-Antragsformular](https://www.bahn.de/faq/eu-formular)
+* [mit dem EU-Antragsformular (neue Seite)](https://www.bahn.de/faq/eu-formular)
 
 Entschädigung über das DB Kundenkonto auf bahn.de oder im DB Navigator beantragen
 ----------

@@ -84,9 +84,9 @@ Ein schöner Erfolg für netcup: Beim diesjährigen Service Provider Award wurde
 
 ### Wir stellen ein! ###
 
-Wir haben aktuell 27 freie Stellen. z.B.:
+Wir haben aktuell 23 freie Stellen. z.B.:
 
-[(Senior) Linux System Engineer - netcup Platform (m/w/d)](https://www.netcup.com/de/jobs/senior-linux-system-engineer-netcup-platform-m-w-d)[Account Manager – IT-Services (m/w/d)](https://www.netcup.com/de/jobs/account-manager-it-services-m-w-d)[Business Development Manager – IT-Services (m/w/d)](https://www.netcup.com/de/jobs/business-development-manager-it-services-m-w-d)[Cloud Infrastructure Engineer (m/w/d)](https://www.netcup.com/de/jobs/cloud-infrastructure-engineer-m-w-d)
+[(Senior) Linux System Engineer - netcup (m/w/d)](https://www.netcup.com/de/jobs/senior-linux-system-engineer-netcup-m-w-d)[Account Manager – IT-Services (m/w/d)](https://www.netcup.com/de/jobs/account-manager-it-services-m-w-d)[Business Development Manager – IT-Services (m/w/d)](https://www.netcup.com/de/jobs/business-development-manager-it-services-m-w-d)[Cloud Infrastructure Engineer (m/w/d)](https://www.netcup.com/de/jobs/cloud-infrastructure-engineer-m-w-d)
 
 [Alle Jobs anzeigen\>](https://www.netcup.com/de/jobs)
 

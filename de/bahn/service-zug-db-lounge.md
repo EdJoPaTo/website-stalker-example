@@ -139,6 +139,10 @@ DB Lounge Frankfurt (Main)
 
 ###  DB Lounge Frankfurt (Main)  ###
 
+#### Aufzug außer Betrieb ####
+
+Aufgrund eines defekten Aufzugs ist die DB Lounge Frankfurt (Main) voraussichtlich bis zum 16. Oktober 2026 **nicht barrierefrei zugänglich**. Wir bitten um Ihr Verständnis.
+
 #### Übersichtsplan und Beschreibung ####
 
 * **Lage:** Die DB Lounge Frankfurt am Main Hauptbahnhof liegt im ersten Obergeschoss über dem DB Reisezentrum, das sich mittig im Bahnhof nahe dem Ausgang City/Kaiserstraße befindet. Der Zugang erfolgt durch die große Glasfront links neben dem Eingang des Reisezentrums und von dort über die Treppe oder den Aufzug ins Obergeschoss.

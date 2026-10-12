@@ -87,7 +87,6 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Power Strip 4 Gen4](https://kb.shelly.cloud/knowledge-base/shelly-power-strip-gen4)
 * [Shelly Plug US Gen4](https://kb.shelly.cloud/knowledge-base/shelly-plug-us-gen4)
 * [Shelly Flood Gen4](https://kb.shelly.cloud/knowledge-base/shelly-flood-gen4)
-* [Shelly Leak Sensor Cable](https://kb.shelly.cloud/knowledge-base/shelly-leak-sensor-cable)
 * [Shelly Flood S Gen4](https://kb.shelly.cloud/knowledge-base/shelly-flood-s-gen4)
 * [Shelly Dimmer Gen4](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen4)
 * [Shelly Dimmer Gen4 US](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-gen4-us)
@@ -228,6 +227,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [GaN Charger 30W](https://kb.shelly.cloud/knowledge-base/gan-charger-30w)
 * [GaN Charger 65W](https://kb.shelly.cloud/knowledge-base/gan-charger-65w)
 * [Cable USB-C to USB-C](https://kb.shelly.cloud/knowledge-base/cable-usb-c-to-usb-c)
+* [Shelly Leak Sensor Cable](https://kb.shelly.cloud/knowledge-base/shelly-leak-sensor-cable)
 
 [Add-ons](https://kb.shelly.cloud/knowledge-base/add-ons)
 * [Shelly LoRa Add-on](https://kb.shelly.cloud/knowledge-base/shelly-lora-add-on)

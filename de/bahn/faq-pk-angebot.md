@@ -618,7 +618,11 @@ Rehabilitanden können den DB Gepäckservice weiterhin als Bestandteil des Reha-
  Wie kann ich ein Abo außerordentlich kündigen?
 ----------
 
-Eine außerordentliche Kündigung ist nur in Ausnahmefällen möglich. Die möglichen Gründe sind in den jeweiligen Tarifbestimmungen des Abo-Produkts festgelegt. Ihre Begründung, den Kündigungszeitpunkt und den erforderlichen Nachweis können Sie nach dem Login über das Kontaktformular einreichen.
+Eine außerordentliche Kündigung ist nur in besonderen Ausnahmefällen möglich. Ein Widerruf oder eine Änderung des Startdatums ist beim Abo generell ausgeschlossen.
+
+Beim Deutschland-Ticket DTV und bei anderen Abo-Produkten der Verbünde kann eine außerordentliche Kündigung möglich sein, sofern die Tarifbestimmungen einen entsprechenden Kündigungsgrund vorsehen.
+
+Prüfen Sie bitte zunächst, ob für Ihren Fall ein zulässiger Kündigungsgrund vorliegt. Reichen Sie Ihre Anfrage anschließend nach dem Login über das Kontaktformular ein und geben Sie den Kündigungsgrund, den gewünschten Kündigungstermin sowie einen passenden Nachweis an.
 
 * [Zu den Tarifbestimmungen](https://www.bahn.de/agb)
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/kuendigung_ausserordentlich)
