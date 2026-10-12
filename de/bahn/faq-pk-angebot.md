@@ -5576,7 +5576,7 @@ Bitte kontaktieren Sie uns über das Kontaktformular auf [www.jobticket-bahn.de]
 
 [Jetzt buchen](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00002O202)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ferien-ticket-nrw)
 
@@ -20500,9 +20500,11 @@ Das Sachsen-Böhmen-Ticket wird nur noch bis zum Fahrplanwechsel am 13. Dezember
 * An den Verkaufsstellen der DB
 * Jeweils 14 Tage vor Ferienbeginn direkt hier online buchbar
 
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00002O202)
+
 [Alle Infos zum Ferienticket NRW](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
+[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00002O202)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
