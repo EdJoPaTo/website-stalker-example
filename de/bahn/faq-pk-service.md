@@ -1664,6 +1664,101 @@ Auf der folgenden Seite finden Sie die aktuellen Datenschutzhinweise zum DB Kund
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/datenschutz-kundenkonto)
 
+ Wie funktioniert die Bezahlung der von mir in der MSZ gebuchten Leistungen?
+----------
+
+Nach der Buchung in der MSZ erhalten Sie eine E-Mail mit einer Aufforderung zur Zahlung der zuvor am Telefon gebuchten Leistungen und dem Zahlungslink "Weiter zur Zahlung".
+
+**Bitte beachten Sie:** Die Zahlung muss **innerhalb von 3 Stunden nach der Buchung**, spätestens bis zu dem in der E-Mail mit der Aufforderung zur Zahlung angegebenen Zeitpunkt erfolgen. Sofern bis zu diesem Zeitpunkt kein vollständiger Zahlungseingang erfolgt, behalten wir uns vor vom Vertrag zurückzutreten und die Leistungen wieder zum Verkauf freizugeben.
+
+Nachdem Sie auf "Weiter zur Zahlung" geklickt haben, wird Ihnen als Kunde mit einem DB Kundenkonto auf bahn.de die Anmeldemaske von bahn.de angezeigt.
+
+Bitte melden Sie sich zunächst mit Ihren Zugangsdaten in Ihrem DB Kundenkonto an.
+
+Nach erfolgreicher Anmeldung wird Ihnen die Zahlenseite Ihres DB Kundenkontos angezeigt und Sie können das von Ihnen gewünschte Zahlungsmittel für die Bezahlung auswählen.
+
+**Bitte beachten Sie:** Gutscheine können nur von der MSZ bei der Buchung berücksichtigt werden. Die Einlösung eines Gutscheins über den Zahlungslink ist nicht möglich.
+
+Nach erfolgreicher Bestätigung der Bezahlung durch das Verkaufssystem erhalten Sie per E-Mail eine Buchungsbestätigung der gebuchten und bezahlten Leistungen.
+
+Anschließend können Sie den Auftrag mit den gebuchten Leistungen in Ihrem DB Kundenkonto auf bahn.de einsehen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-bezahlung-msz-leistungen)
+
+ Ich habe einen Gutschein. Kann ich diesen Gutschein bei der Bezahlung einlösen?
+----------
+
+Die Einlösung eines Gutscheins während der Bezahlung der gebuchten Leistungen über den Zahlungslink ist nicht möglich.
+
+Gutscheine können nur von der MSZ bei der Buchung berücksichtigt werden. Geben Sie daher möglichst frühzeitig während der Beratung an, dass Sie einen Gutschein haben und diesen gern einlösen möchten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-gutschein-bezahlung-msz)
+
+ In meiner E-Mail mit der Aufforderung zur Zahlung wird die gebuchte Fahrradreservierung mehrfach angezeigt. Woran liegt das?
+----------
+
+Das ist richtig. Wir arbeiten bereits daran, dass Ihnen zukünftig in unserer E-Mail an Sie nur die von Ihnen gebuchten Leistungen angezeigt werden. Das heißt, wenn Sie nur Fahrradreservierungen für einen Zug reserviert haben, wird ihnen das auch nur in einer Position "Fahrradreservierung" angezeigt.
+
+Haben Sie eine Reiseverbindung mit zwei Zügen, die für Sie reserviert wurden, dann werden zwei Positionen als "Fahrradreservierung" angezeigt.
+
+Aktuell zeigen wir Ihnen zusätzlich in einer weiteren Position "Fahrradreservierung" an, dass diese Reservierungen etwas gekostet haben. Diese Information wird zukünftig entfallen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-msz-anzeige-fahrradreservierungen-mehrfach)
+
+ In meiner E-Mail mit der Aufforderung zur Zahlung werden die gebuchten Sitzplatzreservierungen mehrfach angezeigt. Woran liegt das?
+----------
+
+Das ist richtig. Wir arbeiten bereits daran, dass Ihnen zukünftig in unserer E-Mail an Sie nur die von Ihnen gebuchten Leistungen angezeigt werden. Das heißt, wenn Sie nur Sitzplätze für einen Zug reserviert haben, wird ihnen das auch nur in einer Position "Sitzplatzreservierung" angezeigt.
+
+Haben Sie eine Reiseverbindung mit zwei Zügen, die für Sie reserviert wurden, dann werden zwei Positionen als "Sitzplatzreservierung" angezeigt.
+
+Aktuell zeigen wir Ihnen zusätzlich in einer weiteren Position "Sitzplatzreservierung" an, dass diese Reservierungen etwas gekostet haben. Diese Information wird zukünftig entfallen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-msz-anzeige-sitzplatzreservierungen-mehrfach)
+
+ Kann ich mich für eine Stornierung meines Tickets auch weiterhin an die MSZ wenden?
+----------
+
+Ja, eine Stornierung Ihres Tickets ist auch weiterhin über die MSZ möglich. Halten Sie hierfür bitte die Auftragsnummer Ihrer Buchung bereit.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-msz-stornierung)
+
+ Wie kann ich mein über die MSZ gebuchtes Ticket umtauschen oder stornieren?
+----------
+
+Auf Tickets, die die MSZ für Sie im neuen Verkaufssystem buchen konnte, können Sie nach der Bezahlung über den Zahlungslink direkt in Ihrem DB Kundenkonto auf bahn.de zugreifen.
+
+Für eine Stornierung gehen Sie bitte wie folgt vor:
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Gehen Sie über das Menü „Meine Reisen“ zu Ihren Aufträgen.
+3. Wählen Sie die entsprechende Reise aus.
+4. Klicken Sie auf "Stornieren" und anschließend auf "Stornierung durchführen".
+
+Nähere Informationen zum Thema Umtausch und Stornierung finden Sie über nachfolgenden Link [Wie kann ich mein Digitales Ticket umtauschen oder stornieren?](https://www.bahn.de/faq/wie-kann-ich-mein-ticket-umtauschen-oder-stornieren)
+
+Tickets, die die MSZ für Sie im alten Verkaufssystem buchen konnte, haben Sie zuvor über Lastschrift bezahlt. Bei einer Stornierung dieses Tickets wenden Sie sich bitte an die MSZ oder ein DB Reisezentrum.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-msz-ticket-umtauschen-stornieren)
+
+ Der Zugang zu meinem DB Kundenkonto ist gesperrt. Was kann ich tun?
+----------
+
+Antworten zu allen Fragen rund um das DB Kundenkonto finden Sie unter nachfolgendem Link [DB Kundenkonto - Fragen & Antworten](https://www.bahn.de/faq/pk/service/kundenkonto).
+
+Wenn Sie weitere Hilfe benötigen, dann nutzen Sie bitte folgenden Link: [www.bahn.de/hilfe#/](https://www.bahn.de/hilfe#/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-passwort-kundenkonto-gesperrt-msz)
+
+ Ich habe mein Passwort für mein DB Kundenkonto vergessen. Wie kann ich es zurücksetzen?
+----------
+
+Antworten zu allen Fragen rund um das DB Kundenkonto finden Sie unter nachfolgendem Link [DB Kundenkonto - Fragen & Antworten](https://www.bahn.de/faq/pk/service/kundenkonto).
+
+Wenn Sie weitere Hilfe benötigen, dann nutzen Sie bitte folgenden Link: [www.bahn.de/hilfe#/](https://www.bahn.de/hilfe#/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-kundenkonto-passwort-kundenkonto-zuruecksetzen-msz)
+
  Habe ich mit meiner (Super) Sparpreis-Fahrkarte 1. Klasse Zugang zur DB Lounge?
 ----------
 
@@ -1681,6 +1776,13 @@ Nein, mit einem (Super) Sparpreis Europa-Ticket haben Sie **keinen Zutritt zur D
 * [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/db-lounge-sparpreis-europa)
+
+ Ich habe ein DB Kundenkonto auf bahn.de. Kann ich dennoch Fahrkarten und Reservierungen über die MSZ buchen?
+----------
+
+Ja. Kunden, die bereits ein Kundenkonto auf bahn.de haben, können ebenfalls Buchungen über die Mobilitätsservice-Zentrale (MSZ) vornehmen lassen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dbkundenkonto-dennoch-buchung-ueber-msz)
 
  Der Komfort Check-in ist nicht verfügbar. Woran kann das liegen?
 ----------
@@ -3747,6 +3849,89 @@ Hinweis
 Beachten Sie bei der Nutzung einer separat gebuchten Reservierung, dass die Anzahl der Reisenden auf dem Ticket, die maximal eincheckbaren Personen bestimmt. Das bedeutet, wenn Sie z.B. ein Ticket für eine Person gebucht, aber nachträglich zwei Sitzplätze reserviert haben, kann nur ein Check-in durchgeführt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kci-nicht-zusammen-mit-reservierung-gekauft)
+
+ Wie funktioniert die Bezahlung der von mir in der MSZ gebuchten Leistungen?
+----------
+
+Nach der Buchung in der MSZ erhalten Sie eine E-Mail mit einer Aufforderung zur Zahlung der zuvor am Telefon gebuchten Leistungen und dem Zahlungslink "Weiter zur Zahlung".
+
+**Bitte beachten Sie:** Die Zahlung **muss innerhalb von 3 Stunden nach der Buchung**, spätestens bis zu dem in der E-Mail mit der Aufforderung zur Zahlung angegebenen Zeitpunkt erfolgen. Sofern bis zu diesem Zeitpunkt kein vollständiger Zahlungseingang erfolgt, behalten wir uns vor vom Vertrag zurückzutreten und die Leistungen wieder zum Verkauf freizugeben.
+
+Nachdem Sie auf "Weiter zur Zahlung" geklickt haben, werden Sie auf eine Zahlenseite verlinkt. Auf dieser Seite stehen Ihnen folgende Möglichkeiten zur Zahlung der von Ihnen gebuchten Leistungen zur Verfügung:
+
+* Kreditkarte
+* Paypal
+* Bonvoyo
+
+**Bitte beachten Sie:** Gutscheine können nur von der MSZ bei der Buchung berücksichtigt werden. Die Einlösung eines Gutscheins über den Zahlungslink ist nicht möglich.
+
+Nach erfolgreicher Bestätigung der Bezahlung durch das Verkaufssystem erhalten Sie per E-Mail eine Buchungsbestätigung der gebuchten und bezahlten Leistungen.
+
+Darüber hinaus haben Sie die Möglichkeit auf bahn.de in der Auftragssuche über den nachfolgenden Link [Meine Reisen](https://www.bahn.de/buchung/meine-reisen) Ihre Fahrkarten und Reservierung sowie Ihre Rechnung zum Auftrag herunterzuladen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kein-dbkundenkonto-bezahlung-buchung-leistungen-msz)
+
+ Muss ich ein DB Kundenkonto auf bahn.de haben, um Fahrkarten und Reservierungen über die MSZ buchen zu können?
+----------
+
+Nein. Für die Buchung von Fahrkarten und Reservierungen über die MSZ ist kein DB Kundenkonto auf bahn.de erforderlich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kein-dbkundenkonto-dennoch-buchung-ueber-msz)
+
+ In meiner E-Mail mit der Aufforderung zur Zahlung wird die gebuchte Fahrradreservierung mehrfach angezeigt. Woran liegt das?
+----------
+
+Das ist richtig. Wir arbeiten bereits daran, dass Ihnen zukünftig in unserer E-Mail an Sie nur die von Ihnen gebuchten Leistungen angezeigt werden. Das heißt, wenn Sie nur Fahrradreservierungen für einen Zug reserviert haben, wird ihnen das auch nur in einer Position "Fahrradreservierung" angezeigt.
+
+Haben Sie eine Reiseverbindung mit zwei Zügen, die für Sie reserviert wurden, dann werden zwei Positionen als "Fahrradreservierung" angezeigt.
+
+Aktuell zeigen wir Ihnen zusätzlich in einer weiteren Position "Fahrradreservierung" an, dass diese Reservierungen etwas gekostet haben. Diese Information wird zukünftig entfallen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kein-dbkundenkonto-fahrradreservierung-mehrfach-msz)
+
+ Ich habe einen Gutschein. Kann ich diesen Gutschein bei der Bezahlung im Verkaufsportal einlösen?
+----------
+
+Die Einlösung eines Gutscheins während der Bezahlung der gebuchten Leistungen über den Zahlungslink ist nicht möglich.
+
+Gutscheine können nur von der MSZ bei der Buchung berücksichtigt werden. Geben Sie daher möglichst frühzeitig während der Beratung an, dass Sie einen Gutschein haben und diesen gern einlösen möchten.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kein-dbkundenkonto-gutschein-bezahlung-buchung-leistungen-msz)
+
+ In meiner E-Mail mit der Aufforderung zur Zahlung werden die gebuchten Sitzplatzreservierungen mehrfach angezeigt. Woran liegt das?
+----------
+
+Das ist richtig. Wir arbeiten bereits daran, dass Ihnen zukünftig in unserer E-Mail an Sie nur die von Ihnen gebuchten Leistungen angezeigt werden. Das heißt, wenn Sie nur Sitzplätze für einen Zug reserviert haben, wird ihnen das auch nur in einer Position "Sitzplatzreservierung" angezeigt.
+
+Haben Sie eine Reiseverbindung mit zwei Zügen, die für Sie reserviert wurden, dann werden zwei Positionen als "Sitzplatzreservierung" angezeigt.
+
+Aktuell zeigen wir Ihnen zusätzlich in einer weiteren Position "Sitzplatzreservierung" an, dass diese Reservierungen etwas gekostet haben. Diese Information wird zukünftig entfallen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kein-dbkundenkonto-sitzplatzreservierung-mehrfach-msz)
+
+ Kann ich mich für eine Stornierung meines Tickets auch weiterhin an die MSZ wenden?
+----------
+
+Ja, eine Stornierung Ihres Tickets ist auch weiterhin über die MSZ möglich. Halten Sie hierfür bitte die Auftragsnummer Ihrer Buchung bereit.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kein-dbkundenkonto-stornierung-msz)
+
+ Wie kann ich mein über die MSZ gebuchtes Ticket umtauschen oder stornieren?
+----------
+
+Tickets, die die MSZ für Sie im neuen Verkaufssystem buchen konnte, können Sie auch ohne DB Kundenkonto auf bahn.de stornieren.
+
+Gehen Sie hierfür bitte wie folgt vor:
+
+1. Gehen Sie zu ["Meine Reisen"](https://www.bahn.de/buchung/meine-reisen) und geben Sie die Auftragsnummer Ihrer Buchung ein.
+2. Ihr Auftrag wird eingeblendet.
+3. Klicken Sie auf "Stornieren" und anschließend auf "Stornierung durchführen".
+
+Nähere Informationen zum Thema Umtausch und Stornierung finden Sie über nachfolgenden Link "[Wie kann ich mein Digitales Ticket umtauschen oder stornieren](https://www.bahn.de/faq/wie-kann-ich-mein-ticket-umtauschen-oder-stornieren)?"
+
+Tickets, die die MSZ für Sie im alten Verkaufssystem buchen konnte, haben Sie zuvor über Lastschrift bezahlt. Bei einer Stornierung dieses Tickets wenden Sie sich bitte an die MSZ oder ein DB Reisezentrum.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kein-dbkundenkonto-umtausch-stornierung-msz)
 
  In meinem Reiseplan gibt es Änderungen, aber ich habe keine Benachrichtigung zur Reise erhalten. Warum ist das so?
 ----------
@@ -6892,6 +7077,15 @@ Die Zugbegleiter:innen im Fernverkehr/ Kundenbetreuer:innen im Nahverkehr bestä
 Die Mitarbeiter:innen der DB Informationen und in den DB Reisezentren bestätigen eine Verspätung, wenn sie diese anhand vorliegender Daten überprüfen können. Die Bestätigung erfolgt durch das Anbringen eines Barcodes oder eines Stempelaufdrucks im vorgesehenen Feld des Formulars.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wer-darf-auf-dem-fahrgastrechte-formular-die-verspaetung-bestaetigen)
+
+ Wie kann ich Newsletter, Services oder Werbung bestellen oder abbestellen?
+----------
+
+Sie können sich von Newslettern, Services oder Werbung an- oder von ihnen abmelden. Weitere Informationen finden Sie auf bahn.de/hilfe.
+
+* [Zu bahn.de/hilfe](https://www.bahn.de/hilfe#/kundenkonto/newsletter-services)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/werbung)
 
  Wo kann ich den Punkteverfall einsehen und werde ich informiert, wenn meine Punkte bald verfallen?
 ----------

@@ -8222,6 +8222,15 @@ Können Sie sich nicht einloggen, zum Beispiel als Rechtsvertreterin oder -vertr
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kein-login)
 
+ Ich habe keine E-Mail-Adresse. Kann ich die digitale BahnCard trotzdem nutzen?
+----------
+
+Der Kauf einer BahnCard ist nur mit einem DB Kundenkonto auf bahn.de möglich. Für das Anlegen eines DB Kundenkontos ist die Angabe einer gültigen, persönlichen E-Mail-Adresse erforderlich. Diese benötigen wir zudem, um Ihnen die vertraglich notwendige Kommunikation zu übermitteln, zum Beispiel Informationen zur Nutzung Ihrer digitalen BahnCard oder die Buchungsbestätigung nach Kauf der BahnCard. Zu Werbezwecken werden die Daten ohne weitere Einwilligung nicht genutzt.
+
+[Weitere Informationen zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keine-email-adresse-digi-bc-trotzdem-nutzen)
+
  Ich erhalte die E-Mail zur Übertragung meines Abo-Handy-Tickets nicht. Was kann ich tun?
 ----------
 

@@ -239,10 +239,10 @@ Quick select
  \+€10
 
 * Choose color
-* Plastic - Black
 * Aluminum - Graphite
-* Plastic - Lavender
+* Plastic - Black
 * Aluminum - Silver
+* Plastic - Lavender
 * Plastic - Sage
 * Plastic - Bubblegum
 * Plastic - Gray
