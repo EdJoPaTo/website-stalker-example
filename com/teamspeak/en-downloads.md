@@ -6,35 +6,35 @@ Choose your platform and get started in minutes
 Windows
 ----------
 
-Client 64-Bit • 6.0.0-beta4.1
+Client 64-Bit • 6.0.0-beta5
 
  Download
 
 macOS
 ----------
 
-Client ARM • 6.0.0-beta4.1
+Client ARM • 6.0.0-beta5
 
  Download
 
 macOS (Apple Silicon)
 ----------
 
-Client ARM • 6.0.0-beta4.1
+Client ARM • 6.0.0-beta5
 
  Download
 
 macOS (Intel)
 ----------
 
-Client Intel • 6.0.0-beta4.1
+Client Intel • 6.0.0-beta5
 
  Download
 
 Linux
 ----------
 
-Client 64-Bit • 6.0.0-beta4.1
+Client 64-Bit • 6.0.0-beta5
 
  Download
 
@@ -46,25 +46,25 @@ Please choose your platform from the list
 
 Windows
 
-Client 64-Bit • 6.0.0-beta4.1
+Client 64-Bit • 6.0.0-beta5
 
  Download
 
 macOS
 
-Client ARM • 6.0.0-beta4.1
+Client ARM • 6.0.0-beta5
 
  Download
 
 macOS
 
-Client Intel • 6.0.0-beta4.1
+Client Intel • 6.0.0-beta5
 
  Download
 
 Linux
 
-Client 64-Bit • 6.0.0-beta4.1
+Client 64-Bit • 6.0.0-beta5
 
  Download
 

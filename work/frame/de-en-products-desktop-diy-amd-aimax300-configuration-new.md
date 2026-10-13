@@ -347,6 +347,6 @@ Quick select
 
  Add to Bag  Add pre-order to Bag
 
- Ships within 5 business days - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions. [Limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
+ Ships within 5 business days - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions. [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
 
- Cancel your pre-order any time before shipment for a full refund [Limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
+ Cancel your pre-order any time before shipment for a full refund [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders

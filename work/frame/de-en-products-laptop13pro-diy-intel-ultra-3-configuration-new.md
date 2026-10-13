@@ -312,6 +312,6 @@ A simple way to keep your laptop safe from bumps and scratches, with a padded ma
 
  Add to Bag  Add pre-order to Bag
 
- Ships within 5 business days [Limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
+ Ships within 5 business days [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
 
- Cancel your pre-order any time before shipment for a full refund [Limited warranty](/de/en/warranty)  Free shipping on laptop and desktop orders
+ Cancel your pre-order any time before shipment for a full refund [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
