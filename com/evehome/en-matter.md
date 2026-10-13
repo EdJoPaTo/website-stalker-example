@@ -8,12 +8,6 @@ Welcome, Matter!
 
 ==========
 
-.btn.hero-buy-trigger-c{
-appearance: none;
-border: 0;
-color: white;
-}
-
 ### The future of smart home has arrived. ###
 
 Matter is here – and the first Eve devices are ready to be used with the new standard for smart home devices!
