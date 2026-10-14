@@ -43,6 +43,20 @@ Profi-Arbeitskleidung vom Experten
 
 [](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
 
+ e.s. Adventskalender Edition 8
+
+ ab 47,48 €
+
+ (m. MwSt.)
+
+ ab 39,90 € (ohne MwSt.)
+
+[
+
+]()
+
+[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
+
  NEU
 ---
 
