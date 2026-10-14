@@ -3745,7 +3745,9 @@ Sind Ihnen durch einen Zugausfall oder eine Zugverspätung **Zusatzkosten** (z.B
  Kann ich mir im DB Navigator den Fahrtverlauf des Zuges auf einer Karte anzeigen lassen?
 ----------
 
-Sie können sich den Fahrtverlauf Ihres Zuges auf der Karte anzeigen lassen. Sie finden diesen in den Reisedetails bzw. Verbindungsdetails über das Kartensymbol oben rechts. Einen zweiten Einstieg , um den Fahrtverlauf auf der Karte einzusehen, finden Sie in den Reisedetails bzw. Verbindungsdetails nach Klick auf den Button "Fahrtinformationen": Klicken Sie unterhalb des Fahrtverlaufs auf den Button „Auf Karte anzeigen“.
+In den Verbindungsdetails im DB Navigator können Sie sich oben rechts den Fahrtverlauf der gesamten Verbindung inklusive aller Halte auf einer Karte anzeigen lassen.
+
+Möchten Sie den Fahrtverlauf eines einzelnen Verkehrsmittels auf der Karte sehen, klicken Sie in den Verbindungsdetails im gewünschten Reiseabschnitt auf den Button "Fahrtinformationen". Über das Kartensymbol oben rechts bzw. über den Button “Auf Karte anzeigen“ unterhalb des Fahrtverlaufs wird die gesamte Strecke des ausgewählten Verkehrsmittels auf der Karte dargestellt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-im-navigator-den-fahrtverlauf-des-zuges-auf-einer-karte-anzeigen-lassen)
 
@@ -8900,7 +8902,7 @@ Die DB Geschenkkarte ist im Handel in den Filialen folgender Märkte erhältlich
  Wo kann ich im DB Navigator Informationen zum Zug oder zum Fahrtverlauf finden?
 ----------
 
-Wählen Sie Ihre gewünschte Verbindung aus und klicken Sie in den Reisedetails bzw. Verbindungsdetails auf den Button "Fahrtinformationen". Dort sehen Sie den Fahrtverlauf und am Reisetag die aktuelle Wagenreihung.
+Wählen Sie die gewünschte Verbindung aus und klicken Sie in den Verbindungsdetails im DB Navigator beim gewünschten Reiseabschnitt auf den Button "Fahrtinformationen". Dort finden Sie Informationen zum Fahrtverlauf sowie zum Verkehrsmittel (z.B. zu den Verkehrstagen oder zur Ausstattung). Am Reisetag werden zusätzlich, sofern verfügbar, Echtzeit-Informationen und die aktuelle Wagenreihung angezeigt. Über den Button „Auf Karte anzeigen“ unterhalb des Fahrtverlaufs können Sie sich den gesamten Fahrtverlauf des Verkehrsmittels grafisch auf einer Karte anzeigen lassen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-im-navigator-informationen-zum-zug-oder-zum-fahrtverlauf-finden)
 
