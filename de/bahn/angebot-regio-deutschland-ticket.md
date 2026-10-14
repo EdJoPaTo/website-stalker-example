@@ -1,23 +1,23 @@
 Deutschland-Ticket
 ==========
 
-Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Stand: Oktober 2026.
+Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Zum 1. Januar 2027 ändern sich die Konditionen, der Preis erhöht sich auf 66,80 Euro. Stand: Oktober 2026.
 
 Deutschland-Ticket
 
-Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Stand: Oktober 2026.
+Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Zum 1. Januar 2027 ändern sich die Konditionen, der Preis erhöht sich auf 66,80 Euro. Stand: Oktober 2026.
 
 Ihre Vorteile
 ----------
 
-* **Deutschlandweit** **und unbegrenzt** in allen Verkehrsmitteln des öffentlichen Nahverkehrs gültig.
-* **Abonnement** wird automatisch verlängert.
-* **Monatlich kündbar** bis zum 10. jeden Monats - direkt im Handyticket oder Aboportal.
-* Gilt für **Kalendermonate** und ist bei rechtzeitiger Kündigung auch für **einen Monat** nutzbar.
+* **Deutschlandweit** **und unbegrenzt** in allen Verkehrsmitteln des öffentlichen Nahverkehrs gültig
+* **Abonnement** wird automatisch verlängert
+* **Monatlich kündbar** bis zum 10. jeden Monats – direkt im Handyticket oder im Aboportal
+* Gilt für **Kalendermonate** und ist bei rechtzeitiger Kündigung auch für **einen Monat** nutzbar
 * Teilnahme an **DB Benefits: Angebote, Rabatte und exklusive Aktionen** von über 50 Partnern
 * Monatlich **BahnBonus Prämien- und Statuspunkte** sammeln
 
- 63 Euro
+ 63 €, ab 1. Jan. 66,80 €
 
 [Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -28,21 +28,22 @@ Wenn Sie ein Deutschland-Ticket haben, sparen Sie auf ausgewählten ICE/IC-Strec
 Häufig gestellte Fragen
 ----------
 
-###  Ich will ein Fahrrad mit dem Deutschland-Ticket mitnehmen. Was muss ich beachten?  ###
+###  Ich habe ein Deutschlandsemesterticket. Muss ich etwas beachten?  ###
 
-Die Mitnahme eines Fahrrads ist im Preis des Deutschland-Tickets **nicht** enthalten. Für die Fahrradmitnahme gelten die Tarifbestimmungen des Deutschlandtarifs, der Landestarife, Verkehrsverbünde und Verkehrsunternehmen.
+Der Preis des Deutschlandsemestertickets wird durch die Preisbildung des Deutschland-Tickets beeinflusst. **Die Preismaßnahme des Deutschland-Tickets zum 1. Januar 2027 wirkt sich im Wintersemester 2026/2027 und im Sommersemester 2027 noch nicht auf Ihr Semesterticket aus.** Daher ist Ihre Zustimmung nicht erforderlich.
 
-* Prüfen Sie, ob auf Ihrer Strecke die Fahrradmitnahme kostenfrei möglich ist. Wenn ja, können Sie Ihr Fahrrad kostenfrei mitnehmen.
-* Wenn eine Fahrradkarte erforderlich ist, gilt dies auch für Fahrten mit dem Deutschland-Ticket.
-* Achten Sie auf regionale Sperrzeiten für die Fahrradmitnahme.
-* Nehmen Sie Rücksicht auf andere Fahrgäste.
-* Informieren Sie sich im Voraus über erwartetes hohes Fahrradaufkommen auf www.bahn.de und im DB Navigator.
+**Bitte beachten Sie**: Ab **1. Juni 2027** wird der neue Preis unter Berücksichtigung der geltenden Tarifbestimmungen wirksam und durch die Hochschulen / ASten im Rahmen der geltenden Regelungen umgesetzt. Das bedeutet, dass ein ganzes Semester mit Beginn ab dem 1. Juni 2027 zum neuen rabattierten Preis berechnet wird. Der sich daraus ergebende Semesterbeitrag wird im Vorfeld für das laufende Semester von den Hochschulen / ASten kommuniziert und erhoben.
 
-Weitere Informationen und Alternativen zur Fahrradmitnahme finden Sie unter
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandsemesterticket)
 
-* [bahn.de/fahrrad](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
+###  Was ändert sich zum 1. Januar 2027 beim Deutschland-Ticket?  ###
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-fahrrad)
+Ab 1. Januar 2027 kostet das Deutschland-Ticket 66,80 Euro pro Monat. Zudem führt die DB Regio AG für die in ihrem Namen verkauften Deutschland-Tickets **ergänzende Tarifbedingungen** ein. **Damit müssen Sie künftig nicht mehr den Preisänderungen zustimmen.**
+Wir werden Sie auch weiterhin bei Änderungen des Deutschland-Tickets informieren. Ihr reguläres Kündigungsrecht bleibt davon unberührt.
+
+* [Zu den ergänzenden Tarifbestimmungen](https://www.bahn.de/agb#bb)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-aenderungen)
 
 ###  Mein Deutschland-Ticket wird in der App DB Navigator nicht mehr angezeigt. Was kann ich tun?  ###
 
@@ -58,52 +59,11 @@ Ihre Abo-/Vertragsnummer finden Sie auch im Buchungstext auf Ihrem Kontoauszug o
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
 
-###  Wo kann ich das Deutschland-Ticket kaufen?  ###
+###  Wie viel kostet das Deutschland-Ticket ab 1. Januar 2027?  ###
 
-* **Online:** Auf bahn.de oder über die App DB Navigator
-* **Vor Ort:** In DB Reisezentren deutschlandweit
-* **Andere Anbieter:** Viele Verkehrsunternehmen bieten das Ticket auch in ihren Vertriebskanälen an.
+Das Deutschland-Ticket kostet bis zum 31. Dezember 2026 noch 63 Euro pro Monat. Ab **1. Januar 2027** kostet das Deutschland-Ticket **66,80 Euro pro Monat**.
 
-Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
-
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kaufen)
-
-###  Wie kann ich mein Deutschland-Ticket-Abo kündigen?  ###
-
-Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende kündigen.
-
-**Möglichkeiten zur Kündigung:**
-
-* Nutzen Sie unser Aboportal. Unter "Meine Abos" im Bereich "Alle Services anzeigen" auf "Kündigung" klicken
-* Nutzen Sie die Funktion "Abo kündigen" im DB Navigator unterhalb Ihres Handy-Tickets.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigen)
-
-###  Gilt das Deutschland-Ticket auch für Fahrten ins Ausland?  ###
-
-Das Deutschland-Ticket gilt in ganz Deutschland im Nahverkehr und auf einigen Strecken ins Ausland. Es umfasst Verbindungen, die auch mit dem Deutschlandtarif sowie teilweise mit Tickets deutscher Verkehrsverbünde und Landestarife befahren werden können.
-
-**Folgende Auslandsstrecken sind enthalten:**
-
-* Gemeinschaftsbahnhöfe: Salzburg, Kufstein, Schaffhausen (inklusive Zulaufstrecken)
-* Bestimmte Strecken nach Frankreich und in die Niederlande
-* DB Regio-Strecken im Außerfern (nur zwischen Deutschland und Österreich, nicht für Fahrten nur innerhalb Österreichs)
-* Weitere Beispiele: Fahrten nach Lauterbourg und Wissembourg in Frankreich (KVV)
-
-Welche Strecken genau gelten und ob es Besonderheiten innerhalb einzelner Verkehrsverbünde oder Landestarife gibt, regeln die jeweiligen Anbieter.
-
-Beachten Sie dazu die detaillierten Hinweise im Geltungsbereich des Schienenverkehrs.
-
-Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
-
-* [Tarifbedingungen für das Deutschland-Ticket im Deutschlandtarif (PDF, 2 MB)](https://assets.static-bahn.de/dam/jcr:227be160-8ce7-4e42-b243-0e9be259bf18/tarifbedingungen-deutschland-ticket-250625.2025-06-10-07-41-41.pdf)
-* [deutschlandtarifverbund/tarifbedingungen](https://www.deutschlandtarifverbund.de/tarifbedingungen/)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-ausland)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-neuer-preis)
 
 ###  In welchen Zügen gilt das Deutschland-Ticket?  ###
 
@@ -114,19 +74,43 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
-###  Kann ich ein Deutschland-Ticket für andere Person kaufen oder verschenken?  ###
+###  Was passiert, wenn ich der Preiserhöhung des Deutschland-Tickets nicht zustimme?  ###
 
-Ja.
+Sollten Sie der Preiserhöhung und den ergänzenden Tarifbedingungen nicht zustimmen oder sich nicht fristgerecht zum 30. November 2026 zurückmelden, müssen wir Ihr Deutschland-Ticket Abonnement mit Wirkung zum 31. Dezember 2026 leider kündigen.
+Sie müssen nichts weiter tun, Ihr Deutschland-Ticket Abonnement endet zum Ende des Jahres 2026 und es entstehen Ihnen keine weiteren Kosten. Bitte beachten Sie, dass Sie ab dem 1. Januar 2027 Ihr Deutschland- Ticket nicht mehr nutzen können.
 
-Sie können das Deutschland-Ticket in unseren Reisezentren für eine andere Person kaufen.
+Sollten Sie die Frist zum **30. November 2026** verpasst haben oder möchten Sie Ihr Abo doch fortsetzen, wählen Sie im Abo-Portal oder im DB Navigator den Menüpunkt "Abo reaktivieren" aus. **Diese Funktion ist nur bis zum eingetragenen Kündigungsdatum 31. Dezember 2026 aktiviert.** So lange hat Ihr Abo den Status "Kündigung eingeleitet".
+Wenn Sie das Abo reaktivieren, erneuern wir Ihr Deutschland-Ticket-Abo zu den neuen Konditionen, d.h. insbesondere zum neuen Preis und den ergänzenden Tarifbedingungen.
 
-Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf oder über den Direkteinstieg für andere Personen buchen:
+Haben Sie Ihr gekündigtes Abo fortgesetzt, hat ihr Abo den Status "aktiv". Bitte beachten Sie: Sollten Sie ab 1. Januar 2027 ohne gültige Fahrkarte fahren und kontrolliert werden, müssen Sie ein **erhöhtes Beförderungsentgelt in Höhe von mindestens 60 Euro** zahlen. Bitte stellen Sie sicher, dass Sie vor Reiseantritt eine gültige Fahrkarte haben.
 
-Geben Sie dazu im Bestellschritt "Reisende Person" die Daten der anderen Person ein. Ihre Daten aus dem bahn.de Kundenkonto werden als Vertragspartner übernommen und Sie bleiben für die Verwaltung (Zahlung, Kündigung etc) verantwortlich.
+**Sie haben das Deutschland-Ticket ab dem 15.Oktober 2026 bestellt?**
 
-Bitte beachten Sie, dass das Abonnement bis zur Kündigung weiterläuft.
+Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung und die ergänzenden Tarifbedingungen informiert. **Eine gesonderte Zustimmung ist daher nicht mehr erforderlich.** Ihr Abonnement läuft im Jahr 2027 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verschenken)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-vertragsaenderung-nicht-zustimmen)
+
+###  Warum muss ich einer Fortsetzung meines Deutschland-Ticket Abos aktiv zustimmen?  ###
+
+Die Deutsche Bahn informiert Sie transparent darüber, dass Bund und Länder den monatlichen Preis des Tickets auf **66,80 Euro** erhöht haben und dass wir ergänzende Tarifbedingungen einführen. Im Sinne des **Verbraucherschutzes** fragen wir Sie, ob Sie Ihr Deutschland-Ticket-Abonnement auch zu den neuen Konditionen mit uns als Partnerin fortsetzen möchten und holen Ihre aktive Zustimmung dazu ein.
+
+**Sie haben ab dem 15. Oktober 2026 bestellt?**
+
+Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung und die ergänzenden Tarifbedingungen informiert. **Eine gesonderte Zustimmung ist daher nicht mehr erforderlich.** Ihr Abonnement läuft im Jahr 2027 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-vertragsaenderung-warum)
+
+###  Wie kann ich vom Deutschland-Ticket in ein Verbund-Abo wechseln?  ###
+
+Sie finden Angebote für Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Verbindungssuche auf bahn.de.
+
+Sie können Ihr Deutschland-Ticket innerhalb der geltenden Kündigungsfristen selbst kündigen. Nutzen Sie dafür das Aboportal oder den DB Navigator.
+
+* [Zum Aboportal](https://abo.bahn.de/#/)
+* [Zu bahn.de/pendler](https://www.bahn.de/angebot/pendler)
+* [Verbindung suchen](https://www.bahn.de/buchung/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-wechsel)
 
 ###  Wo finde ich weitere Informationen zum Deutschland-Ticket?  ###
 
@@ -136,42 +120,21 @@ Weitere Fragen und Antworten zum Deutschland-Ticket finden Sie in unseren FAQ.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-weitere-faq)
 
-###  Kann ich das digitale Deutschland-Ticket Jobticket auf ein anderes Handy übertragen?  ###
+###  Warum bittet die Deutsche Bahn um Zustimmung, wenn Sie Ihr Deutschland-Ticket Abo fortsetzen möchte?  ###
 
-Ja. Sie können das Ticket auf ein anderes Handy übertragen.
+Die Deutsche Bahn informiert Sie transparent darüber, dass Bund und Länder den monatlichen Preis des Tickets auf **66,80 Euro** erhöht haben und dass wir ergänzende Tarifbedingungen einführen. Im Sinne des **Verbraucherschutzes** fragen wir Sie, ob Sie Ihr Deutschland-Ticket-Abonnement auch zu den neuen Konditionen mit uns als Partnerin fortsetzen möchten und holen Ihre aktive Zustimmung dazu ein. Zum Vorgehen anderer Unternehmen wenden Sie sich bitte an diese.
 
-So geht's:
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zustimmung-warum)
 
-* Löschen Sie das Ticket auf Ihrem alten Smartphone über die Funktion "Ticket entfernen".
-* Fügen Sie das Ticket mit Abonummer und Nachname im DB Navigator unter "Reisen" auf Ihrem neuen Smartphone hinzu.
+###  Wie kann ich der Vertragsänderung zum Deutschland-Ticket zustimmen?  ###
 
-Falls Sie das alte Smartphone nicht mehr haben:
+Als bestellende Person (Vertragspartner oder Vertragspartnerin) finden Sie im Aboportal beim jeweiligen Deutschland-Ticket die Funktion **"Vertragsänderung zustimmen"**. Mit einem Klick können Sie der Vertragsänderung zustimmen oder diese ablehnen.
 
-* Fügen Sie das Ticket auf dem neuen Smartphone im DB Navigator unter "Reisen" hinzu.
-* Bestätigen Sie die Meldung, dass das Ticket bereits auf einem anderen Gerät verknüpft ist, und klicken Sie auf "Ticket übertragen".
-* Bestätigen Sie den Link in der E-Mail, die an die hinterlegte E-Mail-Adresse gesendet wurde.
-* Laden Sie das Ticket auf dem neuen Smartphone.
+Bei einem Handy-Ticket steht die Funktion auch direkt beim Ticket zur Verfügung. Im DB Navigator finden Sie die Funktion "Vertragsänderung zustimmen" über den QR-Code oder im Menü unterhalb des Tickets.
 
-Bitte beachten Sie: Aus Sicherheitsgründen ist die Übertragung Ihres Handytickets auf andere Geräte innerhalb eines Monats nur begrenzt möglich.
+* [Was ändert sich zum 1. Januar 2027?](https://www.bahn.de/faq/dt-tarifaenderungen-uebersicht)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-handy-uebertragbar)
-
-###  Kann ich im DB Navigator und auf bahn.de auch für eine andere Person eine Fahrkarte buchen?  ###
-
-Ja. Sie können im DB Navigator und auf bahn.de Tickets für andere Personen buchen.
-
-**DB Navigator:**
-
-* Wählen Sie bei der Buchung im Schritt "Zahlung" bei "Reisende Person" die Option "Für eine andere Person buchen".
-* Geben Sie den Namen der reisenden Person an.
-
-**bahn.de:**
-
-* Wählen Sie bei der Buchung im Schritt "Kundendaten" bei "Für wen buchen Sie?" die Option "Für eine andere Person buchen".
-* Geben Sie den Namen der reisenden Person an.
-
-Das Ticket darf nur von der angegebenen Person genutzt werden. Ihre Zahlungsdaten bleiben unverändert. Das Ticket wird in der App gespeichert und zusätzlich an Ihre hinterlegte E-Mail-Adresse gesendet.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-ueber-den-db-navigator-fuer-eine-andere-person-buchen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vertragsaenderung-zustimmen)
 
 [Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)

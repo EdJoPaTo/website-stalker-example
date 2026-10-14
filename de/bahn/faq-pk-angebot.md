@@ -4918,17 +4918,22 @@ Der Einstieg ist bereits ab einem Ticket möglich. Für eine Einschätzung Ihres
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-jobticket-mindestabnahmemenge)
 
- Das Deutschland-Ticket Jobticket wird zum 1. Januar 2026 teurer - was muss ich jetzt tun?
+ Ich habe ein Deutschland-Ticket Jobticket. Muss ich etwas beachten?
 ----------
 
-Ihr neuer zu zahlender monatlicher Preis richtet sich nach den Vereinbarungen zum Zuschuss mit dem Arbeitgeber und beträgt monatlich maximal **59,85** Euro (abzüglich des individuellen Zuschusses).
+Wenn Sie Ihr Deutschland-Ticket Jobticket im Abonnement mit dem geänderten Preis und
+den ergänzenden Tarifbedingungen behalten oder kündigen möchten, benötigen wir
+grundsätzlich – wie beim normalen Deutschland-Ticket – Ihre Rückmeldung bis zum 30.
+November 2026.
 
-Bitte beachten Sie: Falls Ihr Arbeitgeber den monatlichen Abopreis für das Jobticket vollständig übernimmt, ist keine Zustimmung erforderlich. Das Abo wird fortgeführt, sofern das Unternehmen den Rahmenvertrag beibehält.
-
-Ansonsten lesen Sie hier, was Sie tun können, um das Angebot **2026** weiter zu nutzen.
-
-* [Zur FAQ weitere Nutzung des Deutschland-Tickets](https://www.bahn.de/faq/deutschlandticket-weiter-nutzen)
-* [Zum Aboportal](https://abo.bahn.de/)
+Ihr zu zahlender monatlicher Preis richtet sich nach den Vereinbarungen
+zum Zuschuss mit dem Arbeitgeber und beträgt **ab dem 1. Januar 2027** monatlich maximal
+**63,46 Euro** (abzüglich des individuellen Zuschusses). Sie können hier zustimmen.
+Ausnahme: Falls Ihr Arbeitgeber den monatlichen Abopreis für das Jobticket vollständig
+übernimmt, müssen Sie der Preiserhöhung nicht zustimmen. Das Abo wird fortgeführt,
+sofern das Unternehmen den Rahmenvertrag mit der Deutschen Bahn beibehält.
+**Sie haben ab dem 15. Oktober 2026 bestellt?**
+Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung und die ergänzenden Tarifbedingungen informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2027 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
@@ -4943,9 +4948,11 @@ Der Ausgabepreis des Deutschland-Ticket Jobtickets ist ab 1. Januar 2026 der Pre
 
 Der Abgabepreis des Deutschland-Ticket Jobtickets ergibt sich aus dem Ausgabepreis, der um den gegenwärtigen und gesetzlich beschlossenen Rabattsatz von 5 Prozent reduziert wird. Das sind ab 1. Januar 59,85 Euro.
 
+Ab dem **1. Januar 2027** beträgt der monatliche Preis für das Deutschland-Ticket **66,80 Euro**. Das Deutschland-Ticket Jobticket kostet dann **63,46 Euro pro Monat bzw. nach Abzug des Arbeitgeberzuschusses 46,76 Euro.**
+
 Dieser Rabatt wird nur dann gewährt, wenn der Arbeitgebende einen Mindestzuschuss von 25 Prozent auf den Ausgabepreis an die Mitarbeitenden gewährt.
 
-Das Deutschland-Ticket Jobticket kostet für Mitarbeitende unter den gegenwärtigen Rahmenbedingungen ab 1. Januar 2026 **maximal 44,10 Euro.**
+* [Das Deutschland-Ticket wird teurer – was muss ich jetzt tun?](https://www.bahn.de/faq/dt-jobticket-neuer-preis)
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
 
@@ -13450,7 +13457,7 @@ Die Rückzahlung des Reservierungsentgelts können Sie (formlos) im Servicecente
 
 Nur die bestellende Person darf der Vertragsänderung zustimmen.
 
-Wenn Sie die Antwortoption im Aboportal nicht sehen, ist das Abo mit der Berechtigung der reisenden Person verknüpft und nicht mit der der bestellenden Person.
+Wenn Sie die Funktion im Aboportal nicht sehen, ist das Abo mit der Berechtigung der reisenden Person verknüpft und nicht mit der der bestellenden Person.
 
 Das kann zum Beispiel passieren, wenn Sie für ein minderjähriges Kind ein Abo bestellt und beim Hinzufügen des Abos das Geburtsdatum des Kindes statt Ihr eigenes verwendet haben.
 
