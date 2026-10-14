@@ -52,7 +52,7 @@ System
   * 40 Graphics Cores, up to 2.9GHz
   * 64GB of non-upgradeable LPDDR5x
 
-   
+     Notify me
 
 * System, Max+ 395 - 128GB  €3,889
 

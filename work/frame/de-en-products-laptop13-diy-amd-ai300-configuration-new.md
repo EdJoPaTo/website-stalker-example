@@ -160,6 +160,7 @@ Bezel
 Keyboard
 
 * Keyboard, German (2nd Gen)
+
 * Keyboard, US English (2nd Gen)
 * Keyboard, International English (2nd Gen)
 * Keyboard, Blank ANSI (2nd Gen) +€11
@@ -181,6 +182,8 @@ Keyboard
 * Keyboard, Spanish (Spain) (2nd Gen)
 * Keyboard, Swedish/Finnish (2nd Gen)
 * Keyboard, Traditional Chinese (2nd Gen)
+
+ Show All Options  Show Fewer Options
 
 **Power Adapter**
 

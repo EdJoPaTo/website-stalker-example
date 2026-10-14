@@ -20954,6 +20954,21 @@ Das gilt für
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarte-verkehrsmittel)
 
+ Warum endet meine Persönliche Jahreskarte im Abo bereits vor Ablauf eines Jahres?
+----------
+
+Ihr Abo endet vorzeitig, denn DB Fernverkehr stellt das Angebot der Zeitkarten-Abonnements ein. Am **21. Oktober 2026** bestehende Abonnements werden zum **Juni 2027 gekündigt**. Bis zu diesem Zeitpunkt können Sie Ihr Abo zum Preisvorteil eines Jahresabonnements nutzen.
+
+Endet Ihr Abo **vor Ablauf von 12 Monaten**, erhalten Sie die nicht genutzte Restlaufzeit automatisch anteilig erstattet. Sie müssen hierfür nichts tun.
+
+Ab dem **21. Oktober 2026** stehen Ihnen weiterhin attraktive Alternativen ohne Abo zur Verfügung. Dazu gehört insbesondere die dauerhaft vergünstigte Persönliche Monatskarte.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abos-gekuendigt)
+
  Wann kann ich den Flexpreis Young kaufen?
 ----------
 

@@ -148,6 +148,7 @@ Operating System
 Keyboard
 
 * Keyboard, German - Gray (1st Gen)
+
 * Keyboard, US English - Gray - Backlit (2nd Gen) +€20
 * Keyboard, US English - Gray (1st Gen)
 * Keyboard, US English - Lavender (1st Gen)
@@ -169,6 +170,8 @@ Keyboard
 * Keyboard, Swedish/Finnish - Gray (1st Gen)
 * Keyboard, Swiss - Gray (2nd Gen)
 * Keyboard, Traditional Chinese (Cangjie & Zhuyin) - Gray (1st Gen)
+
+ Show All Options  Show Fewer Options
 
 **Power Adapter**
 

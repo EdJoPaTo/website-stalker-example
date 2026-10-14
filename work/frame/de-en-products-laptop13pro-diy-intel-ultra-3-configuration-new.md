@@ -151,6 +151,7 @@ Bezel
 Keyboard
 
 * Keyboard, German - Graphite
+
 * Keyboard, US English - Graphite
 * Keyboard, US English - Graphite - Gray/Black +€10
 * Keyboard, US English - Graphite - Lavender/Black +€10
@@ -176,6 +177,8 @@ Keyboard
 * Keyboard, Clear ISO - Graphite +€10
 * Keyboard, Blank ANSI - Graphite +€10
 * Keyboard, Clear ANSI - Graphite +€10
+
+ Show All Options  Show Fewer Options
 
 **Power Adapter**
 
