@@ -19995,9 +19995,9 @@ Das Stadt-Land-Meer-Ticket gilt auf folgenden Strecken:
 * **RE3, RE30, RB24**
   Berlin Lichterfelde Ost – Berlin Hbf – Eberswalde – Angermünde – Züssow –
   Greifswald – Stralsund Hbf
-* **RE5, RE51**
+* **RE5,** **RE50*****,*** **RE51**
   Berlin-Lichterfelde Ost – Berlin Südkreuz – Berlin Hbf – Oranienburg – Neustrelitz Hbf – Rostock Hbf / Stralsund Hbf
-* **RB12**
+* **RB12, RB32**
   Berlin Ostkreuz – Berlin-Lichtenberg – Oranienburg
 
 **Gilt nicht für die Produktklassen IC, EC, ICE**
@@ -20016,18 +20016,18 @@ Das Stadt-Land-Meer-Ticket gilt auf folgenden Strecken:
 * **RE3, RE30, RB24**
   Berlin Lichterfelde Ost – Berlin Hbf – Eberswalde – Angermünde – Züssow –
   Greifswald – Stralsund Hbf
-* **RE5, RE51**
+* **RE5,** **RE50*****,*** **RE51**
   Berlin-Lichterfelde Ost – Berlin Südkreuz – Berlin Hbf – Oranienburg – Neustrelitz Hbf – Rostock Hbf / Stralsund Hbf
-* **RB12**
+* **RB12, RB32**
   Berlin Ostkreuz – Berlin-Lichtenberg – Oranienburg
 
-**Gilt nicht für die Produktklassen IC, EC, ICE.**
+**Gilt nicht für die Produktklassen IC, EC, ICE**
 
 Das Stadt-Land-Meer-Ticket gilt nicht für Binnenverbindungen innerhalb von Mecklenburg-Vorpommern oder Berlin/Brandenburg. Die Tickets gelten also nicht für Fahrten innerhalb eines Bundeslandes.
 
 Das **Stadt-Land-Meer-Ticket Plus** gilt **zusätzlich** auf folgenden Strecken:
 
-* **RB11, RB12**
+* **RB11**
   Wismar – Rostock Hbf
 * **RE9**
   Rostock Hbf – Stralsund – Sassnitz/Ostseebad Binz
