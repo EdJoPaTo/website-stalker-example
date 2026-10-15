@@ -13457,7 +13457,7 @@ Die Rückzahlung des Reservierungsentgelts können Sie (formlos) im Servicecente
 
 Nur die bestellende Person darf der Vertragsänderung zustimmen.
 
-Wenn Sie die Funktion im Aboportal nicht sehen, ist das Abo mit der Berechtigung der reisenden Person verknüpft und nicht mit der der bestellenden Person.
+Wenn Sie die Antwortoption im Aboportal nicht sehen, ist das Abo mit der Berechtigung der reisenden Person verknüpft und nicht mit der der bestellenden Person.
 
 Das kann zum Beispiel passieren, wenn Sie für ein minderjähriges Kind ein Abo bestellt und beim Hinzufügen des Abos das Geburtsdatum des Kindes statt Ihr eigenes verwendet haben.
 
@@ -13466,7 +13466,7 @@ So erhalten Sie die Ansicht als bestellende Person:
 * Fügen Sie das Abo auf der Startseite des Aboportals über die Kachel "Abo hinzufügen" erneut hinzu.
 * Verwenden Sie dabei das Geburtsdatum und die PLZ der Person, die das Abo bestellt hat.
 
-* [Abo verwalten](https://abo.bahn.de/portal/#/)
+* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vertragsaenderung-anderer-reisender)
 
