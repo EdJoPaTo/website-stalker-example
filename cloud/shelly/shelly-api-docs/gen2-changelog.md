@@ -15,6 +15,52 @@ info
 
 Not all Shelly devices receive the same firmware updates. See [Firmware Update Policy](/gen2/General/FirmwareUpdatePolicy) for details.
 
+Unreleased
+----------
+
+**Available as `2.2.0-beta1`**
+
+### Added ###
+
+* [LoRa](/gen2/Addons/ShellyLoRaAddon): Add support for Australian RF Plan AU915
+* [LoRa](/gen2/Addons/ShellyLoRaAddon): Expose the payload length limit for the current LoRa configuration
+* [LoRa](/gen2/Addons/ShellyLoRaAddon): Introduce SheLR dynamic component
+* [LoRa](/gen2/Addons/ShellyLoRaAddon): Provide duration of safety stop
+* [Switch](/gen2/ComponentsAndServices/Switch): Add [Switch.SetAll](/gen2/ComponentsAndServices/Switch) & [Switch.SetMany](/gen2/ComponentsAndServices/Switch)
+* [Switch](/gen2/ComponentsAndServices/Switch): Introduce power restore delay
+* [Sys](/gen2/ComponentsAndServices/Sys): Introduce mDNS Network Discovery
+* [Sys](/gen2/ComponentsAndServices/Sys): Introduce user config backup & custom default config
+* [Virtual Components](/gen2/DynamicComponents/Virtual/): Allow group's member components declaration in `@meta` block
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Add `profile_id` parameter to Zigbee RPC commands
+
+### Changed ###
+
+* [BTHome](/gen2/DynamicComponents/BTHome/): Optimize implementation
+* dns-sd: Performance optimizations
+* nanoMODBUS: Update to v1.23.0
+* [Scripts](/gen2/ComponentsAndServices/Script): Give scripts their own var pool
+* shelly-os: Bump IDF to 5.5.4-s2
+* shelly-os: Invoke event handlers in registration order
+* [Sys](/gen2/ComponentsAndServices/Sys): Perform repartitioning on space-constrained devices
+* [Virtual Components](/gen2/DynamicComponents/Virtual/): Expose ownership metadata as attributes
+
+### Fixed ###
+
+* dns-sd: Fix probe feedback loop with repeaters
+* Dynamic Components Registry: Don't reject record-only adds as duplicates
+* [HTTP](/gen2/ComponentsAndServices/HTTP): Fix timeouts on incoming connection
+* [Light](/gen2/ComponentsAndServices/Light), [RGBW](/gen2/ComponentsAndServices/RGBW): Stop indexing past the MQTT token vector
+* [Matter](/gen2/ComponentsAndServices/Matter): Fix `IdentifiableComponent` id to channel conversions
+* [Pro CB](/gen2/Devices/Gen2/ShellyProCB): Fix crashes due to incorrect IRAM pins
+* [RGBW](/gen2/ComponentsAndServices/RGBW)/[RGB](/gen2/ComponentsAndServices/RGB)/[CCT](/gen2/ComponentsAndServices/CCT)/RGBCCT: Fix validation for required params
+* [Scripts](/gen2/ComponentsAndServices/Script): Fix ignored lowercase variants of BLE.Scanner methods
+* [Scripts](/gen2/ComponentsAndServices/Script): Fix use-after-free when an RPC handler answers after its deadline
+* shelly-os: Fix data race in `shos_queue_len`
+* shelly-os: Replace the inverted-lock handshake in `shos_timers` with a `shos_cond`-based cross-thread cancellation
+* [Virtual Components](/gen2/DynamicComponents/Virtual/): Enforce device-wide components budget
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Validate the stored scenes blob and handle allocation failure
+* [Zigbee](/gen2/ComponentsAndServices/Zigbee): Wait for the Zigbee task to exit in `zigbee::Stop`
+
 [2.1.0] 2026-10-14
 ----------
 
@@ -170,6 +216,7 @@ Firmware version `2.0.0` is being rolled out in phases, not all devices will rec
 * Update vfs-fs-lfs to 2.11.2
 * [WiFi](/gen2/ComponentsAndServices/WiFi): Reduce minimum active time in PS modes (improves average consumption in busy networks)
 * lwip: Use `shelly.name` as device's hostname, if set, fall back to `device.id` if not
+* [Virtual Components](/gen2/DynamicComponents/Virtual/): `owner` and `access` moved from `<Type>.GetConfig` to `attrs` in [`Shelly.GetComponents`](/gen2/ComponentsAndServices/Shelly#shellygetcomponents)
 
 ### Fixed ###
 
@@ -1902,4 +1949,4 @@ This version was only released for the ProEM device.
 
 * First public version released
 
-[Previous Shelly WiFi Setup Cluster](/gen2/Integrations/Zigbee/WiFiSetupCluster)
+[Previous Zigbee Through-RPC](/gen2/Integrations/Zigbee/ZigbeeRPC)
