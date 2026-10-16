@@ -391,7 +391,7 @@ zu den Produkten
  mehr bestellen, mehr sparen
 ---
 
- umkompliziert gestalten & bestellen
+ unkompliziert gestalten & bestellen
 ---
 
  über 500 verfügbare Motive & Motivupload
@@ -400,7 +400,7 @@ zu den Produkten
  mehr bestellen, mehr sparen
 ---
 
- umkompliziert gestalten & bestellen
+ unkompliziert gestalten & bestellen
 ---
 
  über 500 verfügbare Motive & Motivupload
@@ -574,7 +574,6 @@ zzgl. Versandkosten
 
   * [Kontakt](https://www.strauss.com/de/de/Informationen/Kontakt)
   * [Häufige Fragen](https://www.strauss.com/de/de/Helpcenter-Redirect)
-  * [Vertrag widerrufen](https://eu.strauss.com/de-de)
   * [Lexikon](https://www.strauss.com/de/de/Informationen/Lexikon/A)
   * [Barrierefreiheitserklärung](https://www.strauss.com/de/de/Informationen/Barrierefreiheit)
   * [Kundenbewertungen](https://www.strauss.com/de/de/Bewertungen)
@@ -589,6 +588,8 @@ zzgl. Versandkosten
   * [Bankeinzug](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Vorauskasse](https://www.strauss.com/de/de/Service/Bezahlen)
   * [Rechnung](https://www.strauss.com/de/de/Service/Bezahlen)
+
+[Vertrag widerrufen](https://eu.strauss.com/de-de)
 
 **Strauss Deutschland**
 

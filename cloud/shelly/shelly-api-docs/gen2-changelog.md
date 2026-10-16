@@ -61,6 +61,43 @@ Unreleased
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Validate the stored scenes blob and handle allocation failure
 * [Zigbee](/gen2/ComponentsAndServices/Zigbee): Wait for the Zigbee task to exit in `zigbee::Stop`
 
+### Local web ###
+
+#### Added ####
+
+* Discovery page
+* Control discovered devices with webhooks
+* [Webhook](/gen2/ComponentsAndServices/Webhook) builder for remote devices
+* Light and auto theme modes
+* Accent color support per browser
+* Color wheel mode and manual mode for RGB controls
+* API docs link in footer
+* [Scripts](/gen2/ComponentsAndServices/Script): library search bar
+* [Light](/gen2/ComponentsAndServices/Light): appliance type setting
+* [Modbus](/gen2/ComponentsAndServices/Modbus): controller option to convert address from hex to decimal
+* [LoRa](/gen2/Addons/ShellyLoRaAddon): clear button for config key; warning on home page and in scripts when `lora.send` is used
+* [Webhook](/gen2/ComponentsAndServices/Webhook): notification for manual URL check using tokens
+* [EM](/gen2/ComponentsAndServices/EM): neutral current in totals and in the triphase profile
+* Description of allowed values for transition duration
+
+#### Changed ####
+
+* New card styles; settings use the base card; cover card restyled to match
+* New EM card design
+* Schedule time select refactored
+* [Scripts](/gen2/ComponentsAndServices/Script) load lazily
+* RGB custom presets improvements
+
+#### Fixed ####
+
+* Calibration: clear interrupted flag when calibration is still in progress
+* Range map settings calibrate flow
+* BluTRV: max value for `min_valve_position`
+* LED indication type error (ADDITIONAL\_PRESETS format)
+* Provision banner: missing AP error, button link to non-existent AP in [Zigbee](/gen2/ComponentsAndServices/Zigbee)
+* Color wheel overlay; card collapsible symmetry; sticky class overlap for wizard/modal
+* [Plus Uni](/gen2/Devices/Gen2/ShellyPlusUni): peripherals restored
+
 [2.1.0] 2026-10-14
 ----------
 
