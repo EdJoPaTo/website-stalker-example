@@ -7,12 +7,6 @@ Profitiere von garantierten Ressourcen auf leistungsstarker Hardware, mit Root Z
 
 [Jetzt entdecken\>](https://www.netcup.com/de/server/root-server)
 
-Stimme für netcup als Webhoster des Jahres
-
-Vote für uns in den Kategorien vServer, Domains & Webhosting und gewinne tolle Preise.
-
-[Jetzt abstimmen\>](https://anx.io/F1uQb)
-
 Root-Server
 
 Dedizierte CPU-Power mit AMD EPYC™ Prozessoren
