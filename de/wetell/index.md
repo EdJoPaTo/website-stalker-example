@@ -41,7 +41,7 @@ Menü [](https://www.wetell.de/)
   * [Mobilfunk neu denken](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/)
     * [Aktiv fürs Klima](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima)
     * [Fairness für alle](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#fairness_fuer_alle)
-    * [Service per Du](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
+    * [Service auf Augenhöhe](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service)
 
   * [Transparente Finanzen](https://www.wetell.de/warum-wetell/einbilck-unternehmenszahlen-preistransparenz/)
 
@@ -70,8 +70,7 @@ Menü [](https://www.wetell.de/)
 * Fürs Business
 
   Fürs Business
-  * [Fürs Business](https://www.wetell.de/fuers-business/)
-  * [Businesstarife](https://www.wetell.de/fuers-business/businesstarife/)
+  * [Fürs Business](https://www.wetell.de/fuers-business/businesstarife/)
   * [SmartTech](https://www.wetell.de/fuers-business/businesstarife/smarttech/)
   * [Optionen](https://www.wetell.de/fuers-business/businesstarife/optionen/)
     * [FAIRstärker](https://www.wetell.de/fuers-business/businesstarife/optionen/fairstarker/)
