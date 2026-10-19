@@ -266,7 +266,7 @@
 * [Eisenbahnmodellhaus](https://www.wdrmaus.de/filme/sachgeschichten/eisenbahnmodellhaus.php5)
 * [Eisenbahntunnel](https://www.wdrmaus.de/filme/sachgeschichten/eisenbahntunnel.php5)
 * [Eisengewinnung](https://www.wdrmaus.de/filme/sachgeschichten/eisengewinnung.php5)
-* [Eiskugelexplosion](https://www.wdrmaus.de/filme/sachgeschichten/eiskugelexplosion.php5)
+* [Eisenkugelexplosion](https://www.wdrmaus.de/filme/sachgeschichten/eiskugelexplosion.php5)
 * [Eisrettung](https://www.wdrmaus.de/filme/sachgeschichten/eisrettung.php5)
 * [Eisstadion](https://www.wdrmaus.de/filme/sachgeschichten/eisstadion.php5)
 * [Eisstadion Zeitraffer](https://www.wdrmaus.de/filme/sachgeschichten/eisstadion_zeitraffer.php5)

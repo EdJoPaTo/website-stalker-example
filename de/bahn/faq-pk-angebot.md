@@ -1319,9 +1319,9 @@ Sie können die Dokumente, zum Beispiel von Ihrem Rechtsanwalt oder Ihrer Rechts
  Genügt eine Anzahlung bei der Buchung für den Sparpreis Europa Gruppe?
 ----------
 
-Bei Buchung im DB Reisezentrum oder einer DB Agentur ist eine Anzahlung möglich. Die Anzahlung beträgt 6 Euro pro Teilnehmer. Die Restzahlung ist spätestens 14 Tage vor Reiseantritt fällig.
+Bei Buchung bei [bahn.de](http://bahn.de/), im DB Reisezentrum oder in einer DB Agentur:
 
-Bei Online-Buchung zahlen Sie den Gesamtpreis sofort.
+Ja. Die Anzahlung beträgt 6 Euro pro Person und Richtung. Die Restzahlung ist spätestens 30 Tage vor Reiseantritt fällig.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzahlung-sparpreis-europa-gruppe)
 
@@ -3142,10 +3142,9 @@ Im DB Navigator können Sie ausschließlich Fahrräder und Scooter buchen, die m
 
 Hier können Sie Ihre Gruppenreise buchen:
 
-* **online**
+* **online** [**bahn.de**](http://bahn.de/)
 * App **DB Navigator** (bis zu max. 99 Personen)
 * **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
 
 Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
@@ -11362,8 +11361,7 @@ Nein, das Ticket ist zweckgebunden und darf nicht für andere Reisen genutzt wer
  Kann ich einzelne Reisende beim Sparpreis Europa Gruppe stornieren?
 ----------
 
-* **Bei online gebuchten Tickets** ist eine Stornierung einzelner Teilnehmer nicht möglich.
-* **Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch** ist eine Stornierung einzelner Teilnehmer möglich. Bis 14 Tage vor Reisetag ist eine Reduktion einzelner Teilnehmer unentgeltlich. Ab 13 Tage bis einen Tag vor dem 1. Geltungstag fallen 5 Euro pro zu stornierender Person je Fahrkarte an. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen.
+Ja, Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-sparpreis-europa-gruppe)
 
@@ -12357,13 +12355,13 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ti
  Kann ich mein Sparpreis Europa Gruppe-Ticket ändern, umbuchen oder stornieren?
 ----------
 
-* **Bei online gebuchten Sparpreis Europa Gruppe-Tickets** ist eine Stornierung der gesamten Fahrt bis 7 Tage vor Reiseantritt für 19 EUR je Gruppenticket möglich.
+Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder eine Teilnehmerreduktion vornehmen.
 
-* **Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch** ist eine Stornierung oder Umbuchung der gesamten Fahrt bis 14 Tage vor Reisetag antritt unentgeltlich möglich. Danach ist ein Umtausch ausgeschlossen. Die Erstattung der gesamten Gruppenreise ist gegen ein Entgelt von 5 EUR je stornierender Person bis einen Tag vor Abfahrt möglich.
+Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten lassen.
 
 **Sofortstornierung**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -14125,11 +14123,7 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
  Wie lange im Voraus kann ich den Sparpreis Europa Gruppe kaufen?
 ----------
 
-Tickets können online bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien**, **Luxemburg, Niederlande und Schweiz bis zu 12 Monate** im Voraus).
-
-Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu 12 Monate im Voraus und bis kurz vor Abfahrt buchen.
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+Sie können das Sparpreis Europa Gruppe-Ticket bis zu 12 Monate im Voraus buchen.
 
 [Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
@@ -17672,6 +17666,8 @@ Das Kleinkindabteil sowie den Familienbereich können Sie über die grafische Si
 
 Sie können den Namen des Hauptreisenden einer ICE oder IC/EC Gruppenfahrkarte ändern. Dazu erwerben Sie einen Beleg „Umpersonalisierung“ für 15 Euro je Richtung. Kann der Hauptreisende weder auf der Hin- noch auf der Rückfahrt an der Gruppenreise teilnehmen, ist je Richtung (Hinfahrt und Rückfahrt) eine Umpersonalisierung zu erwerben.
 
+Wichtig: Bei einer Namensänderung darf der Kauf **nicht** über das ursprünglich verwendete Kundenkonto erfolgen, da sonst erneut der bisherige Name auf der Fahrkarte erscheint. Alternativ sollte der Kauf über das Konto des neuen Hautpreisenden oder anonym erfolgen.
+
 Bei der Reise ist dann neben der ICE oder IC/EC-Gruppenfahrkarte der Beleg „Umpersonalisierung“ im Zug vorzulegen.
 
 Dieses Angebot gilt nicht für Gruppenfahrkarten des Nahverkehrs.
@@ -21103,6 +21099,177 @@ Das gilt für
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarte-verkehrsmittel)
 
+ Welche Alternativen habe ich anstelle einer DB Monats-/Jahreskarte im Abo?
+----------
+
+Nutzen Sie
+
+* die dauerhaft um 25 reduzierte **Monatskarte ohne Abo**
+* oder ein **Mehrfahrtenticket** (10-/20-Fahrten)
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-alternativen)
+
+ \* Muss ich bei einer früheren Beendigung meines DB Zeitkarten-Abos eine Differenzzahlung leisten?
+----------
+
+Nein. Für die Beendigung aufgrund der Maßnahme\* beziehungsweise im Rahmen des eingeräumten Sonderkündigungsrechts wird keine Differenzzahlung erhoben.
+
+***\* wegen der Umstellung der Zeitkarten künftig ohne Abo??? Versteht man nicht, bitte einfacher erklären***
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-differenzzahlung)
+
+ Kann ich mein DB Monats-/Jahreskarte früher beenden?
+----------
+
+Ja. Mit dem Kündigungsschreiben wird ein Sonderkündigungsrecht eingeräumt. Wer das Abo früher beenden möchte, wendet sich an das Abo-Center, damit das bereits hinterlegte Kündigungsdatum angepasst werden kann. Eine eigenständige Kündigung im Aboportal ist nicht möglich. Die Kündigung können Sie jederzeit auf bahn.de/vertrag-kuendigen vornehmen.
+
+* [Zur Übersicht: Vertrag kündigen](https://www.bahn.de/kontakt/kuendigen)
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-frueher-kuendigen)
+
+ An wen kann ich mich wenden, wenn ich mein Abo einer DB Monats-/Jahreskarte vorzeitig kündigen möchte?
+----------
+
+Die Kündigung können Sie jederzeit auf bahn.de/vertrag-kuendigen vornehmen.
+
+* [Zur Übersicht: Vertrag kündigen](https://www.bahn.de/kontakt/kuendigen)
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-kuendigen-kontakt)
+
+ Gilt die Mindestlaufzeit von 3 Monaten bei DB Monats-/Jahreskarten weiterhin?
+----------
+
+Nein, eine Mindestlaufzeit gilt nicht mehr. Mit Erhalt der Kündigung können Sie das eingeräumte Sonderkündigungsrecht nutzen.
+
+* [Zur Übersicht: Vertrag kündigen](https://www.bahn.de/kontakt/kuendigen)
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-kuendigungsfrist)
+
+ Ich habe mein DB Jahresabo im Voraus bezahlt. Was passiert mit dem Restbetrag?
+----------
+
+Bei Einmalzahlung für das DB Jahresabo erhalten Sie nach Beendigung des Abos eine anteilige Rückerstattung für den nicht mehr genutzten Zeitraum.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-restbetrag)
+
+ Erfolgt bei monatlicher Abbuchung meines bisherigen DB Zeitkarten-Abos eine Rückerstattung?
+----------
+
+Das wird in der Regel nicht nötig sein: Die reguläre Kündigung soll zum individuellen Monatsende erfolgen, so dass grundsätzlich keine Rückerstattung erforderlich ist.
+
+Haben Sie auf eigenen Wunsch gekündigt, wird die konkrete Abrechnung durch das Abo-Center vorgenommen.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-rueckerstattung-bei-abbuchung)
+
+ \* Fall bei meinem DB Zeitkarten-Abos doch Rückerstattung anfällt, wie erhalte ich sie?
+----------
+
+Die Rückerstattung wird nach Beendigung des Abos verarbeitet. Die individuellen Informationen erhalten Sie mit der Kundenkommunikation??\* beziehungsweise über das Abo-Center.
+
+***\*heißt das, per E-Mail oder per Brief?***
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-rueckerstattung-wie)
+
+ Muss ich mein Abo einer DB Monats-/Jahreskarte selbst kündigen?
+----------
+
+Nein. Die reguläre Kündigung wird durch das Abo-Center veranlasst. Sie müssen nichts tun.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-selbst-kuendigen)
+
+ Wird mein bestehendes Abo einer DB Monats-/Jahreskarte sofort beendet?
+----------
+
+Nein. Bestehende Abos werden nicht mit dem Verkaufsende am 21. Oktober 2026 sofort ungültig. Die Kündigung erfolgt durch das Abo-Center zum individuellen Vertragsende im Juni 2027.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-sofort-beendet)
+
+ Wann endet mein Abo einer DB Monats-/Jahreskarte?
+----------
+
+Das genaue Vertragsende ist individuell und wird den betroffenen Kundinnen und Kunden im Kündigungsschreiben mitgeteilt. Die betroffenen Abos laufen zu ihrem jeweiligen individuellen Termin im Juni 2027 aus, sofern sie nicht auf Ihren Wunsch früher beendet werden.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-wann-endet)
+
+ Wo finde ich weitere Fragen und Antworten zu Persönlicher Monatskarte und Persönlicher Jahreskarte?
+----------
+
+Weitere Fragen und Antworten finden Sie unter
+
+* [Fragen und Antworten zu DB Zeitkarten mit Abo](https://www.bahn.de/faq/pk/angebot/pendler/zeitkarten-mit-abo)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abos-alle-faq)
+
+ Warum endet meine Persönliche Jahreskarte im Abo bereits vor Ablauf eines Jahres?
+----------
+
+Ihr Abo endet vorzeitig, denn DB Fernverkehr stellt das Angebot der Zeitkarten-Abonnements ein. Am **21. Oktober 2026** bestehende Abonnements werden zum **Juni 2027 gekündigt**. Bis zu diesem Zeitpunkt können Sie Ihr Abo zum Preisvorteil eines Jahresabonnements nutzen.
+
+Endet Ihr Abo **vor Ablauf von 12 Monaten**, erhalten Sie die nicht genutzte Restlaufzeit automatisch anteilig erstattet. Sie müssen hierfür nichts tun.
+
+Ab dem **21. Oktober 2026** stehen Ihnen weiterhin attraktive Alternativen ohne Abo zur Verfügung. Dazu gehört insbesondere die dauerhaft vergünstigte Persönliche Monatskarte.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abos-eingestellt)
+
+ Warum gibt es bei der DB keine Zeitkarten-Abos, also Persönliche Monatskarte und Persönliche Jahreskarte mehr?
+----------
+
+Mit der Umstellung wird das Zeitkartenangebot vereinfacht und flexibler gestaltet. Der bisherige Preisvorteil wird künftig über die um 25 Prozent vergünstigte Monatskarte beziehungsweise Schülermonatskarte abgebildet. Davon profitieren Sie auch, wenn Sie bislang kein Abo genutzt haben.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abos-eingestellt-warum)
+
  Warum endet meine Persönliche Jahreskarte im Abo bereits vor Ablauf eines Jahres?
 ----------
 
@@ -21117,6 +21284,99 @@ Ab dem **21. Oktober 2026** stehen Ihnen weiterhin attraktive Alternativen ohne 
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abos-gekuendigt)
+
+ Bleibt die Regelung zur Gültigkeit bei DB Zeitkarten bis 12 Uhr des folgenden Werktages bestehen?
+----------
+
+Ja. Die bestehende Regelung zur Gültigkeit über den letzten Geltungstag hinaus bis 12 Uhr des folgenden Werktages bleibt bestehen.
+
+Das gilt für:
+
+* Jahreskarte im Abo
+* Monatskarte im Abo
+* Monatskarte
+* Wochenkarte
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-gueltigkeit)
+
+ Ist das Deutschland-Ticket bei meiner DB Monats-/Jahreskarte im Abo inklusive?
+----------
+
+Nein, das Deutschland-Ticket ist bei DB Abos nicht inklusive.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-im-deutschlandticket)
+
+ In welchen Zügen gelten die Persönliche Monatskarte und die Persönliche Jahreskarte der DB?
+----------
+
+Ihre persönlichen Jahres- und Monatskarten im Abo sind in **allen Fern- und Nahverkehrszügen** gültig.
+
+Das gilt für
+
+* Persönliche Monatskarte im Abo
+* Persönliche Jahreskarte im Abo
+* Persönliche Monatskarte
+* Persönliche Wochenkarte
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-in-welchen-zuegen)
+
+ Muss ich meine DB Monatskarte oder Schülermonatskarte jeden Monat neu kaufen?
+----------
+
+Ja. Nach dem Ende des Abos erfolgt **keine automatische Verlängerung**. Sie kaufen Ihre Monatskarte oder Schülermonatskarte jeweils bei Bedarf selbst und entscheiden somit, für welche Zeiträume Sie eine Zeitkarte benötigen. Dadurch fallen beispielsweise während Urlaubszeiten oder längeren Abwesenheiten keine laufenden Kosten für eine Monatskarte an.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-jeden-monat-neu-kaufen)
+
+ Kann ich weiterhin mit meiner DB Monatskarte andere Personen mitnehmen?
+----------
+
+Ja. Mit einer Monatskarte können Sie samstags eine weitere Person sowie bis zu 3 Kinder unentgeltlich mitnehmen.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-personmitnahme)
+
+ Welche Alternativen zur DB Monats-/Jahreskarte im Abo sind günstiger geworden?
+----------
+
+Die reguläre **Monatskarte** und die **Schülermonatskarte** werden ab dem 21. Oktober 2026 dauerhaft um 25 Prozent günstiger angeboten.
+
+Die Preise der Wochenkarten, Schülerwochenkarten und Mehrfahrten-Tickets bleiben unverändert.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-preise-guenstiger)
+
+ Kann ich mit meiner DB Monatskarte meine bisherige Strecke weiterhin nutzen?
+----------
+
+Ja. Die Zeitkarten für die jeweilige Strecke bleiben verfügbar. Es entfällt lediglich die betreffende Abo-Variante.
+
+[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-welche-strecke)
 
  Wann kann ich den Flexpreis Young kaufen?
 ----------
@@ -21568,7 +21828,7 @@ Einige Sharing-Anbieter erheben in speziellen Zonen (z. B. Innenstadt oder vom S
 
 * [Informationen zur Buchung](https://www.bahn.de/angebot/weiterreise/sharing-dienste)
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zusaetzliche-kosten-bedtimmte-parkzonen)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zusaetzliche-kosten-bestimmte-parkzonen)
 
  Wie setzt sich der Preis eines Fahrrads oder Scooters in der App DB Navigator zusammen?
 ----------

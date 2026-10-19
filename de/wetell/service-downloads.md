@@ -112,3 +112,12 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 * #### GWÖ-Bericht ####
 
   * [GWÖ - Bilanz](/media/filer_public/e2/60/e2600d91-33bc-4c6a-8a76-1691f75d12a8/wetell_gwo-bilanz_2025.pdf)
+
+* #### Glasfaser Freiburg ####
+
+  * [Preisliste Glasfaser](/media/filer_public/8b/88/8b88b34a-aa35-43c8-b329-6f79a5857a90/preisliste_glasfaser_2026-10.pdf)
+  * [Produktinformationsblatt Glasfaser 150](/media/filer_public/d1/49/d149d62c-caf7-44ea-8994-7fecfa2add4b/pib_glasfaser_150_bf_2026-10.pdf)
+  * [Produktinformationsblatt Glasfaser 300](/media/filer_public/34/d6/34d62ed5-608c-4dda-b4c5-518312fe1f96/pib_glasfaser_300_bf_2026-10.pdf)
+  * [Produktinformationsblatt Glasfaser 600](/media/filer_public/e1/4f/e14ffe15-38ac-48c4-addc-3904d61181d9/pib_glasfaser_600_bf_2026-10.pdf)
+  * [Produktinformationsblatt Glasfaser 1000](/media/filer_public/da/01/da01ea5f-29c8-4c1d-bf9f-640abb8330c3/pib_glasfaser_1000_bf_2026-10.pdf)
+  * [Glasfaser AGB](/media/filer_public/59/04/590421fc-48ba-4cc9-9dd0-6378d1924552/wetell_01_agb_glasfaser_bf_2026-10.pdf)

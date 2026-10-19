@@ -673,9 +673,9 @@ Neben Ihrem Handgepäck dürfen Sie ein weiteres größeres Gepäckstück oder e
  Genügt eine Anzahlung bei der Buchung für den Sparpreis Europa Gruppe?
 ----------
 
-Bei Buchung im DB Reisezentrum oder einer DB Agentur ist eine Anzahlung möglich. Die Anzahlung beträgt 6 Euro pro Teilnehmer. Die Restzahlung ist spätestens 14 Tage vor Reiseantritt fällig.
+Bei Buchung bei [bahn.de](http://bahn.de/), im DB Reisezentrum oder in einer DB Agentur:
 
-Bei Online-Buchung zahlen Sie den Gesamtpreis sofort.
+Ja. Die Anzahlung beträgt 6 Euro pro Person und Richtung. Die Restzahlung ist spätestens 30 Tage vor Reiseantritt fällig.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzahlung-sparpreis-europa-gruppe)
 
@@ -1363,10 +1363,9 @@ Achtung: Diese Möglichkeit besteht nicht für Tickets, die am Tag der Buchung z
 
 Hier können Sie Ihre Gruppenreise buchen:
 
-* **online**
+* **online** [**bahn.de**](http://bahn.de/)
 * App **DB Navigator** (bis zu max. 99 Personen)
 * **DB Reisezentrum** oder **DB Agentur**
-* **telefonisch** unter [030 2970](tel:+49302970) (Kosten abhängig vom Provider)
 
 Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
 
@@ -5057,8 +5056,7 @@ Liegt der vorgeschlagene neue Starthalt vor dem ursprünglich gebuchten Starthal
  Kann ich einzelne Reisende beim Sparpreis Europa Gruppe stornieren?
 ----------
 
-* **Bei online gebuchten Tickets** ist eine Stornierung einzelner Teilnehmer nicht möglich.
-* **Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch** ist eine Stornierung einzelner Teilnehmer möglich. Bis 14 Tage vor Reisetag ist eine Reduktion einzelner Teilnehmer unentgeltlich. Ab 13 Tage bis einen Tag vor dem 1. Geltungstag fallen 5 Euro pro zu stornierender Person je Fahrkarte an. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen.
+Ja, Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-sparpreis-europa-gruppe)
 
@@ -5564,13 +5562,13 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ti
  Kann ich mein Sparpreis Europa Gruppe-Ticket ändern, umbuchen oder stornieren?
 ----------
 
-* **Bei online gebuchten Sparpreis Europa Gruppe-Tickets** ist eine Stornierung der gesamten Fahrt bis 7 Tage vor Reiseantritt für 19 EUR je Gruppenticket möglich.
+Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder eine Teilnehmerreduktion vornehmen.
 
-* **Bei einer Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch** ist eine Stornierung oder Umbuchung der gesamten Fahrt bis 14 Tage vor Reisetag antritt unentgeltlich möglich. Danach ist ein Umtausch ausgeschlossen. Die Erstattung der gesamten Gruppenreise ist gegen ein Entgelt von 5 EUR je stornierender Person bis einen Tag vor Abfahrt möglich.
+Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten lassen.
 
 **Sofortstornierung**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -6006,11 +6004,7 @@ Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerh
  Wie lange im Voraus kann ich den Sparpreis Europa Gruppe kaufen?
 ----------
 
-Tickets können online bis zu **6 Monate im Voraus** und bis kurz vor Abfahrt gebucht werden. (**Belgien**, **Luxemburg, Niederlande und Schweiz bis zu 12 Monate** im Voraus).
-
-Im DB Reisezentrum, in einer DB Agentur oder per Telefon können Sie bis zu 12 Monate im Voraus und bis kurz vor Abfahrt buchen.
-
-Wenn die Verbindungsauskunft keine Verbindungen anzeigt, liegt das Datum außerhalb des aktuellen Fahrplans. Der nächste Fahrplan wird Mitte Oktober freigegeben. Ab dann können Sie Ihre Tickets buchen.
+Sie können das Sparpreis Europa Gruppe-Ticket bis zu 12 Monate im Voraus buchen.
 
 [Günstigsten Preis finden](https://next.bahn.de/buchung/start)
 
