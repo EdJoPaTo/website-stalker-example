@@ -4932,7 +4932,9 @@ zum Zuschuss mit dem Arbeitgeber und beträgt **ab dem 1. Januar 2027** monatlic
 Ausnahme: Falls Ihr Arbeitgeber den monatlichen Abopreis für das Jobticket vollständig
 übernimmt, müssen Sie der Preiserhöhung nicht zustimmen. Das Abo wird fortgeführt,
 sofern das Unternehmen den Rahmenvertrag mit der Deutschen Bahn beibehält.
+
 **Sie haben ab dem 15. Oktober 2026 bestellt?**
+
 Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Preisänderung und die ergänzenden Tarifbedingungen informiert. Eine gesonderte Zustimmung ist daher nicht mehr erforderlich. Ihr Abonnement läuft im Jahr 2027 automatisch zu den neuen, geänderten Konditionen weiter, sofern Sie nicht selbst innerhalb der tariflichen Kündigungsfrist kündigen.
 
 [Weitere Informationen zum Deutschland-Ticket Jobticket](https://www.bahn.de/angebot/pendler/deutschland-ticket-jobticket)
