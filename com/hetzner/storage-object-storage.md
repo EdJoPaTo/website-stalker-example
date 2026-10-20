@@ -141,7 +141,7 @@ Frequently asked questions
 
 * **What is the pricing structure for Object Storage?**
 
-  We charge a base price of  per month for using Object Storage. This base price includes 1 TB of storage (up to 744 TB-hours) and 1 TB of egress traffic. Storage and traffic that exceed the included quota are charged on a pay-as-you-go basis.
+  We charge a base price of € 6.49 per month, excl. VAT per month for using Object Storage. This base price includes 1 TB of storage (up to 744 TB-hours) and 1 TB of egress traffic. Storage and traffic that exceed the included quota are charged on a pay-as-you-go basis.
 
 * **What does “pay-as-you-go” mean in this billing model?**
 
@@ -149,7 +149,7 @@ Frequently asked questions
 
 * **How is the base price billed?**
 
-  The base price is billed hourly at  (capped at  per month). You are billed for each hour that you have at least one active Bucket, even if it’s empty.
+  The base price is billed hourly at € 0.0104 per hour, excl. VAT (capped at € 6.49 per month, excl. VAT per month). You are billed for each hour that you have at least one active Bucket, even if it’s empty.
 
 * **What traffic is free of charge?**
 
@@ -169,9 +169,9 @@ Frequently asked questions
 
   If your storage or egress traffic exceeds the included quota, additional charges will apply (All prices are exclusive of VAT):
 
-  * Storage:  per TB-hour.
+  * Storage: € 0.0087 per hour, excl. VAT per TB-hour.
 
-  * Egress traffic:  per TB.
+  * Egress traffic: € 1.0000 per hour, excl. VAT per TB.
   * Storage and traffic are billed with an accuracy of four decimal places (e.g. 1.2345 TB)
 
 * **Is the included storage and traffic quota per Bucket?**

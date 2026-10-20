@@ -32,9 +32,9 @@ Keine Mindestvertragslaufzeit. Keine Kündigungsfrist.
 
 ###  NX11  ###
 
- max/mo.
+ max/mo. 5,11 € pro Monat, inkl. 19 % MwSt.
 
- /std
+0,0082 € pro Stunde, inkl. 19 % MwSt.  /std
 
 Storage 1 TB
 
@@ -48,9 +48,9 @@ FSN1
 
 ###  NX21  ###
 
- max/mo.
+ max/mo. 16,89 € pro Monat, inkl. 19 % MwSt.
 
- /std
+0,0270 € pro Stunde, inkl. 19 % MwSt.  /std
 
 Storage 5 TB
 
@@ -64,9 +64,9 @@ FSN1
 
 ###  NX31  ###
 
- max/mo.
+ max/mo. 32,59 € pro Monat, inkl. 19 % MwSt.
 
- /std
+0,0522 € pro Stunde, inkl. 19 % MwSt.  /std
 
 Storage 10 TB
 
@@ -119,7 +119,7 @@ Wir übernehmen die Administration Ihres Storage Share Servers. Mit unserem hoch
 
 Unsere Storage Share wird auf Servern in Falkenstein gehostet. Ein DSGVO-konformer Betrieb Ihrer Storage Share ist somit gewährleistet. Ein Vertrag zur Auftragsverarbeitung (AV-Vertrag) nach Art. 28 DSGVO kann online abgeschlossen werden.
 
-[Zu den Tarifen](https://www.hetzner.com/storage/storage-share/#pricing)
+[Zu den Tarifen](https://www.hetzner.com/de/storage/storage-share/#pricing)
 
 Häufig gestellte Fragen
 ----------

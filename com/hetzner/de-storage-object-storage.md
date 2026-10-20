@@ -139,7 +139,7 @@ Frequently asked questions
 
 * **Wie ist die Preisstruktur für Object Storage?**
 
-  Wir berechnen für die Nutzung von Object Storage einen Grundpreis von  pro Monat. Dieser Grundpreis beinhaltet 1 TB Speicherplatz (bis zu 744 TB-Stunden) und 1 TB Egress-Traffic. Speicherplatz und Datenverkehr, die über das im Grundpreis enthaltene Kontingent hinausgehen, werden auf Pay-as-you-go-Basis berechnet.
+  Wir berechnen für die Nutzung von Object Storage einen Grundpreis von 7,72 € pro Monat, inkl. 19 % MwSt. pro Monat. Dieser Grundpreis beinhaltet 1 TB Speicherplatz (bis zu 744 TB-Stunden) und 1 TB Egress-Traffic. Speicherplatz und Datenverkehr, die über das im Grundpreis enthaltene Kontingent hinausgehen, werden auf Pay-as-you-go-Basis berechnet.
 
 * **Was bedeutet „Pay-as-you-go“ in diesem Abrechnungsmodell?**
 
@@ -147,7 +147,7 @@ Frequently asked questions
 
 * **Wie wird der Grundpreis in Rechnung gestellt?**
 
-  Der Grundpreis wird stündlich mit  pro Stunde (maximal  pro Monat) in Rechnung gestellt. Jede Stunde, in der mindestens ein Bucket aktiv ist, wird in Rechnung gestellt, auch wenn dieser leer ist.
+  Der Grundpreis wird stündlich mit 0,0124 € pro Stunde, inkl. 19 % MwSt. pro Stunde (maximal 7,72 € pro Monat, inkl. 19 % MwSt. pro Monat) in Rechnung gestellt. Jede Stunde, in der mindestens ein Bucket aktiv ist, wird in Rechnung gestellt, auch wenn dieser leer ist.
 
 * **Welcher Datenverkehr ist kostenlos?**
 
@@ -165,8 +165,8 @@ Frequently asked questions
 
   Wenn der Speicher- oder Ausgangsdatenverkehr das inbegriffene Kontingent überschreitet, fallen zusätzliche Gebühren an (alle Preise verstehen sich zuzüglich Mehrwertsteuer):
 
-  * Speicherplatz:  pro TB-Stunde.
-  * Ausgehender Datenverkehr:  pro TB.
+  * Speicherplatz: 0,0104 € pro Stunde, inkl. 19 % MwSt. pro TB-Stunde.
+  * Ausgehender Datenverkehr: 1,1900 € pro Stunde, inkl. 19 % MwSt. pro TB.
   * Speicherplatz und Datenverkehr werden mit einer Genauigkeit von vier Nachkommastellen abgerechnet (z.B. 1,2345 TB)
 
 * **Ist das enthaltene Speicher- und Verkehrskontingent pro Bucket?**

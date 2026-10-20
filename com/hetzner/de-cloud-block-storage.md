@@ -43,7 +43,7 @@ Günstige und stundenbasierte Preise
 
 Volumes (Block Storage) und Object Storage unterscheiden sich vor allem im Datenmodell und im Zugriff. Block Storage verhält sich wie eine lokal eingebundene Festplatte: Es wird an einen Cloud-Server gemountet, bietet sehr geringe Latenz und eignet sich für Workloads mit hohen I/O-Anforderungen wie Datenbanken. Object Storage hingegen speichert Daten als einzelne Objekte in S3-kompatiblen Buckets, erreichbar per HTTPS/API. Objekte werden nicht in-place verändert, sondern neu versioniert. Während Block Storage feste, erweiterbare Volumes nutzt, skaliert Object Storage praktisch unbegrenzt und ist ideal für Backups, Medien oder globale Distribution.
 
-[Mehr über Object Storage erfahren](https://www.hetzner.com/storage/object-storage/)
+[Mehr über Object Storage erfahren](https://www.hetzner.com/de/storage/object-storage/)
 
 Häufig gestellte Fragen
 ----------
@@ -74,18 +74,18 @@ zu unseren Cloud Tarifen
 
 Shared: Cost Optimized
 
-startet ab  max/mo.
+startet ab  max/mo. 7,13 € pro Monat, inkl. 19 % MwSt.
 
-[Produkt entdecken](https://www.hetzner.com/cloud/cost-optimized/)
+[Produkt entdecken](https://www.hetzner.com/de/cloud/cost-optimized/)
 
 Shared: Regular Performance
 
-startet ab  max/mo.
+startet ab  max/mo. 7,72 € pro Monat, inkl. 19 % MwSt.
 
-[Produkt entdecken](https://www.hetzner.com/cloud/regular-performance/)
+[Produkt entdecken](https://www.hetzner.com/de/cloud/regular-performance/)
 
 Dedicated: General Purpose
 
-startet ab  max/mo.
+startet ab  max/mo. 51,75 € pro Monat, inkl. 19 % MwSt.
 
-[Produkt entdecken](https://www.hetzner.com/cloud/general-purpose/)
+[Produkt entdecken](https://www.hetzner.com/de/cloud/general-purpose/)

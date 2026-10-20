@@ -13,9 +13,9 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
  Type
 
- max/mo.
+ max/mo. 3,81 € pro Monat, inkl. 19 % MwSt.
 
- /std
+0,0061 € pro Stunde, inkl. 19 % MwSt.  /std
 
 [Bestellen](https://console.hetzner.com/)
 
@@ -29,9 +29,9 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
  Type
 
- max/mo.
+ max/mo. 12,97 € pro Monat, inkl. 19 % MwSt.
 
- /std
+0,0208 € pro Stunde, inkl. 19 % MwSt.  /std
 
 [Bestellen](https://console.hetzner.com/)
 
@@ -45,9 +45,9 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
  Type
 
- max/mo.
+ max/mo. 24,75 € pro Monat, inkl. 19 % MwSt.
 
- /std
+0,0396 € pro Stunde, inkl. 19 % MwSt.  /std
 
 [Bestellen](https://console.hetzner.com/)
 
@@ -61,9 +61,9 @@ GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
 
  Type
 
- max/mo.
+ max/mo. 48,31 € pro Monat, inkl. 19 % MwSt.
 
- /std
+0,0775 € pro Stunde, inkl. 19 % MwSt.  /std
 
 [Bestellen](https://console.hetzner.com/)
 

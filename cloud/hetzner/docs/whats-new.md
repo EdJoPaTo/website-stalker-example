@@ -3,6 +3,29 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+### New Cloud Network Stack beta launch ###
+
+The new Hetzner Cloud network stack "hcnet" is now available in public beta. You can trigger a switch for each server individually.
+
+* **Features and differences**
+
+  Limit increase for connection tracking from 80,000 parallel connections for both IPv4 and IPv6 combined, to 120,000 each.
+  For more details, see our [documentation](http://docs.hetzner.com/cloud/technical-details/hcnet/).
+
+* **Participation**
+
+  Select a cloud server and go to the "Networking" tab. Under "Network Stack" select "Try new network stack".
+  To change back to the previous network stack, select "Restore standard network stack".
+  Note that both actions will briefly interrupt the connectivity to your server.
+  If a firewall is active, existing connections may be dropped.
+
+* **Feedback**
+
+  In case something did not work as you expected, please let us know via the feedback form.
+  You can find the "Provide Feedback" button in the "Network Stack" section of a server's
+  "Networking" tab in the Hetzner Console.
+  The engineering team will receive your feedback directly.
+
 ### New Cloud server plan in EU and SIN: CPX02 ###
 
 To expand our range of cost-effective cloud servers, we have now introduced the "Regular Performance" server CPX02, featuring 1 vCPU, 1 GB RAM and 20 GB storage, at our European locations (FSN1, HEL1 and NBG1) and in Singapore (SIN).

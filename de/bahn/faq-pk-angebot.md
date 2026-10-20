@@ -21113,12 +21113,10 @@ Nutzen Sie
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-alternativen)
 
- \* Muss ich bei einer früheren Beendigung meines DB Zeitkarten-Abos eine Differenzzahlung leisten?
+ Muss ich bei einer früheren Beendigung meines DB Zeitkarten-Abos eine Differenzzahlung leisten?
 ----------
 
-Nein. Für die Beendigung aufgrund der Maßnahme\* beziehungsweise im Rahmen des eingeräumten Sonderkündigungsrechts wird keine Differenzzahlung erhoben.
-
-***\* wegen der Umstellung der Zeitkarten künftig ohne Abo??? Versteht man nicht, bitte einfacher erklären***
+Nein. Wenn Sie Ihr DB Zeitkarten-Abo aufgrund der Umstellung auf Zeitkarten ohne Abo vorzeitig beenden, wird keine Differenzzahlung erhoben. Dies gilt auch bei Nutzung des eingeräumten Sonderkündigungsrechts.
 
 [Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
 
@@ -21189,12 +21187,10 @@ Haben Sie auf eigenen Wunsch gekündigt, wird die konkrete Abrechnung durch das 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-rueckerstattung-bei-abbuchung)
 
- \* Fall bei meinem DB Zeitkarten-Abos doch Rückerstattung anfällt, wie erhalte ich sie?
+ Falls bei meinem DB Zeitkarten-Abos doch eine Rückerstattung anfällt, wie erhalte ich sie?
 ----------
 
-Die Rückerstattung wird nach Beendigung des Abos verarbeitet. Die individuellen Informationen erhalten Sie mit der Kundenkommunikation??\* beziehungsweise über das Abo-Center.
-
-***\*heißt das, per E-Mail oder per Brief?***
+Die Rückerstattung wird nach Beendigung des Abos verarbeitet. Die individuellen Informationen über die genaue Rückerstattung erhalten Sie per E-Mail vom Abo-Center.
 
 [Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
 
