@@ -21104,7 +21104,7 @@ Das gilt für
 
 Nutzen Sie
 
-* die dauerhaft um 25 reduzierte **Monatskarte ohne Abo**
+* die dauerhaft um 25 Prozent reduzierte **Monatskarte ohne Abo**
 * oder ein **Mehrfahrtenticket** (10-/20-Fahrten)
 
 [Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
@@ -21124,10 +21124,10 @@ Nein. Wenn Sie Ihr DB Zeitkarten-Abo aufgrund der Umstellung auf Zeitkarten ohne
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-differenzzahlung)
 
- Kann ich mein DB Monats-/Jahreskarte früher beenden?
+ Kann ich mein Abo für die DB Monats-/Jahreskarte früher beenden?
 ----------
 
-Ja. Mit dem Kündigungsschreiben wird ein Sonderkündigungsrecht eingeräumt. Wer das Abo früher beenden möchte, wendet sich an das Abo-Center, damit das bereits hinterlegte Kündigungsdatum angepasst werden kann. Eine eigenständige Kündigung im Aboportal ist nicht möglich. Die Kündigung können Sie jederzeit auf bahn.de/vertrag-kuendigen vornehmen.
+Ja. Mit dem Kündigungsschreiben wird ein Sonderkündigungsrecht eingeräumt. Wenn Sie das Abo früher beenden möchten, wenden Sie sich an das Abo-Center, damit das bereits hinterlegte Kündigungsdatum angepasst werden kann. Eine eigenständige Kündigung im Aboportal ist nicht möglich. Die Kündigung können Sie jederzeit auf bahn.de/vertrag-kuendigen vornehmen.
 
 * [Zur Übersicht: Vertrag kündigen](https://www.bahn.de/kontakt/kuendigen)
 
@@ -21231,7 +21231,7 @@ Das genaue Vertragsende ist individuell und wird den betroffenen Kundinnen und K
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abo-wann-endet)
 
- Wo finde ich weitere Fragen und Antworten zu Persönlicher Monatskarte und Persönlicher Jahreskarte?
+ Wo finde ich weitere Fragen und Antworten zu Persönlichen Monatskarten und Persönlichen Jahreskarten der DB?
 ----------
 
 Weitere Fragen und Antworten finden Sie unter
@@ -21243,7 +21243,7 @@ Weitere Fragen und Antworten finden Sie unter
  Warum endet meine Persönliche Jahreskarte im Abo bereits vor Ablauf eines Jahres?
 ----------
 
-Ihr Abo endet vorzeitig, denn DB Fernverkehr stellt das Angebot der Zeitkarten-Abonnements ein. Am **21. Oktober 2026** bestehende Abonnements werden zum **Juni 2027 gekündigt**. Bis zu diesem Zeitpunkt können Sie Ihr Abo zum Preisvorteil eines Jahresabonnements nutzen.
+Ihr Abo endet vorzeitig, da DB Fernverkehr das Angebot der Zeitkarten-Abonnements einstellt. Am **21. Oktober 2026** bestehende Abonnements werden zum **Juni 2027 gekündigt**. Bis zu diesem Zeitpunkt können Sie Ihr Abo zum Preisvorteil eines Jahresabonnements nutzen.
 
 Endet Ihr Abo **vor Ablauf von 12 Monaten**, erhalten Sie die nicht genutzte Restlaufzeit automatisch anteilig erstattet. Sie müssen hierfür nichts tun.
 
@@ -21255,7 +21255,7 @@ Ab dem **21. Oktober 2026** stehen Ihnen weiterhin attraktive Alternativen ohn
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abos-eingestellt)
 
- Warum gibt es bei der DB keine Zeitkarten-Abos, also Persönliche Monatskarte und Persönliche Jahreskarte mehr?
+ Warum gibt es bei der DB keine Zeitkarten-Abos mehr?
 ----------
 
 Mit der Umstellung wird das Zeitkartenangebot vereinfacht und flexibler gestaltet. Der bisherige Preisvorteil wird künftig über die um 25 Prozent vergünstigte Monatskarte beziehungsweise Schülermonatskarte abgebildet. Davon profitieren Sie auch, wenn Sie bislang kein Abo genutzt haben.
