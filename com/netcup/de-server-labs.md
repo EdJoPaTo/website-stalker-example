@@ -7,9 +7,11 @@ Profitiere von garantierten Ressourcen auf leistungsstarker Hardware, mit Root Z
 
 [Jetzt entdecken\>](https://www.netcup.com/de/server/root-server)
 
-### **Wichtiger Hinweis: Vorsorgliche Abschaltung wegen kritischer PHP-Sicherheitslücke** ###
+### **PHP-Sicherheitslücken: Alle Systeme wieder verfügbar** ###
 
-In PHP wurde eine kritische Sicherheitslücke bekannt (CVSS 9.2). Um dich und deine Daten zu schützen, haben wir potenziell gefährdete Systeme vorsorglich vom Internet getrennt. Deine Daten bleiben vollständig erhalten und sind nicht gefährdet. Manche Systeme sind daher temporär nicht verfügbar.
+In PHP wurden kritische Sicherheitslücken bekannt (CVE-2026-109618 und CVE-2026-109619). Um dich und deine Daten zu schützen, haben wir am 21.10.2026 mehrere Dienste vorsorglich abgeschaltet. Seit 21.10.2026 / 23:45 Uhr sind alle betroffenen Systeme gepatcht und wieder vollständig verfügbar. Deine Daten sind vollständig erhalten, und es liegen keine Hinweise auf eine Ausnutzung der Lücke auf unseren Systemen vor.
+
+Nur das **Webhosting Control Panel (WCP)** bleibt vorsorglich offline, bis der Hersteller Plesk einen Patch bereitstellt. Nachdem der Patch vorliegt, spielen wir ihn ein und schalten das WCP wieder frei. Webseiten und E-Mails sind nicht betroffen.
 
 Details und aktuelle Infos findest du auf: [www.netcup-status.de](http://www.netcup-status.de/)
 
