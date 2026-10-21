@@ -227,6 +227,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [GaN Charger 30W](https://kb.shelly.cloud/knowledge-base/gan-charger-30w)
 * [GaN Charger 65W](https://kb.shelly.cloud/knowledge-base/gan-charger-65w)
 * [Cable USB-C to USB-C](https://kb.shelly.cloud/knowledge-base/cable-usb-c-to-usb-c)
+* [Shelly TRV adapters](https://kb.shelly.cloud/knowledge-base/shelly-trv-adapters)
 * [Shelly Leak Sensor Cable](https://kb.shelly.cloud/knowledge-base/shelly-leak-sensor-cable)
 
 [Add-ons](https://kb.shelly.cloud/knowledge-base/add-ons)
