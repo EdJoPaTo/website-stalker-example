@@ -7,6 +7,12 @@ Profitiere von garantierten Ressourcen auf leistungsstarker Hardware, mit Root Z
 
 [Jetzt entdecken\>](https://www.netcup.com/de/server/root-server)
 
+### **Wichtiger Hinweis: Vorsorgliche Abschaltung wegen kritischer PHP-Sicherheitslücke** ###
+
+In PHP wurde eine kritische Sicherheitslücke bekannt (CVSS 9.2). Um dich und deine Daten zu schützen, haben wir potenziell gefährdete Systeme vorsorglich vom Internet getrennt. Deine Daten bleiben vollständig erhalten und sind nicht gefährdet. Manche Systeme sind daher temporär nicht verfügbar.
+
+Details und aktuelle Infos findest du auf: [www.netcup-status.de](http://www.netcup-status.de/)
+
 Root-Server
 
 Dedizierte CPU-Power mit AMD EPYC™ Prozessoren
