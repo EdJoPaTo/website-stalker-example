@@ -253,21 +253,21 @@ jedem Einsatzbereich
  Herren
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Damen
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Kinder
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  \*KI-generierter Hintergrund
 
@@ -285,21 +285,21 @@ jedem Einsatzbereich
  Herren
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Damen
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Kinder
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Neuzugänge
 ---
@@ -315,21 +315,21 @@ jedem Einsatzbereich
  Herren
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Damen
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Kinder
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Neuzugänge
 ---
@@ -345,21 +345,21 @@ jedem Einsatzbereich
  Herren
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Damen
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
  Kinder
 ---
 
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
+[Neuheiten entdecken](https://www.strauss.com/de/de/neuheiten/?itemorigin=StartseiteHW26)
 
 *
 *

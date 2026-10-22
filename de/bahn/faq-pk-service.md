@@ -2051,6 +2051,23 @@ Ja, Lufthansa Express Rail enthält eine Sitzplatzreservierung. Als Gast der Luf
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/enthaelt-meine-lufthansa-express-rail-buchung-eine-sitzplatzreservierung)
 
+ Habe ich bei Nutzung meiner Zeitkarte Anspruch auf eine Entschädigung pro Fahrt?
+----------
+
+Zeitfahrkarten des Nah- und Fernverkehrs (z.B. Wochen- oder Monatskarten, Länder-Tickets, Quer-durchs-Land-Ticket) werden pauschal jeweils ab einer **Verspätung ab 60 Minuten** am Zielbahnhof entschädigt.
+
+* Zeitfahrkarten des Fernverkehrs: 5 Euro (2. Klasse), 7,50 Euro (1. Klasse)
+* Zeitfahrkarten des Nahverkehrs: 1,50 Euro (2. Klasse), 2,25 Euro (1. Klasse)
+* BahnCard 100: 10 Euro (2. Klasse), 15 Euro (1. Klasse)
+
+Insgesamt werden maximal 25 Prozent des Zeitfahrkartenwertes entschädigt.
+
+Als Zeitkarteninhaber (Ausnahme BahnCard 100) können Sie auch mehrere Verspätungsfälle ab 20 Minuten addieren und gesammelt einreichen. Die zu addierenden Verspätungsfälle müssen dabei innerhalb des Geltungszeitraums der Zeitfahrkarte liegen.
+
+Wenn Sie eine Zeitfahrkarte des Nahverkehrs besitzen, beachten Sie bitte, dass Entschädigungsbeträge unter 4 Euro nicht ausgezahlt werden. Bitte berücksichtigen Sie dies und reichen Sie Verspätungsfälle daher im besten Fall gesammelt ein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/entschaedigung-zeitkarten)
+
  Habe ich einen Entschädigungsanspruch, wenn ich wegen eines verspäteten Nahverkehrszugs meinen Anschluss zum Fernverkehr verpasse?
 ----------
 
@@ -2096,6 +2113,19 @@ Sie erhalten damit folgende Ermäßigungen:
 * [Leitfaden Orthopädische Hilfsmittel Stand 18. Februar 2026 (PDF, 245 KB)](https://assets.static-bahn.de/dam/jcr:4399e104-859a-4020-87ba-cc72e24c3f32/2026_02_18_Leitfaden%20Mitnahme%20orthop%C3%A4discher%20Hilfsmittel.2026-02-13-08-49-49.pdf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ermaessigung-sba-g-ag-gi-h-mit-rollstuhlplatz)
+
+ Wird mir die Reise erstattet, wenn ich sie wegen Verspätung, Zugausfall oder verpasstem Anschluss nicht antrete?
+----------
+
+Bei einer zu erwartenden Verspätung am Zielbahnhof von **60 Minuten oder mehr** können Sie
+
+* von der Reise zurücktreten und sich den vollen Fahrpreis erstatten lassen
+* sich den nicht genutzten Anteil erstatten lassen, wenn Sie nur einen Teil der gebuchten Strecke gefahren sind
+* sich den bereits genutzten Anteil und den nicht genutzten Anteil erstatten lassen, wenn Sie die Reise abgebrochen haben und zum Ausgangsbahnhof zurückgefahren sind.
+
+Bei Rücktritt von der Reise wird die Erstattung ausschließlich via Überweisung ausgezahlt. Eine Gutscheinausgabe ist in diesem Fall nicht möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/erstattung-reiseruecktritt)
 
  Was passiert, wenn wegen Verspätungen oder Zugausfall eine Weiterreise nicht mehr möglich ist?
 ----------
@@ -5077,7 +5107,7 @@ Für den Super Sparpreis Europa Gruppe ist eine Stornierung einzelner Reisende
  Kann ich einzelne Reisende beim Super Sparpreis Gruppe stornieren?
 ----------
 
-Ja, Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten.
+Eine Stornierung einzelner Reisender ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-gruppe)
 
@@ -5635,13 +5665,11 @@ Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ti
  Kann ich mein Super Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
 ----------
 
-Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder eine Teilnehmerreduktion vornehmen.
-
-Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten lassen.
+Eine Änderung, Umbuchung oder Stornierung des Super Sparpreis Gruppe-Tickets ist nicht möglich.
 
 **Sofortstornierung**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -6118,9 +6146,17 @@ Die kostenfreie Reservierung gibt es für zahlende Reisende der 1. Klasse im Fle
  Wann kann ich Fahrgastrechtsansprüche geltend machen?
 ----------
 
-Zu den detaillierten [Informationen, welche Ansprüche Sie im Rahmen der Fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen) haben.
+Unter diesen Voraussetzungen können Sie Fahrgastrechte geltend machen:
 
-Sie haben ein Anliegen, das nichts mit einer Verspätung/einem Zugausfall zu tun hat, wie z.B. eine Leistungseinschränkung oder eine Anfrage zu einer Buchung? Informationen, Antworten auf häufige Fragen sowie Kontaktmöglichkeiten finden Sie auf
+* Sie sind im Besitz einer zum Ereigniszeitpunkt gültigen Fahrkarte für die verspätete/ausgefallene Fahrt.
+* Es besteht Anspruch auf Entschädigung für gesamte Reiseketten - also auch aus Zügen verschiedener Eisenbahnunternehmen, wenn diese mit **einer** Fahrkarte genutzt werden. Es können aber nur Verspätungen oder Ausfälle von Zügen der teilnehmenden Eisenbahnen berücksichtigt werden.
+* Jede Fahrkarte stellt einen eigenständigen Beförderungsvertrag dar. Die Verspätungsentschädigung wird für jede Fahrkarte separat ermittelt.
+* Bei Fahrkarten für Hin- und Rückfahrt, die auf einer Fahrkarte abgebildet sind, wird die Entschädigung auf der Grundlage des halben entrichteten Fahrpreises berechnet.
+* Die Fahrgastrechte für den Eisenbahnverkehr gelten auch im Nachtreiseverkehr (z.B. EuroNight).
+* Für Fahrten in Verkehrsverbünden und im Geltungsbereich von Landestarifen gelten gegebenenfalls weitere Regelungen. Inhaber von Fahrkarten eines Verkehrsverbundes erkundigen sich bitte beim jeweiligen Verbund nach den dort gültigen Regelungen zu Fahrgastrechten. U-Bahnen und Straßenbahnen fallen nicht unter die einheitliche Fahrgastrechteregelung.
+* Beträge von weniger als 4 Euro werden nicht ausgezahlt.
+
+Informationen, und Kontaktmöglichkeiten finden Sie auf
 
 * [bahn.de/hilfe](https://www.bahn.de/hilfe)
 
@@ -6855,6 +6891,17 @@ Lufthansa Express Rail ist ein Angebot der Lufthansa. Bitte wenden Sie sich desh
 * online unter [lufthansa.com](https://www.lufthansa.com/de/de/lufthansa-express-rail)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weitere-fragen-lufthansa-express-rail)
+
+ Darf ich bei Verspätungen oder ausgefallenen Zügen mit mit anderen Verkehrsmitteln weiterfahren?
+----------
+
+Wenn Sie das Eisenbahnunternehmen nicht innerhalb von 100 Minuten nach der planmäßigen Abfahrtszeit eines verspäteten oder ausgefallenen Zuges oder eines verpassten Anschlusses darüber informiert, welche Möglichkeiten Ihnen für die Weiterreise zur Verfügung stehen, haben Sie das Recht, die Fahrt mit anderen Eisenbahnen (z.B. Flixtrain, Nightjet), einem Reisebus oder einem Bus des Regionalverkehrs fortzusetzen.
+
+Die dadurch ggf. entstandenen notwendigen, angemessenen und zumutbaren Kosten werden Ihnen über das Servicecenter Fahrgastrechte erstattet.
+
+Die Kosten für eine Nutzung eines Taxis, Flugzeugs oder einer Privatabholung werden in diesem Fall nicht erstattet.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/weiterfahrt-andere-verkehrsmittel)
 
  Welche Angaben sind in einem formlosen Schreiben an das Servicecenter Fahrgastrechte erforderlich?
 ----------

@@ -1337,9 +1337,7 @@ Für den Super Sparpreis Europa Gruppe ist eine Anzahlung nicht möglich.
  Genügt für den Super Sparpreis Gruppe eine Anzahlung bei der Buchung?
 ----------
 
-Bei Buchung **unter bahn.de**, im **DB Reisezentrum** oder in einer **DB Agentu**r:
-
-Ja. Die Anzahlung beträgt **6 Euro pro Person und Richtung**. Die Restzahlung ist spätestens 30 Tage vor Reiseantritt fällig.
+Eine Anzahlung für das Super Sparpreis Gruppe-Ticket ist nicht möglich.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
@@ -11279,7 +11277,7 @@ Für den Super Sparpreis Europa Gruppe ist eine Stornierung einzelner Reisende
  Kann ich einzelne Reisende beim Super Sparpreis Gruppe stornieren?
 ----------
 
-Ja, Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten.
+Eine Stornierung einzelner Reisender ist nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/reisende-stornieren-super-sparpreis-gruppe)
 
@@ -12344,13 +12342,11 @@ Unabhängig von den tariflichen Angebotskonditionen kannst du auf bahn.de oder i
  Kann ich mein Super Sparpreis Gruppe-Ticket ändern, umbuchen oder stornieren?
 ----------
 
-Ja, Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder eine Teilnehmerreduktion vornehmen.
-
-Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten lassen.
+Eine Änderung, Umbuchung oder Stornierung des Super Sparpreis Gruppe-Tickets ist nicht möglich.
 
 **Sofortstornierung**
 
-Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -12961,7 +12957,7 @@ Für den Super Sparpreis Europa Gruppe ist eine Optionsbuchung nicht möglich.
  Kann ich das Super Sparpreis Gruppe-Ticket unverbindlich reservieren?
 ----------
 
-Ja, bis zu 60 Tage vor Reiseantritt können Sie die gewünschte Gruppenreise kostenfrei und unverbindlich für 14 Tage reservieren.
+Eine Reservierung für das Super Sparpreis Gruppe-Ticket ist nicht möglich.
 
 [Weitere Informationen zum Super Sparpreis Gruppe](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-gruppe)
 
@@ -15082,7 +15078,7 @@ Handy-Tickets sind personalisierte Tickets, enthalten also auch den Namen des Ku
  Warum sind nicht alle Fahrräder und Scooter, die im Bereich "Umgebung" angezeigt werden, direkt in der App DB Navigator buchbar?
 ----------
 
-Aktuell sind nur Fahrzeuge der Sharing-Anbieter Dott und Call a Bike direkt in der App DB Navigator buchbar. Wir bauen unser Angebot jedoch stetig weiter aus.
+Aktuell sind Fahrzeuge der Sharing-Anbieter Call a Bike, Dott und Voi direkt in der App DB Navigator buchbar. Wir bauen unser Angebot jedoch stetig weiter aus.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-weiterleitung-sharing-anbieter)
 
@@ -17294,9 +17290,9 @@ Trotz der konkreten Verbindungseingabe ist das Ticket für beliebig viele Fahrte
  Wie buche ich Fahrräder und Scooter in der App DB Navigator?
 ----------
 
-Um Fahrräder oder Scooter in der App DB Navigator zu buchen, tippen Sie auf den Menübereich "Umgebung" und wählen Sie anschließend den Modus "Fahrrad" oder "Scooter" aus. Sobald Ihnen Fahrräder oder Scooter auf der Karte angezeigt werden, können Sie ein bestimmtes Fahrrad oder einen bestimmten Scooter antippen. Die Buchung von Fahrzeugen der Sharing-Anbieter Dott und Call a Bike können Sie direkt über die App DB Navigator abschließen.
+Um Fahrräder oder Scooter in der App DB Navigator zu buchen, tippen Sie auf den Menübereich "Umgebung" und wählen Sie anschließend den Modus "Fahrrad" oder "Scooter" aus. Sobald Ihnen Fahrräder oder Scooter auf der Karte angezeigt werden, können Sie ein bestimmtes Fahrrad oder einen bestimmten Scooter antippen. Die Buchung von Fahrzeugen der Sharing-Anbieter Call a Bike, Dott und Voi können Sie direkt über die App DB Navigator abschließen.
 
-Wenn Sie Fahrzeuge von Bolt und Voi auswählen, werden Sie zur App des jeweiligen Sharing-Anbieters weitergeleitet, wenn Sie dessen App schon installiert haben. Falls Sie die App des jeweiligen Sharing-Anbieters noch nicht installiert haben, werden Sie zum Download der App in den Google Play Store oder App Store weitergeleitet.
+Wenn Sie Fahrzeuge von Bolt auswählen, werden Sie zur App des Sharing-Anbieters Bolt weitergeleitet, wenn Sie dessen App schon installiert haben. Falls Sie die App des Sharing-Anbieters Bolt noch nicht installiert haben, werden Sie zum Download der App in den Google Play Store oder App Store weitergeleitet.
 
 Mehr Informationen zu den [Sharing-Diensten](https://www.bahn.de/faq/erreichbarkeit-sharingdienste).
 
