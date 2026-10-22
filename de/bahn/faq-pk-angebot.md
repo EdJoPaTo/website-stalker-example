@@ -11444,13 +11444,6 @@ Einzeltickets sind ab Kauf 90 Minuten bzw. im Geltungsbereich des Cityticket XL 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rlt-gueltigkeit)
 
- Kann ich nach dem Start des Rheinlandtarifs weiterhin Tickets des AVV- oder VRS-Tarifs kaufen?
-----------
-
-Nein. Der Verkauf der bisherigen AVV‑ und VRS‑Tickets endet am 31. Mai 2026.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rlt-tickets-avv-vrs)
-
  Wo finde ich die Beförderungsbedingungen des Rheinlandtarifs?
 ----------
 
@@ -11459,13 +11452,6 @@ Die Tarif- und Beförderungsbedingungen finden Sie auf der folgenden Webseite:
 * [vrs.de/tickets/der-neue-rheinlandtarif](https://www.vrs.de/tickets/der-neue-rheinlandtarif)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rlt-tickets-tarifbest)
-
- Gibt es eine Übergangszeit für bereits gekaufte AVV- oder VRS-Tickets?
-----------
-
-Ja. **Digitale Zeitkarten**, die Sie vor dem 1. Juni 2026 gekauft haben, können Sie noch bis zum Ende ihrer aufgedruckten Gültigkeit nutzen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/rlt-tickets-uebergangszeit)
 
  Was ist neu im Rheinlandtarif?
 ----------
@@ -15025,13 +15011,6 @@ Das Angebot Fahr&Spar Südpfalz gilt an dem auf der Fahrkarte angegebenen Geltun
 Der Fahrpreis gilt für die **Hin- und Rückfahrt innerhalb eines Tages** pro Person.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-kann-ich-fahren)
-
- Wann muss ich das Handy-Ticket im Verbund spätestens gekauft haben?
-----------
-
-Das Handy-Ticket muss nach den Tarifbestimmungen und wie bei den bisherigen Papiertickets vor dem Einsteigen bzw. vor dem Überschreiten der Bahnsteigsperre gekauft werden.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-muss-ich-das-handy-ticket-spaetestens-gekauft-haben-verbund)
 
  Wann und für welche Verbindung gilt meine dauerhafte Sitzplatzreservierung?
 ----------
