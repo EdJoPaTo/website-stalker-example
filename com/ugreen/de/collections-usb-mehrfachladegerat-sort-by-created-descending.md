@@ -1,4 +1,4 @@
-[UGREEN Set-Angebot: 100-W-4-Port-Ladegerät + Nexode-Powerbank mit 25.000 mAh und 145 W](https://de.ugreen.com/products/ugreen-set-angebot-100-w-4-port-ladegerat-nexode-powerbank-mit-25-000-mah-und-145-w)
+[UGREEN Set-Angebot: 100W 4 Port Ladegerät + Nexode Powerbank mit 25.000 mAh und 145 W](https://de.ugreen.com/products/ugreen-set-angebot-100-w-4-port-ladegerat-nexode-powerbank-mit-25-000-mah-und-145-w)
 
 [UGREEN Nexode Desktop Ladegerät (200W, 8-Port, GaN)](https://de.ugreen.com/products/nexode-200w-8-port-gan-desktop-ladegeraet)
 
