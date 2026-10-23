@@ -2906,10 +2906,6 @@ Weitere Informationen zu den Betriebszeiten der Bergbahnen finden Sie auf der We
 
 * [zugspitze.de](https://zugspitze.de/de/Service-Informationen/Betriebszeiten-Fahrplaene)
 
-[Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/betriebszeiten-bergbahnen)
 
  Wie kann ich unberechtigte Abo-Bestellungen melden?
@@ -7934,10 +7930,6 @@ Für eine Fahrradkarte im Nahverkehr wählen Sie im App-Bereich "Buchen" unter 
 Ja, Kinder zwischen 0 und 6 Jahren fahren kostenfrei mit.
 
 Bis zu drei Kinder zwischen 6 bis 14 Jahren können pro Erwachsenem mitgenommen werden. **Für Kinder zahlt man für Garmisch Classic je 7 Euro** und **für die Zugspitze je 12 Euro.**
-
-[Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-kinder-kostenfrei-mitnehmen-garmisch-sommer)
 
@@ -14639,10 +14631,6 @@ Das Dresden-Wrocław-Spezial gilt ab dem auf der Fahrkarte angegebenen Geltungst
 Das Ticket gilt an einem Tag für eine erwachsene Person.
 Das Ticket kann am Geltungstag bereits ab 0 Uhr bis 3 Uhr des nächsten Tages genutzt werden.
 
-[Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wann-gilt-das-garmischer-sommer-ticket-und-fuer-wen)
 
  Wann gilt das Hopper-Ticket Sachsen-Anhalt?
@@ -15097,10 +15085,6 @@ Sind Sie am 1. Reisetag 65 Jahre oder älter, dann können Sie den Sparpreis Sen
 ----------
 
 Das jeweilige Ticket beinhaltet Bergbahn-Ticket und Bahnfahrt (2. Klasse) für einen Tag in allen Zügen der DB Regio zwischen München Hbf und Garmisch-Partenkirchen.
-
-[Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-beinhalten-die-beiden-ticket-varianten)
 
@@ -17295,10 +17279,6 @@ Der Super Sparpreis Last Minute ist vom 9. Mai bis 13. Dezember 2026 in der regu
 
 Sie erhalten Ihr Bergbahn-Ticket gegen Vorlage des Garmischer Sommer-Tickets an allen Kassen der Bayerischen Zugspitzbahn.
 
-[Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-mein-bergbahn-ticket)
 
  Wie erkenne ich meine neue Sitzplatzreservierung im Zug?
@@ -17782,10 +17762,15 @@ Das Reservierungskontingent können Sie nutzen für:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-sitzplatz-aus-kostenlosen-kontingent-bahncard-100-1kl-buchen)
 
- Wie kaufe ich ein Handy-Ticket NRW eezy?
+ Wie kaufe ich den Luftlinientarif eezy.nrw?
 ----------
 
-Sie benötigen ein Smartphone mit Internetzugang sowie die kostenfreie DB-App "mobil.nrw“. In der App können Sie dann entweder das gewünschte Ticket über die Liste unter "Tickets" direkt auswählen oder Sie geben Start und Ziel in der Fahrplanauskunft der App ein und erhalten eine Ticketempfehlung. Das gewünschte Ticket einfach anklicken und nach der Abbuchung des Kaufbetrages wird das Ticket direkt aufs Handy gesandt.
+Um den elektronischen Luftlinientarif eezy.nrw nutzen zu können, laden Sie sich einfach unsere **App DB NRWay** auf Ihr Smartphone. Nach der Registrierung einfach auf den Button “eezy” klicken, einsteigen und losfahren. Wenn Sie am Ziel ankommen, einfach auf Check-out klicken. Die Berechnung läuft im Hintergrund - also alles echt easy.
+
+Hier können Sie sich die App DB NRWay herunterladen:
+
+* [Zu Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.mentz.bvr_cibo_app)
+* [Zum App Store (Apple)](https://apps.apple.com/de/app/db-nrway/id1580900941)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kaufe-ich-ein-handy-ticket-nrw)
 
@@ -18459,10 +18444,6 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 ----------
 
 **Zugspitze**: Ticketpreis erwachsene Person: **88 Euro**, Ticketpreis Kind in Begleitung einer erwachsenen Person: **12 Euro** (noch bis 30. November erhältlich)
-
-[Weitere Informationen zum Garmischer Sommer-Ticket](https://www.bahn.de/angebot/regio/bayern/garmischer-sommer-ticket)
-
-[Infos zum Kauf](https://www.bahn.de/faq/wo-kann-ich-das-garmischer-sommer-ticket-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-garmischer-sommer-ticket)
 

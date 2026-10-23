@@ -8124,10 +8124,15 @@ Wählen Sie in der App unter „Meine Reisen“ das Ticket aus, mit dem Sie sich
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-ueber-den-navigator-den-komfortcheckin-nutzen)
 
- Wie kaufe ich ein Handy-Ticket NRW eezy?
+ Wie kaufe ich den Luftlinientarif eezy.nrw?
 ----------
 
-Sie benötigen ein Smartphone mit Internetzugang sowie die kostenfreie DB-App "mobil.nrw“. In der App können Sie dann entweder das gewünschte Ticket über die Liste unter "Tickets" direkt auswählen oder Sie geben Start und Ziel in der Fahrplanauskunft der App ein und erhalten eine Ticketempfehlung. Das gewünschte Ticket einfach anklicken und nach der Abbuchung des Kaufbetrages wird das Ticket direkt aufs Handy gesandt.
+Um den elektronischen Luftlinientarif eezy.nrw nutzen zu können, laden Sie sich einfach unsere **App DB NRWay** auf Ihr Smartphone. Nach der Registrierung einfach auf den Button “eezy” klicken, einsteigen und losfahren. Wenn Sie am Ziel ankommen, einfach auf Check-out klicken. Die Berechnung läuft im Hintergrund - also alles echt easy.
+
+Hier können Sie sich die App DB NRWay herunterladen:
+
+* [Zu Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.mentz.bvr_cibo_app)
+* [Zum App Store (Apple)](https://apps.apple.com/de/app/db-nrway/id1580900941)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kaufe-ich-ein-handy-ticket-nrw)
 

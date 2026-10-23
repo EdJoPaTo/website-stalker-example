@@ -1,3 +1,5 @@
+[UGREEN Set-Angebot: Nexode Pro 160W 4-Port-Ladegerät + Nexode Powerbank mit 48.000 mAh und 300 W](https://de.ugreen.com/products/ugreen-set-angebot-nexode-pro-160w-4-port-ladegerat-nexode-powerbank-mit-48-000-mah-und-300-w)
+
 [UGREEN MagFlow Air Kabellose Powerbank (10.000 mAh, Qi2 25 W, 45 W USB-C, integriertes Kabel)](https://de.ugreen.com/products/magflow-air-kabellose-powerbank-10000mah-qi2-25w)
 
  NEU
@@ -35,5 +37,3 @@
 [UGREEN Powerbank (10000mAh, 55W, integriertem Kabel, AirPyra)](https://de.ugreen.com/products/powerbank-10000mah-55w-integriertem-kabel-airpyra)
 
 [UGREEN Nexode Powerbank (25000mAh, 165W, 2 integrierte USB-C Kabel)](https://de.ugreen.com/products/nexode-powerbank-25000mah-165w-integrierte-kabel)
-
-[UGREEN MagFlow Magnetische Powerbank (20000mAh, Qi2 25W, MagSafe-kompatibel)](https://de.ugreen.com/products/magflow-magnetische-kabellose-powerbank-20000mah-45w-magsafe)

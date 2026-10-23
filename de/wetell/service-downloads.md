@@ -74,6 +74,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
 * #### Widerruf und Kündigungen ####
 
   * [Widerrufsformular Mobilfunk](/media/filer_public/01/fb/01fb96ca-d0de-42d4-8f83-c5dad648d370/wetell_05_widerrufsbelehrung_bf_2026-06.pdf)
+  * [Widerrufsformular Glasfaser](/media/filer_public/6a/75/6a757553-4534-41a5-8597-53826711cf35/wetell_05_widerrufsbelehrung_glasfaser_bf_2026-10.pdf)
   * [Kündigungsvorlage alter Anbieter](/media/filer_public/1a/06/1a061960-737f-4ae3-8691-7bf92fe10c8e/kuendigungsvorlage.pdf)
   * [Kündigungsvorlage WEtell](/media/filer_public/a7/af/a7afa2a7-1848-46c5-b902-c501fa94bed0/kuendigungsvorlage_wetell_bf.pdf)
 
@@ -120,4 +121,4 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
   * [Produktinformationsblatt Glasfaser 300](/media/filer_public/34/d6/34d62ed5-608c-4dda-b4c5-518312fe1f96/pib_glasfaser_300_bf_2026-10.pdf)
   * [Produktinformationsblatt Glasfaser 600](/media/filer_public/e1/4f/e14ffe15-38ac-48c4-addc-3904d61181d9/pib_glasfaser_600_bf_2026-10.pdf)
   * [Produktinformationsblatt Glasfaser 1000](/media/filer_public/da/01/da01ea5f-29c8-4c1d-bf9f-640abb8330c3/pib_glasfaser_1000_bf_2026-10.pdf)
-  * [Glasfaser AGB](/media/filer_public/59/04/590421fc-48ba-4cc9-9dd0-6378d1924552/wetell_01_agb_glasfaser_bf_2026-10.pdf)
+  * [Glasfaser AGB](/media/filer_public/24/75/247540aa-9fa2-4206-98c2-ad3317a8c384/wetell_agb_lb_glasfaser_bf_2026-10.pdf)

@@ -70,13 +70,13 @@ Wer einen Server bei netcup mietet, nutzt automatisch Strom aus der eigenen Ener
 
 [Zum Blogbeitrag\>](https://www.netcup.com/de/blog/nachhaltigkeit/netcup-oekostrom-wasserkraft-photovoltaik)
 
-### netcup ist erneut Webhoster des Jahres" ###
+### netcup ist erneut "Webhoster des Jahres" ###
 
 Die Ergebnisse stehen fest, und wir freuen uns riesig: netcup wurde auch dieses Jahr wieder zum Webhoster des Jahres gekürt! Die Wahl wurde bereits zum 12. Mal von HOSTtest durchgeführt. Wir bedanken uns von Herzen bei allen, die für uns abgestimmt haben.
 
 [Mehr lesen \>](https://www.netcup.com/de/blog/news/netcup-ist-webhoster-des-jahres-2026)
 
-### netcup als Webhoster des Jahres 2026 nominiert ###
+### netcup als "Webhoster des Jahres 2026" nominiert ###
 
 Die Community entscheidet: netcup ist auch 2026 wieder in mehreren Kategorien für den Publikumspreis von hosttest.de nominiert, von Webhosting über vServer bis Domains. Wir freuen uns über jede Stimme und sagen schon jetzt Danke für das Vertrauen.
 

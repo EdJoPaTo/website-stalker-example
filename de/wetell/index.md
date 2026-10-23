@@ -298,7 +298,7 @@ Dieses Angebot gilt nur für Tarif-Bestellungen bis zum Ende des Monats. Wir beh
 
 * Telefonieflatrate in alle dt. Netze, ausgenommen Sonderrufnummern.
 * SMS Flatrate in alle dt. Mobilfunknetze, ausgenommen Sonderrufnummern.
-* unlimited GB Inklusiv-Datenvolumen mit max. 100 Mbit/s Downloadgeschwindigkeit, anschließend max. 64 kbit/s
+* unlimited GB Inklusiv-Datenvolumen mit max. 100 Mbit/s Downloadgeschwindigkeit
 * Mehr Details findest du in der [Preisliste des Tarifs](https://www.wetell.de/filer/canonical/1732624908/539/).
 
 **Tarifwechsel**
