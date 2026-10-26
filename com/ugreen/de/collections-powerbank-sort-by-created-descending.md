@@ -4,7 +4,7 @@
 
  NEU
 
-[UGREEN x Honkai: 65W 3-Port Ladegerät + 10000mAh Powerbank](https://de.ugreen.com/products/ugreen-x-honkai-65w-3-port-ladegerat-10000mah-powerbank)
+[UGREEN x Honkai: 65W Ladegerät + 10000mAh Powerbank](https://de.ugreen.com/products/ugreen-x-honkai-65w-3-port-ladegerat-10000mah-powerbank)
 
  NEU
 
