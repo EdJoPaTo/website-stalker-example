@@ -81,7 +81,7 @@ updated 2019-10-04
 
 3d, amp, dac, digi, dsp
 
-updated 2024-03-13
+updated 2026-10-26
 
 [Comparison of HiFiBerry cards for audio recording](https://www.hifiberry.com/docs/hardware/comparison-of-hifiberry-cards-for-audio-recording/)
 

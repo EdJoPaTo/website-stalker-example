@@ -66,6 +66,7 @@ Menü [](https://www.wetell.de/)
   * [Team](https://www.wetell.de/community/team/)
   * [Funklabor](https://www.wetell.de/community/funklabor/)
   * [Funksachen](https://funksachen.wetell.de/)
+  * [Jobs](https://www.wetell.de/community/jobs/)
 
 * Fürs Business
 

@@ -6756,7 +6756,7 @@ Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen, aber 
 
 Als Lufthansa Express Rail Reisende:r sind Sie während der Zugfahrt bis zur Gepäckabgabe im Terminal am Frankfurter Flughafen selbst für Ihr Gepäck verantwortlich. Nutzen Sie dafür die Gepäckautomaten im jeweiligen Terminal. Bei Ihrer Rückreise erhalten Sie Ihr Gepäck nach der Landung in Frankfurt an der Gepäckausgabe des jeweiligen Terminals und nehmen es direkt mit in den Zug.
 
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-muss-ich-bezueglich-meines-gepaecks-beachten)
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-muss-ich-bezueglich-meines-gepaecks-bei-lufthansa-express-rail-beachten)
 
  Was passiert bei einem Gutschein mit dem Restguthaben?
 ----------
