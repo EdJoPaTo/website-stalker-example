@@ -2064,12 +2064,12 @@ Alternativ können Sie unser Kontaktformular nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25-50-kuendigung-zurueck)
 
- Was mache ich, wenn ich eine Mahnung für die BahnCard 25 oder 50 erhalten habe und die BahnCard gesperrt wurde?
+ Was mache ich, wenn ich eine Mahnung für die BahnCard 25 oder 50 erhalten habe?
 ----------
 
 Begleichen Sie den offenen Betrag per Überweisung. Für den nächsten Zahlungslauf können Sie uns bequem über Ihr DB Kundenkonto das SEPA-Lastschriftmandat erteilen.
 
-Falls die BahnCard 25/50 schon gesperrt wurde, wird diese anschließend innerhalb von 7 Tagen wieder in Ihrem DB Kundenkonto aktiviert.
+Falls die BahnCard 25/50 gesperrt wurde, wird diese anschließend innerhalb von 7 Tagen wieder in Ihrem DB Kundenkonto aktiviert.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25-50-mahnung)
 

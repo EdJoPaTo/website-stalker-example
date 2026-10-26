@@ -1007,6 +1007,7 @@
 * [Satellitenbau](https://www.wdrmaus.de/filme/sachgeschichten/satellitenbau.php5)
 * [Satellitenwettbewerb](https://www.wdrmaus.de/filme/sachgeschichten/Satellitenwettbewerb.php5)
 * [Sattel](https://www.wdrmaus.de/filme/sachgeschichten/sattel.php5)
+* [Sauerteigbrot](https://www.wdrmaus.de/filme/sachgeschichten/sauerteigbrot.php5)
 * [Saugbagger](https://www.wdrmaus.de/filme/sachgeschichten/saugbagger.php5)
 * [Schallplatte](https://www.wdrmaus.de/filme/sachgeschichten/schallplatte.php5)
 * [Schaltjahr](https://www.wdrmaus.de/filme/sachgeschichten/29_Februar.php5)

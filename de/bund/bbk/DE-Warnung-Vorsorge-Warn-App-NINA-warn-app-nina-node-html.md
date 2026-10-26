@@ -307,4 +307,8 @@ Diese Meldungen können auch ortsbezogen ausgewählt werden. Sie können per **R
 
   [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)
 
+* [Entwicklung und Technik](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/entwicklung-technik_node.html)
+
+  [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/entwicklung-technik_node.html)
+
 [Warnung & Vorsorge](https://www.bbk.bund.de/DE/Warnung-Vorsorge/warnung-vorsorge_node.html)
