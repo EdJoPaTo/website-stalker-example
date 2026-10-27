@@ -18,6 +18,12 @@ Not all Shelly devices receive the same firmware updates. See [Firmware Update P
 Unreleased
 ----------
 
+**Available as `2.2.0-beta2`**
+
+### Fixed ###
+
+* Update CA bundles, drop compromised eMudhra roots
+
 **Available as `2.2.0-beta1`**
 
 ### Added ###
@@ -98,12 +104,26 @@ Unreleased
 * Color wheel overlay; card collapsible symmetry; sticky class overlap for wizard/modal
 * [Plus Uni](/gen2/Devices/Gen2/ShellyPlusUni): peripherals restored
 
+[2.1.1] 2026-10-26
+----------
+
+### Fixed ###
+
+* Update CA bundles, drop compromised eMudhra roots
+
 [2.1.0] 2026-10-14
 ----------
 
 ### Added ###
 
 * PM & Energy Metering Devices: Add support for Shelly Cloud NILM services (Non-Intrusive Load Monitoring)
+
+[2.0.3] 2026-10-26
+----------
+
+### Fixed ###
+
+* Update CA bundles, drop compromised eMudhra roots
 
 [2.0.2] 2026-10-09
 ----------
@@ -391,6 +411,13 @@ Firmware version `2.0.0` is being rolled out in phases, not all devices will rec
 * Fixed unnecessary network calls to battery-powered [BluTRV](/gen2/Devices/Gen3/ShellyBluGwG3#blutrv) devices when not viewing schedules
 * Fixed [Webhook](/gen2/ComponentsAndServices/Webhook) repeat period input not accepting the full range of valid values
 * Fixed [WiFi](/gen2/ComponentsAndServices/WiFi) settings clearing the stored password or triggering unnecessary reconnections
+
+[1.7.6] 2026-10-26
+----------
+
+### Fixed ###
+
+* Update CA bundles, drop compromised eMudhra roots
 
 [1.7.5] 2026-03-12
 ----------
