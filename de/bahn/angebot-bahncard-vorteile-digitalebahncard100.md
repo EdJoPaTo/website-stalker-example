@@ -119,7 +119,11 @@ Erst nach der Verknüpfung ist der QR-Code der digitalen BahnCard 100 in der App
 
 ###  Wie oft kann ich meine digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket mit einem anderen Smartphone verknüpfen?  ###
 
-Ihre BahnCard 100 als Jahreskarte können Sie während der Gültigkeit selbst dreimal mit einem anderen Gerät verknüpfen. Das gilt auch für das zusätzliche digitale Deutschland-Ticket. Bei einer Probe BahnCard 100 und dem zusätzlichen digitalen Deutschland-Ticket ist das einmal während der Gültigkeit möglich. Dabei können die BahnCard 100 und das Deutschland-Ticket unabhängig voneinander auf unterschiedlichen Geräten verknüpft werden.
+Ihre BahnCard 100 als Jahreskarte können Sie während der Gültigkeit selbst dreimal mit einem anderen Gerät verknüpfen. Das gilt auch für das zusätzliche digitale Deutschland-Ticket.
+
+Bei einer Probe BahnCard 100 und dem zusätzlichen digitalen Deutschland-Ticket ist das einmal während der Gültigkeit möglich.
+
+Dabei können die BahnCard 100 und das Deutschland-Ticket unabhängig voneinander auf unterschiedlichen Geräten verknüpft werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-wie-oft)
 

@@ -539,17 +539,6 @@ Tickets des Schleswig-Holstein-Tarifs können **90 Tage im Voraus** über [bah
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-buchbar-sh-tarif)
 
- Ab wann ist meine DB Monatskarte im Abo gültig?
-----------
-
-Die Fahrkarte hat einen flexiblen Geltungsbeginn, d.h. Ihr Abo gilt ab dem von Ihnen gewählten 1. Geltungstag.
-
-[Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ab-wann-ist-meine-monatskarte-im-abo-gueltig)
-
  Ab wann ist meine Monats-/Wochen-/Zeitkarte gültig?
 ----------
 
@@ -3128,24 +3117,6 @@ Darüber hinaus ist der Flexpreis Young auch in den DB Reisezentren sowie in DB 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-flexpreis-young)
 
- Ich habe Probleme bei der Buchung eines IC/EC-Abos. An wen kann ich mich wenden?
-----------
-
-Eine Bestellung des Persönlichen Monats-/Jahreskarte im Abo IC/EC, Nahverkehr können Sie hier durchführen:
-
-* [**Online-Bestellung DB FV Abo IC/EC**](https://abo.bahn.de/bestellen/?tarifid=184)
-
-Die Kontaktdaten des Abo-Centers für Fernverkehrsbuchungen finden Sie unter bahn.de/abokontakt unterhalb des Buchbstaben „D".
-
-* [Online-Bestellung DB FV Abo IC/EC](https://abo.bahn.de/bestellen/?tarifid=184)
-* [bahn.de/abokontakt](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline/abo_center)
-
-[Weitere Informationen zum Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
-
-[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/buchung-ic-ec-abo)
-
  Warum kann ich weiter entfernte Sharing-Fahrzeuge nicht im Voraus buchen?
 ----------
 
@@ -4565,7 +4536,11 @@ Nein, Sie können Ihre digitale BahnCard 100 und das zusätzliche digitale Deuts
  Wie oft kann ich meine digitale BahnCard 100 und das zusätzliche digitale Deutschland-Ticket mit einem anderen Smartphone verknüpfen?
 ----------
 
-Ihre BahnCard 100 als Jahreskarte können Sie während der Gültigkeit selbst dreimal mit einem anderen Gerät verknüpfen. Das gilt auch für das zusätzliche digitale Deutschland-Ticket. Bei einer Probe BahnCard 100 und dem zusätzlichen digitalen Deutschland-Ticket ist das einmal während der Gültigkeit möglich. Dabei können die BahnCard 100 und das Deutschland-Ticket unabhängig voneinander auf unterschiedlichen Geräten verknüpft werden.
+Ihre BahnCard 100 als Jahreskarte können Sie während der Gültigkeit selbst dreimal mit einem anderen Gerät verknüpfen. Das gilt auch für das zusätzliche digitale Deutschland-Ticket.
+
+Bei einer Probe BahnCard 100 und dem zusätzlichen digitalen Deutschland-Ticket ist das einmal während der Gültigkeit möglich.
+
+Dabei können die BahnCard 100 und das Deutschland-Ticket unabhängig voneinander auf unterschiedlichen Geräten verknüpft werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-100-verknuepfen-wie-oft)
 
@@ -5901,17 +5876,6 @@ Die maximalen Abmessungen von 90 x 60 x 40 cm pro Gepäckstück dürfen dabei ni
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gepaeckmitnahme-sparpreis-europa-italien)
 
- Gibt es DB Monats- und Jahreskarten Abos auch als Jobtickets?
-----------
-
-Ja, Zeitkarten der DB und des Deutschlandtarifs werden auch als Jobtickets angeboten.
-
-[Weitere Informationen über das Jobticket](https://www.bahn.de/angebot/pendler/db-jobticket)
-
-[Jetzt bestellen](https://abo.bahn.de/bestellen/?tarifid=264,266)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gibt-es-abos-auch-als-jobtikets)
-
  Kann ich Wochen- oder Monatskarten von Verkehrsverbünden - sogenannte Verbundzeitkarten - in der App DB Navigator kaufen?
 ----------
 
@@ -7098,7 +7062,7 @@ Bis zu 6 Monate vor der geplanten Fahrt. Dies ist abhängig von der Verkaufsöff
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-sbb-buchung-im-voraus)
 
- Gibt es eine Sitzplatz-Reservierungspflicht für meine Trenitalia-Fahrkarte?
+ Gibt es eine Sitzplatz-Reservierungspflicht für meine SBB-Fahrkarte?
 ----------
 
 Reservierungen sind in der Schweiz generell unüblich, da zumeist ausreichend Sitzplätze zur Verfügung stehen. Es wird in den meisten Fernzügen ein kleines Kontingent an reservierbaren Plätzen vorgehalten. Diese können auch bei der DB gebucht werden. Wenn keine Reservierung erhältlich ist, heißt das nicht zwangsläufig, dass Sie keinen Platz mehr erhalten.
@@ -7602,17 +7566,6 @@ An Wochentagen ist das Ticket von 9 Uhr bis 3 Uhr des nächsten Tages nutzbar.
 An Wochenenden, Feiertagen (inklusive Maria Himmelfahrt) sowie am 24. und 31. Dezember können Sie das Ticket von 0 Uhr bis 3 Uhr des nächsten Tages nutzen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-das-bayern-ticket-am-samstag-auch-schon-ab-8-uhr-gueltig)
-
- Ist das Deutschland-Ticket bei meiner DB Monats-/Jahreskarte im Abo inklusive?
-----------
-
-Nein, das Deutschland-Ticket ist bei DB Abos nicht inklusive.
-
-[Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ist-das-deutschland-ticket-bei-abos-inklusive)
 
  Ist das FerienTicket NRW übertragbar?
 ----------
@@ -8207,17 +8160,6 @@ Mit einer BahnCard 1. Klasse erhalten Sie den BahnCard Rabatt auch in der 2. Kla
 [Alle BahnCards im Überblick](https://www.bahn.de/angebot/bahncard)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-einer-bahncard-1kl-auch-tickets-fuer-die-2kl-buchen)
-
- Kann ich mit meinem DB Monats- und Jahreskarten Abo BahnBonus Punkte sammeln?
-----------
-
-Ja, die BahnBonus Punkte werden Ihnen nach Kauf gutgeschrieben. Hierfür müssen Sie beim Kauf Ihre BahnBonus Nummer angeben.
-
-[Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mit-meinem-abo-bahnbonus-punkte-sammeln)
 
  Darf ich mit mit meiner BahnCard 100 auch Züge und Verbindungen von Flixtrain nutzen?
 ----------
@@ -9174,7 +9116,7 @@ Die LogPay Financial Services GmbH ist ein etablierter Zahlungsdienstleister im 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/lounge-bundeswehr-ticket)
 
- Warum wurde mir eine Mahngebühr berechnet?
+ Warum wurde mir eine Mahngebühr vom DB Abo-Center berechnet?
 ----------
 
 Für eine Mahngebühr konnte die Mahnung nicht mehr E-Mail versendet werden. Daher war ein Postversand nötig.
@@ -9656,47 +9598,6 @@ Falls Sie Ihre Reservierung **nicht** über die App DB Navigator gebucht haben
 Bei Reservierungen, die Sie im DB Navigator gebucht haben, erhalten Sie zusätzlich eine Push-Nachricht.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/moeglichkeiten-info-neue-sitzplatzreservierung)
-
- Kann ich die Monatskarte im Abo umtauschen oder zurückgeben?
-----------
-
-Umtausch und Rückgabe sind vor dem 1. Geltungstag des neuen Geltungsjahres kostenfrei, danach gegen ein Entgelt von 19 Euro im Fernverkehr und 17,50 Euro im Nahverkehr gemäß Deutschlandtarif möglich. Vorlauffristen sind zu beachten (siehe [Beförderungsbedingungen](https://www.bahn.de/agb)).
-
-Der Umtausch in ein digitales Abo ist kostenfrei.
-
-Nutzen Sie die Funktion "Umtausch" im Aboportal für Ihre Anfrage.
-
-[Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/monatskarte-im-abo-umtausch-und-rueckgabe)
-
- Wie kann ich meine Monats- oder Jahreskarte im Abo bezahlen?
-----------
-
-Bei Monats- und Jahreskarten im Abo ist eine Zahlung nur per Lastschrift möglich.
-
-[Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/monatskarte-und-jahreskarte-im-abo-bezahlung)
-
- Wo kann ich meine Monats-/Jahreskarte im Abo buchen?
-----------
-
-Suchen Sie sich über die Reiseauskunft Ihre passende Verbindung aus. Anschließend werden alle verfügbaren Angebote angezeigt. Wählen Sie oben rechts den Button „Zeitkarten“ aus.
-
-Die Mehrfahrten-Tickets des Fernverkehrs sind über [mehrfahrten-ticket-bahn.de](https://www.mehrfahrten-ticket-bahn.de/) erhältlich.
-
-* [Bestellschein Deutschlandtarif Jahreskarte/Monatskarte im Abo (PDF, 354 KB)](https://assets.static-bahn.de/dam/jcr:64fa9176-a129-4101-8f6b-3c4ce03053d8/Bestellschein_DB_Standard_DT_ab_1.1.25.2025-01-10-14-15-32.pdf)
-
-[Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/monatskarten-jahreskarten-im-abo-wo-kaufen)
 
  Welche Tickets des Move sind in der App DB Navigator oder online erhältlich?
 ----------
@@ -11885,17 +11786,6 @@ Die Lage und die Anzahl dieser Plätze sind abhängig vom Zugtyp.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sind-bahnbonus-plaetze-auch-in-zuegen-vorhanden-fuer-die-neue-sitzplatzreservierungen-zugeteilt-werden)
 
- Sind DB Monatskarten im Abo übertragbar?
-----------
-
-Für den Fernverkehr (ICE, IC/EC) sind ausschließlich personalisierte Zeitkarten erhältlich. Für Nahverkehrsverbindungen haben Sie die Wahl zwischen einer personalisierten und übertragbaren Zeitkarte.
-
-[Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/sind-monatskarten-im-abo-uebertragbar)
-
  Sitzen wir mit Gruppe&Spar Europa im Zug zusammen?
 ----------
 
@@ -13050,17 +12940,6 @@ Umtausch, Erstattung oder Stornierung einzelner Teilnehmer ist bis 7 Tage vor Re
 Melden Sie den Schaden bitte umgehend beim Kundenservice des entsprechenden [Sharing-Anbieters](https://www.bahn.de/faq/erreichbarkeit-sharingdienste), damit das Fahrzeug schnell überprüft werden kann und keine weiteren Nutzerinnen und Nutzer gefährdet werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unfall-fahrrad-scooter-kontakt)
-
- Wie unterscheiden sich DB Monatskarten im Abo von Jahreskarten im Abo?
-----------
-
-Der Unterschied liegt in der Bezahlung und dem damit verbundenen Preis des Produktes. Bei Monatskarten im Abo können Sie 12 Monate fahren und zahlen 10 Monate. Dabei erfolgt die Zahlung monatlich. Bei Jahreskarten im Abo können Sie 12 Monate fahren und zahlen nur 9,5 Monate. Dabei erfolgt die Zahlung jährlich.
-
-[Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/unterschied-monatskarten-und-jahreskarten-im-abo)
 
  Kann ich das Sparpreis Gruppe-Ticket unverbindlich reservieren?
 ----------
@@ -16603,17 +16482,6 @@ Wenn das Abo bei der DB Vertrieb GmbH gekauft wurde, kann es im Aboportal in ein
 * [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-marego-angebote-werden-unterstuetzt)
-
- Welche Mitnahmeregelungen gelten für DB Monats- und Jahreskarten im Abo?
-----------
-
-An Samstagen können Sie kostenfrei eine weitere Person mitnehmen. Zusätzlich können Sie – im Fernverkehr an Samstagen, im Deutschlandtarif täglich – kostenfrei bis zu 3 Kinder im Alter von 6-14 Jahren mitnehmen.
-
-[Weitere Informationen zu Monats-/Jahreskarten im Abo](https://www.bahn.de/angebot/pendler/monats-jahreskarten-abo)
-
-[Preise vergleichen und bestellen](https://www.bahn.de/buchung/intern/start#?et=STRECKENZEITKARTE)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-mitnahmeregelungen-gelten-fuer-abos)
 
  Bei welchen Tickets kann ich das 1. Klasse-Upgrade im Nahverkehr nutzen?
 ----------
@@ -21244,21 +21112,6 @@ Mit der Umstellung wird das Zeitkartenangebot vereinfacht und flexibler gestalte
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abos-eingestellt-warum)
-
- Warum endet meine Persönliche Jahreskarte im Abo bereits vor Ablauf eines Jahres?
-----------
-
-Ihr Abo endet vorzeitig, denn DB Fernverkehr stellt das Angebot der Zeitkarten-Abonnements ein. Am **21. Oktober 2026** bestehende Abonnements werden zum **Juni 2027 gekündigt**. Bis zu diesem Zeitpunkt können Sie Ihr Abo zum Preisvorteil eines Jahresabonnements nutzen.
-
-Endet Ihr Abo **vor Ablauf von 12 Monaten**, erhalten Sie die nicht genutzte Restlaufzeit automatisch anteilig erstattet. Sie müssen hierfür nichts tun.
-
-Ab dem **21. Oktober 2026** stehen Ihnen weiterhin attraktive Alternativen ohne Abo zur Verfügung. Dazu gehört insbesondere die dauerhaft vergünstigte Persönliche Monatskarte.
-
-[Informationen zu Wochen/Monatskarten im Abo](https://www.bahn.de/angebot/pendler/wochen-monatskarten)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/zeitkarten-abos-gekuendigt)
 
  Bleibt die Regelung zur Gültigkeit bei DB Zeitkarten bis 12 Uhr des folgenden Werktages bestehen?
 ----------

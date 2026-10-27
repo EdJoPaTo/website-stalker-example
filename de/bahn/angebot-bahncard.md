@@ -1,11 +1,11 @@
 Finden Sie hier Ihre passende BahnCard
 ==========
 
-Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland.
+Suchen Sie die passende BahnCard für sich aus – je nach Alter, Reiseverhalten und Nutzungszeitraum. Sparen Sie mit einer BahnCard 25 oder 50 auf jede Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland.
 
 Finden Sie hier Ihre passende BahnCard
 
-Sparen Sie mit einer BahnCard 25 oder 50 Prozent auf die Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland.
+Suchen Sie die passende BahnCard für sich aus – je nach Alter, Reiseverhalten und Nutzungszeitraum. Sparen Sie mit einer BahnCard 25 oder 50 auf jede Fahrt. Mit der BahnCard 100 reisen Sie sogar unbegrenzt in Deutschland.
 
 ### Probe BahnCard 25 ###
 
