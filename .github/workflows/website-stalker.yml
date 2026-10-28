@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   website-stalker:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       - uses: EdJoPaTo/website-stalker-github-action@v1
 
