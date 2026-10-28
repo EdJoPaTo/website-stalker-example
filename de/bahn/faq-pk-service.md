@@ -311,10 +311,10 @@ In diesem Fall wählen Sie die 2-Faktor-Authentifizierung via Authentifizierungs
 
 Um per Lastschriftverfahren bezahlen zu können, müssen Sie folgende Voraussetzungen erfüllen:
 
-* Sie müssen volljährig sein
-* Der Sitz Ihrer angegebenen Bank muss im SEPA-Raum liegen
-* Sie besitzen bereits ein Kund:innenkonto bei uns und haben dort die Anmeldedaten zur SEPA-Lastschrift hinterlegt
-* Sie müssen während der Buchung mit Ihrem Kund:innenkonto eingeloggt sein
+* Sie müssen volljährig sein.
+* Der Sitz Ihrer angegebenen Bank muss im SEPA-Raum liegen.
+* Sie besitzen bereits ein Kundenkonto bei uns und haben dort die Anmeldedaten zur SEPA-Lastschrift hinterlegt.
+* Sie müssen während der Buchung mit Ihrem Kundenkonto eingeloggt sein.
 
 Gegebenenfalls werden Sie aufgefordert, Ihre Bankdaten mit Ihrem Online-Banking Login zu bestätigen. Dazu stehen die Verfahren von Tink und Verimi zur Verfügung. Falls Sie über kein Online-Banking verfügen, bietet Ihnen Verimi eine alternative Verifizierung mit Foto-Ident oder eID an.
 
@@ -2312,10 +2312,6 @@ Bis vor dem 1. Geltungstag ist eine Stornierung kostenfrei. Danach ist eine Stor
 * Keine Ermäßigung für Kinder
 * Gilt für die Fahrradmitnahme bei beliebig vielen Fahrten innerhalb von 24 Stunden gemäß Angabe auf dem Ticket (Aufdruck oder Entwerterstempel)
 
-[Weitere Informationen zur Fahrrad-Tageskarte NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-gueltig)
 
  Wo kann ich das 24hFahrradTicket NRW kaufen?
@@ -2333,10 +2329,6 @@ Das 24hFahrradTicket NRW bekommen Sie an DB Automaten, in den DB Reisezentren, i
 Das 24hFahrradTicket NRW kostet 6,30 Euro pro Rad für 24 Stunden.
 
 Das 24hFahrradTicket NRW gilt zur Mitnahme jeweils eines Fahrrads in Zusammenhang mit einem Ticket des NRW-Tarifs für die reisende Person. Reisen mehrere Personen gemeinsam mit einem Ticket (z. B. 24hTicket NRW 5 Personen oder im Rahmen der Mitnahmeregelung, so ist für jedes mitgeführte Fahrrad ein 24hFahrradTicket NRW erforderlich. Das 24hFahrradTicket NRW kann auch zusammen mit beliebigen Tickets der NRW-Verbundtarife sowie dem Deutschland-Ticket genutzt werden.
-
-[Weitere Informationen zum 24hFahrradTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-nrw-kosten)
 
@@ -4395,7 +4387,7 @@ Wichtig: Wenn Sie eine alternative Verbindung auswählen, behalten Sie Ihr urspr
  Was mache ich, wenn ich meine Bank über TINK oder Verimi nicht finde?
 ----------
 
-Wenn Sie Ihre Bank über Online-Banking nicht finden, wählen Sie „Ohne Online Banking“ und im nächsten Schritt eine der angebotenen Bestätigungsmethoden.
+Wenn Sie Ihre Bank über Online-Banking nicht finden, wählen Sie "Ohne Online Banking" und im nächsten Schritt eine der angebotenen Bestätigungsmethoden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/meine-bank-findet-mich-nicht-ueber-tink-oder-verimi)
 
@@ -7105,7 +7097,7 @@ Für Nahverkehrszüge zeigt die aktuelle Wagenreihung
  Welche Kosten fallen bei der Nutzung von Tink oder Verimi an?
 ----------
 
-Keine. Das Verifizierungsverfahren ist für unsere Kund:innen kostenlos.
+Keine. Das Verifizierungsverfahren ist für unsere Kundinnen und Kunden kostenlos.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/welche-kosten-fallen-bei-der-nutzung-von-tink-oder-verimi-an)
 
@@ -8452,12 +8444,12 @@ Sie sind eingeloggt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-mit-passkey-an)
 
- Wie füge ich mein Abo im DB Navigator hinzu?
+ Wie füge ich mein DB Abo im DB Navigator hinzu?
 ----------
 
-Falls Sie das Abo im DB Navigator für sich selbst gekauft haben, wird es direkt nach der Bestellung unter "Reisen" als neues Handy-Ticket hinzugefügt.​
+Falls Sie das Abo im DB Navigator für sich selbst gekauft haben, wird es direkt nach der Bestellung unter "Reisen" als neues Handy-Ticket hinzugefügt.​ Haben Sie das Abo nicht selbst gekauft oder wird es nicht automatisch angezeigt: Öffnen Sie den Bereich "Reisen", tippen Sie auf das Plus-Symbol (+) und geben Sie Ihre Abonummer sowie Ihren Nachnamen ein. Ein Login ist dafür nicht erforderlich.
 
-Ansonsten können Sie es folgendermaßen hinzufügen:​
+Die Schritte zum Hinzufügen Ihres Abos im einzelnen:
 
 1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
 2. Wechseln Sie zum Bereich "Reisen", tippen Sie oben auf das Plus-Icon (+) und geben Sie Ihre Abonummer und Ihren Nachnamen ein. Ein Login ist nicht erforderlich.
@@ -8468,6 +8460,8 @@ Sie finden Ihre Abonummer oder die Mail nicht, aber sind angemeldet? Gehen Sie i
 * [Weitere Tipps zum Abo als Handy-Ticket](https://www.bahn.de/faq/handyticket-zufuegen)
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 * [Über die App](https://www.bahn.de/service/mobile/db-navigator)
+* [Wo finde ich meine Abonummer?](https://www.bahn.de/faq/wo-finde-ich-meine-abonummer)
+* [Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?](https://www.bahn.de/faq/handyticket-wird-nicht-angezeigt)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-den-db-navigator-zur-anzeige-meines-db-abos)
 

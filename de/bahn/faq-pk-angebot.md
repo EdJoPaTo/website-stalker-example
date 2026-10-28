@@ -5521,10 +5521,6 @@ Nein, für die Mitnahme von Fahrrädern brauchen Sie eine Fahrradtageskarte oder
 
 * [Mehr zur Fahrradmitnahme in NRW](https://www.bahn.de/service/individuelle-reise/fahrrad/rad-nahverkehr)
 
-[Infos und Buchung 24hFahrradTicket NRW](https://www.bahn.de/angebot/zusatzticket/fahrrad/tageskarte-nrw)
-
-[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1&VM=03,04,05,06,07,08,09&so=Dortmund%20Hbf&zo=K%C3%B6ln%20Hbf)
-
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fahrrad-mitnehmen-24h-ticket-nrw)
 
  Darf ich mein Fahrrad mit dem Baden-Württemberg-Ticket kostenfrei mitnehmen?
@@ -6533,10 +6529,19 @@ Erhalten Sie beim Hinzufügen eine Fehlermeldung, prüfen Sie bitte folgendes:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-finde-mein-abo-im-aboportal-nicht-wie-kann-das-sein)
 
- Ich habe kein Smartphone - kann ich die digitale BahnCard trotzdem nutzen?
+ Ich habe kein Smartphone – kann ich die digitale BahnCard trotzdem nutzen?
 ----------
 
 Ja. Sie finden das Ersatzdokument als PDF-Dokument in Ihrem DB Kundenkonto. Dieses Dokument können Sie ausdrucken und bei Ihrer Bahnreise mitführen.
+
+Wenn Sie kein Smartphone nutzen, können Sie so das Ersatzdokument abrufen:
+
+1. Loggen Sie sich auf bahn.de in Ihr DB Kundenkonto ein.
+2. Klicken Sie rechts oben auf Ihr Profil und dort auf "Kundenkonto verwalten".
+3. Wählen Sie den Bereich "BahnCard" aus. Dort finden Sie Ihre BahnCard.
+4. Klicken Sie rechts oben auf das Feld Optionen und weiter auf "Details und Rechnungen".
+5. Neben den Gültigkeitsdaten Ihrer BahnCard finden Sie den Button "Ersatzdokument anzeigen".
+6. Das Dokument wird heruntergelanden und steht zum Ausdruck bereit.
 
 [Alles zur digitalen BahnCard](https://www.bahn.de/angebot/bahncard/vorteile/digitalebahncard)
 
@@ -18026,12 +18031,12 @@ Ist noch kein Abo verknüpft oder möchten Sie über "Abo hinzufügen" einen wei
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-im-aboportal-an)
 
- Wie füge ich mein Abo im DB Navigator hinzu?
+ Wie füge ich mein DB Abo im DB Navigator hinzu?
 ----------
 
-Falls Sie das Abo im DB Navigator für sich selbst gekauft haben, wird es direkt nach der Bestellung unter "Reisen" als neues Handy-Ticket hinzugefügt.​
+Falls Sie das Abo im DB Navigator für sich selbst gekauft haben, wird es direkt nach der Bestellung unter "Reisen" als neues Handy-Ticket hinzugefügt.​ Haben Sie das Abo nicht selbst gekauft oder wird es nicht automatisch angezeigt: Öffnen Sie den Bereich "Reisen", tippen Sie auf das Plus-Symbol (+) und geben Sie Ihre Abonummer sowie Ihren Nachnamen ein. Ein Login ist dafür nicht erforderlich.
 
-Ansonsten können Sie es folgendermaßen hinzufügen:​
+Die Schritte zum Hinzufügen Ihres Abos im einzelnen:
 
 1. Installieren Sie die App DB Navigator auf Ihrem Smartphone.
 2. Wechseln Sie zum Bereich "Reisen", tippen Sie oben auf das Plus-Icon (+) und geben Sie Ihre Abonummer und Ihren Nachnamen ein. Ein Login ist nicht erforderlich.
@@ -18042,6 +18047,8 @@ Sie finden Ihre Abonummer oder die Mail nicht, aber sind angemeldet? Gehen Sie i
 * [Weitere Tipps zum Abo als Handy-Ticket](https://www.bahn.de/faq/handyticket-zufuegen)
 * [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 * [Über die App](https://www.bahn.de/service/mobile/db-navigator)
+* [Wo finde ich meine Abonummer?](https://www.bahn.de/faq/wo-finde-ich-meine-abonummer)
+* [Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?](https://www.bahn.de/faq/handyticket-wird-nicht-angezeigt)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-nutze-ich-den-db-navigator-zur-anzeige-meines-db-abos)
 

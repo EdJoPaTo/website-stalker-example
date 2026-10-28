@@ -100,11 +100,27 @@ netcup.com ist die Vertriebsplattform von netcup GmbH, deinem Ansprechpartner f�
 Ausgezeichnet gut - Lösungen, die überzeugen
 ----------
 
-* Reader's Choice Service Provider Awards 2025 Gold
+Unsere Kunden, unabhängige Portale, Zeitschriften und Online-Medien berichten regelmäßig über unsere Produkte und Dienstleistungen. Unsere Qualität und Verfügbarkeit wurden bereits mehrfach ausgezeichnet.
 
-* HOSTtest Webhoster des Jahres 2025
+1. Platz
+----------
 
-* Reader's Choice Service Provider Awards 2024 Silver
+in der Kategorie vServer - HOSTtest Webhoster des Jahres 2026
+
+1. Platz
+----------
+
+in der Kategorie Domains - HOSTtest Webhoster des Jahres 2026
+
+Platin Auszeichnung
+----------
+
+bei den Service Provider Awards 2026 in der Kategorie Managed Hosting Service Provider
+
+Testnote "Sehr gut"
+----------
+
+beim vServer-Test der unabhängigen Plattform hosttest.de
 
 Ökostrom
 ----------
