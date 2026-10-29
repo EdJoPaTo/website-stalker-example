@@ -34,7 +34,7 @@ If you are a business customer, need more than five laptops or desktops per orde
 
  Choose an option
 
-[FAQ](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=163&faqable_type=section)
+[FAQ, System](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=163&faqable_type=section)
 
 System
 
@@ -66,7 +66,7 @@ System
 
  Choose an option
 
-[FAQ](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=164&faqable_type=section)
+[FAQ, Primary Storage (M.2 2280)](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=164&faqable_type=section)
 
 Primary Storage (M.2 2280)
 
@@ -84,7 +84,7 @@ Primary Storage (M.2 2280)
 
  Choose an option
 
-[FAQ](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=167&faqable_type=section)
+[FAQ, Secondary Storage (M.2 2280)](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=167&faqable_type=section)
 
 Secondary Storage (M.2 2280)
 
@@ -102,7 +102,7 @@ Secondary Storage (M.2 2280)
 
  Choose an option
 
-[FAQ](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=161&faqable_type=section)
+[FAQ, Operating System](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=161&faqable_type=section)
 
 Operating System
 
@@ -114,7 +114,7 @@ Operating System
 
  Choose an option
 
-[FAQ](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=169&faqable_type=section)
+[FAQ, CPU Fan](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=169&faqable_type=section)
 
 CPU Fan
 
@@ -127,7 +127,7 @@ CPU Fan
 
  Choose an option
 
-[FAQ](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=166&faqable_type=section)
+[FAQ, Power Cable](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=166&faqable_type=section)
 
 Power Cable
 
@@ -154,7 +154,7 @@ Side Panel
 
  Choose at least 21
 
-[FAQ](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=162&faqable_type=section)
+[FAQ, Tiles](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=162&faqable_type=section)
 
 Framework Desktop has 21 tile slots in the front for you to customize freely, you can choose different tile packs with base colors, special tiles with logos or even [3D print your own tiles](https://github.com/FrameworkComputer/Framework-Desktop)! We recommend ordering 21 tiles minimum.
 
@@ -261,7 +261,7 @@ Quick select
 
  Choose any number
 
-[FAQ](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=165&faqable_type=section)
+[FAQ, Expansion Cards](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=165&faqable_type=section)
 
 Customize your ports with the Expansion Card system.
 

@@ -130,6 +130,10 @@ Plus a number of other drop, bump, and vibration tests.
 One laptop, every angle
 ----------
 
+Play video Pause video
+
+Play video Pause video
+
 Framework Laptop 12 is a true convertible. The 360-degree hinge moves through three modes: clamshell for daily work, tent for watching and presenting (or as a second screen when docked), and tablet for sketching and marking up directly on the 12.2" touchscreen. Touch input and USI 2.0 stylus support mean you can work the way you want, in any mode.
 
 Five colors, all portable

@@ -20142,9 +20142,7 @@ Prüfen Sie bitte vor Kauf Ihres Tickets die Schnee- und Wetterbedingungen sowie
  Wo kann ich das Kombiticket Bahnspaß kaufen?
 ----------
 
-Sie können das Kombiticket Bahnspaß direkt bei der Reederei Adler-Schiffe online buchen unter adler.schiffe.de.
-
-[Zu adler.schiffe.de](https://www.adler-schiffe.de/buchen/?relation=adler-6185-15-15&date=&ref=#booknow)
+Das Kombiticket Bahnspaß macht Winterpause, Sie können es ab März 2027 direkt bei der Reederei Adler-Schiffe online buchen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-das-kombiticket-bahnspass-kaufen)
 

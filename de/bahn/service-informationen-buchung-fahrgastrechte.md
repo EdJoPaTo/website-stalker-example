@@ -11,6 +11,14 @@ Hier finden Sie Informationen, welche Entschädigung Ihnen bei Zugverspätungen,
 
 Sie können bei uns Ihre Fahrgastrechte für alle Züge der Deutschen Bahn geltend machen: S-Bahn, RB, RE, IRE, IC/EC, ICE sowie Nachtzüge.
 
+Vorsicht vor gefälschten Entschädigungs-SMS
+----------
+
+Aktuell werden betrügerische SMS im Namen der Deutschen Bahn versendet. Darin wird behauptet, eine DB-Entschädigung sei bestätigt worden. Über einen Link sollen Empfänger:innen anschließend ihre angebliche Entschädigung abrufen.
+Entschädigungsansprüche im Rahmen der Fahrgastrechte können Sie über die offiziellen Wege der Deutschen Bahn einreichen. Auf dieser Seite finden Sie alle Informationen.
+
+* [Mehr Details zu gefälschten SMS](https://www.bahn.de/info/sonderkommunikation-phishing)
+
 So können Sie Ihren Entschädigungsanspruch geltend machen...
 ----------
 
@@ -166,6 +174,6 @@ Weitere Informationen
 * [Beförderungsbedingungen für den Personenverkehr](https://www.bahn.de/agb)
 * [Ihre Fahrgastrechte im Eisenbahnverkehr (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-im-Eisenbahnverkehr-One-Pager.pdf)
 * [Broschüre "Ihre Rechte als unser Fahrgast" (PDF, 1 MB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/FGR-Broschuere-Ihre-Rechte-Als-Unser-Fahrgast.pdf)
-* [Übersicht über die vertraglichen Beförderer in Deutschland (PDF, 528 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Uebersicht-vertragliche-Befoerderer.pdf)
+* [Übersicht über die vertraglichen Beförderer in Deutschland (PDF, 497 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Uebersicht-vertragliche-Befoerderer-Okt-2026.pdf)
 * [Wer ist Ihr Vertragspartner? (PDF, 564 KB)](https://cms.static-bahn.de/wmedia/redaktion/aushaenge/fahrgastrechte/Wer-ist-Ihr-Vertragspartner.pdf)
 * [Entschädigung mit dem EU-Formular beantragen](https://www.bahn.de/faq/eu-formular)
