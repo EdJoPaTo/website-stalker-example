@@ -63,7 +63,7 @@ System
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
-   
+     Notify me
 
 **Memory**
 
