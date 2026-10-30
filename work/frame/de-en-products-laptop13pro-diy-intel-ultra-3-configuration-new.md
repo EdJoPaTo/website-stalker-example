@@ -49,21 +49,15 @@ System
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
-   
-
 * System, Ultra X7 358H  Pre-order  €1,909
   * Up to 4.8GHz, 4+8+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display
 
-   
-
 * System, Ultra X9 388H  Pre-order  €2,139
   * Up to 5.1GHz, 4+8+4 core
   * 74Wh Battery
   * 2.8K Touchscreen Display
-
-     Notify me
 
 **Memory**
 

@@ -39,24 +39,10 @@ If you are a business customer, need more than five laptops or desktops per orde
 Color
 
 * Color, Black
-
-   
-
 * Color, Gray
-
-   
-
 * Color, Lavender
-
-   
-
 * Color, Bubblegum
-
-   
-
 * Color, Sage
-
-   
 
 **System**
 
@@ -71,19 +57,13 @@ System
 * System, Core 3 304  Pre-order  €619
   * Up to 4.3GHz, 5 cores (1P + 4 LPE)
 
-   
-
 * System, Core 5 320  Pre-order  €879
   * Up to 4.6GHz, 6 cores (2P + 4 LPE)
   * Comes with Fingerprint Reader
 
-   
-
 * System, Core 7 350  Pre-order  €1,129
   * Up to 4.8GHz, 6 cores (2P + 4 LPE)
   * Comes with Fingerprint Reader
-
-   
 
 **Memory**
 

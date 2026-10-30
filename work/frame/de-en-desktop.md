@@ -49,10 +49,6 @@ Build DIY Edition and install your choice of Linux distro, or pick up a pre-buil
 Run DeepSeek V4.1 Flash in **one box**
 ----------
 
-Play video Pause video
-
-Play video Pause video
-
 Framework Desktop can handle bigger models than ever with up to 192GB of LPDDR5X. Run 300B-class models at 4-bit quantization with headroom to spare for extra context length. Up to 16 high-performance Zen 5 CPU cores means your OpenClaw or Hermes Agent can power through application and tool-calling too.
 
 ### Popular open models you can run ###
@@ -108,10 +104,6 @@ Framework Desktop is built on a standard Mini-ITX Mainboard, FlexATX power suppl
 ----------
 
 ( 192 GB + 192 GB + 192 GB + 192 GB = 768 GB )
-
-Play video Pause video
-
-Play video Pause video
 
 Framework Desktops have multiple paths for clustering to run even larger models. USB4 offers a simple and convenient path for enabling pipeline parallelism or multi-agent clusters. The PCIe x4 slot lets you connect high-speed, low-latency 50Gbps RoCE NICs like the Intel E810 to enable high-performance tensor parallelism. The Ryzen™ AI Max+ PRO 495 config has an open-ended version of the PCIe x4 slot, letting you plug in x8 and x16 cards directly without needing a riser adapter. Start with one node today, and add more whenever your models demand it.
 

@@ -346,6 +346,7 @@ sites:
     editors:
       - css_select: main
       - css_remove: >-
+          div:has(> video),
           img, picture, svg, script, noscript, style, .material-icons, #snackbar-template-container
       - html_markdownify
   - url:
@@ -363,6 +364,7 @@ sites:
           *[data-containers--product-configurations--multiple-selection-component--availability-target="outOfStock"],
           *[data-containers--product-configurations--option-value-component--option-value-target="discountPercentageContainer"],
           *[data-containers--product-configurations--option-value-component--option-value-target="outOfStockCaption"],
+          *[data-containers--product-configurations--option-value-component--option-value-target="outOfStockNotice"],
           *[data-containers--product-configurations--option-value-component--option-value-target="unavailableForSystemCaption"],
           *[data-containers--product-configurations--section-component--single-choice-target="reselectChoicePlaceholder"],
           *[data-containers--product-configurations--single-variant-quantity-selector-component--availability-target="outOfStockText"],
@@ -370,6 +372,7 @@ sites:
           *[data-containers--product-configurations--variant-option-component--variant-option-target="outOfStock"],
           *[data-containers--product-configurations--variant-option-component--variant-option-target="unavailableForSystemCaption"],
           *[data-controller="containers--product-configurations--batch-timeline-component--batch-timeline"],
+          *[data-controller="containers--products--waitlist-trigger-button-component--waitlist-trigger"],
           #secondary_choice_dropdown_1,
           #secondary_choice_dropdown_2,
           #secondary_choice_dropdown_3,
@@ -383,9 +386,6 @@ sites:
           selector: option
           replace: li
       - html_markdownify
-      - regex_replace:
-          pattern: '(\u00A0|\u202F|&nbsp;)*\(Out of stock\)'
-          replace: ""
 
   - url: https://www.steamdeck.com/en/
     editors:

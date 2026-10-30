@@ -99,10 +99,6 @@ A laptop that you own
 
 Pick your ports with the Framework Expansion Card system and install them directly into your laptop without relying on external adapters. The magnet-attach Bezel lets you customize with bold or translucent color options.
 
-Play video Pause video
-
-Play video Pause video
-
 USB-C
 
 USB-A
@@ -174,10 +170,6 @@ The large 123.7mm × 76.7mm Haptic Touchpad, powered by four piezoelectric actua
 ### The keyboard you love, now even better ###
 
 With 1.5mm of key travel, the keyboard delivers deeper, more tactile feedback than most modern laptops without increasing noise. A CNC aluminum Input Cover Frame reduces deck flex for a more solid and consistent feel. Available in multiple ANSI and ISO layouts, in black, black with lavender, and black with gray and orange.
-
-Play video Pause video
-
-Play video Pause video
 
 **“The keyboard, as mentioned, is pleasantly crunchy and I'm a big fan of the haptic touchpad, which really does feel like it came from a MacBook.”**
 
@@ -266,10 +258,6 @@ Ready to go out of the box with Ubuntu or Windows 11. Easy to upgrade or switch.
 ### Planning a volume purchase? ###
 
 [Contact our Business team Contact our Business team](https://share.hsforms.com/1GjuuZvpJRJKsAzc2XdPLYQe5dti)
-
-Play video Pause video
-
-Play video Pause video
 
 Upgrade, customize, and repair
 ----------
