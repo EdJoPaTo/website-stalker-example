@@ -26,6 +26,21 @@ We apologize for the inconvenience and appreciate your patience.
 
 **The Shelly Support Team**
 
+Known Issue
+
+⚠️ Known Issue: Zendure Integration with Shelly App
+----------
+
+Dear Shelly Users,
+
+Please be informed that the **Zendure integration with the Shelly Smart Control App is currently unavailable**.
+
+Our development team is aware of the issue and is actively working to restore the integration as soon as possible.
+
+We apologize for the inconvenience and appreciate your patience and understanding.
+
+**The Shelly Support Team**
+
 Knowledge base
 ----------
 
