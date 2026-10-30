@@ -10,7 +10,7 @@ Aktuelles aus der Bordgastronomie
  Entdecken Sie die Bordgastronomie
 ----------
 
-[](/aktion/winter-herzhaft)
+[](/aktion/winter-suess)
 
 ### Aktion & Neuigkeiten ###
 

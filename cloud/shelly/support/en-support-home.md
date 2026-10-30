@@ -5,6 +5,27 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud)
 
+Known Issue
+
+⚠️ Known Issue: Device Inclusion on Android 17
+----------
+
+Dear Shelly Users,
+
+We are currently experiencing an issue affecting **device inclusion in the Shelly Smart Control App on Android 17**.
+
+Our development team is working on a **high-priority fix** to resolve the issue as soon as possible.
+
+**Temporary Workarounds:**
+
+* Use Android 16 or earlier.
+* Use an iOS device.
+* Use Bluetooth inclusion via [control.shelly.cloud](https://control.shelly.cloud).
+
+We apologize for the inconvenience and appreciate your patience.
+
+**The Shelly Support Team**
+
 Knowledge base
 ----------
 

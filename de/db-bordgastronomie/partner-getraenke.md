@@ -15,8 +15,6 @@ Unsere starken Partner im Getränkesortiment
 
 [share.eu](https://share.eu/)
 
-[almdudler.com](https://almdudler.com/de/limited-editions)
-
 [www.adelholzener.de](https://www.adelholzener.de/)
 
 [www.spezi-krombacher.de](https://www.spezi-krombacher.de)
@@ -24,8 +22,6 @@ Unsere starken Partner im Getränkesortiment
 [www.coca-cola-deutschland.de](https://www.coca-cola-deutschland.de/)
 
 [voelkel.bio](https://voelkel.bio/produktart/shots/)
-
-[www.paulaner.de](https://www.paulaner.de/produkte/bierspezialitaten/oktoberfest-bier)
 
 [www.koenig.de](https://www.koenig.de/)
 

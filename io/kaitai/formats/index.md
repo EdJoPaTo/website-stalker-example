@@ -92,6 +92,10 @@ For a summary of all entries with associated metadata, see [File Format Cross-Re
 
 [android\_opengl\_shaders\_cache](android_opengl_shaders_cache/) , [au](au/) , [avi](avi/) , [blender\_blend](blender_blend/) , [creative\_voice\_file](creative_voice_file/) , [fasttracker\_xm\_module](fasttracker_xm_module/) , [genmidi\_op2](genmidi_op2/) , [id3v1\_1](id3v1_1/) , [id3v2\_3](id3v2_3/) , [id3v2\_4](id3v2_4/) , [magicavoxel\_vox](magicavoxel_vox/) , [ogg](ogg/) , [quicktime\_mov](quicktime_mov/) , [s3m](s3m/) , [standard\_midi\_file](standard_midi_file/) , [stl](stl/) , [swf](swf/) , [vp8\_duck\_ivf](vp8_duck_ivf/) , [wav](wav/)
 
+#### Machine Learning ####
+
+[gguf](gguf/)
+
 #### Networking Protocols ####
 
 [bitcoin\_transaction](bitcoin_transaction/) , [dime\_message](dime_message/) , [dns\_packet](dns_packet/) , [ethernet\_frame](ethernet_frame/) , [hccap](hccap/) , [hccapx](hccapx/) , [icmp\_packet](icmp_packet/) , [ipv4\_packet](ipv4_packet/) , [ipv6\_packet](ipv6_packet/) , [microsoft\_network\_monitor\_v2](microsoft_network_monitor_v2/) , [packet\_ppi](packet_ppi/) , [pcap](pcap/) , [protocol\_body](protocol_body/) , [rtcp\_payload](rtcp_payload/) , [rtp\_packet](rtp_packet/) , [rtpdump](rtpdump/) , [some\_ip](some_ip/) , [some\_ip\_container](some_ip_container/) , [some\_ip\_sd](some_ip_sd/) , [some\_ip\_sd\_entries](some_ip_sd_entries/) , [some\_ip\_sd\_options](some_ip_sd_options/) , [tcp\_segment](tcp_segment/) , [tls\_client\_hello](tls_client_hello/) , [udp\_datagram](udp_datagram/) , [websocket](websocket/)
