@@ -148,7 +148,6 @@ sites:
       - https://www.netcup.com/de/domain/domain-kaufen
       - https://www.netcup.com/de/server/arm-server
       - https://www.netcup.com/de/server/kvm-server-erweiterungen
-      - https://www.netcup.com/de/server/labs
       - https://www.netcup.com/de/server/local-block-storage
       - https://www.netcup.com/de/server/root-server
       - https://www.netcup.com/de/server/server-storage
@@ -291,7 +290,7 @@ sites:
       - css_remove: ul:has(li a code)
       - css_flatten: a[href^="#example"], a[href^="#explanation"]
       - html_markdownify
-  - url: https://rust-lang.github.io/rust-clippy/stable/index.html
+  - url: https://clippy.rust-lang.org/stable/index.html
     editors:
       - css_select: article
       - css_remove: .lint-additional-info-item:has(a[href^="https://github.com/rust-lang/rust-clippy/issues?q="])
