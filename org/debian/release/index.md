@@ -34,12 +34,12 @@ Planned point releases
 
 Planned point releases to Q2 2027 are as follows:
 
-|   Date    |Versions|Notes|
-|-----------|--------|-----|
-|14 Nov 2026|  13.8  |     |
-|9 Jan 2027 |  13.9  |     |
-|13 Mar 2027| 13.10  |     |
-|8 May 2027 | 13.11  |     |
+|               Date                |Versions|Notes|
+|-----------------------------------|--------|-----|
+|**21 Nov 2026** (changed from 14th)|  13.8  |     |
+|**16 Jan 2027** (changed from 9th) |  13.9  |     |
+|            13 Mar 2027            | 13.10  |     |
+|            8 May 2027             | 13.11  |     |
 
 These dates are subject to change and the confirmed date for each version will be announced via [debian-stable-announce@lists.debian.org](https://lists.debian.org/debian-stable-announce).
 

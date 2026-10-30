@@ -27,7 +27,7 @@ Profi-Arbeitskleidung vom Experten
 
 [Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
 
- e.s. Adventskalender Edition 8
+ Adventskalender Edition 8
 ---
 
  Hinter jeder Tür ein Tool
