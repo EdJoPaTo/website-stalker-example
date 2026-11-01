@@ -63,24 +63,6 @@ Profi-Arbeitskleidung vom Experten
  NEU
 ---
 
- % Angebote des Monats %
----
-
- % Angebote des Monats %
----
-
- Bis zu
-\-54%
-----------
-
----
-
- Gültig bis 31.10.2026 | Solange der Vorrat reicht!
-
-[zu den Angeboten](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/angebote-des-monats/?itemorigin=StartseiteHW26)
-
 [](https://www.strauss.com/de/de/warnschutzjacken/warnschutz-winter-softshellparka-e-s-motion-24-7-3211130-84591-1498.html?itemorigin=StartseiteHW26)
 
 [](https://www.strauss.com/de/de/warnschutzhosen-bundhosen/warnschutz-bundhose-e-s-motion-24-7-3211000-84501-1498.html?itemorigin=StartseiteHW26)

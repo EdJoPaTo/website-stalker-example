@@ -1,11 +1,11 @@
 Deutschland-Ticket
 ==========
 
-Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Zum 1. Januar 2027 ändern sich die Konditionen, der Preis erhöht sich auf 66,80 Euro. Stand: Oktober 2026.
+Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Zum 1. Januar 2027 ändern sich die Konditionen, der Preis erhöht sich auf 66,80 Euro. Stand: November 2026.
 
 Deutschland-Ticket
 
-Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Zum 1. Januar 2027 ändern sich die Konditionen, der Preis erhöht sich auf 66,80 Euro. Stand: Oktober 2026.
+Das Deutschland-Ticket kostet 63 Euro pro Monat und gilt deutschlandweit in Bus, U-, S- und Regionalbahn. Es ist monatlich kündbar und nur als Abo erhältlich. Zum 1. Januar 2027 ändern sich die Konditionen, der Preis erhöht sich auf 66,80 Euro. Stand: November 2026.
 
 Ihre Vorteile
 ----------

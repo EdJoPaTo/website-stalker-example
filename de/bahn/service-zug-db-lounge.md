@@ -178,6 +178,10 @@ DB Lounge Hannover
 
 ###  DB Lounge Hannover  ###
 
+#### Hinweis ####
+
+Aufgrund von Renovierungsarbeiten bleibt der **Premium-Bereich der DB Lounge Hannover am 21. November 2026 geschlossen**. Gerne begrüßen wir unsere Gäste im Comfort-Bereich. Wir bitten um Ihr Verständnis.
+
 #### Übersichtsplan und Beschreibung ####
 
 * **Lage:** Die DB Lounge Hannover liegt im ersten Obergeschoss direkt über dem DB Reisezentrum. Zugang besteht über die Mittelhalle in Richtung Ausgang Ernst-August-Platz/Innenstadt. Treppe und Aufzug befinden sich direkt neben dem Eingangsbereich des DB Reisezentrums.
