@@ -1,22 +1,25 @@
-[](https://www.strauss.com/de/de/westen/winter-softshellweste-e-s-motion-2020-3140160-65680-766.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/bundhosen/bundhose-e-s-motion-2020-3310050-65541-766.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/arbeitswesten-damen/winter-softshellweste-e-s-motion-2020-damen-3140170-65710-766.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/berufshosen-damen/damenhose-e-s-motion-2020-3310080-65711-766.html?itemorigin=StartseiteHW26)
-
- Gemeinsam
- anpacken
+Neue Kollektion
 ---
 
- e.s.motion 2020: Starke Arbeitskleidung fürs ganze Team
+ Langlebige Holster-Arbeitshosen
+---
 
-[für Herren](https://www.strauss.com/de/de/e-s-motion-2020/?itemorigin=StartseiteHW26)
+ Neue Kollektion
+---
 
-[für Damen](https://www.strauss.com/de/de/e-s-motion-2020-damen/?itemorigin=StartseiteHW26)
+ Langlebige Holster-Arbeitshosen
+---
 
-[für Kinder](https://www.strauss.com/de/de/e-s-motion-2020-kinder/?itemorigin=StartseiteHW26)
+ Nordisch
+ robust
+---
+
+[e.s.line.nordic entdecken](https://www.strauss.com/de/de/e-s-line-nordic/?itemorigin=StartseiteHW26)
+
+ Stretch Holster
+ Bundhose
+
+[](https://www.strauss.com/de/de/bundhosen/stretch-holster-bundhose-e-s-line-nordic-3165180-95787-1.html?itemorigin=StartseiteHW26)
 
 Alles für den Job:
 Profi-Arbeitskleidung vom Experten
@@ -63,312 +66,199 @@ Profi-Arbeitskleidung vom Experten
  NEU
 ---
 
-[](https://www.strauss.com/de/de/warnschutzjacken/warnschutz-winter-softshellparka-e-s-motion-24-7-3211130-84591-1498.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/warnschutzhosen-bundhosen/warnschutz-bundhose-e-s-motion-24-7-3211000-84501-1498.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/warnjacken-damen/warnschutz-winter-softshellj-e-s-motion-24-7-dam-3211040-84571-1498.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/warnschutzhosen-damen/warnschutz-bundhose-e-s-motion-24-7-damen-3211010-84551-1498.html?itemorigin=StartseiteHW26)
-
- Team-Warnschutz:
-sicher & wetterfest
+ Engelbird Nikolaussocke
 ---
 
-[für Herren](https://www.strauss.com/de/de/warnschutzkleidung-en20471/?itemorigin=StartseiteHW26)
+ Da steckt
+Freude drin
+----------
 
-[für Damen](https://www.strauss.com/de/de/warnschutzkleidung-en20471-damen/?itemorigin=StartseiteHW26)
+---
 
-[für Herren](https://www.strauss.com/de/de/warnschutzkleidung-en20471/?itemorigin=StartseiteHW26)
+ Spielspaß mit Engelbird
+---
 
-[für Damen](https://www.strauss.com/de/de/warnschutzkleidung-en20471-damen/?itemorigin=StartseiteHW26)
+ exklusiv & limitiert
+---
 
- Softshelljacke
+[zur Nikolaussocke](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html?itemorigin=StartseiteHW26)
 
- ab 47,48 €
+[zur Nikolaussocke](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html?itemorigin=StartseiteHW26)
+
+ e.s.Engelbird Nikolaussocke
+
+ 19,90 €
 
  (m. MwSt.)
 
-[](https://www.strauss.com/de/de/arbeits-softshelljacken/softshelljacke-e-s-line-core-3135560-64342-1957.html?itemorigin=StartseiteHW26)
+ 16,72 € (ohne MwSt.)
 
-[](https://www.strauss.com/de/de/arbeits-softshelljacken/softshelljacke-e-s-line-core-3135560-64342-1957.html?itemorigin=StartseiteHW26)
+[
 
- Softshelljacke
+]()
 
- ab 47,48 €
+[](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html?itemorigin=StartseiteHW26)
+
+ NEU
+---
+
+ NEU
+---
+
+[](https://www.strauss.com/de/de/westen/heizweste-e-s-ambition-3140720-78429-1.html?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/hybridjacken-damen/heiz-hybrid-kapuzenstrickjacke-e-s-trail-damen-3135250-78444-1.html?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-heizjacke-e-s-concrete-3135240-78439-1.html?itemorigin=startseiteXMAS26)
+
+ Heizartikel
+---
+
+ 3 Heizstufen
+---
+
+ Jacken, Westen & Co.
+---
+
+ Wärme auf
+Knopfdruck
+----------
+
+---
+
+[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=StartseiteHW26)
+
+ Heizartikel
+---
+
+ Wärme auf
+Knopfdruck
+----------
+
+---
+
+[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=StartseiteHW26)
+
+ Kann bis zu zwei Heizartikel
+gleichzeitig betreiben.
+
+[Power-Bank gleich mitbestellen](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
+
+[](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
+
+ Kann bis zu zwei Heizartikel
+gleichzeitig betreiben.
+
+[Power-Bank gleich mitbestellen](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
+
+[](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93361-1766.html?itemorigin=StartseiteHW26)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93362-1778.html?itemorigin=StartseiteHW26)
+
+ \+4
+
+ S7 e.s. Murcia mid
+
+ ab 106,98 €
 
  (m. MwSt.)
 
-[](https://www.strauss.com/de/de/arbeits-softshelljacken/softshelljacke-e-s-line-core-3135560-64342-1957.html?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26) [](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26)
 
-[](https://www.strauss.com/de/de/arbeits-softshelljacken/softshelljacke-e-s-line-core-3135560-64342-1957.html?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26)
 
-[](https://www.strauss.com/de/de/fleecejacken-strickjacken/jacke-double-climafoam-e-s-line-core-3155570-64349-1957.html?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93361-1766.html?itemorigin=StartseiteHW26)
 
- Jacke double climafoam
+ \+5
 
- ab 41,53 €
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93362-1778.html?itemorigin=StartseiteHW26)
 
- (m. MwSt.)
+ S7 e.s. Murcia mid
 
-[](https://www.strauss.com/de/de/fleecejacken-strickjacken/jacke-double-climafoam-e-s-line-core-3155570-64349-1957.html?itemorigin=StartseiteHW26)
-
- Jacke double climafoam
-
- ab 41,53 €
+ ab 106,98 €
 
  (m. MwSt.)
 
-[](https://www.strauss.com/de/de/fleecejacken-strickjacken/jacke-double-climafoam-e-s-line-core-3155570-64349-1957.html?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26) [](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26)
 
-[](https://www.strauss.com/de/de/fleecejacken-strickjacken/jacke-double-climafoam-e-s-line-core-3155570-64349-1957.html?itemorigin=StartseiteHW26)
-
- Flexible Wärme
-für den Herbst
+ Wetterfeste Sicherheitsschuhe
 ---
 
-Warme, leichte Arbeitsjacken für den Übergang
-
-[Softshelljacken](https://www.strauss.com/de/de/arbeits-softshelljacken/?itemorigin=StartseiteHW26)
-
-[Fleecejacken](https://www.strauss.com/de/de/fleecejacken-strickjacken/?itemorigin=StartseiteHW26)
-
-[Troyer](https://www.strauss.com/de/de/pullover-troyer/?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/fleecejacken-strickjacken-damen/fleecejacke-e-s-vintage-damen-3133880-71311-1352.html?itemorigin=StartseiteHW26)
-
- Flexible Wärme
-für den Herbst
+ Bodyguards
+für die Füsse
 ---
 
-Warme, leichte Arbeitsjacken für den Übergang
+[alle Wetter Experten](https://www.strauss.com/de/de/sicherheitsschuhe-s7/?itemorigin=StartseiteHW26)
 
-[Softshelljacken](https://www.strauss.com/de/de/softshelljacken-damen/?itemorigin=StartseiteHW26)
-
-[Fleecejacken](https://www.strauss.com/de/de/fleecejacken-strickjacken-damen/?itemorigin=StartseiteHW26)
-
-[Troyer](https://www.strauss.com/de/de/pullover-troyer-damen/?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/fleecejacken-strickjacken-kinder/faserpelz-jacke-e-s-vintage-kinder-3133830-71371-1343.html?itemorigin=StartseiteHW26)
-
- Flexible Wärme
-für den Herbst
+ S7
 ---
 
-Warme, leichte Arbeitsjacken für den Übergang
+ Sicherheitsschuhe mit Zehenschutz, Durchtrittsschutz & Wetterschutz
 
-[Softshelljacken](https://www.strauss.com/de/de/softshelljacken-kinder/?itemorigin=StartseiteHW26)
-
-[Fleecejacken](https://www.strauss.com/de/de/fleecejacken-strickjacken-kinder/?itemorigin=StartseiteHW26)
-
-[Troyer](https://www.strauss.com/de/de/kinder-pullover-troyer/?itemorigin=StartseiteHW26)
-
- \+1
-
- S3 3002 mid
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93186-1.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93186-1.html?itemorigin=StartseiteHW26)
-
- \+2
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93189-1944.html?itemorigin=StartseiteHW26)
-
- S3 3002 mid
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93186-1.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s3/s3-sicherheitsschuhe-strauss-3002-mid-1302210-93186-1.html?itemorigin=StartseiteHW26)
-
- Trittfest in
-jedem Job
+ S7
 ---
 
-[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/?itemorigin=StartseiteHW26)
+ Sicherheitsschuhe mit Zehenschutz, Durchtrittsschutz & Wetterschutz
 
-[alle Berufsschuhe](https://www.strauss.com/de/de/berufsschuhe/?itemorigin=StartseiteHW26)
+ BOA® Fit System für eine fein-einstellbare, präzise Passform
 
-[alle Sicherheitsschuhe](https://www.strauss.com/de/de/sicherheitsschuhe/?itemorigin=StartseiteHW26)
+ STRAUSSbox 125 small inkl. Trennstege
 
-[alle Berufsschuhe](https://www.strauss.com/de/de/berufsschuhe/?itemorigin=StartseiteHW26)
+ 3 Farben
 
- S3
+ STRAUSSbox 125 small inkl. Trennstege
+
+ 3 Farben
+
+ \-20%
 ---
 
- Sicherheitsschuhe mit Zehenschutz
+ STRAUSSbox-SET: 2x STRAUSSbox 125 small+4 Inserts
 
- S3
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0055?variantId=10082169-f907-41c1-9e12-632f276a814c)
+
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0055?variantId=10082169-f907-41c1-9e12-632f276a814c)
+
+ Strauss Aktionssets
 ---
 
- Sicherheitsschuhe mit Zehenschutz
-
- Gut geschützt in
-jedem Einsatzbereich
+ Spar
+Deals!
 ---
 
-[Arbeitsschutz entdecken](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=StartseiteHW26)
+ Farben, Größen, Produkte: Sets flexibel erstellen und starke Rabatte erhalten.
 
-[Arbeitsschutz entdecken](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=StartseiteHW26)
+[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
 
- Gehörschutz
----
-
-[](https://www.strauss.com/de/de/gehoerschutz/?itemorigin=StartseiteHW26)
-
- Handschuhe
----
-
-[](https://www.strauss.com/de/de/arbeitshandschuhe/?itemorigin=StartseiteHW26)
-
- Neuzugänge
----
-
- Neuzugänge
----
-
- STRAUSS X *MLB™*
----
-
-[](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=StartseiteHW26)
-
- Herren
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
-
- Damen
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
-
- Kinder
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
-
- \*KI-generierter Hintergrund
-
- Neuzugänge
----
-
- Neuzugänge
----
-
- STRAUSS X *MLB™*
----
-
-[](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=StartseiteHW26)
-
- Herren
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
-
- Damen
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
-
- Kinder
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
-
- Neuzugänge
----
-
- Neuzugänge
----
-
- STRAUSS X *MLB™*
----
-
-[](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=StartseiteHW26)
-
- Herren
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
-
- Damen
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
-
- Kinder
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
-
- Neuzugänge
----
-
- Neuzugänge
----
-
- STRAUSS X *MLB™*
----
-
-[](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=StartseiteHW26)
-
- Herren
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/?itemorigin=StartseiteHW26)
-
- Damen
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/?itemorigin=StartseiteHW26)
-
- Kinder
----
-
-[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
-
-[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/?itemorigin=StartseiteHW26)
-
-*
-*
-*
-*
+[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
 
  Druck & Stick - ab 1 Stück
 ----------
 
 ---
 
- Jetzt selbst gestalten
+ Geschenke gestalten
 ---
 
-zu den Produkten
+jetzt gestalten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteHW26)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteXMAS26)
 
  Druck & Stick - ab 1 Stück
 ---
 
- Jetzt selbst gestalten
+ Geschenke gestalten
 ---
 
-zu den Produkten
+jetzt gestalten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteHW26)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteXMAS26)
 
  mehr bestellen, mehr sparen
 ---

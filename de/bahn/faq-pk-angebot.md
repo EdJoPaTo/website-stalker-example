@@ -3209,7 +3209,7 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wann kann ich das Super Sparpreis Last Minute-Ticket buchen?
 ----------
 
-Sie können den Super Sparpreis Last Minute vom 9. Mai bis 13. Dezember 2026 an jedem Samstag und Sonntag buchen - für Reisen innerhalb Deutschlands für Montag bis Sonntag der Folgewoche.
+Sie können den Super Sparpreis Last Minute bis zum 12. Dezember 2027 an jedem Samstag und Sonntag buchen - für Reisen innerhalb Deutschlands für Montag bis Sonntag der Folgewoche.
 
 [Zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
@@ -17294,7 +17294,7 @@ Mehr Informationen zu den [Sharing-Diensten](https://www.bahn.de/faq/erreichbark
  Wie kann ich das Super Sparpreis Last Minute-Ticket buchen?
 ----------
 
-Der Super Sparpreis Last Minute ist vom 9. Mai bis 13. Dezember 2026 in der regulären Verbindungsauskunft nur auf [**bahn.de**](https://www.bahn.de/), in der **App DB Navigator** und bei **Onlinevertriebspartnern der DB** zu finden. Auf [bahn.de](https://www.bahn.de/) und im DB Navigator ist das Angebot außerdem durch eine Krone mit der Bezeichnung "Aktion" gekennzeichnet.
+Der Super Sparpreis Last Minute ist bis 12. Dezember 2027 in der regulären Verbindungsauskunft nur auf [**bahn.de**](https://www.bahn.de/), in der **App DB Navigator** und bei **Onlinevertriebspartnern der DB** zu finden. Auf [bahn.de](https://www.bahn.de/) und im DB Navigator ist das Angebot außerdem durch eine Krone mit der Bezeichnung "Aktion" gekennzeichnet.
 
 [Weitere Informationen zum Super Sparpreis Last Minute](https://www.bahn.de/angebot/sparpreis-flexpreis/super-sparpreis-lastminute)
 
