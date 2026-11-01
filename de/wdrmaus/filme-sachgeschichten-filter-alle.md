@@ -523,6 +523,7 @@
 * [Impffläschchen](https://www.wdrmaus.de/filme/sachgeschichten/impfflaeschchen.php5)
 * [In oder auf Cuba?](https://www.wdrmaus.de/filme/sachgeschichten/in_oder_auf_cuba.php5)
 * [Indien-Spezial](https://www.wdrmaus.de/filme/sachgeschichten/indien_spezial.php5)
+* [Induktionsherd](https://www.wdrmaus.de/filme/sachgeschichten/induktionsherd.php5)
 * [Industriekletterer](https://www.wdrmaus.de/filme/sachgeschichten/industriekletterer.php5)
 * [Intelligentes Haus](https://www.wdrmaus.de/filme/sachgeschichten/intelligentes_haus.php5)
 * [Internet](https://www.wdrmaus.de/filme/sachgeschichten/internet.php5)
