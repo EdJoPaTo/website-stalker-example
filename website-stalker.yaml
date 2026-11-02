@@ -493,6 +493,13 @@ sites:
       - css_select: body > div > div
       - css_remove: script, svg, img
       - css_remove: a[href*="email-protection"]
+      - regex_replace:
+          pattern: '</a><a '
+          replace: '</a><br/><a '
+      - regex_replace:
+          pattern: ' · '
+          replace: '<br/>'
+      - html_url_canonicalize
       - html_markdownify
 
   - url:

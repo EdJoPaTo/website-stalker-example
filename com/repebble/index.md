@@ -1,7 +1,11 @@
 Pebble smartwatches — Pebble Time 2, Pebble Round 2, and the Pebble Index 01 smart ring
 ==========
 
-[### Pebble Time 2 ### With a larger color e-paper display!](/watch)[### Pebble Time 2 ### With a larger color e-paper display!](/watch#pt2)[### Pebble Round 2 NEW ### The most stylish Pebble watch ever](/watch)[### Pebble Index 01 NEW ### External memory for your brain](/index)[### Accessories ### Straps, shirts, chargers, and sizing kits](https://shop.repebble.com)
+[### Pebble Time 2 ### With a larger color e-paper display!](https://repebble.com/watch)
+[### Pebble Time 2 ### With a larger color e-paper display!](https://repebble.com/watch#pt2)
+[### Pebble Round 2 NEW ### The most stylish Pebble watch ever](https://repebble.com/watch)
+[### Pebble Index 01 NEW ### External memory for your brain](https://repebble.com/index)
+[### Accessories ### Straps, shirts, chargers, and sizing kits](https://shop.repebble.com/)
 
 **Pebble is back!**
 
@@ -9,20 +13,33 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 
 **Our goal is simple**: build awesome smartwatches and other gadgets, for ourselves and like-minded folks. Things are different this time round. There are no investors. The majority of our work is open source. We're not trying to take over the world. We just dream up new devices that we'd like to use and build them.
 
-[Pebble Mobile AppDownload the companion app for iOS and Android](https://rePebble.com/app)[Pebble Appstore15,000 beautiful watchfaces and watchapps](https://apps.rePebble.com)[Discussion ForumGet tips, tricks and help from the Pebble community](https://forum.repebble.com)
+[Pebble Mobile AppDownload the companion app for iOS and Android](https://repebble.com/app)
+[Pebble Appstore15,000 beautiful watchfaces and watchapps](https://apps.repebble.com/)
+[Discussion ForumGet tips, tricks and help from the Pebble community](https://forum.repebble.com/)
 
-[Developer InfoInstall the SDK, read tutorials and developer documentation](https://developer.rePebble.com)[CloudPebbleBuild a watchapp or watchface for Pebble in under 5 mins in your browser](https://cloudpebble.repebble.com)[Open SourceOur watches are powered by 100% open source software](https://github.com/coredevices)
+[Developer InfoInstall the SDK, read tutorials and developer documentation](https://developer.repebble.com/)
+[CloudPebbleBuild a watchapp or watchface for Pebble in under 5 mins in your browser](https://cloudpebble.repebble.com/)
+[Open SourceOur watches are powered by 100% open source software](https://github.com/coredevices)
 
-[Blog](/blog)
+[Blog](https://repebble.com/blog)
 
-* [Pebble Round 2 Starts Shipping!](/blog/pebble-round-2-starts-shipping)
-* [New Pebble Weather App + Software Updates](/blog/new-pebble-weather-app-software-updates)
-* [Index 01 Is In Mass Production!](/blog/index-01-is-in-mass-production)
-* [Pebble Mega Update - July 2026](/blog/pebble-mega-update-july-2026)
-* [How I Use My Index 01 + Production Update](/blog/how-i-use-my-index-01-production-update)
+* [Pebble Round 2 Starts Shipping!](https://repebble.com/blog/pebble-round-2-starts-shipping)
+* [New Pebble Weather App + Software Updates](https://repebble.com/blog/new-pebble-weather-app-software-updates)
+* [Index 01 Is In Mass Production!](https://repebble.com/blog/index-01-is-in-mass-production)
+* [Pebble Mega Update - July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
+* [How I Use My Index 01 + Production Update](https://repebble.com/blog/how-i-use-my-index-01-production-update)
 * [Pebble Watch Software Is Now 100% Open Source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [The new Pebble app is live on iOS and Android](https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android)
 
-[Check My Order Status](https://orders.repebble.com) · [Help](https://help.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric) · [GitHub](https://github.com/coredevices)
+[Check My Order Status](https://orders.repebble.com/)
+[Help](https://help.repebble.com/)
+[Service Status](https://status.repebble.com/)
+
+[Privacy](https://repebble.com/privacy)
+[Terms](https://repebble.com/terms)
+[Twitter](https://twitter.com/pebble)
+[Bluesky](https://bsky.app/profile/ericmigi.com)
+[Podcast](https://www.youtube.com/@TickTalk-with-Eric)
+[GitHub](https://github.com/coredevices)
 
 © 2026 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.

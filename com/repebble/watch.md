@@ -1,15 +1,15 @@
-[](/)
+[](https://repebble.com/)
 
 Get your new Pebble watch
 ==========
 
-[NEWPebble Round 2! Read the announcement](/blog/pebble-round-2-the-most-stylish-pebble-ever)
+[NEWPebble Round 2! Read the announcement](https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever)
 
 We are proud to introduce new watches that closely follow the original Pebble DNA. If you had a Pebble and loved it, or missed your chance 10 years ago but heard about it since, we think you will really enjoy these new devices.
 
 For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functionality, long battery life and a fun, quirky design. It first launched on [Kickstarter](https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android/) in 2012.
 
-\- ***[Eric Migicovsky](https://ericmigi.com)***
+\- ***[Eric Migicovsky](https://ericmigi.com/)***
 
 ### Pebble Round 2 NEW ###
 
@@ -17,8 +17,8 @@ For those unfamiliar with Pebble, it's an e-paper smartwatch with simple functio
 * Touch screen
 * Stainless steel frame
 * The most stylish Pebble ever
-* [Three color options](/images/products/pr2-options-thumb.jpeg)
-* [Read the announcement](/blog/pebble-round-2-the-most-stylish-pebble-ever)
+* [Three color options](https://repebble.com/images/products/pr2-options-thumb.jpeg)
+* [Read the announcement](https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever)
 
 $199
 
@@ -32,7 +32,7 @@ I want one!
 * Touch screen
 * Stainless steel frame
 * Heart rate monitor
-* [Four color options](/watch/pt2-color-options)
+* [Four color options](https://repebble.com/watch/pt2-color-options)
 
 $225
 
@@ -67,22 +67,23 @@ Microphone
 
 Runs [PebbleOS](https://github.com/coredevices/pebbleos) (open source)
 
-10,000+ watchfaces and apps on [Pebble Appstore](https://apps.rePebble.com)
+10,000+ watchfaces and apps on [Pebble Appstore](https://apps.repebble.com/)
 
-[Time 2 details→](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches)[Round 2 details→](/blog/pebble-round-2-the-most-stylish-pebble-ever)
+[Time 2 details→](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches)
+[Round 2 details→](https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever)
 
 FAQ
 ----------
 
 ### How do I pick my color? ###
 
-Buying an in-stock Pebble Time 2? You already picked your color - it ships as ordered. Before we ship your watch, you'll be able to select from available color options ([Time 2 options](/watch/pt2-color-options), [Round 2 options](/images/products/pr2-color-options.png)) and add accessories like extra watch straps and chargers.
+Buying an in-stock Pebble Time 2? You already picked your color - it ships as ordered. Before we ship your watch, you'll be able to select from available color options ([Time 2 options](https://repebble.com/watch/pt2-color-options), [Round 2 options](https://repebble.com/images/products/pr2-color-options.png)) and add accessories like extra watch straps and chargers.
 
 Ordering a Round 2? You don't need to choose your color now - we'll contact you before shipping to confirm your color preference.
 
 ### Is there a warranty? ###
 
-Yes, we warrant against manufacturing defects for 30 days after you receive your order. Ship us the defective watch, and after we receive it back, we will ship (no charge) you a replacement. See our full [warranty](/warranty).
+Yes, we warrant against manufacturing defects for 30 days after you receive your order. Ship us the defective watch, and after we receive it back, we will ship (no charge) you a replacement. See our full [warranty](https://repebble.com/warranty).
 
 Otherwise, you generally should already know what you're getting into. You're getting an awesome smartwatch running PebbleOS. There are many [videos](https://ericmigi.com/blog/pebbleos-is-awesome) and [reviews](https://www.youtube.com/watch?v=KQh1b_srGM4) of PebbleOS you can check out before pre-ordering.
 
@@ -120,7 +121,7 @@ These watches are not made for everyone. We want to be upfront with you about wh
 |                                          Resolution                                          |                                              260x260 pixels, 200 DPI                                               |                                              200x228 pixels, 202 DPI                                               |
 |                                         Interaction                                          |                                              4 buttons + touchscreen                                               |                                              4 buttons + touchscreen                                               |
 |                                            Frame                                             |                                                  Stainless Steel                                                   |                                          Stainless Steel + Polycarbonate                                           |
-|Dimensions [(3D Printable STL files)](https://github.com/coredevices/hardware/tree/main/watch)|                                 [41.5mm diameter x 8.1mm](/pr2-external-sizes.pdf)                                 |                   [43.00 × 36.04 × 10.90 mm (41.40mm lug to lug)](/images/watch-dimensions.png)                    |
+|Dimensions [(3D Printable STL files)](https://github.com/coredevices/hardware/tree/main/watch)|                       [41.5mm diameter x 8.1mm](https://repebble.com/pr2-external-sizes.pdf)                       |         [43.00 × 36.04 × 10.90 mm (41.40mm lug to lug)](https://repebble.com/images/watch-dimensions.png)          |
 |                                      Weight (w/o strap)                                      |                                                       26.8g                                                        |                                                        33g                                                         |
 |                                           Sensors                                            |                                                3-axis IMU, compass                                                 |                                          6-axis IMU, heart rate, compass                                           |
 |                                            Price                                             |                                                        $199                                                        |                                                        $225                                                        |
@@ -135,8 +136,17 @@ These watches are not made for everyone. We want to be upfront with you about wh
 |                                   iPhone and Android apps                                    |                                                         ✅                                                          |                                                         ✅                                                          |
 |                                         Open Source                                          |✅ [PebbleOS](https://github.com/coredevices/pebbleos)  <br/>✅ [Mobile app](https://github.com/coredevices/mobileapp)|✅ [PebbleOS](https://github.com/coredevices/pebbleos)  <br/>✅ [Mobile app](https://github.com/coredevices/mobileapp)|
 
-Don't want to order yet? [Sign up for updates](/signup)
+Don't want to order yet? [Sign up for updates](https://repebble.com/signup)
 
-[Check My Order Status](https://orders.repebble.com) · [Help](https://help.repebble.com) · [Service Status](https://status.rePebble.com) · · [Privacy](/privacy) · [Terms](/terms) · [Twitter](https://twitter.com/pebble) · [Bluesky](https://bsky.app/profile/ericmigi.com) · [Podcast](https://www.youtube.com/@TickTalk-with-Eric) · [GitHub](https://github.com/coredevices)
+[Check My Order Status](https://orders.repebble.com/)
+[Help](https://help.repebble.com/)
+[Service Status](https://status.repebble.com/)
+
+[Privacy](https://repebble.com/privacy)
+[Terms](https://repebble.com/terms)
+[Twitter](https://twitter.com/pebble)
+[Bluesky](https://bsky.app/profile/ericmigi.com)
+[Podcast](https://www.youtube.com/@TickTalk-with-Eric)
+[GitHub](https://github.com/coredevices)
 
 © 2026 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
