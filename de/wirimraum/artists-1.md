@@ -4,7 +4,7 @@ HISTORY
 Seit 8 Jahren macht die Wir im Raum GmbH verschiedenste Ausstellungen und Festivals in Berlin. Insgesamt stellten die Initiatoren mehr als 40 verschiedene Künstler:innen in aus.
 ==========
 
-Photos by [Carsten Beier](https://www.carstenbeier.com)
+Photos by [Carsten Beier](https://www.carstenbeier.com/)
 ==========
 
 [YEARS](https://www.wirimraum.de/exhibition)
@@ -26,7 +26,7 @@ Himmel unter Berlin 2023
 [Leicht Sachwitz / florafaunavisions](https://www.wirimraum.de/leigh-sachwitz)
 Himmel unter Berlin 2022
 
-[Nils Völker (Berlin)](https://www.wirimraum.de/nils-völker)
+[Nils Völker (Berlin)](https://www.wirimraum.de/nils-v%C3%B6lker)
 Himmel unter Berlin 2023 | Lost Art Festival 2021
 
 [Christopher Bauder (Berlin)](https://www.wirimraum.de/christopher-bauder)
@@ -59,7 +59,7 @@ Lost Art Festival 2021 und 2017
 [Matthias Rodach (Ammersee)](https://www.wirimraum.de/matthias-rodach)
 Himmel unter Berlin 2023 | Himmel unter Berlin 2022 | Lost Art Festival 2021
 
-[Isabelle Tellié](https://www.wirimraum.de/isabell-tellié)
+[Isabelle Tellié](https://www.wirimraum.de/isabell-telli%C3%A9)
 Lost Art Festival 2017
 
 [Jeroen Cremers (Frankreich)](https://www.wirimraum.de/jeroen-cremer)
@@ -77,7 +77,7 @@ The Dark Rooms 2016
 [Angela Cremer (Wiesbaden)](https://www.wirimraum.de/blank)
 Lost Art Festival 2021
 
-[Björn Heard & Theo Ågren (Norwegen / Schweden)](https://www.wirimraum.de/björn-heard-theo-ågren)
+[Björn Heard & Theo Ågren (Norwegen / Schweden)](https://www.wirimraum.de/bj%C3%B6rn-heard-theo-%C3%A5gren)
 The Dark Rooms 2016
 
 [Bianca Patricia Isensee (Ammersee)](https://www.wirimraum.de/bianca-patricia-isensee)
@@ -98,13 +98,13 @@ Lost Art Festival 2021 | Lost Art Festival 2017
 [Ralf Schmerberg (Berlin)](https://www.wirimraum.de/ralf-schmerberg)
 Himmel unter Berlin 2023
 
-[Jonas Büßecker](https://www.wirimraum.de/jonas-büßecker)
+[Jonas Büßecker](https://www.wirimraum.de/jonas-b%C3%BC%C3%9Fecker)
 Lost Art Festival 2021
 
-[Jürgen Schwämmle (Berlin)](https://www.wirimraum.de/jürgen-schwämmle)
+[Jürgen Schwämmle (Berlin)](https://www.wirimraum.de/j%C3%BCrgen-schw%C3%A4mmle)
 Lost Art Festival 2017 | The Dark Rooms 2016
 
-[Lukas Liese (Berlin)](https://www.lukasliese.com)
+[Lukas Liese (Berlin)](https://www.lukasliese.com/)
 Lost Art Festival 2021
 
 [Lisa Premke (Berlin)](https://www.wirimraum.de/lisa-premke)
@@ -140,7 +140,7 @@ The Dark Rooms 2016
 
 [](https://www.wirimraum.de/leigh-sachwitz)
 
-[](https://www.wirimraum.de/nils-völker)
+[](https://www.wirimraum.de/nils-v%C3%B6lker)
 
 [](https://www.wirimraum.de/christopher-bauder)
 
@@ -162,7 +162,7 @@ The Dark Rooms 2016
 
 [](https://www.wirimraum.de/matthias-rodach)
 
-[](https://www.wirimraum.de/isabell-tellié)
+[](https://www.wirimraum.de/isabell-telli%C3%A9)
 
 [](https://www.wirimraum.de/jeroen-cremer)
 
@@ -174,7 +174,7 @@ The Dark Rooms 2016
 
 [](https://www.wirimraum.de/blank)
 
-[](https://www.wirimraum.de/björn-heard-theo-ågren)
+[](https://www.wirimraum.de/bj%C3%B6rn-heard-theo-%C3%A5gren)
 
 [](https://www.wirimraum.de/bianca-patricia-isensee)
 
@@ -188,9 +188,9 @@ The Dark Rooms 2016
 
 [](https://www.wirimraum.de/ralf-schmerberg)
 
-[](https://www.wirimraum.de/jonas-büßecker)
+[](https://www.wirimraum.de/jonas-b%C3%BC%C3%9Fecker)
 
-[](https://www.wirimraum.de/jürgen-schwämmle)
+[](https://www.wirimraum.de/j%C3%BCrgen-schw%C3%A4mmle)
 
 [](https://www.wirimraum.de/lukas-liese)
 

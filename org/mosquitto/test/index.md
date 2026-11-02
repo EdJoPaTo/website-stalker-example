@@ -33,14 +33,14 @@ The server listens on the following ports:
 
 The encrypted ports support TLS v1.3, v1.2 or v1.1 with x509 certificates
 and require client support to connect. For ports 8883 and 8884 you should use the
-certificate authority file ([mosquitto.org.crt (PEM format)](ssl/mosquitto.org.crt), or [mosquitto.org.der (DER format)](ssl/mosquitto.org.der)) to verify the server connection. Ports 8081 and 8886 have a Lets Encrypt
+certificate authority file ([mosquitto.org.crt (PEM format)](https://test.mosquitto.org/ssl/mosquitto.org.crt), or [mosquitto.org.der (DER format)](https://test.mosquitto.org/ssl/mosquitto.org.der)) to verify the server connection. Ports 8081 and 8886 have a Lets Encrypt
 certificate, so you should use your system CA certificates or the appropriate
 Lets Encrypt CA certificate for verification.
 
 Port 8884 requires clients to
-provide a certificate to authenticate their connection. You can[generate your own certificate](/ssl).
+provide a certificate to authenticate their connection. You can[generate your own certificate](https://test.mosquitto.org/ssl).
 
-The [configuration](/config) is available to view.
+The [configuration](https://test.mosquitto.org/config) is available to view.
 
 Authentication and topic access
 ----------

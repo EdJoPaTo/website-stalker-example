@@ -1,20 +1,20 @@
-[Alluring Arctic](/)
+[Alluring Arctic](https://www.alluringarctic.com/)
 
-[](/)
+[](https://www.alluringarctic.com/)
 
-[About Us](/about-us)
+[About Us](https://www.alluringarctic.com/about-us)
 
-[Science](/science)
+[Science](https://www.alluringarctic.com/science)
 
-[Next Mission](/next-mission)
+[Next Mission](https://www.alluringarctic.com/next-mission)
 
 [](https://facebook.com/alluringarctic)[](https://instagram.com/alluringarctic)[](https://youtube.com/alluringarctic)
 
-[JOIN THE ARCTIC SUPPORT CREW](/support)
+[JOIN THE ARCTIC SUPPORT CREW](https://www.alluringarctic.com/support)
 
-[Alluring Arctic](/)
+[Alluring Arctic](https://www.alluringarctic.com/)
 
-[](/)
+[](https://www.alluringarctic.com/)
 
 **Join the Arctic Crew and receive our exclusive newsletter!**
 ==========

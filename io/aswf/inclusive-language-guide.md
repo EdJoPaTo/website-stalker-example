@@ -3,7 +3,7 @@
 Inclusive Language Guide
 ==========
 
-This guide is intended to encompass inclusive language recommendations for projects at both the [Academy Software Foundation](http://aswf.io) and the [Alliance for OpenUSD (AOUSD)](https://aousd.org/). These guidelines were [initially](https://www.aswf.io/blog/inclusive-language/) written by Barathy Rangarajan and developed by the ASWF Diversity & Inclusion Working Group in 2021, but have recently been updated through a joint effort by ASWF and AOUSD.
+This guide is intended to encompass inclusive language recommendations for projects at both the [Academy Software Foundation](http://aswf.io/) and the [Alliance for OpenUSD (AOUSD)](https://aousd.org/). These guidelines were [initially](https://www.aswf.io/blog/inclusive-language/) written by Barathy Rangarajan and developed by the ASWF Diversity & Inclusion Working Group in 2021, but have recently been updated through a joint effort by ASWF and AOUSD.
 
 **What does “inclusive language” mean?**
 

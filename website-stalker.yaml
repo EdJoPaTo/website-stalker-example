@@ -655,6 +655,7 @@ sites:
     editors:
       - css_select: main
       - css_remove: nav, svg, picture, img
+      - html_url_canonicalize
       - html_markdownify
 
   - url:
@@ -682,6 +683,7 @@ sites:
       - regex_replace:
           pattern: "[\\u{200B}\\u{200D}]+"
           replace: " "
+      - html_url_canonicalize
       - html_markdownify
 
   - url:
@@ -690,6 +692,7 @@ sites:
     editors:
       - css_select: body
       - css_remove: img, iframe
+      - html_url_canonicalize
       - html_markdownify
 
   - url:
@@ -701,9 +704,11 @@ sites:
     editors:
       - css_select: body
       - css_remove: iframe, script, svg, img
+      - html_url_canonicalize
       - html_markdownify
 
   - url: https://www.aswf.io/inclusive-language-guide/
     editors:
       - css_select: .main-content
+      - html_url_canonicalize
       - html_markdownify
