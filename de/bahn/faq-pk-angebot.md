@@ -2052,10 +2052,6 @@ Bis spätestens 14 Tage vor Ablauf der Gültigkeit Ihrer gekündigten BahnCard k
 
 Am schnellsten geht das direkt in Ihrem DB Kundenkonto. Unter "Optionen" bei Ihrer gekündigten BahnCard finden Sie die Aktion "Kündigung zurückziehen".
 
-Alternativ können Sie unser Kontaktformular nutzen.
-
-* [Jetzt Kontakt aufnehmen](https://www.bahn.de/kontakt/serviceanliegen/bahncard-kuendigen-zuruecknehmen)
-
 [Zum DB Kundenkonto](https://www.bahn.de/mein-konto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard25-50-kuendigung-zurueck)
@@ -2104,7 +2100,7 @@ Nein. Die digitale BahnCard 100 ist fest an das DB Kundenkonto gebunden, in dem 
 
 BahnCards können bis zu 6 Monate im Voraus gekauft werden. Tickets hingegen können bis zu 12 Monate im Voraus (jeweils ab dem Fahrplanwechsel im Juni und Dezember) gebucht werden. Es ist allerdings nicht notwendig, zum Buchungszeitpunkt bereits eine gültige BahnCard für eine in der Zukunft geplante Reise zu haben. Nur am Reisetag ist eine gültige BahnCard vorzuzeigen.
 
-**Die kostenfreie Jugend BahnCard** kann vom 7. Oktober bis zum 12. Dezember 2026 bestellt werden. Letzter erster Geltungstag ist der 10. Juni 2027.
+Die kostenfreie Jugend BahnCard kann seit dem 7. Oktober 2026 bestellt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bc-im-voraus-kaufen)
 
@@ -5667,7 +5663,7 @@ Bitte kontaktieren Sie uns über das Kontaktformular auf [www.jobticket-bahn.de]
 
 [Jetzt buchen](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00002O202)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ferien-ticket-nrw)
 
@@ -10096,13 +10092,6 @@ Ja, allerdings müssen Sie dafür beim Kauf des Tickets den Nahverkehr mitbuchen
 Um im DB Navigator nur einen Sitzplatz (ohne Ticket) zu buchen, öffnen Sie den Menubereich „Buchen“. Gehen Sie nun auf das Drop Down Menü oben links („Einfache Fahrt“) und wählen Sie anschließend „Nur Sitzplatz (ohne Ticket)“ aus. Nun können Sie wie gewohnt eine Verbindung suchen und Ihren Sitzplatz reservieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/navigator-zusaetzliche-sitzplatzreservierung-ohne-ticket)
-
- Kann ich mit meiner neu zugeteilten Sitzplatzreservierung den Komfort Check-in nutzen?
-----------
-
-Der Komfort Check-in ist für neu zugeteilte Sitzplatzreservierungen noch nicht möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/neue-sitzplatzreservierung-komfort-check-in-nutzen)
 
  Der neue Zug hat weniger Sitzplätze und mir kann daher keine neue Sitzplatzreservierung zugeteilt werden. Was soll ich tun?
 ----------
@@ -18998,9 +18987,7 @@ Die BahnCard 50 kostet
  Wie viel kostet die Jugend BahnCard?
 ----------
 
-Die Jugend BahnCard kostet 7,90 Euro.
-
-Vom 7. Oktober bis 12. Dezember 2026: Die Jugend BahnCard kostet 0 Euro statt 7,90 Euro pro Jahr (1. und 2. Kl.) bis einschließlich 18 Jahre.
+Die Jugend BahnCard kostet momentan 0 Euro statt 7,90 Euro pro Jahr (1. und 2. Kl.) bis einschließlich 18 Jahre.
 
 [Weitere Informationen zur Jugend BahnCard](https://www.bahn.de/angebot/bahncard/junge-reisende/jugendbahncard25)
 
@@ -20506,11 +20493,9 @@ Das Sachsen-Böhmen-Ticket wird nur noch bis zum Fahrplanwechsel am 13. Dezember
 * An den Verkaufsstellen der DB
 * Jeweils 14 Tage vor Ferienbeginn direkt hier online buchbar
 
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00002O202)
-
 [Alle Infos zum Ferienticket NRW](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00002O202)
+[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 

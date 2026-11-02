@@ -5794,9 +5794,13 @@ Für Nahverkehrsverbindungen des Deutschlandtarifs gilt, dass im Zug beim Zugper
  Kann ich Tickets, die ich auf der Website kaufe, auch in die App DB Navigator laden?
 ----------
 
-Ja. Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gebucht haben, wird es nach dem Login mit Ihren Zugangsdaten automatisch unter "Meine Reisen" in der App und auf der Website angezeigt.
+Ja. Wenn Sie Ihr Ticket über Ihr DB Kundenkonto gebucht haben, wird es nach dem Login mit Ihren Zugangsdaten automatisch unter "Reisen" in der App DB Navigator und unter "Meine Reisen" auf der Website angezeigt.
 
-Falls ein Ticket nicht angezeigt wird oder Sie es ohne DB Kundenkonto gebucht haben, können Sie es manuell unter "Meine Reisen" über die Auftragssuche hinzufügen. Geben Sie dazu die Auftragsnummer und den Nachnamen der reisenden Person ein.
+Falls ein Ticket in der DB Navigator App nicht angezeigt wird oder Sie es ohne DB Kundenkonto gebucht haben, können Sie es so unter "Reisen" über die Auftragssuche hinzufügen:
+
+1. Wählen Sie in der App den Menübereich "Reisen" aus.
+2. Tippen Sie oben rechts auf das Plus-Symbol.
+3. Geben Sie die Auftrags-, Vertrags- oder Abonummer und den Nachnamen der reisenden Person ein.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ticket-in-navigator-app-laden)
 
@@ -9041,18 +9045,28 @@ Sie gelangen zu einer Übersicht über Ihr verfügbares Guthaben, wenn Sie auf d
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-mein-guthaben-der-mehrfahrtenkarte-einsehen)
 
- Welche Anpassungen an den persönlichen Daten kann ich in meinem DB Kundenkonto auf bahn.de oder im DB Navigator selbst vornehmen?
+ Wie kann ich meine persönlichen Daten im DB Kundenkonto ändern?
 ----------
 
-Die **Adresse**, das **Zahlungsmittel** und die **E-Mail-Adresse** können Sie selbst im DB Kundenkonto auf bahn.de oder im DB Navigator anpassen.
+Sie können Ihre persönlichen Daten (Nachname, Adresse, Zahlungsmittel und E-Mail-Adresse) in Ihrem DB Kundenkonto selbst anpassen.
 
-Sie können Ihren **Nachnamen** selbst ändern. Nochmalige Änderungen des **Nachnamens** ist nur mit Vorlage eines Nachweises möglich.
+**So geht's:**
 
-Eine Änderung des **Vornamens** und **Geburtsdatums** ist ausschließlich mit Vorlage eines Nachweises möglich.
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. In der **App DB Navigator** gehen Sie rechts unten in den Bereich "Profil".
+   Auf **bahn.de** klicken Sie rechts oben auf Ihr Profil und dort auf "Kundenkonto verwalten".
+3. Unter "Persönliche Daten" können Sie Ihren Nachnamen, Ihr Geburtsdatum, Ihre Adresse, E-Mail-Adresse und Telefonnummer anpassen.
+4. Unter "Zahlungsmittel" können Sie Ihre Zahlungsmittel einfügen oder ändern.
 
-Bitte wenden Sie sich mit dem Änderungswunsch und einem Nachweis (Kopie Personalausweis) an folgende E-Mail-Adresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
+**Hinweise**
+
+* Sie können Ihren **Nachnamen** **nur einmal im Jahr** selbst ändern.
+* Eine Änderung des **Vornamens** oder **Geburtsdatums** ist nur mit Vorlage eines Nachweises möglich.
+* Bitte wenden Sie sich in beiden Fällen mit einem Nachweis (Kopie Personalausweis) an diese E-Mail-Adresse: [fahrkartenservice@bahn.de](mailto:fahrkartenservice@bahn.de)
 
 Schreiben Sie uns bitte von Ihrer im DB Kundenkonto hinterlegten E-Mail-Adresse.
+
+[Zum DB Kundenkonto](https://www.bahn.de/mein-konto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-meine-persoenlichen-daten-anpassen)
 
