@@ -1,4 +1,4 @@
-[Lints](#lints)
+Lints
 ==========
 
 `rustdoc` provides lints to help you writing and testing your documentation. You
@@ -17,7 +17,7 @@ Note that, except for `missing_docs`, these lints are only available when runnin
 
 Here is the list of the lints provided by `rustdoc`:
 
-[`broken_intra_doc_links`](#broken_intra_doc_links)
+`broken_intra_doc_links`
 ----------
 
 This lint **warns by default**. This lint detects when an [intra-doc link](write-documentation/linking-to-items-by-name.html) fails to be resolved. For example:
@@ -74,7 +74,7 @@ help: to link to the function, add parentheses
 
 ```
 
-[`private_intra_doc_links`](#private_intra_doc_links)
+`private_intra_doc_links`
 ----------
 
 This lint **warns by default**. This lint detects when [intra-doc links](write-documentation/linking-to-items-by-name.html) from public to private items.
@@ -120,7 +120,7 @@ warning: public documentation for `public` links to private item `private`
 
 ```
 
-[`missing_docs`](#missing_docs)
+`missing_docs`
 ----------
 
 This lint is **allowed by default**. It detects items missing documentation.
@@ -146,7 +146,7 @@ warning: missing documentation for a function
 
 Note that unlike other rustdoc lints, this lint is also available from `rustc` directly.
 
-[`missing_crate_level_docs`](#missing_crate_level_docs)
+`missing_crate_level_docs`
 ----------
 
 This lint is **allowed by default**. It detects if there is no documentation
@@ -173,7 +173,7 @@ This is currently “allow” by default, but it is intended to make this a
 warning in the future. This is intended as a means to introduce new users on*how* to document their crate by pointing them to some instructions on how to
 get started, without providing overwhelming warnings like `missing_docs`might.
 
-[`missing_doc_code_examples`](#missing_doc_code_examples)
+`missing_doc_code_examples`
 ----------
 
 This lint is **allowed by default** and is **nightly-only**. It detects when a documentation block
@@ -224,7 +224,7 @@ This lint is not emitted on the following items:
 * Modules (including the top-level module of a crate)
 * Foreign items from reexports (functions, statics, types, etc)
 
-[`private_doc_tests`](#private_doc_tests)
+`private_doc_tests`
 ----------
 
 This lint is **allowed by default**. It detects documentation tests when they
@@ -259,7 +259,7 @@ warning: Documentation test in private item
 
 ```
 
-[`invalid_codeblock_attributes`](#invalid_codeblock_attributes)
+`invalid_codeblock_attributes`
 ----------
 
 This lint **warns by default**. It detects code block attributes in
@@ -300,7 +300,7 @@ warning: unknown attribute `should-panic`. Did you mean `should_panic`?
 In the example above, the correct form is `should_panic`. This helps detect
 typo mistakes for some common attributes.
 
-[`invalid_html_tags`](#invalid_html_tags)
+`invalid_html_tags`
 ----------
 
 This lint **warns by default**. It detects unclosed
@@ -344,7 +344,7 @@ warning: 2 warnings emitted
 
 ```
 
-[`invalid_rust_codeblocks`](#invalid_rust_codeblocks)
+`invalid_rust_codeblocks`
 ----------
 
 This lint **warns by default**. It detects Rust code blocks in documentation
@@ -393,7 +393,7 @@ warning: could not parse code block as Rust code
 
 ```
 
-[`bare_urls`](#bare_urls)
+`bare_urls`
 ----------
 
 This lint is **warn-by-default**. It detects URLs which are not links.
@@ -431,7 +431,7 @@ warning: 2 warnings emitted
 
 ```
 
-[`unescaped_backticks`](#unescaped_backticks)
+`unescaped_backticks`
 ----------
 
 This lint is **allowed by default**. It detects backticks (`) that are not escaped.
@@ -474,7 +474,7 @@ warning: 1 warning emitted
 
 ```
 
-[`redundant_explicit_links`](#redundant_explicit_links)
+`redundant_explicit_links`
 ----------
 
 This lint is **warn-by-default**. It detects explicit links that are the same

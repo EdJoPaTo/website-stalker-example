@@ -19,7 +19,7 @@ Dies ist die letzte Gelegenheit, das alten Hotels zu erkunden: Das Gebäude wird
 Artists
 ==========
 
-[Rabih Mroué](#) | [Yasuhiro Chida](#) | [Kristof Kintera](#) | Wiebke Maria Wachmann | [Jin Lee](#) | [Studio Sven Sauer](#) | [kling klang klong](#) & [schnelle bunte bilder](#)| [Ausgang Studio](#) | [Marco Barotti](#) | [Vincent Rang](#) | [Markus Graf](#) | [Lumus Instruments](#) | Florian Basche, Bastian Kopf & Künstler ohne Name
+Rabih Mroué | Yasuhiro Chida | Kristof Kintera | Wiebke Maria Wachmann | Jin Lee | Studio Sven Sauer | kling klang klong & schnelle bunte bilder | Ausgang Studio | Marco Barotti | Vincent Rang | Markus Graf | Lumus Instruments | Florian Basche, Bastian Kopf & Künstler ohne Name
 
 THE DARK ROOMS VERTICAL
 ==========
@@ -228,7 +228,7 @@ Thank you! Your submission has been received!
 
 Oops! Something went wrong while submitting the form.
 
-[Impressum | AGBs & Datenschutz](/impressum)
+[Impressum | AGBs & Datenschutz](https://www.thedarkrooms.de/impressum)
 
 [](https://www.instagram.com/thedarkroomsexhibition)[](https://www.youtube.com/@TheDarkRooms/videos)[](https://www.youtube.com/@TheDarkRooms/videos)
 

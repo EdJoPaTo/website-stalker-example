@@ -289,6 +289,7 @@ sites:
       - css_select: main
       - css_remove: ul:has(li a code)
       - css_flatten: a[href^="#example"], a[href^="#explanation"]
+      - css_flatten: h1 a, h2 a, h3 a, h4 a
       - html_markdownify
   - url: https://clippy.rust-lang.org/stable/index.html
     editors:
@@ -658,9 +659,11 @@ sites:
     editors:
       - css_select: body > section
       - css_remove: img, svg, iframe, noscript, style, .tabs-menu
+      - css_flatten: a > h1, a[href="#"]
       - regex_replace:
           pattern: "[\\u{200B}\\u{200D}]+"
           replace: " "
+      - html_url_canonicalize
       - html_markdownify
   - url:
       - https://www.wirimraum.de/

@@ -18,44 +18,44 @@ Und dass irgendwo in diesem Gebäude immer noch ein bisschen Magie wartet.
 INTERNATIONALE ARTISTS
 ==========
 
-[Alexis Choplain (FR) ==========](/artists)
+[Alexis Choplain (FR)](https://www.thedarkrooms.de/artists)
 
-[Boris Acket (NL) ==========](/artists)
+[Boris Acket (NL)](https://www.thedarkrooms.de/artists)
 
-[Corey Schneider (DE) ==========](/artists)
+[Corey Schneider (DE)](https://www.thedarkrooms.de/artists)
 
-[Cristian Rizzuti (IT) + Julian Alvarez (ES, composer) ==========](/artists)
+[Cristian Rizzuti (IT) + Julian Alvarez (ES, composer)](https://www.thedarkrooms.de/artists)
 
-[Encor Studio (CH) ==========](/artists)
+[Encor Studio (CH)](https://www.thedarkrooms.de/artists)
 
-[Joris Strijbos (NL) ==========](/artists)
+[Joris Strijbos (NL)](https://www.thedarkrooms.de/artists)
 
-[Lumus Instruments (NL) ==========](/artists)
+[Lumus Instruments (NL)](https://www.thedarkrooms.de/artists)
 
-[Sputniko! (JP) ==========](/artists)
+[Sputniko! (JP)](https://www.thedarkrooms.de/artists)
 
-[Sven Sauer (DE) & CEYYS ==========](/artists)
+[Sven Sauer (DE) & CEYYS](https://www.thedarkrooms.de/artists)
 
 INTERNATIONALE ARTISTS
 ==========
 
-[Alexis Choplain (FR) ==========](/artists)
+[Alexis Choplain (FR)](https://www.thedarkrooms.de/artists)
 
-[Boris Acket (NL) ==========](/artists)
+[Boris Acket (NL)](https://www.thedarkrooms.de/artists)
 
-[Corey Schneider (DE) ==========](/artists)
+[Corey Schneider (DE)](https://www.thedarkrooms.de/artists)
 
-[Cristian Rizzuti (IT) + Julian Alvarez (ES, composer) ==========](/artists)
+[Cristian Rizzuti (IT) + Julian Alvarez (ES, composer)](https://www.thedarkrooms.de/artists)
 
-[Encor Studio (CH) ==========](/artists)
+[Encor Studio (CH)](https://www.thedarkrooms.de/artists)
 
-[Joris Strijbos (NL) ==========](/artists)
+[Joris Strijbos (NL)](https://www.thedarkrooms.de/artists)
 
-[Lumus Instruments (NL) ==========](/artists)
+[Lumus Instruments (NL)](https://www.thedarkrooms.de/artists)
 
-[Sputniko! (JP) ==========](/artists)
+[Sputniko! (JP)](https://www.thedarkrooms.de/artists)
 
-[Sven Sauer (DE) & CEYYS ==========](/artists)
+[Sven Sauer (DE) & CEYYS](https://www.thedarkrooms.de/artists)
 
 STAY WITH US
 ==========
