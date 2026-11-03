@@ -7052,6 +7052,41 @@ In Großbritannien läuft es grundsätzlich ähnlich wie in Deutschland ab, denn
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-national-rail-was-beachten)
 
+ Ich plane mehrere Fahrten im Ausland, gibt es hierfür spezielle Angebote?
+----------
+
+Wenn Sie mehrere Fahrten im Ausland planen, lohnt sich oft ein [Interrail Pass](https://www.bahn.de/angebot/international/interrail). Mit dem [Interrail One Country Pass](https://www.bahn.de/angebot/international/one-country-pass) können Sie für einen gewählten Reisezeitraum flexibel die Züge im jeweiligen Land nutzen.
+
+Sie werden in mehreren Ländern unterwegs sein? Hier lohnt sich oft der [Interrail Global Pass](https://www.bahn.de/angebot/international/global-pass), den Sie in insgesamt 33 europäischen Ländern nutzen können. Innerhalb von 2 Tagen der Geltungsdauer dürfen Sie den Pass auch in Ihrem Wohnsitzland nutzen.
+
+Hinweis: Für einige reservierungspflichtige Züge benötigen Sie einen separaten Aufpreis. Mehr Infos dazu auf [www.interrail.com](https://www.interrail.com/de/book-reservations/how-do-i-book-seats).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-niederlaendische-bahn-spezielle-angebote)
+
+ Für welche Verbindungen kann ich ein Ticket der Niederländischen Bahn buchen?
+----------
+
+Fast alle Fahrten mit Zügen innerhalb der Niederlande sind buchbar, suchen Sie einfach in der Verbindungsauskunft Ihre gewünschte Verbindung.
+
+Reisen Sie z.B.
+
+* von Utrecht nach Rotterdam in rund 40 Minuten
+* von Amsterdam an die Nordseeküste nach Zandvoort in rund 30 Minuten
+* von Den Haag nach Amsterdam in rund 50 Minuten
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-niederlaendische-bahn-verbindungen)
+
+ Was sollte ich bei Zugreisen in den Niederlanden beachten?
+----------
+
+Bitte beachten Sie in Verbindung mit einer Fahrkarte der niederländischen Bahn (NS) folgende Hinweise:
+
+* Fahrkarten müssen vor Fahrtantritt auf DIN A4 Papier ausgedruckt werden.
+* An vielen Bahnhöfen in den Niederlanden befinden sich am Zugang zum Bahnsteigbereich Ticket-Gates. Nutzen Sie den Barcode Ihres Tickets, um das Gate zu öffnen.
+* Folgende Züge sind aufpreispflichtig: ICD/ECD zwischen Schiphol Airport und Rotterdam Centraal, ICE zwischen allen Stationen innerhalb der Niederlande. Den Aufpreis können Sie in den Niederlanden am Automaten oder ggf. am Bahnsteig an entsprechend gekennzeichneten Säulen erwerben.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/internationale-reise-niederlaendische-bahn-was-beachten)
+
  Wie lange im Voraus kann ich SBB-Fahrkarten buchen?
 ----------
 

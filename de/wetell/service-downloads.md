@@ -40,7 +40,7 @@ Hier findest du alle wichtigen Dokumente zu deinem Mobilfunktarif – von AGBs u
   * [PIB Ultrakurz ab 12/2024](/media/filer_public/ce/62/ce62dcba-d0bd-4133-a5df-f71aacb158aa/pib_ultrakurz_bf_2024-12.pdf)
   * [PIB Mikrofon ab 12/2024](/media/filer_public/f1/f8/f1f881cb-f5ba-4b6b-b912-c11c75657af6/pib_mikrofon_bf_2024-12.pdf)
   * [PIB Mittelwelle ab 12/2024](/media/filer_public/4e/74/4e7400d1-69c2-4c70-b435-f219cc14375b/pib_mittelwelle_bf_2024-12.pdf)
-  * [PIB Superfunk ab 08/2024](/media/filer_public/b6/e9/b6e92739-aaf8-4490-a3e6-480df1b404be/pib_superfunk_2024-08.pdf)
+  * [PIB Superfunk ab 09/2026](/media/filer_public/61/55/6155c65c-d01b-46ea-99e1-e424cf166aa1/pib_superfunk_bf_2026-09.pdf)
   * [PIB Megafon ab 12/2024](/media/filer_public/21/74/2174ff25-cf6b-41ad-878a-d55d309aee65/pib_megafon_bf_2024-12.pdf)
   * [PIB Überschall ab 12/2024](/media/filer_public/f5/af/f5afcd93-7ac3-4277-9a3f-2c54032eee45/pib_ueberschall_bf_2024-12.pdf)
   * [PIB Nanoflex ab 03/2026](/media/filer_public/6b/4f/6b4fc8a7-99af-4a77-8c46-b1096c06f790/preisliste_nanoflex_bf_2026-03.pdf)
