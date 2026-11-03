@@ -242,6 +242,9 @@ sites:
     editors:
       - css_select: div.article
       - css_remove: svg, img, a[href^="#"]
+      - regex_replace:
+          pattern: '&nbsp;'
+          replace: ' '
       - html_sanitize
       - html_prettify
   - url:
