@@ -9,11 +9,11 @@ Uns zeichnet also aus, dass wir mehr wollen: Mehr Klimaschutz, mehr Fairness, me
 
 #### Was bedeutet nachhaltiger Mobilfunk? ####
 
-Wir arbeiten Werte-basiert statt Profit-orientiert. Wir gleichen alle Emissionen, die durch deinen Mobilfunk entstehen, mit Pflanzenkohle aus. Gleichzeitig unterstützt du mit deinem Tarif den Ausbau von erneuerbaren Energien. Alle Details dazu erfährst du [hier](/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima).).
+Wir arbeiten Werte-basiert statt Profit-orientiert. Wir gleichen alle Emissionen, die durch deinen Mobilfunk entstehen, mit Pflanzenkohle aus. Gleichzeitig unterstützt du mit deinem Tarif den Ausbau von erneuerbaren Energien. Alle Details dazu erfährst du [hier](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#aktiv_fuers_klima).).
 
-Nachhaltigkeit hat für uns auch eine soziale Komponente. Deswegen setzen wir auf faire Tarifbedingungen, Datenschutz und einen menschlichen Service. Mehr dazu [hier](/warum-wetell/mobilfunk-neu-denken/#liebevoller_service). Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu; und wenn du Lust hast, schau mal bei unserem [GWÖ-Kiezfest](/gwoe/) vorbei.
+Nachhaltigkeit hat für uns auch eine soziale Komponente. Deswegen setzen wir auf faire Tarifbedingungen, Datenschutz und einen menschlichen Service. Mehr dazu [hier](https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/#liebevoller_service). Gemeinsam mit unserer Community lassen wir den Wandel Realität werden. Komm auch dazu; und wenn du Lust hast, schau mal bei unserem [GWÖ-Kiezfest](https://www.wetell.de/gwoe/) vorbei.
 
-Ungefähr ein Viertel der Tarifkosten fließen direkt in die Umsetzung dieser Maßnahmen. Wenn du einen Überblick bekommen willst, wie sich die Kosten für unsere Tarife zusammensetzen, schau dir unsere [Preistransparenz](/mobilfunk/#preistransparenz) an.
+Ungefähr ein Viertel der Tarifkosten fließen direkt in die Umsetzung dieser Maßnahmen. Wenn du einen Überblick bekommen willst, wie sich die Kosten für unsere Tarife zusammensetzen, schau dir unsere [Preistransparenz](https://www.wetell.de/mobilfunk/#preistransparenz) an.
 
 #### Warum nicht einen billigen Discountervertrag abschließen und das gesparte Geld fürs Klima spenden? ####
 
@@ -53,26 +53,26 @@ Wenn du auf dem Laufenden bleiben willst, trag dich doch in unseren Newsletter e
 
 #### Wo finde ich Preislisten und AGB? ####
 
-Die aktuellen Preislisten und AGB findest du in unserem [Downloadbereich](/service/downloads/).
+Die aktuellen Preislisten und AGB findest du in unserem [Downloadbereich](https://www.wetell.de/service/downloads/).
 
 #### Kann ich WEtell auch im Ausland nutzen? ####
 
-Selbstverständlich kannst du WEtell auch im Ausland nutzen. Je nach Land fallen unterschiedliche Gebühren an. Preisinformationen im Detail findest du in unserer [Roaming-Preisliste](/filer/canonical/1732624908/536/).
+Selbstverständlich kannst du WEtell auch im Ausland nutzen. Je nach Land fallen unterschiedliche Gebühren an. Preisinformationen im Detail findest du in unserer [Roaming-Preisliste](https://www.wetell.de/filer/canonical/1732624908/536/).
 Das übliche EU-Roaming ist natürlich auch bei uns inklusive.
 Du bist länger im Ausland? Wenn du mehrere Monate im EU-Ausland verbringst, entstehen für uns dadurch hohe Kosten. Melde dich gerne bei uns und wir finden gemeinsam eine Lösung.
 VORSICHT: Anrufe aus Deutschland in ein anderes EU-Land fallen nicht unter die EU-Roaming-Regelung, sind also kostenpflichtig.
 
 #### Kann ich zu meinem Vertrag auch ein Handy bei euch erhalten? ####
 
-Ja, bei uns kannst du deinen WEtell Tarif auch mit dem passenden, nachhaltigen Smartphone bestellen. Hier findest du unser [nachhaltiges Handy-Angebot](/mobilfunk/tarif-mit-handy/).
+Ja, bei uns kannst du deinen WEtell Tarif auch mit dem passenden, nachhaltigen Smartphone bestellen. Hier findest du unser [nachhaltiges Handy-Angebot](https://www.wetell.de/mobilfunk/tarif-mit-handy/).
 
 #### Welche Konditionen gelten außerhalb der EU, z. B. in der Schweiz? ####
 
-Eine Übersicht aller Auslandskonditionen und Reisepakete findest du auf unserer [Übersichtsseite zu Auslandskonditionen](/mobilfunk/auslandskonditionen/).
+Eine Übersicht aller Auslandskonditionen und Reisepakete findest du auf unserer [Übersichtsseite zu Auslandskonditionen](https://www.wetell.de/mobilfunk/auslandskonditionen/).
 
 Insbesondere die Nutzung der mobilen Daten im kostenpflichtigen Ausland kann teuer werden. Aus diesem Grund haben wir RCOCO eingeführt. RCOCO sorgt dafür, dass deine mobilen Daten automatisch gesperrt werden, sobald du dich außerhalb der Tarifzone der EU befindest. Erst, wenn du eines der per SMS angebotenen Reisepakete aktiv buchst, ist es dir wieder möglich, aufs Internet zuzugreifen. So kannst du deine Internetkosten gezielt kontrollieren.
 
-Für einige Länder, bspw. für die Schweiz, können wir dir außerdem die Zusatzoption „EasyTravel Tag“ anbieten. Unter folgendem Link findest du alle Infos, [wie und wo du diese Zusatzoption nutzen kannst](/mobilfunk/optionen/easytravel/).
+Für einige Länder, bspw. für die Schweiz, können wir dir außerdem die Zusatzoption „EasyTravel Tag“ anbieten. Unter folgendem Link findest du alle Infos, [wie und wo du diese Zusatzoption nutzen kannst](https://www.wetell.de/mobilfunk/optionen/easytravel/).
 
 #### Bietet WEtell auch Prepaid Tarife an? ####
 
@@ -88,11 +88,11 @@ Ja, eine eSIM kannst du bei WEtell bekommen.
 
 Wenn du als Neukund\*in zu WEtell wechselst, kannst du deine eSIM in der Bestellstrecke zur Rufnummernmitnahme oder einer neuen Rufnummer auswählen.
 
-Wenn du bereits Kund\*in bei WEtell bist, kannst du dein SIM-Karten-Profil im [Mein WEtell-Bereich](https://mein.wetell.de/anmelden) tauschen. Planst du auf eSIM zu wechseln, schaue dich bitte auf unserer [eSIM-Infoseite](/mobilfunk/optionen/esim/) um. Hier findest du alle Informationen zu eSIM Bestellung, Aktivierung und möglichen Wechselhürden. Ein SIM-Kartentausch auf eSIM kostet einmalig 15 €.
+Wenn du bereits Kund\*in bei WEtell bist, kannst du dein SIM-Karten-Profil im [Mein WEtell-Bereich](https://mein.wetell.de/anmelden) tauschen. Planst du auf eSIM zu wechseln, schaue dich bitte auf unserer [eSIM-Infoseite](https://www.wetell.de/mobilfunk/optionen/esim/) um. Hier findest du alle Informationen zu eSIM Bestellung, Aktivierung und möglichen Wechselhürden. Ein SIM-Kartentausch auf eSIM kostet einmalig 15 €.
 
 #### Kann ich eine zweite SIM-Karte oder Multi-SIM bekommen? ####
 
-Ja, du kannst bei uns weitere SIM-Karten für deine Rufnummer erhalten. Wir nennen das OneNumber. Preise und Leistungsdetails findest du auf unserer [Infoseite zur OneNumber](/mobilfunk/optionen/onenumber/).
+Ja, du kannst bei uns weitere SIM-Karten für deine Rufnummer erhalten. Wir nennen das OneNumber. Preise und Leistungsdetails findest du auf unserer [Infoseite zur OneNumber](https://www.wetell.de/mobilfunk/optionen/onenumber/).
 
 #### Welche Netztechnologien gibt es und was bedeutet 5G? ####
 
@@ -152,9 +152,9 @@ Einen DSL/Breitband-Anschluss bieten wir bisher nicht an, sondern ausschließlic
 
 #### Bietet ihr Ermäßigungen auf eure Tarife an? ####
 
-Ja, es gibt unseren [Gruppenfunk](/mobilfunk/optionen/gruppenfunk/): Sobald du mehr als einen Tarif in deinem Vertragskonto hast, erhältst du automatisch für jeden weiteren Tarif 2 € Rabatt. Mehr dazu unter [Gruppenfunk](/mobilfunk/optionen/gruppenfunk/).
+Ja, es gibt unseren [Gruppenfunk](https://www.wetell.de/mobilfunk/optionen/gruppenfunk/): Sobald du mehr als einen Tarif in deinem Vertragskonto hast, erhältst du automatisch für jeden weiteren Tarif 2 € Rabatt. Mehr dazu unter [Gruppenfunk](https://www.wetell.de/mobilfunk/optionen/gruppenfunk/).
 
-Für Menschen, die sich bei uns keinen Tarif leisten können, gibt es außerdem den „FAIRstärker“. Er bietet die Möglichkeit, sich mit 1 €, 3 € oder 5 € monatlich von anderen Menschen unterstützen zu lassen. Diese legen monatlich entweder 1 €, 3 €, oder 5 € in unseren „FAIRstärker-Topf“ und machen das Ganze so möglich. Details findest du auf der [FAIRstärker-Seite](/mobilfunk/optionen/fairstaerker/).
+Für Menschen, die sich bei uns keinen Tarif leisten können, gibt es außerdem den „FAIRstärker“. Er bietet die Möglichkeit, sich mit 1 €, 3 € oder 5 € monatlich von anderen Menschen unterstützen zu lassen. Diese legen monatlich entweder 1 €, 3 €, oder 5 € in unseren „FAIRstärker-Topf“ und machen das Ganze so möglich. Details findest du auf der [FAIRstärker-Seite](https://www.wetell.de/mobilfunk/optionen/fairstaerker/).
 
 #### Gilt das monatliche Datenvolumen sowohl für Down- als auch für Uploads? ####
 
@@ -166,7 +166,7 @@ Die Tarife Ultrakurz und Mikrofon übertragen mit bis zu 50 Mbit/s. Die Tarife M
 
 #### Was kosten Anrufe zu Sonderrufnummern (0180, 0900 etc.)? ####
 
-Viele Sondernummern sind kostenpflichtig – ähnlich wie im Festnetz. Preisinformationen im Detail findest du in unserer Preisliste [Sonderrufnummern](/filer/canonical/1732624908/537/). Du kannst solche Nummern auch selbst in deinem [Mein WEtell-Bereich sperren](https://mein.wetell.de/anmelden), oder sie von uns sperren lassen.
+Viele Sondernummern sind kostenpflichtig – ähnlich wie im Festnetz. Preisinformationen im Detail findest du in unserer Preisliste [Sonderrufnummern](https://www.wetell.de/filer/canonical/1732624908/537/). Du kannst solche Nummern auch selbst in deinem [Mein WEtell-Bereich sperren](https://mein.wetell.de/anmelden), oder sie von uns sperren lassen.
 Beachte bitte, dass ausländische Sonderrufnummern nicht zwingend dem EU-Roaming-Gesetz unterliegen. Welche Sonderrufnummern in welchem Land gebührenpflichtig sind, findest du in der Übersicht über [EU-Sonderrufnummern](https://www.vodafone.de/roaming/eu-sonderrufnummern.pdf).
 
 #### Warum sind die Tarifangebote bis zum Ende des Monates zeitlich begrenzt? ####
@@ -198,7 +198,7 @@ Die Rufnummernmitnahme dauert mindestens sechs Werktage. Es kann aber auch sein,
 
 Da gibt es verschiedene Möglichkeiten:
 
-1. Beim Bestellen: Du kannst direkt beim Abschließen deines WEtell-Tarifs in der Bestellstrecke anklicken, dass dein alter Vertrag gekündigt werden soll (nachträglich können wir das leider nicht mehr für dich veranlassen). Wir machen die Kündigung dann für dich fertig und schicken sie an deinen alten Anbieter. Beachte dabei bitte, dass dein alter Vertrag auch auf deinen Namen laufen muss, die Kündigung wird sonst vom alten Anbieter nicht akzeptiert. Worauf also warten: Los geht’s zu den [Tarifen](/mobilfunk/).
+1. Beim Bestellen: Du kannst direkt beim Abschließen deines WEtell-Tarifs in der Bestellstrecke anklicken, dass dein alter Vertrag gekündigt werden soll (nachträglich können wir das leider nicht mehr für dich veranlassen). Wir machen die Kündigung dann für dich fertig und schicken sie an deinen alten Anbieter. Beachte dabei bitte, dass dein alter Vertrag auch auf deinen Namen laufen muss, die Kündigung wird sonst vom alten Anbieter nicht akzeptiert. Worauf also warten: Los geht’s zu den [Tarifen](https://www.wetell.de/mobilfunk/).
 2. Online: Jeder Mobilfunkanbieter muss ein Kündigungsformular auf seiner Website anbieten. Bei den meisten Anbietern gibt es auch im Login-Bereich eine Möglichkeit zu Kündigung. Wenn die Kündigung sehr zügig bearbeitet werden soll, ist das die schnellste Variante.
 3. Per Mail: Schreib eine Mail an den Kundenservice deines alten Anbieters.
 
@@ -228,7 +228,7 @@ Ganz wichtig für uns: Alle Daten werden innerhalb der EU verarbeitet und fallen
 
 #### Wie läuft die Rufnummernmitnahme ab? ####
 
-Das hängt davon ab, was für einen Vertrag du aktuell hast. Am besten nutzt du unsere [Wechselhilfe](/mobilfunk/wechselservice/)- die liefert dir eine genaue Anleitung.
+Das hängt davon ab, was für einen Vertrag du aktuell hast. Am besten nutzt du unsere [Wechselhilfe](https://www.wetell.de/mobilfunk/wechselservice/)- die liefert dir eine genaue Anleitung.
 
 Falls du deine Rufnummer zum Vertragsende des bisherigen Vertrags mitnehmen möchtest, geben die meisten Anbieter die Rufnummer automatisch frei. Manche Details in der Vorgehensweise sind von Anbieter zu Anbieter unterschiedlich. Um sicher zu sein, beantrage daher die Mitnahme (= Portierung) max. 123 Tage VOR dem Ende deiner Vertragslaufzeit und bis max. 90 Tage NACH dem Ende deiner Vertragslaufzeit beim bisherigen Anbieter.
 
@@ -251,7 +251,7 @@ Deine Kund\*innennummer findest du in der E-Mail mit dem Betreff: „Dein WEtell
 
 #### Wo finde ich meine/n PIN/PUK? ####
 
-Am einfachsten findest du dein PIN (Persönliche Identifikationsnummer) sowie deinen PUK (Personal Unblocking Key) im [Mein-WEtell-Bereich](https://mein.wetell.de) unter "Deine Verträge" und dann beim jeweiligen Vertrag. Natürlich stehen PIN und PUK auch auf deinem SIM-Kartenträger sowie im Willkommensbrief.
+Am einfachsten findest du dein PIN (Persönliche Identifikationsnummer) sowie deinen PUK (Personal Unblocking Key) im [Mein-WEtell-Bereich](https://mein.wetell.de/) unter "Deine Verträge" und dann beim jeweiligen Vertrag. Natürlich stehen PIN und PUK auch auf deinem SIM-Kartenträger sowie im Willkommensbrief.
 
 **Wichtig:** Bei dreimaliger Falscheingabe deiner PIN in Folge wird deine SIM-Karte gesperrt. Wenn dies passiert, benötigst du deinen PUK. Nach zehnmaliger Falscheingabe des PUKs ist deine SIM-Karte vollständig gesperrt - also nicht mehr nutzbar. Wenn das passiert: Wende dich an unseren [Service,](https://www.wetell.de/kontakt/) um eine neue SIM-Karte zu beantragen. Diese kostet 15 €.
 
@@ -361,7 +361,7 @@ Die Monatsbeiträge werden immer 10-14 Tage nach Versand der Rechnungsinformatio
 
 #### Wieso erscheint auf meiner Rechnung eine Gutschrift "Gruppenfunk"? ####
 
-Sobald du mehr als einen Tarif in deinem Vertragskonto hast, erhältst du automatisch pro zusätzlichem Tarif 2 € Rabatt. Das ist unser [Gruppenfunk](/mobilfunk/optionen/gruppenfunk/).
+Sobald du mehr als einen Tarif in deinem Vertragskonto hast, erhältst du automatisch pro zusätzlichem Tarif 2 € Rabatt. Das ist unser [Gruppenfunk](https://www.wetell.de/mobilfunk/optionen/gruppenfunk/).
 
 #### Ich habe ein neues Handy – benötige ich nun eine andere SIM-Karte? ####
 
@@ -412,12 +412,12 @@ Folgende Möglichkeiten gibt es, die du vornehmen kannst:
 8. Prüfe, ob die SIM-Karte in einem anderen Handy funktioniert.
 9. Prüfen, ob eine andere SIM-Karte in deinem Handy funktioniert.
 
-Falls alle Möglichkeiten nicht funktionieren, dann melde dich bei unserem [Service](/service/).
+Falls alle Möglichkeiten nicht funktionieren, dann melde dich bei unserem [Service](https://www.wetell.de/service/).
 
 #### Wie kündige ich meinen WEtell Vertrag? ####
 
-Du kannst deinen WEtell Tarif auf verschiedenen Wegen kündigen. Am einfachsten geht es über das [Online-Kündigungsformular](/kuendigung/).
+Du kannst deinen WEtell Tarif auf verschiedenen Wegen kündigen. Am einfachsten geht es über das [Online-Kündigungsformular](https://www.wetell.de/kuendigung/).
 
-Alternativ genügt eine kurze Mitteilung von dir via Mail an unser [Serviceteam](/service/).
+Alternativ genügt eine kurze Mitteilung von dir via Mail an unser [Serviceteam](https://www.wetell.de/service/).
 
 Im Regelfall endet dein Vertrag 30 Tage nach deiner Kündigung. Wenn du magst, schreib dazu, weshalb du uns verlässt – wir lernen gerne dazu.

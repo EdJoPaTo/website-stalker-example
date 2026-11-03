@@ -24,7 +24,7 @@ Mit jeder Entscheidung fördern wir faire Lösungen, ermöglichen positiven Wand
 
   Der Bericht ist standardisiert und wird alle zwei Jahre erneuert. Dadurch kannst du super unsere Entwicklung nachvollziehen. Und mit 567 Punkten kann sich unsere Bilanz echt sehen lassen!
 
-  Schau dir unsere Bilanz hier an: [Zu unserer GWÖ-Bilanz](/warum-wetell/wirtschaft-aufmischen/gwoe-bilanz/)
+  Schau dir unsere Bilanz hier an: [Zu unserer GWÖ-Bilanz](https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/gwoe-bilanz/)
 
 * #### Lernendes Unternehmen ####
 

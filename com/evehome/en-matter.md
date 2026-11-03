@@ -22,11 +22,11 @@ Matter-enabled devices are a breeze to integrate into your smart home. Your enti
 
  Cutting-edge connectivity. ###
 
-Matter devices truly shine when they talk via Thread. This groundbreaking network technology makes your smart home more responsive, robust, and increases its reach. That is why all [Eve devices embrace Thread](/en/thread).
+Matter devices truly shine when they talk via Thread. This groundbreaking network technology makes your smart home more responsive, robust, and increases its reach. That is why all [Eve devices embrace Thread](https://www.evehome.com/en/thread).
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Thermostat](/en/eve-thermostat)
+[Eve Thermostat](https://www.evehome.com/en/eve-thermostat)
 
  Smart Thermostat for Underfloor Heating
 
@@ -71,7 +71,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermostat](/en/eve-thermostat)
+[Eve Thermostat](https://www.evehome.com/en/eve-thermostat)
 
  Smart Thermostat for Underfloor Heating
 
@@ -79,9 +79,9 @@ Not available in your country
 * App & voice control – Control your home temperature with ease using your voice, an app, or the integrated touch controls, and fine-tune your comfort level on the go.
 * Spacious display – Check the temperature directly on the device and adjust it comfortably.
 * Intelligent heating control for comfort and energy efficiency – Heat based on your routines and lower the temperature when you don't use rooms or are away from home for longer periods.
-* [Visit product page](/en/eve-thermostat)
+* [Visit product page](https://www.evehome.com/en/eve-thermostat)
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](https://www.evehome.com/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -126,16 +126,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](https://www.evehome.com/en/eve-energy)
 
  Smart Plug & Power Meter
 
 * Switch your lights and appliances on and off using your voice or an app.
 * Control your appliances on the go or based on presence.
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
-* [Visit product page](/en/eve-energy)
+* [Visit product page](https://www.evehome.com/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](https://www.evehome.com/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -182,16 +182,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](https://www.evehome.com/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
 * Switch your lights, pumps, and other outdoor equipment on and off using your voice or an app, and control them on the go or based on presence.
 * Automate your outdoor appliances to switch on and off at a preferred time, and create scenes to make multiple connected appliances work in sync.
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
-* [Visit product page](/en/eve-energy-outdoor)
+* [Visit product page](https://www.evehome.com/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](https://www.evehome.com/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -238,16 +238,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](https://www.evehome.com/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
 * Individually control your power outlets using your voice or an app.
 * Control your appliances on the go or based on presence.
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
-* [Visit product page](/en/eve-energy-outlet)
+* [Visit product page](https://www.evehome.com/en/eve-energy-outlet)
 
-[Eve Dimmer Switch](/en/eve-dimmer-switch)
+[Eve Dimmer Switch](https://www.evehome.com/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -292,16 +292,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Dimmer Switch](/en/eve-dimmer-switch)
+[Eve Dimmer Switch](https://www.evehome.com/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
 * App & voice control - Control your lights by voice or app and set the perfect brightness for every moment
 * Automate your lights - On and off automatically at a preferred time, based on presence or when motion is detected
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
-* [Visit product page](/en/eve-dimmer-switch)
+* [Visit product page](https://www.evehome.com/en/eve-dimmer-switch)
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](https://www.evehome.com/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -348,16 +348,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](https://www.evehome.com/en/eve-door-window)
 
  Wireless Contact Sensor
 
 * Check your door or window: see the current open/closed state at a glance
 * Keep informed: get activity notifications courtesy of your home hub
 * Set scenes: automatically control other HomeKit-enabled accessories
-* [Visit product page](/eve-door-window)
+* [Visit product page](https://www.evehome.com/eve-door-window)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](https://www.evehome.com/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -402,16 +402,16 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](https://www.evehome.com/en/eve-light-switch)
 
  Connected Wall Switch
 
 * Transform your existing lights into a smart lighting system, and turn them on or off using your voice, an app or the light switch itself.
 * Automate your lights to switch on and off at a preferred time, control them on the go or based on presence and create scenes to make multiple connected devices work in sync.
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
-* [Visit product page](/en/eve-light-switch)
+* [Visit product page](https://www.evehome.com/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](https://www.evehome.com/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -458,16 +458,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](https://www.evehome.com/en/eve-motion)
 
  Wireless Motion Sensor
 
 * Control lights, devices and entire scenes with movement, or even depending on brightness or time of day.
 * Receive notifications when motion is detected; review motion time and durations in the Eve app
 * Set the sensitivity of the motion detector individually by location.
-* [Visit product page](/en/eve-motion)
+* [Visit product page](https://www.evehome.com/en/eve-motion)
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](https://www.evehome.com/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -508,16 +508,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](https://www.evehome.com/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
 * Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
 * Effortlessly set automations to open and close your blinds according to your daily routine.
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
-* [Visit product page](/en/eve-motionblinds)
+* [Visit product page](https://www.evehome.com/en/eve-motionblinds)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](https://www.evehome.com/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -564,16 +564,16 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](https://www.evehome.com/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
 * Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
 * Effortlessly set automations to open and close your blinds according to your daily routine.
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1.5-2'' / 38-51 mm.
-* [Visit product page](/en/eve-motionblinds)
+* [Visit product page](https://www.evehome.com/en/eve-motionblinds)
 
-[Eve Shutter Switch](/en/eve-shutter-switch)
+[Eve Shutter Switch](https://www.evehome.com/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -618,16 +618,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Shutter Switch](/en/eve-shutter-switch)
+[Eve Shutter Switch](https://www.evehome.com/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
 * App & voice control – Control your shutters using your voice, an app or the switch itself, and enjoy the convenience of smart shading.
 * Automate your shutters – Open and close your shutters automatically at a preferred time to suit your daily routine.
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
-* [Visit product page](/en/eve-shutter-switch)
+* [Visit product page](https://www.evehome.com/en/eve-shutter-switch)
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](https://www.evehome.com/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -672,16 +672,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](https://www.evehome.com/en/eve-thermo)
 
  Smart Radiator Valve
 
 * App & voice control – Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
 * Heating intelligence for comfort and energy efficiency – Automatically heat based on time or presence, and pause heating while ventilating.
 * Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
-* [Visit product page](/en/eve-thermo)
+* [Visit product page](https://www.evehome.com/en/eve-thermo)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](https://www.evehome.com/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -728,16 +728,16 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](https://www.evehome.com/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
 * Automatically optimize your heating based on the temperature at your favorite spot in the room: Eve Thermo Control, in combination with Eve Thermo, will handle the heating control – conveniently, efficiently and accurately.
 * Control all your radiators in the room with a single Eve Thermo Control.
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
-* [Visit product page](/en/eve-thermo-control)
+* [Visit product page](https://www.evehome.com/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](https://www.evehome.com/en/eve-weather)
 
  Connected Weather Station
 
@@ -780,14 +780,14 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](https://www.evehome.com/en/eve-weather)
 
  Connected Weather Station
 
 * Track your local outdoor temperature, humidity and barometric pressure over time, and see the weather trend at a glance.
 * Ask your voice assistant for the temperature and humidity level right on your doorstep.
 * Gain insights and view your data by day, month, or year in the Eve app for iPhone and iPad.
-* [Visit product page](/en/eve-weather)
+* [Visit product page](https://www.evehome.com/en/eve-weather)
 
 ### Getting started with your new Eve device. ###
 
@@ -797,17 +797,17 @@ Watch the video
 
 ###  Getting started. ###
 
-First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
+First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](https://www.evehome.com/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/en/hub)
+[Which hub is right for me?](https://www.evehome.com/en/hub)
 
 Now you can easily add your Eve device to your smart home in just a few steps using the app of your favorite platform. On selected platforms, your voice assistant will also offer its help.
 
 And that's it – now you can access your Eve device via your chosen platform.
 
-If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
+If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](https://www.evehome.com/en/addplatform).
 
-[Learn more](/en/hub)
+[Learn more](https://www.evehome.com/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -822,7 +822,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Thermo
 * Eve Weather
 
-[How to upgrade](/en/upgrade-to-matter)
+[How to upgrade](https://www.evehome.com/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 
@@ -832,7 +832,7 @@ Matter is designed to work entirely locally without a cloud, and so is Eve. Eve�
 
  What has Thread got to do with Matter?
 
-Apart from unpractical bridges, there are two direct connection technologies that your smart home accessories can use to support Matter: Wi-Fi and Thread. Thread offers several advantages over Wi-Fi, including robust mesh technology and incredible energy efficiency. [Learn more about the advantages of Thread here.](/thread)
+Apart from unpractical bridges, there are two direct connection technologies that your smart home accessories can use to support Matter: Wi-Fi and Thread. Thread offers several advantages over Wi-Fi, including robust mesh technology and incredible energy efficiency. [Learn more about the advantages of Thread here.](https://www.evehome.com/thread)
 
  Will Eve devices with Wi-Fi technology also support Matter?
 
@@ -844,11 +844,11 @@ Matter is a new smart home protocol developed jointly by Amazon, Apple, Google, 
 
  What’s going to happen with my HomeKit accessories?
 
-Any HomeKit accessories you own will continue to work as usual. You’ll be able to use them in the Home and Eve apps without any restrictions – Matter-enabled devices will simply join them on an equal footing with HomeKit accessories. If you’re already using Thread-enabled Eve devices, [free firmware updates](/en/upgrade-to-matter) will be made available over time to seamlessly upgrade them to Matter. You’ll then be able to use those devices not only with HomeKit, but also with other platforms, including Amazon Alexa, Google Home, or Samsung SmartThings.
+Any HomeKit accessories you own will continue to work as usual. You’ll be able to use them in the Home and Eve apps without any restrictions – Matter-enabled devices will simply join them on an equal footing with HomeKit accessories. If you’re already using Thread-enabled Eve devices, [free firmware updates](https://www.evehome.com/en/upgrade-to-matter) will be made available over time to seamlessly upgrade them to Matter. You’ll then be able to use those devices not only with HomeKit, but also with other platforms, including Amazon Alexa, Google Home, or Samsung SmartThings.
 
 ###  Good to know ###
 
-[Eve Thermostat](/en/eve-thermostat)
+[Eve Thermostat](https://www.evehome.com/en/eve-thermostat)
 
  Smart Thermostat for Underfloor Heating
 
@@ -893,7 +893,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermostat](/en/eve-thermostat)
+[Eve Thermostat](https://www.evehome.com/en/eve-thermostat)
 
  Smart Thermostat for Underfloor Heating
 
@@ -901,9 +901,9 @@ Not available in your country
 * App & voice control – Control your home temperature with ease using your voice, an app, or the integrated touch controls, and fine-tune your comfort level on the go.
 * Spacious display – Check the temperature directly on the device and adjust it comfortably.
 * Intelligent heating control for comfort and energy efficiency – Heat based on your routines and lower the temperature when you don't use rooms or are away from home for longer periods.
-* [Visit product page](/en/eve-thermostat)
+* [Visit product page](https://www.evehome.com/en/eve-thermostat)
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](https://www.evehome.com/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -948,16 +948,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](https://www.evehome.com/en/eve-energy)
 
  Smart Plug & Power Meter
 
 * Switch your lights and appliances on and off using your voice or an app.
 * Control your appliances on the go or based on presence.
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
-* [Visit product page](/en/eve-energy)
+* [Visit product page](https://www.evehome.com/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](https://www.evehome.com/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -1004,16 +1004,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](https://www.evehome.com/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
 * Switch your lights, pumps, and other outdoor equipment on and off using your voice or an app, and control them on the go or based on presence.
 * Automate your outdoor appliances to switch on and off at a preferred time, and create scenes to make multiple connected appliances work in sync.
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
-* [Visit product page](/en/eve-energy-outdoor)
+* [Visit product page](https://www.evehome.com/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](https://www.evehome.com/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -1060,16 +1060,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](https://www.evehome.com/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
 * Individually control your power outlets using your voice or an app.
 * Control your appliances on the go or based on presence.
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
-* [Visit product page](/en/eve-energy-outlet)
+* [Visit product page](https://www.evehome.com/en/eve-energy-outlet)
 
-[Eve Dimmer Switch](/en/eve-dimmer-switch)
+[Eve Dimmer Switch](https://www.evehome.com/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -1114,16 +1114,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Dimmer Switch](/en/eve-dimmer-switch)
+[Eve Dimmer Switch](https://www.evehome.com/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
 * App & voice control - Control your lights by voice or app and set the perfect brightness for every moment
 * Automate your lights - On and off automatically at a preferred time, based on presence or when motion is detected
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
-* [Visit product page](/en/eve-dimmer-switch)
+* [Visit product page](https://www.evehome.com/en/eve-dimmer-switch)
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](https://www.evehome.com/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -1170,16 +1170,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](https://www.evehome.com/en/eve-door-window)
 
  Wireless Contact Sensor
 
 * Check your door or window: see the current open/closed state at a glance
 * Keep informed: get activity notifications courtesy of your home hub
 * Set scenes: automatically control other HomeKit-enabled accessories
-* [Visit product page](/eve-door-window)
+* [Visit product page](https://www.evehome.com/eve-door-window)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](https://www.evehome.com/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1224,16 +1224,16 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](https://www.evehome.com/en/eve-light-switch)
 
  Connected Wall Switch
 
 * Transform your existing lights into a smart lighting system, and turn them on or off using your voice, an app or the light switch itself.
 * Automate your lights to switch on and off at a preferred time, control them on the go or based on presence and create scenes to make multiple connected devices work in sync.
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
-* [Visit product page](/en/eve-light-switch)
+* [Visit product page](https://www.evehome.com/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](https://www.evehome.com/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1280,16 +1280,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](https://www.evehome.com/en/eve-motion)
 
  Wireless Motion Sensor
 
 * Control lights, devices and entire scenes with movement, or even depending on brightness or time of day.
 * Receive notifications when motion is detected; review motion time and durations in the Eve app
 * Set the sensitivity of the motion detector individually by location.
-* [Visit product page](/en/eve-motion)
+* [Visit product page](https://www.evehome.com/en/eve-motion)
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](https://www.evehome.com/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -1330,16 +1330,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](https://www.evehome.com/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
 * Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
 * Effortlessly set automations to open and close your blinds according to your daily routine.
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
-* [Visit product page](/en/eve-motionblinds)
+* [Visit product page](https://www.evehome.com/en/eve-motionblinds)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](https://www.evehome.com/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -1386,16 +1386,16 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](https://www.evehome.com/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
 * Enjoy the convenience of smart shading: upgrade your existing blinds and control them conveniently via voice, app and from afar.
 * Effortlessly set automations to open and close your blinds according to your daily routine.
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1.5-2'' / 38-51 mm.
-* [Visit product page](/en/eve-motionblinds)
+* [Visit product page](https://www.evehome.com/en/eve-motionblinds)
 
-[Eve Shutter Switch](/en/eve-shutter-switch)
+[Eve Shutter Switch](https://www.evehome.com/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -1440,16 +1440,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Shutter Switch](/en/eve-shutter-switch)
+[Eve Shutter Switch](https://www.evehome.com/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
 * App & voice control – Control your shutters using your voice, an app or the switch itself, and enjoy the convenience of smart shading.
 * Automate your shutters – Open and close your shutters automatically at a preferred time to suit your daily routine.
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
-* [Visit product page](/en/eve-shutter-switch)
+* [Visit product page](https://www.evehome.com/en/eve-shutter-switch)
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](https://www.evehome.com/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -1494,16 +1494,16 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](https://www.evehome.com/en/eve-thermo)
 
  Smart Radiator Valve
 
 * App & voice control – Control your room temperature with ease using your voice, an app or the integrated touch controls, and fine-tune your comfort level on the go.
 * Heating intelligence for comfort and energy efficiency – Automatically heat based on time or presence, and pause heating while ventilating.
 * Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
-* [Visit product page](/en/eve-thermo)
+* [Visit product page](https://www.evehome.com/en/eve-thermo)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](https://www.evehome.com/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1550,16 +1550,16 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](https://www.evehome.com/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
 * Automatically optimize your heating based on the temperature at your favorite spot in the room: Eve Thermo Control, in combination with Eve Thermo, will handle the heating control – conveniently, efficiently and accurately.
 * Control all your radiators in the room with a single Eve Thermo Control.
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
-* [Visit product page](/en/eve-thermo-control)
+* [Visit product page](https://www.evehome.com/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](https://www.evehome.com/en/eve-weather)
 
  Connected Weather Station
 
@@ -1602,11 +1602,11 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](https://www.evehome.com/en/eve-weather)
 
  Connected Weather Station
 
 * Track your local outdoor temperature, humidity and barometric pressure over time, and see the weather trend at a glance.
 * Ask your voice assistant for the temperature and humidity level right on your doorstep.
 * Gain insights and view your data by day, month, or year in the Eve app for iPhone and iPad.
-* [Visit product page](/en/eve-weather)
+* [Visit product page](https://www.evehome.com/en/eve-weather)

@@ -3,19 +3,19 @@ Framework Laptop 13 ​
 
  Framework Laptop 13 DIY Edition (AMD Ryzen™ AI 300 Series)
 
-[Laptop 13 Pro](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+[Laptop 13 Pro](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
 
-[Laptop 13 ​](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+[Laptop 13 ​](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
-[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+[DIY Edition Build it yourself and bring your OS, including Linux.](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
-[Pre-built Ready to use with OS pre-installed. Out of stock](#)
+[Pre-built Ready to use with OS pre-installed. Out of stock](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new#)
 
-[9% off AI 300 Series Starting at €959.00 was: €1,059](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+[9% off AI 300 Series Starting at €959.00 was: €1,059](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
-[Out of stock Ultra Series 1 Starting at €899.00 was: €1,029](#)
+[Out of stock Ultra Series 1 Starting at €899.00 was: €1,029](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new#)
 
-[View product details](/de/en/laptop13?slug=laptop13-diy-amd-ai300&tab=specs)
+[View product details](https://frame.work/de/en/laptop13?slug=laptop13-diy-amd-ai300&tab=specs)
 
 Ordering more than 1 computer?
 
@@ -25,20 +25,20 @@ For in-stock laptop and desktop configurations: You can add up to five per order
 
 For pre-order laptop and desktop configurations: We only allow one per pre-order, but there is no limit for the amount of pre-orders per account.
 
-If you are a business customer, need more than five laptops or desktops per order, or have other special requests, please contact us through our [support form](/de/en/framework-for-business#contact-business-team#contact-us) and we’ll get in contact with you.
+If you are a business customer, need more than five laptops or desktops per order, or have other special requests, please contact us through our [support form](https://frame.work/de/en/framework-for-business#contact-business-team#contact-us) and we’ll get in contact with you.
 
  Close
 
  Configuration
 ----------
 
-[Compare](/de/en/products/laptop13-diy-amd-ai300/comparison)
+[Compare](https://frame.work/de/en/products/laptop13-diy-amd-ai300/comparison)
 
 **System**
 
  Choose an option
 
-[FAQ, System](/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=177&faqable_type=section)
+[FAQ, System](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=177&faqable_type=section)
 
 System
 
@@ -73,7 +73,7 @@ Display
 
  Choose an option
 
-[FAQ, Memory](/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=178&faqable_type=section)
+[FAQ, Memory](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=178&faqable_type=section)
 
 Memory
 
@@ -93,7 +93,7 @@ Memory
 
  Choose an option
 
-[FAQ, Storage](/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=172&faqable_type=section)
+[FAQ, Storage](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=172&faqable_type=section)
 
 Storage
 
@@ -111,7 +111,7 @@ Storage
 
  Choose an option
 
-[FAQ, Operating System](/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=173&faqable_type=section)
+[FAQ, Operating System](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=173&faqable_type=section)
 
 Operating System
 
@@ -126,7 +126,7 @@ Operating System
 
  Choose an option
 
-[FAQ, Bezel](/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=175&faqable_type=section)
+[FAQ, Bezel](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=175&faqable_type=section)
 
 Bezel
 
@@ -145,7 +145,7 @@ Bezel
 
  Choose an option
 
-[FAQ, Keyboard](/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=174&faqable_type=section)
+[FAQ, Keyboard](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=174&faqable_type=section)
 
 Keyboard
 
@@ -191,7 +191,7 @@ Power Adapter
 
  Choose any number
 
-[FAQ, Expansion Cards](/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=176&faqable_type=section)
+[FAQ, Expansion Cards](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=176&faqable_type=section)
 
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 13.
 
@@ -228,7 +228,7 @@ Quick select
 
  USB-A (2nd Gen)  New colors available
 
-[Details](/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=401&helpable_type=product)
+[Details](https://frame.work/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=401&helpable_type=product)
 
  \+€10
 
@@ -242,37 +242,37 @@ Quick select
 
  HDMI (3rd Gen)
 
-[Details](/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=442&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=442&helpable_type=variant)
 
  \+€20
 
  Ethernet
 
-[Details](/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=163&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=163&helpable_type=variant)
 
  \+€45
 
  WisdPi 10G Ethernet
 
-[Details](/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=1439&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=1439&helpable_type=variant)
 
  \+€109
 
  DisplayPort (2nd Gen)
 
-[Details](/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=441&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=441&helpable_type=variant)
 
  \+€20
 
  MicroSD (2nd Gen)
 
-[Details](/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=1008&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=1008&helpable_type=variant)
 
  \+€20
 
  SD
 
-[Details](/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=553&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop13-diy-amd-ai300/help?helpable_id=553&helpable_type=variant)
 
  \+€29
 
@@ -289,6 +289,6 @@ A simple way to keep your laptop safe from bumps and scratches, with a padded ma
 
  Add to Bag  Add pre-order to Bag
 
- Ships within 5 business days - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions. [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
+ Ships within 5 business days - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions. [Limited warranty](https://frame.work/de/en/warranty) [Your EU guarantee rights](https://frame.work/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
 
- Cancel your pre-order any time before shipment for a full refund [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
+ Cancel your pre-order any time before shipment for a full refund [Limited warranty](https://frame.work/de/en/warranty) [Your EU guarantee rights](https://frame.work/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders

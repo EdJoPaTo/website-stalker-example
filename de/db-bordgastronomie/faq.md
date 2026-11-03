@@ -38,7 +38,7 @@ vegan
 
 ### Bietet die Bahn ein Mehrwegsystem für den To-go-Verzehr an? ###
 
- Im Sinne der Nachhaltigkeit und des Ressourcenschutzes bietet die DB ihren Kunden zukünftig auch innerhalb des To-go-Verzehrs die Nutzung des Porzellangeschirrs als Mehrwegvariante an. Gleichzeitig setzt die DB die gesetzlichen Anforderungen um, nach denen ab 2023 neben Einweggeschirr stets auch eine Mehrwegvariante anzubieten ist. Mehr Informationen können Sie in unserer [Infobroschüre zum neuen Mehrwegsystem (PDF)](/dbgastro/downloads/DB-Mehrweg-Fragen-und-Antworten-fuer-Gaeste.pdf) nachlesen.
+ Im Sinne der Nachhaltigkeit und des Ressourcenschutzes bietet die DB ihren Kunden zukünftig auch innerhalb des To-go-Verzehrs die Nutzung des Porzellangeschirrs als Mehrwegvariante an. Gleichzeitig setzt die DB die gesetzlichen Anforderungen um, nach denen ab 2023 neben Einweggeschirr stets auch eine Mehrwegvariante anzubieten ist. Mehr Informationen können Sie in unserer [Infobroschüre zum neuen Mehrwegsystem (PDF)](https://db-bordgastronomie.de/dbgastro/downloads/DB-Mehrweg-Fragen-und-Antworten-fuer-Gaeste.pdf) nachlesen.
 
 ### Bekomme ich Heißgetränke auch in meinen mitgebrachten Mehrwegbecher gefüllt? ###
 
@@ -50,11 +50,11 @@ vegan
 
 ### Gibt es eine Online-Version der Speisekarte? ###
 
- Unser Speiseangebot finden Sie in der [digitalen Speisekarte](/digitalespeisekarte) oder alternativ auch im [ICE Portal](https://www.bahn.de/p/view/service/zug/internet/ice-portal.shtml) .
+ Unser Speiseangebot finden Sie in der [digitalen Speisekarte](https://db-bordgastronomie.de/digitalespeisekarte) oder alternativ auch im [ICE Portal](https://www.bahn.de/p/view/service/zug/internet/ice-portal.shtml) .
 
 ### Wo kann ich mich über Zutaten und Allergene der Gerichte informieren? ###
 
- Unsere Zutaten und Allergene haben wir für Sie in einem [Zutaten- und Allergeneheft (PDF)](/dbgastro/downloads/DB_Zutatenheft_aktuell.pdf) zusammengestellt.
+ Unsere Zutaten und Allergene haben wir für Sie in einem [Zutaten- und Allergeneheft (PDF)](https://db-bordgastronomie.de/dbgastro/downloads/DB_Zutatenheft_aktuell.pdf) zusammengestellt.
  Sie sind zusätzlich über die Speisekarte oder Aushänge im Bordbistro mittels eines QR-Codes abrufbar.
  Ebenfalls können Ihnen unsere Mitarbeiterinnen und Mitarbeiter behilflich sein. Wenn Sie unsicher sind, können Sie sie gerne ansprechen.
 
@@ -67,8 +67,8 @@ Mehr über die Bordgastronomie
 
  Nachhaltigkeit wird bei der Bahn großgeschrieben. Deshalb unterstützen wir Produkte und Initiativen, die den Klima- und Naturschutz fördern. So übernehmen wir gemeinsam soziale Verantwortung und schonen überlebenswichtige Ressourcen.
 
-[Unser Engagement](/philosophie)
+[Unser Engagement](https://db-bordgastronomie.de/philosophie)
 
  Ob warm oder kalt, herzhaft oder süß, kleiner oder großer Appetit – wir bieten Ihnen an Bord unserer Züge eine vielfältige Auswahl an Gerichten für jeden Geschmack und jede Tageszeit.
 
-[Zum aktuellen gastronomischen Speisenangebot](/digitalespeisekarte)
+[Zum aktuellen gastronomischen Speisenangebot](https://db-bordgastronomie.de/digitalespeisekarte)

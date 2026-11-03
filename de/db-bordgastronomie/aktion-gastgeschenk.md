@@ -31,8 +31,8 @@ Mehr über die Bordgastronomie
 
  Immer wieder Neues aus der Bordgastronomie. Freuen Sie sich auf unser wechselndes Aktionsangebot!
 
-[Entdecken Sie unsere Aktion](/aktion)
+[Entdecken Sie unsere Aktion](https://db-bordgastronomie.de/aktion)
 
  Nachhaltigkeit wird bei der Bahn großgeschrieben. Deshalb unterstützen wir Produkte und Initiativen, die den Klima- und Naturschutz fördern. So übernehmen wir gemeinsam soziale Verantwortung und schonen überlebenswichtige Ressourcen.
 
-[Unser Engagement](/philosophie)
+[Unser Engagement](https://db-bordgastronomie.de/philosophie)

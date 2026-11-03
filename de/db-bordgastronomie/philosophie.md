@@ -23,8 +23,8 @@ Mehr über die Bordgastronomie
 
  Mit unserem gastronomischen Service leisten wir nicht nur einen Beitrag zum Genuss an Bord, sondern übernehmen auch Verantwortung für die Gesundheit, Gesellschaft und die Umwelt.
 
-[Rund um Produkt & Verpackung](/qualitaet)
+[Rund um Produkt & Verpackung](https://db-bordgastronomie.de/qualitaet)
 
  Was ist der Unterschied zwischen Bordrestaurant und Bordbistro? Gibt es auch vegetarische und vegane Gerichte? Wir haben die häufigsten Fragen unserer Gäste beantwortet.
 
-[Zu den FAQ – Fragen und Antworten](/faq)
+[Zu den FAQ – Fragen und Antworten](https://db-bordgastronomie.de/faq)

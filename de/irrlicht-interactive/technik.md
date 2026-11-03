@@ -20,7 +20,7 @@ Schreib uns gerne eine [Mail!](mailto:hi@irrlicht.uber.space)
 
 [imprint](https://irrlicht-interactive.de/imprint/)
 
-[](https://irrlicht-interactive.de)
+[](https://irrlicht-interactive.de/)
 
 * [projekte](https://irrlicht-interactive.de/projekte/)
 * [kollektiv](https://irrlicht-interactive.de/kollektiv/)
@@ -32,4 +32,4 @@ Schreib uns gerne eine [Mail!](mailto:hi@irrlicht.uber.space)
 * [technik](https://irrlicht-interactive.de/technik/)
 * [kreation](https://irrlicht-interactive.de/kreation/)
 
-[](https://irrlicht-interactive.de)
+[](https://irrlicht-interactive.de/)

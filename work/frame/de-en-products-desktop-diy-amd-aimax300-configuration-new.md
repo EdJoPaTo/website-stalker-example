@@ -3,15 +3,15 @@ Framework Desktop
 
  Framework Desktop DIY Edition (AMD Ryzen™ AI Max 300 Series)
 
-[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
+[DIY Edition Build it yourself and bring your OS, including Linux.](https://frame.work/de/en/products/desktop-diy-amd-aimax300/configuration/new)
 
-[Pre-built Ready to use with OS pre-installed.](/de/en/products/desktop-amd-aimax400/configuration/new)
+[Pre-built Ready to use with OS pre-installed.](https://frame.work/de/en/products/desktop-amd-aimax400/configuration/new)
 
-[Pre-order AI Max PRO 400 Series Starting at €7,659.00](/de/en/products/desktop-diy-amd-aimax400/configuration/new)
+[Pre-order AI Max PRO 400 Series Starting at €7,659.00](https://frame.work/de/en/products/desktop-diy-amd-aimax400/configuration/new)
 
-[AI Max 300 Series Starting at €1,429.00](/de/en/products/desktop-diy-amd-aimax300/configuration/new)
+[AI Max 300 Series Starting at €1,429.00](https://frame.work/de/en/products/desktop-diy-amd-aimax300/configuration/new)
 
-[View product details](/de/en/desktop?slug=desktop-diy-amd-aimax300&tab=specs)
+[View product details](https://frame.work/de/en/desktop?slug=desktop-diy-amd-aimax300&tab=specs)
 
 Ordering more than 1 computer?
 
@@ -21,20 +21,20 @@ For in-stock laptop and desktop configurations: You can add up to five per order
 
 For pre-order laptop and desktop configurations: We only allow one per pre-order, but there is no limit for the amount of pre-orders per account.
 
-If you are a business customer, need more than five laptops or desktops per order, or have other special requests, please contact us through our [support form](/de/en/framework-for-business#contact-business-team#contact-us) and we’ll get in contact with you.
+If you are a business customer, need more than five laptops or desktops per order, or have other special requests, please contact us through our [support form](https://frame.work/de/en/framework-for-business#contact-business-team#contact-us) and we’ll get in contact with you.
 
  Close
 
  Configuration
 ----------
 
-[Compare](/de/en/products/desktop-diy-amd-aimax300/comparison)
+[Compare](https://frame.work/de/en/products/desktop-diy-amd-aimax300/comparison)
 
 **System**
 
  Choose an option
 
-[FAQ, System](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=163&faqable_type=section)
+[FAQ, System](https://frame.work/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=163&faqable_type=section)
 
 System
 
@@ -60,7 +60,7 @@ System
 
  Choose an option
 
-[FAQ, Primary Storage (M.2 2280)](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=164&faqable_type=section)
+[FAQ, Primary Storage (M.2 2280)](https://frame.work/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=164&faqable_type=section)
 
 Primary Storage (M.2 2280)
 
@@ -78,7 +78,7 @@ Primary Storage (M.2 2280)
 
  Choose an option
 
-[FAQ, Secondary Storage (M.2 2280)](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=167&faqable_type=section)
+[FAQ, Secondary Storage (M.2 2280)](https://frame.work/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=167&faqable_type=section)
 
 Secondary Storage (M.2 2280)
 
@@ -96,7 +96,7 @@ Secondary Storage (M.2 2280)
 
  Choose an option
 
-[FAQ, Operating System](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=161&faqable_type=section)
+[FAQ, Operating System](https://frame.work/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=161&faqable_type=section)
 
 Operating System
 
@@ -108,7 +108,7 @@ Operating System
 
  Choose an option
 
-[FAQ, CPU Fan](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=169&faqable_type=section)
+[FAQ, CPU Fan](https://frame.work/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=169&faqable_type=section)
 
 CPU Fan
 
@@ -121,7 +121,7 @@ CPU Fan
 
  Choose an option
 
-[FAQ, Power Cable](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=166&faqable_type=section)
+[FAQ, Power Cable](https://frame.work/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=166&faqable_type=section)
 
 Power Cable
 
@@ -148,7 +148,7 @@ Side Panel
 
  Choose at least 21
 
-[FAQ, Tiles](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=162&faqable_type=section)
+[FAQ, Tiles](https://frame.work/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=162&faqable_type=section)
 
 Framework Desktop has 21 tile slots in the front for you to customize freely, you can choose different tile packs with base colors, special tiles with logos or even [3D print your own tiles](https://github.com/FrameworkComputer/Framework-Desktop)! We recommend ordering 21 tiles minimum.
 
@@ -255,7 +255,7 @@ Quick select
 
  Choose any number
 
-[FAQ, Expansion Cards](/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=165&faqable_type=section)
+[FAQ, Expansion Cards](https://frame.work/de/en/products/desktop-diy-amd-aimax300/faq?faqable_id=165&faqable_type=section)
 
 Customize your ports with the Expansion Card system.
 
@@ -292,7 +292,7 @@ Quick select
 
  USB-A (2nd Gen)  New colors available
 
-[Details](/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=401&helpable_type=product)
+[Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=401&helpable_type=product)
 
  \+€10
 
@@ -306,31 +306,31 @@ Quick select
 
  MicroSD (2nd Gen)
 
-[Details](/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=1008&helpable_type=variant)
+[Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=1008&helpable_type=variant)
 
  \+€20
 
  Ethernet
 
-[Details](/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=163&helpable_type=variant)
+[Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=163&helpable_type=variant)
 
  \+€45
 
  WisdPi 10G Ethernet
 
-[Details](/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=1439&helpable_type=variant)
+[Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=1439&helpable_type=variant)
 
  \+€109
 
  SD
 
-[Details](/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=553&helpable_type=variant)
+[Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=553&helpable_type=variant)
 
  \+€29
 
  Audio
 
-[Details](/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=374&helpable_type=variant)
+[Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=374&helpable_type=variant)
 
  \+€20
 
@@ -341,6 +341,6 @@ Quick select
 
  Add to Bag  Add pre-order to Bag
 
- Ships within 5 business days - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions. [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
+ Ships within 5 business days - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions. [Limited warranty](https://frame.work/de/en/warranty) [Your EU guarantee rights](https://frame.work/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
 
- Cancel your pre-order any time before shipment for a full refund [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
+ Cancel your pre-order any time before shipment for a full refund [Limited warranty](https://frame.work/de/en/warranty) [Your EU guarantee rights](https://frame.work/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders

@@ -28,6 +28,7 @@ sites:
   - url: https://edjopato.de/post/2020/09/16-zsh/
     editors:
       - css_select: .content
+      - html_url_canonicalize
       - html_markdownify
 
   # Example of a text only entry
@@ -36,6 +37,7 @@ sites:
   # Example with RSS
   - url: https://edjopato.de/post/
     editors:
+      - html_url_canonicalize
       - rss:
           title: EdJoPaTos Blog
           item_selector: main .content li
@@ -69,12 +71,14 @@ sites:
   - url: https://release.debian.org/
     editors:
       - css_select: main
+      - html_url_canonicalize
       - html_markdownify
 
   - url: https://apps.gnome.org/
     editors:
       - css_select: ".intro, #content"
       - css_remove: img
+      - html_url_canonicalize
       - html_markdownify
 
   - url: https://www.raspberrypi.com/software/operating-systems/
@@ -87,6 +91,7 @@ sites:
       - regex_replace:
           pattern: </a><a
           replace: </a><br /><a
+      - html_url_canonicalize
       - html_markdownify
   - url:
       - https://downloads.raspberrypi.com/raspios_arm64/release_notes.txt
@@ -98,17 +103,20 @@ sites:
     editors:
       - css_select: .regular-content
       - css_remove: script, .hbguide_taglist
+      - html_url_canonicalize
       - html_markdownify
 
   - url: https://www.teamspeak.com/en/downloads/
     editors:
       - css_select: .download-page-container
       - css_remove: img, noscript, *[href^="#"]
+      - html_url_canonicalize
       - html_markdownify
 
   - url: https://blinry.org/
     editors:
       - css_select: .box
+      - html_url_canonicalize
       - html_prettify
 
   - url:
@@ -123,11 +131,13 @@ sites:
   - url: https://bennetblischke.eu/
     editors:
       - css_select: body
+      - html_url_canonicalize
       - html_markdownify
 
   - url: https://www.hattesen.eu/
     editors:
       - css_select: body
+      - html_url_canonicalize
       - html_prettify
 
   - url:
@@ -140,6 +150,7 @@ sites:
       - css_select: body
       - css_remove: "#custom-phone-grid"
       - css_remove: style, script, img, video
+      - html_url_canonicalize
       - html_markdownify
 
   - url:
@@ -246,6 +257,7 @@ sites:
           pattern: '&nbsp;'
           replace: ' '
       - html_sanitize
+      - html_url_canonicalize
       - html_prettify
   - url:
       - https://docs.hetzner.cloud/whats-new
@@ -274,6 +286,7 @@ sites:
   - url: https://events.ccc.de/calendar/
     editors:
       - css_select: .events-list
+      - html_url_canonicalize
       - html_prettify
 
   - url: https://www.strauss.com/de/de
@@ -304,6 +317,7 @@ sites:
       - regex_replace:
           pattern: '#L\d+'
           replace: ""
+      - html_url_canonicalize
       - html_markdownify
 
   - url:
@@ -388,6 +402,7 @@ sites:
       - css_tag_replace:
           selector: option
           replace: li
+      - html_url_canonicalize
       - html_markdownify
 
   - url: https://www.steamdeck.com/en/
@@ -415,6 +430,7 @@ sites:
   - url: https://www.steamdeck.com/en/tech
     editors:
       - css_select: "#specs"
+      - html_url_canonicalize
       - html_markdownify
 
   - url: https://www.evehome.com/en/blog
@@ -422,6 +438,7 @@ sites:
       - regex_replace:
           pattern: "\/index%2.php\/"
           replace: /
+      - html_url_canonicalize
       - rss:
           item_selector: .blog-post-teaser
           title_selector: .title
@@ -439,6 +456,7 @@ sites:
           replace: /
       - css_select: article .content
       - css_remove: style, img, h3:empty
+      - html_url_canonicalize
       - html_markdownify
 
   - url: https://www.wetell.de/
@@ -454,6 +472,7 @@ sites:
       - css_tag_replace:
           selector: button
           replace: h4
+      - html_url_canonicalize
       - html_markdownify
   - url:
       - https://www.wetell.de/community/spotlight/
@@ -463,6 +482,7 @@ sites:
     editors:
       - css_select: main
       - css_remove: nav, img, noscript, script, style
+      - html_url_canonicalize
       - html_markdownify
   - url:
       - https://www.wetell.de/service/downloads/
@@ -474,6 +494,7 @@ sites:
       - css_tag_replace:
           selector: button
           replace: h4
+      - html_url_canonicalize
       - html_markdownify
 
   - url:
@@ -482,10 +503,10 @@ sites:
     editors:
       - css_select: section
       - css_remove: img, svg
-      - html_url_canonicalize
       - regex_replace:
           pattern: </a>
           replace: </a><br />
+      - html_url_canonicalize
       - html_markdownify
 
   - url:
@@ -564,6 +585,7 @@ sites:
       - regex_replace:
           pattern: </a>
           replace: </a><br />
+      - html_url_canonicalize
       - html_markdownify
   - url: https://db-bordgastronomie.de/faq
     editors:
@@ -572,6 +594,7 @@ sites:
       - css_tag_replace:
           selector: .acc-titel
           replace: h3
+      - html_url_canonicalize
       - html_markdownify
   - url: https://db-bordgastronomie.de/api/api?filter={%22register%22%3A%22zzzz%22}
     editors:
@@ -595,15 +618,16 @@ sites:
     editors:
       - css_select: main
       - css_remove: style, script, svg, figure, img, .breadcrumbs, .no-print, .close-button, .toc-heading
-      - html_url_canonicalize
       - regex_replace:
           pattern: \?inst-v=[a-f\d-]+
           replace: ""
+      - html_url_canonicalize
       - html_markdownify
   - url: https://support.shelly.cloud/en/support/home
     editors:
       - css_select: main
       - css_remove: style, form, img, svg
+      - html_url_canonicalize
       - html_markdownify
       - regex_replace:
           pattern: \)\s*\[

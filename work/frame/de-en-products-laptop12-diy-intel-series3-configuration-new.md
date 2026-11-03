@@ -3,15 +3,15 @@ Framework Laptop 12
 
  Framework Laptop 12 DIY Edition (Intel® Core™ Series 3)
 
-[DIY Edition Build it yourself and bring your OS, including Linux. Available in multiple colors.](/de/en/products/laptop12-diy-intel-series3/configuration/new)
+[DIY Edition Build it yourself and bring your OS, including Linux. Available in multiple colors.](https://frame.work/de/en/products/laptop12-diy-intel-series3/configuration/new)
 
-[Pre-built Ready to use with OS pre-installed. Available in Sage.](/de/en/products/laptop12-intel-series3/configuration/new)
+[Pre-built Ready to use with OS pre-installed. Available in Sage.](https://frame.work/de/en/products/laptop12-intel-series3/configuration/new)
 
-[Pre-order Series 3 Starting at €619.00](/de/en/products/laptop12-diy-intel-series3/configuration/new)
+[Pre-order Series 3 Starting at €619.00](https://frame.work/de/en/products/laptop12-diy-intel-series3/configuration/new)
 
-[5% off 13th Gen Starting at €539.00 was: €569](/de/en/products/laptop12-diy-intel-13gen/configuration/new)
+[5% off 13th Gen Starting at €539.00 was: €569](https://frame.work/de/en/products/laptop12-diy-intel-13gen/configuration/new)
 
-[View product details](/de/en/laptop12?slug=laptop12-diy-intel-series3&tab=specs)
+[View product details](https://frame.work/de/en/laptop12?slug=laptop12-diy-intel-series3&tab=specs)
 
 Ordering more than 1 computer?
 
@@ -21,14 +21,14 @@ For in-stock laptop and desktop configurations: You can add up to five per order
 
 For pre-order laptop and desktop configurations: We only allow one per pre-order, but there is no limit for the amount of pre-orders per account.
 
-If you are a business customer, need more than five laptops or desktops per order, or have other special requests, please contact us through our [support form](/de/en/framework-for-business#contact-business-team#contact-us) and we’ll get in contact with you.
+If you are a business customer, need more than five laptops or desktops per order, or have other special requests, please contact us through our [support form](https://frame.work/de/en/framework-for-business#contact-business-team#contact-us) and we’ll get in contact with you.
 
  Close
 
  Configuration
 ----------
 
-[Compare](/de/en/products/laptop12-diy-intel-series3/comparison)
+[Compare](https://frame.work/de/en/products/laptop12-diy-intel-series3/comparison)
 
 **Color**
 
@@ -50,7 +50,7 @@ Color
 
  Batch Number  Configure to see batch
 
-[FAQ, System](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=314&faqable_type=section)
+[FAQ, System](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=314&faqable_type=section)
 
 System
 
@@ -71,7 +71,7 @@ System
 
  Batch Number  Configure to see batch
 
-[FAQ, Memory](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=313&faqable_type=section)
+[FAQ, Memory](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=313&faqable_type=section)
 
 Memory
 
@@ -89,7 +89,7 @@ Memory
 
  Batch Number  Configure to see batch
 
-[FAQ, Storage](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=319&faqable_type=section)
+[FAQ, Storage](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=319&faqable_type=section)
 
 Storage
 
@@ -106,7 +106,7 @@ Storage
 
  Batch Number  Configure to see batch
 
-[FAQ, Operating System](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=318&faqable_type=section)
+[FAQ, Operating System](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=318&faqable_type=section)
 
 Operating System
 
@@ -123,7 +123,7 @@ Operating System
 
  Batch Number  Configure to see batch
 
-[FAQ, Keyboard](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=316&faqable_type=section)
+[FAQ, Keyboard](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=316&faqable_type=section)
 
 Keyboard
 
@@ -174,7 +174,7 @@ Power Adapter
 
  Batch Number  Configure to see batch
 
-[FAQ, Expansion Cards](/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=320&faqable_type=section)
+[FAQ, Expansion Cards](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=320&faqable_type=section)
 
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 12.
 
@@ -235,7 +235,7 @@ Quick select
 
  USB-A (2nd Gen)  New colors available
 
-[Details](/de/en/products/laptop12-diy-intel-series3/help?helpable_id=401&helpable_type=product)
+[Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=401&helpable_type=product)
 
  \+€10
 
@@ -249,43 +249,43 @@ Quick select
 
  HDMI (3rd Gen)
 
-[Details](/de/en/products/laptop12-diy-intel-series3/help?helpable_id=442&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=442&helpable_type=variant)
 
  \+€20
 
  HDMI (4th Gen) - Translucent
 
-[Details](/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1844&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1844&helpable_type=variant)
 
  \+€20
 
  Ethernet
 
-[Details](/de/en/products/laptop12-diy-intel-series3/help?helpable_id=163&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=163&helpable_type=variant)
 
  \+€45
 
  WisdPi 10G Ethernet
 
-[Details](/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1439&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1439&helpable_type=variant)
 
  \+€109
 
  DisplayPort (2nd Gen)
 
-[Details](/de/en/products/laptop12-diy-intel-series3/help?helpable_id=441&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=441&helpable_type=variant)
 
  \+€20
 
  MicroSD (2nd Gen)
 
-[Details](/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1008&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1008&helpable_type=variant)
 
  \+€20
 
  SD
 
-[Details](/de/en/products/laptop12-diy-intel-series3/help?helpable_id=553&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=553&helpable_type=variant)
 
  \+€29
 
@@ -314,6 +314,6 @@ A simple way to keep your laptop safe from bumps and scratches, with a padded ma
 
  Add to Bag  Add pre-order to Bag
 
- Ships within 5 business days [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
+ Ships within 5 business days [Limited warranty](https://frame.work/de/en/warranty) [Your EU guarantee rights](https://frame.work/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
 
- Cancel your pre-order any time before shipment for a full refund [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
+ Cancel your pre-order any time before shipment for a full refund [Limited warranty](https://frame.work/de/en/warranty) [Your EU guarantee rights](https://frame.work/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders

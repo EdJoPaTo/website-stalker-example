@@ -3,19 +3,19 @@ Framework Laptop 13 Pro
 
  Framework Laptop 13 Pro DIY Edition (Intel® Core™ Ultra Series 3)
 
-[Laptop 13 Pro](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+[Laptop 13 Pro](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
 
-[Laptop 13 ​](/de/en/products/laptop13-diy-amd-ai300/configuration/new)
+[Laptop 13 ​](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
-[DIY Edition Build it yourself and bring your OS, including Linux.](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+[DIY Edition Build it yourself and bring your OS, including Linux.](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
 
-[Pre-built Ready to use with Windows or Ubuntu pre-installed.](/de/en/products/laptop13pro-intel-ultra-3/configuration/new)
+[Pre-built Ready to use with Windows or Ubuntu pre-installed.](https://frame.work/de/en/products/laptop13pro-intel-ultra-3/configuration/new)
 
-[Pre-order Intel Core™ Ultra Series 3 Starting at €1,349.00](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
+[Pre-order Intel Core™ Ultra Series 3 Starting at €1,349.00](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
 
-[Pre-order AMD Ryzen™ AI 300 Series Starting at €1,579.00](/de/en/products/laptop13pro-diy-amd-ai300/configuration/new)
+[Pre-order AMD Ryzen™ AI 300 Series Starting at €1,579.00](https://frame.work/de/en/products/laptop13pro-diy-amd-ai300/configuration/new)
 
-[View product details](/de/en/laptop13pro?slug=laptop13pro-diy-intel-ultra-3&tab=specs)
+[View product details](https://frame.work/de/en/laptop13pro?slug=laptop13pro-diy-intel-ultra-3&tab=specs)
 
 Ordering more than 1 computer?
 
@@ -25,14 +25,14 @@ For in-stock laptop and desktop configurations: You can add up to five per order
 
 For pre-order laptop and desktop configurations: We only allow one per pre-order, but there is no limit for the amount of pre-orders per account.
 
-If you are a business customer, need more than five laptops or desktops per order, or have other special requests, please contact us through our [support form](/de/en/framework-for-business#contact-business-team#contact-us) and we’ll get in contact with you.
+If you are a business customer, need more than five laptops or desktops per order, or have other special requests, please contact us through our [support form](https://frame.work/de/en/framework-for-business#contact-business-team#contact-us) and we’ll get in contact with you.
 
  Close
 
  Configuration
 ----------
 
-[Compare](/de/en/products/laptop13pro-diy-intel-ultra-3/comparison)
+[Compare](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/comparison)
 
 **System**
 
@@ -40,7 +40,7 @@ If you are a business customer, need more than five laptops or desktops per orde
 
  Batch Number  Configure to see batch
 
-[FAQ, System](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=269&faqable_type=section)
+[FAQ, System](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=269&faqable_type=section)
 
 System
 
@@ -65,7 +65,7 @@ System
 
  Batch Number  Configure to see batch
 
-[FAQ, Memory](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=276&faqable_type=section)
+[FAQ, Memory](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=276&faqable_type=section)
 
 LPCAMM2 memory on the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) runs at speeds up to 6800 MT/s on Core™ Ultra 5 325, and 7467 MT/s on Core™ Ultra X7 358H and X9 388H.
 
@@ -82,7 +82,7 @@ Memory
 
  Batch Number  Configure to see batch
 
-[FAQ, Storage](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=274&faqable_type=section)
+[FAQ, Storage](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=274&faqable_type=section)
 
 Storage
 
@@ -104,7 +104,7 @@ Storage
 
  Batch Number  Configure to see batch
 
-[FAQ, Operating System](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=268&faqable_type=section)
+[FAQ, Operating System](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=268&faqable_type=section)
 
 Operating System
 
@@ -194,7 +194,7 @@ Power Adapter
 
  Batch Number  Configure to see batch
 
-[FAQ, Expansion Cards](/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=273&faqable_type=section)
+[FAQ, Expansion Cards](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=273&faqable_type=section)
 
 Each card can be used in any of the 4 Expansion Card bays on the Framework Laptop 13 Pro.
 We suggest ordering 4 or more Expansion Cards, and that at least 1 is a USB-C Expansion Card for charging the laptop.
@@ -231,7 +231,7 @@ Quick select
 
  USB-A (2nd Gen)  New colors available
 
-[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=401&helpable_type=product)
+[Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=401&helpable_type=product)
 
  \+€10
 
@@ -246,7 +246,7 @@ Quick select
 
  HDMI (3rd Gen)
 
-[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=138&helpable_type=product)
+[Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=138&helpable_type=product)
 
  \+€20
 
@@ -256,19 +256,19 @@ Quick select
 
  Ethernet
 
-[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=163&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=163&helpable_type=variant)
 
  \+€45
 
  WisdPi 10G Ethernet
 
-[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=1439&helpable_type=variant)
+[Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=1439&helpable_type=variant)
 
  \+€109
 
  DisplayPort (2nd Gen)
 
-[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=137&helpable_type=product)
+[Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=137&helpable_type=product)
 
  \+€20
 
@@ -278,7 +278,7 @@ Quick select
 
  MicroSD (2nd Gen)
 
-[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=339&helpable_type=product)
+[Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=339&helpable_type=product)
 
  \+€20
 
@@ -288,7 +288,7 @@ Quick select
 
  SD
 
-[Details](/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=181&helpable_type=product)
+[Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=181&helpable_type=product)
 
  \+€29
 
@@ -309,6 +309,6 @@ A simple way to keep your laptop safe from bumps and scratches, with a padded ma
 
  Add to Bag  Add pre-order to Bag
 
- Ships within 5 business days [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
+ Ships within 5 business days [Limited warranty](https://frame.work/de/en/warranty) [Your EU guarantee rights](https://frame.work/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
 
- Cancel your pre-order any time before shipment for a full refund [Limited warranty](/de/en/warranty) [Your EU guarantee rights](/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders
+ Cancel your pre-order any time before shipment for a full refund [Limited warranty](https://frame.work/de/en/warranty) [Your EU guarantee rights](https://frame.work/de/en/your-europe-guarantee-rights)  Free shipping on laptop and desktop orders

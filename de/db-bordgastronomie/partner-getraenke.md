@@ -17,7 +17,7 @@ Unsere starken Partner im Getränkesortiment
 
 [www.adelholzener.de](https://www.adelholzener.de/)
 
-[www.spezi-krombacher.de](https://www.spezi-krombacher.de)
+[www.spezi-krombacher.de](https://www.spezi-krombacher.de/)
 
 [www.coca-cola-deutschland.de](https://www.coca-cola-deutschland.de/)
 
@@ -25,7 +25,7 @@ Unsere starken Partner im Getränkesortiment
 
 [www.koenig.de](https://www.koenig.de/)
 
-[www.brauerei.bayern](https://www.brauerei.bayern)
+[www.brauerei.bayern](https://www.brauerei.bayern/)
 
 [www.jever.de](https://www.jever.de/biere/jever-fun/)
 
@@ -35,9 +35,9 @@ Unsere starken Partner im Getränkesortiment
 
 [www.hellosiegfried.com](https://www.hellosiegfried.com/at/siggi/)
 
-[www.weingut-keth.de](https://www.weingut-keth.de)
+[www.weingut-keth.de](https://www.weingut-keth.de/)
 
-[www.stolleis.com](https://www.stolleis.com)
+[www.stolleis.com](https://www.stolleis.com/)
 
 [www.weingut-neiss.de](https://www.weingut-neiss.de/)
 
@@ -48,8 +48,8 @@ Mehr über die Bordgastronomie
 
  Ob warm oder kalt, herzhaft oder süß, kleiner oder großer Appetit – wir bieten Ihnen an Bord unserer Züge eine vielfältige Auswahl an Gerichten für jeden Geschmack und jede Tageszeit.
 
-[Zum aktuellen gastronomischen Speisenangebot](/digitalespeisekarte)
+[Zum aktuellen gastronomischen Speisenangebot](https://db-bordgastronomie.de/digitalespeisekarte)
 
  Was ist der Unterschied zwischen Bordrestaurant und Bordbistro? Gibt es auch vegetarische und vegane Gerichte? Wir haben die häufigsten Fragen unserer Gäste beantwortet.
 
-[Zu den FAQ – Fragen und Antworten](/faq)
+[Zu den FAQ – Fragen und Antworten](https://db-bordgastronomie.de/faq)

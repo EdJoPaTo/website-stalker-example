@@ -1,7 +1,7 @@
 eSIM – Die digitale SIM-Karte für eine nachhaltige Zukunft
 ==========
 
-[eSIM 15 € Das will ich!](https://mein.wetell.de)
+[eSIM 15 € Das will ich!](https://mein.wetell.de/)
 
 **Keine Plastik-SIM mehr nötig: Mit unserer eSIM bist du flexibel und umweltfreundlich unterwegs.**
 Du willst zukünftig eine eSIM nutzen? Prima, dann haben wir hier alle wichtigen Infos für dich!
@@ -20,18 +20,18 @@ Aufgepasst!
 
 **Stolperfalle Nr. 1: Handy überhaupt eSIM-fähig?**
 Bevor du eine eSIM bestellst, prüfe erst, ob dein Smartphone überhaupt eSIM-fähig ist. Die eSIM funktioniert nur, wenn dein Smartphone den eingebauten, notwendigen Chip hat, um deine Tarifdaten zu speichern.
-Die Info dazu findest du auf der Seite deines Smartphoneherstellers und [weiter unten auf dieser Seite](#esim_faehig).
+Die Info dazu findest du auf der Seite deines Smartphoneherstellers und [weiter unten auf dieser Seite](https://www.wetell.de/mobilfunk/optionen/esim/#esim_faehig).
 
 **Stolperfalle Nr. 2: OneNumber/ MultiSIM**
 Du willst die eSIM, um deine Handynummer und dein Datenvolumen zusätzlich auf Smartwatch, Tablet oder Laptop zu nutzen?
-Das ist möglich, jedoch musst du dafür auch eine OneNumber Aktivierung anfragen. Was das genau bedeutet und welche Kosten dafür anfallen, erfährst du auf unserer [Infoseite](/mobilfunk/optionen/onenumber).
+Das ist möglich, jedoch musst du dafür auch eine OneNumber Aktivierung anfragen. Was das genau bedeutet und welche Kosten dafür anfallen, erfährst du auf unserer [Infoseite](https://www.wetell.de/mobilfunk/optionen/onenumber).
 
 Achtung: Die Funktion "Apple Watch For Your Kids" (früher Familienkonfiguration) wird in unseren Tarifen leider nicht unterstützt.
 
 eSIM bestellen
 ----------
 
-Als WEtell-Kund\*in kannst du deine eSIM ganz einfach im [Kund\*innen-Portal](https://mein.wetell.de) bestellen.
+Als WEtell-Kund\*in kannst du deine eSIM ganz einfach im [Kund\*innen-Portal](https://mein.wetell.de/) bestellen.
 Folge dafür einfach diesen Schritten:
 
 1. Stelle sicher, dass du dich in stabilem WLAN mit Internetzugang befindest, damit du dein neues eSIM-Profil im Anschluss direkt aktivieren kannst.
@@ -43,9 +43,9 @@ Folge dafür einfach diesen Schritten:
 
 Der Tausch auf ein neues eSIM-Profil erfolgt innerhalb weniger Minuten. Dein altes SIM-Profil wird direkt deaktiviert.
 
-[eSIM anfordern](https://mein.wetell.de)
+[eSIM anfordern](https://mein.wetell.de/)
 
-Noch keinen WEtell Vertrag? Dann hol dir deine eSIM direkt bei der [Tarifbestellung](/mobilfunk).
+Noch keinen WEtell Vertrag? Dann hol dir deine eSIM direkt bei der [Tarifbestellung](https://www.wetell.de/mobilfunk).
 
 So einfach aktivierst du deine eSIM
 ----------
@@ -65,7 +65,7 @@ Beachte dabei, dass die Installation bei Android Geräten leicht variieren kann.
 Noch Fragen?
 ----------
 
-Falls du Hilfe bei der Aktivierung benötigst, findest du in unserem [**FAQ**](/service/faq) eine Schritt-für-Schritt-Anleitung oder du kannst unser freundliches [Serviceteam](/service/kontakt) kontaktieren.
+Falls du Hilfe bei der Aktivierung benötigst, findest du in unserem [**FAQ**](https://www.wetell.de/service/faq) eine Schritt-für-Schritt-Anleitung oder du kannst unser freundliches [Serviceteam](https://www.wetell.de/service/kontakt) kontaktieren.
 
 * Fairphone
 

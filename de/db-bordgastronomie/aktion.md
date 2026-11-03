@@ -6,7 +6,7 @@ Süße Momente für kalte Tage
 
 **Exklusiv im November und Dezember** versüßt unser **Baumkuchen** Ihre Reise an Bord. Für den perfekten Wintergenuss ist er auch im **Menü mit einem wärmenden Heißgetränk nach Wahl** erhältlich. Zusammen mit dem aromatischen **Starbucks® Frappuccino® Pumpkin Spice** und dem handgemachten **Knalle Popkorn** mit Tahiti-Vanille und Butterkaramell hält der Winterzauber Einzug ins Bordbistro.
 
- Gleich stöbern und genießen: [https://iceportal.de/speisekarte](/rl?t=w_iceportal)
+ Gleich stöbern und genießen: [https://iceportal.de/speisekarte](https://db-bordgastronomie.de/rl?t=w_iceportal)
 
 ### Popkorn vom Allerfeinsten ###
 
@@ -25,8 +25,8 @@ Mehr über die Bordgastronomie
 
  Ob warm oder kalt, herzhaft oder süß, kleiner oder großer Appetit – wir bieten Ihnen an Bord unserer Züge eine vielfältige Auswahl an Gerichten für jeden Geschmack und jede Tageszeit.
 
-[Zum aktuellen gastronomischen Speisenangebot](/digitalespeisekarte)
+[Zum aktuellen gastronomischen Speisenangebot](https://db-bordgastronomie.de/digitalespeisekarte)
 
  Nachhaltigkeit wird bei der Bahn großgeschrieben. Deshalb unterstützen wir Produkte und Initiativen, die den Klima- und Naturschutz fördern. So übernehmen wir gemeinsam soziale Verantwortung und schonen überlebenswichtige Ressourcen.
 
-[Unser Engagement](/philosophie)
+[Unser Engagement](https://db-bordgastronomie.de/philosophie)

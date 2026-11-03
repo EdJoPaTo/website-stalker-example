@@ -9,15 +9,15 @@ Im Zentrum unseres Kreationsprozesses steht die Interaktion mit den Betrachtern.
 Irrlicht ist kein in sich geschlossenes Konstrukt, was autark agiert. Wir lieben und leben den aktiven Austausch mit anderen Kollektiven, Künstlern und Freunden. Ohne sie wäre Irrlicht nur ein kleines vereinzeltes Licht, denn erst die gegenseitige Inspiration lässt unser Schaffen hell erleuchten.
 ----------
 
-[](https://www.zugvoegelfestival.org)
+[](https://www.zugvoegelfestival.org/)
 
-[](https://niehlerfreiheit.de)
+[](https://niehlerfreiheit.de/)
 
-[](https://minhagalera.de)
+[](https://minhagalera.de/)
 
-[](https://love-foundation.org)
+[](https://love-foundation.org/)
 
-[](https://objektkleina.com)
+[](https://objektkleina.com/)
 
 [](https://lastsummer-dance.squarespace.com/)
 
@@ -27,7 +27,7 @@ Irrlicht ist kein in sich geschlossenes Konstrukt, was autark agiert. Wir lieben
 
 [imprint](https://irrlicht-interactive.de/imprint/)
 
-[](https://irrlicht-interactive.de)
+[](https://irrlicht-interactive.de/)
 
 * [projekte](https://irrlicht-interactive.de/projekte/)
 * [kollektiv](https://irrlicht-interactive.de/kollektiv/)
@@ -39,4 +39,4 @@ Irrlicht ist kein in sich geschlossenes Konstrukt, was autark agiert. Wir lieben
 * [technik](https://irrlicht-interactive.de/technik/)
 * [kreation](https://irrlicht-interactive.de/kreation/)
 
-[](https://irrlicht-interactive.de)
+[](https://irrlicht-interactive.de/)

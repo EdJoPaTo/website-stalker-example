@@ -20,7 +20,7 @@
 
 [imprint](https://irrlicht-interactive.de/imprint/)
 
-&amp;amp;lt;a href="http://laytheme.com"&amp;amp;gt;Frontpage made with Lay Theme&amp;amp;lt;/a&amp;amp;gt;[](https://irrlicht-interactive.de)
+&amp;amp;lt;a href="http://laytheme.com"&amp;amp;gt;Frontpage made with Lay Theme&amp;amp;lt;/a&amp;amp;gt;[](https://irrlicht-interactive.de/)
 
 * [projekte](https://irrlicht-interactive.de/projekte/)
 * [kollektiv](https://irrlicht-interactive.de/kollektiv/)
@@ -32,4 +32,4 @@
 * [technik](https://irrlicht-interactive.de/technik/)
 * [kreation](https://irrlicht-interactive.de/kreation/)
 
-[](https://irrlicht-interactive.de)
+[](https://irrlicht-interactive.de/)

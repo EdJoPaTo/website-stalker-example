@@ -31,13 +31,13 @@ Lade unsere App hier herunter!
 Du willst mit uns sprechen?
 ----------
 
-Wir sind für dich da! [Meld dich bei uns](/service/kontakt/)
+Wir sind für dich da! [Meld dich bei uns](https://www.wetell.de/service/kontakt/)
 
 Noch Fragen?
  In unseren FAQ gibt's die Antworten!
 ----------
 
-[Mehr über die Funktion des FAQ-Bots und unsere Gedanken zur Nutzung von KI](/community/newsblog/ki-bei-wetell/). Informationen zur Nutzung deiner Daten findest du in unserer [Datenschutzerklärung](/datenschutzerklaerung#bot).
+[Mehr über die Funktion des FAQ-Bots und unsere Gedanken zur Nutzung von KI](https://www.wetell.de/community/newsblog/ki-bei-wetell/). Informationen zur Nutzung deiner Daten findest du in unserer [Datenschutzerklärung](https://www.wetell.de/datenschutzerklaerung#bot).
 
 Schnellauswahl an Filtern für FAQ
 
@@ -60,20 +60,20 @@ Tarif mit Handy
 Alles Wichtige für dich – einfach und transparent
 ----------
 
-[ABGs](/service/downloads/#agb)
+[ABGs](https://www.wetell.de/service/downloads/#agb)
 
-[Datenschutz](/service/downloads/#datenschutz)
+[Datenschutz](https://www.wetell.de/service/downloads/#datenschutz)
 
-[Preislisten](/service/downloads/#preislisten)
+[Preislisten](https://www.wetell.de/service/downloads/#preislisten)
 
-[Produktinformationsblätter](/service/downloads/#pib)
+[Produktinformationsblätter](https://www.wetell.de/service/downloads/#pib)
 
-[Abtretungserklärung der Rufnummer](/service/downloads/#abtretungserklaerung)
+[Abtretungserklärung der Rufnummer](https://www.wetell.de/service/downloads/#abtretungserklaerung)
 
-[Widerruf und Kündigungen](/service/downloads/#widerruf)
+[Widerruf und Kündigungen](https://www.wetell.de/service/downloads/#widerruf)
 
-[Spielregeln für Social Media](/service/downloads/#social_media)
+[Spielregeln für Social Media](https://www.wetell.de/service/downloads/#social_media)
 
-[Logo und Labels](/service/downloads/#logo_labels)
+[Logo und Labels](https://www.wetell.de/service/downloads/#logo_labels)
 
-[Sonstiges](/service/downloads/#sonstiges)
+[Sonstiges](https://www.wetell.de/service/downloads/#sonstiges)

@@ -37,7 +37,7 @@ Unsere starken Partner im Speisensortiment
 
  Die innovativen Haferprodukte in Bio-Qualität stehen für Nachhaltigkeit. Genießen Sie als Snack unser leckeres Porridge Apfel-Zimt.
 
-[haferkater.com](https://haferkater.com)
+[haferkater.com](https://haferkater.com/)
 
  **Schokolade, 100% frei von Ausbeutung und Zwangsarbeit**
 
@@ -56,8 +56,8 @@ Mehr über die Bordgastronomie
 
  Immer wieder Neues aus der Bordgastronomie. Freuen Sie sich auf unser wechselndes Aktionsangebot!
 
-[Entdecken Sie unsere Aktion](/aktion)
+[Entdecken Sie unsere Aktion](https://db-bordgastronomie.de/aktion)
 
  Mit unserem gastronomischen Service leisten wir nicht nur einen Beitrag zum Genuss an Bord, sondern übernehmen auch Verantwortung für die Gesundheit, Gesellschaft und die Umwelt.
 
-[Rund um Produkt & Verpackung](/qualitaet)
+[Rund um Produkt & Verpackung](https://db-bordgastronomie.de/qualitaet)

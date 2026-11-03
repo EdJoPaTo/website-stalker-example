@@ -14,7 +14,7 @@ Seit 2018 verbinden wir kreative Gestaltung und kreatives Know-How um das Medium
 
 [imprint](https://irrlicht-interactive.de/imprint/)
 
-[](https://irrlicht-interactive.de)
+[](https://irrlicht-interactive.de/)
 
 * [projekte](https://irrlicht-interactive.de/projekte/)
 * [kollektiv](https://irrlicht-interactive.de/kollektiv/)
@@ -26,4 +26,4 @@ Seit 2018 verbinden wir kreative Gestaltung und kreatives Know-How um das Medium
 * [technik](https://irrlicht-interactive.de/technik/)
 * [kreation](https://irrlicht-interactive.de/kreation/)
 
-[](https://irrlicht-interactive.de)
+[](https://irrlicht-interactive.de/)

@@ -1,12 +1,12 @@
 Release standards (RC bugs)
 ----------
 
-[What they are for packages](testing/rc_policy.txt)
-[What they are for architectures](testing/arch_policy.html)
+[What they are for packages](https://release.debian.org/testing/rc_policy.txt)
+[What they are for architectures](https://release.debian.org/testing/arch_policy.html)
 [Which of them aren't being met](https://bugs.debian.org/release-critical)
-[Architecture status](testing/arch_qualify.html)
-[Freeze policy](testing/freeze_policy.html)
-[Unblock requests FAQ](testing/FAQ.html)
+[Architecture status](https://release.debian.org/testing/arch_qualify.html)
+[Freeze policy](https://release.debian.org/testing/freeze_policy.html)
+[Unblock requests FAQ](https://release.debian.org/testing/FAQ.html)
 
 Recent stable release updates
 ----------
@@ -51,19 +51,19 @@ Debian 13 "trixie" was released on 9 August 2025.
 Useful links
 ----------
 
-* [Frozen packages](/britney/hints/freeze)
-* [Removal and entering hints](/britney/hints/)
-* [On the topic of key packages and autoremoval](/key-packages.html)
+* [Frozen packages](https://release.debian.org/britney/hints/freeze)
+* [Removal and entering hints](https://release.debian.org/britney/hints/)
+* [On the topic of key packages and autoremoval](https://release.debian.org/key-packages.html)
 * [List of candidates for automatic removal from testing](https://udd.debian.org/cgi-bin/autoremovals.cgi)
 * [List of key packages](https://udd.debian.org/cgi-bin/key_packages.yaml.cgi)
 * [Requirements for reproduce builders](https://release.debian.org/reproducible-builds-host-requirements.html)
 * [Packages blocked from uploads to unstable due to transitions](https://ftp-master.debian.org/transitions.yaml)
-* [Transition tracker](/transitions/)
-* [Documentation on requesting binNMUs and other wanna-build actions](/wanna-build.html)
-* [NEW queue summary for stable-proposed-updates](/proposed-updates/stable.html)
-* [Autopkgtest pseudo excuses for experimental](/britney/pseudo-excuses-experimental.html)
+* [Transition tracker](https://release.debian.org/transitions/)
+* [Documentation on requesting binNMUs and other wanna-build actions](https://release.debian.org/wanna-build.html)
+* [NEW queue summary for stable-proposed-updates](https://release.debian.org/proposed-updates/stable.html)
+* [Autopkgtest pseudo excuses for experimental](https://release.debian.org/britney/pseudo-excuses-experimental.html)
 * [Our wiki site](https://wiki.debian.org/Teams/ReleaseTeam)
-* [Our tools](tools.html)
+* [Our tools](https://release.debian.org/tools.html)
 
 Suite update policy
 ----------
