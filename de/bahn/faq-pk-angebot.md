@@ -1380,6 +1380,21 @@ Im Aboportal können Sie nur erfolgte Zahlungen zu Ihrem Abo sehen.​
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzeige-zahlung)
 
+ Wie beende ich das Teilen meiner persönlichen Daten mit Apps und Diensten im DB Kundenkonto?
+----------
+
+Melden Sie sich in Ihrem DB Kundenkonto an.
+
+1. Gehen Sie zu "Persönliche Daten".
+2. Wählen Sie "Apps und Dienste verwalten".
+3. Wählen Sie den betreffenden Dienst aus und folgen Sie den Schritten zur Beendigung der Datenfreigabe.
+
+Stellen Sie sicher, dass keine laufenden Verträge das Löschen verhindern.
+
+* [Weitere Informationen finden Sie in unseren Datenschutzhinweisen](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/apps-dienste-teilen-beenden)
+
  Auf welchen Strecken gilt das Europa-Park Kombiticket?
 ----------
 
@@ -6873,6 +6888,41 @@ Nein. Der Flexpreis Young gilt **nur für Reisen innerhalb Deutschlands**.
 [Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-flexpreis-young)
+
+ Which journeys can I book a Dutch Railways ticket for?
+----------
+
+You can book almost all train journeys within the Netherlands. Simply search for your desired journey in the journey planner.
+
+For example, travel:
+
+* from Utrecht to Rotterdam in around 40 minutes
+* from Amsterdam to the North Sea coast at Zandvoort in around 30 minutes
+* from The Hague to Amsterdam in around 50 minutes
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-rail-companies-dutch-railways-jouneys)
+
+ I am planning several journeys abroad. Are there any special offers available?
+----------
+
+If you are planning several journeys abroad, an Interrail Pass is often worthwhile. The [Interrail One Country Pass](https://int.bahn.de/en/offers/passes/interrail-one-country-pass) allows you to travel flexibly by train in the selected country for a chosen travel period.
+
+Will you be travelling through several countries? In this case, the [Interrail Global Pass](https://int.bahn.de/en/offers/passes/interrail-global-pass) may be worthwhile. You can use the pass in a total of 33 European countries. You may also use the pass in your country of residence on two days within its period of validity.
+
+Please note: A separate supplement is required for some trains on which reservations are compulsory. More information is available at [www.interrail.com](https://www.interrail.com/en).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-rail-companies-dutch-railways-special-offers)
+
+ What should I bear in mind when travelling by train in the Netherlands?
+----------
+
+Please note the following information when travelling with a Dutch Railways (NS) ticket:
+
+* Tickets must be printed on A4 paper before departure.
+* Many stations in the Netherlands have ticket barriers at the entrance to the platform area. Use the ticket’s barcode to open the barriers.
+* The following trains require a supplement: IC Direct/Eurocity Direct services between Schiphol Airport and Rotterdam Centraal and ICE services between any two stations within the Netherlands. You can purchase the supplement in the Netherlands from a ticket machine or, where applicable, on the platform at specially marked posts.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/international-rail-companies-dutch-railways-what-to-bear-in-mind)
 
  Auf meinem Ticket für die internationale Reise befinden sich keine Angaben zum Abfahrtsgleis. Wo fährt mein Zug ab?
 ----------

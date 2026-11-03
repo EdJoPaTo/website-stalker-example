@@ -701,10 +701,10 @@ Die Belegt-Anzeige bleibt bis kurz vor Ihrem Ausstieg sichtbar. Diese Funktion i
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anzeige-belegter-sitzplatz)
 
- Warum wird mir unter Apps und Dienste nichts angezeigt?
+ Warum wird mir im DB Kundenkonto unter Digitale DB Dienste (Apps & Dienste) nichts angezeigt?
 ----------
 
-Apps und Dienste werden nur dann angezeigt, wenn Sie Ihre Daten für einen genutzten Dienst freigegeben haben. In der Übersicht können Sie einsehen, welche Daten mit diesen Diensten geteilt werden. Wenn momentan keine Dienste angezeigt werden, dann haben Sie in Ihrem DB Kundenkonto noch keinen solchen Dienst eingerichtet.
+Apps und Dienste werden nur dann in Ihrem Profil unter "Persönliche Daten" angezeigt, wenn Sie Ihre Daten für einen genutzten Dienst freigegeben haben. In der Übersicht können Sie sehen, welche Daten mit diesen Diensten geteilt werden. Wenn momentan keine Dienste angezeigt werden, dann haben Sie in Ihrem DB Kundenkonto noch keinen solchen Dienst eingerichtet.
 
 * [Weitere Informationen zur Nutzung von Apps und Diensten](https://www.bahn.de/faq/was-sind-apps-dienste)
 
@@ -3655,7 +3655,7 @@ Sie können das Ticket im Nachhinein auch unter Angabe der Auftragsnummer unter 
  Kann ich mein Ticket in eine Brieftaschen-App (z. B. Wallet) laden?
 ----------
 
-Das ist zurzeit leider nicht möglich.
+Nein, das ist zurzeit leider nicht möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-ticket-in-eine-brieftaschen-app-laden)
 
@@ -6837,7 +6837,7 @@ Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-passiert-wenn-mein-zug-ausfaellt-oder-verspaetet-ist)
 
- Was sind Apps und Dienste?
+ Was sind Apps und Dienste im DB Kundenkonto?
 ----------
 
 Ihr DB Kundenkonto bietet Ihnen einen Zugang zu [bahn.de](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fbahn.de%2F&data=05%7C02%7CAnja.Iwanowski%40deutschebahn.com%7Cb450f316fc8f4e74310a08ddb3ee9f6a%7Ca1a72d9c49e64f6d9af65aafa1183bfd%7C0%7C0%7C638864559657760615%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rxKDQ%2BwGkuCUh0kPUgGkuNmkuSuHckpn8vAb1%2Ba3tm4%3D&reserved=0) und DB Navigator, aber auch weiteren Apps und digitalen Diensten.
@@ -6850,7 +6850,7 @@ Sie können Apps und digitale Dienste mit Ihrem Konto verbinden:
 So prüfen Sie, welche digitalen Dienste mit Ihrem DB Kundenkonto verbunden sind:
 
 1. Öffnen Sie den Bereich "Persönliche Daten" in Ihrem DB Kundenkonto.
-2. Wählen Sie "Apps und Dienste" oder "digitale Dienste", um die neue Anwendung in der Übersicht zu sehen.
+2. Wählen Sie "Apps und Dienste" oder "Digitale DB Dienste", um die neue Anwendung in der Übersicht zu sehen.
 
 * [Weitere Informationen finden Sie in unseren Datenschutzhinweisen](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
 
@@ -7895,8 +7895,11 @@ Sie haben einen Gutschein der Deutschen Bahn und möchten diesen einlösen?
 
 Um einen Streckenfavoriten anzulegen, klicken Sie auf der Startseite der App im Bereich "Meine Favoriten" auf "Favorit hinzufügen". Geben Sie Start und Ziel an. Alternativ können Sie Streckenfavoriten in der Verbindungsübersicht über das Sternsymbol speichern.
 
-So können die Streckenfavoriten sortiert werden: Klicken Sie im Menübereich „Profil“ im Abschnitt "Favoriten" zunächst auf "Mehr" und dann auf „Bearbeiten“. Anschließend können Sie die Streckenfavoriten durch längeres Halten und Verschieben der drei waagerechten Striche eines jeweiligen Streckenfavoriten in die gewünschte Reihenfolge bringen.
-Die Streckenfavoriten werden Ihnen dann in der festgelegten Reihenfolge im Menübereich "Buchen" unter "Meine Favoriten" angezeigt.
+So können die Streckenfavoriten sortiert werden:
+
+1. Klicken Sie im Menübereich "Profil" im Abschnitt "Favoriten" zunächst auf "Mehr" und dann auf „Bearbeiten“.
+2. Anschließend können Sie die Streckenfavoriten durch längeres Halten und Verschieben der 3 waagerechten Striche eines jeweiligen Streckenfavoriten in die gewünschte Reihenfolge bringen.
+3. Die Streckenfavoriten werden Ihnen dann in der festgelegten Reihenfolge im Menübereich "Buchen" unter "Meine Favoriten" angezeigt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-streckenfavoriten-anlegen-und-sortieren)
 
@@ -8160,7 +8163,7 @@ Sie können eine Reise über das "Teilen"-Symbol oben rechts in den Reisedetails
 
 **Bahn.de:**
 
-In der Verbindungsübersicht sowie in Ihrem DB Kundenkonto unter "Meine Reisen" befinden sich hinter jeder Verbindung drei Punkte, über die Sie die Funktion "Im Kalender speichern" auswählen können.
+In der Verbindungsübersicht sowie in Ihrem DB Kundenkonto unter "Meine Reisen" befinden sich hinter jeder Verbindung 3 Punkte, über die Sie die Funktion "Im Kalender speichern" auswählen können.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-reise-im-kalender-speichern)
 
@@ -8202,7 +8205,7 @@ In Ihrem DB Kundenkonto auf bahn.de und in Ihrem Profilbereich im DB Navigator k
  Wie kann ich über den DB Navigator den Komfort Check-in nutzen?
 ----------
 
-Wählen Sie in der App unter „Meine Reisen“ das Ticket aus, mit dem Sie sich einchecken möchten. Klicken Sie im Digitalen Ticket auf den Reiter „Reiseplan“. Bestätigen Sie über den Button „Komfort Check-in“ Ihren reservierten Sitzplatz oder geben Sie diesen manuell ein, wenn Sie keine Reservierung besitzen. In den Reisedetails erscheint nun beim entsprechenden Zug der Status "Eingecheckt".
+Wählen Sie in der App unter "Meine Reisen" das Ticket aus, mit dem Sie sich einchecken möchten. Klicken Sie im Digitalen Ticket auf den Reiter "Reiseplan". Bestätigen Sie über den Button "Komfort Check-in" Ihren reservierten Sitzplatz oder geben Sie diesen manuell ein, wenn Sie keine Reservierung besitzen. In den Reisedetails erscheint nun beim entsprechenden Zug der Status "Eingecheckt".
 
 [Tipp: So ermitteln Sie die Wagen- und Sitzplatznummer per QR-Code](https://www.bahn.de/faq/qr-code-aotomatische-wagenermittlung)
 
@@ -9034,7 +9037,9 @@ Die DB Geschenkkarte ist im Handel in den Filialen folgender Märkte erhältlich
  Wo kann ich im DB Navigator Informationen zum Zug oder zum Fahrtverlauf finden?
 ----------
 
-Wählen Sie die gewünschte Verbindung aus und klicken Sie in den Verbindungsdetails im DB Navigator beim gewünschten Reiseabschnitt auf den Button "Fahrtinformationen". Dort finden Sie Informationen zum Fahrtverlauf sowie zum Verkehrsmittel (z.B. zu den Verkehrstagen oder zur Ausstattung). Am Reisetag werden zusätzlich, sofern verfügbar, Echtzeit-Informationen und die aktuelle Wagenreihung angezeigt. Über den Button „Auf Karte anzeigen“ unterhalb des Fahrtverlaufs können Sie sich den gesamten Fahrtverlauf des Verkehrsmittels grafisch auf einer Karte anzeigen lassen.
+Wählen Sie die gewünschte Verbindung aus und klicken Sie in den Verbindungsdetails im DB Navigator beim gewünschten Reiseabschnitt auf den Button "Fahrtinformationen". Dort finden Sie Informationen zum Fahrtverlauf sowie zum Verkehrsmittel (z.B. zu den Verkehrstagen oder zur Ausstattung).
+
+Am Reisetag werden zusätzlich, sofern verfügbar, Echtzeit-Informationen und die aktuelle Wagenreihung angezeigt. Über den Button „Auf Karte anzeigen“ unterhalb des Fahrtverlaufs können Sie sich den gesamten Fahrtverlauf des Verkehrsmittels grafisch auf einer Karte anzeigen lassen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-im-navigator-informationen-zum-zug-oder-zum-fahrtverlauf-finden)
 
