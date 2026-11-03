@@ -87,20 +87,6 @@ Freude drin
 
 [](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html?itemorigin=StartseiteHW26)
 
- e.s.Engelbird Nikolaussocke
-
- 19,90 €
-
- (m. MwSt.)
-
- 16,72 € (ohne MwSt.)
-
-[
-
-]()
-
-[](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html?itemorigin=StartseiteHW26)
-
  NEU
 ---
 
