@@ -9,11 +9,11 @@ Framework Laptop 13 ​
 
 [DIY Edition Build it yourself and bring your OS, including Linux.](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
-[Pre-built Ready to use with OS pre-installed. Out of stock](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new#)
+ Pre-built  Ready to use with OS pre-installed.  Out of stock
 
 [9% off AI 300 Series Starting at €959.00 was: €1,059](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new)
 
-[Out of stock Ultra Series 1 Starting at €899.00 was: €1,029](https://frame.work/de/en/products/laptop13-diy-amd-ai300/configuration/new#)
+Out of stock  Ultra Series 1  Starting at  €899.00  was: €1,029
 
 [View product details](https://frame.work/de/en/laptop13?slug=laptop13-diy-amd-ai300&tab=specs)
 

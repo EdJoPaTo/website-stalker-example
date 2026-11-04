@@ -62,10 +62,8 @@ Deine eSIM bei WEtell zu aktivieren ist ganz einfach. Befolge diese Schritte und
 Weiter unten findest du eine genaue Anleitung für Fairphone, Apple und Android Geräte.
 Beachte dabei, dass die Installation bei Android Geräten leicht variieren kann.
 
-Noch Fragen?
+Schritt für Schritt Anleitungen
 ----------
-
-Falls du Hilfe bei der Aktivierung benötigst, findest du in unserem [**FAQ**](https://www.wetell.de/service/faq) eine Schritt-für-Schritt-Anleitung oder du kannst unser freundliches [Serviceteam](https://www.wetell.de/service/kontakt) kontaktieren.
 
 * Fairphone
 
@@ -173,17 +171,39 @@ Falls du Hilfe bei der Aktivierung benötigst, findest du in unserem [**FAQ**](
 Noch ein paar Tipps
 ----------
 
-**Der QR-Code wird nicht angezeigt?**
-Versuche es mal mit einem anderen Browser (z.B.: Chrome, Firefox, Opera, Edge, Safari, …).
+* Der QR-Code wird nicht angezeigt?
 
-**Die ePIN ist nicht sichtbar?**
-Klicke auf das kleine Auge neben den Punkten, dann erscheinen die Zahlen.
-Wenn das nicht hilft, dann auch hier Browser wechseln oder Cache löschen.
+  Versuche es mal mit einem anderen Browser (z.B.: Chrome, Firefox, Opera, Edge, Safari, …).
 
-**Mehr Infos?**
-Du willst es ganz genau wissen oder hast noch technische Fragen?
-Dann melde dich bei unserem Service:
-[service@wetell.de](mailto:service@wetell.de)
+* Was muss ich machen, wenn der QR-Code nicht funktioniert?
+
+  Du hast den QR-Code im Mein.WEtell Bereich gefunden, aber die Installation klappt nicht?
+  Folgende Tipps und Kniffe könnten dir helfen:
+
+  * Starte dein Gerät auf dem die eSIM installiert werden soll vor jedem Installationsversuch neu.
+  * Prüfe, ob dein Gerät eSIM-fähig ist.
+  * Prüfe, ob die eSIM bereits auf einem anderen Gerät installiert ist. Falls ja, muss sie dort zuerst gelöscht werden.
+  * Prüfe, ob dein Gerät bereits die maximale Anzahl an installierten eSIM-Profilen erreicht hat.
+  * Überprüfe die WLAN und Internetverbindung: Beide Geräte müssen sich in einem stabilen WLAN befinden.
+  * Starte gegebenenfalls den Router oder die WLAN-Verbindung neu.
+  * Deaktiviere testweise VPN-Verbindungen.
+  * Installiere verfügbare Software-Updates.
+  * Falls die eSIM zu einer OneNumber gehört: Diese lässt sich ausschließlich innerhalb Deutschlands aktivieren.
+
+  **Installation ohne QR-Code:**
+
+  Du kannst die eSIM auch manuell installieren. Die dazu benötigten Daten findest du im Mein.WEtell-Bereich direkt unter dem QR-Code unter „Manuelle Einrichtung ohne QR-Code“.
+
+* Die ePIN ist nicht sichtbar?
+
+  Klicke auf das kleine Auge neben den Punkten, dann erscheinen die Zahlen.
+  Wenn das nicht hilft, dann auch hier Browser wechseln oder Cache löschen.
+
+* Mehr Infos?
+
+  Du willst es ganz genau wissen oder hast noch technische Fragen?
+  Dann melde dich bei unserem Service:
+  [service@wetell.de](mailto:service@wetell.de)
 
 Welche Geräte unterstützen die eSIM?
 ----------
@@ -303,3 +323,8 @@ Viele moderne Smartphones, Tablets und Smartwatches unterstützen bereits die eS
   Xiaomi 15, 15 Ultra
 
 **Tipp:** Überprüfe die Kompatibilität deines Geräts in den Einstellungen oder im Benutzerhandbuch.
+
+Noch Fragen?
+----------
+
+Falls du Hilfe bei der Aktivierung benötigst, findest du in unserem [**FAQ**](https://www.wetell.de/service/faq) eine Schritt-für-Schritt-Anleitung oder du kannst unser freundliches [Serviceteam](https://www.wetell.de/service/kontakt) kontaktieren.
