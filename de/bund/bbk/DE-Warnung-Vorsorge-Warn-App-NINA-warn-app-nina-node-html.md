@@ -170,11 +170,13 @@ Alle Warnungen und Meldungen werden durch **behördliche** Stellen nach **sorgf�
 
 Sollten Sie Rückfragen zu konkreten Meldungen haben, finden Sie in der Regel die entsprechenden Kontaktinformationen am **Ende** einer **Warnmeldung.**
 
-Sollte keine Kontaktmöglichkeit aufgeführt sein, informieren Sie sich bitte bei Ihren Behörden vor **Ort.**
+Nur **warnberechtigte Behörden** von Bund, Ländern und Kommunen können Warnmeldungen ausgeben. Sie sind als **Absender** in der jeweiligen Warnmeldung zu erkennen („**Herausgegeben von** …“). Diese Stelle ist auch verantwortlich für die Warnung.
+
+Sollte keine Kontaktmöglichkeit aufgeführt sein, informieren Sie sich bitte bei Ihren **Behörden vor** **Ort.**
 
 ###  Warum wird nicht über Sirenen gewarnt? ###
 
-Sirenen sind nach wie vor ein **etabliertes** Warnmittel mit gutem Weckeffekt.
+Sirenen sind nach wie vor ein **etablierter** Warnkanal, der eine entsprechende Aufmerksamkeit hervorruft.
 
 Der Einsatz von Sirenen liegt in der **Verantwortung** der **Kommunen** und wird von dort gesteuert.
 
@@ -182,7 +184,7 @@ Die Warn-App NINA wird mit jeder Warnmeldung durch Behörden im Bevölkerungssch
 
 Manchmal werden auch **nur die Sirenen** manuell ausgelöst. Oder die Sirenen und die Warn-App NINA werden **paralle**l ausgelöst.
 
-Während **Sirenen** den besseren **Weckeffekt** haben, kann die **App** hilfreiche **Zusatzinformationen** liefern.
+Während **Sirenen** durch ihre Reichweite und die Lautstärke sehr **aufmerksamkeitsstark** sind haben, kann die **App** hilfreiche **Zusatzinformationen** liefern.
 
 ###  Werden Daten von mir erhoben oder gespeichert? ###
 
@@ -308,6 +310,8 @@ Diese Meldungen können auch ortsbezogen ausgewählt werden. Sie können per **R
   [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)
 
 * [Entwicklung und Technik](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/entwicklung-technik_node.html)
+
+   Warn-App NINA
 
   [](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/Entwicklung-Technik/entwicklung-technik_node.html)
 
