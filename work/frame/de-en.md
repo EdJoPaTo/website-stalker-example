@@ -12,6 +12,10 @@ Framework Laptop 13 Pro delivers 20 hours of battery life [**ϟ**](#fw13pro-batt
 
 [Configure now Configure now](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new) [Learn more Learn more](/de/en/laptop13pro)
 
+Everything we launched at
+Framework [Next Gen] Event 2026
+----------
+
 [Learn more](/de/en/nextgen)
 
 ### Designed for joy. Built for ownership. ###
@@ -24,15 +28,15 @@ Framework Laptop 12 is a 12.2" convertible with first-in-class Linux support. No
 
 [Configure now Configure now](/de/en/products/laptop12-diy-intel-series3/configuration/new) [Learn more Learn more](/de/en/laptop12)
 
-### Framework Desktop is a big computer made mini.  ###
+### Seize the means of computation ###
 
-Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
+Framework Desktop is a 4.5L workstation with up to 192GB of fast LPDDR5X memory and the AMD Ryzen™ AI Max+ PRO 495. Run large AI models on hardware you own.
 
-### Framework Desktop is a big computer made mini.  ###
+### Seize the means of computation ###
 
-Massive gaming capability, heavy-duty AI compute, and standard PC parts, all in 4.5L.
+Framework Desktop is a 4.5L workstation with up to 192GB of fast LPDDR5X memory and the AMD Ryzen™ AI Max+ PRO 495. Run large AI models on hardware you own.
 
-[Configure now Configure now](/de/en/products/desktop-diy-amd-aimax300/configuration/new) [Learn more Learn more](/de/en/desktop)
+[Configure now Configure now](/de/en/products/desktop-diy-amd-aimax400/configuration/new) [Learn more Learn more](/de/en/desktop)
 
 ### Configure once. Upgrade whenever ❤ ###
 
@@ -61,89 +65,13 @@ Pick up new parts and modules for your Framework products.
 
 [Shop our Marketplace](/de/en/marketplace)
 
-### Keep track of what we’re working on with the Framework Newsletter. ###
+Keep track of what we’re working on with the Framework Newsletter.
+----------
 
 Monthly-ish
 
-```
 Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
-
-```
-Let’s fix 🪛 Consumer Electronics.
-```
+----------
 
 The Consumer Electronics industry is broken. We’re here to fix it. We build high-performance products that are easy to repair, upgrade, and customize, so you can use them for as long as you'd like.
 

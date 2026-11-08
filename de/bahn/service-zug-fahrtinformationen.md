@@ -57,7 +57,7 @@ Eine Ausweitung auf den Nahverkehr und in der Zukunft liegende Reisetage ist gep
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/fuer-welche-zuege-gibt-es-eine-digitale-wagenreihung)
 
-###  Ich habe ein Ticket mit Sitzplatz-Reservierung gebucht. Wie finde ich im Bahnhof direkt meinen Wagen?  ###
+###  Ich habe ein Ticket mit Reservierung gebucht. Wie finde ich direkt meinen Wagen?  ###
 
 * Öffnen Sie die App DB Navigator.
 * Gehen Sie unter "Reisen" zu Ihrer gebuchten Reise für den aktuellen Tag.

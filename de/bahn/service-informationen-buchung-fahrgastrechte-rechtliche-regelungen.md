@@ -77,7 +77,7 @@ Wenn Sie eine Zeitfahrkarte des Nahverkehrs besitzen, beachten Sie bitte, dass E
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/entschaedigung-zeitkarten)
 
-###  Darf ich bei Verspätungen mit einem anderen Zug weiterfahren?  ###
+###  Darf ich mit einem anderen Zug weiterfahren?  ###
 
 Bei einer erwarteten Verspätung am Zielbahnhof Ihrer Fahrkarte von
 
@@ -103,7 +103,7 @@ Wenn Sie eine Fahrkarte des Nahverkehrs (RE, RB, IRE und S-Bahn) besitzen, aber 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/darf-man-bei-verspaetung-des-zuges-ohne-mehrkosten-die-naechste-fahrtmoeglichkeit-z-b-einen-ice-in-anspruch-nehmen)
 
-###  Darf ich bei Verspätungen oder ausgefallenen Zügen mit mit anderen Verkehrsmitteln weiterfahren?  ###
+###  Darf ich mit mit anderen Verkehrsmitteln weiterfahren?  ###
 
 Wenn Sie das Eisenbahnunternehmen nicht innerhalb von 100 Minuten nach der planmäßigen Abfahrtszeit eines verspäteten oder ausgefallenen Zuges oder eines verpassten Anschlusses darüber informiert, welche Möglichkeiten Ihnen für die Weiterreise zur Verfügung stehen, haben Sie das Recht, die Fahrt mit anderen Eisenbahnen (z.B. Flixtrain, Nightjet), einem Reisebus oder einem Bus des Regionalverkehrs fortzusetzen.
 
@@ -211,7 +211,7 @@ Für die Berechnung der Gesamtentschädigung werden neben der Fahrkarte auch zur
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/entschaedingung-beantragen)
 
-###  An wen wende ich mich für die Erstattung von Kosten für eine Weiterbeförderung oder eine Übernachtung?  ###
+###  An wen wende ich mich für die Erstattung von Kosten?  ###
 
 Ansprüche auf Kostenerstattung für eine Weiterbeförderung oder eine Übernachtung werden im **Servicecenter Fahrgastrechte** bearbeitet, wenn ein Beförderer auf einer DB Strecke zur Weiterbeförderung oder zur Hilfeleistung an Ort und Stelle verpflichtet war (im Allgemeinen der Ort der Reiseunterbrechung). Das betrifft ebenfalls die ICE-Züge auf ihrer gesamten Fahrtstrecke bis Brüssel und zurück. Dabei kommt es jeweils nicht darauf an, ob es sich um eine DB Fahrkarte oder die Fahrkarte eines anderen ausgebenden Unternehmens handelt.
 

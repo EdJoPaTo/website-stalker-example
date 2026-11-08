@@ -279,13 +279,14 @@ Achten Sie darauf:
  Wie kann ich (neue) Ersatzcodes für die 2-Faktor-Authentifizierung ins DB Kundenkonto generieren?
 ----------
 
-So geht’s auf bahn.de:
+So geht's auf bahn.de:
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Öffnen Sie im Menüpunkt "Login & Sicherheit" den Account-Manager.
-3. Klicken Sie auf "2-Faktor-Authentifizierung" und dann auf "Ersatzcodes aktivieren".
+2. Gehen Sie in Ihr Profil, indem Sie rechts oben auf Ihren Profilnamen und dann auf "Kundenkonto verwalten" klicken.
+3. Öffnen Sie im Menüpunkt "Login & Sicherheit" den Account Manager.
+4. Klicken Sie auf "2-Faktor-Authentifizierung" und dann auf "Ersatzcodes aktivieren".
 
-So geht’s im DB Navigator:
+So geht's im DB Navigator:
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
 2. Öffnen Sie im Menüpunkt "Profil" den Bereich unter "Login & Sicherheit".
@@ -293,7 +294,7 @@ So geht’s im DB Navigator:
 
 Sichern Sie Ihre Ersatzcodes anschließend, indem Sie sie ausdrucken, herunterladen oder kopieren und an einem sicheren Ort aufbewahren.
 
-Aus Sicherheitsgründen sind die generierten Ersatzcodes nach dem Abmelden nicht mehr in Ihrem Kundenkonto verfügbar.
+Aus Sicherheitsgründen sind die generierten Ersatzcodes nach dem Abmelden nicht mehr in Ihrem DB Kundenkonto verfügbar.
 
 Auch wenn Sie Ihre Ersatzcodes verloren haben, können Sie so neue generieren. Ihre alten Ersatzcodes werden dann ungültig.
 
@@ -713,11 +714,11 @@ Apps und Dienste werden nur dann in Ihrem Profil unter "Persönliche Daten" ange
  Wie beende ich das Teilen meiner persönlichen Daten mit Apps und Diensten im DB Kundenkonto?
 ----------
 
-Melden Sie sich in Ihrem DB Kundenkonto an.
-
-1. Gehen Sie zu "Persönliche Daten".
-2. Wählen Sie "Apps und Dienste verwalten".
-3. Wählen Sie den betreffenden Dienst aus und folgen Sie den Schritten zur Beendigung der Datenfreigabe.
+1. Melden Sie sich in Ihrem DB Kundenkonto an.
+2. Im **DB Navigator** gehen Sie im Menüpunkt "Profil" auf "Persönliche Daten".
+   Auf **bahn.de** klicken Sie rechts oben auf Ihren Profilnamen und gehen dann auf "Kundenkonto verwalten". Sie sind nun im Bereich "Persönliche Daten".
+3. Wählen Sie weiter unten "Apps und Dienste verwalten" oder oder "Digitale DB Dienste".
+4. Wählen Sie den betreffenden Dienst aus und folgen Sie den Schritten zur Beendigung der Datenfreigabe.
 
 Stellen Sie sicher, dass keine laufenden Verträge das Löschen verhindern.
 
@@ -769,7 +770,7 @@ Die Auslastungsinformation bezieht sich immer auf die in der Verbindungsauskunft
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/auf-welche-wagenklasse-bezieht-sich-die-auslastungsinformation)
 
- Auf welchen Geräten kann ich Passkeys nutzen?
+ Auf welchen Geräten kann ich Passkeys für das DB Kundenkonto nutzen?
 ----------
 
 Sie können Passkeys auf Geräten mit aktuellen Versionen der meisten Browser verwenden: Chrome, Safari, Edge und Firefox. Passkeys werden unterstützt von iOS, MacOS, Android und Windows.
@@ -906,6 +907,7 @@ Nutzen Sie Ihr bestehendes bahn.de-Login nach der Zusammenführung Ihres BahnID-
 Überprüfen Sie, ob für Ihre E-Mail-Adresse bereits ein DB Kundenkonto existiert. Wenn nicht, legen Sie bitte ein neues DB Kundenkonto an.
 
 * [Weitere Informationen zu der Umstellung von BahnID-Accounts](https://id.bahn.de/content/faq)
+* [Zur Anmeldung & Registrierung auf bahn.de](https://www.bahn.de/mein-konto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahnid-anmeldung)
 
@@ -1080,7 +1082,7 @@ Hinweis: Die Belegtanzeige ist nicht in allen Zügen verfügbar.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/belegtanzeige-nutzen-mit-kci)
 
- Brauche ich eine App, um die 2-Faktor-Authentifizierung nutzen zu können?
+ Brauche ich eine App, um die 2-Faktor-Authentifizierung für das DB Kundenkonto nutzen zu können?
 ----------
 
 Sie brauchen nur dann eine zusätzliche "Authenticator-App", wenn Sie die 2-Faktor-Authentifizierung mit dem entsprechenden Verfahren aktiviert haben.
@@ -1797,9 +1799,10 @@ Der Komfort Check-in kann in bestimmten Situationen nicht verfügbar sein. Über
  Der Zugang zu meinem DB Kundenkonto wurde gesperrt, weil ich mehrfach meine Daten falsch eingegeben habe. Was jetzt?
 ----------
 
-Die temporäre Sperrung von Accounts bei mehrfach fehlgeschlagenen Login-Versuchen ist eine sicherheitsbedingte Vorsichtsmaßnahme. Ihr Zugang wird nach ca. 30 Minuten automatisch wieder freigeschaltet. Eine manuelle Entsperrung durch unsere Mitarbeitenden ist nicht möglich.
-
-Wenn Ihr Zugang zwischenzeitlich noch nicht wieder freigeschaltet worden sein sollte, können wir Ihnen nur empfehlen, noch ein wenig zu warten.
+* Ihr Zugang wird nach ca. 30 Minuten automatisch wieder freigeschaltet.
+* Die temporäre Sperrung von Accounts bei mehrfach fehlgeschlagenen Login-Versuchen ist eine sicherheitsbedingte Vorsichtsmaßnahme.
+* Eine manuelle Entsperrung durch unsere Mitarbeitenden ist nicht möglich.
+* Wenn Ihr Zugang zwischenzeitlich noch nicht wieder freigeschaltet worden sein sollte, können wir Ihnen nur empfehlen, noch ein wenig zu warten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/der-zugang-zu-meinem-db-kundenkonto-wurde-gesperrt-weil-ich-mehrfach-meine-daten-falsch-eingegeben-habe-was-jetzt)
 
@@ -3146,14 +3149,14 @@ Digitale Tickets, die auf bahn.de oder der App DB Navigator gebucht wurden, kön
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-fuer-eine-andere-person-ein-einzelticket-gekauft-kann-diese-es-sich-auf-ihrem-smartphone-anzeigen-lassen)
 
- Ich habe mein Passwort vergessen. Wie kann ich es zurücksetzen?
+ Ich habe mein Passwort für das DB Kundenkonto vergessen. Wie kann ich es zurücksetzen?
 ----------
 
 Besuchen Sie die [Login-Daten-Vergessen-Seite](https://accounts.bahn.de/auth/realms/db/login-actions/reset-credentials?client_id=kf_web). Geben Sie Ihre E-Mail-Adresse ein, mit der Sie sich registriert haben.
 
-Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihrer Login-Daten. Klicken Sie auf den Link und ändern Sie Ihr Passwort. Danach haben Sie wieder Zugang zu Ihrem DB Kundenkonto und können dort unter "Login und Sicherheit" Ihren Benutzernamen einsehen.
+Sie erhalten eine E-Mail mit einem Link zum Zurücksetzen Ihrer Login-Daten. Klicken Sie auf den Link und ändern Sie Ihr Passwort. Danach haben Sie wieder Zugang zu Ihrem DB Kundenkonto und können dort in Ihrem Profil unter "Login & Sicherheit" Ihren Benutzernamen einsehen.
 
-Wurde Ihr Konto in den letzten 24 Monaten nicht genutzt, sind Ihre Kundendaten automatisch gelöscht worden. Melden Sie sich in diesem Fall bitte neu an.
+Wurde Ihr Konto in den letzten 24 Monaten nicht genutzt, sind Ihre Kundendaten automatisch gelöscht worden. Registrieren Sie sich in diesem Fall bitte neu.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mein-passwort-vergessen-wie-kann-ich-es-zuruecksetzen)
 
@@ -3173,14 +3176,6 @@ Sie sollten eine schriftliche Bestätigung vom Zugpersonal oder von Mitarbeitend
 * [Weitere Infos zu Ihren Ansprüchen und Fahrgastrechten im Verspätungsfall](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-meinen-anschlusszug-aufgrund-einer-zugverspaetung-verpasst-kann-ich-einen-anderen-zug-nutzen)
-
- Ich habe mich neu für ein DB Kundenkonto registriert. Wo kann ich meine persönlichen Daten wie Adresse oder Zahlungsdaten hinterlegen?
-----------
-
-1. Bitte loggen Sie sich hierzu ein und rufen den Bereich "Persönliche Daten" oder "Zahlungsmittel" auf.
-2. Folgen Sie den Anweisungen zur Ergänzung oder Änderung Ihrer Daten.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-habe-mich-neu-registriert-wo-kann-ich-meine-persoenlichen-daten-hinterlege)
 
  Ich habe mit Gutschein bezahlt und möchte mein Ticket stornieren. Wie erfolgt die Gutschrift?
 ----------
@@ -3469,7 +3464,9 @@ Sie können pro Buchung nur einen Aktionsgutschein einlösen.
  Welche Einstellungen und Daten der App DB Navigator bleiben bei einem Gerätewechsel erhalten?
 ----------
 
-Alle über das DB Kundenkonto gebuchten Tickets, gemerkten Reisen sowie gespeicherte Ortsfavoriten sind auf einem anderen Gerät wieder abrufbar, nachdem Sie sich dort in die App DB Navigator eingeloggt haben. Ausgenommen sind Streckenfavoriten, diese müssen neu hinzugefügt werden. Außerdem müssen Abos wie das Deutschland-Ticket neu in die App geladen werden.
+* Alle über das DB Kundenkonto gebuchten Tickets, gemerkten Reisen und gespeicherte Ortsfavoriten sind auf einem anderen Gerät wieder abrufbar, nachdem Sie sich dort in die App DB Navigator eingeloggt haben.
+* Ausgenommen sind Streckenfavoriten. Diese müssen Sie neu hinzufügen.
+* Außerdem müssen Sie Abos wie das Deutschland-Ticket neu in die App laden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-daten-im-db-navigator-auf-ein-neues-handy-uebertragen)
 
@@ -3646,9 +3643,13 @@ Als eingeloggter "Meine Bahn"-Kunde können Sie jedoch Tickets für andere Perso
 
 Ja. Zeigen Sie einfach das PDF-Dokument Ihres Tickets aus der Bestätigungsmail im Zug vor.
 
-Alternativ laden Sie das Ticket einfach in die App. Dazu klicken Sie den Link in der Bestätigungsmail, den Sie nach der Buchung erhalten haben.
+Alternativ laden Sie das Ticket einfach in die App DB Navigator. Dazu klicken Sie den Link in der Bestätigungsmail, den Sie nach der Buchung erhalten haben.
 
-Sie können das Ticket im Nachhinein auch unter Angabe der Auftragsnummer unter "Tickets hinzufügen" in die App laden.
+Sie können das Ticket im Nachhinein auch unter Angabe der Auftragsnummer unter "Tickets hinzufügen" in die App laden:
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Gehen Sie in den Bereich "Reisen".
+3. Klicken Sie oben rechts auf das Plus-Symbol und folgen Sie den weiteren Schritten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mein-pdf-ticket-auch-auf-dem-handy-im-zug-vorzeigen)
 
@@ -3782,7 +3783,7 @@ Sie können sich den Fußweg vom aktuellen Standort zu einer auf der Karte ausge
  Kann ich mir nachträglich BahnBonus Punkte gutschreiben lassen?
 ----------
 
-Nein, es ist nicht möglich, sich BahnBonus Prämien- und Statuspunkte im Nachhinein gutschreiben zu lassen. Achten Sie daher bitte darauf, dass bei jedem Kauf der Sammelwunsch angegeben wird oder automatisches Sammeln aktiviert ist.
+Nein, eine nachträgliche Gutschrift von BahnBonus Prämien- und Statuspunkten ist nicht möglich. Deshalb bei jedem Kauf den Sammelwunsch angeben oder das automatische Sammeln aktivieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-nachtraeglich-bahnbonus-punkte-gutschreiben-lassen)
 
@@ -3824,9 +3825,16 @@ Nein, Statuspunkte können nicht gegen Prämien eingelöst werden. Sie werden nu
  Kann ich Tickets, die ich in der App DB Navigator kaufe, auch auf der Website bahn.de abrufen?
 ----------
 
-Ja. Ihre gebuchten Tickets werden automatisch in Ihrem DB Kundenkonto auf bahn.de angezeigt, wenn Sie bei der Buchung in der App DB Navigator mit Ihrem DB Kundenkonto eingeloggt waren.
+Ja. Ihre gebuchten Tickets werden automatisch in Ihrem DB Kundenkonto auf bahn.de unter "Meine Reisen" angezeigt, wenn Sie bei der Buchung in der App DB Navigator mit Ihrem DB Kundenkonto eingeloggt waren.
 
 Wenn Sie Tickets ohne Login gebucht haben, können Sie diese manuell über die Auftragssuche durch die Eingabe der Auftragsnummer und des Nachnamens der reisenden Person zu Ihrem DB Kundenkonto hinzufügen.
+
+So funktioniert's:
+
+1. Loggen Sie sich auf bahn.de ein.
+2. Wählen Sie in der oberen Hauptnavigation den Bereich "Meine Reisen" aus.
+3. Klicken Sie unterhalb der Hauptnavigation rechts oben auf "Auftrag suchen"
+4. Geben Sie die Auftragsnummer und den Nachnamen der reisenden Person ein.
 
 * [Zur Auftragssuche](https://www.bahn.de/meine-reisen)
 
@@ -3973,7 +3981,7 @@ Die E-Mail zur Übertragung wird an die E-Mail-Adresse der reisenden Person gese
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/keine-mail-zur-uebertragung)
 
- Was kann ich tun, wenn ich den Code zur 2-Faktor-Authentifizierung nicht generieren oder empfangen kann?
+ Was kann ich tun, wenn ich den Code zur 2-Faktor-Authentifizierung für das DB Kundenkonto nicht generieren oder empfangen kann?
 ----------
 
 Falls Sie Ersatzcodes für die 2-Faktor-Authentifizierung generiert haben, können Sie beim Login stattdessen einen Ersatzcode verwenden. Jeder Ersatzcode ist nur einmal gültig und muss sicher aufbewahrt werden.
@@ -4340,9 +4348,9 @@ Achtung: Mehrfahrtenkarten sind (wie ein Einzelticket) immer ab sofort gültig.
 
 Wenn Ihr Gerät nicht mehr sicher ist, **entfernen Sie es aus der Geräteliste**.
 
-1. Melden Sie sich dazu in Ihrem DB Kundenkonto an
-2. Rufen Sie den Account-Manager unter “Login & Sicherheit“ auf.
-3. Wählen Sie den Menüpunkt “2-Faktor-Authentifizierung“.
+1. Melden Sie sich dazu in Ihrem DB Kundenkonto an.
+2. Rufen Sie in Ihrem Profil den Account-Manager unter "Login & Sicherheit" auf.
+3. Wählen Sie den Menüpunkt "2-Faktor-Authentifizierung".
 4. Deaktivieren Sie das entsprechende Gerät aus der Liste der vertrauenswürdigen Geräte.
 
 Ein Gerät ist **nicht mehr sicher,** wenn es **verloren** gegangen ist, **gestohlen** wurde oder aus anderen Gründen (z.B. Verdacht auf Malware) unsicher wurde.
@@ -4422,7 +4430,7 @@ Nein. Mit Apple Pay können Sie bei uns nur bezahlen, wenn Sie eine Debit- oder 
 Die App DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
 
 * Android ab Version Android 8
-* iOS ab Version iOS 15
+* iOS ab Version iOS 16
 
 Die einwandfreie Nutzung des DB Navigators können wir nur auf offiziell unterstützten Android- und iOS-Versionen sicherstellen. Auf veränderten Betriebssystemen können Einschränkungen oder Fehler auftreten.
 
@@ -4555,7 +4563,7 @@ Nein, wenn Sie die 2-Faktor-Authentifizierung in Ihrem DB Kundenkonto aktiviert 
 **So speichern Sie ein vertrauenswürdiges Gerät:**
 Melden Sie sich mit dem 2. Faktor an und wählen Sie dabei die Option, die erneute Abfrage auf diesem Gerät für einen bestimmten Zeitraum auszusetzen. Damit wird das Gerät für diesen Zeitraum als vertrauenswürdig gespeichert. Anschließend wird der 2. Faktor erneut abgefragt.
 
-Folgende Geräte sind nicht vertrauenswürdig und sollten immer mit einer Abfrage des 2.-Faktors genutzt werden:
+Folgende Geräte sind nicht vertrauenswürdig und sollten immer mit einer Abfrage des zweiten Faktors genutzt werden:
 
 * öffentliche Geräte, wie z. B. Computer in Bibliotheken, Hotels oder Internetcafés
 * Geräte, die von mehreren Personen genutzt werden
@@ -4566,7 +4574,7 @@ Folgende Geräte sind nicht vertrauenswürdig und sollten immer mit einer Abfrag
  Muss ich mein DB Kundenkonto zwingend mit einem zweiten Authentifizierungsfaktor schützen?
 ----------
 
-Die 2-Faktor-Authentifizierung ist optional. Sie aktivieren diese Funktion nur, wenn Sie das möchten.
+Nein. Die 2-Faktor-Authentifizierung ist optional. Sie aktivieren diese Funktion nur, wenn Sie das möchten.
 
 Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre DB Kundenkonto-Daten zu gewährleisten.
 
@@ -4655,7 +4663,7 @@ Um im DB Navigator nur einen Sitzplatz (ohne Ticket) zu buchen, öffnen Sie den 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/navigator-zusaetzliche-sitzplatzreservierung-ohne-ticket)
 
- Ich habe mich neu registriert. Wie kann ich meine E-Mail-Adresse bestätigen bzw. verifizieren?
+ Ich habe mich neu für ein DB Kundenkonto registriert. Wie kann ich meine E-Mail-Adresse bestätigen bzw. verifizieren?
 ----------
 
 1. Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort an.
@@ -4840,7 +4848,7 @@ Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
  Wie viele Prämienpunkte bekomme ich in der Bordgastronomie?
 ----------
 
-Sie sammeln BahnBonus Prämienpunkte auf den Kauf von allen Speisen und Getränken. Es gibt keinen Mindestwert. 1 Euro entspricht einem BahnBonus Prämienpunkt. Nachkommastellen werden auf den nächsten vollen Euro aufgerundet. Etwaige Gutscheine werden vor dem Sammeln abgezogen; Sie sammeln nur auf den tatsächlichen Zahlbetrag.
+Für Speisen und Getränke in der Bordgastronomie gibt es 1 BahnBonus Prämienpunkt pro 1 Euro Umsatz. Einen Mindestwert gibt es nicht, Nachkommastellen werden auf den nächsten vollen Euro aufgerundet. Gutscheine werden vorher abgezogen. Für die Punkteberechnung zählt der tatsächlich gezahlte Betrag.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-bordgastronomie)
 
@@ -4863,7 +4871,7 @@ Zahlen Sie in der Bordgastronomie mit einem Gutschein, bekommen Sie nur Punkte a
  Welche Punkte kann ich in der Bordgastronomie sammeln?
 ----------
 
-Seit September 2024 können Sie beim Kauf von Speisen und Getränken in unseren Zügen mit Bordgastronomie BahnBonus Prämienpunkte sammeln. Statuspunkte können in der Bordgastronomie nicht gesammelt werden.
+Beim Kauf von Speisen und Getränken in Zügen mit Bordgastronomie können BahnBonus Prämienpunkte gesammelt werden. Statuspunkte können in der Bordgastronomie nicht gesammelt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-bordgastro)
 
@@ -4898,9 +4906,9 @@ Ihre BahnCard Nummer und BahnBonus Nummer sind in einem DB Kundenkonto verknüpf
  Wie funktioniert der BahnBonus Sammelprozess im Bordrestaurant?
 ----------
 
-Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/buchung/kundenkonto/bahnbonus) sind und die BahnBonus App heruntergeladen haben.
+Für das Sammeln von Prämienpunkten sind eine [Anmeldung zu BahnBonus](https://www.bahn.de/buchung/kundenkonto/bahnbonus)und die BahnBonus App erforderlich.
 
-Tippen Sie in der BahnBonus App oben rechts auf das QR-Code Symbol. Lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
+Zum Sammeln einfach in der BahnBonus App oben rechts das QR-Code-Symbol öffnen und den QR-Code beim Einkauf vom Bordpersonal scannen lassen.
 
 * [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
 * [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
@@ -4910,7 +4918,7 @@ Tippen Sie in der BahnBonus App oben rechts auf das QR-Code Symbol. Lassen Sie d
  Wo kann ich sehen, wie viele Punkte ich gesammelt habe?
 ----------
 
-Sie finden eine Übersicht Ihrer gesammelten Punkte in der BahnBonus App oder in Ihrem DB Kundenkonto. Bitte bedenken Sie, dass die Verbuchung einige Minuten in Anspruch nehmen kann.
+Eine Übersicht der gesammelten Punkte ist in der BahnBonus App und im DB Kundenkonto zu finden. Die Verbuchung kann einige Minuten dauern.
 
 * [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
 * [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
@@ -6575,7 +6583,7 @@ Die Fall-ID ist auch im abschließenden Schreiben, das Sie vom Servicecenter Fah
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-die-fall-id-beim-digitalen-fahrgastrechte-antrag-und-wo-finde-diese)
 
- Was ist ein Passkey?
+ Was ist ein Passkey für das DB Kundenkonto?
 ----------
 
 Ein Passkey ist eine moderne und sichere Anmeldemethode. Sie ersetzt das Passwort. Sie melden sich mit Ihrem Gerät, zum Beispiel Smartphone oder Laptop, in Ihrem DB Kundenkonto an. Dafür nutzen Sie biometrische Daten wie Fingerabdruck oder Gesichtserkennung. Alternativ können Sie auch eine PIN verwenden
@@ -6634,7 +6642,7 @@ Das WLAN in der 2.Klasse ist so dimensioniert, dass Sie kostenlos surfen, mailen
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-ist-mit-dem-wlan-angebot-in-der-2-klasse-alles-moeglich)
 
- Was ist der Vorteil von Passkeys?
+ Was ist der Vorteil von Passkeys für das DB Kundenkonto?
 ----------
 
 Mit Passkeys melden Sie sich einfach und sicher an. Sie nutzen Ihren Fingerabdruck, Ihre Gesichtserkennung oder Ihre Geräte-PIN statt eines Passworts. Geht ein Gerät verloren, bleibt Ihr DB Kundenkonto sicher und Sie können den Zugang wiederherstellen. Sie können sich auch weiterhin mit Ihrer E-Mail-Adresse und Ihrem Passwort anmelden.
@@ -6849,8 +6857,10 @@ Sie können Apps und digitale Dienste mit Ihrem Konto verbinden:
 
 So prüfen Sie, welche digitalen Dienste mit Ihrem DB Kundenkonto verbunden sind:
 
-1. Öffnen Sie den Bereich "Persönliche Daten" in Ihrem DB Kundenkonto.
-2. Wählen Sie "Apps und Dienste" oder "Digitale DB Dienste", um die neue Anwendung in der Übersicht zu sehen.
+1. Loggen Sie sich auf bahn.de oder mit der App DB Navigator in Ihr DB Kundenkonto ein.
+2. Im **DB Navigator** wählen Sie den Menüpunkt "Profil" und dann "Persönliche Daten".
+   Auf **bahn.de** klicken Sie rechts oben auf Ihren Profilnamen und wählen "Kundenkonto verwalten". Sie sind nun im Bereich "Persönliche Daten".
+3. Wählen Sie weiter unten "Apps und Dienste" oder "Digitale DB Dienste", um die Anwendungen in der Übersicht zu sehen.
 
 * [Weitere Informationen finden Sie in unseren Datenschutzhinweisen](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
 
@@ -6908,7 +6918,12 @@ Ausnahme: Sogenannte Event-Züge, die meist nur mit einem Extraticket z.B. der E
  Was passiert mit meinem Passkey für das DB Kundenkonto, wenn mein Gerät verloren geht oder gestohlen wird?
 ----------
 
-Wenn Sie Ihre Geräte mit Ihrer Cloud synchronisieren, haben Sie weiterhin Zugriff auf Ihre Passkeys. Sie können verlorene Geräte jederzeit im Account Manager unter "Login & Sicherheit" aus Ihrem DB Kundenkonto entfernen.
+Wenn Sie Ihre Geräte mit Ihrer Cloud synchronisieren, haben Sie weiterhin Zugriff auf Ihre Passkeys. Sie können verlorene Geräte jederzeit im Account Manager unter "Login & Sicherheit" aus Ihrem DB Kundenkonto entfernen:
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Im **DB Navigator** gehen Sie im Menüpunkt "Profil" auf "Login & Sicherheit".
+   Auf **bahn.de** gehen Sie rechts oben auf Ihren Profilnamen und klicken auf "Kundenkonto verwalten". Wählen Sie in der linken Spalte "Login & Sicherheit" und dann den Account Manager aus.
+3. Im Bereich "Alternative Login-Methoden" verwalten Sie Ihre Passkeys.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-tun-wenn-passkey-geraet-verloren-gestohlen)
 
@@ -7290,7 +7305,7 @@ You can redeem DB gift vouchers:
  Wie aktiviere ich die 2-Faktor-Authentifizierung für das DB Kundenkonto?
 ----------
 
-Bitte loggen Sie sich ein und rufen Sie den Account-Manager unter "Login & Sicherheit“ auf.
+Bitte loggen Sie sich ein und rufen Sie in Ihrem Profil den Account-Manager unter "Login & Sicherheit" auf.
 
 Hier können Sie jetzt Ihren Login mit einem zweiten Faktor zu schützen, wenn Sie das möchten. Das heißt, dass Sie zusätzlich zu Ihrem Passwort eine weitere Eingabe machen müssen, um sich als rechtmäßiger Kundenkonto-Inhaber auszuweisen.
 
@@ -7485,7 +7500,7 @@ Gehen Sie zu einem DB Reisezentrum, um den Umtausch oder die Erstattung vorzuneh
 
 1. Sie können Ihr Ticket mit dem Button "Ticket als PDF herunterladen" auf Ihrem Gerät anzeigen und abspeichern.
 2. Sie erhalten Ihr Ticket auch als PDF per E-Mail.
-3. Ihre gebuchten Tickets werden im Reiter "Meine Reisen" angezeigt, wenn Sie in Ihr DB Kundenkonto eingeloggt sind.
+3. Ihre gebuchten Tickets werden im Reiter "Meine Reisen" in der Hauptnavigation angezeigt, wenn Sie in Ihr DB Kundenkonto eingeloggt sind.
 4. Sollte Ihr über bahn.de gebuchtes Ticket nach dem Login im DB Navigator nicht automatisch angezeigt werden, können Sie das Ticket manuell hinzufügen, wie oben beschrieben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-erhalte-ich-mein-online-ticket-nach-der-buchung)
@@ -7740,12 +7755,19 @@ Sie können den Super Sparpreis Senioren ist in der **regulären Verbindungsaus
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-den-super-sparpreis-senioren-buchen)
 
- Wie kann ich meine E-Mail-Adresse im DB Kundenkonto ändern?
+ Wie kann ich meine E-Mail-Adresse oder mein Passwort im DB Kundenkonto ändern?
 ----------
 
-* Sie können Ihre E-Mail-Adresse in Ihrem DB Kundenkonto im Bereich "Login & Sicherheit" aktualisieren.
-* Diese E-Mail-Adresse wird sowohl für den Login als auch für Buchungen verwendet.
-* Wir kontaktieren Sie über diese E-Mail-Adresse und senden alle gebuchten Leistungen, wie zum Beispiel Tickets, an diese Adresse.
+Sie können Ihre E-Mail-Adresse oder Ihr Passwort in Ihrem DB Kundenkonto selbst ändern:
+
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Im **DB Navigator** gehen Sie im Menüpunkt "Profil" auf "Login & Sicherheit".
+   Auf **bahn.de** gehen Sie rechts oben auf Ihren Profilnamen und klicken dann auf "Kundenkonto verwalten". Wählen Sie nun in der linken Spalte "Login & Sicherheit" und dann den Account Manager aus.
+3. Passen Sie nun Ihre E-Mail-Adresse oder Ihr Passwort an.
+
+Die E-Mail-Adresse wird sowohl für den Login als auch für Buchungen verwendet.
+
+Wir kontaktieren Sie über diese E-Mail-Adresse und senden alle gebuchten Leistungen, wie zum Beispiel Tickets, an diese E-Mail-Adresse.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-die-e-mail-adresse-aendern)
 
@@ -7903,6 +7925,13 @@ So können die Streckenfavoriten sortiert werden:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-im-navigator-streckenfavoriten-anlegen-und-sortieren)
 
+ Wie kann ich in der DB Navigator-App die Einstellungen finden?
+----------
+
+Klicken Sie im eingeloggten Bereich der App rechts unten auf "Profil" und scrollen Sie nach unten. Im unteren Bereich finden Sie die Einstellungen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-in-der-db-navigator-app-die-einstellungen-finden)
+
  Wie kann ich mein internationales Ticket buchen?
 ----------
 
@@ -8047,13 +8076,13 @@ Um Ihr DB Kundenkonto zu löschen, loggen Sie sich bitte ein und folgen diesen S
 
 **DB Navigator**:
 
-1. Gehen Sie im Menüpunkt "Profil" auf "Login und Sicherheit".
+1. Gehen Sie im Menüpunkt "Profil" auf "Login & Sicherheit".
 2. Wählen Sie die Option "DB Kundenkonto löschen".
 3. Folgen Sie den Anweisungen zur Löschung.
 
 **Bahn.de**:
 
-1. Gehen Sie im Bereich "DB Kundenkonto verwalten" auf "Persönliche Daten".
+1. Gehen Sie auf bahn.de rechts oben auf Ihren Profilnamen und wählen Sie "Kundenkonto verwalten". Sie befinden Sich nun im Bereich "Persönliche Daten".
 2. Wählen Sie im unteren Bereich die Option "Konto löschen".
 3. Folgen Sie den Anweisungen zur Löschung.
 
@@ -8149,7 +8178,7 @@ Sie können Ihre Entschädigung auf folgende Weise beantragen:
  Wie kann ich meine Handy-Nummer für die 2-Faktor-Authentifizierung ins DB Kundenkonto ändern?
 ----------
 
-1. Loggen Sie sich ein und rufen Sie den Account-Manager unter "Login & Sicherheit“ auf.
+1. Loggen Sie sich in Ihr DB Kundenkonto ein und rufen Sie in Ihrem Profil den Account-Manager unter "Login & Sicherheit“ auf.
 2. Unter "2-Faktor-Authentifizierung" können Sie die Mobilfunknummer ändern, die Sie für die 2-Faktor-Authentifizierung mittels SMS-Tan-Verfahren hinterlegt haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-mobilnummer-fuer-die-2-faktor-authentifizierung-aendern)
@@ -8166,15 +8195,6 @@ Sie können eine Reise über das "Teilen"-Symbol oben rechts in den Reisedetails
 In der Verbindungsübersicht sowie in Ihrem DB Kundenkonto unter "Meine Reisen" befinden sich hinter jeder Verbindung 3 Punkte, über die Sie die Funktion "Im Kalender speichern" auswählen können.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-reise-im-kalender-speichern)
-
- Wie kann ich meine Zugangsdaten wie E-Mail-Adresse und Passwort für mein DB Kundenkonto ändern?
-----------
-
-Loggen Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort in Ihrem DB Kundenkonto ein.
-
-Sie können auf bahn.de unter "Kundenkonto verwalten" oder im DB Navigator im Bereich "Profil" Ihre E-Mail-Adresse oder Ihr Passwort im Bereich "[Login & Sicherheit](https://accounts.bahn.de/auth/realms/db/account?kc_locale=de&client_id=kf_web&cancel_uri=https%3A%2F%2Fwww.bahn.de%2Fbuchung%2Fkundenkonto%2Floginundsicherheit)" ganz einfach ändern.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meinen-benutzernamen-aendern)
 
  Wie kann ich mich als BahnBonus Teilnehmer:in ausweisen?
 ----------
@@ -8451,6 +8471,13 @@ Sie sind eingeloggt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-mit-passkey-an)
 
+ Wie navigiert man in der DB Navigator-App zu "Meine Reise"?
+----------
+
+Wenn Sie auf "Reiseplan" bei einem gebuchten Ticket klicken, haben Sie anschließend die Möglichkeit auf die 3 Punkte neben dem roten Button Live Auskunft zu klicken. Dort können Sie dann die Fahrt zu "Meine Reise" hinzufügen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-navigiert-man-in-der-db-navigator-app-zu-meine-reise)
+
  Wie füge ich mein DB Abo im DB Navigator hinzu?
 ----------
 
@@ -8489,24 +8516,33 @@ Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie können alle im St
  Wie kann ich meinen Passkey im DB Kundenkonto löschen oder zurücksetzen?
 ----------
 
-Sie können Passkeys in Ihrem DB Kundenkonto im Account Manager unter "Login & Sicherheit" über den Menüpunkt "Alternative Login-Methoden" für jedes Gerät verwalten und löschen.
+1. Loggen Sie sich in Ihr DB Kundenkonto ein.
+2. Im **DB Navigator** gehen Sie im Menüpunkt "Profil" auf "Login & Sicherheit".
+   Auf **bahn.de** gehen Sie rechts oben auf Ihren Profilnamen und klicken auf "Kundenkonto verwalten". Wählen Sie in der linken Spalte "Login & Sicherheit" und dann den Account Manager aus.
+3. Über den Menüpunkt "Alternative Login-Methoden" können Sie den Passkey für jedes Gerät verwalten und löschen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-passskey-loeschen-zuruecksetzen)
 
  Wie richte ich die Benachrichtigungen zur Reise für meine Pendelstrecke ein?
 ----------
 
-Loggen Sie sich in Ihrem DB Kundenkonto ein. Suchen Sie anschließend nach der Verbindung, die Sie regelmäßig nutzen möchten. Klicken Sie dann in den Verbindungsdetails auf die 3 Punkte oben rechts und anschließend auf "Wiederholende Reise einstellen". Richten Sie ein, welche Benachrichtigungen Sie erhalten möchten und an welchen Tagen diese zugestellt werden sollen. Außerdem können Sie Ihrer Verbindung einen selbst gewählten Namen geben (z. B. "Zur Arbeit", "Zur Familie").
+1. Loggen Sie sich in Ihrem DB Kundenkonto ein.
+2. Suchen Sie anschließend nach der Verbindung, die Sie regelmäßig nutzen möchten.
+3. Klicken Sie dann in den Verbindungsdetails auf die 3 Punkte oben rechts und anschließend auf "Wiederholende Reise einstellen".
+4. Richten Sie ein, welche Benachrichtigungen Sie erhalten möchten und an welchen Tagen diese zugestellt werden sollen. Außerdem können Sie Ihrer Verbindung einen selbst gewählten Namen geben (z. B. "Zur Arbeit", "Zur Familie").
+5. Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "Wiederholende Reisen". Hier können Sie die Benachrichtigungen auch pausieren, wenn Sie vorübergehend keine Benachrichtigungen erhalten möchten.
 
-Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "Wiederholende Reisen". Hier können Sie die Benachrichtigungen auch pausieren, wenn Sie vorrübergehend keine Benachrichtigungen erhalten möchten. Wenn Sie auf eine alternative Verbindung ausweichen, pausiert die bereits eingerichtete "wiederholende Reise" für diesen Tag.
+Wenn Sie auf eine alternative Verbindung ausweichen, pausiert die bereits eingerichtete "wiederholende Reise" für diesen Tag.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-richte-ich-die-benachrichtigungen-zur-reise-fuer-meine-pendelstrecke-ein)
 
  Wie richte ich einen Passkey für das DB Kundenkonto ein?
 ----------
 
-* Melden Sie sich in Ihrem DB Kundenkonto an.
-* Sie können im Account Manager unter "Login & Sicherheit" über den Menüpunkt "Alternative Login-Methoden" Passkey einrichten
+1. Melden Sie sich in Ihrem DB Kundenkonto an.
+2. Im **DB Navigator** gehen Sie im Menüpunkt "Profil" auf "Login & Sicherheit".
+   Auf **bahn.de** gehen Sie rechts oben auf Ihren Profilnamen und klicken auf "Kundenkonto verwalten". Wählen Sie der linken Spalte "Login & Sicherheit" und dann den Account Manager aus.
+3. Sie können über den Menüpunkt "Alternative Login-Methoden" den Passkey einrichten.
 
 Ihr Gerät führt Sie durch die weiteren Schritte zur Einrichtung.
 
@@ -8930,7 +8966,7 @@ Auf Fahrkarten aus dem Automaten oder im Reisebüro oder per Telefon gekauft, fi
 Auf **bahn.de**:
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Klicken Sie auf den Reiter "Meine Reisen".
+2. Klicken Sie in der oberen Hauptnavigation auf den Reiter "Meine Reisen".
 3. Dort finden Sie Ihre Tickets unter "Nächste Reisen" und "Vergangene Reisen".
 
 Falls Ihre Tickets dort nicht erscheinen oder Sie sie nicht über Ihr DB Kundenkonto gebucht haben:
@@ -9008,12 +9044,15 @@ Hier können Sie einen Bahnhof auswählen und unter "Beratung und Unterstützung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-kann-ich-den-sparpreis-europa-ukraine-kaufen)
 
- Wo kann ich die Benachrichtigungen zur Reise aktivieren?
+ Wo kann ich die Benachrichtigungen zur Reise im DB Kundenkonto aktivieren?
 ----------
 
 Um rechtzeitig zu Änderungen im Fahrplan informiert zu werden und Erinnerungen an Ein- und Umstiege zu erhalten, aktivieren Sie ganz einfach die Benachrichtigungen zur Reise. Die Informationen erhalten Sie dann in Form von Push-Benachrichtigungen auf Ihrem Smartphone.
 
-Sie können die Benachrichtigungen zur Reise in der App DB Navigator entweder bei der Ticketbuchung oder über die Funktionen "Reise merken" und "Wiederholende Reise einstellen" aktivieren.
+Sie können die Benachrichtigungen zur Reise in der App DB Navigator aktivieren:
+
+* bei Ticketbuchung
+* über die Funktionen "Reise merken" oder "Wiederholende Reise einstellen" (rechts oben bei den 3 Punkten in den Verbindungsdetails)
 
 * [Anleitung zur Aktivierung von Push-Nachrichten](https://www.bahn.de/service/fahrplaene/digitale-reisebegleitung/verspaetungsalarm-push)
 
@@ -9296,7 +9335,7 @@ Diese Regelung gilt nicht bei stark ermäßigten Fahrkarten (z. B. Schönes-Woch
  In welchen Fällen ist die Zugbindung aufgehoben und was bedeutet das?
 ----------
 
-Bei Tickets mit Zugbindung (Sparpreisen) ist diese **Zugbindung** in **folgenden Fällen aufgehoben**:
+Bei Tickets mit Zugbindung (Sparpreisen) ist die **Zugbindung** in **folgenden Fällen aufgehoben**:
 
 * Bei **erwartbarer Verspätung am Zielort** von:
   mindestens 20 Minuten bei nationalen Reisen

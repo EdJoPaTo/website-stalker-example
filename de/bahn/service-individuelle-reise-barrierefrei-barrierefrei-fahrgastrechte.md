@@ -90,7 +90,7 @@ Als Inhaberin oder Inhaber eines Schwerbehindertenausweises mit Beiblatt und Wer
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-erstattung-nutzung-andere-zuege)
 
-###  Wie werde ich bei bei Zugverspätungen entschädigt, wenn ich einen Schwerbehindertenausweis besitze?  ###
+###  Wie werde ich bei bei Zugverspätungen entschädigt?  ###
 
 Wenn Sie mit Ihrem Schwerbehindertenausweis mit Beiblatt und Wertmarke kostenfrei Zug fahren dürfen, können wir Ihnen für diese kostenfrei befahrenen Strecken leider keine Entschädigung anbieten. Der Grund: Es wurde ja auch kein Fahrpreis gezahlt.
 

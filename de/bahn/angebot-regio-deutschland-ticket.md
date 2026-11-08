@@ -28,7 +28,7 @@ Wenn Sie ein Deutschland-Ticket haben, sparen Sie auf ausgewählten ICE/IC-Strec
 Häufig gestellte Fragen
 ----------
 
-###  Ich habe ein Deutschlandsemesterticket. Muss ich etwas beachten?  ###
+###  Muss ich mit meinem Deutschlandsemesterticket etwas beachten?  ###
 
 Der Preis des Deutschlandsemestertickets wird durch die Preisbildung des Deutschland-Tickets beeinflusst. **Die Preismaßnahme des Deutschland-Tickets zum 1. Januar 2027 wirkt sich im Wintersemester 2026/2027 und im Sommersemester 2027 noch nicht auf Ihr Semesterticket aus.** Daher ist Ihre Zustimmung nicht erforderlich.
 
@@ -74,7 +74,7 @@ Das Deutschland-Ticket kostet bis zum 31. Dezember 2026 noch 63 Euro pro Monat.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
-###  Was passiert, wenn ich der Preiserhöhung des Deutschland-Tickets nicht zustimme?  ###
+###  Was passiert mit meinem Deutschland-Ticket, wenn ich der Preisänderung und der ergänzenden Tarifbedingungen nicht zustimme oder ich mich nicht fristgerecht bis zum 30. November 2026 zurückmelde?  ###
 
 Sollten Sie der Preiserhöhung und den ergänzenden Tarifbedingungen nicht zustimmen oder sich nicht fristgerecht zum 30. November 2026 zurückmelden, müssen wir Ihr Deutschland-Ticket Abonnement mit Wirkung zum 31. Dezember 2026 leider kündigen.
 Sie müssen nichts weiter tun, Ihr Deutschland-Ticket Abonnement endet zum Ende des Jahres 2026 und es entstehen Ihnen keine weiteren Kosten. Bitte beachten Sie, dass Sie ab dem 1. Januar 2027 Ihr Deutschland- Ticket nicht mehr nutzen können.
@@ -126,7 +126,7 @@ Die Deutsche Bahn informiert Sie transparent darüber, dass Bund und Länder den
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zustimmung-warum)
 
-###  Wie kann ich der Vertragsänderung zum Deutschland-Ticket zustimmen?  ###
+###  Wie kann ich der Vertragsänderung zustimmen?  ###
 
 Als bestellende Person (Vertragspartner oder Vertragspartnerin) finden Sie im Aboportal beim jeweiligen Deutschland-Ticket die Funktion **"Vertragsänderung zustimmen"**. Mit einem Klick können Sie der Vertragsänderung zustimmen oder diese ablehnen.
 
