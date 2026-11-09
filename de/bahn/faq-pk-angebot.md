@@ -1394,11 +1394,11 @@ Im Aboportal können Sie nur erfolgte Zahlungen zu Ihrem Abo sehen.​
  Wie beende ich das Teilen meiner persönlichen Daten mit Apps und Diensten im DB Kundenkonto?
 ----------
 
-1. Melden Sie sich in Ihrem DB Kundenkonto an.
-2. Im **DB Navigator** gehen Sie im Menüpunkt "Profil" auf "Persönliche Daten".
-   Auf **bahn.de** klicken Sie rechts oben auf Ihren Profilnamen und gehen dann auf "Kundenkonto verwalten". Sie sind nun im Bereich "Persönliche Daten".
-3. Wählen Sie weiter unten "Apps und Dienste verwalten" oder oder "Digitale DB Dienste".
-4. Wählen Sie den betreffenden Dienst aus und folgen Sie den Schritten zur Beendigung der Datenfreigabe.
+Melden Sie sich in Ihrem DB Kundenkonto an.
+
+1. Gehen Sie zu "Persönliche Daten".
+2. Wählen Sie "Apps und Dienste verwalten".
+3. Wählen Sie den betreffenden Dienst aus und folgen Sie den Schritten zur Beendigung der Datenfreigabe.
 
 Stellen Sie sicher, dass keine laufenden Verträge das Löschen verhindern.
 
@@ -9034,7 +9034,7 @@ Bei anderen Hinweisen zur Kontosperrung oder zu offenen Forderungen folgen Sie b
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kundenkonto-gesperrt-db-benefits)
 
- Wie lösche ich DB Benefits in meinem DB Kundenkonto?
+ Wie lösche ich mein DB Kundenkonto?
 ----------
 
 Im [DB Kundenkonto](https://accounts.bahn.de/auth/realms/db/protocol/openid-connect/auth?redirect_uri=https%3A%2F%2Fwww.bahn.de%2Fpost-login-redirect&client_id=kf_web&response_type=code&state=3YE8cv0fzy&scope=openid%20vendo&corid=57e99384-d77b-4a86-b532-c68395b8a449_4439ac24-7832-488d-ab20-f19af08e5b72&response_mode=fragment&kc_locale=de&showRegisterWithBahnCard=true&code_challenge=sYr4yBNLoLTfqX_d52s4MxBkqfJjiBFX-UPxeGRxWos&code_challenge_method=S256) können Sie den Dienst unter "Digitale DB Dienste" entfernen, dann wird eine Kündigung angestoßen. Bitte beachten Sie, dass sich dies auf die Nutzung einzelner digitaler DB-Angebote auswirken kann.
@@ -17983,7 +17983,7 @@ Sie können die Rechnung unmittelbar nach dem Kauf oder der automatischen Verlä
 2. Klicken Sie auf den Menüpunkt "BahnCard".
 3. Unter "Optionen" der jeweiligen BahnCard finden Sie den Punkt "Details und Rechnungen"
 
-[Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahncard)
+[Zum Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahncard)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-online-eine-rechnung-fuer-meine-bahncard-anfordern)
 
@@ -18670,7 +18670,7 @@ Im personenbedienten Verkauf 2 Euro mehr
  Wie viel kostet das Gäubodenbahn-Ticket Bayern?
 ----------
 
-Das Ticket kostet für 1 Person **12,50 Euro** und gilt für beliebig viele Fahrten auf der Strecke Bogen - Straubing - Neufahrn in Niederbayern.
+Das Ticket kostet für 1 Person **11,50 Euro** und gilt für beliebig viele Fahrten auf der Strecke Bogen - Straubing - Neufahrn in Niederbayern.
 
 Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gültig. An unseren DB Verkaufsstellen erhalten Sie alle Tickets mit persönlicher Beratung für einen Aufschlag von 2 Euro
 

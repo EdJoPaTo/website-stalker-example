@@ -8,7 +8,11 @@ Bestseller
 
 [UGREEN Nexode X USB-C Ladegerät (100W, 3-Port , GaN)](https://de.ugreen.com/products/35038)
 
+ BOGO50
+
 [UGREEN Uno Ladegerät 65W](https://de.ugreen.com/products/uno-65w-ladegeraet-schwarz)
+
+ BOGO50
 
 [UGREEN Nexode Schnellladegerät (35W, 2-Port, GaN)](https://de.ugreen.com/products/15539)
 

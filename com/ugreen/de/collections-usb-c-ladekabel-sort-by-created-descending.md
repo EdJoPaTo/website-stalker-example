@@ -2,7 +2,7 @@ NEU
 
 [UGREEN Set-Angebot: 160W Ladegerät + 240W USB-C Kabel](https://de.ugreen.com/products/ugreen-set-angebot-160w-ladegerat-240w-usb-c-kabel)
 
- NEU
+ BOGO50
 
 [UGREEN Nexode Smart-Display-USB-C-Kabel (240 W, PD 3.1, 1 m / 2 m)](https://de.ugreen.com/products/nexode-smart-display-usb-c-kabel-240w-pd-3-1)
 
@@ -16,15 +16,23 @@ NEU
 
 [UGREEN USB-C Kabel (240W, Digital Display, E-Marker Chip)](https://de.ugreen.com/products/usb-c-kabel-240w-digital-display-e-marker-chip)
 
+ BOGO50
+
 [UGREEN USB-C Ladekabel (240W PD3.1, 480Mbps, E-Marker)](https://de.ugreen.com/products/usb-c-ladekabel-240w-pd3-1-480mbps-e-marker)
 
 [UGREEN Nexode ausziehbares USB-C-Kabel (100W)](https://de.ugreen.com/products/nexode-100w-ausziehbares-usb-c-kabel)
 
 [UGREEN USB-C Kabel ( 100W ) mit E-Marker](https://de.ugreen.com/products/100w-usb-c-kabel-mit-e-marker)
 
+ BOGO50
+
 [UGREEN USB4 Kabel (1M, 80Gbps, 240W, 16K)](https://de.ugreen.com/products/usb4-kabel-80gbps-16k-240w)
 
+ BOGO50
+
 [UGREEN Uno USB-C auf USB-C Kabel (100W)](https://de.ugreen.com/products/ugreen-uno-usb-c-kabel-100w)
+
+ BOGO50
 
 [UGREEN 100W PD 3.0 USB-C auf USB-C Schnellladekabel](https://de.ugreen.com/products/45064)
 

@@ -86,11 +86,6 @@ forpeople skincare hat die Mission, die biologische Vielfalt vor deiner Haustür
 
 Das französische Unternehmen Murena arbeitet ständig daran, Datenlöcher in deinem Android Betriebssystem für dich zu schließen. Also haben wir Gründer und Linux-Pionier Gaël Duval ins WEtell Spotlight gesetzt.
 
-[Waschbär](https://www.wetell.de/community/spotlight/waschbaer/)
-----------
-
-Unnachgiebig grün und sozial eingestellt. Der Freiburger Versandhandel Waschbär hat vor 35 Jahren eine nachhaltige Putzmittelkiste vertrieben und vertreibt heute ein Sortiment mit über 10.000 Artikeln.
-
 [WeDoSolar](https://www.wetell.de/community/spotlight/wedosolar/)
 ----------
 
