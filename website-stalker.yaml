@@ -675,6 +675,9 @@ sites:
       - css_remove: style, script, img
       - css_remove: "#main-navbar, #toc, footer, #footer"
       - css_flatten: .admonitionblock table, table:has(.listingblock)
+      - regex_replace:
+          pattern: </a>\s+,\s+<a
+          replace: </a><br><a
       - html_markdownify
 
   - url: https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html
