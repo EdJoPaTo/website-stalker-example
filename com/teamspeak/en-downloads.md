@@ -170,35 +170,35 @@ TeamSpeak 3 Server
 Windows
 ----------
 
-Server 64-bit • 3.13.8
+Server 64-bit • 3.13.9
 
  Download
 
 macOS
 ----------
 
-Server 64-bit • 3.13.8
+Server 64-bit • 3.13.9
 
  Download
 
 macOS (Apple Silicon)
 ----------
 
-Server 64-bit • 3.13.8
+Server 64-bit • 3.13.9
 
  Download
 
 macOS (Intel)
 ----------
 
-Server 64-bit • 3.13.8
+Server 64-bit • 3.13.9
 
  Download
 
 Linux
 ----------
 
-Server 64-bit • 3.13.8
+Server 64-bit • 3.13.9
 
  Download
 
@@ -216,37 +216,37 @@ Official Docker image for containerized deployment
 
 Windows
 
-Server 64-bit • 3.13.8
+Server 64-bit • 3.13.9
 
 Download
 
 Windows
 
-Server 32-bit • 3.13.8
+Server 32-bit • 3.13.9
 
 Download
 
 macOS
 
-Server 64-bit • 3.13.8
+Server 64-bit • 3.13.9
 
 Download
 
 Linux
 
-Server 64-bit • 3.13.8
+Server 64-bit • 3.13.9
 
 Download
 
 Linux
 
-Server 32-bit • 3.13.8
+Server 32-bit • 3.13.9
 
 Download
 
 FreeBSD
 
-Server 64-bit • 3.13.8
+Server 64-bit • 3.13.9
 
 Download
 
