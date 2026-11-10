@@ -427,7 +427,7 @@ Backups
 
 mtl. Preis abhängig von deiner Instanz, ab:
 
-1,4256 €, inkl. 19 % MwSt.
+1,3066 €, inkl. 19 % MwSt.
 
 Floating IPs
 

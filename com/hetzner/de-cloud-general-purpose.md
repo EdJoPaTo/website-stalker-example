@@ -48,17 +48,17 @@ Klassische Einsatzbereiche sind ERP- und Warenwirtschaftssysteme, Multi-User-Umg
 
  NVMe
 
- ab  /Monat 51,75 € pro Monat, inkl. 19 % MwSt.  ab /Monat
+ ab  /Monat 44,02 € pro Monat, inkl. 19 % MwSt.  ab /Monat
 
- /Stunde 0,0829 € pro Stunde, inkl. 19 % MwSt.  /Stunde
+ /Stunde 0,0706 € pro Stunde, inkl. 19 % MwSt.  /Stunde
 
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
-[Erstellen](https://console.hetzner.com/create/server?type=ccx13&useIPv4=true&useIPv6=false&usePrivateNet=false&location=nbg1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
+[Erstellen](https://console.hetzner.com/create/server?type=ccx13&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
 Details
 
- eu-central NBG1 HEL1
+ eu-central NBG1
 
  Traffic inklusive
 
@@ -71,6 +71,20 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
  /Monat 51,75 € pro Monat, inkl. 19 % MwSt.  /Monat
+
+ eu-central HEL1
+
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+ /Monat 44,02 € pro Monat, inkl. 19 % MwSt.  /Monat
 
  us-west HIL1
 
@@ -126,17 +140,17 @@ Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. 
 
  NVMe
 
- ab  /Monat 102,92 € pro Monat, inkl. 19 % MwSt.  ab /Monat
+ ab  /Monat 87,45 € pro Monat, inkl. 19 % MwSt.  ab /Monat
 
- /Stunde 0,1649 € pro Stunde, inkl. 19 % MwSt.  /Stunde
+ /Stunde 0,1402 € pro Stunde, inkl. 19 % MwSt.  /Stunde
 
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
-[Erstellen](https://console.hetzner.com/create/server?type=ccx23&useIPv4=true&useIPv6=false&usePrivateNet=false&location=fsn1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
+[Erstellen](https://console.hetzner.com/create/server?type=ccx23&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
 Details
 
- eu-central NBG1 HEL1
+ eu-central NBG1
 
  Traffic inklusive
 
@@ -149,6 +163,20 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
  /Monat 102,92 € pro Monat, inkl. 19 % MwSt.  /Monat
+
+ eu-central HEL1
+
+ Traffic inklusive
+
+ 20 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+ /Monat 87,45 € pro Monat, inkl. 19 % MwSt.  /Monat
 
  us-west HIL1
 
@@ -204,9 +232,9 @@ Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. 
 
  NVMe
 
- ab  /Monat 165,40 € pro Monat, inkl. 19 % MwSt.  ab /Monat
+ ab  /Monat 140,41 € pro Monat, inkl. 19 % MwSt.  ab /Monat
 
- /Stunde 0,2650 € pro Stunde, inkl. 19 % MwSt.  /Stunde
+ /Stunde 0,2250 € pro Stunde, inkl. 19 % MwSt.  /Stunde
 
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
@@ -214,7 +242,7 @@ Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. 
 
 Details
 
- eu-central NBG1 HEL1
+ eu-central NBG1
 
  Traffic inklusive
 
@@ -227,6 +255,20 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
  /Monat 165,40 € pro Monat, inkl. 19 % MwSt.  /Monat
+
+ eu-central HEL1
+
+ Traffic inklusive
+
+ 30 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+ /Monat 140,41 € pro Monat, inkl. 19 % MwSt.  /Monat
 
  us-west HIL1
 
@@ -282,17 +324,17 @@ Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. 
 
  NVMe
 
- ab  /Monat 329,02 € pro Monat, inkl. 19 % MwSt.  ab /Monat
+ ab  /Monat 279,64 € pro Monat, inkl. 19 % MwSt.  ab /Monat
 
- /Stunde 0,5273 € pro Stunde, inkl. 19 % MwSt.  /Stunde
+ /Stunde 0,4482 € pro Stunde, inkl. 19 % MwSt.  /Stunde
 
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
-[Erstellen](https://console.hetzner.com/create/server?type=ccx43&useIPv4=true&useIPv6=false&usePrivateNet=false&location=fsn1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
+[Erstellen](https://console.hetzner.com/create/server?type=ccx43&useIPv4=true&useIPv6=false&usePrivateNet=false&location=hel1)  Produkt aktuell nicht bestellbar. Schau gerne zu einem späteren Zeitpunkt noch einmal vorbei.
 
 Details
 
- eu-central NBG1 HEL1
+ eu-central NBG1
 
  Traffic inklusive
 
@@ -305,6 +347,20 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
  /Monat 329,02 € pro Monat, inkl. 19 % MwSt.  /Monat
+
+ eu-central HEL1
+
+ Traffic inklusive
+
+ 40 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+ /Monat 279,64 € pro Monat, inkl. 19 % MwSt.  /Monat
 
  us-west HIL1
 
@@ -360,9 +416,9 @@ Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. 
 
  NVMe
 
- ab  /Monat 635,45 € pro Monat, inkl. 19 % MwSt.  ab /Monat
+ ab  /Monat 539,65 € pro Monat, inkl. 19 % MwSt.  ab /Monat
 
- /Stunde 1,0184 € pro Stunde, inkl. 19 % MwSt.  /Stunde
+ /Stunde 0,8648 € pro Stunde, inkl. 19 % MwSt.  /Stunde
 
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
@@ -370,7 +426,7 @@ Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. 
 
 Details
 
- eu-central NBG1 HEL1
+ eu-central NBG1
 
  Traffic inklusive
 
@@ -383,6 +439,20 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
  /Monat 635,45 € pro Monat, inkl. 19 % MwSt.  /Monat
+
+ eu-central HEL1
+
+ Traffic inklusive
+
+ 50 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+ /Monat 539,65 € pro Monat, inkl. 19 % MwSt.  /Monat
 
  us-west HIL1
 
@@ -438,9 +508,9 @@ Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. 
 
  NVMe
 
- ab  /Monat 1.016,25 € pro Monat, inkl. 19 % MwSt.  ab /Monat
+ ab  /Monat 863,33 € pro Monat, inkl. 19 % MwSt.  ab /Monat
 
- /Stunde 1,6286 € pro Stunde, inkl. 19 % MwSt.  /Stunde
+ /Stunde 1,3835 € pro Stunde, inkl. 19 % MwSt.  /Stunde
 
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
@@ -448,7 +518,7 @@ Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. 
 
 Details
 
- eu-central NBG1 HEL1
+ eu-central NBG1
 
  Traffic inklusive
 
@@ -461,6 +531,20 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
  /Monat 1.016,25 € pro Monat, inkl. 19 % MwSt.  /Monat
+
+ eu-central HEL1
+
+ Traffic inklusive
+
+ 60 TB
+
+[]()
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
+
+ /Monat 863,33 € pro Monat, inkl. 19 % MwSt.  /Monat
 
  us-west HIL1
 
@@ -615,7 +699,7 @@ Backups
 
 mtl. Preis abhängig von deiner Instanz, ab:
 
-1,4256 €, inkl. 19 % MwSt.
+1,3066 €, inkl. 19 % MwSt.
 
 Floating IPs
 
