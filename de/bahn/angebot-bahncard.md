@@ -29,7 +29,7 @@ ab 62,90 Euro
 
 ### Probe BahnCard 50 ###
 
-**3 Monate testen**: 50 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise.
+**3 Monate testen**: 50 % Rabatt auf den Flexpreis und 25 % Rabatt auf die Sparpreise
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50/probebahncard50)
 
@@ -39,7 +39,7 @@ ab 76,90 Euro
 
 ### BahnCard 50 ###
 
-**50 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreise** des Fernverkehrs.
+**50 % Rabatt** auf den **Flexpreis** und **25 % Rabatt** auf die **Sparpreise** des Fernverkehrs
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard50/bahncard50)
 
@@ -49,7 +49,7 @@ ab 244 Euro
 
 ### Probe BahnCard 100 ###
 
-**3 Monate flexibel deutschlandweit reisen**
+ Reisen Sie **3 Monate ticketlos** durch ganz Deutschland - einmal zahlen und fahren, so oft wie Sie wollen
 
 [Weitere Informationen](https://www.bahn.de/angebot/bahncard/bahncard100/probebahncard100)
 

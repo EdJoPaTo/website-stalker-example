@@ -4598,6 +4598,8 @@ Bitte prüfen Sie Ihren E-Mail-Eingang. Sie haben von uns direkt nach Kauf der B
 
 Bitte rufen Sie diesen auf und folgen Sie den erforderlichen Schritten. Anschließend finden Sie Ihre BahnCard in der App DB Navigator im Menübereich „Reisen" (Meine Reisen) unter „BahnCards, Zeitkarten & Abos".
 
+Wenn Sie Ihre BahnCard vor dem 7. Oktober 2026 gekauft haben, finden Sie die digitale BahnCard im Menübereich „Profil“.
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/digitale-bahncard-navigator)
 
  Wo finde ich Informationen zum Gemeinschaftstarif DING?

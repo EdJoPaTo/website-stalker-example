@@ -211,6 +211,8 @@ Quick select
 
  USB-C  New colors available
 
+USB-C quantity
+
  \+€10
 
 * Choose color
@@ -233,6 +235,8 @@ Quick select
 
 [Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=401&helpable_type=product)
 
+USB-A (2nd Gen) quantity
+
  \+€10
 
 * Choose color
@@ -248,6 +252,8 @@ Quick select
 
 [Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=138&helpable_type=product)
 
+HDMI (3rd Gen) quantity
+
  \+€20
 
 * Choose color
@@ -258,17 +264,23 @@ Quick select
 
 [Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=163&helpable_type=variant)
 
+Ethernet quantity
+
  \+€45
 
  WisdPi 10G Ethernet
 
 [Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=1439&helpable_type=variant)
 
+WisdPi 10G Ethernet quantity
+
  \+€109
 
  DisplayPort (2nd Gen)
 
 [Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=137&helpable_type=product)
+
+DisplayPort (2nd Gen) quantity
 
  \+€20
 
@@ -280,6 +292,8 @@ Quick select
 
 [Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=339&helpable_type=product)
 
+MicroSD (2nd Gen) quantity
+
  \+€20
 
 * Choose color
@@ -289,6 +303,8 @@ Quick select
  SD
 
 [Details](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/help?helpable_id=181&helpable_type=product)
+
+SD quantity
 
  \+€29
 

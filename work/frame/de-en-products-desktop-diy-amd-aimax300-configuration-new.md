@@ -164,49 +164,73 @@ Quick select
 
  Pack of 7 - Black Straight
 
+Pack of 7 - Black Straight quantity
+
  \+€12
 
  Pack of 7 - Black Diagonal
+
+Pack of 7 - Black Diagonal quantity
 
  \+€12
 
  Pack of 7 - Orange Straight
 
+Pack of 7 - Orange Straight quantity
+
  \+€18
 
  Pack of 7 - Orange Diagonal
+
+Pack of 7 - Orange Diagonal quantity
 
  \+€18
 
  Pack of 7 - Lavender Straight
 
+Pack of 7 - Lavender Straight quantity
+
  \+€18
 
  Pack of 7 - Lavender Diagonal
+
+Pack of 7 - Lavender Diagonal quantity
 
  \+€18
 
  Pack of 7 - Green Straight
 
+Pack of 7 - Green Straight quantity
+
  \+€18
 
  Pack of 7 - Green Diagonal
+
+Pack of 7 - Green Diagonal quantity
 
  \+€18
 
  Pack of 7 - Gray Straight
 
+Pack of 7 - Gray Straight quantity
+
  \+€18
 
  Pack of 7 - Gray Diagonal
+
+Pack of 7 - Gray Diagonal quantity
 
  \+€18
 
  Pack of 7 - Red Straight
 
+Pack of 7 - Red Straight quantity
+
  \+€18
 
  Pack of 7 - Red Diagonal
+
+Pack of 7 - Red Diagonal quantity
 
  \+€18
 
@@ -214,37 +238,55 @@ Quick select
 
  Framework
 
+Framework quantity
+
  \+€6
 
  AMD
+
+AMD quantity
 
  \+€6
 
  Tux
 
+Tux quantity
+
  \+€6
 
  Arch Linux
+
+Arch Linux quantity
 
  \+€6
 
  Linux Mint
 
+Linux Mint quantity
+
  \+€6
 
  Happy Earth
+
+Happy Earth quantity
 
  \+€6
 
  Touch Grass
 
+Touch Grass quantity
+
  \+€6
 
  Rainbow Heart
 
+Rainbow Heart quantity
+
  \+€6
 
  Blank
+
+Blank quantity
 
  \+€4
 
@@ -273,6 +315,8 @@ Quick select
 
  USB-C  New colors available
 
+USB-C quantity
+
  \+€10
 
 * Choose color
@@ -294,6 +338,8 @@ Quick select
 
 [Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=401&helpable_type=product)
 
+USB-A (2nd Gen) quantity
+
  \+€10
 
 * Choose color
@@ -308,11 +354,15 @@ Quick select
 
 [Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=1008&helpable_type=variant)
 
+MicroSD (2nd Gen) quantity
+
  \+€20
 
  Ethernet
 
 [Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=163&helpable_type=variant)
+
+Ethernet quantity
 
  \+€45
 
@@ -320,17 +370,23 @@ Quick select
 
 [Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=1439&helpable_type=variant)
 
+WisdPi 10G Ethernet quantity
+
  \+€109
 
  SD
 
 [Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=553&helpable_type=variant)
 
+SD quantity
+
  \+€29
 
  Audio
 
 [Details](https://frame.work/de/en/products/desktop-diy-amd-aimax300/help?helpable_id=374&helpable_type=variant)
+
+Audio quantity
 
  \+€20
 

@@ -216,6 +216,8 @@ Quick select
 
  USB-C  New colors available
 
+USB-C quantity
+
  \+€10
 
 * Choose color
@@ -237,6 +239,8 @@ Quick select
 
 [Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=401&helpable_type=product)
 
+USB-A (2nd Gen) quantity
+
  \+€10
 
 * Choose color
@@ -251,11 +255,15 @@ Quick select
 
 [Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=442&helpable_type=variant)
 
+HDMI (3rd Gen) quantity
+
  \+€20
 
  HDMI (4th Gen) - Translucent
 
 [Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1844&helpable_type=variant)
+
+HDMI (4th Gen) - Translucent quantity
 
  \+€20
 
@@ -263,11 +271,15 @@ Quick select
 
 [Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=163&helpable_type=variant)
 
+Ethernet quantity
+
  \+€45
 
  WisdPi 10G Ethernet
 
 [Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1439&helpable_type=variant)
+
+WisdPi 10G Ethernet quantity
 
  \+€109
 
@@ -275,17 +287,23 @@ Quick select
 
 [Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=441&helpable_type=variant)
 
+DisplayPort (2nd Gen) quantity
+
  \+€20
 
  MicroSD (2nd Gen)
 
 [Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=1008&helpable_type=variant)
 
+MicroSD (2nd Gen) quantity
+
  \+€20
 
  SD
 
 [Details](https://frame.work/de/en/products/laptop12-diy-intel-series3/help?helpable_id=553&helpable_type=variant)
+
+SD quantity
 
  \+€29
 

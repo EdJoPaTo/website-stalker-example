@@ -17,7 +17,7 @@ Leistungsstarke [Root-Server](https://www.netcup.com/de/server/root-server) mit 
 
 SOLD OUT
 
-RS 2000 vGPU 7
+### RS 2000 vGPU 7 ###
 
 * NVIDIA™ H200
 
@@ -33,19 +33,19 @@ RS 2000 vGPU 7
 
 * Standort: Nürnberg, Deutschland
 
- Details \>
+Alle Details ansehen
 
 bereits ab monatlich
 
 121,77 €
 
-(inkl. 19% MwSt.)
+0(inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/gpu/rs-2000-vgpu-7)
+Ausverkauft\>
 
 SOLD OUT
 
-RS 4000 vGPU 14
+### RS 4000 vGPU 14 ###
 
 * NVIDIA™ H200
 
@@ -61,15 +61,17 @@ RS 4000 vGPU 14
 
 * Standort: Nürnberg, Deutschland
 
- Details \>
+Alle Details ansehen
 
 bereits ab monatlich
 
 232,43 €
 
-(inkl. 19% MwSt.)
+0(inkl. 19% MwSt.)
 
-[Jetzt bestellen\>](https://www.netcup.com/de/server/gpu/rs-4000-vgpu-14)
+Ausverkauft\>
+
+Alle Features vergleichen
 
 Hier geht es zu den [vGPU-Server FAQs](https://www.netcup.com/de/server/vgpu#FAQs)
 

@@ -43,7 +43,7 @@ startet ab  max/mo. 7,13 € pro Monat, inkl. 19 % MwSt.
 
  Anwendungen mit mittlerem Traffic
 
-startet ab  max/mo. 7,72 € pro Monat, inkl. 19 % MwSt.
+startet ab  max/mo. 6,53 € pro Monat, inkl. 19 % MwSt.
 
 [Tarif entdecken](https://www.hetzner.com/de/cloud/regular-performance/)
 
@@ -59,7 +59,7 @@ startet ab  max/mo. 7,72 € pro Monat, inkl. 19 % MwSt.
 
  Anwendungen mit hohem Traffic
 
-startet ab  max/mo. 51,75 € pro Monat, inkl. 19 % MwSt.
+startet ab  max/mo. 44,02 € pro Monat, inkl. 19 % MwSt.
 
 [Tarif entdecken](https://www.hetzner.com/de/cloud/general-purpose/)
 
@@ -93,7 +93,7 @@ startet ab  max/mo. 7,13 € pro Monat, inkl. 19 % MwSt.
 
  Anwendungen mit mittlerem Traffic
 
-startet ab  max/mo. 7,72 € pro Monat, inkl. 19 % MwSt.
+startet ab  max/mo. 6,53 € pro Monat, inkl. 19 % MwSt.
 
 [Tarif entdecken](https://www.hetzner.com/de/cloud/regular-performance/)
 
@@ -109,7 +109,7 @@ startet ab  max/mo. 7,72 € pro Monat, inkl. 19 % MwSt.
 
  Anwendungen mit hohem Traffic
 
-startet ab  max/mo. 51,75 € pro Monat, inkl. 19 % MwSt.
+startet ab  max/mo. 44,02 € pro Monat, inkl. 19 % MwSt.
 
 [Tarif entdecken](https://www.hetzner.com/de/cloud/general-purpose/)
 

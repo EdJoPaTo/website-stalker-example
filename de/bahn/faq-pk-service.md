@@ -118,7 +118,7 @@ Alle nicht genannten Modelle können Sie nicht mitnehmen. Dazu zählen auch Fahr
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
 2. Gehen Sie rechts unten auf den Menüpunkt "Profil" und dann in den Bereich "Zahlungsmittel".
-3. Wählen Sie bei im Bereich SEPA-Lastschrift "Neues Bankkonto hinzufügen" aus.
+3. Wählen Sie im Bereich SEPA-Lastschrift "Neues Bankkonto hinzufügen" aus.
 
 Nach Eingabe der Anmeldedaten zur SEPA-Lastschrift sind diese in Ihrem DB Kundenkonto gespeichert.
 Für künftige Lastschriftzahlungen können Sie Ihre Daten aus Ihrem DB Kundenkonto übernehmen.
@@ -285,29 +285,31 @@ Achten Sie darauf:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-fa-ersatzcodes)
 
- Wie kann ich (neue) Ersatzcodes für die 2-Faktor-Authentifizierung ins DB Kundenkonto generieren?
+ Wie kann ich (neue) Ersatzcodes für die 2-Faktor-Authentifizierung für mein DB Kundenkonto generieren?
 ----------
 
-Sie können Ersatzcodes entweder erstmalig oder neu generieren.
+Wenn Sie die 2-Faktor-Authentifizierung für Ihr DB Kundenkonto aktiviert haben, können Sie zusätzlich Ersatzcodes entweder erstmalig oder neu generieren, um sich einzuloggen, wenn Sie keinen Zugriff auf Ihren zweiten Authentifizierungsfaktor haben.
 
 So geht's auf bahn.de:
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Gehen Sie in Ihr Profil, indem Sie rechts oben auf Ihren Profilnamen und dann auf "Kundenkonto verwalten" klicken.
-3. Öffnen Sie im Menüpunkt "Login & Sicherheit" den Account Manager.
-4. Klicken Sie auf "2-Faktor-Authentifizierung" und dann auf "Ersatzcodes aktivieren".
+2. Öffnen Sie Ihr DB Kundenkonto, indem Sie rechts oben auf Ihren Profilnamen und dann auf "Kundenkonto verwalten" klicken.
+3. Klicken Sie auf "Login & Sicherheit" und öffnen Sie den Account Manager.
+4. Klicken Sie auf "2-Faktor-Authentifizierung".
+5. Sie können Ersatzcodes entweder erstmalig oder neu generieren.
 
 So geht's im DB Navigator:
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Öffnen Sie im Menüpunkt "Profil" den Bereich unter "Login & Sicherheit".
-3. Wählen Sie "2-Faktor-Authentifizierung" aus und tippen Sie dann auf "Ersatzcodes aktivieren".
+2. Öffnen Sie im Menübereich "Profil" den Bereich "Login & Sicherheit".
+3. Wählen Sie "2-Faktor-Authentifizierung" aus.
+4. Sie können Ersatzcodes entweder erstmalig oder neu generieren.
 
 Sichern Sie Ihre Ersatzcodes anschließend, indem Sie sie ausdrucken, herunterladen oder kopieren und an einem sicheren Ort aufbewahren.
 
 Aus Sicherheitsgründen sind die generierten Ersatzcodes nach dem Abmelden nicht mehr in Ihrem DB Kundenkonto verfügbar.
 
-Auch wenn Sie Ihre Ersatzcodes verloren haben, können Sie so neue generieren. Ihre alten Ersatzcodes werden dann ungültig, sobald Sie neue generieren.
+Auch wenn Sie Ihre Ersatzcodes verloren haben, können Sie so neue generieren. Ihre alten Ersatzcodes werden ungültig, sobald Sie neue generieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/2-fa-ersatzcodes-generieren)
 
@@ -3791,10 +3793,10 @@ Sie können sich den Fußweg vom aktuellen Standort zu einer auf der Karte ausge
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-im-navigator-meinen-fussweg-auf-der-karte-anzeigen-lassen)
 
- Kann ich mir nachträglich BahnBonus Punkte gutschreiben lassen?
+ Können BahnBonus Punkte nachträglich gutgeschrieben werden?
 ----------
 
-Nein, es ist nicht möglich, sich BahnBonus Prämien- und Statuspunkte im Nachhinein gutschreiben zu lassen. Achten Sie daher bitte darauf, dass bei jedem Kauf der Sammelwunsch angegeben wird oder automatisches Sammeln aktiviert ist.
+Nein, eine nachträgliche Gutschrift von BahnBonus Prämien- und Statuspunkten ist nicht möglich. Deshalb bei jedem Kauf den Sammelwunsch angeben oder das automatische Sammeln aktivieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kann-ich-mir-nachtraeglich-bahnbonus-punkte-gutschreiben-lassen)
 
@@ -4852,7 +4854,7 @@ Ja, Sie erhalten nur Punkte für den getätigten Umsatz.
  Wie viele Prämienpunkte bekomme ich in der Bordgastronomie?
 ----------
 
-Sie sammeln BahnBonus Prämienpunkte auf den Kauf von allen Speisen und Getränken. Es gibt keinen Mindestwert. 1 Euro entspricht einem BahnBonus Prämienpunkt. Nachkommastellen werden auf den nächsten vollen Euro aufgerundet. Etwaige Gutscheine werden vor dem Sammeln abgezogen; Sie sammeln nur auf den tatsächlichen Zahlbetrag.
+Für Speisen und Getränke in der Bordgastronomie gibt es 1 BahnBonus Prämienpunkt pro 1 Euro Umsatz. Einen Mindestwert gibt es nicht, Nachkommastellen werden auf den nächsten vollen Euro aufgerundet. Gutscheine werden vorher abgezogen. Für die Punkteberechnung zählt der tatsächlich gezahlte Betrag.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-bordgastronomie)
 
@@ -4875,7 +4877,7 @@ Zahlen Sie in der Bordgastronomie mit einem Gutschein, bekommen Sie nur Punkte a
  Welche Punkte kann ich in der Bordgastronomie sammeln?
 ----------
 
-Seit September 2024 können Sie beim Kauf von Speisen und Getränken in unseren Zügen mit Bordgastronomie BahnBonus Prämienpunkte sammeln. Statuspunkte können in der Bordgastronomie nicht gesammelt werden.
+Beim Kauf von Speisen und Getränken in Zügen mit Bordgastronomie können BahnBonus Prämienpunkte gesammelt werden. Statuspunkte können in der Bordgastronomie nicht gesammelt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/punkte-sammeln-bordgastro)
 
@@ -4910,9 +4912,9 @@ Ihre BahnCard Nummer und BahnBonus Nummer sind in einem DB Kundenkonto verknüpf
  Wie funktioniert der BahnBonus Sammelprozess im Bordrestaurant?
 ----------
 
-Voraussetzung ist, dass Sie zu [BahnBonus angemeldet](https://www.bahn.de/buchung/kundenkonto/bahnbonus) sind und die BahnBonus App heruntergeladen haben.
+Für das Sammeln von Prämienpunkten sind eine [Anmeldung zu BahnBonus](https://www.bahn.de/buchung/kundenkonto/bahnbonus)und die BahnBonus App erforderlich.
 
-Tippen Sie in der BahnBonus App oben rechts auf das QR-Code Symbol. Lassen Sie den QR-Code während Ihres Einkaufs vom Bordpersonal abscannen.
+Zum Sammeln einfach in der BahnBonus App oben rechts das QR-Code-Symbol öffnen und den QR-Code beim Einkauf vom Bordpersonal scannen lassen.
 
 * [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
 * [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
@@ -4922,7 +4924,7 @@ Tippen Sie in der BahnBonus App oben rechts auf das QR-Code Symbol. Lassen Sie d
  Wo kann ich sehen, wie viele Punkte ich gesammelt habe?
 ----------
 
-Sie finden eine Übersicht Ihrer gesammelten Punkte in der BahnBonus App oder in Ihrem DB Kundenkonto. Bitte bedenken Sie, dass die Verbuchung einige Minuten in Anspruch nehmen kann.
+Eine Übersicht der gesammelten Punkte ist in der BahnBonus App und im DB Kundenkonto zu finden. Die Verbuchung kann einige Minuten dauern.
 
 * [Zur BahnBonus App](https://bahnbonus.bahncard.de/bahnbonusapp)
 * [Zum DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/bahnbonus)
@@ -5821,7 +5823,7 @@ Falls ein Ticket in der DB Navigator App nicht angezeigt wird oder Sie es ohne D
 
 **Auf Randzeiten ausweichen**
 
-Für Reisende, die nicht auf bestimmte Uhrzeiten festgelegt sind, ist es sinnvoll, Zugverbindungen in den frühen Morgen- oder den späten Abendstunden zu wählen. Dann sind die Züge meist weniger ausgelastet und in der Regel auch günstiger. Wer darüber hinaus nicht an einen bestimmten Reisetag gebunden ist, kann auf Randzeiten ausweichen und z.B. nicht am Tag direkt vor Beginn oder Ende des Wochenendes, der Ferien oder vor Feiertagen fahren.
+Für Reisende, die nicht auf bestimmte Uhrzeiten festgelegt sind, ist es sinnvoll, Zugverbindungen in den frühen Morgen- oder den späten Abendstunden zu wählen. Dann sind die Züge meist weniger ausgelastet und in der Regel auch günstiger. Wer darüber hinaus nicht an einen bestimmten Reisetag gebunden ist, kann auf weniger nachgefragte Tage ausweichen und z.B. nicht am Tag direkt vor Beginn oder Ende des Wochenendes, der Ferien oder vor Feiertagen fahren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tipps-guenstige-preise-bestpreissuche-randzeiten)
 
@@ -6337,7 +6339,7 @@ Falls das Serviceangebot der Bestellung nicht angeboten werden kann, können Sie
  Warum ist die DB Bestpreissuche nicht verfügbar, wenn ich Verbindungen für heute suche?
 ----------
 
-Bei einer Suche am aktuellen Reisetag kann die DB Bestpreissuche nicht aktiviert werden. Der Grund: Für den aktuellen Tag stehen meist weniger Angebote zur Verfügung, die sich preislich auch weniger voneinander unterscheiden. Die DB Bestpreissuche vergleicht jedoch alle Preise eines ganzen Tages miteinander – das ist bei einer tagesaktuellen Suche nicht möglich, da der Tag schon angebrochen ist. Deshalb wird die DB Bestpreissuche nur für zukünftige Reisetage angeboten.
+Bei einer Suche am aktuellen Reisetag kann die DB Bestpreissuche nicht aktiviert werden. Der Grund: Für den aktuellen Tag stehen meist weniger Angebote zur Verfügung, die sich preislich auch weniger voneinander unterscheiden. Die DB Bestpreissuche vergleicht jedoch alle unsere Preise eines ganzen Tages miteinander – das ist bei einer tagesaktuellen Suche nicht möglich, da der Tag schon angebrochen ist. Deshalb wird die DB Bestpreissuche nur für zukünftige Reisetage angeboten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-wird-mir-der-bestpreis-nicht-angezeigt-wenn-ich-fuer-den-aktuellen-tag-suche)
 
@@ -6381,9 +6383,11 @@ Die DB Bestpreissuche hilft Ihnen auf bahn.de und in der App DB Navigator, unser
 **Was Sie beachten sollten:**
 
 * Die DB Bestpreissuche zeigt unsere günstigsten, ermittelbaren Preise für den ausgewählten Tag an.
-* Für manche Verbindungen (z. B. bestimmte Verbundtickets) wird im ersten Schritt kein Preis angezeigt, obwohl diese verkauft werden. Deren Preis kann günstiger sein als die Preise der DB Bestpreissuche. Der Preis kann im nächsten Schritt angezeigt werden.
+* Für manche Verbindungen (z. B. bestimmte Verbundtickets) wird im ersten Schritt kein Preis angezeigt, obwohl diese verkauft werden. Deren Preis kann günstiger sein als die Preise über die DB Bestpreissuche. Der Preis kann im nächsten Schritt angezeigt werden.
 * Verbindungen ohne Ticketverkauf werden zur Information am Ende der Liste aufgeführt.
 * Die DB Bestpreissuche ist nur für zukünftige Verbindungen verfügbar, nicht für Reisen am selben Tag.
+
+* [Zur Schritt-für-Schritt-Anleitung in Bildern](https://www.bahn.de/service/informationen-buchung/bestpreissuche)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-bedeutet-bestpreissuche)
 
@@ -6532,7 +6536,7 @@ Der BahnBonus Statusservice ist der exklusive Kundenservice für Statuskund:inne
  Was ist der DB Bestpreis?
 ----------
 
-Der DB Bestpreis ist unser niedrigster Preis des Tages für eine gesuchte Verbindung, der über die Reiseauskunft ermittelbar ist. Er ist zusätzlich grün und mit einem Eurozeichen markiert.
+Der DB Bestpreis ist unser niedrigster Preis des Tages für eine gesuchte Verbindung, der über die Reiseauskunft ermittelbar ist. Er ist zusätzlich grün markiert.
 
 Beim DB Bestpreis handelt es sich nicht um einen festen Preis oder eine Preisstufe, sondern um eine Funktion, die bestehende Verbindungen aufsteigend nach Preisen (soweit ermittelbar) sortiert anzeigt.
 
@@ -6852,7 +6856,7 @@ Hinweis: Bei Fahrkarten mit Zugbindung (z. B. Sparpreisen) ist diese automatisch
  Was sind Apps und Dienste im DB Kundenkonto?
 ----------
 
-Ihr DB Kundenkonto bietet Ihnen einen Zugang zu [bahn.de](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fbahn.de%2F&data=05%7C02%7CAnja.Iwanowski%40deutschebahn.com%7Cb450f316fc8f4e74310a08ddb3ee9f6a%7Ca1a72d9c49e64f6d9af65aafa1183bfd%7C0%7C0%7C638864559657760615%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rxKDQ%2BwGkuCUh0kPUgGkuNmkuSuHckpn8vAb1%2Ba3tm4%3D&reserved=0) und DB Navigator, aber auch weiteren Apps und digitalen Diensten.
+Ihr DB Kundenkonto bietet Ihnen einen Zugang zu [bahn.de](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fbahn.de%2F&data=05%7C02%7CAnja.Iwanowski%40deutschebahn.com%7Cb450f316fc8f4e74310a08ddb3ee9f6a%7Ca1a72d9c49e64f6d9af65aafa1183bfd%7C0%7C0%7C638864559657760615%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rxKDQ%2BwGkuCUh0kPUgGkuNmkuSuHckpn8vAb1%2Ba3tm4%3D&reserved=0) und zum DB Navigator, aber auch zu weiteren Apps und digitalen Diensten.
 
 Sie können Apps und digitale Dienste mit Ihrem DB Kundenkonto verbinden:
 
@@ -6862,9 +6866,8 @@ Sie können Apps und digitale Dienste mit Ihrem DB Kundenkonto verbinden:
 So prüfen Sie, welche digitalen Dienste mit Ihrem DB Kundenkonto verbunden sind:
 
 1. Loggen Sie sich auf bahn.de oder mit der App DB Navigator in Ihr DB Kundenkonto ein.
-2. Im **DB Navigator** tippen Sie im Menüpunkt "Profil" auf "Persönliche Daten".
-   Auf **bahn.de** klicken Sie rechts oben auf Ihren Profilnamen und wählen "Kundenkonto verwalten". Sie sind nun im Bereich "Persönliche Daten".
-3. Wählen Sie weiter unten "Apps und Dienste" oder "Digitale DB Dienste", um die Anwendungen in der Übersicht zu sehen.
+2. Im **DB Navigator** tippen Sie im Menübereich "Profil" auf "Persönliche Daten". Wählen Sie unter "Digitale DB Dienste" "Apps & Dienste verwalten" aus.
+   Auf **bahn.de** klicken Sie rechts oben auf Ihren Profilnamen und dann "Kundenkonto verwalten". Sie sind nun im Bereich "Persönliche Daten". Wählen Sie weiter unten "Apps & Dienste verwalten" aus, um die Anwendungen in der Übersicht zu sehen.
 
 * [Weitere Informationen finden Sie in unseren Datenschutzhinweisen](https://www.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto)
 
@@ -6925,9 +6928,9 @@ Ausnahme: Sogenannte Event-Züge, die meist nur mit einem Extraticket z.B. der E
 Wenn Sie Ihre Geräte mit Ihrer Cloud synchronisieren, haben Sie weiterhin Zugriff auf Ihre Passkeys. Sie können verlorene Geräte jederzeit im Account Manager unter "Login & Sicherheit" aus Ihrem DB Kundenkonto entfernen:
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Im **DB Navigator** gehen Sie im Menüpunkt "Profil" auf "Login & Sicherheit".
+2. Im **DB Navigator** gehen Sie im Menübereich "Profil" auf "Login & Sicherheit".
    Auf **bahn.de** gehen Sie rechts oben auf Ihren Profilnamen und klicken auf "Kundenkonto verwalten". Wählen Sie in der linken Spalte "Login & Sicherheit" und dann den Account Manager aus.
-3. Im Bereich "Alternative Login-Methoden" verwalten Sie Ihre Passkeys.
+3. Im Bereich "Alternative Login-Methoden" können Sie Ihre Passkeys verwalten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/was-tun-wenn-passkey-geraet-verloren-gestohlen)
 
@@ -8066,8 +8069,8 @@ Um Ihr DB Kundenkonto zu löschen, loggen Sie sich bitte ein und folgen diesen S
 
 **DB Navigator**:
 
-1. Tippen Sie im Menüpunkt "Profil" auf "Login & Sicherheit".
-2. Wählen Sie die Option "DB Kundenkonto löschen".
+1. Tippen Sie im Menübereich "Profil" auf "Login & Sicherheit".
+2. Wählen Sie die Option "Kundenkonto löschen".
 3. Folgen Sie den Anweisungen zur Löschung.
 
 **Bahn.de**:
@@ -8509,9 +8512,9 @@ Den 30 % Rabatt auf das gesamte Sortiment der Bordgastronomie können alle im St
 ----------
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Im **DB Navigator** tippen Sie im Menüpunkt "Profil" auf "Login & Sicherheit".
+2. Im **DB Navigator** tippen Sie im Menübereich "Profil" auf "Login & Sicherheit".
    Auf **bahn.de** gehen Sie rechts oben auf Ihren Profilnamen und klicken auf "Kundenkonto verwalten". Wählen Sie in der linken Spalte "Login & Sicherheit" und dann den Account Manager aus.
-3. Über den Menüpunkt "Alternative Login-Methoden" können Sie den Passkey für jedes Gerät verwalten und löschen.
+3. Über den Menüpunkt "Alternative Login-Methoden" können Sie die Passkeys für Ihre Geräte verwalten und löschen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-passskey-loeschen-zuruecksetzen)
 
@@ -8528,9 +8531,9 @@ Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "
 ----------
 
 1. Melden Sie sich in Ihrem DB Kundenkonto an.
-2. Im **DB Navigator** gehen Sie im Menüpunkt "Profil" auf "Login & Sicherheit".
+2. Im **DB Navigator** gehen Sie im Menübereich "Profil" auf "Login & Sicherheit".
    Auf **bahn.de** gehen Sie rechts oben auf Ihren Profilnamen und klicken auf "Kundenkonto verwalten". Wählen Sie der linken Spalte "Login & Sicherheit" und dann den Account Manager aus.
-3. Sie können über den Menüpunkt "Alternative Login-Methoden" den Passkey einrichten.
+3. Über den Menüpunkt "Alternative Login-Methoden" können Sie Passkeys einrichten.
 
 Ihr Gerät führt Sie durch die weiteren Schritte zur Einrichtung.
 
