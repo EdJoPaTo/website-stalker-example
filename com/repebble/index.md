@@ -5,7 +5,7 @@ Pebble smartwatches — Pebble Time 2, Pebble Round 2, and the Pebble Index 01 s
 [### Pebble Time 2 ### With a larger color e-paper display!](https://repebble.com/watch#pt2)
 [### Pebble Round 2 NEW ### The most stylish Pebble watch ever](https://repebble.com/watch)
 [### Pebble Index 01 NEW ### External memory for your brain](https://repebble.com/index)
-[### Accessories ### Straps, shirts, chargers, and sizing kits](https://shop.repebble.com/)
+[### Accessories ### Straps, shirts, chargers, and sizing kits](https://repebble.com/accessories)
 
 **Pebble is back!**
 

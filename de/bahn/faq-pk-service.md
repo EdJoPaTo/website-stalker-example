@@ -111,13 +111,13 @@ Alle nicht genannten Modelle können Sie nicht mitnehmen. Dazu zählen auch Fahr
 **Auf bahn.de**
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Gehen Sie rechts oben auf Ihren Profilnamen und klicken Sie auf "Kundenkonto verwalten".
+2. Gehen Sie rechts oben auf Ihren Profilnamen und dann auf "Kundenkonto verwalten".
 3. Wählen Sie in der linken Spalte "Zahlungsmittel" und dann "Lastschrift hinzufügen" aus.
 
 **Im DB Navigator**
 
 1. Loggen Sie sich in Ihr DB Kundenkonto ein.
-2. Gehen Sie rechts unten auf den Menüpunkt "Profil" und dann in den Bereich "Zahlungsmittel".
+2. Gehen Sie in den Menübereich "Profil" und dann auf "Zahlungsmittel".
 3. Wählen Sie im Bereich SEPA-Lastschrift "Neues Bankkonto hinzufügen" aus.
 
 Nach Eingabe der Anmeldedaten zur SEPA-Lastschrift sind diese in Ihrem DB Kundenkonto gespeichert.
