@@ -15,16 +15,8 @@ info
 
 Not all Shelly devices receive the same firmware updates. See [Firmware Update Policy](/gen2/General/FirmwareUpdatePolicy) for details.
 
-Unreleased
+[2.2.0] 2026-11-11
 ----------
-
-**Available as `2.2.0-beta2`**
-
-### Fixed ###
-
-* Update CA bundles, drop compromised eMudhra roots
-
-**Available as `2.2.0-beta1`**
 
 ### Added ###
 
@@ -52,6 +44,7 @@ Unreleased
 
 ### Fixed ###
 
+* Update CA bundles, drop compromised eMudhra roots
 * dns-sd: Fix probe feedback loop with repeaters
 * Dynamic Components Registry: Don't reject record-only adds as duplicates
 * [HTTP](/gen2/ComponentsAndServices/HTTP): Fix timeouts on incoming connection

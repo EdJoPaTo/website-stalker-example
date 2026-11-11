@@ -8,6 +8,8 @@ Warn-App NINA
 
 [vorlesen](https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12845&lang=de_de&readid=content&url=https%3A%2F%2Fwww.bbk.bund.de%2FDE%2FWarnung-Vorsorge%2FWarn-App-NINA%2Fwarn-app-nina_node.html)
 
+In Gefahrensituationen zählt jede Sekunde. Mit der Warn-App NINA des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe (kurz: BBK) erhalten Sie wichtige Warnungen und Handlungsempfehlungen direkt auf Ihr Smartphone. Egal, ob Großbrand, Unwetter oder andere Gefahren: Mit der Warn-App NINA sind Sie immer informiert, um sich und andere in Gefahrensituationen zu schützen.
+
  Was ist die Warn-App NINA?
 ----------
 
