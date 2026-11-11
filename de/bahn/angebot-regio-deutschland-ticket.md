@@ -41,6 +41,9 @@ Der Preis des Deutschlandsemestertickets wird durch die Preisbildung des Deutsch
 Ab 1. Januar 2027 kostet das Deutschland-Ticket 66,80 Euro pro Monat. Zudem führt die DB Regio AG für die in ihrem Namen verkauften Deutschland-Tickets **ergänzende Tarifbedingungen** ein. **Damit müssen Sie künftig nicht mehr den Preisänderungen zustimmen.**
 Wir werden Sie auch weiterhin bei Änderungen des Deutschland-Tickets informieren. Ihr reguläres Kündigungsrecht bleibt davon unberührt.
 
+Um ein bereits vorhandenes Deutschland-Ticket mit diesen neuen Bedingungen in 2027 fortzuführen, ist Ihre Zustimmung über das Handy-Ticket oder im Aboportal erforderlich.
+
+* [Wie kann ich der Vertragsänderung zustimmen?](https://www.bahn.de/faq/vertragsaenderung-zustimmen)
 * [Zu den ergänzenden Tarifbestimmungen](https://www.bahn.de/agb#bb)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-aenderungen)

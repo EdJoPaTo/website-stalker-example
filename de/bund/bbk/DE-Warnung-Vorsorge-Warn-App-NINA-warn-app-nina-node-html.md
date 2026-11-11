@@ -192,13 +192,19 @@ Während **Sirenen** durch ihre Reichweite und die Lautstärke sehr **aufmerksam
 
 Die Nutzung der Warn-App NINA ist **ohne** die Angabe **personenbezogener** Daten möglich.
 
-Persönliche Daten, die die App verwendet, zum Beispiel Ihr Standort, bleiben **lokal auf** ihrem Gerät und werden zu **keiner** Zeit serverseitig gespeichert.
+Persönliche Daten, die die App verwendet, zum Beispiel Ihr Standort, bleiben **lokal auf** Ihrem Gerät und werden zu **keiner** Zeit serverseitig gespeichert.
 
-Die App verwendet **optional** Google Analytics. Damit werden in **anonymisierter** Form Nutzungsstatistiken erfasst. Dies dient ausschließlich dazu, die App **nutzerorientiert** weiter zu entwickeln.
+Die App verwendet **optional** Google Analytics. Damit werden in **anonymisierter** Form Nutzungsstatistiken erfasst. Dies dient ausschließlich dazu, die App **für die Nutzerinnen und Nutzer** weiter zu entwickeln.
 
 Diese Daten lassen sich **nicht** mit Ihrer Identität in Verbindung bringen. Wir haben keine Möglichkeiten, diese Daten Ihrer Person zuzuordnen und führen die Daten auch nicht mit anderen Datenquellen zusammen.
 
 Weitere Informationen dazu finden Sie in der Datenschutzerklärung der App.
+
+### [Rechtliches: Impressum und Datenschutzerklärung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)  ###
+
+**Warn-App NINA**
+
+[](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/NINA-Rechtliches/nina-rechtliches_node.html)
 
 ###  Wozu verwendet die App Informationen über meinen Standort? ###
 
