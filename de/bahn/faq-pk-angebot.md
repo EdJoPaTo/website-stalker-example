@@ -8963,6 +8963,247 @@ Der Preis hängt von der gewählten Verbindung ab. Er entspricht der Differenz z
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kosten-upgrade-nv)
 
+ Was passiert, wenn mein Zug ausfällt oder stark verspätet ist?
+----------
+
+Bei Verspätung oder Zugausfall gelten die jeweils anwendbaren Fahrgastrechte und die Beförderungsbedingungen der Deutsche Bahn AG. Informationen zu Fahrgastrechten findest du auf [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-ausfall-verspaetung)
+
+ Welche Beförderungsbedingungen gelten?
+----------
+
+Es gelten die [Beförderungsbedingungen der Deutsche Bahn AG](https://www.bahn.de/agb).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-beforderungsbedingungen)
+
+ Wie löse ich meinen Buchungscode ein?
+----------
+
+Gehe auf [bahn.de/kostuemticket](https://www.bahn.de/angebot/aktionsangebote/kostuemticket) und wähle eine passende Verbindung aus. Logge dich in dein DB-Kundenkonto ein und gib den Buchungscode im vorgesehenen Gutschein-/Codefeld ein. Nach Abschluss der Buchung erhältst du dein digitales Ticket.
+
+**Bitte beachte folgendes für die Einlösung:** Ein DB Buchungscode ist jeweils für eine einfache Fahrt (Hin- und Rückfahrt muss mit jeweils einem Buchungscode gebucht werden) für einen Erwachsenen deutschlandweit in der 2. Klasse im DB Fernverkehr (ICE, IC/EC). Gültig im Vor- und Nachlauf im Nahverkehr der Deutschen Bahn (IRE,RE,RB und S-Bahn) und in den nichtbundeseigenen Eisenbahnen (NE). Nicht gültig im Seeverkehr. Hinweis: Den Start- und Zielbahnhof kannst du frei wählen.
+
+**Ablauf der Buchung:**
+
+* Buchungscodes von 11. November 2026 bis zum 3. Februar 2027 unter [bahn.de](https://www.bahn.de/buchung/start?KL=2&ET=KOSTUEMTICKET) für den Reisezeitraum 4. Februar bis 9. Februar 2027 einlösen
+* Wunschverbindung auswählen
+* Das Angebot wird in der Buchungsmaske mit 0,00 Euro angezeigt.
+* Buchungscode kann nur eingeloggt im Kundenkonto genutzt werden.
+* Im letzten Schritt kann der 16-stellige Buchungscode unter "Gutschein einlösen" hinzugefügt werden.
+* Das Angebot ist zuggebunden. Bitte entsprechend reisen.
+* Buchungscodes, die nicht bis einschließlich 3. Februar 2027 eingelöst wurden, verfallen ersatzlos.
+* Umtausch, Erstattung, Barauszahlung sowie entgeltliche Weitergabe sind ausgeschlossen.
+* Einzelne Züge, in denen keine ausreichende Anzahl an Sitzplätzen zur Verfügung steht, können von der Buchbarkeit ausgeschlossen sein.
+* Info zu den Fahrgastrechten der Deutschen Bahn unter [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte)
+* Es gelten die Beförderungsbedingungen der Deutsche Bahn AG, diese sind abrufbar unter [www.bahn.de/agb](http://www.bahn.de/agb)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscode-einloesen)
+
+ Warum funktioniert mein Buchungscode nicht?
+----------
+
+Bitte prüfe zuerst:
+
+* ob du im richtigen Buchungszeitraum buchst,
+* ob deine Reise im gültigen Reisezeitraum liegt,
+* ob du im eingeloggten Bereich auf bahn.de oder in der App DB Navigator buchst,
+* ob du ein Ticket der 2. Klasse buchst,
+* ob der Code vollständig und korrekt eingegeben wurde,
+* ob der Code eventuell bereits eingelöst wurde.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscode-funktioniert-nicht)
+
+ Kann ich mit einem Code mehrere Personen buchen?
+----------
+
+Je Code ist ein Ticket für einen Erwachsenen vorgesehen. Mehrpersonenbuchungen sind nicht möglich. Die Mitnahme von Familienkindern (6 bis 14 Jahre) ist möglich, sofern sie bei der Buchung mit angegeben werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscode-mehrere-personen)
+
+ Kann ich Sitzplatzreservierungen oder Zusatzleistungen mit dem Buchungscode bezahlen?
+----------
+
+Der Buchungscode gilt für die Einlösung in ein digitales Ticket. Sitzplatzreservierung, Fahrradmitnahme etc. sind nicht enthalten, können aber bei der Buchung gegen Zuzahlung mitgebucht werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscode-sitzplatz-zusatzleistung)
+
+ Kann ich die Buchungscodes auszahlen lassen?
+----------
+
+Nein. Umtausch, Erstattung, Barauszahlung und entgeltliche Weitergabe der Buchungscodes sind ausgeschlossen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscodes-auszahlen)
+
+ Kann ich die Codes auch telefonisch, am Automaten oder im DB-Reisezentrum einlösen?
+----------
+
+Nein. Die Einlösung ist nur online im DB-Kundenkonto auf bahn.de oder in der App DB Navigator möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscodes-automat-reisezentrum)
+
+ Kann ich die Buchungscodes für die 1. Klasse nutzen?
+----------
+
+Nein. Das Angebot gilt für die 2. Klasse.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscodes-fuer-erste-klasse-nutzen)
+
+ Kann ich die Buchungscodes mit weiteren Ermäßigungen kombinieren?
+----------
+
+Nein. Die Buchungscodes sind nicht mit weiteren Ermäßigungen kombinierbar, zum Beispiel nicht mit einem BahnCard-Rabatt.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscodes-kombinieren)
+
+ Was passiert, wenn ich meine Buchungscodes nicht rechtzeitig einlöse?
+----------
+
+Buchungscodes, die nicht innerhalb des genannten Buchungszeitraums eingelöst werden, verfallen ersatzlos.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscodes-nicht-eingeloest)
+
+ Kann ich meine Buchungscodes weiterverkaufen?
+----------
+
+Nein. Die entgeltliche Weitergabe ist ausgeschlossen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscodes-weiterverkaufen)
+
+ Ich habe die E-Mail mit meinen Codes nicht erhalten. Was kann ich tun?
+----------
+
+Prüfe bitte zuerst deinen Spam-Ordner. Wenn die E-Mail weiterhin nicht auffindbar ist, wende dich an den Kundenservice unseres Partners Kostümpalast.de und halte deine Bestellnummer bereit.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-codes-nicht-erhalten)
+
+ An wen wende ich mich, wenn ich Fragen zur Bahnreise oder zur Einlösung des Buchungscodes habe?
+----------
+
+Für allgemeine Fragen zur Reise hilft die Service-Hotline der Deutschen Bahn unter [030 2970](tel: 030 2970).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-fragen-bahnreise)
+
+ An wen wende ich mich, wenn ich Fragen zum ICE-Kostüm, zur Bestellung oder zum Widerruf habe?
+----------
+
+Bitte wende dich an den Kundenservice unseres Partners Kostümpalast.de.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-fragen-ice-kostuem)
+
+ In welchen Zügen gelten die Buchungscodes?
+----------
+
+Die Buchungscodes gelten deutschlandweit in der 2. Klasse in den Zügen des Fernverkehrs der Deutschen Bahn, also ICE, IC und EC, sowie gültig im Vor- und Nachlauf im Nahverkehr der Deutschen Bahn (IRE, RE, RB und S-Bahn) und in den nichtbundeseigenen Eisenbahnen (NE).
+Einzelne Züge, in denen keine ausreichende Anzahl an Sitzplätzen zur Verfügung steht, können von der Buchbarkeit ausgeschlossen sein.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-fuer-welche-zuege-gelten-buchungscodes)
+
+ Kann ich das ICE-Kostüm und die Fahrkarte widerrufen oder zurückgeben?
+----------
+
+Für den Fahrkartenerwerb besteht kein gesetzliches Widerrufsrecht. Das Ticket ist vom Widerrufsrecht ausgeschlossen und kann nicht zurückgegeben werden.
+
+Das Kostüm kann hingegen zurückgegeben werden. Somit ist nur eine Teilpreiserstattung für das Kostüm in Höhe von 5 € möglich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-kauf-widerrufen)
+
+ Was kostet das ICE-Kostümticket?
+----------
+
+Der Gesamtpreis für Kostüm und Tickets liegt bei 44,90 Euro. Der anteilige Ticketpreis bei 39,90 Euro. Der anteilige Preis für das ICE-Kostüm liegt bei 5 Euro.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-kosten)
+
+ Kann ich das Kostüm auch ohne das Ticket kaufen?
+----------
+
+Nein, das Kostüm und die Buchungscodes sind nur zusammen erhältlich. Das Angebot "ICE-Kostümticket" umfasst zwei rechtlich selbstständige Verträge: den Kauf des ICE-Kostüms und den Erwerb der Fahrkarte. Es handelt sich nicht um eine kostenlose Zugabe, sondern um ein gebündeltes Angebot mit eigenständigen Leistungsbestandteilen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-kostuem-ohne-ticket-kaufen)
+
+ Muss ich das Kostüm auf der Bahnreise tragen?
+----------
+
+Für die Reise auf den gebuchten Fahrten ist das Tragen des Kostüms nicht erforderlich. Wichtig ist das Mitführen eines gültigen Tickets für die 2. Klasse.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-kostuem-tragen)
+
+ Für welchen Reisezeitraum gelten die Buchungscodes?
+----------
+
+Die Buchungscodes gelten für Reisen im Zeitraum vom 4. Februar 2027 bis 9. Februar 2027.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-reisezeitraum-buchungscodes)
+
+ Wann kann ich meine Buchungscodes einlösen?
+----------
+
+Die Buchungscodes können im Buchungszeitraum vom 11. November 2026 bis 3. Februar 2027 eingelöst werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-wann-buchungscodes-einloesen)
+
+ Was genau bekomme ich für die Bahnfahrt?
+----------
+
+Du erhältst zwei Buchungscodes: einen Code für die Hinfahrt und einen Code für die Rückfahrt. Jeder Code kann für eine einfache Fahrt im Rahmen der Angebotskonditionen genutzt werden.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-was-enthalten)
+
+ Was ist das ICE-Kostümticket?
+----------
+
+Das ICE-Kostümticket ist ein Angebot für alle Karnevalsbegeisterten und diejenigen, die es werden wollen. Es handelt sich um ein Kombi-Angebot bestehend aus ICE-Kostüm inkl. Kelle, Trillerpfeife und Basecap sowie zwei Buchungscodes für eine Hin- und Rückfahrt deutschlandweit in der 2. Klasse in den Zügen des Fernverkehrs der Deutschen Bahn (ICE, IC/EC) mit Vor- und Nachlauf im Nahverkehr.
+
+Mit den Buchungscodes kann je eine Hin- und Rückfahrt im Karnevalszeitraum 4. Februar bis 9. Februar 2027 gebucht werden, passend für einen Besuch auf dem Karnevalsumzug oder -event in den jeweiligen Hochburgen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-was-ist-das)
+
+ Was ist im Angebot enthalten?
+----------
+
+Im Angebot enthalten sind:
+
+* ein ICE-Kostüm mit Kelle, Trillerpfeife und Basecap
+* zwei Buchungscodes: ein Code für die Hinfahrt und ein Code für die Rückfahrt
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-was-ist-enthalten)
+
+ Wo finde ich weitere Informationen?
+----------
+
+Weitere Informationen finden sich unter [kostuempalast.de](https://kostuempalast.de/products/ice-kostuemticket).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-weitere-informationen)
+
+ Wie erhalte ich meine Buchungscodes?
+----------
+
+Nach dem Kauf erhältst du von Kostümpalast.de eine E-Mail mit deinen beiden Buchungscodes für die Fahrt zum Karneval. Wenn du die E-Mail nicht findest, prüfe bitte auch deinen Spam-Ordner.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-wie-buchungscodes-erhalten)
+
+ Wie erhalte ich mein ICE-Kostüm?
+----------
+
+Das ICE-Kostüm wird dir als Sendung durch unseren Partner Kostümpalast.de zugeschickt. Die Buchungscodes für deine Bahnreise erhältst du separat per E-Mail.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-wie-kostuem-erhalten)
+
+ Wo kann ich die Buchungscodes einlösen?
+----------
+
+Die Codes können im eingeloggten DB Kundenkonto auf [bahn.de](https://www.bahn.de/buchung/start?KL=2&ET=KOSTUEMTICKET) oder über die App DB Navigator eingelöst werden. Solltest du noch kein DB Kundenkonto besitzen, musst du vor der Buchung des DB-Kostümtickets [eines auf bahn.de einrichten](https://www.bahn.de/info/kundenkonto).
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-wo-buchungscodes-einloesen)
+
+ Wo kann ich das ICE-Kostümticket kaufen?
+----------
+
+Das ICE-Kostümticket ist über den Online-Shop [kostuempalast.de](https://kostuempalast.de/products/ice-kostuemticket) erhältlich.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-wo-kaufen)
+
  Warum muss ich meine Kreditkarte für Sharing-Dienste noch einmal neu anlegen, obwohl ich diese Kreditkarte schon in meinem DB Kundenkonto hinterlegt habe?
 ----------
 
