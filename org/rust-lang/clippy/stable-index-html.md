@@ -742,7 +742,7 @@ style warn
 
 Applicability: MachineApplicable
 
-Added in: 1.93.0
+Added in: 1.98.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+chunks_exact_to_as_chunks)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
@@ -3237,7 +3237,7 @@ legacy\_numeric\_constants
 style warn
 ----------
 
-Applicability: MaybeIncorrect
+Applicability: MachineApplicable
 
 Added in: 1.79.0
 
@@ -5157,6 +5157,17 @@ Added in: 1.81.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+needless_maybe_sized)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/needless_maybe_sized.rs)
 
+needless\_nonzero\_get
+
+complexity warn
+----------
+
+Applicability: MachineApplicable
+
+Added in: 1.99.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+needless_nonzero_get)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/needless_nonzero_get.rs)
+
 needless\_option\_as\_deref
 
 complexity warn
@@ -5728,6 +5739,17 @@ Applicability: Unspecified
 Added in: pre 1.29.0
 
 [Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+option_option)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/types/mod.rs)
+
+option\_zip\_none
+
+suspicious warn
+----------
+
+Applicability: MaybeIncorrect
+
+Added in: 1.99.0
+
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+option_zip_none)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
 or\_fun\_call
 
@@ -7388,7 +7410,7 @@ Applicability: MachineApplicable
 
 Added in: 1.50.0
 
-[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+string_from_utf8_as_bytes)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs)
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+string_from_utf8_as_bytes)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
 string\_lit\_as\_bytes
 
@@ -7905,7 +7927,7 @@ Applicability: MachineApplicable
 
 Added in: 1.62.0
 
-[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+trim_split_whitespace)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/strings.rs)
+[Related Issues](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aissue+trim_split_whitespace)[View Source](https://github.com/rust-lang/rust-clippy/blob/master/clippy_lints/src/methods/mod.rs)
 
 trivial\_regex
 

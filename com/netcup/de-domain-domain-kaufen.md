@@ -59,13 +59,6 @@ pro Monat ab
 
 [Jetzt bestellen\>](https://www.netcup.com/de/domain/domain-endungen)
 
-Wir sind nominiert: Webhoster des Jahres 2026
-----------
-
-Beim Webhoster des Jahres wählt die Community jährlich die **besten Anbieter** in verschiedenen Hosting-Kategorien. Wir sind stolz, in diesem Jahr gleich in **drei Kategorien** nominiert zu sein: **Domains**, **vServer** und **Webhosting.** Deine Stimme zählt und bringt dir zusätzlich die Chance auf **attraktive Preise.**
-
-[Mehr erfahren & abstimmen\>](https://www.netcup.com/de/blog/news/netcup-webhoster-des-jahres-2026)
-
 Domain registrieren – Worauf soll ich achten?
 ----------
 

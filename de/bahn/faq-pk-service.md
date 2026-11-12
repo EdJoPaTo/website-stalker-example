@@ -664,19 +664,6 @@ Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anrecht-auf-sitzplatz-via-kci)
 
- Habe ich ein Anrecht auf einen Sitzplatz, auf den ich mich eingecheckt habe?
-----------
-
-Der Anspruch auf einen Sitzplatz ist unabhängig vom Komfort Check-in:
-
-* **Mit Reservierung**
-   Sie haben Anspruch auf Ihren reservierten Sitzplatz, wenn Sie ihn innerhalb von 15 Minuten nach Abfahrt einnehmen. Nach Ablauf dieser Zeit verfällt der Anspruch, und der Platz kann von anderen Reisenden genutzt werden.
-
-* **Ohne Reservierung**
-   Liegt für einen Sitzplatz keine Reservierung vor, haben Sie Anrecht auf einen Sitzplatz, wenn Sie als erstes auf dem freien Sitzplatz sitzen. Checken Sie sich bitte deshalb erst ein, wenn Sie Ihren Sitzplatz tatsächlich eingenommen haben.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/anspruch-auf-sitzplatz)
-
  Wie viel Gepäck darf ich im Zug mitnehmen?
 ----------
 
@@ -1796,17 +1783,6 @@ Nein, mit einem (Super) Sparpreis Europa-Ticket haben Sie **keinen Zutritt zur D
 Ja. Kunden, die bereits ein Kundenkonto auf bahn.de haben, können ebenfalls Buchungen über die Mobilitätsservice-Zentrale (MSZ) vornehmen lassen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dbkundenkonto-dennoch-buchung-ueber-msz)
-
- Der Komfort Check-in ist nicht verfügbar. Woran kann das liegen?
-----------
-
-Der Komfort Check-in kann in bestimmten Situationen nicht verfügbar sein. Überprüfen Sie die folgenden Punkte:
-
-* **DB Navigator**: Der Komfort Check-in steht Ihnen im DB Navigator zur Verfügung.
-* **bahn.de**: Nutzen Sie den Link [bahn.de/jetzt-einchecken](https://bahn.de/jetzt-einchecken) für den Komfort Check-in.
-* **ICE Portal**: Der Komfort Check-in ist auch im ICE Portal möglich. Verbinden Sie sich mit dem WLAN WIFIonICE oder nutzen Sie Ihre mobile Verbindung und öffnen den Link [ICEportal.de](https://iceportal.de/). Der Komfort Check-in im ICE Portal ist auch ohne WLAN-Verbindung erreichbar.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/der-kci-ist-nicht-verfuegbar-nicht-woran-liegt-das)
 
  Der Zugang zu meinem DB Kundenkonto wurde gesperrt, weil ich mehrfach meine Daten falsch eingegeben habe. Was jetzt?
 ----------
@@ -8666,30 +8642,6 @@ Verursacht das Eisenbahnunternehmen den Verlust oder die Beschädigung von für 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-werden-mobiltaetshilfen-entschaedigt)
 
- Wieso erhalte ich die Nachricht, dass der Check-in nicht möglich ist?
-----------
-
-Dies kann in verschiedenen außergewöhnlichen Situationen vorkommen. Durch die jeweilige Systemmeldung erfahren Sie mehr dazu:
-
-* *Bei der Verarbeitung Ihrer Anfrage ist ein unerwarteter Fehler aufgetreten. Der Fehler wurde protokolliert. Wir entschuldigen uns für die Unannehmlichkeiten. Bitte stellen Sie eine neue Anfrage:*
-   Es besteht keine Internetverbindung, versuchen Sie es noch einmal, sobald das Netz wieder verfügbar ist.
-* *Auf dem ausgewählten Sitzplatz ist kein Komfort Check-in möglich:*
-   Diese Fehlermeldung erscheint, wenn der eingegebene Platz nicht frei ist - entweder weil der Platz für jemand anderen reserviert ist oder weil sich bereits ein anderer Gast dort eingecheckt hat.Auf Sondersitzplätzen ist der Komfort Check-in nur möglich, wenn die Reservierung zusammen mit dem Ticket erworben wurde.
-* *Der Komfort Check-in ist für diesen Reiseabschnitt nicht verfügbar:*
-   Es handelt sich um einen Zug, der für den Komfort Check-in vorgesehen war, für den die Freischaltung aber zurückgenommen oder aufgrund einer Störung abgeschaltet wurde.
-* *Wir schalten den Service für Sie einige Minuten vor Abfahrt frei:*
-   Der Check-in darf frühestens ab einer gewissen Vorlaufzeit vor der planmäßigen Abfahrt des Zuges erfolgen, da Sie sich normalerweise erst dann an Ihrem gewählten Sitzplatz befinden können.
-* *Der Komfort Check-in ist für diesen Reiseabschnitt nicht mehr verfügbar*
-   9 Stunden nach der fahrplanmäßigen Abfahrt an Ihrem Bahnhof deaktiviert das System die Möglichkeit, sich einzuchecken.
-* *Das ausgewählte Ticket wurde storniert. Bitte aktualisieren Sie Ihre Tickets*
-   Der Komfort Check-in kann für stornierte Tickets nicht durchgeführt werden.
-* *Aufgrund einer Änderung des Tickets ist der Komfort Check-in nicht verfügbar:*
-   Vorerst ist der Komfort Check-in nur für Tickets möglich, die nach der Buchung nicht geändert wurden und für die die Reservierung nicht umgetauscht wurde.
-* *Sie wurden bereits kontrolliert. Der Komfort Check-in ist für diesen Reiseabschnitt nicht mehr erforderlich*
-   Wurde das Ticket auf dieser Strecke bereits durch eine Zugbegleiterin oder einen Zugbegleiter kontrolliert, ist der Komfort Check-in für dieses Ticket im aktuellen Zug nicht mehr möglich.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-erhalte-ich-die-nachricht-dass-der-check-in-nicht-moeglich-ist)
-
  Wieso ist bei manchen Verbindungen keine Auslastungsinformation verfügbar?
 ----------
 
@@ -8851,26 +8803,6 @@ Die aktuellen Datenschutzhinweise zu BahnBonus finden Sie auf der Seite [www.db-
 Der 1. Geltungstag entspricht dem 1. Gültigkeitstag Ihres Tickets. Bei Ihrem Online-Ticket ist die Gültigkeit neben dem Barcode aufgedruckt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-den-1-geltungstag-auf-meinem-ticket)
-
- Wo finde ich den Komfort Check-in und wie kann ich mich selbstständig einchecken?
-----------
-
-1. Öffnen Sie die App DB Navigator und navigieren Sie zum Tab "Reisen".
-2. Wählen Sie das einzucheckende Ticket aus.
-3. Gehen Sie zum Tab "Reiseplan".
-
-Alternativ können Sie den Komfort Check-in im Webbrowser unter [www.bahn.de/jetzt-einchecken](http://www.bahn.de/jetzt-einchecken) oder über das ICE Portal nutzen.
-
-Der Komfort Check-in-Button ist sichtbar, wenn die Voraussetzungen erfüllt sind.
-
-Bei Tickets für die Hin- und Rückfahrt wählen Sie bitte im DB Navigator den entsprechenden Reiseplan aus, für den Sie sich einchecken möchten.
-
-Das Zugpersonal kann Sie auch während der regulären Ticketkontrolle einchecken. Dadurch werden Folgekontrollen vermieden, die sonst beispielsweise bei Personalwechsel stattfinden. Das Zugpersonal informiert Sie anschließend über den erfolgreichen Check-in.
-
-* [Zur ausführlichen Anleitung](https://www.bahn.de/service/zug/komfort-check-in)
-* [Voraussetzungen für den Komfort Check-in](https://www.bahn.de/faq/voraussetzungen-kci)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-den-komfort-check-in)
 
  Wo finde ich im ICE Portal den Warenkorb?
 ----------
