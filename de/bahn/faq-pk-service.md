@@ -6619,7 +6619,9 @@ Zeitkarten sind zum Beispiel Wochen- und Monatskarten. Sie können sie für zahl
 
 Das DB Familienticket ist ein Angebot, das sich gezielt an Familien richtet. Mit diesem Angebot können 1 bis 2 Personen ab 15 Jahren und bis zu 4 Kinder (6-14 Jahre) innerhalb Deutschlands im Fernverkehr eine Hin- und Rückfahrt inklusive Sitzplatzreservierungen für 5 Personen buchen.
 
-Das Angebot kann auf bahn.de, im DB Navigator oder in personenbedienten Verkaufsstellen für 99,99 Euro erworben werden. Bei Verbindungen mit einer Teilstrecke im Nahverkehr (SPNV) liegt der Preis bei 143,99 Euro. Alternativ kann eine einfache Fahrt für 59,99 Euro erworben werden (mit Nahverkehr für 81,99 Euro).
+Das Angebot ist kontingentiert. Hoch ausgelastete Zügen können von der Buchbarkeit ausgeschlossen sein.
+
+Das DB Familienticket kann auf bahn.de, im DB Navigator oder in personenbedienten Verkaufsstellen für 99,99 Euro erworben werden. Bei Verbindungen mit einer Teilstrecke im Nahverkehr (SPNV) liegt der Preis bei 143,99 Euro. Alternativ kann eine einfache Fahrt für 59,99 Euro erworben werden (mit Nahverkehr für 81,99 Euro).
 
 Das Angebot ist jeweils bis zwei Tage vor Reisebeginn erhältlich.
 
