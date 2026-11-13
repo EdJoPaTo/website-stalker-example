@@ -5,26 +5,19 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](https://support.shelly.cloud/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud/)
 
-Known Issue
+Service Notice
 
-⚠️ Known Issue: Device Inclusion on Android 17
+⚠️ Technical Issue: Firmware Update Server
 ----------
 
-Dear Shelly Users,
+**Dear Users,**
 
-We are currently experiencing an issue affecting **device inclusion in the Shelly Smart Control App on Android 17**.
+We are currently experiencing a technical issue affecting our firmware update server. Our engineering team is aware of the situation and is actively working to resolve it as quickly as possible.
 
-Our development team is working on a **high-priority fix** to resolve the issue as soon as possible.
+We apologize for any inconvenience this may cause and appreciate your patience and understanding.
 
-**Temporary Workarounds:**
-
-* Use Android 16 or earlier.
-* Use an iOS device.
-* Use Bluetooth inclusion via [control.shelly.cloud](https://control.shelly.cloud/).
-
-We apologize for the inconvenience and appreciate your patience.
-
-**The Shelly Support Team**
+**Best regards,**
+Shelly Support Team
 
 Knowledge base
 ----------

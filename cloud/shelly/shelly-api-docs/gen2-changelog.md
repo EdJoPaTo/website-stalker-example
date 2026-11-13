@@ -15,6 +15,79 @@ info
 
 Not all Shelly devices receive the same firmware updates. See [Firmware Update Policy](/gen2/General/FirmwareUpdatePolicy) for details.
 
+[2.2.1] 2026-11-13
+----------
+
+### Fixed ###
+
+* [1PM Mini Gen3](/gen2/Devices/Gen3/ShellyMini1PMG3), [1PM Mini Gen4](/gen2/Devices/Gen4/ShellyMini1PMG4): Revert accidental device ID change introduced in 2.2.0 ([details](#what-was-broken-in-220))
+* [2PM Gen4](/gen2/Devices/Gen4/Shelly2PMG4): Fix cache error crashes in the UART RX ISR
+* [Pro 3EM](/gen2/Devices/Gen2/ShellyPro3EM): Restore BLE relay functionality
+* [RGBCCT Bulb Gen3](/gen2/Devices/Gen3/ShellyRGBCCTBulbG3): Fix missing homepage in WebUI
+
+1PM Mini Gen3, 1PM Mini Gen4: Revert accidental device ID change introduced in 2.2.0
+
+#### What was broken in 2.2.0 ####
+
+On 1PM Mini Gen3 and 1PM Mini Gen4, firmware 2.2.0 incorrectly
+recomputed the device identifier on first boot, changing it from the original
+form (for example `shelly1pmminig4-aabbccddeeff`) to a new form (for example`shellymini1pmg4-aabbccddeeff`). The rename was applied to the local device
+identifier, the WiFi access-point SSID, the MQTT client ID, the MQTT topic
+prefix, and the mDNS/hostname advertisement. Local HTTP digest authentication
+state was not migrated in parallel, so the stored password hash was tied to the
+old identifier while the web UI and integrations such as Home Assistant began
+sending requests tied to the new identifier, causing "wrong password" errors
+with an otherwise correct password.
+
+MQTT integrations that identify Shelly devices by their client ID or topic
+prefix (including ioBroker) stopped seeing the affected devices under their
+expected names.
+
+#### What 2.2.1 does ####
+
+2.2.1 restores the correct device identifier on all affected models. Any of the
+following stored values that currently match the 2.2.0-renamed form are
+rewritten back to their original form on the first boot after the upgrade:
+
+* the local device identifier
+* the MQTT client ID
+* the MQTT topic prefix, will topic, and RPC destination topic
+* the WiFi AP SSID
+
+One additional reboot occurs during this restoration. After it, the web UI
+accepts the original password and MQTT integrations reconnect under the
+original identifiers. If the password was set or changed during the 2.2.0
+period, see the last section below.
+
+#### If you customized MQTT topic prefix or client ID before 2.2.0 ####
+
+Your custom values were never overwritten and remain in place. No action
+needed.
+
+#### If you reconfigured external integrations against the 2.2.0 identifiers ####
+
+If, during the 2.2.0 period, you reconfigured ioBroker / Home Assistant /
+another external system to speak to the renamed identifier (e.g.`shellymini1pmg4-...`), you will need to point those integrations back at the
+original identifier after upgrading to 2.2.1. The restored identifier is
+visible in the response of [`Shelly.GetDeviceInfo`](/gen2/ComponentsAndServices/Shelly#shellygetdeviceinfo) (the `id` field).
+
+#### If you set or changed the password during the 2.2.0 period ####
+
+This applies if, during the 2.2.0 period, you worked around the login failure
+by calling [`Shelly.SetAuth`](/gen2/ComponentsAndServices/Shelly#shellysetauth) with the renamed identifier as the realm, or if you
+set or changed the password through the web UI. In both cases your stored
+password hash (`ha1`) is bound to the renamed identifier. After upgrading to
+2.2.1 the device identifier is restored to its original form, and the web UI
+will again fail to accept the password. You can confirm this in the response
+of [`Shelly.GetDeviceInfo`](/gen2/ComponentsAndServices/Shelly#shellygetdeviceinfo) (no login needed): the `id` and `auth_domain` fields
+differ.
+
+To fix it, call `Shelly.SetAuth` once more:
+
+* authenticate with your password against the realm shown in `auth_domain`(for example, `curl --anyauth -u admin:<password>` uses the realm from the
+  device's authentication challenge automatically)
+* set `realm` to the restored identifier (the `id` field) and `ha1` to`SHA256(admin:<id>:<password>)`
+
 [2.2.0] 2026-11-11
 ----------
 
