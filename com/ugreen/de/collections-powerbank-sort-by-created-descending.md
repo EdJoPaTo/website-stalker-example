@@ -35,5 +35,3 @@
 [UGREEN MagFlow Air magnetische Powerbank (10000 mAh, Qi2 15W)](https://de.ugreen.com/products/magflow-air-slim-powerbank-10000mah-qi2-15w)
 
 [UGREEN Powerbank (10000mAh, 55W, integriertem Kabel, AirPyra)](https://de.ugreen.com/products/powerbank-10000mah-55w-integriertem-kabel-airpyra)
-
-[UGREEN Nexode Powerbank (25000mAh, 165W, 2 integrierte USB-C Kabel)](https://de.ugreen.com/products/nexode-powerbank-25000mah-165w-integrierte-kabel)
