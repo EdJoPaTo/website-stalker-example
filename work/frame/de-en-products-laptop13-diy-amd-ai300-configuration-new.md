@@ -151,7 +151,7 @@ Keyboard
 
 * Keyboard, German (2nd Gen)
 
-* Keyboard, US English (2nd Gen)
+* Keyboard, US English (2nd Gen)  Backordered - Ships in 2-3 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
 * Keyboard, International English (2nd Gen)
 * Keyboard, Blank ANSI (2nd Gen) +€11
 * Keyboard, Blank ISO (2nd Gen) +€11

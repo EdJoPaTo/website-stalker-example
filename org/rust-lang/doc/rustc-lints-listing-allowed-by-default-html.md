@@ -231,10 +231,10 @@ The `deprecated_llvm_intrinsic` lint detects usage of deprecated LLVM intrinsics
 
 ```
 #![cfg(any(target_arch = "x86", target_arch = "x86_64"))]
-#![feature(link_llvm_intrinsics, abi_unadjusted)]
+#![feature(link_llvm_intrinsics)]
 #![deny(deprecated_llvm_intrinsic)]
 
-unsafe extern "unadjusted" {
+unsafe extern "llvm-intrinsic" {
     #[link_name = "llvm.x86.addcarryx.u32"]
     fn foo(a: u8, b: u32, c: u32, d: &mut u32) -> u8;
 }
@@ -574,7 +574,7 @@ Specifically, if a struct, enum or union contains a reference, directly or indir
 to `T` with lifetime `'x` and `'x` refers to a lifetime parameter,
 then it will infer that `T: 'x` is a requirement.
 
-See [RFC 2093](https://github.com/rust-lang/rfcs/blob/master/text/2093-infer-outlives.md) for more details.
+See [RFC 2093](https://rust-lang.github.io/rfcs/2093-infer-outlives.html) for more details.
 
 >
 >
@@ -1145,7 +1145,8 @@ The `linker_info` lint forwards warnings from the linker that are known to be in
 ### Example ###
 
 ```
-#[warn(linker_info)]
+#![warn(linker_info)]
+
 fn main () {}
 ```
 
@@ -1580,7 +1581,7 @@ note: the lint level is defined here
 This lint allows projects that wish to retain the limit of only using
 ASCII characters to switch this lint to “forbid” (for example to ease
 collaboration or for security reasons).
-See [RFC 2457](https://github.com/rust-lang/rfcs/blob/master/text/2457-non-ascii-idents.md) for more details.
+See [RFC 2457](https://rust-lang.github.io/rfcs/2457-non-ascii-idents.html) for more details.
 
 non-exhaustive-omitted-patterns
 ----------
@@ -2045,20 +2046,20 @@ m!(z"hey");
 This will produce:
 
 ```
-error: prefix `z` is unknown
+error: `z` is parsed as a prefix in Rust 2021 and onward
  --> lint_example.rs:8:4
   |
 8 | m!(z"hey");
-  |    ^ unknown prefix
+  |    ^
   |
-  = warning: this is accepted in the current edition (Rust 2018) but is a hard error in Rust 2021!
+  = warning: this changes meaning in Rust 2021
   = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2021/reserving-syntax.html>
 note: the lint level is defined here
  --> lint_example.rs:1:9
   |
 1 | #![deny(rust_2021_prefixes_incompatible_syntax)]
   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-help: insert whitespace here to avoid this being parsed as a prefix in Rust 2021
+help: consider inserting whitespace here to avoid this
   |
 8 | m!(z "hey");
   |     +
@@ -2151,7 +2152,7 @@ m!(#"hello");
 This will produce:
 
 ```
-error: will be parsed as a guarded string in Rust 2024
+error: this is parsed as a guarded string literal in Rust 2024 and onward
  --> lint_example.rs:9:4
   |
 9 | m!(#"hey"#);
@@ -2164,12 +2165,12 @@ note: the lint level is defined here
   |
 1 | #![deny(rust_2024_guarded_string_incompatible_syntax)]
   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-help: insert whitespace here to avoid this being parsed as a guarded string in Rust 2024
+help: consider inserting whitespace here to avoid this
   |
 9 | m!(# "hey"#);
   |     +
 
-error: will be parsed as a guarded string in Rust 2024
+error: this is parsed as a guarded string literal in Rust 2024 and onward
   --> lint_example.rs:10:4
    |
 10 | m!(#"hello");
@@ -2177,7 +2178,7 @@ error: will be parsed as a guarded string in Rust 2024
    |
    = warning: this is accepted in the current edition (Rust 2021) but is a hard error in Rust 2024!
    = note: for more information, see <https://doc.rust-lang.org/edition-guide/rust-2024/reserved-syntax.html>
-help: insert whitespace here to avoid this being parsed as a guarded string in Rust 2024
+help: consider inserting whitespace here to avoid this
    |
 10 | m!(# "hello");
    |     +
@@ -2416,7 +2417,7 @@ or elide the lifetime altogether if possible.
 This lint is “allow” by default because it was introduced at a time
 when `'_` and elided lifetimes were first being introduced, and this
 lint would be too noisy. Also, there are some known false positives
-that it produces. See [RFC 2115](https://github.com/rust-lang/rfcs/blob/master/text/2115-argument-lifetimes.md) for historical context, and [issue #44752](https://github.com/rust-lang/rust/issues/44752) for more details.
+that it produces. See [RFC 2115](https://rust-lang.github.io/rfcs/2115-argument-lifetimes.html) for historical context, and [issue #44752](https://github.com/rust-lang/rust/issues/44752) for more details.
 
 tail-expr-drop-order
 ----------
@@ -2571,7 +2572,7 @@ incorrectly, or in situations where it will be more difficult to
 clearly express the intent. It may be possible that this will become a
 warning in the future, possibly with an explicit syntax for coercions
 providing a convenient way to work around the current issues.
-See [RFC 401 (coercions)](https://github.com/rust-lang/rfcs/blob/master/text/0401-coercions.md), [RFC 803 (type ascription)](https://github.com/rust-lang/rfcs/blob/master/text/0803-type-ascription.md) and[RFC 3307 (remove type ascription)](https://github.com/rust-lang/rfcs/blob/master/text/3307-de-rfc-type-ascription.md) for historical context.
+See [RFC 401 (coercions)](https://rust-lang.github.io/rfcs/0401-coercions.html), [RFC 803 (type ascription)](https://rust-lang.github.io/rfcs/0803-type-ascription.html) and[RFC 3307 (remove type ascription)](https://rust-lang.github.io/rfcs/3307-de-rfc-type-ascription.html) for historical context.
 
 trivial-numeric-casts
 ----------
@@ -2615,7 +2616,7 @@ incorrectly, or in situations where it will be more difficult to
 clearly express the intent. It may be possible that this will become a
 warning in the future, possibly with an explicit syntax for coercions
 providing a convenient way to work around the current issues.
-See [RFC 401 (coercions)](https://github.com/rust-lang/rfcs/blob/master/text/0401-coercions.md), [RFC 803 (type ascription)](https://github.com/rust-lang/rfcs/blob/master/text/0803-type-ascription.md) and[RFC 3307 (remove type ascription)](https://github.com/rust-lang/rfcs/blob/master/text/3307-de-rfc-type-ascription.md) for historical context.
+See [RFC 401 (coercions)](https://rust-lang.github.io/rfcs/0401-coercions.html), [RFC 803 (type ascription)](https://rust-lang.github.io/rfcs/0803-type-ascription.html) and[RFC 3307 (remove type ascription)](https://rust-lang.github.io/rfcs/3307-de-rfc-type-ascription.html) for historical context.
 
 unit-bindings
 ----------
@@ -3010,7 +3011,7 @@ The fix to this is to wrap the unsafe code in an `unsafe` block.
 
 This lint is “allow” by default on editions up to 2021, from 2024 it is
 “warn” by default; the plan for increasing severity further is
-still being considered. See [RFC #2585](https://github.com/rust-lang/rfcs/blob/master/text/2585-unsafe-block-in-unsafe-fn.md) and [issue #71668](https://github.com/rust-lang/rust/issues/71668) for more
+still being considered. See [RFC #2585](https://rust-lang.github.io/rfcs/2585-unsafe-block-in-unsafe-fn.html) and [issue #71668](https://github.com/rust-lang/rust/issues/71668) for more
 details.
 
 unstable-features

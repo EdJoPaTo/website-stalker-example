@@ -272,19 +272,6 @@ Stick: Direkteinstickung
 
  Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
 
- Hallo Hannover!
-
-###  Messe  ###
-
----
-
- 10.11. - 13.11.2026 | Hannover
----
-
- Halle 11, Stand A45
-
-[mehr Informationen](https://www.eurotier.com/de/)
-
 [Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/?itemorigin=StartseiteHW26)
 
  Von Workwear
