@@ -297,9 +297,10 @@ sites:
       - html_markdownify
 
   - url:
-      - https://doc.rust-lang.org/cargo/reference/semver.html
-      - https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html
-      - https://doc.rust-lang.org/rustdoc/lints.html
+      - https://doc.rust-lang.org/stable/cargo/reference/lints.html
+      - https://doc.rust-lang.org/stable/cargo/reference/semver.html
+      - https://doc.rust-lang.org/stable/rustc/lints/listing/allowed-by-default.html
+      - https://doc.rust-lang.org/stable/rustdoc/lints.html
     editors:
       - css_select: main
       - css_remove: ul:has(li a code)
