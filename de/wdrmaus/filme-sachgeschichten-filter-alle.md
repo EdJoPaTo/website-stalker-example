@@ -493,6 +493,7 @@
 * [Hochregal](https://www.wdrmaus.de/filme/sachgeschichten/hochregal.php5)
 * [Hochseilartisten](https://www.wdrmaus.de/filme/sachgeschichten/hochseilartisten.php5)
 * [Hochwasser](https://www.wdrmaus.de/filme/sachgeschichten/hochwasser.php5)
+* [Höchstes Windrad der Welt](https://www.wdrmaus.de/filme/sachgeschichten/hoechstes_windrad_der_welt.php5)
 * [Höhenfeuerwerk](https://www.wdrmaus.de/filme/sachgeschichten/hoehenfeuerwerk.php5)
 * [Hörspiel](https://www.wdrmaus.de/filme/sachgeschichten/hoerspiel.php5)
 * [Holzbiegen](https://www.wdrmaus.de/filme/sachgeschichten/holzbiegen.php5)
