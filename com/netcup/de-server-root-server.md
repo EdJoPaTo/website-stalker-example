@@ -23,7 +23,7 @@ Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](htt
 
 ### RS 500 G12.5 ###
 
-* AMD EPYC™ 9645
+* AMD EPYC™ 9645 oder 9655
 
 * 2
 
@@ -53,7 +53,7 @@ Empfohlen
 
 ### RS 1000 G12.5 ###
 
-* AMD EPYC™ 9645
+* AMD EPYC™ 9645 oder 9655
 
 * 4
 
@@ -81,7 +81,7 @@ Alle Details ansehen
 
 ### RS 2000 G12.5 ###
 
-* AMD EPYC™ 9645
+* AMD EPYC™ 9645 oder 9655
 
 * 8
 
@@ -109,7 +109,7 @@ Alle Details ansehen
 
 ### RS 4000 G12.5 ###
 
-* AMD EPYC™ 9645
+* AMD EPYC™ 9645 oder 9655
 
 * 12
 
@@ -131,13 +131,13 @@ Alle Details ansehen
 
 77,83 €
 
-89,50 €(inkl. 19% MwSt.)
+89,49 €(inkl. 19% MwSt.)
 
 [Jetzt bestellen\>](https://www.netcup.com/de/server/root-server/rs-4000-g12.5-24m-eu#rs-4000-g12.5-12m-eu)
 
 ### RS 8000 G12.5 ###
 
-* AMD EPYC™ 9645
+* AMD EPYC™ 9645 oder 9655
 
 * 16
 
@@ -165,7 +165,7 @@ Alle Details ansehen
 
 ### RS 12000 G12.5 ###
 
-* AMD EPYC™ 9645
+* AMD EPYC™ 9645 oder 9655
 
 * 20
 
@@ -193,7 +193,7 @@ Alle Details ansehen
 
 ### RS 16000 G12.5 ###
 
-* AMD EPYC™ 9645
+* AMD EPYC™ 9645 oder 9655
 
 * 24
 
