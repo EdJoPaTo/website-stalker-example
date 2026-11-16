@@ -38,7 +38,7 @@ If you are a business customer, need more than five laptops or desktops per orde
 
  Choose an option
 
-[FAQ, System](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=177&faqable_type=section)
+[FAQ, System](https://frame.work/de/en/product_faqs/laptop13-diy-amd-ai300?faqable_id=177&faqable_type=section)
 
 System
 
@@ -73,7 +73,7 @@ Display
 
  Choose an option
 
-[FAQ, Memory](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=178&faqable_type=section)
+[FAQ, Memory](https://frame.work/de/en/product_faqs/laptop13-diy-amd-ai300?faqable_id=178&faqable_type=section)
 
 Memory
 
@@ -93,7 +93,7 @@ Memory
 
  Choose an option
 
-[FAQ, Storage](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=172&faqable_type=section)
+[FAQ, Storage](https://frame.work/de/en/product_faqs/laptop13-diy-amd-ai300?faqable_id=172&faqable_type=section)
 
 Storage
 
@@ -111,7 +111,7 @@ Storage
 
  Choose an option
 
-[FAQ, Operating System](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=173&faqable_type=section)
+[FAQ, Operating System](https://frame.work/de/en/product_faqs/laptop13-diy-amd-ai300?faqable_id=173&faqable_type=section)
 
 Operating System
 
@@ -126,7 +126,7 @@ Operating System
 
  Choose an option
 
-[FAQ, Bezel](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=175&faqable_type=section)
+[FAQ, Bezel](https://frame.work/de/en/product_faqs/laptop13-diy-amd-ai300?faqable_id=175&faqable_type=section)
 
 Bezel
 
@@ -145,7 +145,7 @@ Bezel
 
  Choose an option
 
-[FAQ, Keyboard](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=174&faqable_type=section)
+[FAQ, Keyboard](https://frame.work/de/en/product_faqs/laptop13-diy-amd-ai300?faqable_id=174&faqable_type=section)
 
 Keyboard
 
@@ -191,7 +191,7 @@ Power Adapter
 
  Choose any number
 
-[FAQ, Expansion Cards](https://frame.work/de/en/products/laptop13-diy-amd-ai300/faq?faqable_id=176&faqable_type=section)
+[FAQ, Expansion Cards](https://frame.work/de/en/product_faqs/laptop13-diy-amd-ai300?faqable_id=176&faqable_type=section)
 
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 13.
 

@@ -4709,8 +4709,7 @@ Ja, dies ist auch ohne die BahnBonus App möglich. Sie finden die PrämienWelt a
 
 Die Anmeldung einer *Hilfeleistung* erfolgt nicht automatisch mit der Ticketbuchung. Wenn Sie bei Ihrer Reise Unterstützung brauchen, informieren Sie sich vor der Ticketbuchung:
 
-* Über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten auf [bahnhof.de](https://www.bahnhof.de/).
-
+* Über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten auf [db.info](https://db.info.de/).
 * Über die Ein- und Ausstiegssituation in den Zug auf bahn.de oder im DB Navigator in den Verbindungsdetails unter „Fahrtinformationen“.
 
 Alternativ können Sie sich auch and die Mobilitätsservice-Zentrale wenden**.**
@@ -5134,7 +5133,7 @@ Die Anmeldung einer Hilfeleistung erfolgt nicht automatisch mit der Buchung Ihre
 Als Reisender im Rollstuhl ist es wichtig, dass Sie prüfen,
 
 * ob das Gleis barrierefrei erreichbar ist
-  (Informationen über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten finden Sie auf [www.bahnhof.de/](https://www.bahnhof.de/))
+  (Informationen über die Barrierefreiheit am Bahnhof und die Anwesenheit mobiler Service-Mitarbeitenden und deren Servicezeiten finden Sie auf [db.info](https://db.info/))
 * ob der Einstieg in den Zug selbständig erfolgen kann oder eine Hilfeleistung durch das Zugpersonal erfolgt,
 * ob der Einstieg in den Zug nur mit Hilfe durch das Bahnhofspersonal möglich ist.
   (Informationen über die Ein- und Ausstiegssituation in den Zug finden Sie auf bahn.de oder im DB Navigator in den Verbindungsdetails unter "Fahrtinformationen".)
@@ -6273,10 +6272,10 @@ Die Züge hupen, wenn auf der Strecke Baumaßnahmen stattfinden. So warnen sie d
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-hupen-die-zuege-mehrmals-und-teilweise-noch-sehr-laut)
 
- Warum kann ich meine Daten nicht in der BahnBonus App bearbeiten?
+ Kann ich meine persönlichen Daten direkt in der BahnBonus App bearbeiten?
 ----------
 
-Im Kundenkonto unter bahn.de können Sie Ihre persönlichen Daten online ändern. Über die BahnBonus App wird diese Funktion zukünftig auch bereitgestellt. Wir bitten Sie bis dahin um Geduld. Man kann es in der App bearbeiten durch eine Verlinkung auf bahn.de.
+Aktuell können persönliche Daten nicht direkt in der BahnBonus App geändert werden. Über die App führt eine Verlinkung zum Kundenkonto auf bahn.de, in dem die Daten bearbeitet werden können.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-ich-meine-daten-nicht-in-der-app-bearbeiten)
 
@@ -8961,9 +8960,9 @@ eingelöst werden.
 
 Fahrkarten zum Sparpreis Europa bzw. Super Sparpreis Europa in der 1. und 2. Klasse zu Zielen in der Ukraine können nur in DB Vertriebsstellen (**DB Reisezentrum, DB Agentur**) als Papiertickets gekauft werden. Ein Internetverkauf wird nicht angeboten.
 
-Hier können Sie einen Bahnhof auswählen und unter "Beratung und Unterstützung" sehen, ob ein DB Reisezentrum oder eine DB Agentur am gewählten Bahnhof verfügbar ist:
+Hier können Sie einen Bahnhof auswählen und unter "Hilfe und Orientierung vor Ort" sehen, ob ein DB Reisezentrum oder eine DB Agentur am gewählten Bahnhof verfügbar ist:
 
-* [www.bahnhof.de](https://www.bahnhof.de/)
+* [db.info](https://db.info/)
 
 [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
 

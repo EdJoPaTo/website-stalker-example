@@ -20791,9 +20791,9 @@ Die Tageskarte bekommen Sie in den Bussen, an den DB-Verkaufsstellen und an den 
 
 Fahrkarten zum Sparpreis Europa bzw. Super Sparpreis Europa in der 1. und 2. Klasse zu Zielen in der Ukraine können nur in DB Vertriebsstellen (**DB Reisezentrum, DB Agentur**) als Papiertickets gekauft werden. Ein Internetverkauf wird nicht angeboten.
 
-Hier können Sie einen Bahnhof auswählen und unter "Beratung und Unterstützung" sehen, ob ein DB Reisezentrum oder eine DB Agentur am gewählten Bahnhof verfügbar ist:
+Hier können Sie einen Bahnhof auswählen und unter "Hilfe und Orientierung vor Ort" sehen, ob ein DB Reisezentrum oder eine DB Agentur am gewählten Bahnhof verfügbar ist:
 
-* [www.bahnhof.de](https://www.bahnhof.de/)
+* [db.info](https://db.info/)
 
 [Alle Sparpreise und Super Sparpreise Europa im Überblick](https://www.bahn.de/angebot/international/sparpreis-europa)
 

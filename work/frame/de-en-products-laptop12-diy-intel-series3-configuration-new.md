@@ -50,7 +50,7 @@ Color
 
  Batch Number  Configure to see batch
 
-[FAQ, System](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=314&faqable_type=section)
+[FAQ, System](https://frame.work/de/en/product_faqs/laptop12-diy-intel-series3?faqable_id=314&faqable_type=section)
 
 System
 
@@ -71,7 +71,7 @@ System
 
  Batch Number  Configure to see batch
 
-[FAQ, Memory](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=313&faqable_type=section)
+[FAQ, Memory](https://frame.work/de/en/product_faqs/laptop12-diy-intel-series3?faqable_id=313&faqable_type=section)
 
 Memory
 
@@ -89,7 +89,7 @@ Memory
 
  Batch Number  Configure to see batch
 
-[FAQ, Storage](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=319&faqable_type=section)
+[FAQ, Storage](https://frame.work/de/en/product_faqs/laptop12-diy-intel-series3?faqable_id=319&faqable_type=section)
 
 Storage
 
@@ -106,7 +106,7 @@ Storage
 
  Batch Number  Configure to see batch
 
-[FAQ, Operating System](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=318&faqable_type=section)
+[FAQ, Operating System](https://frame.work/de/en/product_faqs/laptop12-diy-intel-series3?faqable_id=318&faqable_type=section)
 
 Operating System
 
@@ -123,7 +123,7 @@ Operating System
 
  Batch Number  Configure to see batch
 
-[FAQ, Keyboard](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=316&faqable_type=section)
+[FAQ, Keyboard](https://frame.work/de/en/product_faqs/laptop12-diy-intel-series3?faqable_id=316&faqable_type=section)
 
 Keyboard
 
@@ -174,7 +174,7 @@ Power Adapter
 
  Batch Number  Configure to see batch
 
-[FAQ, Expansion Cards](https://frame.work/de/en/products/laptop12-diy-intel-series3/faq?faqable_id=320&faqable_type=section)
+[FAQ, Expansion Cards](https://frame.work/de/en/product_faqs/laptop12-diy-intel-series3?faqable_id=320&faqable_type=section)
 
 Each card can be used in any of the 4 Expansion Card slots on the Framework Laptop 12.
 

@@ -112,7 +112,7 @@ To fix it, call `Shelly.SetAuth` once more:
 * [Scripts](/gen2/ComponentsAndServices/Script): Give scripts their own var pool
 * shelly-os: Bump IDF to 5.5.4-s2
 * shelly-os: Invoke event handlers in registration order
-* [Sys](/gen2/ComponentsAndServices/Sys): Perform repartitioning on space-constrained devices
+* [Sys](/gen2/ComponentsAndServices/Sys): Perform repartitioning on space-constrained devices. On these devices the update to 2.2.0 can run in two steps ([details](#two-step-update-to-220))
 * [Virtual Components](/gen2/DynamicComponents/Virtual/): Expose ownership metadata as attributes
 
 ### Fixed ###
@@ -169,6 +169,25 @@ To fix it, call `Shelly.SetAuth` once more:
 * Provision banner: missing AP error, button link to non-existent AP in [Zigbee](/gen2/ComponentsAndServices/Zigbee)
 * Color wheel overlay; card collapsible symmetry; sticky class overlap for wizard/modal
 * [Plus Uni](/gen2/Devices/Gen2/ShellyPlusUni): peripherals restored
+
+Sys: Perform repartitioning on space-constrained devices
+
+#### Two-step update to 2.2.0 ####
+
+To make room for new features, 2.2.0 reorganises the flash memory (repartitioning) on devices that are short of space. On these devices the update can run in two steps:
+
+1. The device installs the update and restarts. It may come back still reporting the previous firmware version. This is expected.
+2. About a minute and a half later, the device downloads the update again and restarts once more, this time on 2.2.0.
+
+Both steps run automatically when the update comes from the Shelly update server. Do not power off the device until it reports 2.2.0. Not every device needs the second step; some finish in a single pass.
+
+Devices running older firmware are first offered an intermediate release (2.0.3 or 2.1.1, depending on the model) and are offered 2.2.0 after that.
+
+If the device comes back on the previous version and the second step does not start within a few minutes, start the update again.
+
+#### For integrations ####
+
+While a two-step update is expected, [`Sys.GetStatus`](/gen2/ComponentsAndServices/Sys#status) reports `nsteps` in the `available_updates` entry: `1` before the first step, `0` when the last step starts. For regular updates the field is absent. Between the steps the device restarts twice, briefly reports the previous firmware version, and lists 2.2.0 as available again. The device's web interface shows a notice on the Firmware page while the update is in progress.
 
 [2.1.1] 2026-10-26
 ----------

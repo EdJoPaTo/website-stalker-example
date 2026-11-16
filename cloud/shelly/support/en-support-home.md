@@ -5,20 +5,6 @@ Hi, how can we help you?
 [Submit a ticket ---------- Describe your issue by filling out the support ticket form](https://support.shelly.cloud/en/support/tickets/new)
 [Community ---------- Join our exclusive customer community](https://community.shelly.cloud/)
 
-Service Notice
-
-⚠️ Technical Issue: Firmware Update Server
-----------
-
-**Dear Users,**
-
-We are currently experiencing a technical issue affecting our firmware update server. Our engineering team is aware of the situation and is actively working to resolve it as quickly as possible.
-
-We apologize for any inconvenience this may cause and appreciate your patience and understanding.
-
-**Best regards,**
-Shelly Support Team
-
 Knowledge base
 ----------
 

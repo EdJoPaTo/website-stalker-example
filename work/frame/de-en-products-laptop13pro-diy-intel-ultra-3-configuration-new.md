@@ -40,7 +40,7 @@ If you are a business customer, need more than five laptops or desktops per orde
 
  Batch Number  Configure to see batch
 
-[FAQ, System](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=269&faqable_type=section)
+[FAQ, System](https://frame.work/de/en/product_faqs/laptop13pro-diy-intel-ultra-3?faqable_id=269&faqable_type=section)
 
 System
 
@@ -65,7 +65,7 @@ System
 
  Batch Number  Configure to see batch
 
-[FAQ, Memory](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=276&faqable_type=section)
+[FAQ, Memory](https://frame.work/de/en/product_faqs/laptop13pro-diy-intel-ultra-3?faqable_id=276&faqable_type=section)
 
 LPCAMM2 memory on the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) runs at speeds up to 6800 MT/s on Core™ Ultra 5 325, and 7467 MT/s on Core™ Ultra X7 358H and X9 388H.
 
@@ -82,7 +82,7 @@ Memory
 
  Batch Number  Configure to see batch
 
-[FAQ, Storage](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=274&faqable_type=section)
+[FAQ, Storage](https://frame.work/de/en/product_faqs/laptop13pro-diy-intel-ultra-3?faqable_id=274&faqable_type=section)
 
 Storage
 
@@ -104,7 +104,7 @@ Storage
 
  Batch Number  Configure to see batch
 
-[FAQ, Operating System](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=268&faqable_type=section)
+[FAQ, Operating System](https://frame.work/de/en/product_faqs/laptop13pro-diy-intel-ultra-3?faqable_id=268&faqable_type=section)
 
 Operating System
 
@@ -194,7 +194,7 @@ Power Adapter
 
  Batch Number  Configure to see batch
 
-[FAQ, Expansion Cards](https://frame.work/de/en/products/laptop13pro-diy-intel-ultra-3/faq?faqable_id=273&faqable_type=section)
+[FAQ, Expansion Cards](https://frame.work/de/en/product_faqs/laptop13pro-diy-intel-ultra-3?faqable_id=273&faqable_type=section)
 
 Each card can be used in any of the 4 Expansion Card bays on the Framework Laptop 13 Pro.
 We suggest ordering 4 or more Expansion Cards, and that at least 1 is a USB-C Expansion Card for charging the laptop.

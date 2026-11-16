@@ -17,7 +17,7 @@ Ihre Vorteile
 * Teilnahme an **DB Benefits: Angebote, Rabatte und exklusive Aktionen** von über 50 Partnern
 * Monatlich **BahnBonus Prämien- und Statuspunkte** sammeln
 
- 63 €, ab 1. Jan. 66,80 €
+ 63 Euro, ab 1. Jan. 66,80 Euro
 
 [Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
