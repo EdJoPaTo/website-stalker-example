@@ -6,7 +6,7 @@
 
 [Science](https://www.alluringarctic.com/science)
 
-[Next Mission](https://www.alluringarctic.com/next-mission)
+[Crew Area](https://www.alluringarctic.com/archive)
 
 [](https://facebook.com/alluringarctic)[](https://instagram.com/alluringarctic)[](https://youtube.com/alluringarctic)
 

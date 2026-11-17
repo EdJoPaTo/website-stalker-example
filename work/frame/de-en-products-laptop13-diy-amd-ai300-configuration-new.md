@@ -97,7 +97,7 @@ Memory
 
 Storage
 
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB +€150
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB +€150  Backordered - Ships in 2-3 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
