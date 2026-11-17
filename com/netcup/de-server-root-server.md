@@ -221,6 +221,13 @@ Alle Details ansehen
 
 Alle Features vergleichen
 
+netcup Apps ab sofort verfügbar!
+----------
+
+Mit netcup Apps wird die Einrichtung deines Servers noch einfacher. Wähle eine vorkonfigurierte Anwendung aus dem **App Katalog** und installiere sie kostenlos direkt über das Server Control Panel (SCP).
+
+[Jetzt starten\>](https://www.netcup.com/de/apps)
+
 Root Server auf KVM-Basis
 ----------
 

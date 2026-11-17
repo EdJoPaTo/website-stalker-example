@@ -30,8 +30,6 @@ Klassische Einsatzbereiche sind ERP- und Warenwirtschaftssysteme, Multi-User-Umg
 
  Drives
 
-[]()
-
  Die Rechnung für Ihren Server wird niemals die monatliche Preisobergrenze überschreiten. Wenn Sie Ihren Cloud-Server vor dem Ende des Abrechnungsmonats löschen, stellen wir Ihnen nur den Stundensatz in Rechnung. Jeder Cloud-Server wird Ihnen so lange berechnet, bis Sie ihn löschen.
 
  Preis
@@ -64,8 +62,6 @@ Details
 
  20 TB
 
-[]()
-
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -77,8 +73,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
  Traffic inklusive
 
  20 TB
-
-[]()
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -92,8 +86,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 
  1 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -106,8 +98,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
  1 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -119,8 +109,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
  Traffic inklusive
 
  1 TB
-
-[]()
 
 Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten 8,81 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -156,8 +144,6 @@ Details
 
  20 TB
 
-[]()
-
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -169,8 +155,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
  Traffic inklusive
 
  20 TB
-
-[]()
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -184,8 +168,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 
  2 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -198,8 +180,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
  2 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -211,8 +191,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
  Traffic inklusive
 
  2 TB
-
-[]()
 
 Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten 8,81 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -248,8 +226,6 @@ Details
 
  30 TB
 
-[]()
-
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -261,8 +237,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
  Traffic inklusive
 
  30 TB
-
-[]()
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -276,8 +250,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 
  3 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -290,8 +262,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
  3 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -303,8 +273,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
  Traffic inklusive
 
  3 TB
-
-[]()
 
 Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten 8,81 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -340,8 +308,6 @@ Details
 
  40 TB
 
-[]()
-
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -353,8 +319,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
  Traffic inklusive
 
  40 TB
-
-[]()
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -368,8 +332,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 
  4 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -382,8 +344,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
  4 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -395,8 +355,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
  Traffic inklusive
 
  4 TB
-
-[]()
 
 Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten 8,81 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -432,8 +390,6 @@ Details
 
  50 TB
 
-[]()
-
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -445,8 +401,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
  Traffic inklusive
 
  50 TB
-
-[]()
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -460,8 +414,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 
  6 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -474,8 +426,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
  6 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -487,8 +437,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
  Traffic inklusive
 
  6 TB
-
-[]()
 
 Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten 8,81 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -524,8 +472,6 @@ Details
 
  60 TB
 
-[]()
-
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -537,8 +483,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
  Traffic inklusive
 
  60 TB
-
-[]()
 
 Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an EU-Central Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -552,8 +496,6 @@ Für Cloud-Server an EU-Standorten sind mind. 20 TB Inklusivtraffic enthalten. F
 
  8 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -566,8 +508,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
 
  8 TB
 
-[]()
-
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
 Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an US-Standorten 1,19 € pro Stunde, inkl. 19 % MwSt. verrechnet.
@@ -579,8 +519,6 @@ Für Cloud-Server an US-Standorten sind mind. 1 TB Inklusivtraffic enthalten. F�
  Traffic inklusive
 
  8 TB
-
-[]()
 
 Für Cloud-Server an AP-Standorten sind mind. 0,5 TB Inklusivtraffic enthalten. Für jedes weitere TB werden an AP-Standorten 8,81 € pro Stunde, inkl. 19 % MwSt. verrechnet.
 
@@ -804,6 +742,6 @@ startet ab  max/mo. 7,13 € pro Monat, inkl. 19 % MwSt.
 
 Shared: Regular Performance
 
-startet ab  max/mo. 7,72 € pro Monat, inkl. 19 % MwSt.
+startet ab  max/mo. 6,53 € pro Monat, inkl. 19 % MwSt.
 
 [Produkt entdecken](https://www.hetzner.com/de/cloud/regular-performance/)

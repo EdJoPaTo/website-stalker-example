@@ -160,6 +160,13 @@ Alle Features vergleichen
 
 Hier geht es zu den [ARM-Server FAQs](https://www.netcup.com/de/server/arm-server#FAQs)
 
+netcup Apps ab sofort verfügbar!
+----------
+
+Mit netcup Apps wird die Einrichtung deines Servers noch einfacher. Wähle eine vorkonfigurierte Anwendung aus dem **App Katalog** und installiere sie kostenlos direkt über das Server Control Panel (SCP).
+
+[Jetzt starten\>](https://www.netcup.com/de/apps)
+
 Vorteile unserer ARM-Server
 ----------
 

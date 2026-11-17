@@ -80,12 +80,12 @@ startet ab  max/mo. 7,13 € pro Monat, inkl. 19 % MwSt.
 
 Shared: Regular Performance
 
-startet ab  max/mo. 7,72 € pro Monat, inkl. 19 % MwSt.
+startet ab  max/mo. 6,53 € pro Monat, inkl. 19 % MwSt.
 
 [Produkt entdecken](https://www.hetzner.com/de/cloud/regular-performance/)
 
 Dedicated: General Purpose
 
-startet ab  max/mo. 51,75 € pro Monat, inkl. 19 % MwSt.
+startet ab  max/mo. 44,02 € pro Monat, inkl. 19 % MwSt.
 
 [Produkt entdecken](https://www.hetzner.com/de/cloud/general-purpose/)

@@ -10,7 +10,7 @@ OBJECT STORAGE THAT GROWS WITH YOUR NEEDS
  Scalable
 
  Manage data simply and efficiently
-==========
+----------
 
 ###  Object Storage is the S3-compatible storage solution that grows with your data requirements – secure, flexible and accessible via API.  ###
 

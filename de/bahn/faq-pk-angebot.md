@@ -8246,7 +8246,7 @@ DB Gepäckservice-Aufträge, die bis einschließlich 17. Februar 2026 gebucht wu
 
 Bei der Beförderung sind folgende Bedingungen zu erfüllen:
 
-* Maximalmaße: Rollstuhl 125 cm lang x 110 cm breit x 160 cm hoch, orthopädisches Hilsmittel max. 200 cm lang
+* Maximalmaße: Rollstuhl 125 cm lang x 110 cm breit x 160 cm hoch, orthopädisches Hilfsmittel max. 200 cm lang
 * Maximalgewicht: 31,5 kg
 * Dreirädrige Krankenfahrstühle, Krankenfahrräder, Hand-Bikes sowie Elektrofahrzeuge sind von der Beförderung mit dem DB Gepäckservice ausgeschlossen.
 * Der Rollstuhl/das Hilfsmittel muss vollständig verpackt sein.
@@ -9509,9 +9509,9 @@ Die LogPay Financial Services GmbH ist ein etablierter Zahlungsdienstleister im 
  Warum wurde mir eine Mahngebühr vom DB Abo-Center berechnet?
 ----------
 
-Für eine Mahngebühr konnte die Mahnung nicht mehr E-Mail versendet werden. Daher war ein Postversand nötig.
+Ihre Mahnung konnte nicht per E-Mail zugestellt werden und wurde daher per Post versendet. Für den postalischen Versand sind zusätzliche Kosten entstanden, die als Mahngebühr berechnet wurden.
 
-Prüfen Sie, ob Ihre E-Mail im DB Kundenkonto unter "Persönliche Daten" aktuell ist, um künftig zusätzliche Kosten zu vermeiden.
+Damit wir Sie künftig per E-Mail erreichen können, prüfen Sie bitte die hinterlegte E-Mail-Adresse im DB Kundenkonto unter „Persönliche Daten“ und im Aboportal unter „Meine Daten“ und aktualisieren Sie diese bei Bedarf.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mahngebuehr)
 
