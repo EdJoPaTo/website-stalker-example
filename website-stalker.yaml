@@ -359,6 +359,7 @@ sites:
       - https://frame.work/de/en/laptop13
       - https://frame.work/de/en/laptop13pro
       - https://frame.work/de/en/linux
+      - https://frame.work/de/en/products/framework-wireless-touchpad-keyboard
     http1_only: true
     ignore_error: true
     editors:
