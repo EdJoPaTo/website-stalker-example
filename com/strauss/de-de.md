@@ -1,25 +1,144 @@
-Neue Kollektion
+Neuheiten
 ---
 
- Langlebige Holster-Arbeitshosen
+[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+
+ Geschenkideen
 ---
 
- Neue Kollektion
+[](https://www.strauss.com/de/de/geschenkideen/?itemorigin=startseiteXMAS26)
+
+ % Sale
 ---
 
- Langlebige Holster-Arbeitshosen
+[](https://www.strauss.com/de/de/sale/?itemorigin=startseiteXMAS26)
+
+ Neuzugänge
 ---
 
- Nordisch
- robust
+ natürliche Wärmeisolation
 ---
 
-[e.s.line.nordic entdecken](https://www.strauss.com/de/de/e-s-line-nordic/?itemorigin=StartseiteHW26)
+ Daunen Jacke und Parka
+---
 
- Stretch Holster
- Bundhose
+ Bequeme Wärme
+für kalte Tage
+----------
 
-[](https://www.strauss.com/de/de/bundhosen/stretch-holster-bundhose-e-s-line-nordic-3165180-95787-1.html?itemorigin=StartseiteHW26)
+---
+
+[weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+
+ Daunen Jacke
+---
+
+ ab 95,08 €
+---
+
+ (m. MwSt.)
+---
+
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html?itemorigin=startseiteXMAS26)
+
+ Daunen Parka
+---
+
+ ab 104,60 €
+---
+
+ (m. MwSt.)
+---
+
+ Neuheiten
+---
+
+[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+
+ Geschenkideen
+---
+
+[](https://www.strauss.com/de/de/geschenkideen/?itemorigin=startseiteXMAS26)
+
+ % Sale
+---
+
+[](https://www.strauss.com/de/de/sale/?itemorigin=startseiteXMAS26)
+
+ Neuzugänge
+---
+
+ natürliche Wärmeisolation
+---
+
+ Daunen Jacke und Parka
+---
+
+ Bequeme Wärme
+für kalte Tage
+----------
+
+---
+
+[weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+
+ Daunen Jacke
+---
+
+ ab 95,08 €
+---
+
+ (m. MwSt.)
+---
+
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html?itemorigin=startseiteXMAS26)
+
+ Neuheiten
+---
+
+[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+
+ Geschenkideen
+---
+
+[](https://www.strauss.com/de/de/geschenkideen/?itemorigin=startseiteXMAS26)
+
+ % Sale
+---
+
+[](https://www.strauss.com/de/de/sale/?itemorigin=startseiteXMAS26)
+
+ Neuzugänge
+---
+
+ natürliche Wärmeisolation
+---
+
+ Daunen Jacke und Parka
+---
+
+ Bequeme Wärme
+für kalte Tage
+----------
+
+---
+
+[weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html?itemorigin=startseiteXMAS26)
+
+ Verlängertes Umtauschrecht
+==========
+
+---
+
+ innerhalb Deutschlands bis zum 31.01.2027
 
 Alles für den Job:
 Profi-Arbeitskleidung vom Experten
@@ -29,42 +148,6 @@ Profi-Arbeitskleidung vom Experten
 ---
 
 [Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
-
- Adventskalender Edition 8
----
-
- Hinter jeder Tür ein Tool
-----------
-
----
-
-24 Türchen voller Werkzeug und Zubehör, das jedes Handwerkerherz höherschlagen lässt. Verpackt in 2 superkompakten Toolboxen – so hält die Freude das ganze Jahr über!
-
-[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
-
-[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
-
- e.s. Adventskalender Edition 8
-
- ab 47,48 €
-
- (m. MwSt.)
-
- ab 39,90 € (ohne MwSt.)
-
-[
-
-]()
-
-[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
-
- NEU
----
-
- NEU
----
 
  Engelbird Nikolaussocke
 ---
@@ -93,6 +176,160 @@ Freude drin
  NEU
 ---
 
+[](https://www.strauss.com/de/de/damenblusen-hemden/e-s-fleecehemd-damen-3110920-87370-702.html?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/arbeitshemden/e-s-fleecehemd-3110910-87363-1996.html?itemorigin=startseiteXMAS26)
+
+ Geschenke für
+
+###  Familie
+& Freunde  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/?itemorigin=startseiteXMAS26)
+
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/?itemorigin=startseiteXMAS26)
+
+ Geschenke für
+
+###  Kids  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseiteXMAS26)
+
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseiteXMAS26)
+
+ Passende
+
+###  Accessoires  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseiteXMAS26)
+
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/socken/e-s-faserpelzsocke-1501090-7915811-1987.html?itemorigin=StartseiteXMAS26)
+
+ Geschenke
+
+###  unter 25 €<sup>*</sup>  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseiteXMAS26)
+
+[jetzt entdecken](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseiteXMAS26)
+
+ Geschenke
+
+###  von 25 bis 50 €<sup>*</sup>  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseiteXMAS26)
+
+[jetzt entdecken](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseiteXMAS26)
+
+ Geschenke
+
+###  über 50 €<sup>*</sup>  ###
+
+---
+
+[jetzt entdecken](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseiteXMAS26)
+
+[jetzt entdecken](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseiteXMAS26)
+
+ \*Die Preisangabe bezieht sich auf den Nettopreis
+
+ Highlight-Set
+---
+
+ 4 Artikel im Set
+
+ Bundhose e.s.motion 2020
+
+ 15 Farben
+
+ Latzhose e.s.motion 2020
+
+ 11 Farben
+
+ Bundhose e.s.motion 2020 Winter
+
+ 12 Farben
+
+ Bundhose e.s.motion 2020 Winter
+
+ 12 Farben
+
+ Bundhose e.s.motion 2020 Winter
+
+ 12 Farben
+
+ \+ Gratis
+
+ \+ Gratis
+
+ \+ Gratis
+
+ \+ Gratis
+
+ \+ Gratis
+
+ \+ Gratis
+
+ SET: 2x Bund- / Latzhosen e.s.motion 2020
+**\+ zwei Geschenke gratis**
+
+[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets-weihnachts-sets/FS0058?variantId=cbd41650-d2d1-4370-b4d1-487c0729f079&itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/flexibleset/flexible-sets-weihnachts-sets/FS0058?variantId=cbd41650-d2d1-4370-b4d1-487c0729f079&itemorigin=startseiteXMAS26)
+
+ Weihnachtssets
+----------
+
+---
+
+ flexibel kombinierbar
+---
+
+ für Damen, Herren & Kinder
+---
+
+ Weihnachtssets
+----------
+
+---
+
+ für Damen, Herren & Kinder
+---
+
+ Geschenke
+zu jedem Set
+---
+
+[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/?itemorigin=startseiteXMAS26)
+
+[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/westen/heizweste-e-s-ambition-3140720-78429-1.html?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/hybridjacken-damen/heiz-hybrid-kapuzenstrickjacke-e-s-trail-damen-3135250-78444-1.html?itemorigin=startseiteXMAS26)
+
+[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-heizjacke-e-s-concrete-3135240-78439-1.html?itemorigin=startseiteXMAS26)
+
 [](https://www.strauss.com/de/de/westen/heizweste-e-s-ambition-3140720-78429-1.html?itemorigin=startseiteXMAS26)
 
 [](https://www.strauss.com/de/de/hybridjacken-damen/heiz-hybrid-kapuzenstrickjacke-e-s-trail-damen-3135250-78444-1.html?itemorigin=startseiteXMAS26)
@@ -100,6 +337,8 @@ Freude drin
 [](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-heizjacke-e-s-concrete-3135240-78439-1.html?itemorigin=startseiteXMAS26)
 
  Heizartikel
+----------
+
 ---
 
  3 Heizstufen
@@ -114,9 +353,11 @@ Knopfdruck
 
 ---
 
-[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=StartseiteHW26)
+[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=StartseiteXMAS26)
 
  Heizartikel
+----------
+
 ---
 
  Wärme auf
@@ -125,7 +366,7 @@ Knopfdruck
 
 ---
 
-[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=StartseiteHW26)
+[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=StartseiteXMAS26)
 
  Kann bis zu zwei Heizartikel
 gleichzeitig betreiben.
@@ -134,134 +375,106 @@ gleichzeitig betreiben.
 
 [](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
 
- Kann bis zu zwei Heizartikel
-gleichzeitig betreiben.
+ Kann bis zu zwei Heizartikel gleichzeitig betreiben.
 
-[Power-Bank gleich mitbestellen](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
+[Power-Bank](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
 
 [](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
 
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93361-1766.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93362-1778.html?itemorigin=StartseiteHW26)
-
- \+4
-
- S7 e.s. Murcia mid
-
- ab 106,98 €
-
- (m. MwSt.)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26) [](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93361-1766.html?itemorigin=StartseiteHW26)
-
- \+5
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93362-1778.html?itemorigin=StartseiteHW26)
-
- S7 e.s. Murcia mid
-
- ab 106,98 €
-
- (m. MwSt.)
-
-[](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26) [](https://www.strauss.com/de/de/sicherheitsschuhe-s7/s7-sicherheitsschuhe-e-s-murcia-mid-1302140-93360-1.html?itemorigin=StartseiteHW26)
-
- Wetterfeste Sicherheitsschuhe
----
-
- Bodyguards
-für die Füsse
----
-
-[alle Wetter Experten](https://www.strauss.com/de/de/sicherheitsschuhe-s7/?itemorigin=StartseiteHW26)
-
- S7
----
-
- Sicherheitsschuhe mit Zehenschutz, Durchtrittsschutz & Wetterschutz
-
- S7
----
-
- Sicherheitsschuhe mit Zehenschutz, Durchtrittsschutz & Wetterschutz
-
- BOA® Fit System für eine fein-einstellbare, präzise Passform
-
- STRAUSSbox 125 small inkl. Trennstege
-
- 3 Farben
-
- STRAUSSbox 125 small inkl. Trennstege
-
- 3 Farben
-
- \-20%
----
-
- STRAUSSbox-SET: 2x STRAUSSbox 125 small+4 Inserts
-
-[jetzt konfigurieren](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0055?variantId=10082169-f907-41c1-9e12-632f276a814c)
-
-[](https://www.strauss.com/de/de/flexibleset/flexible-sets/FS0055?variantId=10082169-f907-41c1-9e12-632f276a814c)
-
- Strauss Aktionssets
----
-
- Spar
-Deals!
----
-
- Farben, Größen, Produkte: Sets flexibel erstellen und starke Rabatte erhalten.
-
-[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
-
-[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets/)
-
- Druck & Stick - ab 1 Stück
+ 3-in-1 Funktionsjacke
 ----------
 
 ---
 
+ Regenschutz + ultraleichte Wärme
+---
+
+ 3 Tagevarianten
+---
+
+ 3-in-1 Funktionsjacke
+----------
+
+---
+
+ Wetter-
+Allrounder
+---
+
+[alle Winterjacken entdecken](https://www.strauss.com/de/de/winter-arbeitsjacken/?itemorigin=startseiteXMAS26)
+
+ ab 95,08 €
+---
+
+ (m. MwSt.)
+
+ ab 95,08 €
+---
+
+ (m. MwSt.)
+
+ \+2
+
+ 3 in 1 Funktionsjacke e.s.line.core
+
+[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-line-core-3135550-64319-1.html?itemorigin=startseiteXMAS26)
+
+ \+2
+
+ 3 in 1 Funktionsjacke e.s.line.core
+
+[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-line-core-3135550-64319-1.html?itemorigin=startseiteXMAS26)
+
+ Bis zum 11.12. bestellen - Lieferung pünktlich zum Fest erhalten! \*
+----------
+
+---
+
+ \*Gilt nur für eigene, bereits im MYDESIGN-Konfigurator hinterlegte und freigeschaltete Easytransfer- und
+Direktstickmotive, sowie Motive aus der MYDESIGN Motivdatenbank.
+
  Geschenke gestalten
+----------
+
 ---
 
 jetzt gestalten
 
 [mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteXMAS26)
 
- Druck & Stick - ab 1 Stück
+ Bis zum 11.12. bestellen - Lieferung pünktlich zum Fest erhalten! \*
+----------
+
 ---
 
+ \*Gilt nur für eigene, bereits im MYDESIGN-Konfigurator hinterlegte und freigeschaltete Easytransfer- und
+Direktstickmotive, sowie Motive aus der MYDESIGN Motivdatenbank.
+
  Geschenke gestalten
+----------
+
 ---
 
 jetzt gestalten
 
 [mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteXMAS26)
 
- mehr bestellen, mehr sparen
+ Druck und Stick bereits ab 1 Stück
 ---
 
- unkompliziert gestalten & bestellen
+ für Textilien mit persönlicher Note
 ---
 
- über 500 verfügbare Motive & Motivupload
+ 500+ Motive & Logo- und Motiv-Upload
 ---
 
- mehr bestellen, mehr sparen
+ Druck und Stick bereits ab 1 Stück
 ---
 
- unkompliziert gestalten & bestellen
+ für Textilien mit persönlicher Note
 ---
 
- über 500 verfügbare Motive & Motivupload
+ 500+ Motive & Logo- und Motiv-Upload
 ---
 
 Druck: Easytransfer
@@ -271,6 +484,113 @@ Druck: Easytransfer
 Stick: Direkteinstickung
 
  Edel, robust & hochwertig – perfekt für stark beanspruchte Arbeitskleidung, da heiß waschbar, auch Industriewäsche.
+
+ Gutschein
+verschenken
+----------
+
+---
+
+ Ein Strauss Gutschein passt immer! Digital zum Ausdrucken oder als
+Gutscheinkarte per Post – mit passender Box je nach Wert.
+
+ Ein Strauss Gutschein passt immer! Digital zum Ausdrucken oder als Gutscheinkarte per Post – mit passender Box je nach Wert.
+
+ Ein Strauss Gutschein passt immer! Digital zum Ausdrucken oder als Gutscheinkarte per Post – mit passender Box je nach Wert.
+
+[Sofort ausdrucken](https://gutschein.strauss.de/F6161?itemorigin=startseiteXMAS26)
+
+[per Post bestellen](https://www.strauss.com/de/de/arbeitskleidung-herren/warengutschein-111110-1499911-0.html?itemorigin=startseiteXMAS26)
+
+[Sofort ausdrucken](https://gutschein.strauss.de/F6161?itemorigin=startseiteXMAS26)
+
+[per Post bestellen](https://www.strauss.com/de/de/arbeitskleidung-herren/warengutschein-111110-1499911-0.html?itemorigin=startseiteXMAS26)
+
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+
+ Kooperationen
+----------
+
+---
+
+ Geschenke für Groß & Klein
+---
+
+ Kooperationen
+----------
+
+---
+
+ Geschenke für Groß & Klein
+---
+
+ Strauss
+Fanwear
+---
+
+[alles entdecken](https://www.strauss.com/de/de/kollaborationen/?itemorigin=startseiteXMAS26)
 
 [Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/?itemorigin=StartseiteHW26)
 
@@ -317,7 +637,7 @@ bis Werkzeug – Über
 
 [](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
 
- 30 TAGE RÜCKGABERECHT
+ Verlängertes Umtauschrecht
 
 [mehr Infos](https://www.strauss.com/de/de/Service/Umtausch?itemorigin=StartseiteHW26)
 
@@ -328,6 +648,20 @@ bis Werkzeug – Über
  KAUF AUF RECHNUNG
 
 [mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen?itemorigin=StartseiteHW26)
+
+ GRATIS VERSAND
+==========
+
+---
+
+ innerhalb Deutschlands bis zum 22.12.2026
+
+ GRATIS VERSAND
+==========
+
+---
+
+ innerhalb Deutschlands bis zum 22.12.2026
 
 [Strauss America, English](https://us.strauss.com/)
 
@@ -388,8 +722,6 @@ bis Werkzeug – Über
 [Strauss Srbija, Srpski](https://rs.strauss.com/)
 
 []()
-
-zzgl. Versandkosten
 
 [Service 0 60 50 / 97 10 12](tel:+496050971012)
 
@@ -468,9 +800,7 @@ Sprachauswahl
 
 de en fr
 
-Alle Preise zzgl. Versandkosten bei Bestellungen unter 178,50 € Warenwert.
-
- Alle Preise zzgl. gesetzlicher MwSt. zzgl. Versandkosten bei Bestellungen unter 150,00 € Warenwert.
+ Alle Preise zzgl. gesetzlicher MwSt.
 
 * [Datenschutz](https://www.strauss.com/de/de/Rechtliches/Datenschutz)
 * [AGB](https://www.strauss.com/de/de/Rechtliches/AGB)
