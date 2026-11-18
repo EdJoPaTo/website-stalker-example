@@ -8080,22 +8080,22 @@ Sie können Ihre Entschädigung auf folgende Weise beantragen:
 **Für Einzelfahrkarten:**
 
 * Loggen Sie sich in Ihr DB Kundenkonto ein.
-* Gehen Sie auf „Meine Reisen“ (bahn.de) oder „Reisen“ (DB Navigator).
-* Wählen Sie „Vergangene Reisen“ und dann das entsprechende Ticket.
-* Klicken Sie auf „Entschädigung beantragen“ (bahn.de) oder im DB Navigator auf „Weitere Aktionen“ und dann „Entschädigung beantragen“.
+* Gehen Sie auf "Meine Reisen" (bahn.de) oder "Reisen" (DB Navigator).
+* Wählen Sie "Vergangene Reisen" und dann das entsprechende Ticket.
+* Klicken Sie auf "Entschädigung beantragen" (bahn.de) oder im DB Navigator auf "Weitere Aktionen" und dann "Entschädigung beantragen".
 * Folgen Sie den weiteren Anweisungen.
 
 **Für BahnCard 100:**
 
-* Gehen Sie im DB Kundenkonto auf „BahnCard“.
-* Klicken Sie bei der BahnCard auf „Optionen“ und dann auf „Entschädigung beantragen“.
+* Gehen Sie im DB Kundenkonto auf "BahnCard".
+* Klicken Sie bei der BahnCard auf "Optionen" und dann auf "Entschädigung beantragen".
 * Folgen Sie den weiteren Anweisungen.
 
 **Für Zeitfahrkarten:**
 
-* Gehen Sie auf „Zeitkarten & Abos“.
+* Gehen Sie auf "Zeitkarten & Abos".
 * Wählen Sie die entsprechende Zeitfahrkarte aus.
-* Klicken Sie auf „Entschädigung beantragen“ und folgen Sie den weiteren Schritten.
+* Klicken Sie auf "Entschädigung beantragen" und folgen Sie den weiteren Schritten.
 
 **Digital über die Auftragssuche**
 
@@ -8137,10 +8137,10 @@ Sie können Ihre Entschädigung auf folgende Weise beantragen:
 **Einsendung des Formulars:**
 
 * Per Post an:
-   DB Fernverkehr AG
-   Servicecenter Fahrgastrechte
-   60647 Frankfurt am Main
-   Deutschland
+  DB Fernverkehr AG
+  Servicecenter Fahrgastrechte
+  60647 Frankfurt am Main
+  Deutschland
 * Alternativ: Abgabe in einem DB Reisezentrum oder Verkaufsstelle.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-kann-ich-meine-entschaedigung-beantragen)
@@ -8515,17 +8515,6 @@ Ihre eingerichtete wiederholende Reise finden Sie im Menüpunkt "Reisen" unter "
 Ihr Gerät führt Sie durch die weiteren Schritte zur Einrichtung.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-richte-ich-passkey-ein)
-
- Wie schütze ich mich vor Betrug beim Online-Kauf?
-----------
-
-* Werden Sie wachsam, wenn Ihnen vermeintliche "Schnäppchen" über Drittanbieter, z.B. über Mitfahrer-Portale, angeboten werden.
-* Kaufen Sie Ihre Fahrkarte nur bei bahn.de oder einem vertrauenswürdigen etablierten Partnerportal mit integrierter Buchung.
-* Kaufen Sie nur dort, wo Sie selbst den kompletten Buchungsprozess durchlaufen und achten Sie dabei auf Sicherheitsstandards und verschlüsselte Übertragung (SSL).
-* Lassen Sie eine Buchung für Dritte online nur durch eine Ihnen bekannte Person durchführen.
-* Geben Sie Ihre sensiblen persönlichen Daten wie Ausweis- oder Kreditkartennummer nicht an fremde Personen per E-Mail weiter!
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-schuetze-ich-mich-vor-betrug-beim-online-kauf)
 
  Wie sicher ist das WLAN-Netzwerk im Zug?
 ----------
