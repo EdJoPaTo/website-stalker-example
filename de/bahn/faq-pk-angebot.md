@@ -13113,7 +13113,7 @@ Die Beförderungsbedingungen und Geltungsbereiche der Schöner-Tag24h Tickets NR
 
 Es werden für Bayern, Sachsen und Thüringen EgroNet-Tickets angeboten. Weiterführende Informationen und Tarifbedingungen finden Sie auf dieser Site.
 
-* [egronet.de](https://egronet.de/ticket/preise/tarifhinweise)
+* [freiraum-fichtelgebirge.de/egronet](https://freiraum-fichtelgebirge.de/egronet/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/tarifbedingungen-egronet-tickets)
 
