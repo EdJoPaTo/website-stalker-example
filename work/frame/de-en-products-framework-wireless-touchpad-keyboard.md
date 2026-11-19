@@ -82,16 +82,16 @@ FAQs
 
  Close
 
- Batch 12 - Ships Q2
+ Batch 13 - Ships Q2
 
  Batch timelines
 ----------
 
- Batch 1  Ships Q1 - Sold Out  Batch 2  Ships Q1 - Sold Out  Batch 3  Ships Q1 - Sold Out  Batch 4  Ships Q1 - Sold Out  Batch 5  Ships Q1 - Sold Out  Batch 6  Ships Q1 - Sold Out  Batch 7  Ships Q1 - Sold Out  Batch 8  Ships Q1 - Sold Out  Batch 9  Ships Q1 - Sold Out  Batch 10  Ships Q1 - Sold Out  Batch 11  Ships Q2 - Sold Out  Batch 12  Ships Q2  Batch 13  Ships Q2
+ Batch 1  Ships Q1 - Sold Out  Batch 2  Ships Q1 - Sold Out  Batch 3  Ships Q1 - Sold Out  Batch 4  Ships Q1 - Sold Out  Batch 5  Ships Q1 - Sold Out  Batch 6  Ships Q1 - Sold Out  Batch 7  Ships Q1 - Sold Out  Batch 8  Ships Q1 - Sold Out  Batch 9  Ships Q1 - Sold Out  Batch 10  Ships Q1 - Sold Out  Batch 11  Ships Q2 - Sold Out  Batch 12  Ships Q2 - Sold Out  Batch 13  Ships Q2  Batch 14  Ships Q2
 
  Close
 
- Batch 12 - Ships Q2
+ Batch 13 - Ships Q2
 
  Add to bag
 
@@ -121,7 +121,7 @@ Deposit
 
  Secure your pre-order with a deposit. Cancel any time before shipment for a full refund.
 
-Batch 12 Ships Q2
+Batch 13 Ships Q2
 
  Add pre-order to bag
 
@@ -293,16 +293,16 @@ FAQs
 
  Close
 
- Batch 12 - Ships Q2
+ Batch 13 - Ships Q2
 
  Batch timelines
 ----------
 
- Batch 1  Ships Q1 - Sold Out  Batch 2  Ships Q1 - Sold Out  Batch 3  Ships Q1 - Sold Out  Batch 4  Ships Q1 - Sold Out  Batch 5  Ships Q1 - Sold Out  Batch 6  Ships Q1 - Sold Out  Batch 7  Ships Q1 - Sold Out  Batch 8  Ships Q1 - Sold Out  Batch 9  Ships Q1 - Sold Out  Batch 10  Ships Q1 - Sold Out  Batch 11  Ships Q2 - Sold Out  Batch 12  Ships Q2  Batch 13  Ships Q2
+ Batch 1  Ships Q1 - Sold Out  Batch 2  Ships Q1 - Sold Out  Batch 3  Ships Q1 - Sold Out  Batch 4  Ships Q1 - Sold Out  Batch 5  Ships Q1 - Sold Out  Batch 6  Ships Q1 - Sold Out  Batch 7  Ships Q1 - Sold Out  Batch 8  Ships Q1 - Sold Out  Batch 9  Ships Q1 - Sold Out  Batch 10  Ships Q1 - Sold Out  Batch 11  Ships Q2 - Sold Out  Batch 12  Ships Q2 - Sold Out  Batch 13  Ships Q2  Batch 14  Ships Q2
 
  Close
 
- Batch 12 - Ships Q2
+ Batch 13 - Ships Q2
 
  Add to bag
 
@@ -330,6 +330,6 @@ Deposit
 
  Secure your pre-order with a deposit. Cancel any time before shipment for a full refund.
 
-Batch 12 Ships Q2
+Batch 13 Ships Q2
 
  Add pre-order to bag
