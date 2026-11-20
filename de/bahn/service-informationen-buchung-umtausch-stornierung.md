@@ -87,22 +87,13 @@ Bei einer zu erwartenden Verspätung von mindestens 20 Minuten am Zielort gelten
 
 #### Kosten und Bedingungen ####
 
-**Online gebucht**
+Sie können in Abhängigkeit vom gebuchten Angebot Ihr Gruppenticket stornieren oder eine Teilnehmerreduktion vornehmen.
 
-* Stornierung **der gesamten Fahrt** bis 7 Tage vor Reiseantritt: 19 Euro je Gruppenticket.
-* Stornierung **einzelner Teilnehmer** oder Umtausch: nicht möglich.
+Sie können die gesamte Fahrt bis 30 Tage vor dem Reisetag kostenfrei stornieren oder eine kostenlose Teilnehmerreduktion vornehmen. Danach können Sie die gesamte Gruppenreise für 10 Euro je stornierender Person und Buchungsvorgang bis einen Tag vor Abfahrt erstatten lassen.
 
-**Buchung über Ihre DB Verkaufsstelle vor Ort oder telefonisch**
+**Sofortstornierung**
 
-1. Stornierung der gesamten Gruppenreise
-
-* Bis 14 Tage vor Reisetag: kostenfrei
-* Ab 13 Tage bis 1 Tag vor Reiseantritt: 5 Euro pro zu stornierender Person und Ticket, kein Umtausch mehr möglich
-
-2. Stornierung einzelner Teilnehmer
-
-* Bis 14 Tage vor Reisetag: kostenfrei.
-* Ab 13 Tage bis 1 Tag vor dem Reisetag: 5 Euro pro zu stornierender Person. Die verbleibende Gruppe muss aus mindestens 6 Personen bestehen.
+Unabhängig von den tariflichen Angebotskonditionen können Sie Ihr Digitales Ticket **innerhalb von 3 Stunden** (180 Minuten) nach der Buchung kostenlos stornieren. Sie erhalten den kompletten Zahlungsbetrag zurück.
 
 ###  Flexpreis/Flexpreis Europa/ Normalpreis (online oder mobil gebucht)  ###
 

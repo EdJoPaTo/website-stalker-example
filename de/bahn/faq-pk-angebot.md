@@ -1947,7 +1947,7 @@ Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattier
  Bekomme ich Rabatt auf den Flexpreis Young mit der BahnCard?
 ----------
 
-Ja. **Mit der BahnCard 25 gibt es 25 %** und **mit der** **BahnCard 50 50 % Rabatt** auf den Flexpreis Young.
+Ja. **Mit der BahnCard 25** gibt es **25 %** und **mit der** **BahnCard 50 50 % Rabatt** auf den Flexpreis Young.
 
 * [Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
 
@@ -3134,7 +3134,7 @@ Wenn hingegen laut Buchungsanfrage ausschließlich Züge des DB Fernverkehrs ben
  Wo und wie kann ich den Flexpreis Young kaufen?
 ----------
 
-Den Flexpreis Young kann über **bahn.de** oder unsere **App DB Navigator** gekauft werden.
+Der Flexpreis Young kann über **bahn.de** oder unsere **App DB Navigator** gekauft werden.
 
 Bitte dazu **bei der Buchung** unter „Reisende, Fahrräder, BahnCards“ bzw. im DB Navigator unter „Reisende, Fahrräder, Ermäßigungen“ den **Reisendentyp „Person (15-26 Jahre)“** sowie die **2. Klasse** **auswählen**.
 
@@ -3347,7 +3347,7 @@ Ja. In **140 Städten** ist für Sie das **City-Ticket kostenfrei** enthalten. 
  Ist das City-Ticket im Flexpreis Young enthalten?
 ----------
 
-Ja. In **140 Städten ist das City-Ticket kostenfrei** enthalten. Ob dein Start- oder Zielbahnhof dazugehört, erkennst du an dem Vermerk **„+City“** auf deinem Ticket.
+Ja. In **140 Städten ist das City-Ticket kostenfrei** enthalten. Ob der jeweilige Start- oder Zielbahnhof dazugehört, erkennst man an dem Vermerk **„+City“** auf dem Ticket.
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
@@ -12623,7 +12623,7 @@ Ja.
 
 Unabhängig von den Angebots-Bedingungen:
 
-* Du kannst dein Digitales Ticket vor dem 1. Geltungstag innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei stornieren und erhälst den kompletten Betrag zurück.
+* Das Digitale Ticket kann vor dem 1. Geltungstag innerhalb von 3 Stunden (180 Minuten) nach der Buchung kostenfrei storniert werden. Der komplette Betrag wird dann zurückerstattet.
 
 * [Mehr Informationen zur Sofortstornierung](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung)
 
@@ -12837,7 +12837,7 @@ Als Ausnahme gilt, wenn Sie aufgrund Ihrer Fahrgastrechte Anspruch auf eine Rüc
  Warum finde ich auf meiner Strecke den Flexpreis Young nicht?
 ----------
 
-Du kannst das Angebot "Flexpreis Young" **für Reisen im Zeitraum vom 1. September bis 12. Dezember 2026** buchen. Eine **Teilstrecke** musst du dabei **in Zügen der Produktklasse ICE oder IC/EC** zurücklegen.
+Das Angebot "Flexpreis Young" ist **für Reisen im Zeitraum vom 1. September bis 12. Dezember 2026** buchbar. Eine **Teilstrecke** muss dabei **in Zügen der Produktklasse ICE oder IC/EC** zurückgelegt werden.
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
