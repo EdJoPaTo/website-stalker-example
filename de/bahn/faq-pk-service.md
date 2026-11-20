@@ -246,23 +246,6 @@ Sie haben ein 1. Klasse-Ticket? Ihre reservierten Sitzplätze sind nicht in der 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/18wie-finde-ich-schnell-zu-meinem-fahrradstellplatz-im-zug)
 
- Muss ich mein Fahrrad für die Mitnahme in Fernverkehrszügen kennzeichnen?
-----------
-
-Nein, generell ist das nicht notwendig. Zeigen Sie bei der Fahrkartenkontrolle zusätzlich zur Fahrkarte auch Ihre Fahrradkarte und die Stellplatzreservierung vor.
-
-**Ausnahme für Reisen nach Italien (via Österreich/Brenner)**
-
-Wenn Sie Ihr Fahrrad in einem EC-Zug nach Italien (via Österreich/Brenner) mitnehmen wollen, müssen Sie eine Kennzeichnung anhängen. Bitte drucken und füllen Sie die Fahrradbanderole aus. Befestigen Sie diese vor Fahrtantritt an Ihrem Fahrrad. Die Banderole ist kein Ersatz für die Fahrradkarte bzw. Stellplatzreservierung.
-
-* [Banderole downloaden (PDF, 293 KB)](https://assets.static-bahn.de/dam/jcr:5b1c4dbe-43eb-46c4-bbcd-018087f319e8/Banderole%20zur%20Fahrradmitnahme.2022-06-15-07-52-14.pdf)
-
-[Weitere Informationen zur Fahrradkarte im Fernverkehr](https://www.bahn.de/angebot/zusatzticket/fahrrad/fahrradkarte-fernverkehr)
-
-[Jetzt buchen](https://www.bahn.de/buchung/intern/start#?R=3:16:KLASSENLOS:1)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/19muss-ich-mein-fahrrad-fuer-die-mitnahme-in-fernverkehrszuegen-kennzeichnen)
-
  Was sind Ersatzcodes für die 2-Faktor-Authentifizierung und wie verwende ich sie für das DB Kundenkonto?
 ----------
 
@@ -893,7 +876,7 @@ Mit der BahnCard 25/50/100 erhalten Sie **25% Rabatt auf den deutschen Streckena
  Bekomme ich Rabatt auf den (Super) Sparpreis Young mit der BahnCard?
 ----------
 
-Mit der BahnCard 25 und 50 erhältst du 25 Prozent Rabatt.
+Mit der BahnCard 25 und 50 erhält man 25 Prozent Rabatt.
 
 * [Zu den BahnCards für junge Reisende](https://www.bahn.de/angebot/bahncard/junge-reisende)
 
@@ -1394,7 +1377,7 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wie bucht man den (Super) Sparpreis Young?
 ----------
 
-Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft**. Der Tarif ist für Kundinnen und Kunden bis einschließlich 26 Jahren gedacht. Unter reisende Person "15-26 Jahre" findest du den (Super) Sparpreis Young neben allen anderen Tarifen und kannst ihn, sofern verfügbar, buchen. Das Gleiche gilt auch für die App.
+Der (Super) Sparpreis Young ist in der **regulären Verbindungsauskunft** zu finden. Der Tarif ist für Kundinnen und Kunden bis einschließlich 26 Jahren gedacht. Unter reisende Person "15-26 Jahre" findet man den (Super) Sparpreis Young neben allen anderen Tarifen und kann ihn, sofern verfügbar, buchen. Das Gleiche gilt auch für die App.
 
 **Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 

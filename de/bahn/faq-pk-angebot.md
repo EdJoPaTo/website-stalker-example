@@ -1944,6 +1944,19 @@ Mit der BahnCard 100 erhalten Sie den deutschen Streckenanteil zu 100% rabattier
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-europa)
 
+ Bekomme ich Rabatt auf den Flexpreis Young mit der BahnCard?
+----------
+
+Ja. **Mit der BahnCard 25 gibt es 25 %** und **mit der** **BahnCard 50 50 % Rabatt** auf den Flexpreis Young.
+
+* [Weitere Informationen zur BahnCard](https://www.bahn.de/angebot/bahncard)
+
+[Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
+
+[Strecke auswählen](https://www.bahn.de/buchung/intern/start#?R=9:16:KLASSENLOS:1&BP=true)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/bahncard-flexpreis-young)
+
  Haben Sie schon ein SEPA-Lastschriftmandat eingerichtet und trotzdem eine Mahnung für Ihre BahnCard erhalten?
 ----------
 
@@ -2033,7 +2046,7 @@ Nein, Sie bekommen keinen BahnCard-Rabatt bei einer Buchung der Gruppenangebote.
  Bekomme ich Rabatt auf den (Super) Sparpreis Young mit der BahnCard?
 ----------
 
-Mit der BahnCard 25 und 50 erhältst du 25 Prozent Rabatt.
+Mit der BahnCard 25 und 50 erhält man 25 Prozent Rabatt.
 
 * [Zu den BahnCards für junge Reisende](https://www.bahn.de/angebot/bahncard/junge-reisende)
 
@@ -3121,11 +3134,11 @@ Wenn hingegen laut Buchungsanfrage ausschließlich Züge des DB Fernverkehrs ben
  Wo und wie kann ich den Flexpreis Young kaufen?
 ----------
 
-Den Flexpreis Young kannst du über **bahn.de** oder unsere **App DB Navigator** kaufen.
+Den Flexpreis Young kann über **bahn.de** oder unsere **App DB Navigator** gekauft werden.
 
-Bitte wähle dazu bei der Buchung unter „Reisende, Fahrräder, BahnCards“ bzw. im DB Navigator unter „Reisende, Fahrräder, Ermäßigungen“ den **Reisendentyp „Person (15-26 Jahre)“** sowie die **2. Klasse** aus.
+Bitte dazu **bei der Buchung** unter „Reisende, Fahrräder, BahnCards“ bzw. im DB Navigator unter „Reisende, Fahrräder, Ermäßigungen“ den **Reisendentyp „Person (15-26 Jahre)“** sowie die **2. Klasse** **auswählen**.
 
-Beachte, dass bei der gewünschten Fahrt mindestens eine **Teilstrecke in Zügen der Produktklassen ICE oder IC/EC** zurückgelegt werden muss.
+Bei der gewünschten Fahrt muss mindestens eine **Teilstrecke in Zügen der Produktklassen ICE oder IC/EC** zurückgelegt werden.
 
 Darüber hinaus ist der Flexpreis Young auch in den DB Reisezentren sowie in DB Agenturen erhältlich.
 
@@ -3208,7 +3221,7 @@ Das Angebot ist nur buchbar, wenn ausreichend Sitzplätze verfügbar sind.
  Wie bucht man den (Super) Sparpreis Young?
 ----------
 
-Den (Super) Sparpreis Young findest du in der **regulären Verbindungsauskunft**. Der Tarif ist für Kundinnen und Kunden bis einschließlich 26 Jahren gedacht. Unter reisende Person "15-26 Jahre" findest du den (Super) Sparpreis Young neben allen anderen Tarifen und kannst ihn, sofern verfügbar, buchen. Das Gleiche gilt auch für die App.
+Der (Super) Sparpreis Young ist in der **regulären Verbindungsauskunft** zu finden. Der Tarif ist für Kundinnen und Kunden bis einschließlich 26 Jahren gedacht. Unter reisende Person "15-26 Jahre" findet man den (Super) Sparpreis Young neben allen anderen Tarifen und kann ihn, sofern verfügbar, buchen. Das Gleiche gilt auch für die App.
 
 **Ausschlaggebend ist das Alter am ersten Reisetag. Das Alter wird im Zug kontrolliert.**
 
@@ -12307,7 +12320,7 @@ Für die Rückerstattung des Reservierungsentgelts können Sie den Antrag formlo
  Ist beim Flexpreis Young eine Sitzplatzreservierung im Preis enthalten?
 ----------
 
-Nein. Die Fahrkarte enthält **keine Sitzplatzreservierung**. Diese kannst du zusammen mit der Fahrkarte oder später separat kaufen.
+Nein. Die Fahrkarte enthält **keine Sitzplatzreservierung**. Diese kann zusammen mit der Fahrkarte oder später separat gekauft werden.
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
@@ -21677,7 +21690,7 @@ Ja. Die Zeitkarten für die jeweilige Strecke bleiben verfügbar. Es entfällt l
  Wann kann ich den Flexpreis Young kaufen?
 ----------
 
-Du kannst das Angebot vom **1. September bis 12. Dezember 2026** buchen für Reisen zwischen dem 1. September und 12. Dezember 2026.
+Das Angebot ist vom **1. September bis 12. Dezember 2026** buchbar für Reisen zwischen dem 1. September und 12. Dezember 2026.
 
 [Weitere Informationen zum Flexpreis Young](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis-young)
 
@@ -21734,15 +21747,15 @@ Hinweis: Nutzen Sie mit einer IC/EC Fahrkarte einen ICE Zug, zahlen Sie einen Pr
  Mit welchen Zügen kann ich mit dem Flexpreis Young reisen?
 ----------
 
-Mit dem Flexpreis Young hast du keine Zugbindung.
+Mit dem Flexpreis Young gibt es keine Zugbindung.
 
 **ICE oder anderer Fernverkehrszug (Produktklasse ICE):**
 
-* Du kannst alle Fernverkehrszüge (z. B. ICE, RJ, RJX, IC/EC, TGV - ausgenommen reservierungspflichtige Züge -, ECE) und Züge des Nahverkehrs (z. B. IRE, RE, RB, S-Bahn) auf der gebuchten Strecke und am gebuchten Tag nutzen.
+* Es können alle Fernverkehrszüge (z. B. ICE, RJ, RJX, IC/EC, TGV - ausgenommen reservierungspflichtige Züge -, ECE) und Züge des Nahverkehrs (z. B. IRE, RE, RB, S-Bahn) auf der gebuchten Strecke und am gebuchten Tag genutzt werden.
 
 **IC/EC Fahrkarte (Produktklasse IC/EC):**
 
-* Du kannst alle IC/EC und Züge des Nahverkehrs (z. B. IRE, RE, RB, S-Bahn) auf der gebuchten Strecke und am gebuchten Tag nutzen.
+* Es können alle IC/EC und Züge des Nahverkehrs (z. B. IRE, RE, RB, S-Bahn) auf der gebuchten Strecke und am gebuchten Tag genutzt werden.
 
 [Weitere Informationen zum Flexpreis](https://www.bahn.de/angebot/sparpreis-flexpreis/flexpreis)
 
@@ -22039,7 +22052,7 @@ Für die Züge des Nahverkehrs (RE, RB, IRE, S-Bahn) auf Ihrem Ticket besteht ke
  Mit welchen Zügen kann ich mit dem (Super) Sparpreis Young reisen?
 ----------
 
-Mit dem (Super) Sparpreis Young kannst du nur auf der gebuchten Verbindung reisen. Der (Super) Sparpreis Young wird innerhalb Deutschlands im ICE, IC/EC angeboten. Züge des Nahverkehrs (z.B. RE, RB, IRE oder S-Bahn sowie Züge nichtbundeseigener Eisenbahnen) kannst du für die Anreise zum Bahnhof und Weiterreise zum Zielort nutzen, wenn du diese mitgebucht hast. Für Nahverkehrs-Züge besteht keine Zugbindung. Deine Reise muss jedoch bis 10 Uhr des Folgetages beendet sein.
+Mit dem (Super) Sparpreis Young kann man nur auf der gebuchten Verbindung reisen. Der (Super) Sparpreis Young wird innerhalb Deutschlands im ICE, IC/EC angeboten. Züge des Nahverkehrs (z.B. RE, RB, IRE oder S-Bahn sowie Züge nichtbundeseigener Eisenbahnen) können für die Anreise zum Bahnhof und Weiterreise zum Zielort genutzt werden, wenn diese mitgebucht wurden. Für Nahverkehrs-Züge besteht keine Zugbindung. Die Reise muss jedoch bis 10 Uhr des Folgetages beendet sein.
 
 [Zu den Sparpreisen](https://www.bahn.de/angebot/sparpreis-flexpreis)
 

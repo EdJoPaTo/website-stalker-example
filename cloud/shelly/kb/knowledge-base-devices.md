@@ -93,12 +93,7 @@ Learn everything you need about Shelly devices – features, applications and sp
 * [Shelly Dimmer 0/1-10V PM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-dimmer-0-1-10v-pm-gen4)
 * [Shelly EM Gen4](https://kb.shelly.cloud/knowledge-base/shelly-em-gen4)
 * [Shelly Presence Gen4](https://kb.shelly.cloud/knowledge-base/shelly-presence-gen4)
-
-[Shelly Mini Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen4-devices)
-* [Shelly 1 Mini Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1-mini-gen4)
-* [Shelly 1 Mini Gen4 ANZ](https://kb.shelly.cloud/knowledge-base/shelly-1-mini-gen4-anz)
-* [Shelly 1PM Mini Gen4](https://kb.shelly.cloud/knowledge-base/shelly-1pm-mini-gen4)
-* [Shelly EM Mini Gen4](https://kb.shelly.cloud/knowledge-base/shelly-em-mini-gen4)
+* [Shelly Mini Gen4 devices](https://kb.shelly.cloud/knowledge-base/shelly-mini-gen4-devices)
 
 [Shelly Pro devices](https://kb.shelly.cloud/knowledge-base/shelly-pro-devices)
 * [Shelly Pro 1](https://kb.shelly.cloud/knowledge-base/shelly-pro-1)
