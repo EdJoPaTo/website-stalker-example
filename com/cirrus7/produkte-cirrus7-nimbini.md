@@ -30,7 +30,9 @@ cirrus nimbini v4 - Pro Edition
   ##### Cooling Edition #####
 
   * **Standard Cooling Edition**
+
   * **Extended Cooling Edition**
+
   * **Extreme Cooling Edition**
 
   ##### Intel® NUC Board #####
@@ -40,6 +42,7 @@ cirrus nimbini v4 - Pro Edition
   * **Intel® NUC Celeron J4005**
     2.00GHz DualCore, UHD Graphics 600
     basierend auf NUC7CJYH
+
   * **Intel® NUC Pentium Silver J5005**
     1.50GHz QuadCore, UHD Graphics 605
     basierend auf NUC7PJYH
@@ -49,25 +52,33 @@ cirrus nimbini v4 - Pro Edition
   Wählen Sie hier zwischen verschiedenen Intel® NUC Boards aus. Mit dem Board wählen sie gleichzeitig die verlötete CPU aus.
 
   * NUC14
+
   * NUC15
 
   * **ASUS NUC 14 Pro Core 3 100U**
     2P+2E / 8T Threads, max. 4.7GHz, Intel Arc 4Xe
+
   * **ASUS NUC 14 Pro Core Ultra 5 125H**
     4P+8E+2e / 18 Threads, max. 4.5GHz, Intel Arc 7Xe
+
   * **ASUS NUC 14 Pro Core Ultra 7 155H**
     6P+8E+2e / 22 Threads, max. 4.80GHz, Intel Arc 8Xe
 
   * **ASUS NUC 15 Pro | Core™ 3 100U**
     2P+4E/8T | max. 4.70GHz | Intel Graphics
+
   * **ASUS NUC 15 Pro | Core™ 5 210H**
     4P+8E/16T | max. 4.8GHz | Intel Graphics
+
   * **ASUS NUC 15 Pro | Core™ Ultra 5 225H**
     4P+8E+2LP/14T | max. 4.60GHz | Intel Arc 130T
+
   * **ASUS NUC 15 Pro | Core™ 7 240H**
     6P+8E/20T | max. 5.00GHz | Intel Graphics
+
   * **ASUS NUC 15 Pro | Core™ Ultra 7 255H**
     6P+8E+2LP/16T | max. 5.10GHz | Intel Arc 140T
+
   * **ASUS NUC 15 Pro | Core™ Ultra 7 265H**
     6P+8E+2LP/16T | max 5.10GHz | Intel Arc 140T | vPro
 
@@ -77,10 +88,13 @@ cirrus nimbini v4 - Pro Edition
 
   * **8 GB DDR4 (1x 8GB)**
     SO-DIMM – 3200MHz
+
   * **16 GB DDR4 (2x8GB)**
     SO-DIMM – 3200MHz
+
   * **32 GB DDR4 (2x16GB)**
     SO-DIMM – 3200MHz
+
   * **64 GB DDR4 (2x32GB)**
     SO-DIMM – 3200MHz
 
@@ -89,25 +103,32 @@ cirrus nimbini v4 - Pro Edition
   Wählen Sie die Größe des Hauptspeichers.
 
   * 4800 MHz
+
   * 5600 MHz
 
   RAM-Geschwindigkeit auswählen.
 
   * **8 GB DDR5 (1x 8GB)**
     SO-DIMM – 4800MHz
+
   * **16 GB DDR5 (2x 8GB)**
     SO-DIMM – 4800MHz
+
   * **32 GB DDR5 (2x 16GB)**
     SO-DIMM – 4800MHz
+
   * **64 GB DDR5 (2x 32GB)**
     SO-DIMM – 4800MHz
 
   * **8 GB DDR5 (1x 8GB)**
     SO-DIMM – 5600MHz
+
   * **16 GB DDR5 (2x 8GB)**
     SO-DIMM – 5600MHz
+
   * **32 GB DDR5 (2x 16GB)**
     SO-DIMM – 5600MHz
+
   * **64 GB DDR5 (2x 32GB)**
     SO-DIMM – 5600MHz
 
@@ -118,11 +139,12 @@ cirrus nimbini v4 - Pro Edition
   M.2 Slot 1
 
   * PCIe 3.0 x4
+
   * PCIe 4.0 x4
 
-  * Patriot P300 128GB (49,00 €)Patriot P300 256GB (89,00 €)Patriot P300 512GB (119,00 €)
+  * Patriot P300 128GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>49,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Patriot P300 256GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>89,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Patriot P300 512GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>119,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)
 
-  * Samsung SSD 990 Pro 1TB (269,00 €)Samsung SSD 990 Pro 2TB (419,00 €)Samsung SSD 990 Pro 4TB (749,00 €)
+  * Samsung SSD 990 Pro 1TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>269,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Samsung SSD 990 Pro 2TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>419,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Samsung SSD 990 Pro 4TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>749,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)
 
   ##### SSD #####
 
@@ -130,13 +152,14 @@ cirrus nimbini v4 - Pro Edition
 
   SATA Slot 1
 
-  * KeineCrucial BX500 240GB (99,00 €)Crucial BX500 500GB (159,00 €)Crucial BX500 1TB (219,00 €)Crucial BX500 2TB (319,00 €)Crucial BX500 4TB (699,00 €)
+  * \<span class="free"\>Keine\</span\>Crucial BX500 240GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>99,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 500GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>159,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 1TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>219,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 2TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>319,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 4TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>699,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)
 
   ##### VESA Wand- und Bildschirmhalterung #####
 
   VESA Halterung für die Montage an Wand und Bildschirmen.
 
   * Keine
+
   * VESA Wand- und Bildschirmhalterung
 
   ##### WiFi / Bluetooth #####
@@ -158,8 +181,10 @@ cirrus nimbini v4 - Pro Edition
   WiFi und Bluetooth 5.0 sind bei der Business-Edition optional.
 
   * Keine **NO\_WLAN**
+
   * **Intel DualBand Wireless-AC 9260**
     2.4GHz/5GHz WLAN, Bluetooth 5.0 **YES\_WLAN**
+
   * **Intel Wi-Fi 6 AX201**
     2.4GHz/5GHz WLAN, Bluetooth 5.0 **YES\_WLAN**
 
@@ -168,7 +193,9 @@ cirrus nimbini v4 - Pro Edition
   Es handelt sich hier nicht um einen VGA Anschluss. Der serielle Anschluss wird häufig in Industrieanwendungen eingesetzt. Für den Privatanwender hingegen eher uninteressant.
 
   * keine zusätzlichen Schnittstellen
+
   * serielle Schnittstelle (RS-232)
+
   * serielle Schnittstelle + USB 2.0 Port
 
   ##### Zusätzliche Schnittstellen #####
@@ -186,24 +213,36 @@ cirrus nimbini v4 - Pro Edition
   Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
 
   * Kein vorinstalliertes Betriebssystem
+
   * **Ubuntu 24.04 LTS** „Noble Numbat“
+
   * **Ubuntu 25.04** „Plucky Puffin“
+
   * **Linux Mint 22**
+
   * **Windows 11 Home**
     original OEM Lizenz
+
   * **Windows 11 Pro**
     original OEM Lizenz
+
   * **anderes Betriebssystem**
     solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
   * Kein vorinstalliertes Betriebssystem
+
   * **Ubuntu 26.04 LTS** „Resolute Raccoon“
+
   * **Ubuntu 25.10** „Questing Quokka“
+
   * **Linux Mint 22**
+
   * **Windows 11 Home**
     original OEM Lizenz
+
   * **Windows 11 Pro**
     original OEM Lizenz
+
   * **anderes Betriebssystem**
     solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
@@ -214,6 +253,7 @@ cirrus nimbini v4 - Pro Edition
   Ohne Staubschutz befinden sich Belüftungsschlitze zwischen den einzelnen Kühlschichten. Ohne Lüfter dringt jedoch kaum Staub ins Gehäuse. Für sehr staubige Umgebungen, oder Industrielle Umgebungen gibt es daher eine Staubschutzoption.
 
   * keine Staubschutz
+
   * Belüftungsschlitze geschlossen (Staubschutz)
 
   ##### Garantie #####
@@ -222,6 +262,7 @@ cirrus nimbini v4 - Pro Edition
 
   * **3 Jahre Pickup and Return**
     [30 Tage verlängertes Widerrufsrecht](/agb/)
+
   * **5 Jahre Pickup and Return**
     [45 Tage verlängertes Widerrufsrecht](/agb/)
 

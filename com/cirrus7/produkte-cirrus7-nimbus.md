@@ -18,28 +18,37 @@ cirrus nimbus
   ---
 
   * Intel Core
+
   * Intel Core Ultra
+
   * AMD (AM4 Socket)
+
   * AMD (AM5 Socket)
 
   * **ASUS Pro H610T (DDR4 SO-DIMM)**
     H610 Chipsatz – business mainboard
+
   * **ASUS Pro H610T (DDR5 SO-DIMM)**
     H610 Chipsatz – business mainboard
+
   * **Mitac PH12ADI (DDR5 SO-DIMM)**
     H610 Chipsatz – industrial mainboard
+
   * **ASRock Z790M-ITX (DDR5)**
     Z790 Chipsatz – Mini ITX
 
   * **Asus Pro H810T (DDR5 SO-DIMM)**
     H810 Chipsatz – business mainboard
+
   * **ASRock B860I (DDR5 LO-DIMM)**
     B860 Chipsatz – Mini ITX
+
   * **ASUS ROG Strix B860-I (DDR5 LO-DIMM)**
     B860 Chipsatz – Mini ITX
 
   * **ASRock B550M-ITX (DDR4 – AM4 Socket)**
     B550 Chipsatz – Mini ITX
+
   * **GIGABYTE B550I AORUS Pro (DDR4 – AM4 Socket)**
     B550 Chipsatz – Mini ITX
 
@@ -86,14 +95,17 @@ cirrus nimbus
 
   * **Standard Cooling Edition**
     (Office Nutzung)
+
   * **Extended Cooling Edition**
     (Media Nutzung)
+
   * **Extreme Cooling Edition**
     (Rendering Nutzung)
 
   Sie können den cirrus7 nimbus mit einer Frontblende und optionalen vorderseitigen USB Anschlüssen ausstatten.
 
   * Keine
+
   * Frontpanel mit Power-Taster
 
   * **2x USB-A 3.1**
@@ -119,6 +131,7 @@ cirrus nimbus
 
   * **2x USB-A 3.1**
     Frontpanel optionale Ports
+
   * **1x USB-C 3.2**
     Frontpanel optionale Port
 
@@ -139,6 +152,7 @@ cirrus nimbus
 
   * **ASUS H410T**
     business mainboard – H410 Chipsatz
+
   * **ASRock IMB-1222**
     Industrie Mainboard – Q470E Chipsatz
 
@@ -151,23 +165,30 @@ cirrus nimbus
   Wählen Sie hier zwischen verschiedenen Intel® Comet Lake CPUs.
 
   * 35W
+
   * 65W
 
   * **Intel Celeron G5900T (35W TDP)**
     3.2GHz DualCore, UHD 610
+
   * **Intel Pentium Gold G6400T (35W TDP)**
     3.4GHz DualCore + Hyperthreading, UHD 610
+
   * **Intel Core i3-10100T (35W TDP)**
     3.0 – 3.8GHz QuadCore + Hyperthreading, UHD 630
+
   * **Intel Core i9-10900T (35W TDP)**
     1.9 – 4.6GHz DecaCore + Hyperthreading, UHD 630
 
   * **Intel Celeron G5900 (58W TDP)**
     3.4GHz DualCore, UHD 610
+
   * **Intel Pentium Gold G6400 (58W TDP)**
     4.0GHz DualCore + Hyperthreading, UHD 610
+
   * **Intel Core i3-10100 (65W TDP)**
     3.6 – 4.3GHz QuadCore + Hyperthreading, UHD 630
+
   * **Intel Core i9-10900 (65W TDP)**
     2.8 – 5.2GHz DecaCore + Hyperthreading, UHD 630
 
@@ -176,35 +197,48 @@ cirrus nimbus
   Wählen Sie hier zwischen verschiedenen Intel® 11th Gen CPUs.
 
   * 35W
+
   * 65W
 
   * **Intel Celeron G5900T (35W TDP)**
     3.2GHz DualCore, UHD 610
+
   * **Intel Pentium Gold G6400T (35W TDP)**
     3.4GHz DualCore + Hyperthreading, UHD 610
+
   * **Intel Core i3-10100T (35W TDP)**
     3.0 – 3.8GHz QuadCore + Hyperthreading, UHD 630
+
   * **Intel Core i5-11400T (35W TDP)**
     1.3 – 3.7GHz HexaCore + Hyperthreading – UHD 730
+
   * **Intel Core i7-11700T (35W TDP)**
     1.4 – 4.6GHz OctaCore + Hyperthreading – UHD 750
+
   * **Intel Core i9-10900T (35W TDP)**
     1.9 – 4.6GHz DecaCore + Hyperthreading, UHD 630
+
   * **Intel Core i9-11900T (35W TDP)**
     1.5 – 4.9GHz OctaCore + Hyperthreading – UHD 750
 
   * **Intel Celeron G5900 (58W TDP)**
     3.4GHz DualCore, UHD 610
+
   * **Intel Pentium Gold G6400 (58W TDP)**
     4.0GHz DualCore + Hyperthreading, UHD 610
+
   * **Intel Core i3-10100 (65W TDP)**
     3.6 – 4.3GHz QuadCore + Hyperthreading, UHD 630
+
   * **Intel Core i5-11400 (65W TDP)**
     2.6 – 4.4GHz HexaCore + Hyperthreading – UHD 730
+
   * **Intel Core i7-11700 (65W TDP)**
     2.5 – 4.9GHz OctaCore + Hyperthreading – UHD 750
+
   * **Intel Core i9-10900 (65W TDP)**
     2.8 – 5.2GHz DecaCore + Hyperthreading, UHD 630
+
   * **Intel Core i9-11900 (65W TDP)**
     2.5 – 5.1GHz OctaCore + Hyperthreading – UHD 750
 
@@ -214,16 +248,22 @@ cirrus nimbus
 
   * **Intel Celeron G6900 (46W TDP)**
     2 Cores / 2 Threads, 3.4GHz, UHD 710
+
   * **Intel Pentium Gold G7400 (46W TDP)**
     2 Cores / 4 Threads, 3,7GHz, UHD 710
+
   * **Intel Core i3-14100T**
     4C/8T, 2.7 – 4.4GHz – UHD 730
+
   * **Intel Core i5-14400T**
     6+4C/16T, 1.5 – 4.5GHz – UHD 730
+
   * **Intel Core i5-14500T**
     6+8C/20T, 1.7 – 4.8GHz – UHD 770
+
   * **Intel Core i7-14700T**
     8+12C/28T, 1.3 – 5.0GHz – UHD 770
+
   * **Intel Core i9-14900T**
     8+16C/32T, 1.1 – 5.5GHz – UHD 770
 
@@ -233,10 +273,13 @@ cirrus nimbus
 
   * **Intel Core Ultra 5 225T**
     6C + 4c /10 Threads, bis 4.9GHz – GPU 2Xe
+
   * **Intel Core Ultra 5 235T**
     6C + 8c /14 Threads, bis 5.0GHz – GPU 3Xe
+
   * **Intel Core Ultra 7 265T**
     8C + 12c/20T, bis 5.3GHz – GPU 4Xe
+
   * **Intel Core Ultra 9 285T**
     8C + 16c/24T, bis 5.4GHz – GPU 4Xe
 
@@ -245,6 +288,7 @@ cirrus nimbus
   Wählen Sie hier zwischen verschiedenen AMD CPUs.
 
   * 35W
+
   * 65W
 
   ##### Prozessor (CPU) - AMD AM4 #####
@@ -253,8 +297,10 @@ cirrus nimbus
 
   * **AMD Ryzen 3 4300G**
     3.8 – 4.0GHz QuadCore + Hyperthreading, Vega 6
+
   * **AMD Ryzen 5 5600G**
     3.9GHz – 4.4GHz HexaCore + Hyperthreading, Vega 7
+
   * **AMD Ryzen 7 5700G**
     3.8GHz – 4.6GHz OctaCore + Hyperthreading, Vega 8
 
@@ -264,12 +310,16 @@ cirrus nimbus
 
   * **AMD Ryzen 5 8500G**
     2C+4c/12T, 3.50 – 5.00GHz – Radeon 740M
+
   * **AMD Ryzen 5 8600G**
     6C/12T, 4.30 – 5.00GHz – Radeon 760M
+
   * **AMD Ryzen 5 9600X**
     3.9GHz – 5.4GHz 6 Cores / 12 Threads, Radeon RDNA 2
+
   * **AMD Ryzen 7 8700G**
     8C/16T, 4.20 – 5.10GHz – Radeon 780M
+
   * **AMD Ryzen 7 9700X**
     3.8GHz – 5.5GHz 8 Cores / 16 Threads, Radeon RDNA 2
 
@@ -279,12 +329,16 @@ cirrus nimbus
 
   * **4 GB DDR4 (1x 4GB)**
     SO-DIMM – 3200MHz
+
   * **8 GB DDR4 (2x 4GB)**
     SO-DIMM – 3200MHz
+
   * **16 GB DDR4 (2x 8GB)**
     SO-DIMM – 3200MHz
+
   * **32 GB DDR4 (2x 16GB)**
     SO-DIMM – 3200MHz
+
   * **64 GB DDR4 (2x 32GB)**
     SO-DIMM – 3200MHz
 
@@ -294,10 +348,13 @@ cirrus nimbus
 
   * **8 GB DDR4 (1x 8GB)**
     LO-DIMM – 3200MHz
+
   * **16 GB DDR4 (2x 8GB)**
     LO-DIMM – 3200MHz
+
   * **32 GB DDR4 (2x 16GB)**
     LO-DIMM – 3200MHz
+
   * **64 GB DDR4 (2x 32GB)**
     LO-DIMM – 3200MHz
 
@@ -307,10 +364,13 @@ cirrus nimbus
 
   * **8 GB DDR4 (1x 8GB)**
     SO-DIMM – 3200MHz
+
   * **16 GB DDR4 (2x 8GB)**
     SO-DIMM – 3200MHz
+
   * **32 GB DDR4 (2x 16GB)**
     SO-DIMM – 3200MHz
+
   * **64 GB DDR4 (2x 32GB)**
     SO-DIMM – 3200MHz
 
@@ -319,25 +379,32 @@ cirrus nimbus
   Wählen Sie die Größe des Hauptspeichers.
 
   * 4800 MHz
+
   * 5600 MHz
 
   RAM-Geschwindigkeit auswählen.
 
   * **8 GB DDR5 (1x 8GB)**
     LO-DIMM – 4800MHz
+
   * **16 GB DDR5 (2x 8GB)**
     LO-DIMM – 4800MHz
+
   * **32 GB DDR5 (2x 16GB)**
     LO-DIMM – 4800MHz
+
   * **64 GB DDR5 (2x 32GB)**
     LO-DIMM – 4800MHz
 
   * **8 GB DDR5 (1x 8GB)**
     LO-DIMM – 5600MHz
+
   * **16 GB DDR5 (2x 8GB)**
     LO-DIMM – 5600MHz
+
   * **32 GB DDR5 (2x 16GB)**
     LO-DIMM – 5600MHz
+
   * **64 GB DDR5 (2x 32GB)**
     LO-DIMM – 5600MHz
 
@@ -346,25 +413,32 @@ cirrus nimbus
   Wählen Sie die Größe des Hauptspeichers.
 
   * 4800 MHz
+
   * 5600 MHz
 
   RAM-Geschwindigkeit auswählen.
 
   * **8 GB DDR5 (1x 8GB)**
     SO-DIMM – 4800MHz
+
   * **16 GB DDR5 (2x 8GB)**
     SO-DIMM – 4800MHz
+
   * **32 GB DDR5 (2x 16GB)**
     SO-DIMM – 4800MHz
+
   * **64 GB DDR5 (2x 32GB)**
     SO-DIMM – 4800MHz
 
   * **8 GB DDR5 (1x 8GB)**
     SO-DIMM – 5600MHz
+
   * **16 GB DDR5 (2x 8GB)**
     SO-DIMM – 5600MHz
+
   * **32 GB DDR5 (2x 16GB)**
     SO-DIMM – 5600MHz
+
   * **64 GB DDR5 (2x 32GB)**
     SO-DIMM – 5600MHz
 
@@ -375,20 +449,22 @@ cirrus nimbus
   M.2 Slot 1
 
   * PCIe 3.0 x4
+
   * PCIe 4.0 x4
 
-  * Patriot P300 128GB (49,00 €)Patriot P300 256GB (89,00 €)Patriot P300 512GB (119,00 €)
+  * Patriot P300 128GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>49,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Patriot P300 256GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>89,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Patriot P300 512GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>119,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)
 
-  * Samsung SSD 990 Pro 1TB (269,00 €)Samsung SSD 990 Pro 2TB (419,00 €)Samsung SSD 990 Pro 4TB (749,00 €)
+  * Samsung SSD 990 Pro 1TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>269,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Samsung SSD 990 Pro 2TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>419,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Samsung SSD 990 Pro 4TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>749,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)
 
   M.2 Slot 2
 
   * PCIe 3.0 x4
+
   * PCIe 4.0 x4
 
-  * KeinePatriot P300 128GB (49,00 €)Patriot P300 256GB (89,00 €)Patriot P300 512GB (119,00 €)
+  * KeinePatriot P300 128GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>49,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Patriot P300 256GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>89,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Patriot P300 512GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>119,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)
 
-  * Samsung SSD 990 Pro 1TB (269,00 €)Samsung SSD 990 Pro 2TB (419,00 €)Samsung SSD 990 Pro 4TB (749,00 €)
+  * Samsung SSD 990 Pro 1TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>269,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Samsung SSD 990 Pro 2TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>419,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Samsung SSD 990 Pro 4TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>749,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)
 
   ##### SSD #####
 
@@ -396,19 +472,21 @@ cirrus nimbus
 
   SATA Slot 1
 
-  * KeineCrucial BX500 240GB (99,00 €)Crucial BX500 500GB (159,00 €)Crucial BX500 1TB (219,00 €)Crucial BX500 2TB (319,00 €)Crucial BX500 4TB (699,00 €)
+  * KeineCrucial BX500 240GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>99,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 500GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>159,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 1TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>219,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 2TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>319,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 4TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>699,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)
 
   SATA Slot 2
 
-  * KeineCrucial BX500 240GB (99,00 €)Crucial BX500 500GB (159,00 €)Crucial BX500 1TB (219,00 €)Crucial BX500 2TB (319,00 €)Crucial BX500 4TB (699,00 €)
+  * KeineCrucial BX500 240GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>99,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 500GB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>159,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 1TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>219,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 2TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>319,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)Crucial BX500 4TB (\<span class="woocommerce-Price-amount amount"\>\<bdi\>699,00 \<span class="woocommerce-Price-currencySymbol" translate="no" dir="auto"\>€\</span\>\</bdi\>\</span\>)
 
   ##### WiFi / Bluetooth #####
 
   Bei ausgewählter WiFi Option werden passende Antennen für 2,4GHz / 5GHz mitgeliefert.
 
   * Keine **NO\_WLAN**
+
   * **Intel DualBand Wireless-AC 9260**
     2.4GHz/5GHz WLAN, Bluetooth 5.0
+
   * **Intel Wi-Fi 6 AX210**
     2.5GHz/5GHz/6GHz, Bluetooth 5.2
 
@@ -417,12 +495,15 @@ cirrus nimbus
   Zusätzliche Schnittstellen konfigurieren.
 
   * Keine
+
   * **zusätzlich 2 x USB 2.0 Port**
 
   ##### Zusätzliche Schnittstellen #####
 
   * Keine
+
   * **zusätzlich 2 x USB 2.0 Port**
+
   * **serielle Schnittstelle** (RS-232)
 
   ##### Zusätzliche PCIe Karte #####
@@ -430,7 +511,9 @@ cirrus nimbus
   optional kann zusätzlich eine PCIe Karte verbaut werden
 
   * Keine
+
   * 2.5GB Ethernet Karte
+
   * 10GB Ethernet Karte
 
   ##### Vorinstalliertes Betriebssystem #####
@@ -444,13 +527,19 @@ cirrus nimbus
   Falls Dual-Boot Konfigurationen - oder andere Distributionen gewünscht werden - bitte im Kommentarfeld vermerken.
 
   * Kein vorinstalliertes Betriebssystem
+
   * **Ubuntu 26.04** „Resolute Raccoon“
+
   * **Ubuntu 25.10** „Questing Quokka“
+
   * **Linux Mint 22**
+
   * **Windows 11 Home**
     original OEM Lizenz
+
   * **Windows 11 Pro**
     original OEM Lizenz
+
   * **anderes Betriebssystem**
     solange wie möglich versuchen wir gerne andere Betriebssysteme zu installieren
 
@@ -461,6 +550,7 @@ cirrus nimbus
   Ohne Staubschutz befinden sich Belüftungsschlitze zwischen den einzelnen Kühlschichten. Ohne Lüfter dringt jedoch kaum Staub ins Gehäuse. Für sehr staubige Umgebungen, oder Industrielle Umgebungen gibt es daher eine Staubschutzoption.
 
   * kein Staubschutz
+
   * Belüftungsschlitze geschlossen (Staubschutz)
 
   ##### VESA Wand- und Bildschirmhalterung #####
@@ -468,6 +558,7 @@ cirrus nimbus
   VESA Halterung für die Montage an Wand und Bildschirmen.
 
   * Keine
+
   * VESA Wand- und Bildschirmhalterung
 
   ##### Garantie #####
@@ -476,6 +567,7 @@ cirrus nimbus
 
   * **3 Jahre Pickup and Return**
     [30 Tage verlängertes Widerrufsrecht](/agb/)
+
   * **5 Jahre Pickup and Return**
     [45 Tage verlängertes Widerrufsrecht](/agb/)
 
