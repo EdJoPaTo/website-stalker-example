@@ -98,7 +98,7 @@ Memory
 Storage
 
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB +€150  Backordered - Ships in 2-3 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
-* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
+* Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240  Backordered - Ships in 1-2 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
 * Storage, SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
 * Storage, SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB +€335
@@ -151,7 +151,7 @@ Keyboard
 
 * Keyboard, German (2nd Gen)
 
-* Keyboard, US English (2nd Gen)  Backordered - Ships in 2-3 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
+* Keyboard, US English (2nd Gen)  Backordered - Ships in 1-2 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
 * Keyboard, International English (2nd Gen)
 * Keyboard, Blank ANSI (2nd Gen) +€11
 * Keyboard, Blank ISO (2nd Gen) +€11

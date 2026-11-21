@@ -65,7 +65,7 @@ System
 Primary Storage (M.2 2280)
 
 * Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB +€150  Backordered - Ships in 2-3 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
-* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
+* Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240  Backordered - Ships in 1-2 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
 * Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
 * Primary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
 * Primary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB +€335
@@ -83,7 +83,7 @@ Primary Storage (M.2 2280)
 Secondary Storage (M.2 2280)
 
 * Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 500GB +€150  Backordered - Ships in 2-3 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
-* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240
+* Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 1TB +€240  Backordered - Ships in 1-2 weeks - Deliveries to Europe are currently delayed by up to 7 days due to global freight disruptions.
 * Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 2TB +€565
 * Secondary Storage (M.2 2280), SANDISK SN7100 PCIe® 4.0 M.2 2280 - 4TB +€979
 * Secondary Storage (M.2 2280), SANDISK 850X PCIe® 4.0 M.2 2280 - 1TB +€335
