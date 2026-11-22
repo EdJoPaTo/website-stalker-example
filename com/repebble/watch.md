@@ -31,7 +31,7 @@ Most stylish Pebble ever
 * Incredibly thin (8.1mm)
 * 10-14 day battery
 
-[Get Round 2](https://repebble.com/watch#buy)Ships in January
+[Buy Round 2](https://repebble.com/watch#buy)Ships in January
 
 ### [Pebble Time 2](https://repebble.com/watch#buy) ###
 
@@ -43,7 +43,7 @@ Worth the 9 year wait
 * Heart-rate monitor and speaker
 * 3-4 week battery
 
-[Get Time 2](https://repebble.com/watch#buy)In stock
+[Buy Time 2](https://repebble.com/watch#buy)In stock
 Ships within 48 hours
 
 Buy Pebble Time 2 or Pebble Round 2

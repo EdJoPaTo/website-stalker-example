@@ -1167,6 +1167,7 @@
 * [Stadtschafe (Teil 1)](https://www.wdrmaus.de/filme/sachgeschichten/stadtschafe_teil1.php5)
 * [Stadtschafe (Teil 2)](https://www.wdrmaus.de/filme/sachgeschichten/stadtschafe_teil2.php5)
 * [Stadtschafe (Teil 3)](https://www.wdrmaus.de/filme/sachgeschichten/stadtschafe_3.php5)
+* [Stadtschafe (Teil 4)](https://www.wdrmaus.de/filme/sachgeschichten/stadtschafe_4.php5)
 * [Stahlbeton](https://www.wdrmaus.de/filme/sachgeschichten/stahlbeton.php5)
 * [Stahlbramme](https://www.wdrmaus.de/filme/sachgeschichten/stahlbramme.php5)
 * [Stahlwerk](https://www.wdrmaus.de/filme/sachgeschichten/stahlwerk.php5)
