@@ -511,9 +511,7 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url:
-      - https://repebble.com/
-      - https://repebble.com/watch
+  - url: https://repebble.com/
     editors:
       - css_select: body > div > div
       - css_remove: script, svg, img
@@ -524,6 +522,19 @@ sites:
       - regex_replace:
           pattern: ' · '
           replace: '<br/>'
+      - html_url_canonicalize
+      - html_markdownify
+  - url: https://repebble.com/watch
+    editors:
+      - css_select: main
+      - css_remove: script, svg, img
+      - css_tag_replace:
+          selector: summary
+          replace: h3
+      - css_flatten: details
+      - regex_replace:
+          pattern: '</a>\s*<a '
+          replace: '</a><br/><a '
       - html_url_canonicalize
       - html_markdownify
 
