@@ -44,5 +44,3 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 [GitHub](https://github.com/coredevices)
 
 © 2026 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
-
-.footer-links svg { display: inline-block; width: 13px; height: 13px; }
