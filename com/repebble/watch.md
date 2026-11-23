@@ -23,6 +23,16 @@ Meet Pebble Time 2 and Round 2. Yes, *that* Pebble.
 
 We brought Pebble back! Why? Because no other smartwatch has what we want: always-on **e‑paper screen**, battery life measured in **weeks**, **buttons**, and **joyful** open source software that’s **easy to customize**!
 
+40,000+ shipped to rave reviews.
+----------
+
+**4.5** ★★★★ Google Play**4.4** App Store
+
+[> “The Pebble Time 2 may be the perfect smartwatch” **ZDNET**](https://www.zdnet.com/article/pebble-time-2-review/)
+[> “The Pebble Time 2 is the most fun I’ve ever had with a smartwatch” **How-To Geek**](https://www.howtogeek.com/pebble-time-2-review/)
+[> “It’s also a watch I’d probably choose over other smartwatches” **Engadget**](https://www.engadget.com/2243490/pebble-time-2-review/)
+[> “Pebble’s comeback is remarkably well done” **CNET**](https://www.cnet.com/tech/mobile/i-started-wearing-a-pebble-watch-again-time-2-took-me-back-to-the-2010s-in-the-best-way/)
+
 ### [Pebble Round 2](https://repebble.com/watch#buy) ###
 
 $199
@@ -46,7 +56,7 @@ Worth the 9 year wait
 * 3-4 week battery
 
 [Buy Time 2](https://repebble.com/watch#buy)In stock
-Ships within 48 hours
+Ships in 48 hours
 
 Buy Pebble Time 2 or Pebble Round 2
 ----------
@@ -54,6 +64,10 @@ Buy Pebble Time 2 or Pebble Round 2
 **Pebble Round 2 *$199*** **Pebble Time 2 *$225***
 
 Add to cart
+
+**40,000+** shipped**4.5** ★★★★ Google Play**4.4** App Store
+
+[> “The Pebble Time 2 is the most fun I’ve ever had with a smartwatch” **How-To Geek**](https://www.howtogeek.com/pebble-time-2-review/)
 
 [](https://www.youtube.com/watch?v=NaDPMZKXcBU)
 
@@ -78,22 +92,12 @@ Watchfaces Apps & games
 
 \*Android only (for now)
 
-Rave reviews
-----------
-
-[> “The Pebble Time 2 is the most fun I’ve ever had with a smartwatch.” **How-To Geek**](https://www.howtogeek.com/pebble-time-2-review/)
-[> “One of the most enjoyable smartwatches I’ve ever tested.” **Tom’s Guide**](https://www.tomsguide.com/wellness/smartwatches/i-just-went-hands-on-with-the-pebble-time-2-and-its-unlike-any-smartwatch-ive-ever-tested)
-[> “The wearable I didn’t even realize I was looking for.” **ZDNET**](https://www.zdnet.com/article/pebble-time-2-review-downgrade-from-apple-watch/)
-[> “Pebble’s comeback is remarkably well done.” **CNET**](https://www.cnet.com/tech/mobile/i-started-wearing-a-pebble-watch-again-time-2-took-me-back-to-the-2010s-in-the-best-way/)
-[> “Feels like a toy, and we mean that in the best sense of the word.” **TechCrunch**](https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/)
-[> “Some of the best battery life we’ve seen on any smart watch in years.” **Gizmodo**](https://gizmodo.com/pebble-time-2-review-the-most-joyful-smartwatch-ive-ever-worn-2000804346)
-
 PT2 in Black/Grey
 
 On 40,000+ wrists worldwide
 ----------
 
-[App Store**4.5 ★★★★**](https://apps.apple.com/us/app/pebble-core/id6743771967)
+[App Store**4.4 ★★★★**](https://apps.apple.com/us/app/pebble-core/id6743771967)
 [Google Play**4.5 ★★★★**](https://play.google.com/store/apps/details?id=coredevices.coreapp&hl=en_US)
 
 > “After two weeks, I like this thing way more than my Apple Watch.”

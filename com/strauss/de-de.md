@@ -28,7 +28,7 @@ für kalte Tage
 
 ---
 
-[weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+[weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?sort=newest)
 
  Daunen Jacke
 ---
@@ -82,7 +82,7 @@ für kalte Tage
 
 ---
 
-[weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+[weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?sort=newest)
 
  Daunen Jacke
 ---
@@ -127,7 +127,7 @@ für kalte Tage
 
 ---
 
-[weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+[weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?sort=newest)
 
 [](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html?itemorigin=startseiteXMAS26)
 
@@ -354,11 +354,11 @@ Freude drin
 zu jedem Set
 ---
 
-[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/?itemorigin=startseiteXMAS26)
+[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/)
 
-[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/?itemorigin=startseiteXMAS26)
+[alle Sets entdecken](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/)
 
-[](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/)
 
 [](https://www.strauss.com/de/de/westen/heizweste-e-s-ambition-3140720-78429-1.html?itemorigin=startseiteXMAS26)
 
@@ -389,7 +389,7 @@ Knopfdruck
 
 ---
 
-[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=StartseiteXMAS26)
+[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/)
 
  Heizartikel
 ----------
@@ -402,7 +402,7 @@ Knopfdruck
 
 ---
 
-[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/?itemorigin=StartseiteXMAS26)
+[alle Heizartikel entdecken](https://www.strauss.com/de/de/heizprodukte/)
 
  Kann bis zu zwei Heizartikel
 gleichzeitig betreiben.
@@ -437,7 +437,7 @@ gleichzeitig betreiben.
 Allrounder
 ---
 
-[alle Winterjacken entdecken](https://www.strauss.com/de/de/winter-arbeitsjacken/?itemorigin=startseiteXMAS26)
+[alle Winterjacken entdecken](https://www.strauss.com/de/de/winter-arbeitsjacken/)
 
  ab 95,08 €
 ---
@@ -542,69 +542,69 @@ Gutscheinkarte per Post – mit passender Box je nach Wert.
 
 [per Post bestellen](https://www.strauss.com/de/de/arbeitskleidung-herren/warengutschein-111110-1499911-0.html?itemorigin=startseiteXMAS26)
 
-[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/)
 
-[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/)
 
-[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/)
 
-[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/)
 
-[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/)
 
-[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/)
 
-[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/)
 
-[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/)
 
-[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/)
 
-[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/)
 
-[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/)
 
-[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/)
 
-[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/)
 
-[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/)
 
-[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/)
 
-[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/)
 
-[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/)
 
-[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/)
 
-[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/)
 
-[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/)
 
-[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/)
 
-[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/)
 
-[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/?itemorigin=startseiteXMAS26)
+[Strauss x MLB](https://www.strauss.com/de/de/mlb-x-strauss/)
 
-[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/?itemorigin=startseiteXMAS26)
+[Strauss x Mario Kart](https://www.strauss.com/de/de/mario-kart-x-strauss-kinder/)
 
-[Strauss x FCB](https://www.strauss.com/de/de/fcb/?itemorigin=startseiteXMAS26)
+[Strauss x FCB](https://www.strauss.com/de/de/fcb/)
 
  Kooperationen
 ----------
@@ -626,7 +626,7 @@ Gutscheinkarte per Post – mit passender Box je nach Wert.
 Fanwear
 ---
 
-[alles entdecken](https://www.strauss.com/de/de/kollaborationen/?itemorigin=startseiteXMAS26)
+[alles entdecken](https://www.strauss.com/de/de/kollaborationen/)
 
 [Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/?itemorigin=StartseiteHW26)
 
