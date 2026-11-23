@@ -1,12 +1,12 @@
 [Watch](https://repebble.com/watch#top)
-[Index](https://repebble.com/index)
+[Index 01](https://repebble.com/index)
 [Help](https://help.repebble.com/)
 [Blog](https://repebble.com/blog) [Buy a Pebble](https://repebble.com/watch#buy)
 
 [](https://repebble.com/watch#top)
 
 [Watch](https://repebble.com/watch#top)
-[Index](https://repebble.com/index)
+[Index 01](https://repebble.com/index)
 [Help](https://help.repebble.com/)
 [Blog](https://repebble.com/blog)
 
@@ -18,6 +18,8 @@ Weeks between charges.
 Meet Pebble Time 2 and Round 2. Yes, *that* Pebble.
 
 [Pick your Pebble](https://repebble.com/watch#watches)
+
+[Black Friday**$25 off Time 2**](https://repebble.com/watch#buy)
 
 We brought Pebble back! Why? Because no other smartwatch has what we want: always-on **e‑paper screen**, battery life measured in **weeks**, **buttons**, and **joyful** open source software that’s **easy to customize**!
 
@@ -141,7 +143,7 @@ Know what you’re getting into
 * ~~A triathlon watch~~It counts steps and sleep (Time 2 adds heart rate), but get a Garmin if you want serious workout tracking.
 * ~~An Apple Watch replacement~~Pebble is simpler, and doesn’t have every feature (like payments). Apple also restricts 3rd party smartwatches in some ways.
 
-You shouldn’t get a Pebble if you require a perfectly polished smartwatch. This era of Pebble is a labour of love rather than a startup trying to sell millions of watches. There may be some rough edges (literally). It could break. It might not last as long as you’d like. What we can guarantee is that it will be awesome and tons of fun! Every time you look down at your watch, you will smile 🙂
+You shouldn’t get a Pebble if you require a perfectly polished smartwatch. This era of Pebble is a labour of love rather than a startup trying to sell millions of watches. There may be some rough edges (literally). It could break. It might not last as long as you’d like. What we can guarantee is that it will be awesome and tons of fun! Every time you look down at your watch, you will smile
 
 – Eric (Pebble Founder)
 

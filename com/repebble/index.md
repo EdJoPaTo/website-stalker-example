@@ -1,11 +1,12 @@
 Pebble smartwatches — Pebble Time 2, Pebble Round 2, and the Pebble Index 01 smart ring
 ==========
 
-[### Pebble Time 2 ### With a larger color e-paper display!](https://repebble.com/watch)
-[### Pebble Time 2 ### With a larger color e-paper display!](https://repebble.com/watch#pt2)
-[### Pebble Round 2 NEW ### The most stylish Pebble watch ever](https://repebble.com/watch)
-[### Pebble Index 01 NEW ### External memory for your brain](https://repebble.com/index)
-[### Accessories ### Straps, shirts, chargers, and sizing kits](https://repebble.com/accessories)
+[### Pebble 2 DuoOn Sale ### A do-over of our black & white watch $124 ~~$149~~](https://repebble.com/products/pebble-2-duo)
+[### Pebble Time 2On Sale ### With a larger color e-paper display! $200 ~~$225~~](https://repebble.com/watch)
+[### Pebble Time 2On Sale ### With a larger color e-paper display! $200 ~~$225~~](https://repebble.com/watch#pt2)
+[### Pebble Round 2 ### The most stylish Pebble watch ever](https://repebble.com/watch)
+[### Pebble Index 01 ### External memory for your brain](https://repebble.com/index)
+[### AccessoriesOn Sale ### Straps, shirts, chargers, and sizing kits](https://repebble.com/accessories)
 
 **Pebble is back!**
 
@@ -43,3 +44,5 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 [GitHub](https://github.com/coredevices)
 
 © 2026 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
+
+.footer-links svg { display: inline-block; width: 13px; height: 13px; }
