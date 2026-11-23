@@ -4395,7 +4395,7 @@ Nein. Mit Apple Pay können Sie bei uns nur bezahlen, wenn Sie eine Debit- oder 
 Die App DB Navigator unterstützt aktuell folgende Betriebssystem-Versionen:
 
 * Android ab Version Android 8
-* iOS ab Version iOS 15
+* iOS ab Version iOS 16
 
 Die einwandfreie Nutzung des DB Navigators können wir nur auf offiziell unterstützten Android- und iOS-Versionen sicherstellen. Auf veränderten Betriebssystemen können Einschränkungen oder Fehler auftreten.
 
@@ -5738,6 +5738,17 @@ DB Junior Express startet zunächst auf sechs Direktverbindungen im Fernverkehr.
 No, there is no time limit on free wifi use throughout the journey.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/surfing-time-limited)
+
+ Was ist ein Teilstreckenpreis?
+----------
+
+Bei einem Teilstreckenpreis gilt das Angebot nicht für die gesamte angefragte Strecke, sondern nur für einen Teil davon.
+
+Für die restlichen Abschnitte der Strecke, die nicht im Angebot enthalten sind, benötigen Sie ebenfalls ein gültiges Ticket. Haben Sie zum Beispiel ein Deutschland-Ticket, kann ein Abschnitt bereits damit abgedeckt sein.
+
+Prüfen Sie deshalb bitte, welche Abschnitte Ihrer Verbindung durch Ihre vorhandenen und gebuchten Tickets abgedeckt sind und stellen Sie sicher, dass alle Reisenden gültige Tickets für die gesamte Strecke besitzen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/teilstreckenpreis)
 
  Kann ich den Flexpreis noch im Zug kaufen?
 ----------

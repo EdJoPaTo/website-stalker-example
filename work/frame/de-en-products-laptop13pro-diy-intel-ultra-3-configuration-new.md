@@ -67,7 +67,7 @@ System
 
 [FAQ, Memory](https://frame.work/de/en/product_faqs/laptop13pro-diy-intel-ultra-3?faqable_id=276&faqable_type=section)
 
-LPCAMM2 memory on the Framework Laptop 13 Pro (Intel® Core™ Ultra Series 3) runs at speeds up to 6800 MT/s on Core™ Ultra 5 325, and 7467 MT/s on Core™ Ultra X7 358H and X9 388H.
+US DIY Edition orders: LPCAMM2 memory comes pre-installed due to a new tariff. [Learn more](https://frame.work/blog/tariff-driven-price-and-availability-changes-for-us-customers)
 
 Memory
 

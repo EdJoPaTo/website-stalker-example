@@ -69,6 +69,8 @@ Add to cart
 
 [> “The Pebble Time 2 is the most fun I’ve ever had with a smartwatch” **How-To Geek**](https://www.howtogeek.com/pebble-time-2-review/)
 
+[Shipping Status](https://help.repebble.com/en/articles/14892130-shipping-timelines#h_0bd67bec65)
+
 [](https://www.youtube.com/watch?v=NaDPMZKXcBU)
 
 Round 2: the most stylish Pebble ever

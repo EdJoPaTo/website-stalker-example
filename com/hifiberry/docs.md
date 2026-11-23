@@ -641,6 +641,18 @@ dac, datasheet, multichannel
 
 updated 2025-03-13
 
+[Datasheet Digi2 Standard](https://www.hifiberry.com/docs/data-sheets/datasheet-digi2-standard/)
+
+other
+
+updated 2026-11-23
+
+[Datasheet CM5/Play](https://www.hifiberry.com/docs/data-sheets/datasheet-cm5-play/)
+
+other
+
+updated 2026-11-23
+
 [HiFiBerryOS](https://www.hifiberry.com/docs/hifiberryos/)
 
 [HiFiBerryOS: Handling local music libraries](https://www.hifiberry.com/docs/hifiberryos/hifiberryos-handling-local-music-libraries/)

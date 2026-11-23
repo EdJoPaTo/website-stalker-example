@@ -134,8 +134,6 @@ für kalte Tage
 [](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html?itemorigin=startseiteXMAS26)
 
  Verlängertes Umtauschrecht
-==========
-
 ---
 
  innerhalb Deutschlands bis zum 31.01.2027
@@ -686,15 +684,11 @@ bis Werkzeug – Über
 [mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen?itemorigin=StartseiteHW26)
 
  GRATIS VERSAND
-==========
-
 ---
 
  innerhalb Deutschlands bis zum 22.12.2026
 
  GRATIS VERSAND
-==========
-
 ---
 
  innerhalb Deutschlands bis zum 22.12.2026

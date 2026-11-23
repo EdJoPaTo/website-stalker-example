@@ -3646,15 +3646,16 @@ Ja. Sie können eine Erstattung für Ihr Deutschland-Ticket erhalten, wenn Sie d
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschland-ticket-erstattungsregel-krankheit)
 
- Ich kann mein Deutschland-Ticket-Abo nicht im Aboportal finden. Was kann ich tun?
+ Ich kann mein Deutschland-Ticket nicht in der Aboverwaltung finden. Was kann ich tun?
 ----------
 
-* Wählen Sie beim Hinzufügen Ihres Abos den Tarifgeber aus, von dem Sie Ihr Deutschland-Ticket gekauft haben.
-* Den Tarifgeber finden Sie in der Produktbezeichnung Ihrer Bestellbestätigung oder auf Ihrem Handy-Ticket.
-* Nutzen Sie die Abo-Auftragsnummer aus Ihrer Aktivierungsmail.
-* Besuchen Sie für weitere Hilfe das Abo-Portal.
+* Beginnt Ihre Abonummer mit **"AB"**, prüfen Sie Ihr **DB Kundenkonto** unter "Abo".
+* Beginnt sie mit einer **Zahl,** prüfen Sie das **Aboportal**.
+* Ihr Abo wird weder im DB Kundenkonto noch im Aboportal angezeigt, Sie haben aber bereits eine Aktivierungsmail dafür erhalten? Wenden Sie sich bitte über das **Kontaktformular** unter Angabe der App-Version und Screenshots an den Kundensupport.
 
-* [Zum Aboportal](https://abo.bahn.de/#/)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+* [Zum Aboportal](https://abo.bahn.de/)
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschland-ticket-im-abo-portal-finden)
 
@@ -5890,11 +5891,11 @@ Folgenden Ausnahmen gelten:
 **Hinweise:**
 
 * Der Interrail One Country Pass für Großbritannien (Great Britain) sowie für die Schweiz (Switzerland) dürfen nur von Kunden mit einem Wohnsitzland in Europa gekauft werden.
-* Sie können als reisende Person den Interrail One Country Pass nicht für das Land kaufen, das auch Ihr Wohnsitz ist.
+* Die reisende Person kann den Interrail One Country Pass nicht für das Land kaufen, das auch ihr Wohnsitz ist.
 
 Beispiel: Ein Reisender mit Wohnsitz in den Niederlanden bucht einen Interrail Spanien Pass. Der Pass gilt nur für Spanien und kann nicht für die Fahrt von den Niederlanden nach Spanien genutzt werden.
 
-* [Sieh dir den Interrail Global Pass an, wenn du grenzüberschreitend in verschiedenen Ländern reisen möchtest.](http://bahn.interrail.eu/de/global-pass)
+* [Für grenzüberschreitende Reisen durch verschiedene Länder bietet sich der Interrail Global Pass an.](http://bahn.interrail.eu/de/global-pass)
 
 [Weitere Informationen zum One Country Pass](https://www.bahn.de/angebot/international/one-country-pass)
 
@@ -7465,11 +7466,11 @@ Wir bieten bei der internationalen Buchung anderer Beförderer derzeit nur reine
  Ich plane mehrere Fahrten im Ausland, gibt es hierfür spezielle Angebote?
 ----------
 
-Wenn Sie mehrere Fahrten im Ausland planen, lohnt sich oft ein [Interrail Pass](https://www.bahn.de/angebot/international/interrail). Mit dem [Interrail One Country Pass](https://www.bahn.de/angebot/international/one-country-pass) können Sie für einen gewählten Reisezeitraum flexibel die Züge im jeweiligen Land nutzen.
+Bei mehreren Fahrten im Ausland lohnt sich oft ein [Interrail Pass](https://www.bahn.de/angebot/international/interrail). Mit dem [Interrail One Country Pass](https://www.bahn.de/angebot/international/one-country-pass) lassen sich die Züge in einem ausgewählten Land innerhalb des gewählten Reisezeitraums flexibel nutzen.
 
-Sie werden in mehreren Ländern unterwegs sein? Hier lohnt sich oft der [Interrail Global Pass](https://www.bahn.de/angebot/international/global-pass), den Sie in insgesamt 33 europäischen Ländern nutzen können. Innerhalb von 2 Tagen der Geltungsdauer dürfen Sie den Pass auch in Ihrem Wohnsitzland nutzen.
+Für Reisen durch mehrere Länder lohnt sich oft der [Interrail Global Pass](https://www.bahn.de/angebot/international/global-pass). Dieser kann in insgesamt 33 europäischen Ländern genutzt werden. Innerhalb von 2 Tagen der Geltungsdauer ist die Nutzung auch im Wohnsitzland möglich.
 
-Hinweis: Für einige reservierungspflichtige Züge benötigen Sie einen separaten Aufpreis. Mehr Infos dazu auf [www.interrail.com](https://www.interrail.com/de/book-reservations/how-do-i-book-seats).
+**Hinweis:** Für einige reservierungspflichtige Züge ist ein separater Aufpreis erforderlich. Weitere Informationen gibt es auf [Interrail.com](https://www.interrail.com/de/book-reservations/how-do-i-book-seats).
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 
@@ -7478,14 +7479,14 @@ Hinweis: Für einige reservierungspflichtige Züge benötigen Sie einen separate
  Was muss ich beim Kauf und beim Reisen mit dem Interrail Pass beachten?
 ----------
 
-Wenn du mit dem Interrail Pass reist, musst du das im Interrail Pass angegebene Ausweisdokument im Zug vorzeigen.
+Wer mit dem Interrail Pass reist, muss das im Interrail Pass angegebene Ausweisdokument im Zug vorzeigen.
 
-Beim Kauf musst du Folgendes angeben:
+Beim Kauf muss Folgendes angegeben werden:
 
-* Deinen Namen und Vornamen
-* Dein Geburtsdatum
-* Das Land, in dem du deinen Wohnsitz hast
-* Das Datum deines Reiseantritts (Beginn der Geltungsdauer des Passes)
+* Name und Vorname
+* Geburtsdatum
+* Wohnsitzland
+* Das Datum des Reiseantritts (Beginn der Geltungsdauer des Passes)
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 
@@ -7508,15 +7509,15 @@ Beim Kauf musst du Folgendes angeben:
  Wie funktioniert der Mobile-Pass?
 ----------
 
-Um mit dem Mobile-Pass zu reisen, brauchst du dein Smartphone, die Rail Planner-App und eine Internetverbindung (mindestens einmal alle 2 Tage). Wähle an der Kasse einfach die Option „Mobile-Pass“. Du erhälst eine E-Mail mit der Auftragsbestätigung und Passnummer, damit du den Pass in die App hochladen kannst.
+Um mit dem Mobile-Pass zu reisen, sind ein Smartphone, die Rail Planner-App und eine Internetverbindung erforderlich (mindestens einmal alle 2 Tage). Bei der Buchung einfach die Option „Mobile-Pass“ auswählen. Auftragsbestätigung und Passnummer werden anschließend per E-Mail versendet. Mit der Passnummer lässt sich der Pass in die App laden.
 
 **Aktivierung des Mobile-Passes**
-Befolgen die Anweisungen in der E-Mail mit der Auftragsbestätigung, um den Pass in die App zu laden und ihn zu aktivieren. Du kannst beide Schritte auf einmal erledigen oder den Pass zunächst der App hinzufügen und dann später aktivieren – das bleibt dir überlassen.
+Den Anweisungen in der E-Mail mit der Auftragsbestätigung folgen, um den Pass in die App zu laden und zu aktivieren. Beide Schritte können direkt nacheinander erfolgen. Alternativ lässt sich der Pass zunächst zur App hinzufügen und erst später aktivieren.
 
 **Unterwegs mit dem Mobile-Pass**
-In der Rail Planner App findest du deine Strecken und Verbindungen. Tippe eine Verbindung an, um sie unter „Meine Reise“ zu speichern, wo du all deine Reisepläne im Überblick siehst. Wenn du die Reise antreten möchtest, tippst du darauf, um diese Fahrt deinem Pass hinzuzufügen. Die Verbindung erscheint dann unter „Mein Pass“ als Fahrkarte, sodass du diese bei der Kontrolle im Zug vorzeigen kannst.
+In der Rail Planner-App lassen sich Strecken und Verbindungen aufrufen. Eine Verbindung auswählen und unter „Meine Reise“ speichern. Dort sind alle Reisepläne im Überblick zu finden. Vor Reisebeginn die gewünschte Fahrt auswählen und zum Pass hinzufügen. Anschließend erscheint die Verbindung unter „Mein Pass“ als Fahrkarte und kann bei der Kontrolle im Zug vorgezeigt werden.
 
-Hier kannst du dir die Rail Planner-App herunterladen:
+Die Rail Planner-App steht über die folgenden Links zum Download bereit:
 
 * [Rail Planner-App für das iPhone](http://apps.apple.com/de/app/eurail-interrail-rail-planner/id579547877)
 * [Rail Planner-App für Android](http://play.google.com/store/apps/details?id=org.eurail.railplanner&hl=de&gl=US)
@@ -7535,11 +7536,11 @@ Ja, Sie benötigen hierzu einen entsprechenden Aufpreis. Dieser ist aktuell bei 
 
 Ja.
 
-* Für viele europäische Hochgeschwindigkeitszüge und für alle Nachtzüge brauchst du eine Reservierung. Ohne die Reservierung kannst du mit dem Zug nicht fahren.
-* Für Züge des Hochgeschwindigkeitsverkehrs zwischen Deutschland und Frankreich sowie für EuroCity-Züge zwischen München und Italien brauchst du einen Zuschlag inklusive Reservierung.
+* Für viele europäische Hochgeschwindigkeitszüge und für alle Nachtzüge wird eine Reservierung benötigt. **Ohne Reservierung ist die Fahrt in diesen Zügen nicht möglich.**
+* Für Züge des Hochgeschwindigkeitsverkehrs zwischen Deutschland und Frankreich sowie für EuroCity-Züge zwischen München und Italien wird ein Zuschlag inklusive Reservierung benötigt.
 * Reservierungskosten sind im Interrail Pass nicht enthalten.
 
-Du kannst deine Reservierung für fast alle europäischen Züge bis zu 6 Monate vor Abfahrt online in der [bahn.de-Buchung](https://www.bahn.de/buchung/start?KL=2&ET=PASSZUSCHLAG), in den DB Verkaufsstellen oder auf [www.interrail.eu](https://www.interrail.eu/de) vornehmen. Für einige Züge ist eine Reservierung bis zu 3 Monate vor Abfahrt möglich.
+**Reservierungen für fast alle europäischen Züge sind bis zu 6 Monate vor Abfahrt** über die [bahn.de-Buchung](https://www.bahn.de/buchung/start?KL=2&ET=PASSZUSCHLAG), in DB Verkaufsstellen oder über [Interrail.eu](https://www.interrail.eu/de) möglich. Für einige Züge ist eine Reservierung bis zu 3 Monate vor Abfahrt möglich.
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 
@@ -7571,35 +7572,35 @@ nicht möglich
  Wo kann ich einen Interrail Global Pass kaufen?
 ----------
 
-Du kannst den Interrail Pass auf verschiedene Wege kaufen:
+Der Interrail Pass ist auf verschiedenen Wegen erhältlich:
 
 * **Mobile-Pass:**
-   Du kannst den [Interrail Pass papierlos buchen](https://bahn.interrail.eu/de/global-pass), indem du an der Kasse die Option "Mobile-Pass" auswählst. Du erhältst dann eine E-Mail mit der Auftragsbestätigung und Passnummer, mit der du deinen Pass in die "Eurail/Interrail Rail Planner" App laden kannst.
+  Der [Interrail Pass](https://bahn.interrail.eu/de/one-country-pass) kann papierlos gebucht werden. Dazu bei der Buchung die Option „Mobile-Pass“ auswählen. Anschließend werden die Auftragsbestätigung und die Passnummer per E-Mail versendet. Mit der Passnummer lässt sich der Pass in die „Eurail/Interrail Rail Planner“-App laden.
 * **Online-Buchung mit Postversand:**
-   Du kannst den [Interrail Pass online bestellen](https://bahn.interrail.eu/de/global-pass) und erhältst den Pass dann per Post. Plane bitte genügend Vorlauf für den Versand ein.
+  Der [Interrail Pass](https://bahn.interrail.eu/de/one-country-pass) kann online bestellt und per Post zugeschickt werden. Für den Versand sollte ausreichend Vorlauf eingeplant werden.
 * **Persönliche Beratung:**
-   Möchtest du eine persönliche Beratung und den Pass direkt mitnehmen? Dann kannst du den Interrail Pass auch in unseren Reisezentren und in vielen Reisebüros kaufen.
+  Für eine persönliche Beratung und den direkten Kauf ist der Interrail Pass auch in DB Reisezentren und vielen Reisebüros erhältlich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/interrail-verkaufsstellen-global-pass)
 
  Wo kann ich einen Interrail One Country Pass kaufen?
 ----------
 
-Du kannst den Interrail Pass auf verschiedene Wege kaufen:
+Der Interrail Pass ist auf verschiedenen Wegen erhältlich:
 
 * **Mobile-Pass:**
-   Du kannst den [Interrail Pass papierlos buchen](https://bahn.interrail.eu/de/one-country-pass), indem du an der Kasse die Option "Mobile-Pass" auswählst. Du erhältst dann eine E-Mail mit der Auftragsbestätigung und Passnummer, mit der du deinen Pass in die "Eurail/Interrail Rail Planner" App laden kannst.
+  Der [Interrail Pass](https://bahn.interrail.eu/de/one-country-pass) kann papierlos gebucht werden. Dazu bei der Buchung die Option „Mobile-Pass“ auswählen. Anschließend werden die Auftragsbestätigung und die Passnummer per E-Mail versendet. Mit der Passnummer lässt sich der Pass in die „Eurail/Interrail Rail Planner“-App laden.
 * **Online-Buchung mit Postversand:**
-   Du kannst den [Interrail Pass online bestellen](https://bahn.interrail.eu/de/one-country-pass) und erhältst den Pass dann per Post. Plane bitte genügend Vorlauf für den Versand ein.
+  Der [Interrail Pass](https://bahn.interrail.eu/de/one-country-pass) kann online bestellt und per Post zugeschickt werden. Für den Versand sollte ausreichend Vorlauf eingeplant werden.
 * **Persönliche Beratung:**
-   Möchtest du eine persönliche Beratung und den Pass direkt mitnehmen? Dann kannst du den Interrail Pass auch in unseren Reisezentren und in vielen Reisebüros kaufen.
+  Für eine persönliche Beratung und den direkten Kauf ist der Interrail Pass auch in DB Reisezentren und vielen Reisebüros erhältlich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/interrail-verkaufsstellen-one-country-pass)
 
  Gibt es zusätzliche Vorteile bei Interrail-Partnern?
 ----------
 
-Der Interrail Pass bietet dir viele Vergünstigungen, z.B. für Hotels und Museen. Eine komplette Übersicht der Vorteilspartner findest du unter:
+Der Interrail Pass bietet dir viele Vergünstigungen, z.B. für Hotels und Museen. Eine komplette Übersicht der Vorteilspartner gibt es unter:
 
 * [www.interrail.eu](http://www.interrail.eu/de/plan-your-trip/pass-benefits)
 * [Rail Planner App](http://www.interrail.eu/en/plan-your-trip/rail-planner-app)
@@ -7611,7 +7612,7 @@ Der Interrail Pass bietet dir viele Vergünstigungen, z.B. für Hotels und Musee
  Wie viele Monate im Voraus kann ich meinen Interrail Pass kaufen?
 ----------
 
-Du kannst deinen Interrail Pass frühestens 11 Monate vor Beginn deiner Reise kaufen.
+Der Interrail Pass kann frühestens 11 Monate vor Beginn der Reise gekauft werden.
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 
@@ -7620,7 +7621,7 @@ Du kannst deinen Interrail Pass frühestens 11 Monate vor Beginn deiner Reise ka
  Kann ich mit meinem Interrail Pass in meinem Wohnsitzland fahren?
 ----------
 
-Wenn du deinen Wohnsitz in einem der nachstehenden Ländern hast, beinhaltet der Interrail Global Pass 2 Fahrten im Wohnsitzland: eine der Fahrten für deine Reise ins Ausland und die andere für deine Reise aus dem Ausland zurück:
+Der Interrail Global Pass beinhaltet **2 Fahrten im Wohnsitzland**, sofern sich der Wohnsitz in einem der nachstehenden Länder befindet: eine Fahrt ins Ausland und eine Fahrt zurück in das Wohnsitzland.
 
 * Belgien
 * Bosnien und Herzegowina
@@ -7667,7 +7668,7 @@ Wenn du deinen Wohnsitz in einem der nachstehenden Ländern hast, beinhaltet der
  Kann ich mit meinem Interrail Pass in meinem Wohnsitzland fahren?
 ----------
 
-Nein, du kannst mit dem One Country Pass nicht in dem Land reisen, in dem du deinen Wohnsitz hast.
+Nein, mit dem One Country Pass sind Reisen im eigenen Wohnsitzland nicht möglich.
 
 [Weitere Informationen zu Interrail](https://www.bahn.de/angebot/international/interrail)
 
@@ -9339,7 +9340,7 @@ Sie erhalten die meisten KVV-Angebote online auf der Website oder als Handy-Tick
  In welche Länder kann ich mit dem Interrail Pass reisen?
 ----------
 
-Du kannst 33 Länder mit nur einem Interrail Pass erkunden.
+Es können 33 Länder mit nur einem Interrail Pass erkundet werden.
 
 * [Karte Interrail Länder (PDF, 23 MB)](https://assets.static-bahn.de/dam/jcr:cd6315b5-4c92-4d4b-922c-fe067eb9c21e/Interrail%20Map%202026.2026-01-27-07-43-02.pdf)
 
@@ -11740,7 +11741,7 @@ Eine Stornierung einzelner Reisender ist nicht möglich.
  An wievielen Tagen kann ich mit dem Interrail Global Pass reisen?
 ----------
 
-Mit dem Interrail Global Pass hast du diese Optionen:
+Mit dem Interrail Global Pass gibt es diese Optionen:
 
 * 4, 5 oder 7 frei wählbare Reisetage innerhalb von 1 Monat
 * 10 oder 15 frei wählbare Reisetage innerhalb von 2 Monaten
@@ -11756,7 +11757,7 @@ Mit dem Interrail Global Pass hast du diese Optionen:
  An wievielen Tagen kann ich mit dem Interrail One Country Pass reisen?
 ----------
 
-Mit dem Interrail One Country Pass kannst du an 3, 4, 5, 6 oder 8 frei wählbaren Reisetagen innerhalb von 1 Monat reisen.
+Mit dem Interrail One Country Pass kann an 3, 4, 5, 6 oder 8 frei wählbaren Reisetagen innerhalb von 1 Monat gereist werden.
 
 [Weitere Informationen zum One Country Pass](https://www.bahn.de/angebot/international/one-country-pass)
 
