@@ -12,7 +12,7 @@ Ihre Vorteile
 
 * **Deutschlandweit** **und unbegrenzt** in allen Verkehrsmitteln des öffentlichen Nahverkehrs gültig
 * **Abonnement** wird automatisch verlängert
-* **Monatlich kündbar** bis zum 10. jeden Monats – direkt im Handyticket oder im Aboportal
+* **Monatlich kündbar** bis zum 10. jeden Monats – direkt im Handyticket oder in der Aboverwaltung
 * Gilt für **Kalendermonate** und ist bei rechtzeitiger Kündigung auch für **einen Monat** nutzbar
 * Teilnahme an **DB Benefits: Angebote, Rabatte und exklusive Aktionen** von über 50 Partnern
 * Monatlich **BahnBonus Prämien- und Statuspunkte** sammeln
@@ -36,6 +36,17 @@ Der Preis des Deutschlandsemestertickets wird durch die Preisbildung des Deutsch
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandsemesterticket)
 
+###  Kann ich mein Deutschland-Ticket Abo selbst verwalten?  ###
+
+Beginnt Ihre Abonummer mit "AB", können Sie Ihr Deutschland-Ticket im DB Kundenkonto unter "Abos" verwalten. Wählen Sie dort das gewünschte Ticket aus.
+
+Für alle anderen Abos nutzen Sie die Aboverwaltung im Aboportal. Dort können Sie unter anderem kündigen, reaktivieren oder Ihre Kundendaten anpassen.
+
+* [Abo verwalten im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+* [Zum Aboportal](https://abo.bahn.de/)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-abo-selbst-verwalten)
+
 ###  Was ändert sich zum 1. Januar 2027 beim Deutschland-Ticket?  ###
 
 Ab 1. Januar 2027 kostet das Deutschland-Ticket 66,80 Euro pro Monat. Zudem führt die DB Regio AG für die in ihrem Namen verkauften Deutschland-Tickets **ergänzende Tarifbedingungen** ein. **Damit müssen Sie künftig nicht mehr den Preisänderungen zustimmen.**
@@ -58,6 +69,8 @@ Bitte beachten Sie: Bei einer Neubestellung des Abos entstehen Ihnen Kosten für
 * Geben Sie die Ticketinformationen (Abonummer und Nachname) ein.
 
 Ihre Abo-/Vertragsnummer finden Sie auch im Buchungstext auf Ihrem Kontoauszug oder in der Aboverwaltung, wenn Sie sich mit dem identischen DB Kundenkonto anmelden, das Sie für die Online-Bestellung genutzt haben.
+
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
 
@@ -128,6 +141,24 @@ Die Deutsche Bahn informiert Sie transparent darüber, dass Bund und Länder den
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zustimmung-warum)
 
+###  Warum wird das Handy-Ticket für mein Abo nicht im DB Navigator angezeigt?  ###
+
+Beginnt Ihre Deutschland-Ticket-Abonummer mit "AB", wird das Ticket nach erfolgreicher Bestellung automatisch unter "Reisen" im DB Navigator angezeigt. Ist dies nicht der Fall, stellen Sie bitte sicher, dass Sie in Ihrem DB Kundenkonto eingeloggt sind. Sollte das Abonnement für Sie durch eine andere Person abgeschlossen worden sein, können Sie das Ticket über das Plus-Symbol mit Ihrer Abonummer und Ihrem Nachnamen hinzufügen.
+
+Andere Deutschland-Tickets und Abos können Sie über den Link in der Aktivierungsmail, im Aboportal beziehungsweise unter "Meine Reisen" über das Plus-Symbol mit Ihren Daten hinzufügen.
+
+Prüfen Sie die Schreibweise Ihrer Angaben, mögliche Leerzeichen und die aktuelle App-Version.
+
+Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
+
+Sollten Sie weiterhin Probleme mit der Anzeige haben, wenden Sie sich bitte über das Kontaktformular an den Kundensupport. Geben Sie hier die Version Ihrer App und hilfreiche Screenshots an.
+
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
+* [Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
+* [Digitales Abo - Fragen und Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-wird-nicht-angezeigt)
+
 ###  Wie kann ich der Vertragsänderung zustimmen?  ###
 
 Als bestellende Person (Vertragspartner oder Vertragspartnerin) finden Sie im Aboportal beim jeweiligen Deutschland-Ticket die Funktion **"Vertragsänderung zustimmen"**. Mit einem Klick können Sie der Vertragsänderung zustimmen oder diese ablehnen.
@@ -138,5 +169,17 @@ Bei einem Handy-Ticket steht die Funktion auch direkt beim Ticket zur Verfügung
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vertragsaenderung-zustimmen)
+
+###  Wo finde ich meine Abonummer?  ###
+
+Die Abonummer haben Sie mit Ihrer Aktivierungsmail erhalten.
+
+Sie finden diese ebenfalls in der Aboverwaltung, im DB Navigator auf dem Handy-Ticket unterhalb des QR-Codes oder im Verwendungszweck der Lastschriftzahlung.
+
+Wenn Sie eine Chipkarte oder ein Papierticket erhalten haben, ist Ihre Abonummer im Begleitbrief angegeben.
+
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-abonummer)
 
 [Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)

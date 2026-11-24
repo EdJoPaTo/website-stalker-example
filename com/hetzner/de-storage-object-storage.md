@@ -16,6 +16,10 @@ S3 STORAGE THAT GROWS WITH YOUR NEEDS
 
 Ob für Backups, Multimedia oder Big Data, Object Storage bietet die ideale Lösung, um datenintensive Workloads zu bewältigen. Im Gegensatz zu herkömmlichen Storage-Lösungen sind Daten als Objekte organisiert, die aus den jeweiligen Daten, Metadaten und einer einzigartigen ID bestehen. Diese Struktur ermöglicht eine einfache Verwaltung, Suche und Organisation und ist besonders geeignet für große, unstrukturierte Datenmengen. Jeder Nutzer kann bis zu 100 Buckets mit jeweils 100 TB erstellen.
 
+100% Ökostrom aus dem Netz
+
+Wasserfreie Kühlung
+
 NBG1
 
 FSN1

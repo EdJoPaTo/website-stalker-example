@@ -1,11 +1,13 @@
-Storage Boxes
+Storage
 
-GÜNSTIGER ONLINE SPEICHER FÜR BACKUP UND DATENARCHIVIERUNG
+Günstiger Online Speicher für Backup und Datenarchivierung
 ==========
 
-[Storage Boxes vergleichen](https://www.hetzner.com/de/storage/storage-box/#matrix)
+**Integriere die Storage Box noch heute in deinen Backup-Plan für mehr Redundanz und automatisiere die Sicherung deiner Daten.**
 
-----------
+100% Ökostrom aus dem Netz
+
+Wasserfreie Kühlung
 
  Unsere Server sind **an verschiedenen Standorten verfügbar.**
 

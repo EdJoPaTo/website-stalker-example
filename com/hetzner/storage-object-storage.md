@@ -16,6 +16,10 @@ OBJECT STORAGE THAT GROWS WITH YOUR NEEDS
 
 Whether for backups, multimedia or big data, Object Storage offers the ideal solution for managing data-intensive workloads. In contrast to conventional storage solutions, data is organized as objects consisting of the data itself, the metadata and a unique ID. This structure makes it easy to manage the data, search through it and organize it, and is particularly suitable for large, unstructured amounts of data. You can create up to 100 buckets, 100TB each.
 
+100% renewable grid electricity
+
+Waterless cooling
+
 NBG1
 
 FSN1

@@ -367,7 +367,7 @@ Die Authentifizierungsverfahren können von Bank zu Bank unterschiedlich sein. D
  Wie kann ich meine Kontoverbindung für das Lastschriftverfahren ändern?
 ----------
 
-Ändern Sie Ihre Kontodaten im DB Kundenkonto unter "Zahlungsdaten" \> "Lastschrift".
+Ändern Sie Ihre Kontodaten im DB Kundenkonto im Bereich "Zahlungsmittel" unter "Lastschrift".
 Beginnt Ihre Abonummer nicht mit "AB", ändern Sie die Bankdaten bitte zusätzlich im Aboportal unter "Meine Daten".
 
 * [Zum DB Kundenkonto](https://www.bahn.de/mein-konto)
@@ -378,7 +378,7 @@ Beginnt Ihre Abonummer nicht mit "AB", ändern Sie die Bankdaten bitte zusätzli
  Wie melde ich mich vom Lastschriftverfahren ab?
 ----------
 
-Im DB Kundenkonto unter "Zahlungsmittel" können Sie die SEPA-Lastschrift ändern bzw. löschen.
+Im DB Kundenkonto unter "Zahlungsmittel" können Sie die SEPA-Lastschrift ändern oder löschen.
 
 Besteht für dieses Konto noch ein aktives Abo im Lastschriftverfahren, ist eine Löschung der Bankdaten nicht möglich.
 
@@ -1956,6 +1956,30 @@ So können Sie Ihre Verbindung oder den Ticketkauf an Ihre Reiseplanung optimal 
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/dt-filter-fv-warum-2-filter)
 
+ Wie aktuell ist die Echtzeit-Position meines Zuges auf der Karte?
+----------
+
+Die Echtzeit-Position des Zuges wird automatisch in regelmäßigen Abständen aktualisiert, wenn für den Zug Positionsdaten verfügbar sind.
+
+Da Fahrzeugdaten, zum Beispiel GPS-Daten, verzögert übermittelt werden können, kann die angezeigte Position zeitweise von der tatsächlichen Position Ihres Zuges abweichen. Auch Unterschiede zu den angegebenen An- und Abfahrtzeiten im Fahrtverlauf der Fahrtinformationen sind möglich.
+
+Orientieren Sie sich bei Abweichungen an den aktuellen Echtzeit- und Prognose-Informationen der Fahrplanauskunft. Die Kartenposition beruht u. a. auf den vom Zug übermittelten GPS-Daten und dient als zusätzliche Orientierung.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/echtzeit-position-aktuell)
+
+ Wo finde ich die Echtzeit-Position meines Zuges?
+----------
+
+Im DB Navigator und auf bahn.de können Sie sich zusätzlich zum Fahrtverlauf die Echtzeit-Position Ihres Zuges anzeigen lassen, wenn für den Zug Positionsdaten verfügbar sind. Das bietet Ihnen besonders bei Verspätungen, längeren Aufenthalten, Umleitungen oder einer unklaren Betriebslage zusätzliche Orientierung.
+
+Öffnen Sie die Verbindungs- bzw. Reisedetails und klicken Sie auf den Button "Fahrtinformation". Auf bahn.de öffnet sich nun der Fahrtverlauf mit An- und Abfahrtzeiten für jeden Halt. Der Fahrtverlauf wird zudem grafisch auf der Karte angezeigt. Dort sehen Sie auch die Echtzeit-Position des Zuges, wenn für diesen Positionsdaten verfügbar sind.
+
+Um im DB Navigator zur Karte und der Echtzeit-Position des Zuges zu gelangen, öffnen Sie die Fahrtinformationen und klicken auf das Kartensymbol oben rechts oder auf den Button "Auf Karte anzeigen". Damit sehen Sie, wo sich Ihr Zug aktuell befindet und wie der Streckenverlauf ist.
+
+Die Position des Zuges wird u. a. mithilfe von GPS-Daten ermittelt. Ändert sich der Fahrtverlauf während der Fahrt, etwa durch eine Umleitung, müssen Sie die Kartenansicht manuell aktualisieren, um den angepassten Verlauf zu sehen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/echtzeit-position-zug)
+
  Wo kann ich meine eCoupons auf der Webseite oder in der App einlösen?
 ----------
 
@@ -2864,9 +2888,9 @@ Es ist kein Login für das Hinzufügen oder Aktualisieren des Handy-Tickets erfo
  Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im DB Navigator angezeigt?
 ----------
 
-Beginnt Ihre D-Ticket-Abonummer mit "AB", wird das Ticket nach erfolgreicher Bestellung automatisch unter "Reisen" im DB Navigator angezeigt. Ist dies nicht der Fall, stellen Sie bitte sicher, dass Sie in Ihrem DB Kundenkonto eingeloggt sind. Sollte das Abonnement für Sie durch eine andere Person abgeschlossen worden sein, können Sie das Ticket über das Plus-Symbol mit Ihrer Abonummer und Ihrem Nachnamen hinzufügen.
+Beginnt Ihre Deutschland-Ticket-Abonummer mit "AB", wird das Ticket nach erfolgreicher Bestellung automatisch unter "Reisen" im DB Navigator angezeigt. Ist dies nicht der Fall, stellen Sie bitte sicher, dass Sie in Ihrem DB Kundenkonto eingeloggt sind. Sollte das Abonnement für Sie durch eine andere Person abgeschlossen worden sein, können Sie das Ticket über das Plus-Symbol mit Ihrer Abonummer und Ihrem Nachnamen hinzufügen.
 
-Andere D-Tickets und Abos können Sie über den Link in der Aktivierungsmail, im Aboportal beziehungsweise unter "Meine Reisen" über das Plus-Symbol mit Ihren Daten hinzufügen.
+Andere Deutschland-Tickets und Abos können Sie über den Link in der Aktivierungsmail, im Aboportal beziehungsweise unter "Meine Reisen" über das Plus-Symbol mit Ihren Daten hinzufügen.
 
 Prüfen Sie die Schreibweise Ihrer Angaben, mögliche Leerzeichen und die aktuelle App-Version.
 
@@ -4516,22 +4540,6 @@ Ja, Sie zahlen ein Bearbeitungsentgelt, wenn Sie einen verlorenen Gegenstand aus
 * Für das Netz Elbe-Spree ist ein Versand an die Servicestellen/Kundendialog DB Regio in Potsdam möglich.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-etwas-zahlen)
-
- Muss ich mich für das DB Kundenkonto immer mit einem 2. Faktor authentifizieren?
-----------
-
-Nein, wenn Sie die 2-Faktor-Authentifizierung in Ihrem DB Kundenkonto aktiviert haben und regelmäßig mit einem vertrauenswürdigen Gerät wie Ihrem Computer oder Smartphone auf z. B. bahn.de oder die App DB Navigator zugreifen, können Sie die Abfrage des 2. Faktors beim Login überspringen.
-
-**So speichern Sie ein vertrauenswürdiges Gerät:**
-Melden Sie sich mit dem 2. Faktor an und wählen Sie dabei die Option, die erneute Abfrage auf diesem Gerät für einen bestimmten Zeitraum auszusetzen. Damit wird das Gerät für diesen Zeitraum als vertrauenswürdig gespeichert. Anschließend wird der 2. Faktor erneut abgefragt.
-
-Folgende Geräte sind nicht vertrauenswürdig und sollten immer mit einer Abfrage des 2.-Faktors genutzt werden:
-
-* öffentliche Geräte, wie z. B. Computer in Bibliotheken, Hotels oder Internetcafés
-* Geräte, die von mehreren Personen genutzt werden
-* Wenn Sie unsicher sind, ob das verwendete Gerät sicher ist (z. B. bei Verdacht auf Malware)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/muss-ich-immer-mit-2-faktor-authentifizieren)
 
  Muss ich mein DB Kundenkonto zwingend mit einem zweiten Authentifizierungsfaktor schützen?
 ----------
@@ -8631,15 +8639,6 @@ Ist dies bei allen angezeigten Verbindungen der Fall, so wird die Spalte "Auslas
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-ist-bei-manchen-verbindungen-keine-auslastungsinformation-verfuegbar)
 
- Wieso muss ich meine E-Mail-Adresse für das DB Kundenkonto bestätigen bzw. verifizieren?
-----------
-
-Die Verifikation der E-Mail-Adresse dient der Sicherheit Ihres DB Kundenkontos und stellt sicher, dass sich nur Nutzerinnen und Nutzer registrieren können, die tatsächlich Zugang zu der angegebenen E-Mail-Adresse besitzen. Diese eindeutige E-Mail-Adresse benötigen Sie für die Verwaltung Ihres DB Kundenkontos.
-
-Sie erhalten auch Buchungsbestätigungen und PDF-Tickets an diese E-Mail-Adresse.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wieso-muss-ich-meine-e-mail-adresse-bestaetigen-verifizieren)
-
  Wieso sind WLAN-Einwahl und VPN-Deaktivierung Voraussetzung, um das ICE Portal nutzen zu können?
 ----------
 
@@ -9157,15 +9156,6 @@ Die Funktion „iCloud Private Relay“ ab iOS 15 soll u.a. für anonymisiertes 
 Für die Dauer der Nutzung des ICE Portals sollte diese Funktion deaktiviert sein. Ob die Funktion ausgeschaltet ist, können Sie unter „Einstellungen“ ⇒ „Apple-ID“ ⇒ „iCloud“ ⇒ „Private Relay“ kontrollieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/worauf-muss-ich-besonders-bei-apple-geraeten-achten)
-
- Wozu brauche ich eine 2-Faktor-Authentifizierung für das DB Kundenkonto?
-----------
-
-Die 2-Faktor-Authentifizierung schützt Ihre Login- und Kundendaten vor unerlaubten Zugriffen. Insbesondere das Phishing Ihrer Login-Daten wird durch die 2-Faktor-Authentifizierung unterbunden.
-
-Wir empfehlen Ihnen, diese Option zu aktivieren, um den bestmöglichen Schutz für Ihre DB Kundenkonto-Daten zu gewährleisten. Es ist aber keine Pflicht.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wozu-benoetige-ich-eine-2-faktor-authentifizierung)
 
  Wer bearbeitet mein Entschädigungsanliegen und was ist das Servicecenter Fahrgastrechte?
 ----------

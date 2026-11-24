@@ -688,6 +688,7 @@ Wenn Sie das Kündigungsdatum ändern möchten, reaktivieren Sie zuerst das Abo.
 
 Nach dem Kündigungsdatum müssen Sie das Abo neu bestellen.
 
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 * [Hilfe bei Problemen mit der Funktion "Abo reaktivieren"](https://www.bahn.de/faq/abo-reaktivieren-nicht-moeglich)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-reaktivieren)
@@ -695,7 +696,7 @@ Nach dem Kündigungsdatum müssen Sie das Abo neu bestellen.
  Warum kann ich mein Abo nach der Kündigung nicht mehr reaktivieren?
 ----------
 
-Nach einer Kündigung kann nur der Vertragspartner oder die Vertragspartnerin das Abo reaktivieren. Die Funktion wird maximal bis zum letzten Tag des Gültigkeitszeitraums angeboten.
+Nach einer Kündigung kann nur der Vertragspartner oder die Vertragspartnerin das Abo in der Aboverwaltung im DB Kundenkonto reaktivieren. Die Funktion wird maximal bis zum letzten Tag des Gültigkeitszeitraums angeboten.
 
 Eine Reaktivierung ist ausgeschlossen, wenn die Voraussetzungen für das Abo entfallen sind, der Arbeitgebende den Rahmenvertrag gekündigt hat oder das Angebot nicht mehr besteht.
 
@@ -3645,7 +3646,7 @@ Ja. Sie können eine Erstattung für Ihr Deutschland-Ticket erhalten, wenn Sie d
  Ich kann mein Deutschland-Ticket nicht in der Aboverwaltung finden. Was kann ich tun?
 ----------
 
-* Beginnt Ihre Abonummer mit **"AB"**, prüfen Sie Ihr **DB Kundenkonto** unter "Abo".
+* Beginnt Ihre Abonummer mit **"AB"**, prüfen Sie Ihr **DB Kundenkonto** unter "Abos".
 * Beginnt sie mit einer **Zahl,** prüfen Sie das **Aboportal**.
 * Ihr Abo wird weder im DB Kundenkonto noch im Aboportal angezeigt, Sie haben aber bereits eine Aktivierungsmail dafür erhalten? Wenden Sie sich bitte über das **Kontaktformular** unter Angabe der App-Version und Screenshots an den Kundensupport.
 
@@ -3718,7 +3719,7 @@ Wenn der Grund für Ihre Ablehnung geklärt wurde, können Sie das Abo neu beste
  Kann ich mein Deutschland-Ticket Abo selbst verwalten?
 ----------
 
-Beginnt Ihre Abonummer mit "AB", können Sie Ihr Deutschland-Ticket im DB Kundenkonto unter "Abo" verwalten. Wählen Sie dort das gewünschte Ticket aus.
+Beginnt Ihre Abonummer mit "AB", können Sie Ihr Deutschland-Ticket im DB Kundenkonto unter "Abos" verwalten. Wählen Sie dort das gewünschte Ticket aus.
 
 Für alle anderen Abos nutzen Sie die Aboverwaltung im Aboportal. Dort können Sie unter anderem kündigen, reaktivieren oder Ihre Kundendaten anpassen.
 
@@ -4052,12 +4053,14 @@ Bitte beachten Sie: Bei einer Neubestellung des Abos entstehen Ihnen Kosten für
 
 Ihre Abo-/Vertragsnummer finden Sie auch im Buchungstext auf Ihrem Kontoauszug oder in der Aboverwaltung, wenn Sie sich mit dem identischen DB Kundenkonto anmelden, das Sie für die Online-Bestellung genutzt haben.
 
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
 
  Gibt es das Deutschland-Ticket auch als Jobticket?
 ----------
 
-Ja, das Deutschland-Ticket können Sie auch als Jobticket zu bundesweit einheitlichen Bedingungen kaufen. Wenn der Arbeitgeber mindestens 25 Prozent des monatlichen Ticketpreises übernimmt, erhalten Sie einen zusätzlichen Rabatt von maximal 5 Prozent auf den regulären Preis von 63 Euro.
+Ja, das Deutschland-Ticket können Sie auch als Jobticket zu bundesweit einheitlichen Bedingungen kaufen. Wenn der Arbeitgeber mindestens 25 Prozent des monatlichen Ticketpreises übernimmt, erhalten Sie einen zusätzlichen Rabatt von maximal 5 Prozent auf den regulären Preis von 63 Euro. Ab 1. Januar 2027: 66,80 Euro.
 
 Bitte informieren Sie sich hierzu im Personalbereich Ihres Unternehmens.
 
@@ -4150,7 +4153,7 @@ Bund und Länder haben entschieden, das Deutschland-Ticket als **Abonnement** an
 
 Für das Deutschland-Ticket gelten bundesweit einheitliche Tarifbestimmungen. Das Abo ist personalisiert und damit nicht übertragbar.
 
-* Preis: monatlich 63 Euro/Monat
+* Preis: monatlich 63 Euro (Ab 1. Januar 2027: monatlich 66,80 Euro)
 * Laufzeit: monatlich kündbar. Wenn bis zum 10. Tag des Monats gekündigt wird, endet das Abo am Ende des laufenden Monats - danach zum Ende des nächsten Monats.
 * Gültigkeit: bundesweit (im Nahverkehr, also in allen Bussen, Straßenbahnen, Stadt- und U-Bahnen sowie S-Bahnen, Regionalbahnen und im Regionalexpress in der 2. Klasse (im Fernverkehr, also im ICE, IC oder EC gilt das Deutschland-Ticket nicht).
 
@@ -4181,9 +4184,9 @@ Möglichkeiten zur Kündigung:
  Kann ich mein Deutschland-Ticket Abo noch vor dem Gültigkeitsbeginn kündigen?
 ----------
 
-Der Vertrag für ein Deutschland-Ticket kann nicht widerrufen werden. Sie können das Abo schon vor Vertragsbeginn im Rahmen der Kündigungfrist (aktuell der 10. des Monats) in der Aboverwaltung kündigen.
+Der Vertrag für ein Deutschland-Ticket kann nicht widerrufen werden. Sie können das Abo schon vor Vertragsbeginn im Rahmen der Kündigungsfrist (aktuell der 10. des Monats) in der Aboverwaltung kündigen.
 
-Sollte Ihre Abonummer mit "AB" beginnen, wenden Sie sich hierzu bitte an den Kundensupport.
+Sollte Ihre Abonummer mit "AB" beginnen, nutzen Sie bitte das Kontaktformular.
 
 * [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
@@ -4968,17 +4971,9 @@ Der Einstieg ist bereits ab einem Ticket möglich. Für eine Einschätzung Ihres
  Ich habe ein Deutschland-Ticket Jobticket. Muss ich etwas beachten?
 ----------
 
-Wenn Sie Ihr Deutschland-Ticket Jobticket im Abonnement mit dem geänderten Preis und
-den ergänzenden Tarifbedingungen behalten oder kündigen möchten, benötigen wir
-grundsätzlich – wie beim normalen Deutschland-Ticket – Ihre Rückmeldung bis zum 30.
-November 2026.
+Wenn Sie Ihr Deutschland-Ticket Jobticket im Abonnement mit dem geänderten Preis und den ergänzenden Tarifbedingungen behalten oder kündigen möchten, benötigen wir grundsätzlich – wie beim normalen Deutschland-Ticket – Ihre Rückmeldung bis zum 30. November 2026.
 
-Ihr zu zahlender monatlicher Preis richtet sich nach den Vereinbarungen
-zum Zuschuss mit dem Arbeitgeber und beträgt **ab dem 1. Januar 2027** monatlich maximal
-**63,46 Euro** (abzüglich des individuellen Zuschusses). Sie können hier zustimmen.
-Ausnahme: Falls Ihr Arbeitgeber den monatlichen Abopreis für das Jobticket vollständig
-übernimmt, müssen Sie der Preiserhöhung nicht zustimmen. Das Abo wird fortgeführt,
-sofern das Unternehmen den Rahmenvertrag mit der Deutschen Bahn beibehält.
+Ihr zu zahlender monatlicher Preis richtet sich nach den Vereinbarungen zum Zuschuss mit dem Arbeitgeber und beträgt **ab dem 1. Januar 2027** monatlich maximal **63,46 Euro** (abzüglich des individuellen Zuschusses). Sie können hier zustimmen. Ausnahme: Falls Ihr Arbeitgeber den monatlichen Abopreis für das Jobticket vollständig übernimmt, müssen Sie der Preiserhöhung nicht zustimmen. Das Abo wird fortgeführt, sofern das Unternehmen den Rahmenvertrag mit der Deutschen Bahn beibehält.
 
 **Sie haben ab dem 15. Oktober 2026 bestellt?**
 
@@ -4997,7 +4992,7 @@ Der Ausgabepreis des Deutschland-Ticket Jobtickets ist ab 1. Januar 2026 der Pre
 
 Der Abgabepreis des Deutschland-Ticket Jobtickets ergibt sich aus dem Ausgabepreis, der um den gegenwärtigen und gesetzlich beschlossenen Rabattsatz von 5 Prozent reduziert wird. Das sind ab 1. Januar 59,85 Euro.
 
-Ab dem **1. Januar 2027** beträgt der monatliche Preis für das Deutschland-Ticket **66,80 Euro**. Das Deutschland-Ticket Jobticket kostet dann **63,46 Euro pro Monat bzw. nach Abzug des Arbeitgeberzuschusses 46,76 Euro.**
+Ab dem 1. Januar 2027 beträgt der monatliche Preis für das Deutschland-Ticket 66,80 Euro. Das Deutschland-Ticket Jobticket kostet dann 63,46 Euro pro Monat bzw. nach Abzug des Arbeitgeberzuschusses 46,76 Euro.
 
 Dieser Rabatt wird nur dann gewährt, wenn der Arbeitgebende einen Mindestzuschuss von 25 Prozent auf den Ausgabepreis an die Mitarbeitenden gewährt.
 
@@ -6210,7 +6205,7 @@ Nein. Eine Änderung des Gültigkeitsbeginns oder Stornierung des Abos ist nicht
 
 Kündigen Sie, wenn nötig, fristgerecht Ihr bestehendes Abo. Nutzen Sie dafür die Aboverwaltung im DB Kundenkonto oder in der App DB Navigator den entsprechenden Menüpunkt direkt im Ticket.
 
-Anschließend nehmen Sie können Sie neu bestellen.
+Anschließend können Sie neu bestellen.
 
 * [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
@@ -6367,9 +6362,9 @@ Es ist kein Login für das Hinzufügen oder Aktualisieren des Handy-Tickets erfo
  Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im DB Navigator angezeigt?
 ----------
 
-Beginnt Ihre D-Ticket-Abonummer mit "AB", wird das Ticket nach erfolgreicher Bestellung automatisch unter "Reisen" im DB Navigator angezeigt. Ist dies nicht der Fall, stellen Sie bitte sicher, dass Sie in Ihrem DB Kundenkonto eingeloggt sind. Sollte das Abonnement für Sie durch eine andere Person abgeschlossen worden sein, können Sie das Ticket über das Plus-Symbol mit Ihrer Abonummer und Ihrem Nachnamen hinzufügen.
+Beginnt Ihre Deutschland-Ticket-Abonummer mit "AB", wird das Ticket nach erfolgreicher Bestellung automatisch unter "Reisen" im DB Navigator angezeigt. Ist dies nicht der Fall, stellen Sie bitte sicher, dass Sie in Ihrem DB Kundenkonto eingeloggt sind. Sollte das Abonnement für Sie durch eine andere Person abgeschlossen worden sein, können Sie das Ticket über das Plus-Symbol mit Ihrer Abonummer und Ihrem Nachnamen hinzufügen.
 
-Andere D-Tickets und Abos können Sie über den Link in der Aktivierungsmail, im Aboportal beziehungsweise unter "Meine Reisen" über das Plus-Symbol mit Ihren Daten hinzufügen.
+Andere Deutschland-Tickets und Abos können Sie über den Link in der Aktivierungsmail, im Aboportal beziehungsweise unter "Meine Reisen" über das Plus-Symbol mit Ihren Daten hinzufügen.
 
 Prüfen Sie die Schreibweise Ihrer Angaben, mögliche Leerzeichen und die aktuelle App-Version.
 
@@ -6580,7 +6575,7 @@ Falls in der Online-Bestellung des ICE-Abos für Ihre Strecke jedoch keine ICE-V
 
 Bei einer Neubestellung wird Ihr Abo automatisch mit dem verwendeten DB Kundenkonto verknüpft.
 
-* Beginnt Ihre Abonummer mit **"AB",** finden Sie das Abo im **DB Kundenkonto** unter "Abo".
+* Beginnt Ihre Abonummer mit **"AB",** finden Sie das Abo im **DB Kundenkonto** unter "Abos".
 * Beginnt Ihre Abonummer mit einer **Zahl**, wechseln Sie ins **Aboportal**. Wird das Abo dort nicht angezeigt, können Sie es über "Abo hinzufügen" erneut verknüpfen.
 
 * [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
@@ -6798,6 +6793,7 @@ Melden Sie sich im Aboportal an. Wählen Sie auf der Startseite oder unter "Mein
 Wenn Ihre Abonummer mit "AB" beginnt, finden Sie Ihr Deutschland-Ticket direkt im DB Kundenkonto unter "Abos".
 
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum DB Kundenkonto](https://www.bahn.de/mein-konto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-will-im-aboportal-ein-weiteres-abo-hinzufuegen-wie-mache-ich-das)
 
@@ -8989,9 +8985,9 @@ Es gelten die [Beförderungsbedingungen der Deutsche Bahn AG](https://www.bahn.d
  Wie löse ich meinen Buchungscode ein?
 ----------
 
-Gehe auf [bahn.de/kostuemticket](https://www.bahn.de/angebot/aktionsangebote/kostuemticket) und wähle eine passende Verbindung aus. Logge dich in dein DB-Kundenkonto ein und gib den Buchungscode im vorgesehenen Gutschein-/Codefeld ein. Nach Abschluss der Buchung erhältst du dein digitales Ticket.
+Auf [bahn.de/kostuemticket](https://www.bahn.de/angebot/aktionsangebote/kostuemticket) eine passende Verbindung auswählen. Im DB Kundenkonto anmelden und den Buchungscode in das vorgesehene Gutschein-/Codefeld eingeben. Nach Abschluss der Buchung steht das digitale Ticket zur Verfügung
 
-**Bitte beachte folgendes für die Einlösung:** Ein DB Buchungscode ist jeweils für eine einfache Fahrt (Hin- und Rückfahrt muss mit jeweils einem Buchungscode gebucht werden) für einen Erwachsenen deutschlandweit in der 2. Klasse im DB Fernverkehr (ICE, IC/EC). Gültig im Vor- und Nachlauf im Nahverkehr der Deutschen Bahn (IRE,RE,RB und S-Bahn) und in den nichtbundeseigenen Eisenbahnen (NE). Nicht gültig im Seeverkehr. Hinweis: Den Start- und Zielbahnhof kannst du frei wählen.
+**Hinweis zur Einlösung:** Ein DB Buchungscode ist jeweils für eine einfache Fahrt (Hin- und Rückfahrt muss mit jeweils einem Buchungscode gebucht werden) für einen Erwachsenen deutschlandweit in der 2. Klasse im DB Fernverkehr (ICE, IC/EC). Gültig im Vor- und Nachlauf im Nahverkehr der Deutschen Bahn (IRE,RE,RB und S-Bahn) und in den nichtbundeseigenen Eisenbahnen (NE). Nicht gültig im Seeverkehr. Hinweis: Den Start- und Zielbahnhof kannst du frei wählen.
 
 **Ablauf der Buchung:**
 
@@ -9012,14 +9008,14 @@ Gehe auf [bahn.de/kostuemticket](https://www.bahn.de/angebot/aktionsangebote/ko
  Warum funktioniert mein Buchungscode nicht?
 ----------
 
-Bitte prüfe zuerst:
+Bitte zunächst Folgendes prüfen:
 
-* ob du im richtigen Buchungszeitraum buchst,
-* ob deine Reise im gültigen Reisezeitraum liegt,
-* ob du im eingeloggten Bereich auf bahn.de oder in der App DB Navigator buchst,
-* ob du ein Ticket der 2. Klasse buchst,
-* ob der Code vollständig und korrekt eingegeben wurde,
-* ob der Code eventuell bereits eingelöst wurde.
+* Liegt die Buchung im gültigen Buchungszeitraum?
+* Liegt die Reise im gültigen Reisezeitraum?
+* Erfolgt die Buchung im eingeloggten Bereich auf bahn.de oder in der App DB Navigator?
+* Wird ein Ticket der 2. Klasse gebucht?
+* Wurde der Code vollständig und korrekt eingegeben?
+* Wurde der Code möglicherweise bereits eingelöst?
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-buchungscode-funktioniert-nicht)
 
@@ -9082,7 +9078,7 @@ Nein. Die entgeltliche Weitergabe ist ausgeschlossen.
  Ich habe die E-Mail mit meinen Codes nicht erhalten. Was kann ich tun?
 ----------
 
-Prüfe bitte zuerst deinen Spam-Ordner. Wenn die E-Mail weiterhin nicht auffindbar ist, wende dich an den Kundenservice unseres Partners Kostümpalast.de und halte deine Bestellnummer bereit.
+Bitte zunächst den Spam-Ordner prüfen. Ist die E-Mail weiterhin nicht auffindbar, hilft der Kundenservice unseres Partners Kostümpalast.de weiter. Dafür bitte die Bestellnummer bereithalten.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-codes-nicht-erhalten)
 
@@ -9096,7 +9092,7 @@ Für allgemeine Fragen zur Reise hilft die Service-Hotline der Deutschen Bahn un
  An wen wende ich mich, wenn ich Fragen zum ICE-Kostüm, zur Bestellung oder zum Widerruf habe?
 ----------
 
-Bitte wende dich an den Kundenservice unseres Partners Kostümpalast.de.
+Bei Fragen bitte den Kundenservice unseres Partners Kostümpalast.de kontaktieren.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-fragen-ice-kostuem)
 
@@ -9155,7 +9151,7 @@ Die Buchungscodes können im Buchungszeitraum vom 11. November 2026 bis 3. Febru
  Was genau bekomme ich für die Bahnfahrt?
 ----------
 
-Du erhältst zwei Buchungscodes: einen Code für die Hinfahrt und einen Code für die Rückfahrt. Jeder Code kann für eine einfache Fahrt im Rahmen der Angebotskonditionen genutzt werden.
+Es gibt zwei Buchungscodes: einen für die Hinfahrt und einen für die Rückfahrt. Jeder Code kann für eine einfache Fahrt im Rahmen der Angebotskonditionen genutzt werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-was-enthalten)
 
@@ -9188,21 +9184,21 @@ Weitere Informationen finden sich unter [kostuempalast.de](https://kostuempalast
  Wie erhalte ich meine Buchungscodes?
 ----------
 
-Nach dem Kauf erhältst du von Kostümpalast.de eine E-Mail mit deinen beiden Buchungscodes für die Fahrt zum Karneval. Wenn du die E-Mail nicht findest, prüfe bitte auch deinen Spam-Ordner.
+Nach dem Kauf versendet Kostümpalast.de per E-Mail zwei Buchungscodes für die Fahrt zum Karneval. Ist die E-Mail nicht im Posteingang zu finden, lohnt sich auch ein Blick in den Spam-Ordner.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-wie-buchungscodes-erhalten)
 
  Wie erhalte ich mein ICE-Kostüm?
 ----------
 
-Das ICE-Kostüm wird dir als Sendung durch unseren Partner Kostümpalast.de zugeschickt. Die Buchungscodes für deine Bahnreise erhältst du separat per E-Mail.
+Der Versand des ICE-Kostüms erfolgt über unseren Partner Kostümpalast.de. Die Buchungscodes für die Bahnreise werden separat per E-Mail verschickt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-wie-kostuem-erhalten)
 
  Wo kann ich die Buchungscodes einlösen?
 ----------
 
-Die Codes können im eingeloggten DB Kundenkonto auf [bahn.de](https://www.bahn.de/buchung/start?KL=2&ET=KOSTUEMTICKET) oder über die App DB Navigator eingelöst werden. Solltest du noch kein DB Kundenkonto besitzen, musst du vor der Buchung des DB-Kostümtickets [eines auf bahn.de einrichten](https://www.bahn.de/info/kundenkonto).
+Die Codes können im eingeloggten DB Kundenkonto auf [bahn.de](https://www.bahn.de/buchung/start?KL=2&ET=KOSTUEMTICKET) oder über die App DB Navigator eingelöst werden. Für die Buchung des DB-Kostümtickets ist ein DB Kundenkonto erforderlich. Falls noch kein Kundenkonto vorhanden ist, kann dieses vorab auf [bahn.de eingerichtet](https://www.bahn.de/info/kundenkonto) werden.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/kostuemticket-wo-buchungscodes-einloesen)
 
@@ -15498,12 +15494,12 @@ Wenn Sie bei Ihrer ursprünglichen 2. Klasse-Buchung eine BahnCard 2. Klasse ver
 Wenn Ihre Kündigungsanfrage abgelehnt wurde, prüfen Sie bitte folgende Punkte vor einer erneuten Eingabe:
 
 * Kontrollieren Sie die Schreibweise Ihres Vor- und Nachnamens. Geben Sie diese genauso ein wie bei Ihrer Bestellung oder wie sie auf Ihrem Ticket stehen. Verwechseln Sie nicht Vor- und Nachname.
-  Die Abonummer finden Sie auf Ihrem Ticket (beim Handyticket unterhalb des QR-Codes in der Zeile "Auftragsnr." oder "Auftrags- / Abonummer") oder in der Aktivierungs-E-Mail.
+  Die Abonummer finden Sie auf Ihrem Ticket (beim Handy-Ticket unterhalb des QR-Codes in der Zeile "Auftragsnr." oder "Auftrags- / Abonummer") oder in der Aktivierungs-E-Mail.
 * Stellen Sie sicher, dass Sie einen Abovertrag kündigen möchten, den Sie bei der Deutschen Bahn abgeschlossen haben. Abos bei anderen Verkehrsunternehmen müssen direkt dort gekündigt werden.
   Die Kündigung kann nur durch den Vertragspartner (bestellende Person) durchgeführt werden. Möchten Sie zum Beispiel das Abo Ihres minderjährigen Kindes kündigen, geben Sie bitte dennoch im Formular Ihre Daten als Vertragspartner ein und nicht die Daten des Kindes.
 * Alternativ können Sie sich in der Aboverwaltung mit Ihrem DB Kundenkonto anmelden und dort die Kündigung durchführen oder direkt im Menü unterhalb des Handy-Tickets die Funktion "Abo kündigen" nutzen.
 
-[Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-mein-kuendigungsformular-nicht-bearbeitet-werden)
 
@@ -18468,10 +18464,11 @@ Die Versicherung läuft ab dem vereinbarten Versicherungsbeginn ein Jahr. Sie ve
  Wie melde ich mich im Aboportal an?
 ----------
 
-Melden Sie sich auf abo.bahn.de mit Benutzernamen und dem Passwort Ihres DB Kundenkontos an. Bereits verknüpfte Abos werden auf der Übersichtsseite angezeigt. Weitere Abos lassen sich über "Abo hinzufügen" ergänzen.
+Melden Sie sich im [Aboportal](https://abo.bahn.de/)mit Benutzernamen und dem Passwort Ihres DB Kundenkontos an. Bereits verknüpfte Abos werden auf der Übersichtsseite angezeigt. Weitere Abos lassen sich über "Abo hinzufügen" ergänzen.
 
 Wenn Ihre Abonummer mit "AB" beginnt, finden Sie Ihr Deutschland-Ticket direkt im DB Kundenkonto unter "Abos".
 
+* [Zum Aboportal](https://abo.bahn.de/)
 * [Zum DB Kundenkonto](https://www.bahn.de/mein-konto)
 * [Informationen zur Verwaltung eines Abos für eine andere Person](https://www.bahn.de/faq/abovertrag-fuer-andere-verwalten)
 

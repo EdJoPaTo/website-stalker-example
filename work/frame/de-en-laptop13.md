@@ -1,12 +1,12 @@
 This isn’t our computer.
 It’s yours.
-----------
+==========
 
 Updated for 2025 with AMD's latest Ryzen™ AI 300 Series processors, with up to 12 CPU cores.
 
 This isn’t our computer.
 It’s yours.
-----------
+==========
 
 Updated for 2025 with AMD's latest Ryzen™ AI 300 Series processors, with up to 12 CPU cores.
 
@@ -27,31 +27,36 @@ Updated for 2025 with AMD's latest Ryzen™ AI 300 Series processors, with up to
 Framework Laptop 13 is a thin, light, and fast 13.5” notebook that is simple to customize, upgrade, and repair, so it stays yours for longer.
 ----------
 
-##### Customize #####
+### Customize ###
 
 Expansion Cards, keyboard languages, Bezel colors. It’s yours to choose.
 
-##### Upgrade #####
+### Upgrade ###
 
 Upgrade your processor generation-over-generation, and add more memory and storage whenever you need.
 
-##### Repair #####
+### Repair ###
 
 Every part is replaceable with just the one tool that comes in the box.
 
-##### Storage #####
+Storage and memory
+----------
+
+### Storage ###
 
 Never worry about running out of space. With standard M.2 SSDs, you can swap out your storage for high-capacity drives up to 8TB.
 
-##### Memory #####
+### Memory ###
 
 You can upgrade your RAM whenever you need to unlock higher performance. Our latest generation supports up to a massive 96GB of high-speed DDR5.
 
-###### Expansion Cards ######
+Expansion Cards
+----------
 
 External adapters are a thing of the past. The Framework Expansion Card system lets you choose exactly the ports you want and where you want them.
 
-###### Expansion Cards ######
+Expansion Cards
+----------
 
 External adapters are a thing of the past. The Framework Expansion Card system lets you choose exactly the ports you want and where you want them.
 
@@ -76,35 +81,37 @@ Comfortable and responsive with 1.5mm key travel, an adjustable backlight, and a
 Respects your privacy.
 ----------
 
-###### Privacy switches ######
+### Privacy switches ###
 
 Your privacy is protected at a hardware level, with physical switches that electrically cut off the webcam and microphones whenever you need.
 
-###### No crapware ######
+### No crapware ###
 
 We hate software bloat as much as you do. Our pre-builts ship with stock Windows 11 plus the necessary drivers, and our DIY Edition lets you bring whichever operating system you’d like.
 
-### All of this in a minimal and slim form factor. ###
+All of this in a minimal and slim form factor.
+----------
 
 At just 15.85mm thick and under 1.3kg, gaining repairability doesn’t mean losing portability.
 
-### All of this in a minimal and slim form factor. ###
+All of this in a minimal and slim form factor.
+----------
 
 At just 15.85mm thick and under 1.3kg, gaining repairability doesn’t mean losing portability.
 
-#### 296.63mm ####
+### 296.63mm ###
 
 Width
 
-#### 228.98mm ####
+### 228.98mm ###
 
 Depth
 
-#### 15.85mm ####
+### 15.85mm ###
 
 Height
 
-#### 1.3kg ####
+### 1.3kg ###
 
 Weight
 
@@ -143,7 +150,8 @@ Bring your own memory, storage, and operating system, including Linux, and build
 
 Monthly-ish
 
-### Help shape future Framework products. Click below to take a quick survey. ###
+Help shape future Framework products. Click below to take a quick survey.
+----------
 
 [Take our survey](https://frameworkcomputer.typeform.com/to/q5BoD51G?utm_medium=13overview)
 

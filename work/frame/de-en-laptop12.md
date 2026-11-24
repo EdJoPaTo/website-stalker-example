@@ -17,15 +17,15 @@ Framework Laptop 12 is a 12.2" convertible with first-in-class Linux support. No
 
 [Configure now](/de/en/products/laptop12-diy-intel-series3/configuration/new)
 
-###### Unusually capable for its size ######
+**Unusually capable for its size**
 
 Intel® Core™ Series 3 brings up to 70% longer battery life[ϟ](#fw12-battery-info-anchor) streaming Netflix 4k than the previous generation, plus 2x Thunderbolt 4 ports for high-speed peripherals, display, and data.
 
-###### Linux that works out of the box ######
+**Linux that works out of the box**
 
 Pre-built with Fedora pre-installed, or DIY Edition with your distro of choice. Upstream support means it just works.
 
-###### You don’t own it until you can repair it ######
+**You don’t own it until you can repair it**
 
 Swap the memory, storage, ports, even the Mainboard for a new processor. iFixit gave it a perfect 10/10. It's built to be opened, and tested to MIL-STD-810 to survive any accidents that happen along the way.
 
@@ -36,27 +36,27 @@ It's a real computer
 
 Intel® Core™ Series 3 delivers up to 70% longer battery life[ϟ](#fw12-battery-info-anchor) streaming Netflix 4K than the previous generation, all while running cool and quiet. Packed into a 12.2" convertible body, it brings the full power of a lightweight Intel processor alongside dual Thunderbolt™ 4 ports for high-speed peripherals, 4K displays, and external GPU expansion.
 
-##### Display #####
+### Display ###
 
 12.2" touchscreen, 1920x1200 resolution, \>400nit brightness for outdoor use, with USI 2.0 stylus support.
 
-##### CPU #####
+### CPU ###
 
 Intel® Core™ Series 3 processors up to 4.8GHz, with 2P + 4 LPE cores, and Intel® Graphics.
 
-##### Memory #####
+### Memory ###
 
 Up to 64GB of high-speed upgradeable DDR5 with a single SO-DIMM slot.
 
-##### Storage #####
+### Storage ###
 
 Up to 2TB M.2 2230 NVMe™ SSDs, easy to swap when you need more space.
 
-##### I/O #####
+### I/O ###
 
 4 slots for the Framework Expansion Card system, including 2x Thunderbolt 4 ports and a 3.5mm audio jack.
 
-##### Wi-Fi #####
+### Wi-Fi ###
 
 Supports Wi-Fi 7 Multi-Link Operation, including 2.4GHz, 5GHz, and 6GHz network bands, with an upgradeable Intel® BE213 card.
 
@@ -74,35 +74,35 @@ Our easiest-to-repair computer yet
 
 Framework Laptop 12 is built for repair and upgrades. Swap memory, storage, and worn parts with step-by-step guides and the one tool in the box. Yours to open, fix, and keep using.
 
-#### 1 ####
+### 1 ###
 
 Your favorite consumer electronics team cheering you on. \<3
 
-#### 2 ####
+### 2 ###
 
 Orange tabs tell you where to pull.
 
-#### 3 ####
+### 3 ###
 
 QR codes connect you to repair guides.
 
-#### 4 ####
+### 4 ###
 
 Spring-loaded pogo pins for Input Cover connection.
 
-#### 5 ####
+### 5 ###
 
 Extra screws conveniently stored away, just in case!
 
-#### 6 ####
+### 6 ###
 
 Swap your storage, without any additional tools.
 
-#### 7 ####
+### 7 ###
 
 Captive screws that don’t get lost.
 
-#### 8 ####
+### 8 ###
 
 Screwdriver has a built-in spudger tip for prying and routing cables during repairs.
 
@@ -137,19 +137,19 @@ Five colors, all portable
 
 It’s not small enough to fit in your pocket, but it fits most places you'd actually want a laptop: your lap, a backpack, a tiny desk, an airplane tray. And it comes in five expressive colorways. Choose pre-built in Sage, or go DIY Edition in Sage, Bubblegum, Lavender, Black, or Gray.
 
-##### 287.00mm #####
+### 287.00mm ###
 
 Width
 
-##### 213.88mm #####
+### 213.88mm ###
 
 Depth
 
-##### 18.45mm #####
+### 18.45mm ###
 
 Height
 
-##### 1.3kg #####
+### 1.3kg ###
 
 Weight
 
@@ -211,7 +211,8 @@ Pick up new parts and modules for your Framework 12.
 
 ### Keep track of what we’re working on with the Framework Newsletter. ###
 
-### Help shape future Framework products. Click below to take a quick survey. ###
+Help shape future Framework products. Click below to take a quick survey.
+----------
 
 [Take our survey](https://frameworkcomputer.typeform.com/to/q5BoD51G?utm_medium=12overview)
 

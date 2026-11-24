@@ -79,25 +79,25 @@ Choosing a distro for your Framework device
 
 Linux support continues to evolve across our entire product line. While we aim for consistency, there are some differences in behavior between models, generations, and hardware configurations. To help you get the best experience, we create compatibility guides for each product, including notes on specific distros, kernel versions, and known issues.
 
-#### Framework Laptop 13 Pro ####
+### Framework Laptop 13 Pro ###
 
 [Coming soon](#)
 
 [Compatibility chart](https://frame.work/laptop13pro?tab=linux)
 
-#### Framework Laptop 13 ####
+### Framework Laptop 13 ###
 
 [Install guide](https://guides.frame.work/c/Framework_Laptop#Section_Installation)
 
 [Compatibility chart](https://frame.work/laptop13?tab=linux)
 
-#### Framework Laptop 16 ####
+### Framework Laptop 16 ###
 
 [Install guide](https://guides.frame.work/c/Framework_Laptop_16#Section_Installation)
 
 [Compatibility chart](https://frame.work/laptop16?tab=linux)
 
-#### Framework Desktop ####
+### Framework Desktop ###
 
 [Install guide](https://guides.frame.work/c/Framework_Desktop#Section_Installation)
 

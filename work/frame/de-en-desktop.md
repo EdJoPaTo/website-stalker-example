@@ -22,27 +22,33 @@ Framework Desktop is a 4.5L workstation with up to 192GB of LPDDR5X memory and t
 
 [Configure now](/de/en/products/desktop-diy-amd-aimax400/configuration/new)
 
-#### Now with Ryzen™ AI Max+ PRO 495 ####
+Now with Ryzen™ AI Max+ PRO 495
+----------
 
 16 Zen 5 CPU cores, a giant 40-CU GPU, and a 256-bit memory bus means that this processor is ready for AI inference, gaming, and heavy-duty workstation workloads.
 
-#### Now with Ryzen™ AI Max+ PRO 495 ####
+Now with Ryzen™ AI Max+ PRO 495
+----------
 
 16 Zen 5 CPU cores, a giant 40-CU GPU, and a 256-bit memory bus means that this processor is ready for AI inference, gaming, and heavy-duty workstation workloads.
 
-#### Grab the memory capacity you need ####
+Grab the memory capacity you need
+----------
 
 Now with 32GB, 64GB, 128GB, and 192GB memory capacity options. Size your memory to the large models you need to run, or pick up the 32GB for a capable gaming and workstation rig.
 
-#### Grab the memory capacity you need ####
+Grab the memory capacity you need
+----------
 
 Now with 32GB, 64GB, 128GB, and 192GB memory capacity options. Size your memory to the large models you need to run, or pick up the 32GB for a capable gaming and workstation rig.
 
-### Linux-ready out of the box ###
+Linux-ready out of the box
+----------
 
 Build DIY Edition and install your choice of Linux distro, or pick up a pre-built and get pre-installed Fedora ready to go out of the box.
 
-### Linux-ready out of the box ###
+Linux-ready out of the box
+----------
 
 Build DIY Edition and install your choice of Linux distro, or pick up a pre-built and get pre-installed Fedora ready to go out of the box.
 

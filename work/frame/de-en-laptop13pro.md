@@ -24,22 +24,22 @@ Framework Laptop 13 Pro delivers 20 hours of battery life [**ϟ**](#fw13pro-batt
 
 [Configure now](/de/en/products/laptop13pro-diy-intel-ultra-3/configuration/new)
 
-### 20 hours of battery ###
+**20 hours of battery**
 
 **[ϟ](#fw13pro-battery-info)** We paired the efficiency gains of Intel® Core™ Ultra Series 3 processors with a 21% increase in battery capacity and higher energy density cells. The result is battery life that actually lasts through the day.
 
-### Fully CNC aluminum chassis ###
+**Fully CNC aluminum chassis**
 
 The new graphite-anondized aluminum chassis is CNC machined from a raw block of 6000-series aluminum, bringing added durability without breaking compatibility. It works with every Framework Laptop 13 Mainboard, from earlier generations to what’s next.
 
-### Linux first ###
+**Linux first**
 
 Available with Ubuntu pre-loaded and certified out of the box, or bring your own OS with community support for Fedora, Bazzite, NixOS, Linux Mint, CachyOS, and more.
 
 Finally, great battery life in a Framework Laptop
 ----------
 
-#### 20 hours ####
+### 20 hours ###
 
 **Netflix 4K streaming**
 250nit brightness, 30% volume,
@@ -47,14 +47,14 @@ Windows 11
 
 [Watch the live demo](https://www.youtube.com/watch?v=bLYUD4IMvQI)
 
-#### 17 hours ####
+### 17 hours ###
 
 **Active web usage**
 
 250nit brightness, 30% volume,
 Windows 11
 
-#### 11 hours ####
+### 11 hours ###
 
 **Video conferencing**
 250nit brightness, 30% volume,
@@ -62,7 +62,7 @@ Windows 11
 
 [Watch the live demo](https://www.youtube.com/watch?v=_Us6EeUP0_Q)
 
-#### 7 days ####
+### 7 days ###
 
 **Standby without charging**
 
@@ -192,19 +192,19 @@ Thin, light, and fully aluminum
 
 At just 15.85mm thick and 1.4kg, gaining durability doesn’t mean losing portability. The Top Cover, Input Cover, and Bottom Cover are now CNC machined from 6063 aluminum, increasing rigidity and durability.
 
-#### 296.63mm ####
+### 296.63mm ###
 
 Width
 
-#### 228.98mm ####
+### 228.98mm ###
 
 Depth
 
-#### 15.85mm ####
+### 15.85mm ###
 
 Height
 
-#### 1.4kg ####
+### 1.4kg ###
 
 Weight
 

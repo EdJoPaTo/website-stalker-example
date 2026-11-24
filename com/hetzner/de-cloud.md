@@ -190,6 +190,8 @@ Mit unseren eigenen Datacenter-Parks in Falkenstein, Nürnberg und Helsinki biet
 
 Somit betreibt Hetzner quer über den Globus erstklassige IT-Umgebungen mit geringen Latenzzeiten.
 
+Hillsboro, HIL Ashburn, ASH Helsinki, HEL Falkenstein, FSN Nuremberg, NBG Singapore, SIN
+
 ### Maximale Datensicherheit ###
 
 Als Rechenzentrumsbetreiber und Hosting-Provider mit Hauptsitz in Deutschland hat bei Hetzner Datenschutz oberste Priorität. Durch unsere strikte Einhaltung der Datenschutz-Grundverordnung (DSGVO) profitieren unsere Kunden von höchsten Sicherheitsstandards. Diese garantieren sowohl den Schutz persönlicher Daten als auch eine rechtssichere Verarbeitung. Zusätzlich sind unsere Datacenter-Parks in Deutschland und Finnland ISO/IEC 27001 zertifiziert und erfüllen damit Anforderungen internationaler Sicherheitsstandards.
