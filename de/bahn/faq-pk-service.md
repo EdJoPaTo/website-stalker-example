@@ -367,24 +367,22 @@ Die Authentifizierungsverfahren können von Bank zu Bank unterschiedlich sein. D
  Wie kann ich meine Kontoverbindung für das Lastschriftverfahren ändern?
 ----------
 
-Sie können Ihre Kontodaten in Ihrem DB Kundenkonto ändern. Klicken Sie dort im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern".
+Ändern Sie Ihre Kontodaten im DB Kundenkonto unter "Zahlungsdaten" \> "Lastschrift".
+Beginnt Ihre Abonummer nicht mit "AB", ändern Sie die Bankdaten bitte zusätzlich im Aboportal unter "Meine Daten".
 
-Änderungen gelten nicht für Zahlungen zu Ihrem Abonnement. Für Zeitkarten-Abonnements und das Deutschland-Ticket ändern Sie Ihre Bankdaten im Aboportal unter "Meine Daten". Das Aboportal erreichen Sie über "Abos verwalten" in Ihrem Profil oder unter [abo.bahn.de](https://abo.bahn.de/).
-
-* [Zum Abo-Portal](https://abo.bahn.de/#/)
-
-[Im Kundenkonto einloggen](https://www.bahn.de/buchung/reiseuebersicht)
+* [Zum DB Kundenkonto](https://www.bahn.de/mein-konto)
+* [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/4-wie-kann-ich-meine-kontoverbindung-fuer-das-lastschriftverfahren-aendern)
 
  Wie melde ich mich vom Lastschriftverfahren ab?
 ----------
 
-Wenn Sie nicht mehr am Lastschriftverfahren teilnehmen möchten, klicken Sie in Ihrem DB Kundenkonto im Bereich "Zahlungsdaten" \> "Lastschrift" auf "Daten ändern". Dort finden Sie den Link "Abmelden vom Lastschriftverfahren."
+Im DB Kundenkonto unter "Zahlungsmittel" können Sie die SEPA-Lastschrift ändern bzw. löschen.
 
-[Jetzt einloggen](https://www.bahn.de/buchung/meine-reisen)
+Besteht für dieses Konto noch ein aktives Abo im Lastschriftverfahren, ist eine Löschung der Bankdaten nicht möglich.
 
-Die Änderung kann nicht für im DB Reisezentrum/DB Agentur erworbene Zeitkarten-Abonnements übernommen werden. Wenn Sie Ihr Zeitkarten-Abonnement im DB Reisezentrum oder einer DB Agentur abgeschlossen haben, so ändern Sie bitte selbstständig Ihre Bankdaten im Abo-Portal auf bahn.de.
+* [Zum DB Kundenkonto](https://www.bahn.de/mein-konto)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/5-wie-melde-ich-mich-vom-lastschriftverfahren-ab)
 
@@ -2863,42 +2861,41 @@ Es ist kein Login für das Hinzufügen oder Aktualisieren des Handy-Tickets erfo
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-aktualisierung)
 
- Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?
+ Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im DB Navigator angezeigt?
 ----------
 
-Das Handy-Ticket eines Abos (zum Beispiel Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft.
+Beginnt Ihre D-Ticket-Abonummer mit "AB", wird das Ticket nach erfolgreicher Bestellung automatisch unter "Reisen" im DB Navigator angezeigt. Ist dies nicht der Fall, stellen Sie bitte sicher, dass Sie in Ihrem DB Kundenkonto eingeloggt sind. Sollte das Abonnement für Sie durch eine andere Person abgeschlossen worden sein, können Sie das Ticket über das Plus-Symbol mit Ihrer Abonummer und Ihrem Nachnamen hinzufügen.
 
-Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
+Andere D-Tickets und Abos können Sie über den Link in der Aktivierungsmail, im Aboportal beziehungsweise unter "Meine Reisen" über das Plus-Symbol mit Ihren Daten hinzufügen.
 
-Alternativ können Sie das Ticket in "Meine Reisen" über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
+Prüfen Sie die Schreibweise Ihrer Angaben, mögliche Leerzeichen und die aktuelle App-Version.
 
-Falls Sie beim Hinzufügen Probleme haben, prüfen Sie, ob Sie die aktuelle Version der App nutzen.
+Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+Sollten Sie weiterhin Probleme mit der Anzeige haben, wenden Sie sich bitte über das Kontaktformular an den Kundensupport. Geben Sie hier die Version Ihrer App und hilfreiche Screenshots an.
+
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
+* [Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
+* [Digitales Abo - Fragen und Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-wird-nicht-angezeigt)
 
  Ich kann das Abo nicht als Handy-Ticket hinzufügen. Was kann ich tun?
 ----------
 
-Das Handy-Ticket eines Abos (z. B. Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft. Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen.
-Alternativ können Sie das Ticket in "Meine Reisen" über das "+" selbst hinzufügen.
+Beginnt Ihre Deutschland-Ticket-Abonummer mit "AB", wird das Ticket nach erfolgreicher Bestellung automatisch unter "Reisen" im DB Navigator angezeigt. Ist dies nicht der Fall, stellen Sie bitte sicher, dass Sie in Ihrem DB Kundenkonto eingeloggt sind. Sollte das Abonnement für Sie durch eine andere Person abgeschlossen worden sein, können Sie das Ticket über das Plus-Symbol mit Ihrer Abonummer und Ihrem Nachnamen hinzufügen.
 
-Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle Version der App nutzen.
+Andere Deutschland-Tickets und Abos können Sie über den Link in der Aktivierungsmail, das Aboportal bzw. unter "Meine Reisen" über das Plus-Symbol mit Ihren Daten hinzufügen.
 
-Weitere Tipps:
+Prüfen Sie die Schreibweise Ihrer Angaben, mögliche Leerzeichen und die aktuelle App-Version.
 
-* Ist die Schreibweise Ihres Nachnamens genau wie bei der Bestellung? Dies können Sie in der Bestellbestätigung oder im Aboportal nachprüfen.
-* Prüfen Sie, dass Sie Vorname und Nachname nicht vertauschen.
-* Achten Sie darauf, keine Leerzeichen am Anfang oder Ende Ihrer Eingaben zu setzen. Das kann beim Kopieren der Daten versehentlich passieren.
-* Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
-* Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die E-Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
+Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 
-Ohne E-Mail und Abonummer haben Sie folgende Möglichkeit: Gehen Sie im DB Navigator auf "Profil und "Abo verwalten". Falls Sie noch nicht eingeloggt sind, melden Sie sich mit dem Kundenkonto an, mit dem Sie das Abo bestellt haben. Jetzt können Sie Ihr vorhandenes Abo auswählen und über die Funktion "Ticket in DB Navigator" direkt laden.
-
-​Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie einen Screenshot und Angaben zu Ihrem genutzten Gerät über das Kontaktformular senden.
+Sollten Sie weiterhin Probleme mit der Anzeige haben, wenden Sie sich bitte über das Kontaktformular an den Kundensupport. Geben Sie hier die Version Ihrer App und hilfreiche Screenshots an.
 
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+* [Zum Aboportal](https://abo.bahn.de/)
 * [​ Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
 * [Weitere FAQ zum Digitalen Abo](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 

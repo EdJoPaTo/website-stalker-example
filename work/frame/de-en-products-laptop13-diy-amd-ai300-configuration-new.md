@@ -238,7 +238,7 @@ USB-A (2nd Gen) quantity
 
 * Choose color
 * Aluminum - Silver
-* Plastic - Black
+* Plastic - Black (Out of stock)
 * Plastic - Lavender
 * Plastic - Sage
 * Plastic - Bubblegum

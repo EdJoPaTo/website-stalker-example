@@ -19,7 +19,7 @@ Ihre Vorteile
 
  63 Euro, ab 1. Jan. 66,80 Euro
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 Wenn Sie ein Deutschland-Ticket haben, sparen Sie auf ausgewählten ICE/IC-Strecken **60 Prozent** beim Kauf eines **Mehrfahrten-Tickets**.
 
@@ -52,13 +52,12 @@ Um ein bereits vorhandenes Deutschland-Ticket mit diesen neuen Bedingungen in 20
 
 Sollten Sie Ihr Handy-Ticket nicht mehr sehen, können Sie es jederzeit unter "Reisen" mit der Abonummer aus Ihrer Aktivierungsmail neu hinzufügen.
 
-Bitte beachten Sie: Bei einer Neubestellung des Abos entstehen Ihnen weitere Kosten für den neuen Abovertrag.
+Bitte beachten Sie: Bei einer Neubestellung des Abos entstehen Ihnen Kosten für den neuen Abovertrag. Schließen Sie einen neuen Vertrag nur ab, wenn Sie den alten zum Vertragsbeginn eines neuen gekündigt haben.
 
-* Öffnen Sie "Reisen".
-* Tippen Sie auf "+" (oben rechts im Bildschirm).
+* Öffnen Sie "Reisen". Tippen Sie auf "+" (oben rechts im Bildschirm).
 * Geben Sie die Ticketinformationen (Abonummer und Nachname) ein.
 
-Ihre Abo-/Vertragsnummer finden Sie auch im Buchungstext auf Ihrem Kontoauszug oder im Aboportal, wenn Sie sich mit den identischen Kundenkonto anmelden, das Sie für die Onlinebestellung genutzt haben.
+Ihre Abo-/Vertragsnummer finden Sie auch im Buchungstext auf Ihrem Kontoauszug oder in der Aboverwaltung, wenn Sie sich mit dem identischen DB Kundenkonto anmelden, das Sie für die Online-Bestellung genutzt haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
 
@@ -105,11 +104,11 @@ Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Pr
 
 ###  Wie kann ich vom Deutschland-Ticket in ein Verbund-Abo wechseln?  ###
 
-Sie finden Angebote für Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Verbindungssuche auf bahn.de.
+Wenn Sie vom Deutschland-Ticket in ein klassisches Verbund-Abo wechseln möchten, kündigen Sie fristgerecht Ihr bestehendes Abo. Nutzen Sie dafür die Aboverwaltung oder im DB Navigator den entsprechenden Menüpunkt direkt im Ticket.
 
-Sie können Ihr Deutschland-Ticket innerhalb der geltenden Kündigungsfristen selbst kündigen. Nutzen Sie dafür das Aboportal oder den DB Navigator.
+Anschließend können Sie das Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Verbindungssuche auf bahn.de neu bestellen.
 
-* [Zum Aboportal](https://abo.bahn.de/#/)
+* [Abo verwalten im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 * [Zu bahn.de/pendler](https://www.bahn.de/angebot/pendler)
 * [Verbindung suchen](https://www.bahn.de/buchung/start)
 
@@ -140,4 +139,4 @@ Bei einem Handy-Ticket steht die Funktion auch direkt beim Ticket zur Verfügung
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vertragsaenderung-zustimmen)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)

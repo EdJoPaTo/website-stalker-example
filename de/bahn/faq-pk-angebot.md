@@ -680,15 +680,14 @@ Gegenüber einem Abo wird ein Rabatt von 5 Prozent (ab 100 Teilnehmern) oder 10 
  Kann ich mein Abo nach einer Kündigung reaktivieren?
 ----------
 
-Ja, in einigen Fällen kann die Person, die das Abo abgeschlossen hat (Vertragspartner), das Abo wieder reaktivieren – jedoch nur bis zum letzten Tag des Geltungszeitraums.
+Ja. Sie können Ihr Abo nach einer Kündigung reaktivieren.
 
-Die Funktion "Abo reaktivieren" finden Sie im Aboportal und im Handyticket. Wählen Sie im Aboportal das betreffende Abo aus, um die Funktion "Abo reaktivieren" aufzurufen.
+Die Vertragspartnerin oder der Vertragspartner kann das Abo in der Aboverwaltung über die Funktion "Abo reaktivieren" weiterlaufen lassen. Das ist bis zum letzten Tag des Gültigkeitszeitraums möglich. Wählen Sie dazu in der Aboverwaltung das betreffende Abo aus.
 
-Wenn Sie schon eine Kündigung eingereicht haben und das Kündigungsdatum ändern möchten, reaktivieren Sie bitte zunächst das Abo. Anschließend können Sie die Kündigung (im Rahmen der Kündigungsfrist) erneut durchführen.
+Wenn Sie das Kündigungsdatum ändern möchten, reaktivieren Sie zuerst das Abo. Kündigen Sie es dann innerhalb der Kündigungsfrist erneut.
 
-Nach Erreichen des Kündigungsdatums ist eine Neubestellung erforderlich.
+Nach dem Kündigungsdatum müssen Sie das Abo neu bestellen.
 
-* [Zum Aboportal](https://abo.bahn.de/#/home)
 * [Hilfe bei Problemen mit der Funktion "Abo reaktivieren"](https://www.bahn.de/faq/abo-reaktivieren-nicht-moeglich)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-reaktivieren)
@@ -696,17 +695,11 @@ Nach Erreichen des Kündigungsdatums ist eine Neubestellung erforderlich.
  Warum kann ich mein Abo nach der Kündigung nicht mehr reaktivieren?
 ----------
 
-Nach der Kündigung kann nur die Person, die das Abo abgeschlossen hat, also die Vertragspartnerin oder der Vertragspartner, das Abo reaktivieren – und das nur bis zum letzten Tag des Geltungszeitraums.
+Nach einer Kündigung kann nur der Vertragspartner oder die Vertragspartnerin das Abo reaktivieren. Die Funktion wird maximal bis zum letzten Tag des Gültigkeitszeitraums angeboten.
 
-Eine Reaktivierung ist beispielsweise **nicht** möglich:
+Eine Reaktivierung ist ausgeschlossen, wenn die Voraussetzungen für das Abo entfallen sind, der Arbeitgebende den Rahmenvertrag gekündigt hat oder das Angebot nicht mehr besteht.
 
-* wenn die Voraussetzungen für das Abonnement entfallen sind
-* bei einer Kündigung durch den Arbeitgebenden
-* wenn das Abonnement nicht mehr angeboten wird
-
-In diesen Fällen erscheint im Aboportal die Funktion "Abo reaktivieren" nicht bzw. kann beim Handyticket nicht ausgeführt werden.
-
-* [Zum Aboportal](https://abo.bahn.de/)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/abo-reaktivieren-nicht-moeglich)
 
@@ -745,9 +738,11 @@ Die Kündigung kann nur mit den Daten des Vertragspartners (Name, Geburtsdatum, 
  Ist es möglich, das Abbuchungsdatum von Abo-Zahlungen zu ändern?
 ----------
 
-Nein, da es sich um einen automatisierten Vorgang handelt. In den Beförderungsbedingungen ist je nach ausgewähltem Abonnement festgelegt, wann der Einzug von Ihrem Konto für die monatlichen Beiträge erfolgt.
+Nein. Eine Änderung des Abbuchungstermins ist nicht möglich, da der Lastschrifteinzug ein maschineller Vorgang ist und nicht beeinflusst werden kann.
 
-Bei einem Deutschland-Ticket, das Sie direkt bei der Deutschen Bahn gekauft haben, erfolgt der Einzug immer zum Ersten eines Monats.
+Die Abbuchung der monatlichen Beiträge für Ihr Deutschland-Ticket, das Sie direkt bei der Deutschen Bahn gekauft haben, erfolgt ab dem 15. des Vormonats von dem uns bekannten Bankkonto.
+
+Bei anderen Abos kann der Einzugszeitpunkt variieren. Beachten Sie die entsprechenden Tarifbestimmungen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/aenderung-abbuchungsdatum)
 
@@ -1174,7 +1169,7 @@ Man kann nach der Reise in den Nahverkehrszügen (RE, RB) mit dem Regio120-Ticke
 
 * Die FerienTickets NRW gelten jeweils während der Sommerferien, bzw. der Oster-, Herbst- oder Winterferien in Nordrhein-Westfalen an allen Tagen ohne Einschränkung.
 * Fällt der Ferienbeginn auf einen Montag, so gilt das FerienTicket NRW bereits vom vorhergehenden Samstag an.
-* Fällt das Ferienende auf einen Freitag oder einen Samstag, so gilt das SchöneFerienTicket NRW bis 3 Uhr des auf den Sonn- oder Feiertag vor Schulbeginn folgenden Tages.
+* Fällt das Ferienende auf einen Freitag oder einen Samstag, so gilt das FerienTicket NRW bis 3 Uhr des auf den Sonn- oder Feiertag vor Schulbeginn folgenden Tages.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/an-welchen-tagen-gilt-das-ticket)
 
@@ -2971,9 +2966,10 @@ Mit der Meldung prüfen wir die Stornierung des Abonnements und die Sperre Ihres
 
 Was Sie außerdem tun sollten:
 
-* Erstatten Sie Anzeige bei der Polizei
-* Ändern Sie Ihr das Passwort für Ihre E-Mails
-* Kontaktieren Sie Ihr Geldinstitut, widerrufen Sie die Zahlung, und lassen Sie keine Abbuchungen von der DB Vertrieb GmbH zu, sofern Sie keine weiteren Produkte der DB Vertrieb GmbH im Lastschriftverfahren bestellen. Die Widerrufsfrist für Zahlungen ohne Lastschriftmandat beträgt 13 Monate.
+* Erstatten Sie Anzeige bei der Polizei.
+* Ändern Sie Ihr das Passwort für Ihre E-Mails.
+* Kontaktieren Sie Ihr Geldinstitut und widerrufen Sie die Zahlung.
+* Lassen Sie keine Abbuchungen von der DB Vertrieb GmbH zu, wenn Sie keine weiteren Produkte der DB Vertrieb GmbH im Lastschriftverfahren bestellen. Die Widerrufsfrist für Zahlungen ohne Lastschriftmandat beträgt 13 Monate.
 
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/betrugsverdacht_identitaetsdiebstahl)
 
@@ -3688,26 +3684,18 @@ Der Preis des Deutschlandsemestertickets wird durch die Preisbildung des Deutsch
  Kann ich das Deutschland-Ticket auch für die 1. Klasse kaufen?
 ----------
 
-Nein. Das Deutschland-Ticket gilt nur für die 2. Klasse.
+Nein. Das Deutschland-Ticket ist nur für die 2. Klasse erhältlich. Sie können jedoch ein entsprechendes Zusatzticket für die 1. Klasse kaufen. Je nach Deutschlandtarif, Verkehrsverbund oder Landestarif ist ein Übergang für einzelne Fahrten oder für einen ganzen Monat erhältlich.
 
-Sie können aber in einigen Verkehrsverbünden und Landestarifen (zum Beispiel in Baden-Württemberg) einen **Aufpreis für die 1. Klasse kaufen**. Dieser gilt nur im jeweiligen Verbund- oder Landestarifgebiet.
-
-Für Fahrten außerhalb eines Verbund- oder Landestarifgebiets können Sie im Schienenverkehr einen Klassenübergang kaufen. Den Klassenübergang bekommen Sie:
-
-* Für einzelne Fahrten (Einzelübergang) – über DB Navigator oder bahn.de möglich: Wählen Sie "1. Klasse" aus. Das sog. wird Dann wird automatisch "1. Klasse Übergang Nahverkehr" angeboten.
-* Für eine Woche (Wochenübergang) – in DB Reisezentren oder DB Agenturen
-* Für einen Monat (Monatsübergang) – in DB Reisezentren oder DB Agenturen
-
-Die Strecke darf nicht vollständig innerhalb eines Verkehrsverbunds oder Landestarifs liegen.
+* [Weitere Informationen zum 1. Klasse-Upgrade im Nahverkehr](https://www.bahn.de/angebot/zusatzticket/erste-klasse-upgrade-nv)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-1klasse)
 
  Kann ich das Deutschland-Ticket auch mitten im Monat für eine kurzfristige Reise kaufen?
 ----------
 
-Sie können das Deutschland-Ticket auch für den laufenden Monat kaufen, sowohl online, im DB Navigator oder in den meisten Reisezentren.
+Ja, Sie können das Deutschland-Ticket auch für den laufenden Monat kaufen. Es gilt jedoch immer für den gesamten Kalendermonat und die Kündigungsfrist bleibt bestehen.
 
-Das Deutschland-Ticket gilt jedoch immer für den vollen Kalendermonat. Der Monatspreis und die Kündigungsfrist bleiben bestehen. Das heißt, bei einem Kauf nach dem 10. des Monats ist eine Kündigung erst zum Ende des nächsten Monats möglich und Sie müssen beide Monate voll bezahlen.
+Kaufen Sie das Ticket **nach dem 10. des Monats**, ist eine Kündigung erst zum Ende des Folgemonats möglich. **In diesem Fall müssen Sie beide Monate vollständig bezahlen.**
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-ab-sofort)
 
@@ -3730,13 +3718,12 @@ Wenn der Grund für Ihre Ablehnung geklärt wurde, können Sie das Abo neu beste
  Kann ich mein Deutschland-Ticket Abo selbst verwalten?
 ----------
 
-Ja. Alle Funktionen zur Verwaltung Ihres Deutschland-Tickets finden Sie im Aboportal. Hier können Sie:
+Beginnt Ihre Abonummer mit "AB", können Sie Ihr Deutschland-Ticket im DB Kundenkonto unter "Abo" verwalten. Wählen Sie dort das gewünschte Ticket aus.
 
-* Ihren Vertrag ändern,
-* Ihren Vertrag kündigen,
-* Ihre Kundendaten anpassen.
+Für alle anderen Abos nutzen Sie die Aboverwaltung im Aboportal. Dort können Sie unter anderem kündigen, reaktivieren oder Ihre Kundendaten anpassen.
 
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Abo verwalten im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+* [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-abo-selbst-verwalten)
 
@@ -3753,14 +3740,14 @@ Um ein bereits vorhandenes Deutschland-Ticket mit diesen neuen Bedingungen in 20
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-aenderungen)
 
  Warum sehe ich mein Deutschland-Ticket nur für einen Monat, obwohl ich ein Abo habe?
 ----------
 
-Ihr Deutschland-Ticket-Abo verlängert sich jeden Monat automatisch, solange Sie nicht kündigen. Das Handy-Ticket zeigt immer nur den aktuellen Monat an. Es wird kein weiteres Handy-Ticket für den nächsten Monat angezeigt.
+Ihr Deutschland-Ticket-Abo verlängert sich jeden Monat automatisch bis zur Kündigung. Ein zusätzliches Handy-Ticket für den Folgemonat wird nicht angezeigt. Beginnt Ihre Abonummer mit "AB", sehen Sie bereits einige Tage vor Monatswechsel einen Ticketplatzhalter für den Folgemonat.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-anzeige-nur-fuer-einen-monat)
 
@@ -3805,7 +3792,7 @@ Nein, mit Ihrer BahnCard erhalten Sie keinen Rabatt auf das Deutschland-Ticket.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-bahn-card)
 
@@ -3850,25 +3837,28 @@ Nein. Das City-Ticket gibt es weiterhin beim Flexpreis, Super Sparpreis und Spar
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-city-ticket)
 
- Wo kann ich meine Daten (Adresse, Bankverbindung, etc.) ändern?
+ Wo kann ich meine Daten (Adresse, Bankverbindung, etc.) für das Deutschland-Ticket ändern?
 ----------
 
-Ihre Daten können Sie jederzeit selbst im Aboportal im Menüpunkt "Meine Daten" ändern.
+Als Vertragsinhaber oder Vertragsinhaberin können Sie Ihre Daten in der Aboverwaltung ändern.
 
-Bitte beachten Sie: Für ein vorhandenes Abo ist die Änderung Ihrer Daten im Aboportal zwingend erforderlich. Änderungen in Ihrem DB Kundenkonto werden für vorhandene Abos derzeit nicht automatisch übernommen.
+Besteht Ihre **Abonummer ausschließlich aus Zahlen**, ist zusätzlich eine Anpassung im Aboportal notwendig. Daten aus dem DB Kundenkonto können derzeit nicht automatisch übernommen werden.
 
-* [Zum Aboportal](https://abo.bahn.de/#/)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+* [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-daten-aendern)
 
  Mein Deutschland-Ticket wird doppelt abgebucht. Was kann ich tun?
 ----------
 
-**Prüfen, ob mehrere Abos vorliegen:** Haben Sie versehentlich mehrere Abos bestellt, kündigen Sie ein Abo im Aboportal.
+Prüfen Sie zunächst in der Aboverwaltung im DB Kundenkonto, ob Sie mehrere Abos für sich selbst und/oder andere Reisende abgeschlossen haben.
 
-**Wichtig:** Veranlassen Sie keine Rücklastschrift über die Bank, um eine Sperrung Ihres DB Kundenkontos und Kündigung aller Tickets zu vermeiden.
+Kündigen Sie, wenn nötig, fristgerecht nicht benötigte Abos. Nutzen Sie dafür die Aboverwaltung im DB Kundenkonto oder in der App DB Navigator den entsprechenden Menüpunkt direkt im Ticket.
 
-* [Zum Aboportal](https://abo.bahn.de/#/)
+Veranlassen Sie keine Rücklastschrift über Ihre Bank. So vermeiden Sie eine Sperrung Ihres DB Kundenkontos und die Kündigung aller Tickets.
+
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-doppelte-abbuchung)
 
@@ -3974,11 +3964,11 @@ Nein, eine gleichzeitige Filterung nach Deutschland-Ticket-Verbindungen und best
  Wo finde ich mein Deutschland-Ticket für den Folgemonat?
 ----------
 
-Im DB Navigators wird Ihnen nur das Handy-Ticket für den aktuell gültigen Monat angezeigt. Der Gültigkeitszeitraum auf dem Handy-Ticket aktualisiert sich automatisch zum Monatswechsel auf dem vorhandenen Ticket. Es wird kein zusätzliches Ticket für den Folgemonat angezeigt.
+Ihr Deutschland-Ticket verlängert sich monatlich automatisch, wenn Ihr Abo nicht gekündigt wurde.
 
-Die Meldung "Tickets bis zum [Datum] sind bereits auf Ihrem Gerät" bedeutet, dass die Aktualisierung für den neuen Monat am Monatsersten automatisch erfolgt.
+Ihr Handy-Ticket wird automatisch zum Monatswechsel aktualisiert und für den Folgemonat im DB Navigator geladen.
 
-Möglicherweise wird der Zeitraum in der Ticketvorschau unter "Reisen" erst verzögert aktualisiert. Bitte öffnen Sie das Ticket, so dass der QR-Code zu sehen ist. Auf dem Ticket wird der aktuelle Zeitraum angezeigt. Diese Anzeige ist für die Nutzung und Kontrolle relevant.
+Beginnt Ihre **Abonummer mit "AB"** sehen Sie bereits einige Tage vorher einen Ticketplatzhalter für den Folgemonat.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-folgemonat)
 
@@ -4014,13 +4004,12 @@ Nutzen Sie das Deutschland-Ticket im Nahverkehr und ein separates Fernverkehrsti
  Ab wann ist das Deutschland-Ticket gültig?
 ----------
 
-Das Deutschland-Ticket gilt ab dem 1. Tag des Gültigkeitszeitraums, wie auf dem persönlichen Ticket angegeben.
-
-Bei einem Kauf innerhalb des Monats, gilt es ab dem Zeitpunkt, zu dem Sie durch uns über die Aktivierung informiert werden.
+Kaufen Sie das Deutschland-Ticket für den aktuellen Monat, gilt es für Abos, deren **Abonummer mit AB** beginnt, mit dem Tag des Kaufs.
+**Für alle anderen Abos** startet der Gültigkeitsbeginn ab dem Zeitpunkt, zu dem Ihnen der Beginn per E-Mail bestätigt wurde. Haben Sie einen Startmonat in der Zukunft ausgewählt, gilt Ihr Deutschland-Ticket ab dem 1. Tag des gewählten Kalendermonats.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-gueltig-ab-wann)
 
@@ -4031,7 +4020,7 @@ Das Deutschland-Ticket ist ein Abonnment, das für unbestimmte Zeit abgeschlosse
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-gueltig-wie-lange)
 
@@ -4056,13 +4045,12 @@ Es gelten außerdem die Regeln der Landestarife, Verkehrsverbünde und Verkehrsu
 
 Sollten Sie Ihr Handy-Ticket nicht mehr sehen, können Sie es jederzeit unter "Reisen" mit der Abonummer aus Ihrer Aktivierungsmail neu hinzufügen.
 
-Bitte beachten Sie: Bei einer Neubestellung des Abos entstehen Ihnen weitere Kosten für den neuen Abovertrag.
+Bitte beachten Sie: Bei einer Neubestellung des Abos entstehen Ihnen Kosten für den neuen Abovertrag. Schließen Sie einen neuen Vertrag nur ab, wenn Sie den alten zum Vertragsbeginn eines neuen gekündigt haben.
 
-* Öffnen Sie "Reisen".
-* Tippen Sie auf "+" (oben rechts im Bildschirm).
+* Öffnen Sie "Reisen". Tippen Sie auf "+" (oben rechts im Bildschirm).
 * Geben Sie die Ticketinformationen (Abonummer und Nachname) ein.
 
-Ihre Abo-/Vertragsnummer finden Sie auch im Buchungstext auf Ihrem Kontoauszug oder im Aboportal, wenn Sie sich mit den identischen Kundenkonto anmelden, das Sie für die Onlinebestellung genutzt haben.
+Ihre Abo-/Vertragsnummer finden Sie auch im Buchungstext auf Ihrem Kontoauszug oder in der Aboverwaltung, wenn Sie sich mit dem identischen DB Kundenkonto anmelden, das Sie für die Online-Bestellung genutzt haben.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-im-db-navigator-nicht-angezeigt)
 
@@ -4098,14 +4086,10 @@ Ja, Sie können die Broschüre "Deutschland-Ticket als Jobticket" hier herunterl
 ----------
 
 * **Online:** Auf bahn.de oder über die App DB Navigator
-* **Vor Ort:** In DB Reisezentren deutschlandweit
-* **Andere Anbieter:** Viele Verkehrsunternehmen bieten das Ticket auch in ihren Vertriebskanälen an.
+* Vor Ort: In ausgewählten DB Reisezentren deutschlandweit
+* Andere Anbieter: Viele Verkehrsunternehmen bieten das Ticket auch in ihren Vertriebskanälen an.
 
-Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
-
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
-
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+Bitte beachten Sie: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen, dass ein Sofortverkauf im DB Reisezentrum nicht immer möglich ist.
 
 [Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
 
@@ -4114,7 +4098,9 @@ Bitte beachten: Aufgrund unterschiedlicher Vertriebsverträge kann es vorkommen,
  Ich habe das Deutschland-Ticket online bestellt. Was kann ich tun, wenn ich noch keine Aktivierungsmail erhalten habe?
 ----------
 
-Wenn Sie eine Bestellbestätigung erhalten haben, aber noch keine Aktivierungsmail, wird Ihre Bestellung derzeit noch vom Abo-Center verarbeitet. Den Status können Sie über den Link in der Bestellbestätigung nachprüfen.
+Wenn Sie das Deutschland-Ticket im DTV (Deutschlandtarif) **ab dem 24. November 2026** bestellt haben, erhalten Sie eine E-Mail mit allen Buchungsdetails und weiteren vertragsrelevanten Informationen.
+
+Für Verbund-Abos gilt weiterhin: Haben Sie eine Bestellbestätigung, aber noch keine Aktivierungsmail erhalten, wird Ihre Bestellung vom Abo-Center bearbeitet. Den aktuellen Status können Sie über den Link in der Bestellbestätigung prüfen. Bei längerer Verzögerung wenden Sie sich an Ihr zuständiges Abo-Center.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-keine-bestellbestaetigung)
 
@@ -4174,41 +4160,60 @@ Die genauen Konditionen für Ihr Deutschland-Ticket finden Sie in den jeweiligen
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-konditionen)
 
  Wie kann ich mein Deutschland-Ticket-Abo kündigen?
 ----------
 
-Sie können das Deutschland-Ticket-Abo bis zum 10. eines Monats zum Monatsende kündigen.
+Sie können das Deutschland-Ticket-Abo bis **zum 10. eines Monats zum Monatsende** kündigen.
 
-**Möglichkeiten zur Kündigung:**
+Möglichkeiten zur Kündigung:
 
-* Nutzen Sie unser Aboportal. Unter "Meine Abos" im Bereich "Alle Services anzeigen" auf "Kündigung" klicken
-* Nutzen Sie die Funktion "Abo kündigen" im DB Navigator unterhalb Ihres Handy-Tickets.
+* Wählen Sie die Funktion "Abo kündigen" im DB Navigator unterhalb Ihres Handy-Tickets.
+* Nutzen Sie alternativ die Aboverwaltung im DB Kundenkonto, um Ihr Abo zu kündigen.
 
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigen)
+
+ Kann ich mein Deutschland-Ticket Abo noch vor dem Gültigkeitsbeginn kündigen?
+----------
+
+Der Vertrag für ein Deutschland-Ticket kann nicht widerrufen werden. Sie können das Abo schon vor Vertragsbeginn im Rahmen der Kündigungfrist (aktuell der 10. des Monats) in der Aboverwaltung kündigen.
+
+Sollte Ihre Abonummer mit "AB" beginnen, wenden Sie sich hierzu bitte an den Kundensupport.
+
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigen-vor-gueltigkeitsbeginn)
 
  Ich habe mein Abo gekündigt. Was kann ich tun, wenn ich noch keine Kündigungsbestätigung erhalten habe?
 ----------
 
-Im Aboportal können Sie den Status Ihres Abos und den Kündigungstermin einsehen und die Kündigung bei Bedarf direkt durchführen. Überprüfen Sie Ihre E-Mail-Adresse im Aboportal unter "Meine Daten" und aktualisieren Sie diese, um E-Mails künftig direkt zu erhalten.
+In der Aboverwaltung im DB Kundenkonto können Sie den Status Ihres Abos und den Kündigungstermin einsehen.
 
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+Sollten Sie keine Nachricht erhalten haben, prüfen Sie bitte auch Ihren Spam-Ordner. Stellen Sie außerdem sicher, dass Ihr Postfach nicht voll ist.
+
+Beginnt Ihre Abonummer mit "AB", überprüfen Sie die hinterlegte E-Mail-Adresse im DB Kundenkonto.
+
+Für alle anderen Abos gilt: Prüfen Sie die E-Mail-Adresse im Aboportal unter "Meine Daten".
+
+* [Zum DB Kundenkonto](https://www.bahn.de/mein-konto)
+* [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-kuendigungsbestaetigung)
 
  Kann ich mehrere Deutschland-Tickets in die DB Navigator App laden?
 ----------
 
-Ja. Sie können mehrere Deutschland-Tickets in die DB Navigator App laden. Wenn Sie Ihr Deutschland-Ticket über einen Vertriebskanal der DB gekauft haben, nutzen Sie die Auftragsnummer aus Ihrer Buchung, um das Ticket in die App zu laden.
+Ja. Sie können mehrere Deutschland-Tickets in den DB Navigator laden, zum Beispiel für unterschiedliche Reisende. Voraussetzung ist, dass diese über einen Vertriebskanal der Deutschen Bahn gekauft wurden. Nutzen Sie zum Hinzufügen die jeweilige Abonummer aus der Buchung.
 
-[Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
+Bitte beachten Sie: Das Deutschland-Ticket ist ein Abo und verlängert sich monatlich automatisch. Jedes Ticket kann nur auf einem Gerät hinterlegt werden.
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+* [Wie füge ich ein weiteres Abo im Aboportal hinzu?](https://www.bahn.de/faq/ich-will-im-aboportal-ein-weiteres-abo-hinzufuegen-wie-mache-ich-das)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-mehrere-tickets-app)
 
@@ -4230,14 +4235,18 @@ Nein. Sie können das Deutschland-Ticket nur im Abonnement kaufen.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-monatskarte)
 
  Wann werden die monatlichen Beträge meines Deutschland-Tickets abgebucht?
 ----------
 
-Die monatlichen Beträge für Ihr Deutschland-Ticket werden entweder am Monatsersten oder am 15. des Monats abgebucht. Der Termin hängt von Ihrem gewählten Tarif ab.
+Die Abbuchung der monatlichen Beiträge für Ihr Deutschland-Ticket, das Sie direkt **bei der Deutschen Bahn** gekauft haben, erfolgt ab dem **15. des Vormonats** von dem uns bekannten Bankkonto.
+
+**Bei anderen Abos** kann der Einzugszeitpunkt variieren. Der genaue Termin hängt vom gewählten Tarif ab und wird Ihnen per E-Mail mitgeteilt.
+
+Bei einer Bestellung mit sofortiger Gültigkeit kann die Abbuchung direkt erfolgen.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-monatskarte-abbuchung)
 
@@ -4245,11 +4254,6 @@ Die monatlichen Beträge für Ihr Deutschland-Ticket werden entweder am Monatser
 ----------
 
 Ja. Das Deutschland-Ticket kann nur per Lastschrift bezahlt werden.
-
-Beim Kauf im Reisezentrum können Sie den 1. Monat bar oder mit Karte bezahlen. Für die Folgemonate ist die Angabe der Lastschrift weiterhin notwendig.
-
-* [Informationen zum Lastschriftverfahren](https://www.bahn.de/faq/pk/service/buchung/bezahlen/lastschrift)
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-monatskarte-lastschrift)
 
@@ -4260,14 +4264,16 @@ Das Deutschland-Ticket kostet bis zum 31. Dezember 2026 noch 63 Euro pro Monat.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-neuer-preis)
 
  Wie funktioniert der Kauf des Deutschland-Tickets im DB Reisezentrum?
 ----------
 
-Im DB Reisezentrum unterstützen Sie die Mitarbeitenden beim Abschließen des digitalen Abonnements. Sie bezahlen den 1. Monat vor Ort im Reisezentrum und geben Ihre Bankdaten für das Lastschriftverfahren des Abonnements an. Sie erhalten beim Abschluss eine Auftragsnummer. Mit dieser Auftragsnummer können Sie Ihr Deutschland-Ticket direkt in den DB Navigator laden und das Handy-Ticket sofort nutzen. Die Auftragsnummer allein ist kein gültiges Deutschland-Ticket und gilt nicht als Fahrberechtigung. In einzelnen Verbünden können Sie das Deutschland-Ticket als Chipkarte erhalten.
+In ausgewählten DB Reisezentren unterstützen Sie Mitarbeitende beim Abschluss des digitalen Abonnements. Anschließend erhalten Sie eine Auftragsnummer, mit der Sie Ihr Deutschland-Ticket direkt in den DB Navigator laden und sofort nutzen können.
+
+Bitte beachten Sie: Die Auftragsnummer allein ist kein gültiges Deutschland-Ticket und berechtigt nicht zur Fahrt.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-reisezentrum)
 
@@ -4322,7 +4328,7 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-ausland)
 
@@ -4336,26 +4342,20 @@ Eine Übersicht aller enthaltenen Strecken finden Sie im PDF ab Seite 15.
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verkehrsmittel-deutschland)
 
- Kann ich ein Deutschland-Ticket für andere Person kaufen oder verschenken?
+ Kann ich ein Deutschland-Ticket für eine andere Person kaufen oder verschenken?
 ----------
 
-Ja.
+Ja. Sie können das Deutschland-Ticket über die Reiseauskunft oder über den Direkteinstieg für eine andere Person buchen. Im Bestellprozess geben Sie unter "Reisende Person" die entsprechenden Daten ein.
 
-Sie können das Deutschland-Ticket in unseren Reisezentren für eine andere Person kaufen.
-
-Sie können das Deutschland-Ticket außerdem im fahrplanbasierten Verkauf oder über den Direkteinstieg für andere Personen buchen:
-
-Geben Sie dazu im Bestellschritt "Reisende Person" die Daten der anderen Person ein. Ihre Daten aus dem bahn.de Kundenkonto werden als Vertragspartner übernommen und Sie bleiben für die Verwaltung (Zahlung, Kündigung etc) verantwortlich.
-
-Bitte beachten Sie, dass das Abonnement bis zur Kündigung weiterläuft.
+Bitte beachten Sie, dass Sie als bestellende Person die monatlichen Beträge bis zur Kündigung des Abos bezahlen und für die Verwaltung, Zahlung und Kündigung des Abos verantwortlich sind.
 
 [Deutschland-Ticket direkt buchen](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-verschenken)
 
@@ -4430,7 +4430,7 @@ Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Pr
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-vertragsaenderung-nicht-zustimmen)
 
@@ -4445,7 +4445,7 @@ Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Pr
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-vertragsaenderung-warum)
 
@@ -4475,24 +4475,24 @@ Sie wurden im Bestellprozess und in der Bestellbestätigung bereits über die Pr
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-vertragsaenderung-zustimmen)
 
  Wie kann ich vom Deutschland-Ticket in ein Verbund-Abo wechseln?
 ----------
 
-Sie finden Angebote für Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Verbindungssuche auf bahn.de.
+Wenn Sie vom Deutschland-Ticket in ein klassisches Verbund-Abo wechseln möchten, kündigen Sie fristgerecht Ihr bestehendes Abo. Nutzen Sie dafür die Aboverwaltung oder im DB Navigator den entsprechenden Menüpunkt direkt im Ticket.
 
-Sie können Ihr Deutschland-Ticket innerhalb der geltenden Kündigungsfristen selbst kündigen. Nutzen Sie dafür das Aboportal oder den DB Navigator.
+Anschließend können Sie das Verbund-Abos auf bahn.de/pendler oder nach Eingabe Ihrer Strecke in der Verbindungssuche auf bahn.de neu bestellen.
 
-* [Zum Aboportal](https://abo.bahn.de/#/)
+* [Abo verwalten im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 * [Zu bahn.de/pendler](https://www.bahn.de/angebot/pendler)
 * [Verbindung suchen](https://www.bahn.de/buchung/start)
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-wechsel)
 
@@ -4530,7 +4530,7 @@ Die Deutsche Bahn informiert Sie transparent darüber, dass Bund und Länder den
 
 [Weitere Informationen zum Deutschland-Ticket](https://www.bahn.de/angebot/regio/deutschland-ticket)
 
-[Jetzt buchen](https://abo.bahn.de/bestellen/?tarifid=84)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/deutschlandticket-zustimmung-warum)
 
@@ -5726,7 +5726,7 @@ Bitte kontaktieren Sie uns über das Kontaktformular auf [www.jobticket-bahn.de]
 
 [Jetzt buchen](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
 
-[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00003O203)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ferien-ticket-nrw)
 
@@ -6206,13 +6206,13 @@ Das Ticket gilt ab 8 Uhr am Reisetag bis 3 Uhr am nächsten Tag. Am Samstag, Son
  Kann ich den Gültigkeitsbeginn meines Abos ändern?
 ----------
 
-Nein. Auch die Stornierung einer Abo-Bestellung ist nicht möglich.
+Nein. Eine Änderung des Gültigkeitsbeginns oder Stornierung des Abos ist nicht möglich.
 
-Sie können das Abo zum nächstmöglichen Kündigungstermin entsprechend der Tarifbedingungen kündigen.
+Kündigen Sie, wenn nötig, fristgerecht Ihr bestehendes Abo. Nutzen Sie dafür die Aboverwaltung im DB Kundenkonto oder in der App DB Navigator den entsprechenden Menüpunkt direkt im Ticket.
 
-Wählen Sie im Aboportal das betreffende Abo aus, um die Funktion "Kündigung" aufzurufen.
+Anschließend nehmen Sie können Sie neu bestellen.
 
-* [Zum Aboportal](https://abo.bahn.de/#/home)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/gueltigkeitsbeginn-aendern)
 
@@ -6364,42 +6364,41 @@ Es ist kein Login für das Hinzufügen oder Aktualisieren des Handy-Tickets erfo
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-aktualisierung)
 
- Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im Navigator angezeigt?
+ Warum wird das Handy-Ticket für mein Abo (Deutschland-Ticket) nicht im DB Navigator angezeigt?
 ----------
 
-Das Handy-Ticket eines Abos (zum Beispiel Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft.
+Beginnt Ihre D-Ticket-Abonummer mit "AB", wird das Ticket nach erfolgreicher Bestellung automatisch unter "Reisen" im DB Navigator angezeigt. Ist dies nicht der Fall, stellen Sie bitte sicher, dass Sie in Ihrem DB Kundenkonto eingeloggt sind. Sollte das Abonnement für Sie durch eine andere Person abgeschlossen worden sein, können Sie das Ticket über das Plus-Symbol mit Ihrer Abonummer und Ihrem Nachnamen hinzufügen.
 
-Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen: Öffnen Sie die E-Mail zur Aktivierung auf dem Gerät, auf dem Sie das Ticket im DB Navigator nutzen möchten und klicken auf den Link.
+Andere D-Tickets und Abos können Sie über den Link in der Aktivierungsmail, im Aboportal beziehungsweise unter "Meine Reisen" über das Plus-Symbol mit Ihren Daten hinzufügen.
 
-Alternativ können Sie das Ticket in "Meine Reisen" über das "+" selbst hinzufügen. Achten Sie auf die genaue Schreibweise Ihrer Abonnummer und Ihres Nachnamens wie bei der Bestellung.
+Prüfen Sie die Schreibweise Ihrer Angaben, mögliche Leerzeichen und die aktuelle App-Version.
 
-Falls Sie beim Hinzufügen Probleme haben, prüfen Sie, ob Sie die aktuelle Version der App nutzen.
+Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 
-* [Digitales Abo - Fragen & Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
+Sollten Sie weiterhin Probleme mit der Anzeige haben, wenden Sie sich bitte über das Kontaktformular an den Kundensupport. Geben Sie hier die Version Ihrer App und hilfreiche Screenshots an.
+
+* [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
+* [Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
+* [Digitales Abo - Fragen und Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/handyticket-wird-nicht-angezeigt)
 
  Ich kann das Abo nicht als Handy-Ticket hinzufügen. Was kann ich tun?
 ----------
 
-Das Handy-Ticket eines Abos (z. B. Deutschland-Ticket) ist nicht automatisch mit dem DB Navigator verknüpft. Sie können das Ticket jedoch einfach über Ihre Bestellbestätigung oder Aktivierungsmail hinzufügen.
-Alternativ können Sie das Ticket in "Meine Reisen" über das "+" selbst hinzufügen.
+Beginnt Ihre Deutschland-Ticket-Abonummer mit "AB", wird das Ticket nach erfolgreicher Bestellung automatisch unter "Reisen" im DB Navigator angezeigt. Ist dies nicht der Fall, stellen Sie bitte sicher, dass Sie in Ihrem DB Kundenkonto eingeloggt sind. Sollte das Abonnement für Sie durch eine andere Person abgeschlossen worden sein, können Sie das Ticket über das Plus-Symbol mit Ihrer Abonummer und Ihrem Nachnamen hinzufügen.
 
-Falls Sie beim Hinzufügen Probleme haben, prüfen Sie auch ob Sie die aktuelle Version der App nutzen.
+Andere Deutschland-Tickets und Abos können Sie über den Link in der Aktivierungsmail, das Aboportal bzw. unter "Meine Reisen" über das Plus-Symbol mit Ihren Daten hinzufügen.
 
-Weitere Tipps:
+Prüfen Sie die Schreibweise Ihrer Angaben, mögliche Leerzeichen und die aktuelle App-Version.
 
-* Ist die Schreibweise Ihres Nachnamens genau wie bei der Bestellung? Dies können Sie in der Bestellbestätigung oder im Aboportal nachprüfen.
-* Prüfen Sie, dass Sie Vorname und Nachname nicht vertauschen.
-* Achten Sie darauf, keine Leerzeichen am Anfang oder Ende Ihrer Eingaben zu setzen. Das kann beim Kopieren der Daten versehentlich passieren.
-* Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
-* Tipp für den DB Navigator: Fügen Sie das Ticket über Ihre Bestellbestätigung oder Aktivierungs-Mail hinzu. Öffnen Sie die E-Mail auf dem Gerät, auf dem Sie auch die App nutzen, und klicken Sie auf den Link.
+Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 
-Ohne E-Mail und Abonummer haben Sie folgende Möglichkeit: Gehen Sie im DB Navigator auf "Profil und "Abo verwalten". Falls Sie noch nicht eingeloggt sind, melden Sie sich mit dem Kundenkonto an, mit dem Sie das Abo bestellt haben. Jetzt können Sie Ihr vorhandenes Abo auswählen und über die Funktion "Ticket in DB Navigator" direkt laden.
-
-​Haben Sie alle FAQ und Hilfestellungen geprüft? Wenn es weiterhin nicht klappt, können Sie einen Screenshot und Angaben zu Ihrem genutzten Gerät über das Kontaktformular senden.
+Sollten Sie weiterhin Probleme mit der Anzeige haben, wenden Sie sich bitte über das Kontaktformular an den Kundensupport. Geben Sie hier die Version Ihrer App und hilfreiche Screenshots an.
 
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+* [Zum Aboportal](https://abo.bahn.de/)
 * [​ Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
 * [Weitere FAQ zum Digitalen Abo](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
 
@@ -6579,19 +6578,13 @@ Falls in der Online-Bestellung des ICE-Abos für Ihre Strecke jedoch keine ICE-V
  Warum finde ich mein Abo nicht im Aboportal?
 ----------
 
-Über “Abo hinzufügen” können Sie ein Abo mit Ihrem Kundenkonto im Aboportal verknüpfen und verwalten, sofern es noch nicht automatisch bei der Bestellung verknüpft wurde.
+Bei einer Neubestellung wird Ihr Abo automatisch mit dem verwendeten DB Kundenkonto verknüpft.
 
-Erhalten Sie beim Hinzufügen eine Fehlermeldung, prüfen Sie bitte folgendes:
+* Beginnt Ihre Abonummer mit **"AB",** finden Sie das Abo im **DB Kundenkonto** unter "Abo".
+* Beginnt Ihre Abonummer mit einer **Zahl**, wechseln Sie ins **Aboportal**. Wird das Abo dort nicht angezeigt, können Sie es über "Abo hinzufügen" erneut verknüpfen.
 
-1. **Haben Sie den richtigen Tarif bzw. Verbund ausgewählt?**
-   Ihr Abo kann nur gefunden werden, wenn der richtige Tarif bzw. Verkehrsverbund ausgewählt wurde. Den Verbund bzw. die Verbundabkürzung finden Sie in Ihrer Bestellbestätigung oder als Logo auf Ihrem Ticket.
-2. **Stimmen Ihre Angaben mit den beim Abo hinterlegten Daten überein?**
-   Geben Sie die Abonummer ein, die Sie in Ihrer Aktivierungsmail oder auf Ihrem Ticket finden und achten auf die angezeigten Eingabehinweise.
-   Die Postleitzahl und das Geburtsdatum geben Sie genau so ein, wie sie bei Vertragsabschluss erfasst wurden. In der Regel wurden ihre Daten bei der Bestellung aus Ihrem Kundenkonto übernommen. Haben sich Ihre Daten inzwischen geändert, verwenden Sie bitte die ursprünglich hinterlegten Angaben. Wenn Sie beispielsweise umgezogen sind, ist zunächst die bei der Bestellung angegebene Postleitzahl zu verwenden. Nach der Verknüpfung können Sie Ihre Adresse im Aboportal unter „Meine Daten“ aktualisieren.
-3. **Wurde Ihr Abo bei einem anderen Verkehrsunternehmen abgeschlossen?**
-   Über das Aboportal können nur Abos verwaltet werden, die von der DB Vertrieb GmbH betreut werden. Wenn Ihr Abo von einem anderen Verkehrsunternehmen stammt, kann es hier nicht hinzugefügt werden.
-
-* [Zum Aboportal](https://www.bahn.de/angebot/pendler/verkehrsverbuende/abocenteronline)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
+* [Zum Aboportal](https://abo.bahn.de/)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/ich-finde-mein-abo-im-aboportal-nicht-wie-kann-das-sein)
 
@@ -6800,10 +6793,9 @@ Reisende mit DB Gepäckservice-Aufträgen, die bis einschließlich 17. Februar 2
  Ich will im Aboportal ein weiteres Abo hinzufügen. Wie mache ich das?
 ----------
 
-Ein weiteres Abo kann einzeln hinzugefügt werden. Soweit es technisch möglich ist, werden Ihnen automatisch alle bei der DB Vertrieb GmbH gekauften Abos angezeigt, bei denen Sie als Kunde mit eingetragen sind. Sollten Sie dennoch ein Abo vermissen, können Sie es wie folgt hinzufügen:
+Melden Sie sich im Aboportal an. Wählen Sie auf der Startseite oder unter "Meine Abos" den Bereich "Abo hinzufügen" und führen den Prozess mit Abonummer und den passenden Vertragsdaten durch.
 
-1. Melden Sie sich im Aboportal an
-2. Gehen Sie auf der Startseite bzw. unter "Meine Abos" auf den Bereich "Abo hinzufügen" und führen Sie den Prozess aus. Sie benötigen für die entsprechende Abonummer, das jeweilige und die passende Postleitzahl zu dem Abo.
+Wenn Ihre Abonummer mit "AB" beginnt, finden Sie Ihr Deutschland-Ticket direkt im DB Kundenkonto unter "Abos".
 
 * [Zum Aboportal](https://abo.bahn.de/portal/#/)
 
@@ -13788,21 +13780,12 @@ Die Rückzahlung des Reservierungsentgelts können Sie (formlos) im Servicecente
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/verspaetung-bundeswehr-ticket)
 
- Wie stimme ich der Vertragsänderung für einen anderen Reisenden zu?
+ Wie stimme ich der Vertragsänderung beim Deutschland-Ticket für einen anderen Reisenden zu?
 ----------
 
-Nur die bestellende Person darf der Vertragsänderung zustimmen.
+Nur der Vertragspartner oder die Vertragspartnerin darf einer Vertragsänderung zustimmen.
 
-Wenn Sie die Antwortoption im Aboportal nicht sehen, ist das Abo mit der Berechtigung der reisenden Person verknüpft und nicht mit der der bestellenden Person.
-
-Das kann zum Beispiel passieren, wenn Sie für ein minderjähriges Kind ein Abo bestellt und beim Hinzufügen des Abos das Geburtsdatum des Kindes statt Ihr eigenes verwendet haben.
-
-So erhalten Sie die Ansicht als bestellende Person:
-
-* Fügen Sie das Abo auf der Startseite des Aboportals über die Kachel "Abo hinzufügen" erneut hinzu.
-* Verwenden Sie dabei das Geburtsdatum und die PLZ der Person, die das Abo bestellt hat.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+Ist die Funktion nicht sichtbar, wurde das Abo möglicherweise mit den Daten der reisenden Person verknüpft. Fügen Sie es erneut mit Geburtsdatum und Postleitzahl der bestellenden Person hinzu.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/vertragsaenderung-anderer-reisender)
 
@@ -15509,16 +15492,18 @@ Wenn Sie bei Ihrer ursprünglichen 2. Klasse-Buchung eine BahnCard 2. Klasse ver
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-2-klasse-bahncard-bei-1-klasse-upgrade-angeben)
 
- Warum kann mein Kündigungsformular nicht bearbeitet werden?
+ Warum kann mein Kündigungsformular für mein Bahn-Abo nicht bearbeitet werden?
 ----------
 
 Wenn Ihre Kündigungsanfrage abgelehnt wurde, prüfen Sie bitte folgende Punkte vor einer erneuten Eingabe:
 
-* Kontrollieren Sie die Schreibweise Ihres Vor- und Nachnamens. Geben Sie diese genauso ein wie bei Ihrer Bestellung oder wie sie auf Ihrem Ticket stehen. Verwechseln Sie nicht Vor- und Nachname.
-* Die Abonummer finden Sie auf Ihrem Ticket (beim Handyticket unterhalb des QR-Codes in der Zeile "Auftragsnr." oder "Auftrags- / Abonummer") oder in der Aktivierungs-E-Mail.
+* Kontrollieren Sie die Schreibweise Ihres Vor- und Nachnamens. Geben Sie diese genauso ein wie bei Ihrer Bestellung oder wie sie auf Ihrem Ticket stehen. Verwechseln Sie nicht Vor- und Nachname.
+  Die Abonummer finden Sie auf Ihrem Ticket (beim Handyticket unterhalb des QR-Codes in der Zeile "Auftragsnr." oder "Auftrags- / Abonummer") oder in der Aktivierungs-E-Mail.
 * Stellen Sie sicher, dass Sie einen Abovertrag kündigen möchten, den Sie bei der Deutschen Bahn abgeschlossen haben. Abos bei anderen Verkehrsunternehmen müssen direkt dort gekündigt werden.
-* Die Kündigung kann nur durch den Vertragspartner (bestellende Person) durchgeführt werden. Möchten Sie zum Beispiel das Abo Ihres minderjährigen Kindes kündigen, geben Sie bitte dennoch im Formular Ihre Daten als Vertragspartner ein und nicht die Daten des Kindes.
-* Alternativ können Sie sich im Aboportal mit Ihrem bahn.de-Kundenkonto anmelden und dort die Kündigung vornehmen oder direkt im Menü unterhalb des Handy-Tickets die Funktion ["Abo kündigen"](http://bahn.de/aboportal-start) nutzen.
+  Die Kündigung kann nur durch den Vertragspartner (bestellende Person) durchgeführt werden. Möchten Sie zum Beispiel das Abo Ihres minderjährigen Kindes kündigen, geben Sie bitte dennoch im Formular Ihre Daten als Vertragspartner ein und nicht die Daten des Kindes.
+* Alternativ können Sie sich in der Aboverwaltung mit Ihrem DB Kundenkonto anmelden und dort die Kündigung durchführen oder direkt im Menü unterhalb des Handy-Tickets die Funktion "Abo kündigen" nutzen.
+
+[Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/warum-kann-mein-kuendigungsformular-nicht-bearbeitet-werden)
 
@@ -18483,16 +18468,11 @@ Die Versicherung läuft ab dem vereinbarten Versicherungsbeginn ein Jahr. Sie ve
  Wie melde ich mich im Aboportal an?
 ----------
 
-Auf abo.bahn.de melden Sie sich mit dem Benutzernamen und Passwort Ihres Bahn-Accounts an. Hier können Sie auch einen neuen Bahn-Account anlegen.
+Melden Sie sich auf abo.bahn.de mit Benutzernamen und dem Passwort Ihres DB Kundenkontos an. Bereits verknüpfte Abos werden auf der Übersichtsseite angezeigt. Weitere Abos lassen sich über "Abo hinzufügen" ergänzen.
 
-Wenn bereits ein Abo verknüpft ist, sehen Sie dieses auf der Übersichtsseite des Aboportals.
+Wenn Ihre Abonummer mit "AB" beginnt, finden Sie Ihr Deutschland-Ticket direkt im DB Kundenkonto unter "Abos".
 
-Ist noch kein Abo verknüpft oder möchten Sie über "Abo hinzufügen" einen weiteren Abovertrag hinzufügen, gehen Sie folgendermaßen vor:
-
-* Wählen den Tarif Ihres Abos (ein Verbundgebiet oder DB). Diesen finden Sie auch in Ihrer Aktivierungsmail oder auf dem Handy-Ticket.
-* Füllen Sie die Felder aus.
-
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zum DB Kundenkonto](https://www.bahn.de/mein-konto)
 * [Informationen zur Verwaltung eines Abos für eine andere Person](https://www.bahn.de/faq/abovertrag-fuer-andere-verwalten)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-melde-ich-mich-im-aboportal-an)
@@ -18927,6 +18907,13 @@ Im personenbedienten Verkauf 2 Euro mehr
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-fahr-und-spar-suedpfalz)
 
+ Wie viel kostet das FerienTicket NRW?
+----------
+
+**77,50 Euro** während der gesamten Sommerferien und nur **38,60 Euro** in allen anderen Ferien in Nordrhein-Westfalen.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-ferienticket-nrw)
+
  Wie viel kostet das Gäubodenbahn-Ticket Bayern?
 ----------
 
@@ -19299,13 +19286,6 @@ Die angegebenen Preise sind für den Kauf am DB Automaten und im Internet gülti
 [Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATL00013C213)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-schleswig-holstein-ticket)
-
- Wie viel kostet das FerienTicket NRW?
-----------
-
-**77,50 Euro** während der gesamten Sommerferien und nur **38,60 Euro** in allen anderen Ferien in Nordrhein-Westfalen.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wie-viel-kostet-das-schoeneferienticket-nrw)
 
  Wie viel kostet das STADT-LAND-MEER-TICKET?
 ----------
@@ -19848,6 +19828,21 @@ Die Fahrkarten erhalten Sie
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-fahr-spar-ticket-kaufen)
 
+ Wo kann ich das FerienTicket NRW kaufen?
+----------
+
+* An allen DB-Automaten
+* An den Verkaufsstellen der DB
+* online buchbar
+
+[Jetzt FerienTicket NRW buchen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00003O203)
+
+[Alle Infos zum Ferienticket NRW](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
+
+[Jetzt buchen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/NRKSONL00003O203)
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-ferienticket-nrw-kaufen)
+
  Wo finde ich die Sitzplatzreservierungen im Fernverkehr?
 ----------
 
@@ -19922,15 +19917,13 @@ Ihr Weg zur 4er Karte kann entweder über die Fahrplansuche erfolgen, in der Ihn
  Wo finde ich meine Abonummer?
 ----------
 
-Ihre Abonummer können Sie folgendermaßen finden:
+Die Abonummer haben Sie mit Ihrer Aktivierungsmail erhalten.
 
-* in der Aktivierungs-E-Mail als "Abonummer"
-* auf Ihrem Handyticket unterhalb des QR-Codes in der Zeile "Auftrags-Nr." oder oder "Auftrags-/Abonummer"
-* bei einer Chipkarte oder Papierticket im Begleitbrief
-* auf Ihrem Kontoauszug im Verwendungszweck der Lastschrift
-* im Aboportal: Melden Sie sich auf bahn.de/aboportal mit dem bahn.de Kundenkonto an, mit dem Sie bei der Bestellung des Abos angemeldet waren.
+Sie finden diese ebenfalls in der Aboverwaltung, im DB Navigator auf dem Handy-Ticket unterhalb des QR-Codes oder im Verwendungszweck der Lastschriftzahlung.
 
-* [Zum Aboportal](https://abo.bahn.de/)
+Wenn Sie eine Chipkarte oder ein Papierticket erhalten haben, ist Ihre Abonummer im Begleitbrief angegeben.
+
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-finde-ich-meine-abonummer)
 
@@ -20450,6 +20443,13 @@ Den Geltungsbereich finden Sie unter bahn.de/agb im Abschnitt Tarifbedingungen d
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-ticket)
 
+ Wo gilt das FerienTicket NRW?
+----------
+
+Das FerienTicket NRW berechtigt eine Person zu beliebig vielen Fahrten im gesamten Geltungsbereich des NRW-Tarifs.
+
+[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-ticket-ferienticketnrw)
+
  Von wo nach wo kann ich mit dem Hopper-Ticket Sachsen-Anhalt fahren?
 ----------
 
@@ -20471,13 +20471,6 @@ Den Geltungsbereich finden Sie unter bahn.de/agb im Abschnitt Tarifbedingungen d
 [Jetzt auswählen](https://www.bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00010C210)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-ticket-saarland-ticket)
-
- Wo gilt dasFerienTicket NRW?
-----------
-
-Das FerienTicket NRW berechtigt eine Person zu beliebig vielen Fahrten im gesamten Geltungsbereich des NRW-Tarifs.
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-gilt-das-ticket-schoeneferienticket)
 
  Wo gilt das Touren-Ticket?
 ----------
@@ -20966,19 +20959,6 @@ Das Sachsen-Böhmen-Ticket wird nur noch bis zum Fahrplanwechsel am 13. Dezember
 [Ticket auswählen](https://www.next-bahn.de/buchung/katalog/REGIONALEANGEBOTE/REKLATD00015C215)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sachsen-boehmen-ticket-kaufen)
-
- Wo kann ich das FerienTicket NRW kaufen?
-----------
-
-* An allen DB-Automaten
-* An den Verkaufsstellen der DB
-* Jeweils 14 Tage vor Ferienbeginn direkt hier online buchbar
-
-[Alle Infos zum Ferienticket NRW](https://www.bahn.de/angebot/regio/nordrhein-westfalen/ferienticket-nrw)
-
-[Infos zum Kauf](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
-
-[Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-schoeneferienticket-nrw-kaufen)
 
  Wo finde ich in der App Fahrräder und Scooter, um diese ausleihen zu können?
 ----------
