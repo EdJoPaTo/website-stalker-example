@@ -136,7 +136,7 @@ für kalte Tage
  Verlängertes Umtauschrecht
 ---
 
- innerhalb Deutschlands bis zum 31.01.2027
+ innerhalb der EU bis zum 31.01.2027
 
 Alles für den Job:
 Profi-Arbeitskleidung vom Experten
@@ -686,12 +686,12 @@ bis Werkzeug – Über
  GRATIS VERSAND
 ---
 
- innerhalb Deutschlands bis zum 22.12.2026
+ innerhalb der EU bis zum 22.12.2026
 
  GRATIS VERSAND
 ---
 
- innerhalb Deutschlands bis zum 22.12.2026
+ innerhalb der EU bis zum 22.12.2026
 
 [Strauss America, English](https://us.strauss.com/)
 
