@@ -293,6 +293,12 @@ sites:
     editors:
       - css_select: body
       - css_remove: img, script, style, header, .imagemap
+      - regex_replace:
+          pattern: '\?itemorigin=[^&"]+&'
+          replace: '?'
+      - regex_replace:
+          pattern: '\?itemorigin=[^&"]+'
+          replace: ''
       - html_url_canonicalize
       - html_markdownify
 

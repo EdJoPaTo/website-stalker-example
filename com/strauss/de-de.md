@@ -39,9 +39,9 @@ für kalte Tage
  (m. MwSt.)
 ---
 
-[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html)
 
-[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html)
 
  Daunen Parka
 ---
@@ -93,9 +93,9 @@ für kalte Tage
  (m. MwSt.)
 ---
 
-[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html)
 
-[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html)
 
  Neuheiten
 ---
@@ -129,9 +129,9 @@ für kalte Tage
 
 [weitere Neuheiten entdecken](https://www.strauss.com/de/de/geschenkideen-neuheiten/?sort=newest)
 
-[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-jacke-e-s-work-travel-3135620-78269-1939.html)
 
-[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/winter-arbeitsjacken/daunen-parka-e-s-work-travel-3135610-78259-1939.html)
 
  Verlängertes Umtauschrecht
 ---
@@ -157,11 +157,11 @@ Profi-Arbeitskleidung vom Experten
 
 24 Türchen voller Werkzeug und Zubehör, das jedes Handwerkerherz höherschlagen lässt. Verpackt in 2 superkompakten Toolboxen – so hält die Freude das ganze Jahr über!
 
-[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
+[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html)
 
-[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
+[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html)
 
-[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html)
 
  e.s. Adventskalender Edition 8
 
@@ -175,7 +175,7 @@ Profi-Arbeitskleidung vom Experten
 
 ]()
 
-[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html)
 
  NEU
 ---
@@ -198,21 +198,21 @@ Freude drin
  exklusiv & limitiert
 ---
 
-[zur Nikolaussocke](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html?itemorigin=StartseiteHW26)
+[zur Nikolaussocke](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html)
 
-[zur Nikolaussocke](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html?itemorigin=StartseiteHW26)
+[zur Nikolaussocke](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html)
 
-[](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html?itemorigin=StartseiteHW26)
-
- NEU
----
+[](https://www.strauss.com/de/de/geschenkideen-kinder/e-s-engelbird-nikolaussocke-7903960-5576222-0.html)
 
  NEU
 ---
 
-[](https://www.strauss.com/de/de/damenblusen-hemden/e-s-fleecehemd-damen-3110920-87370-702.html?itemorigin=startseiteXMAS26)
+ NEU
+---
 
-[](https://www.strauss.com/de/de/arbeitshemden/e-s-fleecehemd-3110910-87363-1996.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/damenblusen-hemden/e-s-fleecehemd-damen-3110920-87370-702.html)
+
+[](https://www.strauss.com/de/de/arbeitshemden/e-s-fleecehemd-3110910-87363-1996.html)
 
  Geschenke für
 
@@ -245,7 +245,7 @@ Freude drin
 
 [jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/)
 
-[](https://www.strauss.com/de/de/socken/e-s-faserpelzsocke-1501090-7915811-1987.html?itemorigin=StartseiteXMAS26)
+[](https://www.strauss.com/de/de/socken/e-s-faserpelzsocke-1501090-7915811-1987.html)
 
  Geschenke
 
@@ -358,17 +358,17 @@ zu jedem Set
 
 [](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/)
 
-[](https://www.strauss.com/de/de/westen/heizweste-e-s-ambition-3140720-78429-1.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/westen/heizweste-e-s-ambition-3140720-78429-1.html)
 
-[](https://www.strauss.com/de/de/hybridjacken-damen/heiz-hybrid-kapuzenstrickjacke-e-s-trail-damen-3135250-78444-1.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/hybridjacken-damen/heiz-hybrid-kapuzenstrickjacke-e-s-trail-damen-3135250-78444-1.html)
 
-[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-heizjacke-e-s-concrete-3135240-78439-1.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-heizjacke-e-s-concrete-3135240-78439-1.html)
 
-[](https://www.strauss.com/de/de/westen/heizweste-e-s-ambition-3140720-78429-1.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/westen/heizweste-e-s-ambition-3140720-78429-1.html)
 
-[](https://www.strauss.com/de/de/hybridjacken-damen/heiz-hybrid-kapuzenstrickjacke-e-s-trail-damen-3135250-78444-1.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/hybridjacken-damen/heiz-hybrid-kapuzenstrickjacke-e-s-trail-damen-3135250-78444-1.html)
 
-[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-heizjacke-e-s-concrete-3135240-78439-1.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-heizjacke-e-s-concrete-3135240-78439-1.html)
 
  Heizartikel
 ----------
@@ -405,15 +405,15 @@ Knopfdruck
  Kann bis zu zwei Heizartikel
 gleichzeitig betreiben.
 
-[Power-Bank gleich mitbestellen](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
+[Power-Bank gleich mitbestellen](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html)
 
-[](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
+[](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html)
 
  Kann bis zu zwei Heizartikel gleichzeitig betreiben.
 
-[Power-Bank](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
+[Power-Bank](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html)
 
-[](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html?itemorigin=StartseiteXMAS26)
+[](https://www.strauss.com/de/de/ladegeraete/power-bank-pd-10-000-mah-7100650-8371573-0.html)
 
  3-in-1 Funktionsjacke
 ----------
@@ -451,13 +451,13 @@ Allrounder
 
  3 in 1 Funktionsjacke e.s.line.core
 
-[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-line-core-3135550-64319-1.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-line-core-3135550-64319-1.html)
 
  \+2
 
  3 in 1 Funktionsjacke e.s.line.core
 
-[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-line-core-3135550-64319-1.html?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/3-in-1-arbeitsjacken/3-in-1-funktionsjacke-e-s-line-core-3135550-64319-1.html)
 
  Bis zum 11.12. bestellen - Lieferung pünktlich zum Fest erhalten! \*
 ----------
@@ -474,7 +474,7 @@ Direktstickmotive, sowie Motive aus der MYDESIGN Motivdatenbank.
 
 jetzt gestalten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteXMAS26)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
 
  Bis zum 11.12. bestellen - Lieferung pünktlich zum Fest erhalten! \*
 ----------
@@ -491,7 +491,7 @@ Direktstickmotive, sowie Motive aus der MYDESIGN Motivdatenbank.
 
 jetzt gestalten
 
-[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten?itemorigin=StartseiteXMAS26)
+[mehr erfahren](https://www.strauss.com/de/de/Service/Logoservice/selbst_gestalten)
 
  Druck und Stick bereits ab 1 Stück
 ---
@@ -532,13 +532,13 @@ Gutscheinkarte per Post – mit passender Box je nach Wert.
 
  Ein Strauss Gutschein passt immer! Digital zum Ausdrucken oder als Gutscheinkarte per Post – mit passender Box je nach Wert.
 
-[Sofort ausdrucken](https://gutschein.strauss.de/F6161?itemorigin=startseiteXMAS26)
+[Sofort ausdrucken](https://gutschein.strauss.de/F6161)
 
-[per Post bestellen](https://www.strauss.com/de/de/arbeitskleidung-herren/warengutschein-111110-1499911-0.html?itemorigin=startseiteXMAS26)
+[per Post bestellen](https://www.strauss.com/de/de/arbeitskleidung-herren/warengutschein-111110-1499911-0.html)
 
-[Sofort ausdrucken](https://gutschein.strauss.de/F6161?itemorigin=startseiteXMAS26)
+[Sofort ausdrucken](https://gutschein.strauss.de/F6161)
 
-[per Post bestellen](https://www.strauss.com/de/de/arbeitskleidung-herren/warengutschein-111110-1499911-0.html?itemorigin=startseiteXMAS26)
+[per Post bestellen](https://www.strauss.com/de/de/arbeitskleidung-herren/warengutschein-111110-1499911-0.html)
 
 [Strauss x LFC](https://www.strauss.com/de/de/liverpool-fc-x-strauss/)
 
@@ -651,7 +651,7 @@ bis Werkzeug – Über
  abonnieren & sparen
 ---
 
-[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/Service/Newsletter)
 
  Sonder- & Rabattaktionen
 ---
@@ -662,26 +662,26 @@ bis Werkzeug – Über
  exklusive Gutscheine
 ---
 
-[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
+[jetzt anmelden](https://www.strauss.com/de/de/Service/Newsletter)
 
-[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/Service/Newsletter)
 
  Exklusive Newsletter-Vorteile sichern
 ---
 
-[](https://www.strauss.com/de/de/Service/Newsletter?itemorigin=StartseiteHW26)
+[](https://www.strauss.com/de/de/Service/Newsletter)
 
  Verlängertes Umtauschrecht
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch?itemorigin=StartseiteHW26)
+[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
 
  KOSTENLOSE RÜCKSENDUNGEN
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch?itemorigin=StartseiteHW26)
+[mehr Infos](https://www.strauss.com/de/de/Service/Umtausch)
 
  KAUF AUF RECHNUNG
 
-[mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen?itemorigin=StartseiteHW26)
+[mehr Infos](https://www.strauss.com/de/de/Service/Bezahlen)
 
  GRATIS VERSAND
 ---
