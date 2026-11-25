@@ -6372,6 +6372,7 @@ Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 
 Sollten Sie weiterhin Probleme mit der Anzeige haben, wenden Sie sich bitte über das Kontaktformular an den Kundensupport. Geben Sie hier die Version Ihrer App und hilfreiche Screenshots an.
 
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
 * [Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
 * [Digitales Abo - Fragen und Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)
@@ -9511,9 +9512,9 @@ Die LogPay Financial Services GmbH ist ein etablierter Zahlungsdienstleister im 
  Warum wurde mir eine Mahngebühr vom DB Abo-Center berechnet?
 ----------
 
-Ihre Mahnung konnte nicht per E-Mail zugestellt werden und wurde daher per Post versendet. Für den postalischen Versand sind zusätzliche Kosten entstanden, die als Mahngebühr berechnet wurden.
+Wenn eine Zahlung nicht rechtzeitig bei uns eingeht, kann eine Mahngebühr anfallen. Wann diese berechnet wird, hängt vom jeweiligen Verkehrsverbund ab. Bei manchen Tarifen fällt die Gebühr auch bei einer Mahnung per E-Mail an. Bei anderen wird sie nur berechnet, wenn die Mahnung per Post versendet wird, weil eine Zustellung per E-Mail nicht möglich war.
 
-Damit wir Sie künftig per E-Mail erreichen können, prüfen Sie bitte die hinterlegte E-Mail-Adresse im DB Kundenkonto unter „Persönliche Daten“ und im Aboportal unter „Meine Daten“ und aktualisieren Sie diese bei Bedarf.
+Achten Sie deshalb darauf, dass Ihre E-Mail-Adresse im DB Kundenkonto unter „Persönliche Daten“ und im Aboportal unter „Meine Daten“ aktuell ist.
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/mahngebuehr)
 
@@ -16769,11 +16770,10 @@ Wenn Sie bereits ein Abo haben, werden Sie über die Beendigung Ihres Abo-Vert
 
 **Weitere digital erhältliche Angebote**
 
-* Abo-Monatskarte digital
+* Deutschland-Ticket Jobticket VRN
+* MAXX-Ticket
 * Karte ab 60 digital
-* 9-Uhr-Abo-Monatskarte digital
-* JobTicket
-* Rhein-Neckar-Ticket
+* VRN D-Ticket JugendBW
 
 [Abo auf abo.bahn.de auswählen](https://abo.bahn.de/bestellen/?tarifid=79,110,1,70,71,2,4,5,44,45,101,102,104,105)
 

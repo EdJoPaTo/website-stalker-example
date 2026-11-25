@@ -319,9 +319,12 @@ FAQs zu Root Servern
 
   Deinen Root-Server-Standort wählst du bei netcup bereits vor der Bestellung direkt auf der Produktseite aus. Zur Auswahl stehen:
 
+  * Wien (VIE)
   * Nürnberg (NUE)
   * Manassas/USA (MNZ) und
   * Singapur (SIN)
+
+  Zusätzlich gibt es die Option „Keine Präferenz Europa“ – dabei kannst du den genauen Standort nicht festlegen, dein Server wird jedoch ausschließlich in einem europäischen Rechenzentrum (z. B. Wien oder Nürnberg) eingerichtet, abhängig von den verfügbaren Kapazitäten.
 
 * #### Was sind die Vorteile eines Root Servers? ####
 

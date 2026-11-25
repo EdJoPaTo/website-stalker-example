@@ -3,6 +3,22 @@ What's New
 
 This page tracks major releases and incremental improvements for the Hetzner platform.
 
+### Assistant: Now available across the Console ###
+
+Our Assistant is now available on every page of the Hetzner Console. Whether it's a question about features, product choices, or your own infrastructure — it provides explanations, recommendations, and potential solutions, and can resolve many issues directly.
+
+* **Quick access**
+
+  Open the chat at any time using the Assistant button in the header. It stays open while switching pages, so the conversation can continue seamlessly.
+
+* **Context-aware answers**
+
+  The Assistant takes the current page, existing resources, and account status into account. This allows it to explain configurations or point out outstanding invoices. If needed, it consults the documentation, so you usually don't have to look it up yourself.
+
+* **Troubleshooting**
+
+  The Assistant can help narrow down and resolve issues. If the issue cannot be resolved right away, it can create a support ticket at your request.
+
 ### New Cloud Network Stack beta launch ###
 
 The new Hetzner Cloud network stack "hcnet" is now available in public beta. You can trigger a switch for each server individually.

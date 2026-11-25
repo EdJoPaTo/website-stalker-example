@@ -153,6 +153,7 @@ Chipkarten können nicht als Handy-Ticket hinzugefügt werden.
 
 Sollten Sie weiterhin Probleme mit der Anzeige haben, wenden Sie sich bitte über das Kontaktformular an den Kundensupport. Geben Sie hier die Version Ihrer App und hilfreiche Screenshots an.
 
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 * [Zum Kontaktformular](https://abo.bahn.de/kontakt/support_handyticket)
 * [Information zum begrenzten Gerätwechsel](https://www.bahn.de/faq/begrenzung-uebertragung)
 * [Digitales Abo - Fragen und Antworten](https://bahn.de/faq/pk/angebot/pendler/digitalesabo)

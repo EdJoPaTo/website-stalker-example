@@ -1,17 +1,17 @@
 Neuheiten
 ---
 
-[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?sort=newest)
 
  Geschenkideen
 ---
 
-[](https://www.strauss.com/de/de/geschenkideen/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/geschenkideen/)
 
  % Sale
 ---
 
-[](https://www.strauss.com/de/de/sale/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/sale/)
 
  Neuzugänge
 ---
@@ -55,17 +55,17 @@ für kalte Tage
  Neuheiten
 ---
 
-[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?sort=newest)
 
  Geschenkideen
 ---
 
-[](https://www.strauss.com/de/de/geschenkideen/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/geschenkideen/)
 
  % Sale
 ---
 
-[](https://www.strauss.com/de/de/sale/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/sale/)
 
  Neuzugänge
 ---
@@ -100,17 +100,17 @@ für kalte Tage
  Neuheiten
 ---
 
-[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?itemorigin=startseiteXMAS26&sort=newest)
+[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?sort=newest)
 
  Geschenkideen
 ---
 
-[](https://www.strauss.com/de/de/geschenkideen/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/geschenkideen/)
 
  % Sale
 ---
 
-[](https://www.strauss.com/de/de/sale/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/sale/)
 
  Neuzugänge
 ---
@@ -221,9 +221,9 @@ Freude drin
 
 ---
 
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/)
 
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-freunde-familie/)
 
  Geschenke für
 
@@ -231,9 +231,9 @@ Freude drin
 
 ---
 
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/)
 
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-fuer-die-kleinen/)
 
  Passende
 
@@ -241,9 +241,9 @@ Freude drin
 
 ---
 
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/)
 
-[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/geschenkideen-accessoires/)
 
 [](https://www.strauss.com/de/de/socken/e-s-faserpelzsocke-1501090-7915811-1987.html?itemorigin=StartseiteXMAS26)
 
@@ -253,11 +253,11 @@ Freude drin
 
 ---
 
-[jetzt entdecken](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/kleine-geschenke/)
 
-[jetzt entdecken](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/kleine-geschenke/)
 
-[](https://www.strauss.com/de/de/kleine-geschenke/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/kleine-geschenke/)
 
  Geschenke
 
@@ -265,11 +265,11 @@ Freude drin
 
 ---
 
-[jetzt entdecken](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/grosse-geschenke/)
 
-[jetzt entdecken](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/grosse-geschenke/)
 
-[](https://www.strauss.com/de/de/grosse-geschenke/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/grosse-geschenke/)
 
  Geschenke
 
@@ -277,11 +277,11 @@ Freude drin
 
 ---
 
-[jetzt entdecken](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/groessere-geschenke/)
 
-[jetzt entdecken](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseiteXMAS26)
+[jetzt entdecken](https://www.strauss.com/de/de/groessere-geschenke/)
 
-[](https://www.strauss.com/de/de/groessere-geschenke/?itemorigin=startseiteXMAS26)
+[](https://www.strauss.com/de/de/groessere-geschenke/)
 
  \*Die Preisangabe bezieht sich auf den Nettopreis
 
@@ -626,7 +626,7 @@ Fanwear
 
 [alles entdecken](https://www.strauss.com/de/de/kollaborationen/)
 
-[Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/?itemorigin=StartseiteHW26)
+[Arbeitskleidung](https://www.strauss.com/de/de/arbeitskleidung/)
 
  Von Workwear
 bis Werkzeug – Über
@@ -635,13 +635,13 @@ bis Werkzeug – Über
 
 ---
 
-[Arbeitsschuhe](https://www.strauss.com/de/de/arbeitsschuhe/?itemorigin=StartseiteHW26)
+[Arbeitsschuhe](https://www.strauss.com/de/de/arbeitsschuhe/)
 
-[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/?itemorigin=StartseiteHW26)
+[Arbeitsschutz](https://www.strauss.com/de/de/arbeitsschutz/)
 
-[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/?itemorigin=StartseiteHW26)
+[Werkzeuge](https://www.strauss.com/de/de/werkzeuge/)
 
-[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/?itemorigin=StartseiteHW26)
+[Betriebsbedarf](https://www.strauss.com/de/de/betriebsbedarf/)
 
  Newsletter
 ----------
@@ -782,8 +782,8 @@ bis Werkzeug – Über
   * [Kontakt](https://www.strauss.com/de/de/Informationen/Kontakt)
   * [Häufige Fragen](https://www.strauss.com/de/de/Helpcenter-Redirect)
   * [Lexikon](https://www.strauss.com/de/de/Informationen/Lexikon/A)
-  * [Barrierefreiheitserklärung](https://www.strauss.com/de/de/Informationen/Barrierefreiheit)
-  * [Kundenbewertungen](https://www.strauss.com/de/de/Bewertungen)
+  * [Barrierefreiheits­erklärung](https://www.strauss.com/de/de/Informationen/Barrierefreiheit)
+  * [Kunden­­bewertungen](https://www.strauss.com/de/de/Bewertungen)
 
 * Zahlarten
 
