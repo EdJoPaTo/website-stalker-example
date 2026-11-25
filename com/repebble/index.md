@@ -32,15 +32,54 @@ After 9 years in stasis, we're back. Why? Because no one has created a smartwatc
 * [Pebble Watch Software Is Now 100% Open Source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [The new Pebble app is live on iOS and Android](https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android)
 
-[Check My Order Status](https://orders.repebble.com/)
-[Help](https://help.repebble.com/)
-[Service Status](https://status.repebble.com/)
+[](https://repebble.com/)
 
-[Privacy](https://repebble.com/privacy)
-[Terms](https://repebble.com/terms)
-[Twitter](https://twitter.com/pebble)
-[Bluesky](https://bsky.app/profile/ericmigi.com)
-[Podcast](https://www.youtube.com/@TickTalk-with-Eric)
-[GitHub](https://github.com/coredevices)
+* [](https://twitter.com/pebble)
+* [](https://bsky.app/profile/ericmigi.com)
+* [](https://www.youtube.com/@TickTalk-with-Eric)
+* [](https://github.com/coredevices)
 
-© 2026 Core Devices LLC. All Rights Reserved. Core Devices has no affiliation with Google.
+Shop
+----------
+
+* [Pebble Time 2](https://repebble.com/watch#pt2)
+* [Pebble Round 2](https://repebble.com/watch#pr2)
+* [Pebble Index 01](https://repebble.com/index)
+* [Pebble 2 Duo](https://repebble.com/products/pebble-2-duo)
+* [Accessories](https://repebble.com/accessories)
+
+Download
+----------
+
+* [Pebble app for iPhone](https://repebble.com/app)
+* [Pebble app for Android](https://repebble.com/app)
+* [Watchfaces & apps](https://apps.repebble.com/)
+
+Help
+----------
+
+* [Help center](https://help.repebble.com/)
+* [Order status](https://orders.repebble.com/)
+* [Shipping timelines](https://help.repebble.com/en/articles/14892130-shipping-timelines)
+* [Warranty](https://repebble.com/warranty)
+* [Service status](https://status.repebble.com/)
+*
+
+Develop
+----------
+
+* [Developer docs](https://developer.repebble.com/)
+* [CloudPebble](https://cloudpebble.repebble.com/)
+* [PebbleOS source](https://github.com/coredevices/pebbleos)
+* [Mobile app source](https://github.com/coredevices/mobileapp)
+* [Hardware designs](https://github.com/coredevices/hardware)
+
+Info
+----------
+
+* [Blog](https://repebble.com/blog)
+* [Tick Talk podcast](https://www.youtube.com/@TickTalk-with-Eric)
+* [Privacy](https://repebble.com/privacy)
+* [Terms](https://repebble.com/terms)
+
+© 2026 Core Devices LLC. All rights reserved. Core Devices has no affiliation with Google.
