@@ -13,6 +13,110 @@ Neuheiten
 
 [](https://www.strauss.com/de/de/sale/)
 
+ Black Deals
+---
+
+ bis zum 30.11.2026
+---
+
+ Heiße Deals
+für kalte Tage
+----------
+
+---
+
+ Nur solange der Vorrat reicht!
+---
+
+ Black Deals
+---
+
+ bis zum 30.11.2026
+---
+
+ Heiße Deals
+für kalte Tage
+----------
+
+---
+
+ Nur solange der Vorrat reicht!
+---
+
+ Softshelljacke e.s.ambition, Herren
+
+ 49%
+---
+
+59,38 €
+
+ 29,74 €
+---
+
+ (m. MwSt.)
+
+49,90 € **24,99 €** (o. MwSt.)
+
+[](https://www.strauss.com/de/de/black-deals/softshelljacke-e-s-ambition-3135970-17911-1498.html)
+
+ Softshelljacke e.s.ambition, Damen
+
+ 49%
+---
+
+59,38 €
+
+ 29,74 €
+---
+
+ (m. MwSt.)
+
+49,90 € **24,99 €** (o. MwSt.)
+
+[](https://www.strauss.com/de/de/black-deals/softshelljacke-e-s-ambition-damen-3140870-17907-1498.html)
+
+ %
+---
+
+ Black
+Deals
+---
+
+[jetzt sparen](https://www.strauss.com/de/de/black-deals/)
+
+[jetzt sparen](https://www.strauss.com/de/de/black-deals/)
+
+[](https://www.strauss.com/de/@Model.category://Black_Week_Deals)
+
+ Weihnachts-Deals
+---
+
+[sparen im Set](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/)
+
+[sparen im Set](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/)
+
+[](https://www.strauss.com/de/de/flexible-sets-weihnachts-sets/)
+
+ Verlängertes Umtauschrecht
+---
+
+ innerhalb der EU bis zum 31.01.2027
+
+ Neuheiten
+---
+
+[](https://www.strauss.com/de/de/geschenkideen-neuheiten/?sort=newest)
+
+ Geschenkideen
+---
+
+[](https://www.strauss.com/de/de/geschenkideen/)
+
+ % Sale
+---
+
+[](https://www.strauss.com/de/de/sale/)
+
  Neuzugänge
 ---
 
