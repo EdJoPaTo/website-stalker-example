@@ -21,9 +21,9 @@ Ihre Vorteile
 
 [Jetzt buchen](https://www.bahn.de/buchung/katalog/DEUTSCHLANDTICKET/REKABOD00010C210)
 
-Wenn Sie ein Deutschland-Ticket haben, sparen Sie auf ausgewählten ICE/IC-Strecken **60 Prozent** beim Kauf eines **Mehrfahrten-Tickets**.
+**DB Benefits** - Exklusive Vorteile bei mehr als 50 Partnern mit dem Deutschland-Ticket der DB sichern!
 
-[Mehr erfahren zur Aktion D-Ticket & Mehrfahrtenticket Plus](https://www.bahn.de/angebot/regio/aktion-dt-mehrfahrtenticket-plus)
+[Mehr über DB Benefits erfahren](https://www.dbbenefits.de/)
 
 Häufig gestellte Fragen
 ----------

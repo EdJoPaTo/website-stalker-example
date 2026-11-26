@@ -45,7 +45,7 @@ für kalte Tage
 
  Softshelljacke e.s.ambition, Herren
 
- 49%
+ \-49%
 ---
 
 59,38 €
@@ -61,7 +61,7 @@ für kalte Tage
 
  Softshelljacke e.s.ambition, Damen
 
- 49%
+ \-49%
 ---
 
 59,38 €
@@ -86,7 +86,7 @@ Deals
 
 [jetzt sparen](https://www.strauss.com/de/de/black-deals/)
 
-[](https://www.strauss.com/de/@Model.category://Black_Week_Deals)
+[](https://www.strauss.com/de/de/black-deals/)
 
  Weihnachts-Deals
 ---
@@ -250,42 +250,6 @@ Profi-Arbeitskleidung vom Experten
 ---
 
 [Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
-
- Adventskalender Edition 8
----
-
- Hinter jeder Tür ein Tool
-----------
-
----
-
-24 Türchen voller Werkzeug und Zubehör, das jedes Handwerkerherz höherschlagen lässt. Verpackt in 2 superkompakten Toolboxen – so hält die Freude das ganze Jahr über!
-
-[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html)
-
-[zum Adventskalender](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html)
-
-[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html)
-
- e.s. Adventskalender Edition 8
-
- ab 47,48 €
-
- (m. MwSt.)
-
- ab 39,90 € (ohne MwSt.)
-
-[
-
-]()
-
-[](https://www.strauss.com/de/de/werkzeuge/e-s-adventskalender-edition-8-7903890-5576700-0.html)
-
- NEU
----
-
- NEU
----
 
  Engelbird Nikolaussocke
 ---

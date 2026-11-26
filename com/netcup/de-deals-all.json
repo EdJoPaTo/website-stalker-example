@@ -293,11 +293,6 @@
 	6.96,
 	"2024-04-23T11:03:37.857Z",
 	"2026-02-05T14:29:08.100Z",
-	"Sonderangebote und Sale bei netcup",
-	"<p>Du liebst Schnäppchen? Dann haben wir eine gute Nachricht für dich! Bei netcup findest du regelmäßig Sonderangebote, Deals und saisonale Sales.</p><p>&nbsp;</p><p>So bekommst du die neueste Technik für deine Online-Projekte günstiger, als zum regulären Preis. Neben den Sales-Events, wie Black-Friday, warten zahlreiche Deals auch während des Monats auf dich, wo du dir Schnäppchen zu Root-Servern, VPS, Webhostings und Domains sichern kannst.</p><p>&nbsp;</p><p>Für nähere Infos folge uns auf Social Media, abonniere unseren Newsletter oder unsere Messenger-Kanäle und bekomme bei jeder netcup Aktion als Erster die Infos zum Start.</p>",
-	13.56,
-	"2024-04-23T11:03:33.260Z",
-	"2026-02-05T14:29:07.891Z",
 	"Beste Angebote",
 	"<p>Bei netcup setzen wir auf Transparenz und faire Preise. Unsere dauerhaft gültigen Angebote bedeuten, dass wenn du dich für einen unserer Deals entscheidest, der Aktionspreis sowie die Leistungsbeschreibung für dich dauerhaft gelten. Wir verzichten auf komplizierte Preisstrategien, sodass du dich darauf verlassen kannst, dass das, was du heute wählst, auch langfristig Bestand hat.</p>",
 	"netcup Gutschein",
@@ -309,7 +304,7 @@
 	"two_column",
 	"FAQs zu netcup Deals",
 	"whiteBlueDarkest",
-	"2026-09-22T12:41:51.830Z",
+	"2026-11-26T08:18:14.144Z",
 	"VPS 500 G12.5",
 	"Jetzt bestellen",
 	"2 vCore",
@@ -527,10 +522,10 @@
 		"$f2p5oxjtas5agf": -1,
 		"$f2vy3p3cvtlwks": -1,
 		"$f3gpemb9469bi6": -1,
+		"$f3i6ijogs4j4r7": -1,
 		"$f3kwxusenn5lg0": -1,
 		"$f3tfrw07q24cm6": -1,
 		"$faqv32bn58ppz": -1,
-		"$fauyjig013amh": -1,
 		"$fbwk8sam9j2m": -1,
 		"$fo7ooia288mmn": -1,
 		"$fpf7y7rbi3alt": -1,
@@ -553,5 +548,10 @@
 	],
 	"[GET] \"/api/v2/content/sections/2470\": 404 Not Found",
 	"http://www.netcup.com/api/v2/content/sections/2470",
+	[
+		"NuxtError"
+	],
+	"[GET] \"/api/v2/content/sections/2828\": 404 Not Found",
+	"http://www.netcup.com/api/v2/content/sections/2828",
 	{}
 ]

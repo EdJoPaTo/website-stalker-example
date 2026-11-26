@@ -267,11 +267,11 @@ Plus shipping. Duties and taxes not included in shipping. Prices in USD.
 
  Supports Matter & Thread
 
- Shop
+ Add to cart
 
  Your choice
 
-[ Shop ]()
+[ Add to cart ]()
 
  incl. VAT, plus shipping
 
@@ -1089,11 +1089,11 @@ Plus shipping. Duties and taxes not included in shipping. Prices in USD.
 
  Supports Matter & Thread
 
- Shop
+ Add to cart
 
  Your choice
 
-[ Shop ]()
+[ Add to cart ]()
 
  incl. VAT, plus shipping
 

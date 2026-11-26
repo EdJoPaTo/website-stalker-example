@@ -25,9 +25,7 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Snapshots, Remote-Konsole uvm.
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-8,26 €
+12 Monate Vertragslaufzeit, ab monatlich8,26 €
 
 9,50 €(inkl. 19% MwSt.)
 
@@ -51,9 +49,7 @@ Entdecke unschlagbare netcup Rabatte und spare bei unseren aktuellen Aktionen au
 
 * Snapshots, Remote-Konsole uvm.
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-12,93 €
+12 Monate Vertragslaufzeit, ab monatlich12,93 €
 
 14,87 €(inkl. 19% MwSt.)
 
@@ -145,15 +141,6 @@ Auf der Suche nach einer günstigen Domain für dein nächstes Projekt? Dann bis
 Ob für einen Blog, ein Online-Shop oder eine Unternehmensseite – die Auswahl an preiswerten Domains ist riesig. Doch wie finden die besten Deals zu günstigen Domains?
 
 Halte hierfür am besten Ausschau, zu unseren regemäßigen Aktionen, welche oft zeitlich begrenzt sind und mit starken Rabatten überzeugen.
-
-Sonderangebote und Sale bei netcup
-----------
-
-Du liebst Schnäppchen? Dann haben wir eine gute Nachricht für dich! Bei netcup findest du regelmäßig Sonderangebote, Deals und saisonale Sales.
-
-So bekommst du die neueste Technik für deine Online-Projekte günstiger, als zum regulären Preis. Neben den Sales-Events, wie Black-Friday, warten zahlreiche Deals auch während des Monats auf dich, wo du dir Schnäppchen zu Root-Servern, VPS, Webhostings und Domains sichern kannst.
-
-Für nähere Infos folge uns auf Social Media, abonniere unseren Newsletter oder unsere Messenger-Kanäle und bekomme bei jeder netcup Aktion als Erster die Infos zum Start.
 
 Beste Angebote
 ----------

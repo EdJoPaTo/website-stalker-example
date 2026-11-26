@@ -2853,15 +2853,15 @@ Ja. Das Angebot richtet sich an Bahnreisende. Für den Versand von Reisegepäck 
  Wer ist berechtigt, die Vorteilsangebote DB-PEP zu nutzen?
 ----------
 
-1. Inhaber einer Travel Industry Card des Deutschen Reiseverbands (DRV) – [die Sie hier bestellen können](https://www.drv.de/service/travel-industry-card-tic.html) – sowie Fahrvergünstigungsberechtigte mit DB-Konzernausweis / IdentCard
+1. Inhaber von Mitgliedsausweisen touristischer Verbände u.ä. mit Hinweis „berechtigt zur Nutzung DB-PEP – sowie Fahrvergünstigungsberechtigte mit DB-Konzernausweis / IdentCard
 
 * Ausschließlich für private Fahrten nutzbar
-* Gültig für Inhaber einer Travel Industry Card des DRV
+* Gültig für Inhaber von Mitgliedsausweisen touristischer Verbände u.ä. mit Hinweis „berechtigt zur Nutzung DB-PEP
 * Gültig für Begleitpersonen von
-  * Inhabern einer Travel Industry Card des DRV
+  * Inhaber von Mitgliedsausweisen touristischer Verbände u.ä. mit Hinweis „berechtigt zur Nutzung DB-PEP
   * Fahrvergünstigungsberechtigten mit DB-Konzernausweis / IdentCard
 
-* Gültig füt mitreisende Kinder bis 14 Jahre
+* Gültig für mitreisende Kinder bis 14 Jahre
 
 2. Info-Reisende mit besonderer Fahrtberechtigung
 

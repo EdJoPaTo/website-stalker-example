@@ -33,9 +33,7 @@ Unsere vServer Lite Tarife sind **dauerhaft preisoptimiert** und bieten ein **be
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-2,21 €
+12 Monate Vertragslaufzeit, ab monatlich2,21 €
 
 0(inkl. 19% MwSt.)
 
@@ -61,9 +59,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-6 Monate Vertragslaufzeit, ab monatlich
-
-3,69 €
+6 Monate Vertragslaufzeit, ab monatlich3,69 €
 
 0(inkl. 19% MwSt.)
 
@@ -89,9 +85,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-6 Monate Vertragslaufzeit, ab monatlich
-
-5,86 €
+6 Monate Vertragslaufzeit, ab monatlich5,86 €
 
 0(inkl. 19% MwSt.)
 
@@ -117,9 +111,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-3 Monate Vertragslaufzeit, ab monatlich
-
-9,50 €
+3 Monate Vertragslaufzeit, ab monatlich9,50 €
 
 0(inkl. 19% MwSt.)
 
@@ -145,9 +137,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-2 Monate Vertragslaufzeit, ab monatlich
-
-16,66 €
+2 Monate Vertragslaufzeit, ab monatlich16,66 €
 
 0(inkl. 19% MwSt.)
 
@@ -173,9 +163,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-1 Monat Vertragslaufzeit, ab monatlich
-
-30,86 €
+1 Monat Vertragslaufzeit, ab monatlich30,86 €
 
 0(inkl. 19% MwSt.)
 

@@ -35,9 +35,7 @@ vServer (VPS) Tarife zeichnen sich durch wählbare Ressourcen wie CPU, RAM oder 
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-8,26 €
+12 Monate Vertragslaufzeit, ab monatlich8,26 €
 
 9,50 €(inkl. 19% MwSt.)
 
@@ -63,9 +61,7 @@ Jetzt bestellen\>
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-14,50 €
+12 Monate Vertragslaufzeit, ab monatlich14,50 €
 
 16,68 €(inkl. 19% MwSt.)
 
@@ -91,9 +87,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-26,92 €
+12 Monate Vertragslaufzeit, ab monatlich26,92 €
 
 30,96 €(inkl. 19% MwSt.)
 
@@ -119,9 +113,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-45,36 €
+12 Monate Vertragslaufzeit, ab monatlich45,36 €
 
 52,16 €(inkl. 19% MwSt.)
 
@@ -147,9 +139,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-67,11 €
+12 Monate Vertragslaufzeit, ab monatlich67,11 €
 
 77,16 €(inkl. 19% MwSt.)
 

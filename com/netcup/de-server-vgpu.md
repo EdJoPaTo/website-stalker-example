@@ -35,13 +35,11 @@ SOLD OUT
 
 Alle Details ansehen
 
-bereits ab monatlich
-
-121,77 €
+bereits ab monatlich121,77 €
 
 0(inkl. 19% MwSt.)
 
-Ausverkauft\>
+Ausverkauft
 
 SOLD OUT
 
@@ -63,13 +61,11 @@ SOLD OUT
 
 Alle Details ansehen
 
-bereits ab monatlich
-
-232,43 €
+bereits ab monatlich232,43 €
 
 0(inkl. 19% MwSt.)
 
-Ausverkauft\>
+Ausverkauft
 
 Alle Features vergleichen
 

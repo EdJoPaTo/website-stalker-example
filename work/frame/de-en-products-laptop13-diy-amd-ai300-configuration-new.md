@@ -216,7 +216,7 @@ USB-C quantity
 * Choose color
 * Aluminum - Silver
 * Plastic - Orange
-* Plastic - Lavender (Out of stock)
+* Plastic - Lavender
 * Plastic - Sage
 * Plastic - Bubblegum
 * Plastic - Black

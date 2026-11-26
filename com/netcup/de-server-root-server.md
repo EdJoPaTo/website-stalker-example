@@ -41,9 +41,7 @@ Wer sowohl die Vorteile dezidierter Server als auch virtualisierter [Server](htt
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-12,93 €
+12 Monate Vertragslaufzeit, ab monatlich12,93 €
 
 14,87 €(inkl. 19% MwSt.)
 
@@ -71,9 +69,7 @@ Empfohlen
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-21,73 €
+12 Monate Vertragslaufzeit, ab monatlich21,73 €
 
 25,00 €(inkl. 19% MwSt.)
 
@@ -99,9 +95,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-40,70 €
+12 Monate Vertragslaufzeit, ab monatlich40,70 €
 
 46,81 €(inkl. 19% MwSt.)
 
@@ -127,9 +121,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-77,83 €
+12 Monate Vertragslaufzeit, ab monatlich77,83 €
 
 89,49 €(inkl. 19% MwSt.)
 
@@ -155,9 +147,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-148,42 €
+12 Monate Vertragslaufzeit, ab monatlich148,42 €
 
 170,69 €(inkl. 19% MwSt.)
 
@@ -183,9 +173,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-216,89 €
+12 Monate Vertragslaufzeit, ab monatlich216,89 €
 
 249,43 €(inkl. 19% MwSt.)
 
@@ -211,9 +199,7 @@ Alle Details ansehen
 
 Alle Details ansehen
 
-12 Monate Vertragslaufzeit, ab monatlich
-
-289,46 €
+12 Monate Vertragslaufzeit, ab monatlich289,46 €
 
 332,88 €(inkl. 19% MwSt.)
 
