@@ -1,16 +1,16 @@
 Fahrtverlauf und aktuelle Wagenreihung in der App DB Navigator
 ==========
 
-In den Verbindungs- bzw. Reisedetails können Sie über den Button „Fahrtinformationen“ ganz einfach den gesamten Fahrtverlauf eines Zuges und die aktuelle Wagenreihung an Ihrem Einstieg- und Umstiegsbahnhof abrufen.
+In den Verbindungs- bzw. Reisedetails können Sie über den Button "Fahrtinformationen" ganz einfach den gesamten Fahrtverlauf eines Zuges und die aktuelle Wagenreihung an Ihrem Einstieg- und Umstiegsbahnhof abrufen.
 
 Fahrtverlauf und aktuelle Wagenreihung in der App DB Navigator
 
-In den Verbindungs- bzw. Reisedetails können Sie über den Button „Fahrtinformationen“ ganz einfach den gesamten Fahrtverlauf eines Zuges und die aktuelle Wagenreihung an Ihrem Einstieg- und Umstiegsbahnhof abrufen.
+In den Verbindungs- bzw. Reisedetails können Sie über den Button "Fahrtinformationen" ganz einfach den gesamten Fahrtverlauf eines Zuges und die aktuelle Wagenreihung an Ihrem Einstieg- und Umstiegsbahnhof abrufen.
 
 Fahrtverlauf
 ----------
 
-Der Fahrtverlauf zeigt Ihnen alle Haltebahnhöfe des Zuges an. Außerdem sehen Sie dort, an welchen Gleisen der Zug an jedem Haltebahnhof hält. Am Reisetag sind auch Echtzeit-Informationen für jeden Haltebahnhof sichtbar. Außerdem wird Ihnen die Auslastungsinformation für einzelne Abschnitte angezeigt. Unterhalb des Fahrtverlaufs finden Sie den Button „Auf Karte anzeigen“. Darüber können Sie sich den gesamten Fahrtverlauf grafisch auf der Karte ansehen.
+Der Fahrtverlauf zeigt Ihnen alle Haltebahnhöfe des Zuges mit den jeweiligen Gleisen sowie die Auslastungsinformation für einzelne Abschnitte. Am Reisetag sind auch Echtzeit-Informationen für jeden Haltebahnhof sichtbar. Auf der Karte sehen Sie den Fahrtverlauf des Zuges sowie die Echtzeit-Position, sofern für diesen Zug Positionsdaten verfügbar sind. Um die Karte zu öffnen, klicken Sie oben rechts auf das Kartensymbol. Alternativ klicken Sie unterhalb des Fahrtverlaufs auf den Button "Auf Karte anzeigen".
 
 Wagenreihung
 ----------
