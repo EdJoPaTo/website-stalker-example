@@ -20964,12 +20964,12 @@ Um Scooter und Fahrräder in der App DB Navigator anzuzeigen, tippen Sie im Men�
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-sind-fahrraeder-scooter)
 
- Wo verwalte ich mein Abo?
+ Wo verwalte ich mein Bahn-Abo?
 ----------
 
-Verwalten Sie Ihr Abo und Ihre persönlichen Daten im digitalen Aboportal der Bahn.
+Verwalten Sie Ihr Abo und Ihre persönlichen Daten in der digitalen Aboverwaltung der Deutschen Bahn.
 
-* [Zum Aboportal](https://abo.bahn.de/portal/#/)
+* [Zur Aboverwaltung im DB Kundenkonto](https://www.bahn.de/buchung/kundenkonto/abos)
 
 [Diese Information in neuem Tab öffnen](https://www.bahn.de/faq/wo-verwalte-ich-mein-abo)
 

@@ -57,7 +57,7 @@ Am Bahnhof
 
 Am Reisetag in der App nachsehen, in welchem Bereich des Gleises welcher Wagen hält.
 
-[Zu den Fahrtinformationen](https://www.bahn.de/service/zug/fahrtinformationen)
+[Zu den Fahrtinformationen](https://www.bahn.de/service/zug/wifionice-wlan-ice-login/fahrtinformationen)
 
 ### DB Lounge ###
 
