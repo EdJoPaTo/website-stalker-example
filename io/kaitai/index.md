@@ -2,6 +2,8 @@
 
 [Download](#download)
 
+ 2.0.0-alpha.1 (pre-release) [released 2026-11-26](/news/2026/11/26/kaitai-struct-v2.0.0-alpha.1-released.html)
+
 Kaitai Struct
 ==========
 

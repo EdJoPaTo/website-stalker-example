@@ -1,6 +1,7 @@
 Latest news
 ==========
 
+* [Kaitai Struct v2.0.0-alpha.1 released](http://kaitai.io/news/2026/11/26/kaitai-struct-v2.0.0-alpha.1-released.html)
 * [Kaitai Struct v0.11 released](http://kaitai.io/news/2025/09/07/kaitai-struct-v0.11-released.html)
 * [Web IDE improvements](http://kaitai.io/news/2024/02/21/web-ide-improvements.html)
 * [Kaitai Struct v0.10 released](http://kaitai.io/news/2022/07/08/kaitai-struct-v0.10-released.html)

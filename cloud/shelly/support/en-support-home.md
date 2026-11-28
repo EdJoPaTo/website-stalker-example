@@ -123,5 +123,5 @@ GEN 2/3/4 Devices Changelog BLU Devices Changelog Shelly APP Changelog
 [Shelly device is shown as offline in Shelly Cloud Application, but it is powered. What is the problem? →](https://support.shelly.cloud/en/support/solutions/articles/103000046374-shelly-device-is-shown-as-offline-in-shelly-cloud-application-but-it-is-powered-what-is-the-problem)
 [Comparison of Shelly Gen1, Gen2, Gen3 and Gen4 Devices →](https://support.shelly.cloud/en/support/solutions/articles/103000316073-comparison-of-shelly-gen1-gen2-gen3-and-gen4-devices)
 [Range extender functionality →](https://support.shelly.cloud/en/support/solutions/articles/103000222505-range-extender-functionality)
-[Do you support Matter ? →](https://support.shelly.cloud/en/support/solutions/articles/103000060376-do-you-support-matter-)
 [Shelly Devices and Wi-Fi Signals →](https://support.shelly.cloud/en/support/solutions/articles/103000221396-shelly-devices-and-wi-fi-signals)
+[Do you support Matter ? →](https://support.shelly.cloud/en/support/solutions/articles/103000060376-do-you-support-matter-)
