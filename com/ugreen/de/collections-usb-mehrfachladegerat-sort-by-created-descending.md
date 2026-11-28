@@ -8,13 +8,13 @@ Bestseller
 
 [UGREEN Nexode X USB-C Ladegerät (100W, 3-Port , GaN)](https://de.ugreen.com/products/35038)
 
- 48h Flash Sale
+ 48 h Blitzangebote
 
 [UGREEN Uno Ladegerät 65W](https://de.ugreen.com/products/uno-65w-ladegeraet-schwarz)
 
 [UGREEN Nexode Schnellladegerät (35W, 2-Port, GaN)](https://de.ugreen.com/products/15539)
 
- 48h Flash Sale
+ 48 h Blitzangebote
 
 [UGREEN Nexode Pro USB-C Mini Ladegerät (65W, 3-Ports, GaN)](https://de.ugreen.com/products/nexode-pro-65w-mini-gan-ladegerat)
 
